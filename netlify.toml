@@ -1,0 +1,5 @@
+# Netlify configuration file
+# This tells Netlify to publish the "frontend" folder instead of the root folder.
+
+[build]
+  publish = "frontend"
