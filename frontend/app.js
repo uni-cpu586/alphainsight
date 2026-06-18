@@ -94,7 +94,7 @@ document.addEventListener("DOMContentLoaded", () => {
                         if (group.stocks && group.stocks.length > 0) {
                             group.stocks.forEach(stock => {
                                 stocksHtml += `
-                                    <div class="buyer-stock-item" style="margin-bottom: 8px;">
+                                    <div class="buyer-stock-item">
                                         <span class="buyer-stock-name">${stock.stock_name} (${stock.ticker})</span>
                                         <span class="buyer-stock-desc">${stock.description}</span>
                                     </div>
