@@ -11,9 +11,11 @@ document.addEventListener("DOMContentLoaded", () => {
     const dateEl = document.getElementById("insight-date");
     
     // Stock Uncle Elements
-    const uncleSentimentEl = document.getElementById("uncle-sentiment");
+    const uncleReportHeaderEl = document.getElementById("uncle-report-header");
+    const buyerGroupsContainerEl = document.getElementById("buyer-groups-container");
+    const strategiesContainerEl = document.getElementById("strategies-container");
+    const uncleSummaryTextEl = document.getElementById("uncle-summary-text");
     const brokeragesListEl = document.getElementById("brokerages-list");
-    const uncleStrategyEl = document.getElementById("uncle-strategy");
     
     // Linker Elements
     const linkerInsightEl = document.getElementById("linker-insight-text");
@@ -60,7 +62,9 @@ document.addEventListener("DOMContentLoaded", () => {
         .catch(err => {
             console.error("Error loading insights:", err);
             // Show errors gracefully
-            uncleSentimentEl.textContent = "無法載入最新資料，請確保已經跑過 Python 腳本產生 JSON 檔案。";
+            if (uncleReportHeaderEl) {
+                uncleReportHeaderEl.textContent = "無法載入最新資料，請確保已經跑過 Python 腳本產生 JSON 檔案。";
+            }
             linkerInsightEl.textContent = "讀取失敗，資料庫未就緒。";
             blindPassageEl.textContent = "資料載入失敗。";
         });
@@ -73,28 +77,91 @@ document.addEventListener("DOMContentLoaded", () => {
         // 1. Render Stock Uncle
         const uncleData = insightData.stock_uncle_insight;
         if (uncleData) {
-            uncleSentimentEl.textContent = uncleData.market_sentiment;
-            uncleStrategyEl.textContent = uncleData.overall_strategy;
+            // Render report header (or date_header)
+            if (uncleReportHeaderEl) {
+                uncleReportHeaderEl.textContent = uncleData.date_header || "法人與主力大戶主要買超股票";
+            }
+
+            // Render buyer groups
+            if (buyerGroupsContainerEl) {
+                buyerGroupsContainerEl.innerHTML = "";
+                if (uncleData.buyer_groups && uncleData.buyer_groups.length > 0) {
+                    uncleData.buyer_groups.forEach(group => {
+                        const groupCard = document.createElement("div");
+                        groupCard.className = "buyer-group-card";
+                        
+                        let stocksHtml = "";
+                        if (group.stocks && group.stocks.length > 0) {
+                            group.stocks.forEach(stock => {
+                                stocksHtml += `
+                                    <div class="buyer-stock-item" style="margin-bottom: 8px;">
+                                        <span class="buyer-stock-name">${stock.stock_name} (${stock.ticker})</span>
+                                        <span class="buyer-stock-desc">${stock.description}</span>
+                                    </div>
+                                `;
+                            });
+                        } else {
+                            stocksHtml = "<div class='buyer-stock-item'>無特定個股分析</div>";
+                        }
+
+                        groupCard.innerHTML = `
+                            <h4 class="buyer-group-title">${group.group_title}</h4>
+                            <div class="buyer-stocks-list">
+                                ${stocksHtml}
+                            </div>
+                        `;
+                        buyerGroupsContainerEl.appendChild(groupCard);
+                    });
+                } else {
+                    buyerGroupsContainerEl.innerHTML = "<div class='loading-spinner'>今日無分組數據</div>";
+                }
+            }
+
+            // Render strategies
+            if (strategiesContainerEl) {
+                strategiesContainerEl.innerHTML = "";
+                if (uncleData.strategies && uncleData.strategies.length > 0) {
+                    uncleData.strategies.forEach(strategy => {
+                        const strategyCard = document.createElement("div");
+                        strategyCard.className = "strategy-card";
+                        strategyCard.innerHTML = `
+                            <h4 class="strategy-title">${strategy.strategy_title}</h4>
+                            <p class="strategy-content">${strategy.strategy_content}</p>
+                        `;
+                        strategiesContainerEl.appendChild(strategyCard);
+                    });
+                } else {
+                    strategiesContainerEl.innerHTML = "<div class='loading-spinner'>今日無操盤策略推導</div>";
+                }
+            }
+
+            // Render summary
+            if (uncleSummaryTextEl) {
+                uncleSummaryTextEl.textContent = uncleData.summary || "棄高換低、防禦與題材並重。";
+            }
             
-            brokeragesListEl.innerHTML = "";
-            if (uncleData.top_brokerages_analysis && uncleData.top_brokerages_analysis.length > 0) {
-                uncleData.top_brokerages_analysis.forEach(item => {
-                    const isSell = item.action.includes("賣") || item.action.includes("sell") || item.action.includes("出貨");
-                    const actionClass = isSell ? "action-sell" : "action-buy";
-                    
-                    const card = document.createElement("div");
-                    card.className = "brokerage-card";
-                    card.innerHTML = `
-                        <div class="brokerage-card-meta">
-                            <span class="brokerage-name">${item.branch_name}</span>
-                            <span class="brokerage-action ${actionClass}">${item.action}</span>
-                        </div>
-                        <p class="uncle-logic-text">${item.uncle_logic}</p>
-                    `;
-                    brokeragesListEl.appendChild(card);
-                });
-            } else {
-                brokeragesListEl.innerHTML = `<div class="loading-spinner">今日無特殊分點進出分析</div>`;
+            // Render brokerages list (retained as supplement)
+            if (brokeragesListEl) {
+                brokeragesListEl.innerHTML = "";
+                if (uncleData.top_brokerages_analysis && uncleData.top_brokerages_analysis.length > 0) {
+                    uncleData.top_brokerages_analysis.forEach(item => {
+                        const isSell = item.action.includes("賣") || item.action.includes("sell") || item.action.includes("出貨");
+                        const actionClass = isSell ? "action-sell" : "action-buy";
+                        
+                        const card = document.createElement("div");
+                        card.className = "brokerage-card";
+                        card.innerHTML = `
+                            <div class="brokerage-card-meta">
+                                <span class="brokerage-name">${item.branch_name}</span>
+                                <span class="brokerage-action ${actionClass}">${item.action}</span>
+                            </div>
+                            <p class="uncle-logic-text">${item.uncle_logic}</p>
+                        `;
+                        brokeragesListEl.appendChild(card);
+                    });
+                } else {
+                    brokeragesListEl.innerHTML = `<div class="loading-spinner">今日無特殊分點進出分析</div>`;
+                }
             }
         }
 

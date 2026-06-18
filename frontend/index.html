@@ -58,23 +58,37 @@
                                 <i class="fa-solid fa-user-ninja"></i>
                             </div>
                             <div class="sentiment-speech">
-                                <p id="uncle-sentiment">正在逆向分析主力籌碼中...</p>
+                                <h3 id="uncle-report-header" class="report-header">正在逆向分析主力籌碼中...</h3>
                             </div>
+                        </div>
+
+                        <!-- Buyer Groups Section -->
+                        <div class="uncle-report-section">
+                            <div id="buyer-groups-container" class="buyer-groups-grid">
+                                <div class="loading-spinner"><i class="fa-solid fa-circle-notch fa-spin"></i> 正在生成大戶分組明細...</div>
+                            </div>
+                        </div>
+
+                        <!-- Strategic Rationale Section -->
+                        <div class="uncle-report-section strategies-section">
+                            <h3><i class="fa-solid fa-lightbulb"></i> 推測：主力大戶為什麼這樣買？</h3>
+                            <div id="strategies-container" class="strategies-grid">
+                                <div class="loading-spinner"><i class="fa-solid fa-circle-notch fa-spin"></i> 正在剖析大戶操盤策略...</div>
+                            </div>
+                        </div>
+
+                        <!-- Summary Section -->
+                        <div class="uncle-summary-box" id="uncle-summary-container">
+                            <h4><i class="fa-solid fa-quote-left"></i> 自營部叔叔總結</h4>
+                            <p id="uncle-summary-text">正在整合操盤思維...</p>
                         </div>
 
                         <!-- Top Brokerage Analysis list -->
-                        <div class="analysis-group">
-                            <h3><i class="fa-solid fa-building-columns"></i> 關鍵分點進出逆向推理</h3>
+                        <div class="analysis-group brokerage-tracker-group">
+                            <h3 class="brokerage-tracker-title"><i class="fa-solid fa-building-columns"></i> 關鍵主力分點進出逆向推理</h3>
                             <div id="brokerages-list" class="brokerage-grid">
-                                <!-- Dynamically loaded -->
                                 <div class="loading-spinner"><i class="fa-solid fa-circle-notch fa-spin"></i> 載入分點資料中...</div>
                             </div>
-                        </div>
-
-                        <!-- Overall strategy -->
-                        <div class="uncle-strategy-box">
-                            <h4><i class="fa-solid fa-bullseye"></i> 叔叔的白話操盤建議</h4>
-                            <p id="uncle-strategy">等待分析...</p>
                         </div>
                     </div>
                 </section>

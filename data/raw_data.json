@@ -2,7 +2,7 @@
   "date": "2026-06-18",
   "stock_market": {
     "net_buy_sell_rank": {
-      "foreign_investors": [
+      "foreign_buy": [
         {
           "rank": 1,
           "stock_name": "長榮航",
@@ -20,9 +20,113 @@
           "stock_name": "華航",
           "ticker": "2610",
           "net_buy_shares": 21447262
+        },
+        {
+          "rank": 4,
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 19476048
+        },
+        {
+          "rank": 5,
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_buy_shares": 19005217
+        },
+        {
+          "rank": 6,
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 13375843
+        },
+        {
+          "rank": 7,
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 10037961
+        },
+        {
+          "rank": 8,
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 9936432
+        },
+        {
+          "rank": 9,
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_buy_shares": 9857738
+        },
+        {
+          "rank": 10,
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_buy_shares": 9295376
         }
       ],
-      "investment_trust": [
+      "foreign_sell": [
+        {
+          "rank": 1,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -45460304
+        },
+        {
+          "rank": 2,
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -31701807
+        },
+        {
+          "rank": 3,
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_sell_shares": -15803449
+        },
+        {
+          "rank": 4,
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -9933250
+        },
+        {
+          "rank": 5,
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_sell_shares": -9767732
+        },
+        {
+          "rank": 6,
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_sell_shares": -9312180
+        },
+        {
+          "rank": 7,
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -8995425
+        },
+        {
+          "rank": 8,
+          "stock_name": "華新",
+          "ticker": "1605",
+          "net_sell_shares": -8124814
+        },
+        {
+          "rank": 9,
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_sell_shares": -7931654
+        },
+        {
+          "rank": 10,
+          "stock_name": "台灣高鐵",
+          "ticker": "2633",
+          "net_sell_shares": -7342490
+        }
+      ],
+      "trust_buy": [
         {
           "rank": 1,
           "stock_name": "聯電",
@@ -40,9 +144,113 @@
           "stock_name": "兆豐金",
           "ticker": "2886",
           "net_buy_shares": 17353069
+        },
+        {
+          "rank": 4,
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 10909121
+        },
+        {
+          "rank": 5,
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_buy_shares": 8061767
+        },
+        {
+          "rank": 6,
+          "stock_name": "遠東銀",
+          "ticker": "2845",
+          "net_buy_shares": 7815000
+        },
+        {
+          "rank": 7,
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 7737936
+        },
+        {
+          "rank": 8,
+          "stock_name": "台灣高鐵",
+          "ticker": "2633",
+          "net_buy_shares": 7420000
+        },
+        {
+          "rank": 9,
+          "stock_name": "上海商銀",
+          "ticker": "5876",
+          "net_buy_shares": 5074000
+        },
+        {
+          "rank": 10,
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 4935093
         }
       ],
-      "dealer": [
+      "trust_sell": [
+        {
+          "rank": 1,
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_sell_shares": -11667700
+        },
+        {
+          "rank": 2,
+          "stock_name": "啟碁",
+          "ticker": "6285",
+          "net_sell_shares": -6514000
+        },
+        {
+          "rank": 3,
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -5663047
+        },
+        {
+          "rank": 4,
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_sell_shares": -4883817
+        },
+        {
+          "rank": 5,
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_sell_shares": -4380955
+        },
+        {
+          "rank": 6,
+          "stock_name": "群益證",
+          "ticker": "6005",
+          "net_sell_shares": -4120059
+        },
+        {
+          "rank": 7,
+          "stock_name": "寶成",
+          "ticker": "9904",
+          "net_sell_shares": -2883608
+        },
+        {
+          "rank": 8,
+          "stock_name": "南電",
+          "ticker": "8046",
+          "net_sell_shares": -2327000
+        },
+        {
+          "rank": 9,
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_sell_shares": -2247330
+        },
+        {
+          "rank": 10,
+          "stock_name": "聯強",
+          "ticker": "2347",
+          "net_sell_shares": -2139915
+        }
+      ],
+      "dealer_buy": [
         {
           "rank": 1,
           "stock_name": "群創",
@@ -60,6 +268,110 @@
           "stock_name": "元晶",
           "ticker": "6443",
           "net_buy_shares": 2568764
+        },
+        {
+          "rank": 4,
+          "stock_name": "兆赫",
+          "ticker": "2485",
+          "net_buy_shares": 1872000
+        },
+        {
+          "rank": 5,
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_buy_shares": 1491589
+        },
+        {
+          "rank": 6,
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 1287000
+        },
+        {
+          "rank": 7,
+          "stock_name": "廣宇",
+          "ticker": "2328",
+          "net_buy_shares": 1222000
+        },
+        {
+          "rank": 8,
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 1214000
+        },
+        {
+          "rank": 9,
+          "stock_name": "彩晶",
+          "ticker": "6116",
+          "net_buy_shares": 1187000
+        },
+        {
+          "rank": 10,
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_buy_shares": 1145000
+        }
+      ],
+      "dealer_sell": [
+        {
+          "rank": 1,
+          "stock_name": "長榮",
+          "ticker": "2603",
+          "net_sell_shares": -2962008
+        },
+        {
+          "rank": 2,
+          "stock_name": "國產",
+          "ticker": "2504",
+          "net_sell_shares": -1337350
+        },
+        {
+          "rank": 3,
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_sell_shares": -725497
+        },
+        {
+          "rank": 4,
+          "stock_name": "新興",
+          "ticker": "2605",
+          "net_sell_shares": -553000
+        },
+        {
+          "rank": 5,
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_sell_shares": -548878
+        },
+        {
+          "rank": 6,
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_sell_shares": -490387
+        },
+        {
+          "rank": 7,
+          "stock_name": "晶豪科",
+          "ticker": "3006",
+          "net_sell_shares": -471059
+        },
+        {
+          "rank": 8,
+          "stock_name": "盟立",
+          "ticker": "2464",
+          "net_sell_shares": -466782
+        },
+        {
+          "rank": 9,
+          "stock_name": "智原",
+          "ticker": "3035",
+          "net_sell_shares": -443000
+        },
+        {
+          "rank": 10,
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -437000
         }
       ]
     },
@@ -85,8 +397,8 @@
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "鴻海",
-        "shares": 800000
+        "target": "聯電",
+        "shares": 13638091
       }
     ]
   },
@@ -102,21 +414,21 @@
     },
     {
       "id": "news_2",
-      "title": "IBD Stock Of The Day: AI Data Center, Power Grid Company Trades In Buy Zone",
+      "title": "Dear SpaceX Stock Fans, Mark Your Calendars for June 16",
       "source": "Yahoo Finance",
-      "link": "https://www.investors.com/research/ibd-stock-of-the-day/quanta-services-pwr-stock-of-the-day-ai-data-centers/?src=A00220&yptr=yahoo",
-      "summary": "IBD Stock Of The Day: AI Data Center, Power Grid Company Trades In Buy Zone",
-      "full_text": "IBD Stock Of The Day: AI Data Center, Power Grid Company Trades In Buy Zone",
-      "published": "2026-06-16T17:01:12Z"
+      "link": "https://finance.yahoo.com/markets/options/articles/dear-spacex-stock-fans-mark-180339006.html",
+      "summary": "Dear SpaceX Stock Fans, Mark Your Calendars for June 16",
+      "full_text": "Following a blockbuster debut on the exchanges at the end of last week, options on SpaceX (SPCX) shares will start trading today, if a Reuters report is to be believed. SPCX stock has rocketed close to 43% in just two full trading sessions, and with options on it soon going live, new avenues open up for the Elon Musk-led company's optimists and pessimists alike.\n\nAlong with that, risk management is another aspect that will become available for investors.\n\nDell Stock Looks Cheap Here With Higher Analyst Forecasts - Short Put Plays Are Attractive\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nOptions are financial instruments that are primarily used as risk management measures for the underlying asset. Calls and puts are the two most popular forms of options on any asset. While calls are an option to buy the underlying asset at a predetermined price, puts are the same, just for selling. Essentially, calls are a bullish bet on the asset, while puts are bearish ones.\n\nHere, investors convinced of SpaceX's trajectory and future value can enhance their existing positions on the company by buying calls, while the skeptics expecting an inevitable crash can go long on puts and enjoy the downside. Moreover, as a risk management tool, SpaceX bulls can buy puts to protect them from a downside, while bears can, conversely, buy calls.\n\nMeanwhile, those expecting volatility in SPCX stock can opt for numerous volatility strategies involving options to benefit from the same. Finally, options can also act as an indicator of sentiments around the stock.\n\nNow that options for SpaceX have been established, a peek at history to take a look at how Musk's “other” company's stock behaved following the start of options trading on it should be interesting.",
+      "published": "2026-06-16T18:03:39Z"
     },
     {
       "id": "news_3",
-      "title": "Corn Showing Mixed Midday Trade",
+      "title": "Wall Street Bullish on AtaiBeckley (ATAI), Here’s Why",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/corn-showing-mixed-midday-trade-170825010.html",
-      "summary": "Corn Showing Mixed Midday Trade",
-      "full_text": "Corn futures are trading with fractional losses to penny gains so far on Tuesday’s midday. The CmdtyView national average Cash Corn price was down 1/2 cents at $3.84 3/4.\n\nWeekly Crop Progress data from after the close on Monday showed 94% of the US corn crop emerged by June 14, 1% above the 5-year average. US condition ratings were 68% in good to excellent condition, up 1 percentage point from the previous week. The Brugler500 index was up 1 point on higher excellent ratings to 373.\n\nRain in the Plains Make Grain, So Bears Are in Control of Corn, Soybean, and Wheat Prices Now\n\nThe forecast continues to see precipitation over a majority of the US growing region, with at least an inch expected in much of the Western Corn Belt. Moving east and south, rainfall totals of 2 to 4 inches are seen from eastern NE to western PA and southern areas of MN/WI/MI to the Gulf.\n\nOn the date of publication, Austin Schroeder did not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. This article was originally published on Barchart.com",
-      "published": "2026-06-16T17:08:25Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-ataibeckley-atai-184539595.html",
+      "summary": "Wall Street Bullish on AtaiBeckley (ATAI), Here’s Why",
+      "full_text": "​AtaiBeckley Inc. (NASDAQ:ATAI) is one of the Best Penny Stocks That Could Skyrocket in 2026. Wall Street is bullish on the stock as all 14 analysts covering the stock maintain a Buy rating, and their 12-month average price target suggests more than 280% upside from the current level.\n\n​Recently, on June 8, H.C. Wainwright reiterated its Buy rating and $25 price target on AtaiBeckley Inc. (NASDAQ:ATAI). The rating comes after the firm met the company’s management on June 2. The discussion reinforced the firm’s conviction that BPL-003, which is an intranasal formulation of 5-MeO-DMT, remains the primary driver for the company. Moreover, management told the firm that they are preparing to launch their Phase 3 program, called ReConnection, targeting treatment-resistant depression.\n\n​H.C. Wainwright highlighted several practical advantages of BPL-003’s profile, including an 8 mg dose that balances efficacy and tolerability, a short in-clinic session duration, flexible retreatment options, and clinic economics that fit neatly into a two-hour interventional psychiatry model. The firm believes that these positive points make it operationally attractive for treatment centers.\n\nAtaiBeckley Inc. (NASDAQ:ATAI) is a clinical-stage biopharmaceutical company focused on developing treatments for mental health disorders.\n\nWhile we acknowledge the potential of ATAI as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT:  10 Good Stocks to Invest in Now and 10 Most Undervalued US Stocks According to Hedge Funds.",
+      "published": "2026-06-16T18:45:39Z"
     }
   ]
 }

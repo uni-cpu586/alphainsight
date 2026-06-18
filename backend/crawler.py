@@ -115,20 +115,32 @@ def parse_twse_data(json_data):
     # Taiwan stocks are mostly 4 digits (e.g. 2330)
     filtered_rows = [r for r in rows if len(r["ticker"]) == 4 and r["ticker"].isdigit()]
     
-    # Sort and get top 3 for each
-    foreign_sorted = sorted(filtered_rows, key=lambda x: x["foreign"], reverse=True)
-    foreign_top = [{"rank": i+1, "stock_name": x["stock_name"], "ticker": x["ticker"], "net_buy_shares": x["foreign"]} for i, x in enumerate(foreign_sorted[:3])]
+    # Sort and get top 10 buy/sell for each
+    foreign_sorted_desc = sorted(filtered_rows, key=lambda x: x["foreign"], reverse=True)
+    foreign_sorted_asc = sorted(filtered_rows, key=lambda x: x["foreign"])
     
-    trust_sorted = sorted(filtered_rows, key=lambda x: x["trust"], reverse=True)
-    trust_top = [{"rank": i+1, "stock_name": x["stock_name"], "ticker": x["ticker"], "net_buy_shares": x["trust"]} for i, x in enumerate(trust_sorted[:3])]
+    trust_sorted_desc = sorted(filtered_rows, key=lambda x: x["trust"], reverse=True)
+    trust_sorted_asc = sorted(filtered_rows, key=lambda x: x["trust"])
     
-    dealer_sorted = sorted(filtered_rows, key=lambda x: x["dealer"], reverse=True)
-    dealer_top = [{"rank": i+1, "stock_name": x["stock_name"], "ticker": x["ticker"], "net_buy_shares": x["dealer"]} for i, x in enumerate(dealer_sorted[:3])]
+    dealer_sorted_desc = sorted(filtered_rows, key=lambda x: x["dealer"], reverse=True)
+    dealer_sorted_asc = sorted(filtered_rows, key=lambda x: x["dealer"])
+    
+    foreign_buy = [{"rank": i+1, "stock_name": x["stock_name"], "ticker": x["ticker"], "net_buy_shares": x["foreign"]} for i, x in enumerate(foreign_sorted_desc[:10])]
+    foreign_sell = [{"rank": i+1, "stock_name": x["stock_name"], "ticker": x["ticker"], "net_sell_shares": x["foreign"]} for i, x in enumerate(foreign_sorted_asc[:10])]
+    
+    trust_buy = [{"rank": i+1, "stock_name": x["stock_name"], "ticker": x["ticker"], "net_buy_shares": x["trust"]} for i, x in enumerate(trust_sorted_desc[:10])]
+    trust_sell = [{"rank": i+1, "stock_name": x["stock_name"], "ticker": x["ticker"], "net_sell_shares": x["trust"]} for i, x in enumerate(trust_sorted_asc[:10])]
+    
+    dealer_buy = [{"rank": i+1, "stock_name": x["stock_name"], "ticker": x["ticker"], "net_buy_shares": x["dealer"]} for i, x in enumerate(dealer_sorted_desc[:10])]
+    dealer_sell = [{"rank": i+1, "stock_name": x["stock_name"], "ticker": x["ticker"], "net_sell_shares": x["dealer"]} for i, x in enumerate(dealer_sorted_asc[:10])]
     
     return {
-        "foreign_investors": foreign_top,
-        "investment_trust": trust_top,
-        "dealer": dealer_top
+        "foreign_buy": foreign_buy,
+        "foreign_sell": foreign_sell,
+        "trust_buy": trust_buy,
+        "trust_sell": trust_sell,
+        "dealer_buy": dealer_buy,
+        "dealer_sell": dealer_sell
     }
 
 def generate_brokerage_branches(net_buy_sell):
@@ -136,7 +148,7 @@ def generate_brokerage_branches(net_buy_sell):
     
     # Helper to generate branch simulation
     # Foreign buyer top 1 -> Goldman Sachs
-    foreign_buy = net_buy_sell.get("foreign_investors", [])
+    foreign_buy = net_buy_sell.get("foreign_buy", [])
     if foreign_buy and foreign_buy[0]["net_buy_shares"] > 0:
         branches.append({
             "branch_name": "美商高盛",
@@ -146,7 +158,7 @@ def generate_brokerage_branches(net_buy_sell):
         })
         
     # Dealer top 1 -> KGI Taipei
-    dealer_buy = net_buy_sell.get("dealer", [])
+    dealer_buy = net_buy_sell.get("dealer_buy", [])
     if dealer_buy:
         action = "buy" if dealer_buy[0]["net_buy_shares"] > 0 else "sell"
         branches.append({
@@ -157,7 +169,7 @@ def generate_brokerage_branches(net_buy_sell):
         })
         
     # Trust top 1 -> Yuanta
-    trust_buy = net_buy_sell.get("investment_trust", [])
+    trust_buy = net_buy_sell.get("trust_buy", [])
     if trust_buy and trust_buy[0]["net_buy_shares"] > 0:
         branches.append({
             "branch_name": "元大投信",
@@ -167,13 +179,13 @@ def generate_brokerage_branches(net_buy_sell):
         })
         
     # Add a foreign seller if available
-    # We can search foreign_sorted for the lowest negative values
-    if foreign_buy:
+    foreign_sell = net_buy_sell.get("foreign_sell", [])
+    if foreign_sell:
         branches.append({
             "branch_name": "摩根大通",
             "action": "sell",
-            "target": foreign_buy[-1]["stock_name"] if "net_buy_shares" in foreign_buy[-1] and foreign_buy[-1]["net_buy_shares"] < 0 else "鴻海",
-            "shares": 800000
+            "target": foreign_sell[0]["stock_name"],
+            "shares": int(abs(foreign_sell[0]["net_sell_shares"]) * 0.3)
         })
         
     return branches
