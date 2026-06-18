@@ -1,0 +1,12 @@
+# Environment variables (Contains private Gemini API Key)
+.env
+
+# Python caching & Virtual Environments
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS temporary files
+.DS_Store
+Thumbs.db

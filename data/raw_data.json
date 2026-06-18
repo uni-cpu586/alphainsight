@@ -1,0 +1,122 @@
+{
+  "date": "2026-06-18",
+  "stock_market": {
+    "net_buy_sell_rank": {
+      "foreign_investors": [
+        {
+          "rank": 1,
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 102133693
+        },
+        {
+          "rank": 2,
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 75931718
+        },
+        {
+          "rank": 3,
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 21447262
+        }
+      ],
+      "investment_trust": [
+        {
+          "rank": 1,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 19556148
+        },
+        {
+          "rank": 2,
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 18791470
+        },
+        {
+          "rank": 3,
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 17353069
+        }
+      ],
+      "dealer": [
+        {
+          "rank": 1,
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 5699997
+        },
+        {
+          "rank": 2,
+          "stock_name": "寶成",
+          "ticker": "9904",
+          "net_buy_shares": 3621769
+        },
+        {
+          "rank": 3,
+          "stock_name": "元晶",
+          "ticker": "6443",
+          "net_buy_shares": 2568764
+        }
+      ]
+    },
+    "key_brokerage_branches": [
+      {
+        "branch_name": "美商高盛",
+        "action": "buy",
+        "target": "長榮航",
+        "shares": 35746792
+      },
+      {
+        "branch_name": "凱基台北",
+        "action": "buy",
+        "target": "群創",
+        "shares": 2279998
+      },
+      {
+        "branch_name": "元大投信",
+        "action": "buy",
+        "target": "聯電",
+        "shares": 8800266
+      },
+      {
+        "branch_name": "摩根大通",
+        "action": "sell",
+        "target": "鴻海",
+        "shares": 800000
+      }
+    ]
+  },
+  "news": [
+    {
+      "id": "news_1",
+      "title": "Mark Cuban has a blunt response to Coinbase CEO",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/mark-cuban-blunt-response-coinbase-215801475.html",
+      "summary": "Mark Cuban has a blunt response to Coinbase CEO",
+      "full_text": "After Coinbase CEO Brian Armstrong called for a rethink of accredited investor laws in the United States, billionaire investor Mark Cuban replied on June 16 with a blunt line on X:\n\nHis main point was simple. Many companies now stay private for much longer than they used to. By the time a company finally goes public, a large part of the upside may already have been captured by venture capital firms, private funds, and accredited investors.\n\nRetail investors are then left to buy after the IPO, often at a much later and more expensive stage.\n\nArmstrong said the rules were originally designed with good intentions. They were meant to protect regular people from scams, excessive risk, and deals they might not fully understand.\n\nBut, in his view, the outcome has become unfair. Instead of protecting people, the rules may now be protecting access for those who are already wealthy.\n\nUnder the current accredited investor framework, access is largely tied to income, net worth, or professional status. Armstrong criticized that approach, saying it effectively creates a system where being rich gives someone the right to take financial risks, while everyone else is treated as if they cannot make their own decisions.\n\nHe described the situation as regressive. In other words, a rule that was created to protect people may now be limiting their ability to build wealth.\n\nArmstrong floated two possible alternatives. The first would be to replace the current wealth-based standard with a financial literacy test. If someone can prove they understand risk, private markets, and investment basics, they should be allowed to participate.",
+      "published": "2026-06-16T21:58:01Z"
+    },
+    {
+      "id": "news_2",
+      "title": "IBD Stock Of The Day: AI Data Center, Power Grid Company Trades In Buy Zone",
+      "source": "Yahoo Finance",
+      "link": "https://www.investors.com/research/ibd-stock-of-the-day/quanta-services-pwr-stock-of-the-day-ai-data-centers/?src=A00220&yptr=yahoo",
+      "summary": "IBD Stock Of The Day: AI Data Center, Power Grid Company Trades In Buy Zone",
+      "full_text": "IBD Stock Of The Day: AI Data Center, Power Grid Company Trades In Buy Zone",
+      "published": "2026-06-16T17:01:12Z"
+    },
+    {
+      "id": "news_3",
+      "title": "Corn Showing Mixed Midday Trade",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/corn-showing-mixed-midday-trade-170825010.html",
+      "summary": "Corn Showing Mixed Midday Trade",
+      "full_text": "Corn futures are trading with fractional losses to penny gains so far on Tuesday’s midday. The CmdtyView national average Cash Corn price was down 1/2 cents at $3.84 3/4.\n\nWeekly Crop Progress data from after the close on Monday showed 94% of the US corn crop emerged by June 14, 1% above the 5-year average. US condition ratings were 68% in good to excellent condition, up 1 percentage point from the previous week. The Brugler500 index was up 1 point on higher excellent ratings to 373.\n\nRain in the Plains Make Grain, So Bears Are in Control of Corn, Soybean, and Wheat Prices Now\n\nThe forecast continues to see precipitation over a majority of the US growing region, with at least an inch expected in much of the Western Corn Belt. Moving east and south, rainfall totals of 2 to 4 inches are seen from eastern NE to western PA and southern areas of MN/WI/MI to the Gulf.\n\nOn the date of publication, Austin Schroeder did not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. This article was originally published on Barchart.com",
+      "published": "2026-06-16T17:08:25Z"
+    }
+  ]
+}
