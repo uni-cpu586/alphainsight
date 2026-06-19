@@ -311,7 +311,7 @@ def call_ollama(system_prompt, user_prompt, model="llama3"):
 
 def call_gemini(system_prompt, user_prompt, api_key):
     # Use Gemini REST API directly
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key={api_key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
     
     payload = {
         "contents": [
@@ -364,6 +364,14 @@ def run_processor(mode, ollama_model):
     prof_sys = read_skill_prompt("english-professor")
     linker_sys = read_skill_prompt("market-linker")
     
+    import datetime
+    date_str = raw_data.get("date", datetime.date.today().isoformat())
+    try:
+        dt = datetime.datetime.strptime(date_str, "%Y-%m-%d")
+        md_str = f"{dt.month}/{dt.day}"
+    except:
+        md_str = "今日"
+        
     stock_market_str = json.dumps(raw_data["stock_market"], ensure_ascii=False)
     news_str = json.dumps(raw_data["news"], ensure_ascii=False)
     
@@ -380,7 +388,7 @@ def run_processor(mode, ollama_model):
         f"   - 『3. 內資主力與實戶：[描述買超主題]』\n"
         f"3. 請在股票描述中寫出叔叔對該檔股票大戶動向的毒舌白話解說，並包含買超張數/天數描述（可從張數數據中除以 1000 換算為張數，或進行合理估計，如長榮航買超 10.2 萬張）。\n"
         f"你必須『嚴格』只輸出一個 JSON 物件（不要包裹在 ```json 代碼塊中），且包含以下欄位：\n"
-        f"- date_header (字串，標題，如 6/17 法人與主力大戶主要買超股票)\n"
+        f"- date_header (字串，標題，如「{md_str} 法人與主力大戶主要買超股票」)\n"
         f"- buyer_groups (陣列，包含 3 個上述的主力大戶分類，每個分組物件包含 group_title 與 stocks 陣列 [每個股票包含 stock_name, ticker, description])\n"
         f"- strategies (陣列，包含至少 3 個操盤邏輯策略，每個策略物件包含 strategy_title 與 strategy_content)\n"
         f"- summary (字串，叔叔給肖年仔的操盤總結)\n"
