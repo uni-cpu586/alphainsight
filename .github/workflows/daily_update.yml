@@ -31,8 +31,10 @@ jobs:
         pip install -r backend/requirements.txt
     - name: 執行 Python 爬蟲 (Crawler)
       run: python backend/crawler.py
-    - name: 執行 AI 處理器 (使用雲端 Ollama Llama 3)
-      run: python backend/agent_processor.py --mode ollama --model llama3
+    -     - name: 執行 AI 處理器 (使用 Gemini API)
+      run: python backend/agent_processor.py --mode gemini
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
     - name: 將最新產生的 JSON 檔案提交並推送回 GitHub
       run: |
         git config --global user.name "github-actions[bot]"
