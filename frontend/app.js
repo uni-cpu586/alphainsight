@@ -370,4 +370,47 @@ document.addEventListener("DOMContentLoaded", () => {
             }, 1500);
         }, 800);
     });
+
+    // View Tab Selection Logic
+    const viewBtns = document.querySelectorAll(".view-tab-btn");
+    const appMainEl = document.querySelector(".app-main");
+
+    if (viewBtns && appMainEl) {
+        // Load default/saved view from localStorage or default to "all"
+        const savedView = localStorage.getItem("alphainsight_preferred_view") || "all";
+        
+        // Function to apply a view
+        const applyView = (view) => {
+            // Remove all view classes from appMainEl
+            appMainEl.classList.remove("view-morning", "view-english", "view-night", "view-sandbox");
+            
+            // Add selected view class if not 'all'
+            if (view !== "all") {
+                appMainEl.classList.add(`view-${view}`);
+            }
+            
+            // Update active states on buttons
+            viewBtns.forEach(btn => {
+                if (btn.getAttribute("data-view") === view) {
+                    btn.classList.add("active");
+                } else {
+                    btn.classList.remove("active");
+                }
+            });
+            
+            // Save selection
+            localStorage.setItem("alphainsight_preferred_view", view);
+        };
+
+        // Initialize view
+        applyView(savedView);
+
+        // Add event listeners
+        viewBtns.forEach(btn => {
+            btn.addEventListener("click", () => {
+                const view = btn.getAttribute("data-view");
+                applyView(view);
+            });
+        });
+    }
 });
