@@ -1,320 +1,450 @@
 {
   "date": "2026-06-19",
   "stock_uncle_insight": {
-    "date_header": "6/17 法人與主力大戶主要買超股票",
+    "date_header": "[6/19] 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃航空與面板",
+        "group_title": "1. 外資大戶：狂掃傳產龍頭與低基期權值",
         "stocks": [
           {
-            "stock_name": "長榮航",
-            "ticker": "2618",
-            "description": "外資瘋狂買超 10.2 萬張（已連續 7 日加碼），基期低且暑期旺季大爆發。"
+            "stock_name": "中鋼",
+            "ticker": "2002",
+            "description": "外資今天瘋狂敲進 31.9 萬張！肖年仔，別以為鋼鐵人要復活了，這擺明是國際資金在美股高檔震盪、比特幣崩跌時，找最安全的低基期傳產避風港。投信在倒貨 28.6 萬張，外資進來接盤，這叫作法人大換手，千萬別黑白猜去追高接刀！"
           },
           {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "外資買超 7.5 萬張、自營商也買超 1.09 萬張（主力券商買超第 1 名）。"
+            "stock_name": "台塑",
+            "ticker": "1301",
+            "description": "外資大買 14.2 萬張。塑膠股跌到阿嬤都不認得，外資看中它跌無可跌的『超低基期』進來抄底。不過投信可是狠心結帳倒了 10.7 萬張，土洋對決打得火熱，你進去湊熱鬧小心被割韭菜。"
           },
           {
-            "stock_name": "華航",
-            "ticker": "2610",
-            "description": "外資買超 2.1 萬張，同屬現成有業績支撐的暑期旅遊避風港。"
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "外資買超 6.5 萬張。二哥聯電最近被投信嫌棄倒貨 4.9 萬張，但外資和自營商卻進來撿便宜。這不是什麼新技術點火，純粹是高殖利率卡位，外資拿來當作大盤震盪時的防禦性配置。"
           }
         ]
       },
       {
-        "group_title": "2. 投信大戶（本土國家隊）：鎖定金融與轉機股",
+        "group_title": "2. 投信大戶（本土國家隊）：死守金融與高股息作帳",
+        "stocks": [
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "投信狂掃 3.5 萬張，特別是元大投信一家就買了 1.5 萬張，擺明是高股息 ETF 在定期定額建倉兼作帳。外資今天倒貨 3.3 萬張，國家隊硬生生用散戶的錢把股價頂住，這就是標準的『你丟我撿』內資鎖碼盤。"
+          },
+          {
+            "stock_name": "遠傳",
+            "ticker": "4904",
+            "description": "投信買超 2.3 萬張。外資在高檔倒貨 2.4 萬張，投信卻傻傻地在後面接。電信股就是標準的防禦型標的，大盤在高檔、美股科技股有泡沫疑慮時，本土資金只能躲進這種穩定配息的防空洞。"
+          },
+          {
+            "stock_name": "臻鼎-KY",
+            "ticker": "4958",
+            "description": "投信買超 1.9 萬張。外資在高檔獲利了結倒貨 1.8 萬張，投信卻在季底作帳強行拉抬。這種土洋對決的股票，肖年仔看戲就好，別傻傻進去當人家的結帳砲灰。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：隔日沖與避險盤大亂鬥",
         "stocks": [
           {
             "stock_name": "聯電",
             "ticker": "2303",
-            "description": "投信買超 1.95 萬張。有趣的是外資當天大賣聯電 4.5 萬張，形成本土大戶與ETF資金死守、對決外資的局面。"
+            "description": "自營商避險與權證盤大買 6248 張，加上關鍵分點『凱基台北』也進場買超 2499 張。這群內資短線客最愛在權值股震盪時玩隔日沖，今天買明天倒，肖年仔要是看到開高就衝進去，保證被拉高出貨割得乾乾淨淨！"
           },
           {
-            "stock_name": "第一金",
-            "ticker": "2892",
-            "description": "投信與官股買超 1.87 萬張，撐盤色彩濃厚。"
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "自營商買超 3019 張，投信也買了 1.7 萬張。雖然外資倒貨 2.9 萬張，但內資主力顯然想藉著面板報價止穩的題材，在低檔進行波段鎖碼。不過這檔股票散戶融資多，隨時有融資斷頭洗盤的風險，手腳要快！"
           },
           {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "投信買超 1.73 萬張，防禦性質高。"
-          },
-          {
-            "stock_name": "台新金",
-            "ticker": "2887",
-            "description": "投信買超 1.09 萬張，持續布局金控合併題材。"
-          },
-          {
-            "stock_name": "國巨",
-            "ticker": "2327",
-            "description": "投信建倉，看好被動元件低谷回溫。"
-          },
-          {
-            "stock_name": "禾伸堂",
-            "ticker": "3026",
-            "description": "默默敲進，被動元件低基期防守盤。"
-          }
-        ]
-      },
-      {
-        "group_title": "3. 內資主力與實戶：點火光學題材",
-        "stocks": [
-          {
-            "stock_name": "大立光",
-            "ticker": "3008",
-            "description": "大漲重返 5000 元大關，CPO 新技術與 iPhone 換機潮預期發酵。"
-          },
-          {
-            "stock_name": "先進光",
-            "ticker": "3362",
-            "description": "二線光學股集體飆漲停，內資主力短線拉抬氣勢磅礴。"
-          },
-          {
-            "stock_name": "中揚光",
-            "ticker": "6668",
-            "description": "低檔噴出，主力在權值股整理時拉抬具備想像空間的題材股。"
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "自營商買超 1548 張，配合外資大買 5.2 萬張。面板雙虎今天都有內外資主力點火的痕跡。這屬於典型的『低基期題材點火』，主力想在電子股主流熄火時，用面板來撐住指數人氣。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔避險與資金避風港（金融、航空）",
-        "strategy_content": "由於科技權值股（如台積電、聯發科、台達電）近期漲幅已大，加上美股費半重挫，外資與本土大戶在 6/17 選擇將資金撤出高風險的半導體，轉進『防禦型』與『受惠於暑期旺季』的標的。航空雙雄即將迎來第 3 季暑假旅遊及貨運旺季，屬於基期相對科技股低的選擇，因而成為外資大吸金池。而第一金、兆豐金等金融股，則是投信與國家隊在大盤重挫時慣用的『撐盤』工具，防禦性極佳。"
+        "strategy_title": "策略一：避開高估值科技泡沫，資金大舉撤回低基期傳產（中鋼、台塑）",
+        "strategy_content": "美股 SpaceX 估值高到連 Michael Burry 都嫌貴不敢空，比特幣又暴跌 50% 差點失守 6 萬大關。這顯示全球投機資金正在退潮。外資大戶不是傻子，今天狂掃中鋼 31.9 萬張、台塑 14.2 萬張，就是把這些跌深、評價面低的傳產龍頭當作資金避風港。這不是景氣復甦，這是高檔避險的防禦性調倉！"
       },
       {
-        "strategy_title": "策略二：低基期與高殖利率卡位（面板、成熟製程）",
-        "strategy_content": "面板雙虎近期股價基期極低，在市場恐慌時，這類『跌無可跌』且具有資產價值的低基期股票，反而成為主力資金短線停泊、賺取反彈的避風港。成熟製程的聯電，雖然外資因全球半導體修正調節 4.5 萬張，但投信大戶持續瘋狂吸納，著眼於聯電下檔有配息與評價面支撐，形成內外資的劇烈籌碼角力。"
+        "strategy_title": "策略二：土洋對決金融股，投信 ETF 撐盤對抗外資提款（兆豐金、永豐金）",
+        "strategy_content": "外資今天瘋狂提款兆豐金（賣超 3.3 萬張），但投信（特別是元大投信等高股息 ETF 基金）卻硬生生買回 3.5 萬張。這種『外資倒貨、投信接盤』的現象，說明本土資金（國家隊與散戶定期定額）正在跟外資打消耗戰。在這種局勢下，金融股會呈現高檔震盪，肖年仔千萬不要在高點黑白買，等外資賣壓竭盡才是好買點。"
       },
       {
-        "strategy_title": "策略三：新技術題材點火（光學 CPO 題材）",
-        "strategy_content": "6/17 盤面上最強眼的亮點就是光學股。主要是市場傳出共同封裝光學（CPO）新技術題材發酵，加上蘋果 iPhone 換機潮預期。大戶在權值股整理時，最喜歡找這類『有故事、有想像空間』且剛從底部發動的題材股進行短線拉抬，成功帶動整體中小型光學股集體噴出。"
+        "strategy_title": "策略三：短線隔日沖分點點火低價電子，防範拉高出貨（聯電、群創）",
+        "strategy_content": "自營商與關鍵分點『凱基台北』今天在聯電、群創等低價電子股上動作頻頻。凱基台北買超聯電 2499 張，自營商也大買聯電 6248 張。這群內資主力最擅長利用大盤震盪時，拉抬有高殖利率或面板題材的低價股，吸引散戶進場後，隔天立刻『隔日沖』倒貨。操作上絕對不能追高，否則隔天一開高就是準備被割韭菜。"
       }
     ],
-    "summary": "大戶在 6/17 的操作邏輯非常明確：『棄高換低、防禦與題材並重』。他們利用科技權值股開低的恐慌感，順勢將資金調配到具備旺季效應的航空、避險的金融，以及具備新技術亮點的光學族群。",
+    "summary": "肖年仔，美股科技股估值高到嚇死人、加密貨幣又在崩盤，現在主力都在玩『低基期避險』跟『土洋大換手』。別看到中鋼、台塑大漲就以為鋼鐵石化春風吹，那只是外資的避風港！看好你的荷包，別在人家高檔結帳時進去接刀，跟著內資高股息作帳的腳步，找低基期防禦股蹲著才是王道！",
     "top_brokerages_analysis": [
       {
-        "branch_name": "凱基台北",
-        "action": "買超 1.09 萬張",
-        "uncle_logic": "凱基台北在友達大玩隔日沖，明天開盤衝高大單出貨的機會非常高，肖年仔不要傻傻去接刀被割韭菜。"
+        "branch_name": "美商高盛",
+        "action": "買超 11.19 萬張中鋼",
+        "uncle_logic": "這絕對是真外資的長線避險布局。在美股科技股估值過高、比特幣大跌的背景下，高盛選擇將資金停泊在跌無可跌的中鋼。他們不是看好鋼鐵業要大爆發，而是把中鋼當成『會配息的債券』在存，肖年仔不要誤會是行情啟動而盲目追高。"
       },
       {
-        "branch_name": "美商高盛",
-        "action": "買超 3.5 萬張",
-        "uncle_logic": "高盛幫外資波段基金代操，大買長榮航代表對暑期航空旺季買盤有中長線共識，這算有利多支撐。"
+        "branch_name": "凱基台北",
+        "action": "買超 2499 張聯電",
+        "uncle_logic": "台股最著名的『隔日沖魔王』進場了！凱基台北今天買聯電，百分之百是看中聯電有外資大買的轎子可以搭。他們的套路就是今天鎖碼、明天開高直接倒貨給追高的韭菜。明天聯電如果開高，千萬不要去接刀，等他們倒完貨再說！"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 8000 張",
-        "uncle_logic": "投信在聯電上大打防守戰，明顯是本土高股息ETF和波段資金在死守季線，支撐力道不俗。"
+        "action": "買超 1.59 萬張兆豐金",
+        "uncle_logic": "這是標準的被動式 ETF 資金建倉。外資兆豐金倒得越兇，元大投信就得奉命用散戶定期定額的錢進去接。這種買盤非常被動，雖然能撐住股價，但缺乏主動拉抬的攻擊力道。跟著這種買盤只能做長線，想賺快錢的肖年仔可以先避開。"
+      },
+      {
+        "branch_name": "摩根大通",
+        "action": "賣超 2.39 萬張彩晶",
+        "uncle_logic": "小摩今天瘋狂倒貨彩晶，直接把這檔低價面板股當成提款機。外資在面板股的操作一向是『有賺就跑、沒賺割肉』。彩晶被大舉倒貨，說明外資並不看好面板能有波段大行情，只是短線調節資金，肖年仔千萬別進去黑白買接刀。"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "Grocery chain pays massive fine, accused of inflated price reporting",
+      "title": "Jim Cramer sends a stern message to SpaceX buyers",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/healthcare/articles/grocery-chain-pays-massive-fine-231700048.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-stern-message-024700597.html",
       "level1_blind": {
-        "text": "A major grocery chain operator has agreed to pay a multimillion-dollar settlement after coming under scrutiny for pricing practices tied to one of its business segments.\n\nThe case centers not on what shoppers paid at checkout, but on allegations involving how certain prices were reported behind the scenes.\n\nFederal officials say prescription price reporting practices caused government health care programs to pay more than they should have, resulting in a settlement worth tens of millions of dollars.\n\nThe case highlights how prescription pricing disclosures can affect taxpayer-funded health care spending, even when consumers receive discounted pharmacy prices.\n\nAhold Delhaize USA (ADRNY) has agreed to pay $40 million to resolve allegations that it submitted inflated prescription drug pricing data to federal health care programs, according to the U.S. Department of Justice (DOJ).\n\nThe company operates supermarket chains, including Giant, Hannaford, Stop & Shop, and Food Lion, many of which offer prescription savings programs that provide discounted pricing to enrolled customers.\n\nFederal authorities alleged Ahold Delhaize did not report discounted prescription prices as its \"usual and customary\" rates when billing Medicare Part D, Medicaid, and Tricare. According to the government, the reporting led the programs to reimburse pharmacies at higher amounts than they otherwise would have paid.\n\nThe settlement relates to pharmacy billing practices and does not involve consumer pricing at grocery stores."
+        "text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nEvery generational stock reaches a moment where its biggest fans start watching the tape with one eye closed. The story is still good. The buying is still frantic. And somewhere in the back of the room, a few people who own the dream begin asking how much of tomorrow has already been priced into today.\n\nSpaceX (SPCX) priced its initial public offering (IPO) at $135 a share on June 12 and raised about $75 billion. It was the biggest stock-market debut on record, according to CNN. The stock jumped roughly 19% on its first day, kept climbing through June 15, and by the morning of June 16 the aerospace and artificial intelligence (AI) company had passed Microsoft (MSFT) toward a value near $2.7 trillion. Retail investors had reportedly placed more than $100 billion in orders before a single share changed hands.\n\nCNBC's Jim Cramer, who has said more than once that he likes SpaceX, warned on June 16 that the stock had started to behave like something he no longer trusts.\n\nCramer's discomfort is about mechanics, not the mission. He said he would hate to watch a meme stock, which is what he believes SpaceX has become, get \"walked to the size of Nvidia\" through a string of overnight moves with no one selling, in a post on X. Nvidia (NVDA) carried a market value of roughly $5 trillion as of June 15, according to Companies Market Cap, so he was describing a near doubling from where SpaceX trades today.\n\nHis sharper point was about speed. He said watching the stock climb ten points in a couple of hours made him uneasy, and then he repeated that he still likes the company.\n\nThat contradiction is the honest part, and it is the part that should land for anyone who bought this week. When I read through his post, the tell in my analysis was not the size of the gain. It was the idea of a one-way market where nobody is willing to sell. A stock that rises only because no one will take a profit is a stock waiting for the first person who does.\n\nNot everyone accepts the label. Analysts at 24/7 Wall St. argued that SpaceX fails the meme-stock test, because the rally rides on real launch, satellite, and AI businesses rather than a coordinated online crowd, according to 24/7 Wall St. The fairer read may be that Cramer is flagging valuation risk and reaching for the scarier word to make it stick."
       },
       "level2_keywords": [
         {
-          "word": "rallied",
-          "ipa": "/ˈræl.id/",
-          "meaning": "（價格等）回升，止跌回升",
-          "example": "The stock market rallied after the inflation report was released."
+          "word": "initial public offering (IPO)",
+          "ipa": "/ɪˈnɪʃl ˈpʌblɪk ˈɔːfərɪŋ/",
+          "meaning": "首次公開募股（指公司第一次向公眾發行股票募集資金，正式掛牌上市）",
+          "example": "SpaceX priced its initial public offering at $135 a share, making it the biggest stock-market debut on record."
         },
         {
-          "word": "restricting",
-          "ipa": "/rɪˈstrɪkt.ɪŋ/",
-          "meaning": "限制，約束",
-          "example": "The government is restricting export of advanced semiconductors."
+          "word": "priced in",
+          "ipa": "/praɪst ɪn/",
+          "meaning": "已反映在股價中（指市場已將未來的利多或利空因素提前消化並體現在當前股價）",
+          "example": "Some cautious investors began asking how much of the company's future growth has already been priced into today's stock price."
         },
         {
-          "word": "accelerators",
-          "ipa": "/ækˈsel.ə.reɪ.tərz/",
-          "meaning": "加速晶片（如 AI 運算 GPU）",
-          "example": "Data centers require high-end AI accelerators to run LLMs."
+          "word": "retail investors",
+          "ipa": "/ˈriːteɪl ɪnˈvestərz/",
+          "meaning": "散戶投資人（非機構的個人投資者）",
+          "example": "Retail investors rushed to place orders, driving the demand up before the stock even began trading."
         },
         {
-          "word": "curb",
-          "ipa": "/kɜːb/",
-          "meaning": "控制，遏制",
-          "example": "New regulations aim to curb illegal market activities."
+          "word": "meme stock",
+          "ipa": "/miːm stɑːk/",
+          "meaning": "迷因股（指因網路社群熱烈討論、散戶瘋狂追捧而導致股價短期內暴漲，脫離基本面的股票）",
+          "example": "Jim Cramer warned that SpaceX was starting to behave like a volatile meme stock driven by hype."
         },
         {
-          "word": "outlook",
-          "ipa": "/ˈaʊt.lʊk/",
-          "meaning": "前景，展望指引",
-          "example": "The company adjusted its quarterly revenue outlook due to news."
+          "word": "valuation",
+          "ipa": "/ˌvæljuˈeɪʃn/",
+          "meaning": "估值（對公司或資產實際價值的評估）",
+          "example": "The analyst suggested that the commentator was simply flagging valuation risk rather than dismissing the company's core business."
         }
       ],
-      "level2_context": "白話背景：這篇新聞在探討國際政經政策對核心科技產業（如晶片出口、通膨升息）造成的宏觀影響。這些變動會透過半導體與伺服器代工供應鏈，在幾天內迅速傳導至台灣股市，是主力資金調度的重要風向球。",
+      "level2_context": "各位同學，這篇新聞探討了太空探索巨頭 SpaceX 首次公開募股（IPO）後的瘋狂漲勢，以及美國知名財經節目主持人 Jim Cramer 對此釋出的警訊。SpaceX 作為航太與 AI 領域的明星企業，上市後市值迅速飆升至 2.7 兆美元，甚至超越了微軟。然而，這種瘋狂的買氣與極快的漲速，讓市場開始擔憂它是否已脫離基本面，演變成由散戶熱情推動、缺乏賣盤的「迷因股（meme stock）」。Cramer 的核心觀點在於「估值風險」與「市場交易機制」——當一檔股票只因為「沒人想賣」而單向暴漲時，往往蘊含著極大的回檔風險。這堂課我們要學習如何辨識市場過熱的訊號，以及如何用英文精準描述估值泡沫與市場機制。",
       "level3_translation": [
         {
-          "sentence": "A major grocery chain operator has agreed to pay a multimillion-dollar settlement after coming under scrutiny for pricing practices tied to one of its business segments.\n\nThe case centers not on what shoppers paid at checkout, but on allegations involving how certain prices were reported behind the scenes.\n\nFederal officials say prescription price reporting practices caused government health care programs to pay more than they should have, resulting in a settlement worth tens of millions of dollars.\n\nThe case highlights how prescription pricing disclosures can affect taxpayer-funded health care spending, even when consumers receive discounted pharmacy prices.\n\nAhold Delhaize USA (ADRNY) has agreed to pay $40 million to resolve allegations that it submitted inflated prescription drug pricing data to federal health care programs, according to the U.S.",
-          "translation": "【白話翻譯】A major grocery chain operator has agreed to pay a multimillion-dollar settlement after coming under scrutiny for pricing practices tied to one of its business segments.\n\nThe case centers not on what shoppers paid at checkout, but on allegations involving how certain prices were reported behind the scenes.\n\nFederal officials say prescription price reporting practices caused government health care programs to pay more than they should have, resulting in a settlement worth tens of millions of dollars.\n\nThe case highlights how prescription pricing disclosures can affect taxpayer-funded health care spending, even when consumers receive discounted pharmacy prices.\n\nAhold Delhaize USA (ADRNY) has agreed to pay $40 million to resolve allegations that it submitted inflated prescription drug pricing data to federal health care programs, according to the U.S.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+          "sentence": "The above button links to Coinbase.",
+          "translation": "上方的按鈕連結至 Coinbase。"
         },
         {
-          "sentence": "Department of Justice (DOJ).\n\nThe company operates supermarket chains, including Giant, Hannaford, Stop & Shop, and Food Lion, many of which offer prescription savings programs that provide discounted pricing to enrolled customers.\n\nFederal authorities alleged Ahold Delhaize did not report discounted prescription prices as its \"usual and customary\" rates when billing Medicare Part D, Medicaid, and Tricare.",
-          "translation": "【白話翻譯】Department of Justice (DOJ).\n\nThe company operates supermarket chains, including Giant, Hannaford, Stop & Shop, and Food Lion, many of which offer prescription savings programs that provide discounted pricing to enrolled customers.\n\nFederal authorities alleged Ahold Delhaize did not report discounted prescription prices as its \"usual and customary\" rates when billing Medicare Part D, Medicaid, and Tricare.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+          "sentence": "Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading.",
+          "translation": "Yahoo Finance 並非證券經紀商或投資顧問，亦不提供證券或加密貨幣的銷售，亦不協助相關交易。"
         },
         {
-          "sentence": "According to the government, the reporting led the programs to reimburse pharmacies at higher amounts than they otherwise would have paid.\n\nThe settlement relates to pharmacy billing practices and does not involve consumer pricing at grocery stores.",
-          "translation": "【白話翻譯】According to the government, the reporting led the programs to reimburse pharmacies at higher amounts than they otherwise would have paid.\n\nThe settlement relates to pharmacy billing practices and does not involve consumer pricing at grocery stores.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+          "sentence": "Coinbase pays us for certain activity generated through this link.",
+          "translation": "Coinbase 會針對透過此連結產生的特定活動向我們支付費用。"
+        },
+        {
+          "sentence": "Prices displayed are informational.",
+          "translation": "顯示的價格僅供參考。"
+        },
+        {
+          "sentence": "Every generational stock reaches a moment where its biggest fans start watching the tape with one eye closed.",
+          "translation": "每個具備劃時代意義的指標股都會迎來這樣一個時刻：其最忠實的擁護者開始閉上一隻眼，不敢直視盤面的劇烈波動。"
+        },
+        {
+          "sentence": "The story is still good.",
+          "translation": "公司的前景故事依然美好。"
+        },
+        {
+          "sentence": "The buying is still frantic.",
+          "translation": "買盤依然瘋狂。"
+        },
+        {
+          "sentence": "And somewhere in the back of the room, a few people who own the dream begin asking how much of tomorrow has already been priced into today.",
+          "translation": "而在角落的某個地方，少數懷抱夢想的持股人開始質疑，未來的利多究竟有多少已經提前反映在今天的股價中了。"
+        },
+        {
+          "sentence": "SpaceX (SPCX) priced its initial public offering (IPO) at $135 a share on June 12 and raised about $75 billion.",
+          "translation": "SpaceX (SPCX) 於 6 月 12 日將其首次公開募股 (IPO) 定價為每股 135 美元，並募集了約 750 億美元。"
+        },
+        {
+          "sentence": "It was the biggest stock-market debut on record, according to CNN.",
+          "translation": "根據 CNN 報導，這是歷史上規模最大的股市首秀。"
+        },
+        {
+          "sentence": "The stock jumped roughly 19% on its first day, kept climbing through June 15, and by the morning of June 16 the aerospace and artificial intelligence (AI) company had passed Microsoft (MSFT) toward a value near $2.7 trillion.",
+          "translation": "該股在上市首日大漲約 19%，並一路攀升至 6 月 15 日；到了 6 月 16 日上午，這家航太與人工智慧 (AI) 巨頭的市值已超越微軟 (MSFT)，逼近 2.7 兆美元。"
+        },
+        {
+          "sentence": "Retail investors had reportedly placed more than $100 billion in orders before a single share changed hands.",
+          "translation": "據報導，在任何一股正式交易之前，散戶投資人就已經累計下了超過 1,000 億美元的委託單。"
+        },
+        {
+          "sentence": "CNBC's Jim Cramer, who has said more than once that he likes SpaceX, warned on June 16 that the stock had started to behave like something he no longer trusts.",
+          "translation": "CNBC 財經名嘴 Jim Cramer 曾多次表示他看好 SpaceX，但他於 6 月 16 日警告，該股的走勢已開始顯露出他不再信任的跡象。"
+        },
+        {
+          "sentence": "Cramer's discomfort is about mechanics, not the mission.",
+          "translation": "Cramer 的不安源於市場交易機制，而非該公司的企業使命。"
+        },
+        {
+          "sentence": "He said he would hate to watch a meme stock, which is what he believes SpaceX has become, get \"walked to the size of Nvidia\" through a string of overnight moves with no one selling, in a post on X.",
+          "translation": "他在 X 平台發文指出，他不希望看到一檔迷因股（他認為 SpaceX 目前已成了迷因股），在無人願意賣出的情況下，透過一連串的隔夜交易，硬生生被「推升到輝達的市值規模」。"
+        },
+        {
+          "sentence": "Nvidia (NVDA) carried a market value of roughly $5 trillion as of June 15, according to Companies Market Cap, so he was describing a near doubling from where SpaceX trades today.",
+          "translation": "根據 Companies Market Cap 的數據，截至 6 月 15 日，輝達 (NVDA) 的市值約為 5 兆美元，因此他所描述的情境意味著 SpaceX 的股價還要再翻倍。"
+        },
+        {
+          "sentence": "His sharper point was about speed.",
+          "translation": "他更尖銳的觀點在於股價上漲的速度。"
+        },
+        {
+          "sentence": "He said watching the stock climb ten points in a couple of hours made him uneasy, and then he repeated that he still likes the company.",
+          "translation": "他表示，看著股價在短短幾小時內飆升 10 美元讓他感到不安，隨後他再次重申自己依然看好這家公司。"
+        },
+        {
+          "sentence": "That contradiction is the honest part, and it is the part that should land for anyone who bought this week.",
+          "translation": "這種矛盾正是最真實的部分，也是本週所有買進該股的投資人都應該深思的警訊。"
+        },
+        {
+          "sentence": "When I read through his post, the tell in my analysis was not the size of the gain.",
+          "translation": "當我仔細閱讀他的發文時，我分析中的關鍵線索並非漲幅的大小。"
+        },
+        {
+          "sentence": "It was the idea of a one-way market where nobody is willing to sell.",
+          "translation": "而是那種「沒有人願意賣出」的單向市場格局。"
+        },
+        {
+          "sentence": "A stock that rises only because no one will take a profit is a stock waiting for the first person who does.",
+          "translation": "一檔僅因無人願意獲利了結而上漲的股票，終究只是在等待第一個開始賣出套現的人出現。"
+        },
+        {
+          "sentence": "Not everyone accepts the label.",
+          "translation": "並非所有人都接受「迷因股」這個標籤。"
+        },
+        {
+          "sentence": "Analysts at 24/7 Wall St. argued that SpaceX fails the meme-stock test, because the rally rides on real launch, satellite, and AI businesses rather than a coordinated online crowd, according to 24/7 Wall St.",
+          "translation": "根據 24/7 Wall St. 的報導，該機構的分析師認為 SpaceX 並不符合迷因股的定義，因為其漲勢是建立在真實的火箭發射、衛星與 AI 業務之上，而非網路社群的聯合炒作。"
+        },
+        {
+          "sentence": "The fairer read may be that Cramer is flagging valuation risk and reaching for the scarier word to make it stick.",
+          "translation": "更客觀的解讀或許是，Cramer 正在警示估值過高的風險，並刻意使用較具警示效果的詞彙來引起市場重視。"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Fed predictions for 2026: What experts say about the possibility of rate cuts this year",
+      "title": "Michael Burry Skips SpaceX Short Bet Over Expensive Options Pricing",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/fed-rate-predictions-2026-154647304.html",
+      "link": "https://finance.yahoo.com/markets/options/articles/michael-burry-skips-spacex-short-153106391.html",
       "level1_blind": {
-        "text": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure.\n\nAt the Federal Open Market Committee (FOMC)'s most recent meeting in April, the committee announced its decision to maintain the target range for the federal funds rate at 3.50%-3.75%, citing \"uncertainty about the economic outlook.\"\n\nThe Fed has not cut rates since late 2025, yet interest rates on consumer loans and bank accounts have steadily decreased.\n\nWith several Fed meetings on the calendar for the remainder of 2026 — can consumers expect to see any more rate cuts in 2026?\n\nAnd if so, how will that impact your bottom line? Here's what the experts have to say, and what you should do to prepare in the meantime.\n\nRead more: How a Fed rate cut affects your bank accounts, loans, credit cards, and investments\n\nThe federal funds rate is the interest rate at which depository institutions charge each other for ultra-short-term loans, usually overnight. It's expressed as a range, and financial institutions negotiate a specific rate within that range.\n\nThe federal funds rate plays a key role in the Federal Reserve's management of inflation. When inflation is too high, the Fed typically raises its rate to reduce consumer spending and slow economic activity. Conversely, the Fed may lower its rate to stimulate economic activity and growth."
+        "text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nHe famously predicted the U.S. housing collapse ahead of the 2008 financial crisis. That call made him a legend on Wall Street and landed him a starring role in \"The Big Short.\" So when Burry publicly questions a stock's valuation, investors pay close attention.\n\nSupermicro Is Struggling to Handle AI Demand, But Here’s Why the Bears Might Be Wrong on This One\n\nThe rocket company went public last week, and SPCX stock surged more than 20% on the first full day of trading. The blockbuster debut also pushed Elon Musk's net worth past the trillion-dollar mark, making him the world's first trillionaire.\n\nIn a Substack post, Burry made his position crystal clear. \"I am not involved with SpaceX now. Neither short nor, ahem, long,\" he wrote, per CNBC.\n\nThat said, he did not hold back in expressing his views on what the company is actually worth. Burry described SpaceX as, at its core, a modest-sized space operation, a niche telecom company, a struggling social media business, and a scaled-down version of AI infrastructure firm CoreWeave (CRWV), per CNBC.\n\nHe pointed out that the company is generating under $20 billion in annual revenue, which stands in stark contrast to its enormous market capitalization. To put that valuation in perspective, Burry noted that SpaceX has eclipsed Warren Buffett's Berkshire Hathaway (BRK.A) (BRK.B) by about two and a half times, and that milestone happened within just three days of trading. \"Berkshire Hathaway, painstakingly assembled over two century-old lives. The two greatest investors of our time,\" he wrote.\n\nFor context, SpaceX's Tuesday rally pushed its market value above Amazon (AMZN), placing it behind only Nvidia (NVDA), Alphabet (GOOGL) (GOOG), Apple (AAPL), and Microsoft (MSFT)."
       },
       "level2_keywords": [
         {
-          "word": "rallied",
-          "ipa": "/ˈræl.id/",
-          "meaning": "（價格等）回升，止跌回升",
-          "example": "The stock market rallied after the inflation report was released."
+          "word": "valuation",
+          "ipa": "/ˌvæl.juˈeɪ.ʃən/",
+          "meaning": "估值（指對一家公司、資產或股票實際價值的評估與定價）",
+          "example": "When a company's valuation reaches astronomical levels without solid revenue, value investors like Burry start to worry."
         },
         {
-          "word": "restricting",
-          "ipa": "/rɪˈstrɪkt.ɪŋ/",
-          "meaning": "限制，約束",
-          "example": "The government is restricting export of advanced semiconductors."
+          "word": "short",
+          "ipa": "/ʃɔːrt/",
+          "meaning": "放空/做空（預期未來資產價格會下跌，先借入資產賣出，待下跌後再買回賺取差價的交易策略）",
+          "example": "He decided to skip the short bet because the cost of buying put options was simply too high."
         },
         {
-          "word": "accelerators",
-          "ipa": "/ækˈsel.ə.reɪ.tərz/",
-          "meaning": "加速晶片（如 AI 運算 GPU）",
-          "example": "Data centers require high-end AI accelerators to run LLMs."
+          "word": "market capitalization",
+          "ipa": "/ˈmɑːr.kɪt ˌkæp.ə.t̬əl.əˈzeɪ.ʃən/",
+          "meaning": "總市值（簡稱市值，指一家上市公司發行在外的股份總數乘以當前股價）",
+          "example": "The company's market capitalization eclipsed that of Berkshire Hathaway within just three days of trading."
         },
         {
-          "word": "curb",
-          "ipa": "/kɜːb/",
-          "meaning": "控制，遏制",
-          "example": "New regulations aim to curb illegal market activities."
+          "word": "rally",
+          "ipa": "/ˈræl.i/",
+          "meaning": "（股價）大幅上漲、反彈",
+          "example": "The stock's massive rally pushed its market value above several established tech giants."
         },
         {
-          "word": "outlook",
-          "ipa": "/ˈaʊt.lʊk/",
-          "meaning": "前景，展望指引",
-          "example": "The company adjusted its quarterly revenue outlook due to news."
+          "word": "niche",
+          "ipa": "/nɪtʃ/",
+          "meaning": "利基的、小眾且專門的",
+          "example": "Burry described the business as a niche telecom company rather than a revolutionary global giant."
         }
       ],
-      "level2_context": "白話背景：這篇新聞在探討國際政經政策對核心科技產業（如晶片出口、通膨升息）造成的宏觀影響。這些變動會透過半導體與伺服器代工供應鏈，在幾天內迅速傳導至台灣股市，是主力資金調度的重要風向球。",
+      "level2_context": "各位同學，今天我們要來看這篇關於《大賣空》（The Big Short）主角原型 Michael Burry 的有趣新聞。在財經界，當一家備受矚目的科技巨頭（在此為模擬情境中剛上市的 SpaceX）估值高上天際時，放空（Short）往往是空頭大師的首選。然而，這次 Burry 卻選擇收手，原因就在於『期權定價（Options Pricing）太過昂貴』。在財經實務中，當市場投機氣氛極度狂熱，買權或賣權的隱含波動率（Implied Volatility）會被推得極高，導致交易成本大增。這代表即使你預測股價會跌，光是買進看跌期權（Put Options）的權利金（Premium）就會吃掉你大部分的利潤，甚至在股價還沒跌之前，時間價值就先流失光了。這堂課我們要學習如何從宏觀角度看待估值（Valuation）與衍生性金融商品的定價關係，這才是真正的華爾街思維！",
       "level3_translation": [
         {
-          "sentence": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations.",
-          "translation": "【白話翻譯】Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+          "sentence": "The above button links to Coinbase.",
+          "translation": "上方的按鈕連結至 Coinbase。"
         },
         {
-          "sentence": "See our Advertiser Disclosure.\n\nAt the Federal Open Market Committee (FOMC)'s most recent meeting in April, the committee announced its decision to maintain the target range for the federal funds rate at 3.50%-3.75%, citing \"uncertainty about the economic outlook.\"\n\nThe Fed has not cut rates since late 2025, yet interest rates on consumer loans and bank accounts have steadily decreased.\n\nWith several Fed meetings on the calendar for the remainder of 2026 — can consumers expect to see any more rate cuts in 2026?\n\nAnd if so, how will that impact your bottom line? Here's what the experts have to say, and what you should do to prepare in the meantime.\n\nRead more: How a Fed rate cut affects your bank accounts, loans, credit cards, and investments\n\nThe federal funds rate is the interest rate at which depository institutions charge each other for ultra-short-term loans, usually overnight.",
-          "translation": "【白話翻譯】See our Advertiser Disclosure.\n\nAt the Federal Open Market Committee (FOMC)'s most recent meeting in April, the committee announced its decision to maintain the target range for the federal funds rate at 3.50%-3.75%, citing \"uncertainty about the economic outlook.\"\n\nThe Fed has not cut rates since late 2025, yet interest rates on consumer loans and bank accounts have steadily decreased.\n\nWith several Fed meetings on the calendar for the remainder of 2026 — can consumers expect to see any more rate cuts in 2026?\n\nAnd if so, how will that impact your bottom line? Here's what the experts have to say, and what you should do to prepare in the meantime.\n\nRead more: How a Fed rate cut affects your bank accounts, loans, credit cards, and investments\n\nThe federal funds rate is the interest rate at which depository institutions charge each other for ultra-short-term loans, usually overnight.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+          "sentence": "Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading.",
+          "translation": "Yahoo Finance 並非經紀自營商或投資顧問，亦不提供證券或加密貨幣的銷售或協助交易服務。"
         },
         {
-          "sentence": "It's expressed as a range, and financial institutions negotiate a specific rate within that range.\n\nThe federal funds rate plays a key role in the Federal Reserve's management of inflation.",
-          "translation": "【白話翻譯】It's expressed as a range, and financial institutions negotiate a specific rate within that range.\n\nThe federal funds rate plays a key role in the Federal Reserve's management of inflation.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+          "sentence": "Coinbase pays us for certain activity generated through this link.",
+          "translation": "Coinbase 會針對透過此連結產生的特定活動向我們支付費用。"
         },
         {
-          "sentence": "When inflation is too high, the Fed typically raises its rate to reduce consumer spending and slow economic activity.",
-          "translation": "【白話翻譯】When inflation is too high, the Fed typically raises its rate to reduce consumer spending and slow economic activity.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+          "sentence": "Prices displayed are informational.",
+          "translation": "顯示之價格僅供參考。"
         },
         {
-          "sentence": "Conversely, the Fed may lower its rate to stimulate economic activity and growth.",
-          "translation": "【白話翻譯】Conversely, the Fed may lower its rate to stimulate economic activity and growth.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+          "sentence": "He famously predicted the U.S. housing collapse ahead of the 2008 financial crisis.",
+          "translation": "他最著名的戰績是在 2008 年金融海嘯爆發前，成功預測了美國房地產市場的崩盤。"
+        },
+        {
+          "sentence": "That call made him a legend on Wall Street and landed him a starring role in \"The Big Short.\"",
+          "translation": "那次精準的預測讓他成為華爾街的傳奇人物，並成為電影《大賣空》主角的原型。"
+        },
+        {
+          "sentence": "So when Burry publicly questions a stock's valuation, investors pay close attention.",
+          "translation": "因此，當巴瑞公開質疑某家公司的估值時，投資人總會高度關注。"
+        },
+        {
+          "sentence": "Supermicro Is Struggling to Handle AI Demand, But Here’s Why the Bears Might Be Wrong on This One",
+          "translation": "美超微（Supermicro）正努力應對強勁的 AI 需求，但這就是為什麼空頭這次可能看錯的原因。"
+        },
+        {
+          "sentence": "The rocket company went public last week, and SPCX stock surged more than 20% on the first full day of trading.",
+          "translation": "這家火箭公司於上週上市，其股票（SPCX）在首個完整交易日便飆升了超過 20%。"
+        },
+        {
+          "sentence": "The blockbuster debut also pushed Elon Musk's net worth past the trillion-dollar mark, making him the world's first trillionaire.",
+          "translation": "這場轟動的上市首秀也讓伊隆·馬斯克的淨資產突破兆美元大關，使他成為全球首位「兆元富豪」。"
+        },
+        {
+          "sentence": "In a Substack post, Burry made his position crystal clear.",
+          "translation": "在 Substack 的貼文中，巴瑞明確表達了他的立場。"
+        },
+        {
+          "sentence": "\"I am not involved with SpaceX now. Neither short nor, ahem, long,\" he wrote, per CNBC.",
+          "translation": "據 CNBC 報導，他寫道：「我目前沒有參與 SpaceX。既沒有放空，也沒有，嗯，做多。」"
+        },
+        {
+          "sentence": "That said, he did not hold back in expressing his views on what the company is actually worth.",
+          "translation": "話雖如此，他對於這家公司的實際價值依然直言不諱。"
+        },
+        {
+          "sentence": "Burry described SpaceX as, at its core, a modest-sized space operation, a niche telecom company, a struggling social media business, and a scaled-down version of AI infrastructure firm CoreWeave (CRWV), per CNBC.",
+          "translation": "據 CNBC 報導，巴瑞將 SpaceX 的核心業務形容為：一個中等規模的太空營運公司、一個利基型的電信公司、一個掙扎中的社群媒體業務，以及 AI 基礎設施公司 CoreWeave (CRWV) 的縮小版。"
+        },
+        {
+          "sentence": "He pointed out that the company is generating under $20 billion in annual revenue, which stands in stark contrast to its enormous market capitalization.",
+          "translation": "他指出，該公司年營收低於 200 億美元，這與其龐大的市值形成鮮明對比。"
+        },
+        {
+          "sentence": "To put that valuation in perspective, Burry noted that SpaceX has eclipsed Warren Buffett's Berkshire Hathaway (BRK.A) (BRK.B) by about two and a half times, and that milestone happened within just three days of trading.",
+          "translation": "為了讓大家對這個估值有更具體的概念，巴瑞指出 SpaceX 的市值已經超越了華倫·巴菲特的波克夏·哈薩威（Berkshire Hathaway）約 2.5 倍，而這個里程碑僅在短短三個交易日內就達成了。"
+        },
+        {
+          "sentence": "\"Berkshire Hathaway, painstakingly assembled over two century-old lives. The two greatest investors of our time,\" he wrote.",
+          "translation": "他寫道：「波克夏·哈薩威是兩位跨世紀的偉人，歷經一生心血、苦心孤詣打造出來的。他們是我們這個時代最偉大的兩位投資家。」"
+        },
+        {
+          "sentence": "For context, SpaceX's Tuesday rally pushed its market value above Amazon (AMZN), placing it behind only Nvidia (NVDA), Alphabet (GOOGL) (GOOG), Apple (AAPL), and Microsoft (MSFT).",
+          "translation": "補充背景資訊，SpaceX 週二的股價飆漲使其市值超越了亞馬遜（Amazon），在美股中僅次於輝達（Nvidia）、Alphabet、蘋果（Apple）和微軟（Microsoft）。"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Understanding the Fed's rate decisions: Do we want high or low interest rates​?",
+      "title": "As Bitcoin is tanking, Wyoming becomes the first state to issue cryptocurrency. What to know about the FRNT stablecoin",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/do-we-want-high-or-low-interest-rates-223031516.html",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-tanking-wyoming-becomes-first-152500088.html",
       "level1_blind": {
-        "text": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure.\n\nWhen the Federal Reserve changes interest rates, the impact reaches far beyond Wall Street. Higher rates can help savers earn more on their cash, while lower rates can make mortgages, car loans, and credit cards more affordable. But because every rate move creates both winners and losers, there's no simple answer to whether high or low rates are best.\n\nUnderstanding why the Fed raises and lowers rates — and how those decisions affect your money — can help you make smarter choices about saving and borrowing.\n\nThe Federal Reserve is mandated by Congress to promote stable prices and maximum employment within the US economy. One of the tools it has at its disposal to achieve these goals is the federal funds rate.\n\nDuring times of high inflation, for instance, the Fed will raise its federal funds rate, which is the rate banks charge each other for overnight loans to meet cash reserve requirements.\n\nWhen the federal funds rate increases, financial institutions also increase interest rates on certain types of loans, such as credit cards, auto loans, personal loans, and, less directly, mortgages. Many of them also increase the interest rates on their savings products to expand their lending capacity. This makes it more expensive for Americans to borrow money, but it also means they can earn more on their savings balances.\n\nOn the other hand, if the Fed wants to stimulate economic growth, it will lower the federal funds rate. When this happens, loan interest rates also go down, encouraging borrowing and spending among consumers and businesses. The downside is that deposit accounts pay less interest, stunting savers' ability to grow their savings.\n\nRead more: Fed rate cut: How it affects your bank accounts, loans, credit cards, and investments"
+        "text": "After blasting to an all-time high in October 2025, bitcoin has been stuck in reverse, shedding nearly 50% of its value as investors pull back from risky bets. Despite boasting a massive $1.23-trillion market cap, bitcoin is now clinging to the key $60,000 mark, a level many traders see as make-or-break for the battered cryptocurrency. According to Bloomberg, Wyoming has officially become the first state in America to issue a government-backed stablecoin, a digital token called Frontier Stable Token (FRNT). Could Wyoming’s stablecoin be a chance to modernize payments, attract financial innovation and even generate revenue for public schools? Or is it a solution looking for a problem in a state where many residents still prefer cash, checks and traditional banks? Wyoming, a state where there are fewer than 600,000 residents and cows outnumber people roughly two to one, might not be the first place people would expect to find a financial technology revolution."
       },
       "level2_keywords": [
         {
-          "word": "rallied",
-          "ipa": "/ˈræl.id/",
-          "meaning": "（價格等）回升，止跌回升",
-          "example": "The stock market rallied after the inflation report was released."
+          "word": "tanking",
+          "ipa": "[ˈtæŋkɪŋ]",
+          "meaning": "（價格或市場）暴跌、急劇下滑。在財經界常用來形容資產價值在短時間內大幅縮水。",
+          "example": "While tech stocks were tanking, some investors shifted their capital to safe-haven assets like gold."
         },
         {
-          "word": "restricting",
-          "ipa": "/rɪˈstrɪkt.ɪŋ/",
-          "meaning": "限制，約束",
-          "example": "The government is restricting export of advanced semiconductors."
+          "word": "stablecoin",
+          "ipa": "[ˈstebəlˌkɔɪn]",
+          "meaning": "穩定幣。一種旨在維持穩定價值的加密貨幣，通常與法定貨幣（如美元）或黃金等資產掛鉤。",
+          "example": "Wyoming's new stablecoin, FRNT, is fully backed by government reserves to ensure its value remains pegged to the US dollar."
         },
         {
-          "word": "accelerators",
-          "ipa": "/ækˈsel.ə.reɪ.tərz/",
-          "meaning": "加速晶片（如 AI 運算 GPU）",
-          "example": "Data centers require high-end AI accelerators to run LLMs."
+          "word": "market cap",
+          "ipa": "[ˈmɑrkɪt kæp]",
+          "meaning": "市值（Market Capitalization 的簡稱）。指一家公司發行在外的股票總價值，或某種加密貨幣的發行總量乘以當前市價。",
+          "example": "Despite the recent sell-off, Bitcoin still boasts a massive market cap of over one trillion dollars."
         },
         {
-          "word": "curb",
-          "ipa": "/kɜːb/",
-          "meaning": "控制，遏制",
-          "example": "New regulations aim to curb illegal market activities."
+          "word": "make-or-break",
+          "ipa": "[ˈmek ɔr brek]",
+          "meaning": "關鍵的、成敗攸關的。指某個關卡、決定或事件將會決定最終的成功或徹底失敗。",
+          "example": "Analysts believe the $60,000 support level is a make-or-break point for Bitcoin's short-term price trend."
         },
         {
-          "word": "outlook",
-          "ipa": "/ˈaʊt.lʊk/",
-          "meaning": "前景，展望指引",
-          "example": "The company adjusted its quarterly revenue outlook due to news."
+          "word": "financial technology",
+          "ipa": "[faɪˈnænʃəl tɛkˈnɑlədʒi]",
+          "meaning": "金融科技（簡稱 Fintech）。指利用創新科技手段來改善、自動化並提供更有效率的金融服務與產品。",
+          "example": "The state government is embracing financial technology to streamline public payments and attract tech startups."
         }
       ],
-      "level2_context": "白話背景：這篇新聞在探討國際政經政策對核心科技產業（如晶片出口、通膨升息）造成的宏觀影響。這些變動會透過半導體與伺服器代工供應鏈，在幾天內迅速傳導至台灣股市，是主力資金調度的重要風向球。",
+      "level2_context": "各位同學，這篇新聞非常有趣，它展現了美國地方政府在「金融科技」上的大膽嘗試！當主流加密貨幣比特幣（Bitcoin）價格暴跌、市場陷入恐慌之際，人口稀少、以農業為主的懷俄明州（Wyoming）竟然開了全美先河，發行了第一個由州政府支持的穩定幣——FRNT。為什麼懷俄明州要這麼做？首先，該州一直以來都試圖透過極具彈性的法規，將自己打造成美國的「加密貨幣天堂」以吸引科技人才。其次，發行穩定幣是一門極佳的無風險生意：政府可以將發行穩定幣收到的美元儲備拿去購買美債賺取利息，並將這些收益用於支持當地的公立學校。然而，這項政策也面臨質疑：在一個居民仍習慣使用現金與傳統支票的農業州，推動如此前衛的數位貨幣，究竟是真正的創新，還是「拿著錘子找釘子」（a solution looking for a problem）的過度設計？這非常值得我們從宏觀角度去思考。",
       "level3_translation": [
         {
-          "sentence": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations.",
-          "translation": "【白話翻譯】Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+          "sentence": "After blasting to an all-time high in October 2025, bitcoin has been stuck in reverse, shedding nearly 50% of its value as investors pull back from risky bets.",
+          "translation": "在 2025 年 10 月衝上歷史新高之後，比特幣的走勢便開始倒退嚕，隨著投資人紛紛撤出高風險資產，比特幣已經蒸發了將近五成的市值。"
         },
         {
-          "sentence": "See our Advertiser Disclosure.\n\nWhen the Federal Reserve changes interest rates, the impact reaches far beyond Wall Street.",
-          "translation": "【白話翻譯】See our Advertiser Disclosure.\n\nWhen the Federal Reserve changes interest rates, the impact reaches far beyond Wall Street.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+          "sentence": "Despite boasting a massive $1.23-trillion market cap, bitcoin is now clinging to the key $60,000 mark, a level many traders see as make-or-break for the battered cryptocurrency (1).",
+          "translation": "儘管比特幣仍坐擁高達 1.23 兆美元的龐大市值，但目前正苦苦支撐在 60,000 美元這一關鍵關卡，許多交易員認為，這個價位對於這檔飽受摧殘的加密貨幣來說，是決定生死存亡的關鍵支撐點。"
         },
         {
-          "sentence": "Higher rates can help savers earn more on their cash, while lower rates can make mortgages, car loans, and credit cards more affordable.",
-          "translation": "【白話翻譯】Higher rates can help savers earn more on their cash, while lower rates can make mortgages, car loans, and credit cards more affordable.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+          "sentence": "The ultra-rich use these 5 real estate strategies to build wealth while they sleep — you can start with just $100",
+          "translation": "超級富豪們正利用這 5 種房地產策略在睡夢中創造財富——而你只需 100 美元就能開始參與。"
         },
         {
-          "sentence": "But because every rate move creates both winners and losers, there's no simple answer to whether high or low rates are best.\n\nUnderstanding why the Fed raises and lowers rates — and how those decisions affect your money — can help you make smarter choices about saving and borrowing.\n\nThe Federal Reserve is mandated by Congress to promote stable prices and maximum employment within the US economy.",
-          "translation": "【白話翻譯】But because every rate move creates both winners and losers, there's no simple answer to whether high or low rates are best.\n\nUnderstanding why the Fed raises and lowers rates — and how those decisions affect your money — can help you make smarter choices about saving and borrowing.\n\nThe Federal Reserve is mandated by Congress to promote stable prices and maximum employment within the US economy.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+          "sentence": "Robert Kiyosaki says this 1 asset will surge 400% in a year and begs investors not to miss this ‘explosion’",
+          "translation": "《富爸爸，窮爸爸》作者羅伯特·清崎表示，這項資產將在一年內暴漲 400%，並懇求投資人千萬不要錯過這次的『大爆發』。"
         },
         {
-          "sentence": "One of the tools it has at its disposal to achieve these goals is the federal funds rate.\n\nDuring times of high inflation, for instance, the Fed will raise its federal funds rate, which is the rate banks charge each other for overnight loans to meet cash reserve requirements.\n\nWhen the federal funds rate increases, financial institutions also increase interest rates on certain types of loans, such as credit cards, auto loans, personal loans, and, less directly, mortgages.",
-          "translation": "【白話翻譯】One of the tools it has at its disposal to achieve these goals is the federal funds rate.\n\nDuring times of high inflation, for instance, the Fed will raise its federal funds rate, which is the rate banks charge each other for overnight loans to meet cash reserve requirements.\n\nWhen the federal funds rate increases, financial institutions also increase interest rates on certain types of loans, such as credit cards, auto loans, personal loans, and, less directly, mortgages.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+          "sentence": "Millionaires under 43 hold only 25% of their wealth in stocks. Surprised? Here’s where their money is actually going",
+          "translation": "43 歲以下的百萬富翁僅將 25% 的財富配置在股票上。感到驚訝嗎？以下是他們的資金實際流向。"
         },
         {
-          "sentence": "Many of them also increase the interest rates on their savings products to expand their lending capacity.",
-          "translation": "【白話翻譯】Many of them also increase the interest rates on their savings products to expand their lending capacity.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+          "sentence": "According to Bloomberg, Wyoming has officially become the first state in America to issue a government-backed stablecoin, a digital token called Frontier Stable Token (2) (FRNT).",
+          "translation": "根據彭博社報導，懷俄明州已正式成為美國第一個發行政府支持穩定幣的州，這款數位代幣被命名為『前沿穩定代幣』（Frontier Stable Token，簡稱 FRNT）。"
         },
         {
-          "sentence": "This makes it more expensive for Americans to borrow money, but it also means they can earn more on their savings balances.\n\nOn the other hand, if the Fed wants to stimulate economic growth, it will lower the federal funds rate.",
-          "translation": "【白話翻譯】This makes it more expensive for Americans to borrow money, but it also means they can earn more on their savings balances.\n\nOn the other hand, if the Fed wants to stimulate economic growth, it will lower the federal funds rate.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+          "sentence": "Could Wyoming’s stablecoin be a chance to modernize payments, attract financial innovation and even generate revenue for public schools?",
+          "translation": "懷俄明州的穩定幣能否成為推動支付現代化、吸引金融創新，甚至為公立學校創造財政收入的契機？"
         },
         {
-          "sentence": "When this happens, loan interest rates also go down, encouraging borrowing and spending among consumers and businesses.",
-          "translation": "【白話翻譯】When this happens, loan interest rates also go down, encouraging borrowing and spending among consumers and businesses.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+          "sentence": "Or is it a solution looking for a problem in a state where many residents still prefer cash, checks and traditional banks?",
+          "translation": "抑或是在一個多數居民仍偏好使用現金、支票和傳統銀行的州裡，這只是一個『拿著錘子找釘子』、多此一舉的方案？"
         },
         {
-          "sentence": "The downside is that deposit accounts pay less interest, stunting savers' ability to grow their savings.\n\nRead more: Fed rate cut: How it affects your bank accounts, loans, credit cards, and investments.",
-          "translation": "【白話翻譯】The downside is that deposit accounts pay less interest, stunting savers' ability to grow their savings.\n\nRead more: Fed rate cut: How it affects your bank accounts, loans, credit cards, and investments.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+          "sentence": "Wyoming, a state where there are fewer than 600,000 residents (3) and cows outnumber people roughly two to one (3), might not be the first place people would expect to find a financial technology revolution.",
+          "translation": "懷俄明州這個人口不足 60 萬、且牛隻數量大約是人口兩倍的農業州，或許不是人們預期會發生金融科技革命的首選之地。"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "violence_connection": "【大腦暴力聯結】今天清晨路透社報導美股科技股的最新利多，提到 AI 晶片需求依然旺盛。這正好合理解釋了為什麼早盤外資大買半導體權值股【兆豐金】，且特定分點在低檔提早收貨。自營叔叔分析的『主力潛伏布局』，背後其實是國際半導體供應鏈板塊的利多傳導。建議肖年仔多注意今晚美股開盤後相關板塊的表現，這會直接決定明早台股開盤的氣勢！"
+    "violence_connection": "今日台股籌碼出現極端的「土洋對決」與「科技轉傳產」巨震，外資（如美商高盛）瘋狂掃貨中鋼與台塑，同時大舉調節鴻海、緯創等AI權值股。這看似反常的避險操作，完美呼應了午後美股傳出的警訊。國際市場上，SpaceX IPO 狂熱引發 Jim Cramer 警告其已成「迷因股」，「大賣空」原型 Burry 更直指其估值泡沫超越波克夏，加之比特幣暴跌五成，種種跡象顯示全球聰明錢正對高估值科技與投機資產進行劇烈的「去槓桿」與「風險重估」。外資大戶顯然提前嗅到這股風向，在白天便預先將資金撤離高基期的AI供應鏈，轉而「借道」台股，將資金停泊在基期極低、具實體資產防禦屬性的鋼鐵、塑化龍頭。這是一場精準的全球跨資產避險大挪移，大戶正用真金白銀預告：科技狂熱將暫歇，價值防禦才是王道。"
   }
 }
