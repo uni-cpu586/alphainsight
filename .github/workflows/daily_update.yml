@@ -31,7 +31,7 @@ jobs:
         pip install -r backend/requirements.txt
     - name: 執行 Python 爬蟲 (Crawler)
       run: python backend/crawler.py
-    -     - name: 執行 AI 處理器 (使用 Gemini API)
+    - name: 執行 AI 處理器 (使用 Gemini API)
       run: python backend/agent_processor.py --mode gemini
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
