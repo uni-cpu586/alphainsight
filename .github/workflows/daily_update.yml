@@ -29,7 +29,7 @@ jobs:
         if os.path.exists("data/raw_data.json"):
             with open("data/raw_data.json", "r", encoding="utf-8") as f:
                 data = json.load(f)
-            raw_date_str = data.get("date")
+            raw_date_str = data.get("stock_market_date", data.get("date"))
             try:
                 raw_date = datetime.datetime.strptime(raw_date_str, "%Y-%m-%d").date()
                 # 取得台灣時間昨日日期

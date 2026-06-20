@@ -309,7 +309,8 @@ def run_crawler():
     # 3. Assemble and output
     if stock_market_data and news_data:
         raw_output = {
-            "date": actual_trading_date.isoformat() if actual_trading_date else today.isoformat(),
+            "date": today.isoformat(),
+            "stock_market_date": actual_trading_date.isoformat() if actual_trading_date else today.isoformat(),
             "stock_market": stock_market_data,
             "news": news_data
         }

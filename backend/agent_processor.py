@@ -471,6 +471,16 @@ def run_processor(mode, ollama_model):
     with open(raw_data_path, "r", encoding="utf-8") as f:
         raw_data = json.load(f)
         
+    # Load previous processed insights if exists
+    prev_insights = {}
+    processed_insights_path = os.path.join(base_dir, "frontend", "data", "processed_insights.json")
+    if os.path.exists(processed_insights_path):
+        try:
+            with open(processed_insights_path, "r", encoding="utf-8") as f:
+                prev_insights = json.load(f)
+        except Exception as e:
+            print(f"Warning: Failed to load previous processed insights: {e}")
+            
     # Check if Taiwan market was closed yesterday
     import datetime
     tz_offset = datetime.timezone(datetime.timedelta(hours=8))
@@ -479,12 +489,18 @@ def run_processor(mode, ollama_model):
     
     raw_date_str = raw_data.get("date")
     try:
-        raw_date = datetime.datetime.strptime(raw_date_str, "%Y-%m-%d")
-        market_closed_yesterday = (raw_date.date() < yesterday_tw)
+        raw_date = datetime.datetime.strptime(raw_date_str, "%Y-%m-%d").date()
     except Exception as e:
         print(f"Error parsing raw data date {raw_date_str}: {e}")
+        raw_date = today_tw
+        
+    stock_market_date_str = raw_data.get("stock_market_date", raw_date_str)
+    try:
+        stock_market_date = datetime.datetime.strptime(stock_market_date_str, "%Y-%m-%d").date()
+        market_closed_yesterday = (stock_market_date < yesterday_tw)
+    except Exception as e:
+        print(f"Error parsing stock market date {stock_market_date_str}: {e}")
         market_closed_yesterday = False
-        raw_date = datetime.datetime.now(tz_offset)
         
     # Check if we should fallback to mock
     if mode == "mock":
@@ -540,14 +556,16 @@ def run_processor(mode, ollama_model):
     # 1. Run Stock Uncle
     print("1. Processing Stock Uncle...")
     if market_closed_yesterday:
-        print("   - Yesterday was a market holiday or weekend. Skipping Stock Uncle AI processing.")
-        stock_uncle_insight = {
-            "date_header": f"{raw_date.month}/{raw_date.day} 昨日台股休市，無大戶籌碼分析數據",
-            "buyer_groups": [],
-            "strategies": [],
-            "summary": "昨日台股休市，不進行籌碼分析。",
-            "top_brokerages_analysis": []
-        }
+        print("   - Yesterday was a market holiday or weekend. Skipping Stock Uncle AI processing. Reusing previous report...")
+        stock_uncle_insight = prev_insights.get("stock_uncle_insight")
+        if not stock_uncle_insight:
+            stock_uncle_insight = {
+                "date_header": f"{raw_date.month}/{raw_date.day} 昨日台股休市，無大戶籌碼分析數據",
+                "buyer_groups": [],
+                "strategies": [],
+                "summary": "昨日台股休市，且無歷史資料可用。",
+                "top_brokerages_analysis": []
+            }
     else:
         if mode == "ollama":
             stock_uncle_insight = call_ollama(uncle_sys, uncle_user, ollama_model)
