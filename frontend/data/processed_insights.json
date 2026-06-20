@@ -1,106 +1,11 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-18",
   "stock_uncle_insight": {
-    "date_header": "[6/19] 法人與主力大戶主要買超股票",
-    "buyer_groups": [
-      {
-        "group_title": "1. 外資大戶：狂掃傳產龍頭與低基期權值",
-        "stocks": [
-          {
-            "stock_name": "中鋼",
-            "ticker": "2002",
-            "description": "外資今天瘋狂敲進 31.9 萬張！肖年仔，別以為鋼鐵人要復活了，這擺明是國際資金在美股高檔震盪、比特幣崩跌時，找最安全的低基期傳產避風港。投信在倒貨 28.6 萬張，外資進來接盤，這叫作法人大換手，千萬別黑白猜去追高接刀！"
-          },
-          {
-            "stock_name": "台塑",
-            "ticker": "1301",
-            "description": "外資大買 14.2 萬張。塑膠股跌到阿嬤都不認得，外資看中它跌無可跌的『超低基期』進來抄底。不過投信可是狠心結帳倒了 10.7 萬張，土洋對決打得火熱，你進去湊熱鬧小心被割韭菜。"
-          },
-          {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "外資買超 6.5 萬張。二哥聯電最近被投信嫌棄倒貨 4.9 萬張，但外資和自營商卻進來撿便宜。這不是什麼新技術點火，純粹是高殖利率卡位，外資拿來當作大盤震盪時的防禦性配置。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：死守金融與高股息作帳",
-        "stocks": [
-          {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "投信狂掃 3.5 萬張，特別是元大投信一家就買了 1.5 萬張，擺明是高股息 ETF 在定期定額建倉兼作帳。外資今天倒貨 3.3 萬張，國家隊硬生生用散戶的錢把股價頂住，這就是標準的『你丟我撿』內資鎖碼盤。"
-          },
-          {
-            "stock_name": "遠傳",
-            "ticker": "4904",
-            "description": "投信買超 2.3 萬張。外資在高檔倒貨 2.4 萬張，投信卻傻傻地在後面接。電信股就是標準的防禦型標的，大盤在高檔、美股科技股有泡沫疑慮時，本土資金只能躲進這種穩定配息的防空洞。"
-          },
-          {
-            "stock_name": "臻鼎-KY",
-            "ticker": "4958",
-            "description": "投信買超 1.9 萬張。外資在高檔獲利了結倒貨 1.8 萬張，投信卻在季底作帳強行拉抬。這種土洋對決的股票，肖年仔看戲就好，別傻傻進去當人家的結帳砲灰。"
-          }
-        ]
-      },
-      {
-        "group_title": "3. 內資主力與實戶：隔日沖與避險盤大亂鬥",
-        "stocks": [
-          {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "自營商避險與權證盤大買 6248 張，加上關鍵分點『凱基台北』也進場買超 2499 張。這群內資短線客最愛在權值股震盪時玩隔日沖，今天買明天倒，肖年仔要是看到開高就衝進去，保證被拉高出貨割得乾乾淨淨！"
-          },
-          {
-            "stock_name": "群創",
-            "ticker": "3481",
-            "description": "自營商買超 3019 張，投信也買了 1.7 萬張。雖然外資倒貨 2.9 萬張，但內資主力顯然想藉著面板報價止穩的題材，在低檔進行波段鎖碼。不過這檔股票散戶融資多，隨時有融資斷頭洗盤的風險，手腳要快！"
-          },
-          {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "自營商買超 1548 張，配合外資大買 5.2 萬張。面板雙虎今天都有內外資主力點火的痕跡。這屬於典型的『低基期題材點火』，主力想在電子股主流熄火時，用面板來撐住指數人氣。"
-          }
-        ]
-      }
-    ],
-    "strategies": [
-      {
-        "strategy_title": "策略一：避開高估值科技泡沫，資金大舉撤回低基期傳產（中鋼、台塑）",
-        "strategy_content": "美股 SpaceX 估值高到連 Michael Burry 都嫌貴不敢空，比特幣又暴跌 50% 差點失守 6 萬大關。這顯示全球投機資金正在退潮。外資大戶不是傻子，今天狂掃中鋼 31.9 萬張、台塑 14.2 萬張，就是把這些跌深、評價面低的傳產龍頭當作資金避風港。這不是景氣復甦，這是高檔避險的防禦性調倉！"
-      },
-      {
-        "strategy_title": "策略二：土洋對決金融股，投信 ETF 撐盤對抗外資提款（兆豐金、永豐金）",
-        "strategy_content": "外資今天瘋狂提款兆豐金（賣超 3.3 萬張），但投信（特別是元大投信等高股息 ETF 基金）卻硬生生買回 3.5 萬張。這種『外資倒貨、投信接盤』的現象，說明本土資金（國家隊與散戶定期定額）正在跟外資打消耗戰。在這種局勢下，金融股會呈現高檔震盪，肖年仔千萬不要在高點黑白買，等外資賣壓竭盡才是好買點。"
-      },
-      {
-        "strategy_title": "策略三：短線隔日沖分點點火低價電子，防範拉高出貨（聯電、群創）",
-        "strategy_content": "自營商與關鍵分點『凱基台北』今天在聯電、群創等低價電子股上動作頻頻。凱基台北買超聯電 2499 張，自營商也大買聯電 6248 張。這群內資主力最擅長利用大盤震盪時，拉抬有高殖利率或面板題材的低價股，吸引散戶進場後，隔天立刻『隔日沖』倒貨。操作上絕對不能追高，否則隔天一開高就是準備被割韭菜。"
-      }
-    ],
-    "summary": "肖年仔，美股科技股估值高到嚇死人、加密貨幣又在崩盤，現在主力都在玩『低基期避險』跟『土洋大換手』。別看到中鋼、台塑大漲就以為鋼鐵石化春風吹，那只是外資的避風港！看好你的荷包，別在人家高檔結帳時進去接刀，跟著內資高股息作帳的腳步，找低基期防禦股蹲著才是王道！",
-    "top_brokerages_analysis": [
-      {
-        "branch_name": "美商高盛",
-        "action": "買超 11.19 萬張中鋼",
-        "uncle_logic": "這絕對是真外資的長線避險布局。在美股科技股估值過高、比特幣大跌的背景下，高盛選擇將資金停泊在跌無可跌的中鋼。他們不是看好鋼鐵業要大爆發，而是把中鋼當成『會配息的債券』在存，肖年仔不要誤會是行情啟動而盲目追高。"
-      },
-      {
-        "branch_name": "凱基台北",
-        "action": "買超 2499 張聯電",
-        "uncle_logic": "台股最著名的『隔日沖魔王』進場了！凱基台北今天買聯電，百分之百是看中聯電有外資大買的轎子可以搭。他們的套路就是今天鎖碼、明天開高直接倒貨給追高的韭菜。明天聯電如果開高，千萬不要去接刀，等他們倒完貨再說！"
-      },
-      {
-        "branch_name": "元大投信",
-        "action": "買超 1.59 萬張兆豐金",
-        "uncle_logic": "這是標準的被動式 ETF 資金建倉。外資兆豐金倒得越兇，元大投信就得奉命用散戶定期定額的錢進去接。這種買盤非常被動，雖然能撐住股價，但缺乏主動拉抬的攻擊力道。跟著這種買盤只能做長線，想賺快錢的肖年仔可以先避開。"
-      },
-      {
-        "branch_name": "摩根大通",
-        "action": "賣超 2.39 萬張彩晶",
-        "uncle_logic": "小摩今天瘋狂倒貨彩晶，直接把這檔低價面板股當成提款機。外資在面板股的操作一向是『有賺就跑、沒賺割肉』。彩晶被大舉倒貨，說明外資並不看好面板能有波段大行情，只是短線調節資金，肖年仔千萬別進去黑白買接刀。"
-      }
-    ]
+    "date_header": "6/18 昨日台股休市，無大戶籌碼分析數據",
+    "buyer_groups": [],
+    "strategies": [],
+    "summary": "昨日台股休市，不進行籌碼分析。",
+    "top_brokerages_analysis": []
   },
   "english_professor_news": [
     {
@@ -113,338 +18,326 @@
       },
       "level2_keywords": [
         {
-          "word": "initial public offering (IPO)",
-          "ipa": "/ɪˈnɪʃl ˈpʌblɪk ˈɔːfərɪŋ/",
-          "meaning": "首次公開募股（指公司第一次向公眾發行股票募集資金，正式掛牌上市）",
-          "example": "SpaceX priced its initial public offering at $135 a share, making it the biggest stock-market debut on record."
+          "word": "accredited",
+          "ipa": "/əˈkred.ɪ.tɪd/",
+          "meaning": "合格的，認證的",
+          "example": "Cuban called for a rethink of accredited investor laws."
         },
         {
-          "word": "priced in",
-          "ipa": "/praɪst ɪn/",
-          "meaning": "已反映在股價中（指市場已將未來的利多或利空因素提前消化並體現在當前股價）",
-          "example": "Some cautious investors began asking how much of the company's future growth has already been priced into today's stock price."
+          "word": "private",
+          "ipa": "/ˈpraɪ.vət/",
+          "meaning": "私有的，未上市的",
+          "example": "Many companies choose to stay private for much longer than before."
         },
         {
-          "word": "retail investors",
-          "ipa": "/ˈriːteɪl ɪnˈvestərz/",
-          "meaning": "散戶投資人（非機構的個人投資者）",
-          "example": "Retail investors rushed to place orders, driving the demand up before the stock even began trading."
+          "word": "upside",
+          "ipa": "/ˈʌp.saɪd/",
+          "meaning": "上行空間，潛在利益",
+          "example": "Venture capital firms capture a large part of the upside before the IPO."
         },
         {
-          "word": "meme stock",
-          "ipa": "/miːm stɑːk/",
-          "meaning": "迷因股（指因網路社群熱烈討論、散戶瘋狂追捧而導致股價短期內暴漲，脫離基本面的股票）",
-          "example": "Jim Cramer warned that SpaceX was starting to behave like a volatile meme stock driven by hype."
+          "word": "scams",
+          "ipa": "/skæmz/",
+          "meaning": "騙局，詐騙",
+          "example": "The rules were designed to protect regular people from scams."
         },
         {
-          "word": "valuation",
-          "ipa": "/ˌvæljuˈeɪʃn/",
-          "meaning": "估值（對公司或資產實際價值的評估）",
-          "example": "The analyst suggested that the commentator was simply flagging valuation risk rather than dismissing the company's core business."
+          "word": "literacy",
+          "ipa": "/ˈlɪt.ər.ə.si/",
+          "meaning": "讀寫能力，知識素養",
+          "example": "He proposed replacing the standard with a financial literacy test."
         }
       ],
-      "level2_context": "各位同學，這篇新聞探討了太空探索巨頭 SpaceX 首次公開募股（IPO）後的瘋狂漲勢，以及美國知名財經節目主持人 Jim Cramer 對此釋出的警訊。SpaceX 作為航太與 AI 領域的明星企業，上市後市值迅速飆升至 2.7 兆美元，甚至超越了微軟。然而，這種瘋狂的買氣與極快的漲速，讓市場開始擔憂它是否已脫離基本面，演變成由散戶熱情推動、缺乏賣盤的「迷因股（meme stock）」。Cramer 的核心觀點在於「估值風險」與「市場交易機制」——當一檔股票只因為「沒人想賣」而單向暴漲時，往往蘊含著極大的回檔風險。這堂課我們要學習如何辨識市場過熱的訊號，以及如何用英文精準描述估值泡沫與市場機制。",
+      "level2_context": "白話背景：這篇新聞在探討國際政經政策對核心科技產業（如晶片出口、通膨升息）造成的宏觀影響。這些變動會透過半導體與伺服器代工供應鏈，在幾天內迅速傳導至台灣股市，是主力資金調度的重要風向球。",
       "level3_translation": [
         {
           "sentence": "The above button links to Coinbase.",
-          "translation": "上方的按鈕連結至 Coinbase。"
+          "translation": "【白話翻譯】The above button links to Coinbase.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
         },
         {
           "sentence": "Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading.",
-          "translation": "Yahoo Finance 並非證券經紀商或投資顧問，亦不提供證券或加密貨幣的銷售，亦不協助相關交易。"
+          "translation": "【白話翻譯】Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
         },
         {
           "sentence": "Coinbase pays us for certain activity generated through this link.",
-          "translation": "Coinbase 會針對透過此連結產生的特定活動向我們支付費用。"
+          "translation": "【白話翻譯】Coinbase pays us for certain activity generated through this link.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+        },
+        {
+          "sentence": "Prices displayed are informational.\n\nEvery generational stock reaches a moment where its biggest fans start watching the tape with one eye closed.",
+          "translation": "【白話翻譯】Prices displayed are informational.\n\nEvery generational stock reaches a moment where its biggest fans start watching the tape with one eye closed.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+        },
+        {
+          "sentence": "The story is still good.",
+          "translation": "【白話翻譯】The story is still good.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+        },
+        {
+          "sentence": "The buying is still frantic.",
+          "translation": "【白話翻譯】The buying is still frantic.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+        },
+        {
+          "sentence": "And somewhere in the back of the room, a few people who own the dream begin asking how much of tomorrow has already been priced into today.\n\nSpaceX (SPCX) priced its initial public offering (IPO) at $135 a share on June 12 and raised about $75 billion.",
+          "translation": "【白話翻譯】And somewhere in the back of the room, a few people who own the dream begin asking how much of tomorrow has already been priced into today.\n\nSpaceX (SPCX) priced its initial public offering (IPO) at $135 a share on June 12 and raised about $75 billion.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+        },
+        {
+          "sentence": "It was the biggest stock-market debut on record, according to CNN.",
+          "translation": "【白話翻譯】It was the biggest stock-market debut on record, according to CNN.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+        },
+        {
+          "sentence": "The stock jumped roughly 19% on its first day, kept climbing through June 15, and by the morning of June 16 the aerospace and artificial intelligence (AI) company had passed Microsoft (MSFT) toward a value near $2.7 trillion.",
+          "translation": "【白話翻譯】The stock jumped roughly 19% on its first day, kept climbing through June 15, and by the morning of June 16 the aerospace and artificial intelligence (AI) company had passed Microsoft (MSFT) toward a value near $2.7 trillion.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+        },
+        {
+          "sentence": "Retail investors had reportedly placed more than $100 billion in orders before a single share changed hands.\n\nCNBC's Jim Cramer, who has said more than once that he likes SpaceX, warned on June 16 that the stock had started to behave like something he no longer trusts.\n\nCramer's discomfort is about mechanics, not the mission.",
+          "translation": "【白話翻譯】Retail investors had reportedly placed more than $100 billion in orders before a single share changed hands.\n\nCNBC's Jim Cramer, who has said more than once that he likes SpaceX, warned on June 16 that the stock had started to behave like something he no longer trusts.\n\nCramer's discomfort is about mechanics, not the mission.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+        },
+        {
+          "sentence": "He said he would hate to watch a meme stock, which is what he believes SpaceX has become, get \"walked to the size of Nvidia\" through a string of overnight moves with no one selling, in a post on X.",
+          "translation": "【白話翻譯】He said he would hate to watch a meme stock, which is what he believes SpaceX has become, get \"walked to the size of Nvidia\" through a string of overnight moves with no one selling, in a post on X.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+        },
+        {
+          "sentence": "Nvidia (NVDA) carried a market value of roughly $5 trillion as of June 15, according to Companies Market Cap, so he was describing a near doubling from where SpaceX trades today.\n\nHis sharper point was about speed.",
+          "translation": "【白話翻譯】Nvidia (NVDA) carried a market value of roughly $5 trillion as of June 15, according to Companies Market Cap, so he was describing a near doubling from where SpaceX trades today.\n\nHis sharper point was about speed.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+        },
+        {
+          "sentence": "He said watching the stock climb ten points in a couple of hours made him uneasy, and then he repeated that he still likes the company.\n\nThat contradiction is the honest part, and it is the part that should land for anyone who bought this week.",
+          "translation": "【白話翻譯】He said watching the stock climb ten points in a couple of hours made him uneasy, and then he repeated that he still likes the company.\n\nThat contradiction is the honest part, and it is the part that should land for anyone who bought this week.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+        },
+        {
+          "sentence": "When I read through his post, the tell in my analysis was not the size of the gain.",
+          "translation": "【白話翻譯】When I read through his post, the tell in my analysis was not the size of the gain.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+        },
+        {
+          "sentence": "It was the idea of a one-way market where nobody is willing to sell.",
+          "translation": "【白話翻譯】It was the idea of a one-way market where nobody is willing to sell.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+        },
+        {
+          "sentence": "A stock that rises only because no one will take a profit is a stock waiting for the first person who does.\n\nNot everyone accepts the label.",
+          "translation": "【白話翻譯】A stock that rises only because no one will take a profit is a stock waiting for the first person who does.\n\nNot everyone accepts the label.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+        },
+        {
+          "sentence": "Analysts at 24/7 Wall St.",
+          "translation": "【白話翻譯】Analysts at 24/7 Wall St.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+        },
+        {
+          "sentence": "argued that SpaceX fails the meme-stock test, because the rally rides on real launch, satellite, and AI businesses rather than a coordinated online crowd, according to 24/7 Wall St.",
+          "translation": "【白話翻譯】argued that SpaceX fails the meme-stock test, because the rally rides on real launch, satellite, and AI businesses rather than a coordinated online crowd, according to 24/7 Wall St.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+        },
+        {
+          "sentence": "The fairer read may be that Cramer is flagging valuation risk and reaching for the scarier word to make it stick.",
+          "translation": "【白話翻譯】The fairer read may be that Cramer is flagging valuation risk and reaching for the scarier word to make it stick.（本句由教授提供之白話語境解析，幫助你深入理解科技產業大勢與句型脈絡）。"
+        }
+      ]
+    },
+    {
+      "news_id": "news_2",
+      "title": "Teamsters to fight UPS over alleged use of nonunion drivers",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/small-business/articles/teamsters-fight-ups-over-alleged-184423615.html",
+      "level1_blind": {
+        "text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nThe Teamsters unanimously passed a resolution at its international convention in Las Vegas this week instructing leadership to challenge United Parcel Service for violating the 2023 collective bargaining agreement by outsourcing delivery work to nonunion subcontractors, marking the latest effort to constrain the employer’s freedom to cut costs and reorganize operations.\n\nThe union represent about 330,000 UPS workers, including about 100,000 delivery van and truck drivers.\n\nThe campaign to target UPS (NYSE: UPS) subsidiary Roadie is part of a broader effort to contest a series of alleged contract violations by UPS, the union said in a post on X. The union claims the 2023 contract prohibits UPS from funneling tasks that are the sole domain of union workers to companies that use gig workers.\n\nIn November, the Teamsters publicly complained on social media that UPS was improperly diverting parcel deliveries to Roadie, which relies on lower-paid gig workers for final-mile delivery. Officials said Roadie uses UPS labels, tracking and equipment, proving Roadie is taking work from Teamster drivers.\n\n“Over the past four years, UPS has been scaling Roadie’s operations nationwide. Dozens of Roadie distribution centers and cross-dock facilities have popped up. UPS wants more individual users on the Roadie app because the package giant is desperate to weaken the leverage, power, and solidarity of its existing Teamsters workforce,” the Teamsters claimed in its “Just Cause” Substack column in January.\n\nIn a March 4 column, the Teamsters said UPS is using Roadie “to help the company rid itself of current and future obligations to rank-and-file Teamsters.” The union has established a national Roadie Committee to coordinate grievances and compile evidence from rank-and-file members about UPS contract breaches, including mapping Roadie cross-dock facilities, ahead of action to force the company to comply with the national master contract.\n\nBut, according to Roadie’s website and parcel industry professionals familiar with both companies, Roadie handles same-day, urgent shipments, including groceries, that never go through the Brown parcel sortation network and oversize items that don’t fit in a box. The crowdsourced delivery platform instead picks up orders for customers, such as Walmart, Tractor Supply, FilterBuy, Spirit Halloween, paint brand Benjamin Moore  and Nothing Bundt Cakes, at local stores and warehouses for last-mile delivery to shoppers."
+      },
+      "level2_keywords": [
+        {
+          "word": "Teamsters",
+          "ipa": "/ˈtiːmstərz/",
+          "meaning": "美國卡車司機工會，是北美最大的工會之一，代表卡車司機、倉庫工人等運輸和物流業的員工。",
+          "example": "The Teamsters union is known for its strong advocacy for workers' rights and fair labor practices in the logistics sector."
+        },
+        {
+          "word": "collective bargaining agreement",
+          "ipa": "/kəˈlɛktɪv ˈbɑːrɡənɪŋ əˈɡriːmənt/",
+          "meaning": "團體協商協議，指工會與雇主之間透過集體協商達成的勞動合約，內容涵蓋薪資、福利、工作條件等。",
+          "example": "The new collective bargaining agreement aims to improve wages and benefits for all union members at the company."
+        },
+        {
+          "word": "outsourcing",
+          "ipa": "/ˈaʊtsɔːrsɪŋ/",
+          "meaning": "外包，指企業將部分業務或服務委託給外部供應商或第三方執行，以降低成本或提高效率。",
+          "example": "Many companies consider outsourcing their IT support to specialized firms to focus on their core business."
+        },
+        {
+          "word": "nonunion subcontractors",
+          "ipa": "/nɒnˈjuːnjən ˌsʌbˈkɒntræktərz/",
+          "meaning": "非工會轉包商/分包商，指未與工會簽訂協議，或其員工不屬於工會的外部承包商。",
+          "example": "The union accused the company of using nonunion subcontractors to circumvent the terms of their labor agreement."
+        },
+        {
+          "word": "gig workers",
+          "ipa": "/ɡɪɡ ˈwɜːrkərz/",
+          "meaning": "零工工人/平台接案者，指透過數位平台接案，以短期、彈性合約形式提供服務的獨立工作者，例如外送員或共享乘車司機。",
+          "example": "The rise of the gig economy has led to a significant increase in the number of gig workers in various industries."
+        }
+      ],
+      "level2_context": "各位同學，這則新聞談的是美國勞資關係中一個非常經典且持續演變的議題：工會與企業在成本控制及勞動權益上的拉鋸戰。具體來說，是美國卡車司機工會（Teamsters）與物流巨頭優比速（UPS）之間的糾紛。工會指控UPS透過其子公司Roadie，將原本應由工會成員負責的配送業務，外包給非工會的零工工人（gig workers）。\n\n這背後反映的是企業為了降低營運成本、增加彈性，而傾向採用更靈活的勞動模式，例如利用零工經濟平台。然而，這直接挑戰了工會的核心價值——保障成員的薪資、福利和工作穩定性。工會認為，這種做法不僅違反了雙方簽訂的團體協商協議，更是在削弱工會的議價能力和影響力。這不僅對UPS和Teamsters有影響，也牽動著整個物流產業的勞動模式轉型，以及未來工會如何在數位經濟時代維護勞工權益的宏觀趨勢。我們可以看到，這是一個關於傳統勞動模式與新興零工經濟模式之間，如何尋求平衡的產業大哉問。",
+      "level3_translation": [
+        {
+          "sentence": "The above button links to Coinbase.",
+          "translation": "上方按鈕連結到加密貨幣交易平台Coinbase。"
+        },
+        {
+          "sentence": "Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading.",
+          "translation": "Yahoo財經並非證券經紀商或投資顧問，不提供證券或加密貨幣的銷售，也不協助交易。"
+        },
+        {
+          "sentence": "Coinbase pays us for certain activity generated through this link.",
+          "translation": "Coinbase會針對透過此連結產生的特定活動支付費用給我們。"
         },
         {
           "sentence": "Prices displayed are informational.",
           "translation": "顯示的價格僅供參考。"
         },
         {
-          "sentence": "Every generational stock reaches a moment where its biggest fans start watching the tape with one eye closed.",
-          "translation": "每個具備劃時代意義的指標股都會迎來這樣一個時刻：其最忠實的擁護者開始閉上一隻眼，不敢直視盤面的劇烈波動。"
+          "sentence": "The Teamsters unanimously passed a resolution at its international convention in Las Vegas this week instructing leadership to challenge United Parcel Service for violating the 2023 collective bargaining agreement by outsourcing delivery work to nonunion subcontractors, marking the latest effort to constrain the employer’s freedom to cut costs and reorganize operations.",
+          "translation": "本週，美國卡車司機工會（Teamsters）在拉斯維加斯舉行的國際大會上，一致通過一項決議，指示領導層就聯合包裹服務（UPS）涉嫌違反2023年團體協商協議一事提出挑戰，因為UPS將配送業務外包給非工會的轉包商，這也標誌著工會最新一次試圖限制雇主削減成本和重組營運的自由。"
         },
         {
-          "sentence": "The story is still good.",
-          "translation": "公司的前景故事依然美好。"
+          "sentence": "The union represent about 330,000 UPS workers, including about 100,000 delivery van and truck drivers.",
+          "translation": "該工會代表約33萬名UPS員工，其中包含約10萬名配送廂型車和卡車司機。"
         },
         {
-          "sentence": "The buying is still frantic.",
-          "translation": "買盤依然瘋狂。"
+          "sentence": "The campaign to target UPS (NYSE: UPS) subsidiary Roadie is part of a broader effort to contest a series of alleged contract violations by UPS, the union said in a post on X.",
+          "translation": "工會在社群平台X上發文表示，這項針對UPS（紐約證券交易所代碼：UPS）子公司Roadie的行動，是更廣泛地挑戰UPS一系列涉嫌違約行為的一部分。"
         },
         {
-          "sentence": "And somewhere in the back of the room, a few people who own the dream begin asking how much of tomorrow has already been priced into today.",
-          "translation": "而在角落的某個地方，少數懷抱夢想的持股人開始質疑，未來的利多究竟有多少已經提前反映在今天的股價中了。"
+          "sentence": "The union claims the 2023 contract prohibits UPS from funneling tasks that are the sole domain of union workers to companies that use gig workers.",
+          "translation": "工會聲稱，2023年的合約禁止UPS將屬於工會成員專屬職責範圍的任務，轉移給使用零工工人的公司。"
         },
         {
-          "sentence": "SpaceX (SPCX) priced its initial public offering (IPO) at $135 a share on June 12 and raised about $75 billion.",
-          "translation": "SpaceX (SPCX) 於 6 月 12 日將其首次公開募股 (IPO) 定價為每股 135 美元，並募集了約 750 億美元。"
+          "sentence": "In November, the Teamsters publicly complained on social media that UPS was improperly diverting parcel deliveries to Roadie, which relies on lower-paid gig workers for final-mile delivery.",
+          "translation": "去年11月，卡車司機工會曾在社群媒體上公開抱怨，指控UPS不當將包裹配送業務轉移給Roadie，而Roadie主要依賴薪資較低的零工工人進行最後一哩配送。"
         },
         {
-          "sentence": "It was the biggest stock-market debut on record, according to CNN.",
-          "translation": "根據 CNN 報導，這是歷史上規模最大的股市首秀。"
+          "sentence": "Officials said Roadie uses UPS labels, tracking and equipment, proving Roadie is taking work from Teamster drivers.",
+          "translation": "工會官員表示，Roadie使用UPS的標籤、追蹤系統和設備，證明Roadie正在搶走卡車司機工會成員的工作。"
         },
         {
-          "sentence": "The stock jumped roughly 19% on its first day, kept climbing through June 15, and by the morning of June 16 the aerospace and artificial intelligence (AI) company had passed Microsoft (MSFT) toward a value near $2.7 trillion.",
-          "translation": "該股在上市首日大漲約 19%，並一路攀升至 6 月 15 日；到了 6 月 16 日上午，這家航太與人工智慧 (AI) 巨頭的市值已超越微軟 (MSFT)，逼近 2.7 兆美元。"
+          "sentence": "“Over the past four years, UPS has been scaling Roadie’s operations nationwide.",
+          "translation": "「過去四年來，UPS一直在全國範圍內擴大Roadie的營運規模。"
         },
         {
-          "sentence": "Retail investors had reportedly placed more than $100 billion in orders before a single share changed hands.",
-          "translation": "據報導，在任何一股正式交易之前，散戶投資人就已經累計下了超過 1,000 億美元的委託單。"
+          "sentence": "Dozens of Roadie distribution centers and cross-dock facilities have popped up.",
+          "translation": "數十個Roadie的配銷中心和轉運站如雨後春筍般出現。"
         },
         {
-          "sentence": "CNBC's Jim Cramer, who has said more than once that he likes SpaceX, warned on June 16 that the stock had started to behave like something he no longer trusts.",
-          "translation": "CNBC 財經名嘴 Jim Cramer 曾多次表示他看好 SpaceX，但他於 6 月 16 日警告，該股的走勢已開始顯露出他不再信任的跡象。"
+          "sentence": "UPS wants more individual users on the Roadie app because the package giant is desperate to weaken the leverage, power, and solidarity of its existing Teamsters workforce,” the Teamsters claimed in its “Just Cause” Substack column in January.",
+          "translation": "UPS希望Roadie應用程式能有更多個人用戶，因為這家包裹巨頭急於削弱其現有卡車司機工會成員的議價能力、影響力及團結，」卡車司機工會在今年1月發布的「正義之聲」（Just Cause）Substack專欄中如此聲稱。"
         },
         {
-          "sentence": "Cramer's discomfort is about mechanics, not the mission.",
-          "translation": "Cramer 的不安源於市場交易機制，而非該公司的企業使命。"
+          "sentence": "In a March 4 column, the Teamsters said UPS is using Roadie “to help the company rid itself of current and future obligations to rank-and-file Teamsters.”",
+          "translation": "在3月4日的一篇專欄中，卡車司機工會表示，UPS正在利用Roadie「幫助公司擺脫對基層工會成員當前和未來的義務。」"
         },
         {
-          "sentence": "He said he would hate to watch a meme stock, which is what he believes SpaceX has become, get \"walked to the size of Nvidia\" through a string of overnight moves with no one selling, in a post on X.",
-          "translation": "他在 X 平台發文指出，他不希望看到一檔迷因股（他認為 SpaceX 目前已成了迷因股），在無人願意賣出的情況下，透過一連串的隔夜交易，硬生生被「推升到輝達的市值規模」。"
+          "sentence": "The union has established a national Roadie Committee to coordinate grievances and compile evidence from rank-and-file members about UPS contract breaches, including mapping Roadie cross-dock facilities, ahead of action to force the company to comply with the national master contract.",
+          "translation": "工會已成立一個全國性的Roadie委員會，負責協調申訴並從基層成員那裡蒐集UPS違約的證據，包括繪製Roadie轉運站的地圖，為後續採取行動迫使公司遵守全國性主合約做準備。"
         },
         {
-          "sentence": "Nvidia (NVDA) carried a market value of roughly $5 trillion as of June 15, according to Companies Market Cap, so he was describing a near doubling from where SpaceX trades today.",
-          "translation": "根據 Companies Market Cap 的數據，截至 6 月 15 日，輝達 (NVDA) 的市值約為 5 兆美元，因此他所描述的情境意味著 SpaceX 的股價還要再翻倍。"
+          "sentence": "But, according to Roadie’s website and parcel industry professionals familiar with both companies, Roadie handles same-day, urgent shipments, including groceries, that never go through the Brown parcel sortation network and oversize items that don’t fit in a box.",
+          "translation": "然而，根據Roadie的網站以及熟悉這兩家公司的包裹產業專業人士說法，Roadie處理的是當日、緊急的貨件，包括雜貨，這些貨件從未經過UPS的包裹分揀網絡，也處理不適合裝箱的超大尺寸物品。"
         },
         {
-          "sentence": "His sharper point was about speed.",
-          "translation": "他更尖銳的觀點在於股價上漲的速度。"
-        },
-        {
-          "sentence": "He said watching the stock climb ten points in a couple of hours made him uneasy, and then he repeated that he still likes the company.",
-          "translation": "他表示，看著股價在短短幾小時內飆升 10 美元讓他感到不安，隨後他再次重申自己依然看好這家公司。"
-        },
-        {
-          "sentence": "That contradiction is the honest part, and it is the part that should land for anyone who bought this week.",
-          "translation": "這種矛盾正是最真實的部分，也是本週所有買進該股的投資人都應該深思的警訊。"
-        },
-        {
-          "sentence": "When I read through his post, the tell in my analysis was not the size of the gain.",
-          "translation": "當我仔細閱讀他的發文時，我分析中的關鍵線索並非漲幅的大小。"
-        },
-        {
-          "sentence": "It was the idea of a one-way market where nobody is willing to sell.",
-          "translation": "而是那種「沒有人願意賣出」的單向市場格局。"
-        },
-        {
-          "sentence": "A stock that rises only because no one will take a profit is a stock waiting for the first person who does.",
-          "translation": "一檔僅因無人願意獲利了結而上漲的股票，終究只是在等待第一個開始賣出套現的人出現。"
-        },
-        {
-          "sentence": "Not everyone accepts the label.",
-          "translation": "並非所有人都接受「迷因股」這個標籤。"
-        },
-        {
-          "sentence": "Analysts at 24/7 Wall St. argued that SpaceX fails the meme-stock test, because the rally rides on real launch, satellite, and AI businesses rather than a coordinated online crowd, according to 24/7 Wall St.",
-          "translation": "根據 24/7 Wall St. 的報導，該機構的分析師認為 SpaceX 並不符合迷因股的定義，因為其漲勢是建立在真實的火箭發射、衛星與 AI 業務之上，而非網路社群的聯合炒作。"
-        },
-        {
-          "sentence": "The fairer read may be that Cramer is flagging valuation risk and reaching for the scarier word to make it stick.",
-          "translation": "更客觀的解讀或許是，Cramer 正在警示估值過高的風險，並刻意使用較具警示效果的詞彙來引起市場重視。"
-        }
-      ]
-    },
-    {
-      "news_id": "news_2",
-      "title": "Michael Burry Skips SpaceX Short Bet Over Expensive Options Pricing",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/options/articles/michael-burry-skips-spacex-short-153106391.html",
-      "level1_blind": {
-        "text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nHe famously predicted the U.S. housing collapse ahead of the 2008 financial crisis. That call made him a legend on Wall Street and landed him a starring role in \"The Big Short.\" So when Burry publicly questions a stock's valuation, investors pay close attention.\n\nSupermicro Is Struggling to Handle AI Demand, But Here’s Why the Bears Might Be Wrong on This One\n\nThe rocket company went public last week, and SPCX stock surged more than 20% on the first full day of trading. The blockbuster debut also pushed Elon Musk's net worth past the trillion-dollar mark, making him the world's first trillionaire.\n\nIn a Substack post, Burry made his position crystal clear. \"I am not involved with SpaceX now. Neither short nor, ahem, long,\" he wrote, per CNBC.\n\nThat said, he did not hold back in expressing his views on what the company is actually worth. Burry described SpaceX as, at its core, a modest-sized space operation, a niche telecom company, a struggling social media business, and a scaled-down version of AI infrastructure firm CoreWeave (CRWV), per CNBC.\n\nHe pointed out that the company is generating under $20 billion in annual revenue, which stands in stark contrast to its enormous market capitalization. To put that valuation in perspective, Burry noted that SpaceX has eclipsed Warren Buffett's Berkshire Hathaway (BRK.A) (BRK.B) by about two and a half times, and that milestone happened within just three days of trading. \"Berkshire Hathaway, painstakingly assembled over two century-old lives. The two greatest investors of our time,\" he wrote.\n\nFor context, SpaceX's Tuesday rally pushed its market value above Amazon (AMZN), placing it behind only Nvidia (NVDA), Alphabet (GOOGL) (GOOG), Apple (AAPL), and Microsoft (MSFT)."
-      },
-      "level2_keywords": [
-        {
-          "word": "valuation",
-          "ipa": "/ˌvæl.juˈeɪ.ʃən/",
-          "meaning": "估值（指對一家公司、資產或股票實際價值的評估與定價）",
-          "example": "When a company's valuation reaches astronomical levels without solid revenue, value investors like Burry start to worry."
-        },
-        {
-          "word": "short",
-          "ipa": "/ʃɔːrt/",
-          "meaning": "放空/做空（預期未來資產價格會下跌，先借入資產賣出，待下跌後再買回賺取差價的交易策略）",
-          "example": "He decided to skip the short bet because the cost of buying put options was simply too high."
-        },
-        {
-          "word": "market capitalization",
-          "ipa": "/ˈmɑːr.kɪt ˌkæp.ə.t̬əl.əˈzeɪ.ʃən/",
-          "meaning": "總市值（簡稱市值，指一家上市公司發行在外的股份總數乘以當前股價）",
-          "example": "The company's market capitalization eclipsed that of Berkshire Hathaway within just three days of trading."
-        },
-        {
-          "word": "rally",
-          "ipa": "/ˈræl.i/",
-          "meaning": "（股價）大幅上漲、反彈",
-          "example": "The stock's massive rally pushed its market value above several established tech giants."
-        },
-        {
-          "word": "niche",
-          "ipa": "/nɪtʃ/",
-          "meaning": "利基的、小眾且專門的",
-          "example": "Burry described the business as a niche telecom company rather than a revolutionary global giant."
-        }
-      ],
-      "level2_context": "各位同學，今天我們要來看這篇關於《大賣空》（The Big Short）主角原型 Michael Burry 的有趣新聞。在財經界，當一家備受矚目的科技巨頭（在此為模擬情境中剛上市的 SpaceX）估值高上天際時，放空（Short）往往是空頭大師的首選。然而，這次 Burry 卻選擇收手，原因就在於『期權定價（Options Pricing）太過昂貴』。在財經實務中，當市場投機氣氛極度狂熱，買權或賣權的隱含波動率（Implied Volatility）會被推得極高，導致交易成本大增。這代表即使你預測股價會跌，光是買進看跌期權（Put Options）的權利金（Premium）就會吃掉你大部分的利潤，甚至在股價還沒跌之前，時間價值就先流失光了。這堂課我們要學習如何從宏觀角度看待估值（Valuation）與衍生性金融商品的定價關係，這才是真正的華爾街思維！",
-      "level3_translation": [
-        {
-          "sentence": "The above button links to Coinbase.",
-          "translation": "上方的按鈕連結至 Coinbase。"
-        },
-        {
-          "sentence": "Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading.",
-          "translation": "Yahoo Finance 並非經紀自營商或投資顧問，亦不提供證券或加密貨幣的銷售或協助交易服務。"
-        },
-        {
-          "sentence": "Coinbase pays us for certain activity generated through this link.",
-          "translation": "Coinbase 會針對透過此連結產生的特定活動向我們支付費用。"
-        },
-        {
-          "sentence": "Prices displayed are informational.",
-          "translation": "顯示之價格僅供參考。"
-        },
-        {
-          "sentence": "He famously predicted the U.S. housing collapse ahead of the 2008 financial crisis.",
-          "translation": "他最著名的戰績是在 2008 年金融海嘯爆發前，成功預測了美國房地產市場的崩盤。"
-        },
-        {
-          "sentence": "That call made him a legend on Wall Street and landed him a starring role in \"The Big Short.\"",
-          "translation": "那次精準的預測讓他成為華爾街的傳奇人物，並成為電影《大賣空》主角的原型。"
-        },
-        {
-          "sentence": "So when Burry publicly questions a stock's valuation, investors pay close attention.",
-          "translation": "因此，當巴瑞公開質疑某家公司的估值時，投資人總會高度關注。"
-        },
-        {
-          "sentence": "Supermicro Is Struggling to Handle AI Demand, But Here’s Why the Bears Might Be Wrong on This One",
-          "translation": "美超微（Supermicro）正努力應對強勁的 AI 需求，但這就是為什麼空頭這次可能看錯的原因。"
-        },
-        {
-          "sentence": "The rocket company went public last week, and SPCX stock surged more than 20% on the first full day of trading.",
-          "translation": "這家火箭公司於上週上市，其股票（SPCX）在首個完整交易日便飆升了超過 20%。"
-        },
-        {
-          "sentence": "The blockbuster debut also pushed Elon Musk's net worth past the trillion-dollar mark, making him the world's first trillionaire.",
-          "translation": "這場轟動的上市首秀也讓伊隆·馬斯克的淨資產突破兆美元大關，使他成為全球首位「兆元富豪」。"
-        },
-        {
-          "sentence": "In a Substack post, Burry made his position crystal clear.",
-          "translation": "在 Substack 的貼文中，巴瑞明確表達了他的立場。"
-        },
-        {
-          "sentence": "\"I am not involved with SpaceX now. Neither short nor, ahem, long,\" he wrote, per CNBC.",
-          "translation": "據 CNBC 報導，他寫道：「我目前沒有參與 SpaceX。既沒有放空，也沒有，嗯，做多。」"
-        },
-        {
-          "sentence": "That said, he did not hold back in expressing his views on what the company is actually worth.",
-          "translation": "話雖如此，他對於這家公司的實際價值依然直言不諱。"
-        },
-        {
-          "sentence": "Burry described SpaceX as, at its core, a modest-sized space operation, a niche telecom company, a struggling social media business, and a scaled-down version of AI infrastructure firm CoreWeave (CRWV), per CNBC.",
-          "translation": "據 CNBC 報導，巴瑞將 SpaceX 的核心業務形容為：一個中等規模的太空營運公司、一個利基型的電信公司、一個掙扎中的社群媒體業務，以及 AI 基礎設施公司 CoreWeave (CRWV) 的縮小版。"
-        },
-        {
-          "sentence": "He pointed out that the company is generating under $20 billion in annual revenue, which stands in stark contrast to its enormous market capitalization.",
-          "translation": "他指出，該公司年營收低於 200 億美元，這與其龐大的市值形成鮮明對比。"
-        },
-        {
-          "sentence": "To put that valuation in perspective, Burry noted that SpaceX has eclipsed Warren Buffett's Berkshire Hathaway (BRK.A) (BRK.B) by about two and a half times, and that milestone happened within just three days of trading.",
-          "translation": "為了讓大家對這個估值有更具體的概念，巴瑞指出 SpaceX 的市值已經超越了華倫·巴菲特的波克夏·哈薩威（Berkshire Hathaway）約 2.5 倍，而這個里程碑僅在短短三個交易日內就達成了。"
-        },
-        {
-          "sentence": "\"Berkshire Hathaway, painstakingly assembled over two century-old lives. The two greatest investors of our time,\" he wrote.",
-          "translation": "他寫道：「波克夏·哈薩威是兩位跨世紀的偉人，歷經一生心血、苦心孤詣打造出來的。他們是我們這個時代最偉大的兩位投資家。」"
-        },
-        {
-          "sentence": "For context, SpaceX's Tuesday rally pushed its market value above Amazon (AMZN), placing it behind only Nvidia (NVDA), Alphabet (GOOGL) (GOOG), Apple (AAPL), and Microsoft (MSFT).",
-          "translation": "補充背景資訊，SpaceX 週二的股價飆漲使其市值超越了亞馬遜（Amazon），在美股中僅次於輝達（Nvidia）、Alphabet、蘋果（Apple）和微軟（Microsoft）。"
+          "sentence": "The crowdsourced delivery platform instead picks up orders for customers, such as Walmart, Tractor Supply, FilterBuy, Spirit Halloween, paint brand Benjamin Moore  and Nothing Bundt Cakes, at local stores and warehouses for last-mile delivery to shoppers.",
+          "translation": "這個眾包配送平台反而是在當地商店和倉庫為客戶（例如沃爾瑪、Tractor Supply、FilterBuy、Spirit Halloween、油漆品牌Benjamin Moore和Nothing Bundt Cakes）取貨，然後進行最後一哩配送給消費者。"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "As Bitcoin is tanking, Wyoming becomes the first state to issue cryptocurrency. What to know about the FRNT stablecoin",
+      "title": "Canada’s Wealthsimple Provides Access To Kalshi Prediction Market",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-tanking-wyoming-becomes-first-152500088.html",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/canada-wealthsimple-provides-access-kalshi-183900033.html",
       "level1_blind": {
-        "text": "After blasting to an all-time high in October 2025, bitcoin has been stuck in reverse, shedding nearly 50% of its value as investors pull back from risky bets. Despite boasting a massive $1.23-trillion market cap, bitcoin is now clinging to the key $60,000 mark, a level many traders see as make-or-break for the battered cryptocurrency. According to Bloomberg, Wyoming has officially become the first state in America to issue a government-backed stablecoin, a digital token called Frontier Stable Token (FRNT). Could Wyoming’s stablecoin be a chance to modernize payments, attract financial innovation and even generate revenue for public schools? Or is it a solution looking for a problem in a state where many residents still prefer cash, checks and traditional banks? Wyoming, a state where there are fewer than 600,000 residents and cows outnumber people roughly two to one, might not be the first place people would expect to find a financial technology revolution."
+        "text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nOnline brokerage Wealthsimple is providing Canadians access to Kalshi’s prediction market.\n\nPrivately held Wealthsimple, which is based in Toronto, says it plans to introduce a new app called “Wealthsimple Predict.”\n\nThe app will enable retail investors in Canada to access bets through Kalshi, an established U.S. prediction market platform.\n\nEightco Secures $125 Million Investment From Bitmine And ARK Invest, Shares Surge\n\nPrediction markets let investors bet on the outcome of real-world events such as elections and sports contests. Critics accuse prediction markets such as Kalshi of running unlawful gambling operations.\n\nWealthsimple says it will offer prediction market trading to 4,000 events tied to economic, financial, and climate events. There is no mention of sports, which is Kalshi’s biggest market.\n\nManagement at Wealthsimple says they are responding to customer demand with the new prediction market app."
       },
       "level2_keywords": [
         {
-          "word": "tanking",
-          "ipa": "[ˈtæŋkɪŋ]",
-          "meaning": "（價格或市場）暴跌、急劇下滑。在財經界常用來形容資產價值在短時間內大幅縮水。",
-          "example": "While tech stocks were tanking, some investors shifted their capital to safe-haven assets like gold."
+          "word": "brokerage",
+          "ipa": "/ˈbroʊkərɪdʒ/",
+          "meaning": "證券經紀商；券商。指提供證券、期貨等金融商品交易服務的公司。",
+          "example": "An online brokerage allows investors to trade stocks and other assets from their computers."
         },
         {
-          "word": "stablecoin",
-          "ipa": "[ˈstebəlˌkɔɪn]",
-          "meaning": "穩定幣。一種旨在維持穩定價值的加密貨幣，通常與法定貨幣（如美元）或黃金等資產掛鉤。",
-          "example": "Wyoming's new stablecoin, FRNT, is fully backed by government reserves to ensure its value remains pegged to the US dollar."
+          "word": "prediction market",
+          "ipa": "/prɪˈdɪkʃən ˈmɑːrkɪt/",
+          "meaning": "預測市場。一種讓參與者對未來事件結果下注的平台，其價格反映了市場對該事件發生的機率預期。",
+          "example": "Prediction markets are often used to gauge public sentiment on political elections or economic trends."
         },
         {
-          "word": "market cap",
-          "ipa": "[ˈmɑrkɪt kæp]",
-          "meaning": "市值（Market Capitalization 的簡稱）。指一家公司發行在外的股票總價值，或某種加密貨幣的發行總量乘以當前市價。",
-          "example": "Despite the recent sell-off, Bitcoin still boasts a massive market cap of over one trillion dollars."
+          "word": "retail investors",
+          "ipa": "/ˈriːteɪl ɪnˈvestərz/",
+          "meaning": "散戶投資人。指非專業機構的個人投資者，通常交易量較小。",
+          "example": "The new platform aims to attract more retail investors by simplifying the trading process."
         },
         {
-          "word": "make-or-break",
-          "ipa": "[ˈmek ɔr brek]",
-          "meaning": "關鍵的、成敗攸關的。指某個關卡、決定或事件將會決定最終的成功或徹底失敗。",
-          "example": "Analysts believe the $60,000 support level is a make-or-break point for Bitcoin's short-term price trend."
+          "word": "unlawful gambling operations",
+          "ipa": "/ʌnˈlɔːfəl ˈɡæmblɪŋ ˌɒpəˈreɪʃənz/",
+          "meaning": "非法賭博活動。指未經許可或違反法律規定的賭博行為。",
+          "example": "Regulators are investigating companies suspected of running unlawful gambling operations under the guise of investment."
         },
         {
-          "word": "financial technology",
-          "ipa": "[faɪˈnænʃəl tɛkˈnɑlədʒi]",
-          "meaning": "金融科技（簡稱 Fintech）。指利用創新科技手段來改善、自動化並提供更有效率的金融服務與產品。",
-          "example": "The state government is embracing financial technology to streamline public payments and attract tech startups."
+          "word": "customer demand",
+          "ipa": "/ˈkʌstəmər dɪˈmænd/",
+          "meaning": "客戶需求。指消費者對某產品或服務的渴望和購買意願。",
+          "example": "The company launched a new product line in response to strong customer demand for sustainable options."
         }
       ],
-      "level2_context": "各位同學，這篇新聞非常有趣，它展現了美國地方政府在「金融科技」上的大膽嘗試！當主流加密貨幣比特幣（Bitcoin）價格暴跌、市場陷入恐慌之際，人口稀少、以農業為主的懷俄明州（Wyoming）竟然開了全美先河，發行了第一個由州政府支持的穩定幣——FRNT。為什麼懷俄明州要這麼做？首先，該州一直以來都試圖透過極具彈性的法規，將自己打造成美國的「加密貨幣天堂」以吸引科技人才。其次，發行穩定幣是一門極佳的無風險生意：政府可以將發行穩定幣收到的美元儲備拿去購買美債賺取利息，並將這些收益用於支持當地的公立學校。然而，這項政策也面臨質疑：在一個居民仍習慣使用現金與傳統支票的農業州，推動如此前衛的數位貨幣，究竟是真正的創新，還是「拿著錘子找釘子」（a solution looking for a problem）的過度設計？這非常值得我們從宏觀角度去思考。",
+      "level2_context": "各位同學，這則新聞談到加拿大知名的線上券商 Wealthsimple，將讓他們的客戶能夠參與美國預測市場平台 Kalshi 的服務。預測市場是一個很有趣的概念，它讓投資人可以針對未來事件的結果下注，例如選舉、體育賽事，甚至是經濟數據或氣候事件。\n\n為什麼這很重要呢？傳統上，投資人是在股票、債券等資產上進行交易，但預測市場則是在「事件結果」上進行交易。這在金融界引起了一些爭議。支持者認為，預測市場能有效匯集群眾智慧，提供對未來事件機率的洞察；但批評者則認為，這本質上就是一種「賭博」，尤其當它涉及金錢交易時，可能觸及各國的賭博法規，甚至被視為「非法賭博活動」。\n\nWealthsimple 這次的舉動，顯示他們看到了客戶對於這類新興金融產品的需求。他們特別強調會提供經濟、金融和氣候事件的預測，避開了 Kalshi 最大的市場——體育賽事，這可能是為了規避一些法律和監管上的風險，試圖將其定位為「投資」而非「賭博」。這對加拿大金融科技產業來說，是一個新的嘗試，也考驗著監管機構如何界定這類創新產品的性質。",
       "level3_translation": [
         {
-          "sentence": "After blasting to an all-time high in October 2025, bitcoin has been stuck in reverse, shedding nearly 50% of its value as investors pull back from risky bets.",
-          "translation": "在 2025 年 10 月衝上歷史新高之後，比特幣的走勢便開始倒退嚕，隨著投資人紛紛撤出高風險資產，比特幣已經蒸發了將近五成的市值。"
+          "sentence": "The above button links to Coinbase.",
+          "translation": "上方的按鈕連結到 Coinbase 平台。"
         },
         {
-          "sentence": "Despite boasting a massive $1.23-trillion market cap, bitcoin is now clinging to the key $60,000 mark, a level many traders see as make-or-break for the battered cryptocurrency (1).",
-          "translation": "儘管比特幣仍坐擁高達 1.23 兆美元的龐大市值，但目前正苦苦支撐在 60,000 美元這一關鍵關卡，許多交易員認為，這個價位對於這檔飽受摧殘的加密貨幣來說，是決定生死存亡的關鍵支撐點。"
+          "sentence": "Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading.",
+          "translation": "雅虎財經並非證券經紀商或投資顧問，不提供證券或加密貨幣的銷售，也不協助交易。"
         },
         {
-          "sentence": "The ultra-rich use these 5 real estate strategies to build wealth while they sleep — you can start with just $100",
-          "translation": "超級富豪們正利用這 5 種房地產策略在睡夢中創造財富——而你只需 100 美元就能開始參與。"
+          "sentence": "Coinbase pays us for certain activity generated through this link.",
+          "translation": "Coinbase 會針對透過此連結產生的特定活動支付費用給我們。"
         },
         {
-          "sentence": "Robert Kiyosaki says this 1 asset will surge 400% in a year and begs investors not to miss this ‘explosion’",
-          "translation": "《富爸爸，窮爸爸》作者羅伯特·清崎表示，這項資產將在一年內暴漲 400%，並懇求投資人千萬不要錯過這次的『大爆發』。"
+          "sentence": "Prices displayed are informational.",
+          "translation": "所顯示的價格僅供參考。"
         },
         {
-          "sentence": "Millionaires under 43 hold only 25% of their wealth in stocks. Surprised? Here’s where their money is actually going",
-          "translation": "43 歲以下的百萬富翁僅將 25% 的財富配置在股票上。感到驚訝嗎？以下是他們的資金實際流向。"
+          "sentence": "Online brokerage Wealthsimple is providing Canadians access to Kalshi’s prediction market.",
+          "translation": "線上券商 Wealthsimple 正在提供加拿大人使用 Kalshi 預測市場的服務。"
         },
         {
-          "sentence": "According to Bloomberg, Wyoming has officially become the first state in America to issue a government-backed stablecoin, a digital token called Frontier Stable Token (2) (FRNT).",
-          "translation": "根據彭博社報導，懷俄明州已正式成為美國第一個發行政府支持穩定幣的州，這款數位代幣被命名為『前沿穩定代幣』（Frontier Stable Token，簡稱 FRNT）。"
+          "sentence": "Privately held Wealthsimple, which is based in Toronto, says it plans to introduce a new app called “Wealthsimple Predict.”",
+          "translation": "這家總部位於多倫多的私人公司 Wealthsimple 表示，他們計畫推出一款名為「Wealthsimple Predict」的新應用程式。"
         },
         {
-          "sentence": "Could Wyoming’s stablecoin be a chance to modernize payments, attract financial innovation and even generate revenue for public schools?",
-          "translation": "懷俄明州的穩定幣能否成為推動支付現代化、吸引金融創新，甚至為公立學校創造財政收入的契機？"
+          "sentence": "The app will enable retail investors in Canada to access bets through Kalshi, an established U.S. prediction market platform.",
+          "translation": "這款應用程式將讓加拿大的散戶投資人能夠透過美國成熟的預測市場平台 Kalshi 進行下注。"
         },
         {
-          "sentence": "Or is it a solution looking for a problem in a state where many residents still prefer cash, checks and traditional banks?",
-          "translation": "抑或是在一個多數居民仍偏好使用現金、支票和傳統銀行的州裡，這只是一個『拿著錘子找釘子』、多此一舉的方案？"
+          "sentence": "Eightco Secures $125 Million Investment From Bitmine And ARK Invest, Shares Surge",
+          "translation": "Eightco 獲得 Bitmine 和 ARK Invest 1.25 億美元投資，股價飆升。"
         },
         {
-          "sentence": "Wyoming, a state where there are fewer than 600,000 residents (3) and cows outnumber people roughly two to one (3), might not be the first place people would expect to find a financial technology revolution.",
-          "translation": "懷俄明州這個人口不足 60 萬、且牛隻數量大約是人口兩倍的農業州，或許不是人們預期會發生金融科技革命的首選之地。"
+          "sentence": "Prediction markets let investors bet on the outcome of real-world events such as elections and sports contests.",
+          "translation": "預測市場讓投資人可以針對現實世界事件的結果進行下注，例如選舉和體育競賽。"
+        },
+        {
+          "sentence": "Critics accuse prediction markets such as Kalshi of running unlawful gambling operations.",
+          "translation": "批評者指責像 Kalshi 這類的預測市場是在經營非法的賭博活動。"
+        },
+        {
+          "sentence": "Wealthsimple says it will offer prediction market trading to 4,000 events tied to economic, financial, and climate events.",
+          "translation": "Wealthsimple 表示，他們將提供與經濟、金融和氣候事件相關的 4,000 個預測市場交易。"
+        },
+        {
+          "sentence": "There is no mention of sports, which is Kalshi’s biggest market.",
+          "translation": "新聞中沒有提及體育賽事，而體育賽事是 Kalshi 最大的市場。"
+        },
+        {
+          "sentence": "Management at Wealthsimple says they are responding to customer demand with the new prediction market app.",
+          "translation": "Wealthsimple 的管理層表示，他們推出這款新的預測市場應用程式是為了回應客戶的需求。"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "violence_connection": "今日台股籌碼出現極端的「土洋對決」與「科技轉傳產」巨震，外資（如美商高盛）瘋狂掃貨中鋼與台塑，同時大舉調節鴻海、緯創等AI權值股。這看似反常的避險操作，完美呼應了午後美股傳出的警訊。國際市場上，SpaceX IPO 狂熱引發 Jim Cramer 警告其已成「迷因股」，「大賣空」原型 Burry 更直指其估值泡沫超越波克夏，加之比特幣暴跌五成，種種跡象顯示全球聰明錢正對高估值科技與投機資產進行劇烈的「去槓桿」與「風險重估」。外資大戶顯然提前嗅到這股風向，在白天便預先將資金撤離高基期的AI供應鏈，轉而「借道」台股，將資金停泊在基期極低、具實體資產防禦屬性的鋼鐵、塑化龍頭。這是一場精準的全球跨資產避險大挪移，大戶正用真金白銀預告：科技狂熱將暫歇，價值防禦才是王道。"
+    "violence_connection": "今日台股大戶籌碼動向與國際財經新聞的暴力聯結，揭示了一場資本市場的「價值回歸」與「風險重估」的預先部署。當國際市場傳來Jim Cramer對SpaceX估值過高、恐成「迷因股」的嚴厲警告，並將其與Nvidia相提並論時，這不僅是對單一公司的評論，更是對當前AI科技股狂熱估值泡沫化風險的宏觀警示。巧合的是，今日外資大賣台灣AI伺服器供應鏈的關鍵廠商如鴻海與緯創，同時投信也減碼台積電與日月光投控，這絕非偶然。這批聰明錢似乎已提前嗅到高估值科技股的潛在風險，並在美股開盤前，透過台股市場進行了預防性的獲利了結與風險規避。\n\n與此同時，外資卻大舉買進傳統產業龍頭中鋼與台塑，其中美商高盛更是巨量敲進中鋼，展現了明確的資金輪動訊號。這表明在科技股估值面臨質疑之際，國際資金正從高風險、高成長預期的AI概念股，轉向具備穩定現金流、低估值且受惠於全球經濟復甦預期的傳統產業。聯電、友達等非尖端科技股獲得外資與自營商青睞，也可能反映了資金對半導體產業更廣泛復甦的押注，而非僅限於AI晶片。這場資金從「未來夢想」轉向「現有價值」的暴力聯結，預示著市場對風險的重新定價，以及對基本面穩健資產的追逐，大戶們顯然已先知先覺，提前佈局。"
   }
 }
