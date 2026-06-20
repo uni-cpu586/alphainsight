@@ -64,7 +64,7 @@ jobs:
       if: steps.check_market.outputs.run_ollama == 'true'
       run: |
         ollama pull llama3.2
-    - name: 執行 AI 處理器 (使用 Hybrid 模式: Ollama + Gemini)
+    - name: 執行 AI 處理器 (使用 Hybrid 模式：Ollama + Gemini)
       run: python backend/agent_processor.py --mode hybrid --model llama3.2
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
