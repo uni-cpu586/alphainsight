@@ -384,7 +384,23 @@ def call_ollama(system_prompt, user_prompt, model="llama3"):
             response = requests.post(url, json=payload, timeout=120)
             if response.status_code == 200:
                 content = response.json().get("message", {}).get("content", "")
-                return json.loads(content)
+                
+                # Clean markdown formatting if present
+                cleaned = content.strip()
+                if cleaned.startswith("```json"):
+                    cleaned = cleaned[7:]
+                elif cleaned.startswith("```"):
+                    cleaned = cleaned[3:]
+                if cleaned.endswith("```"):
+                    cleaned = cleaned[:-3]
+                cleaned = cleaned.strip()
+                
+                try:
+                    return json.loads(cleaned)
+                except Exception as e:
+                    print(f"Ollama JSON parse failed: {e}")
+                    print(f"Content snippet (first 1000 chars): {content[:1000]}")
+                    raise e
             else:
                 print(f"Ollama host {host} returned status: {response.status_code}")
         except Exception as e:
@@ -412,18 +428,34 @@ def call_gemini(system_prompt, user_prompt, api_key):
         }
     }
     
+    text_response = ""
     try:
         response = requests.post(url, json=payload, timeout=60)
         if response.status_code == 200:
             result = response.json()
             # Parse Gemini text response
             text_response = result["candidates"][0]["content"]["parts"][0]["text"]
-            return json.loads(text_response)
+            
+            # Clean markdown formatting if present
+            cleaned = text_response.strip()
+            if cleaned.startswith("```json"):
+                cleaned = cleaned[7:]
+            elif cleaned.startswith("```"):
+                cleaned = cleaned[3:]
+            if cleaned.endswith("```"):
+                cleaned = cleaned[:-3]
+            cleaned = cleaned.strip()
+            
+            return json.loads(cleaned)
         else:
             print(f"Gemini API returned status code: {response.status_code}, error: {response.text}")
             return None
     except Exception as e:
         print(f"Gemini API call failed: {e}")
+        if text_response:
+            print("--- Text Response Snippet (first 1000 chars) ---")
+            print(text_response[:1000])
+            print("--- End of Snippet ---")
         return None
 
 
@@ -553,7 +585,10 @@ def run_processor(mode, ollama_model):
             f"- level1_blind (包含 text 欄位，將這篇長篇新聞（full_text 欄位）的內容完整放入作為盲讀與聽力文本)\n"
             f"- level2_keywords (包含 5 個關鍵字物件陣列，從文章中挑選 5 個核心產業單字，每個物件欄位為 word, ipa, meaning, example。{avoid_clause})\n"
             f"- level2_context (字串，該新聞的白話宏觀背景提示，不用直接翻譯，而是以中文解釋其產業與政經背景脈絡)\n"
-            f"- level3_translation (陣列，請將整篇長篇 'full_text' 的每一句英文拆解，包含 sentence 與 translation 欄位，完成全文對應之繁體中文白話翻譯。務必完成每一句的翻譯，不可為空字串！)"
+            f"- level3_translation (陣列，請將整篇長篇 'full_text' 的每一句英文拆解，包含 sentence 與 translation 欄位，完成全文對應之繁體中文白話翻譯。務必完成每一句的翻譯，不可為空字串！)\n\n"
+            f"【極重要 JSON 格式規範】：\n"
+            f"1. 請確保輸出的整個 JSON 格式合法且可被解析。\n"
+            f"2. 所有的字串欄位（如 title、meaning、example、translation、level2_context 等）如果包含引號，請務必改用中文的「」與『』代替（切勿直接使用未逸出的半形雙引號 \")，否則會導致 JSON 解析器崩潰。"
         )
         
         result = None
