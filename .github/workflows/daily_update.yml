@@ -10,17 +10,6 @@ jobs:
     steps:
     - name: 複製專案程式碼 (Checkout)
       uses: actions/checkout@v4
-    - name: 安裝 Ollama (Linux 版)
-      run: |
-        curl -fsSL https://ollama.com/install.sh | sh
-    - name: 啟動 Ollama 服務
-      run: |
-        ollama serve &
-        # 等待 5 秒讓服務啟動
-        sleep 5
-    - name: 下載 Llama 3 模型到雲端
-      run: |
-        ollama pull llama3
     - name: 設定 Python 環境
       uses: actions/setup-python@v5
       with:
@@ -31,8 +20,52 @@ jobs:
         pip install -r backend/requirements.txt
     - name: 執行 Python 爬蟲 (Crawler)
       run: python backend/crawler.py
-    - name: 執行 AI 處理器 (使用 Gemini API)
-      run: python backend/agent_processor.py --mode gemini
+    - name: 檢查昨日是否休市 (Check Market Holiday)
+      id: check_market
+      run: |
+        python -c '
+        import json, datetime, os
+        run_ollama = "true"
+        if os.path.exists("data/raw_data.json"):
+            with open("data/raw_data.json", "r", encoding="utf-8") as f:
+                data = json.load(f)
+            raw_date_str = data.get("date")
+            try:
+                raw_date = datetime.datetime.strptime(raw_date_str, "%Y-%m-%d").date()
+                # 取得台灣時間昨日日期
+                tz_offset = datetime.timezone(datetime.timedelta(hours=8))
+                today_tw = datetime.datetime.now(tz_offset).date()
+                yesterday_tw = today_tw - datetime.timedelta(days=1)
+                
+                # 如果最後交易日早於昨天，代表昨天是休市
+                market_closed_yesterday = raw_date < yesterday_tw
+                run_ollama = "false" if market_closed_yesterday else "true"
+                print(f"raw_date: {raw_date}, yesterday_tw: {yesterday_tw}, market_closed: {market_closed_yesterday}, run_ollama: {run_ollama}")
+            except Exception as e:
+                print(f"Error parsing date: {e}")
+        else:
+            print("raw_data.json not found! Defaulting run_ollama=true")
+            
+        if "GITHUB_OUTPUT" in os.environ:
+            with open(os.environ["GITHUB_OUTPUT"], "a") as f_out:
+                f_out.write(f"run_ollama={run_ollama}\n")
+        '
+    - name: 安裝 Ollama (Linux 版)
+      if: steps.check_market.outputs.run_ollama == 'true'
+      run: |
+        curl -fsSL https://ollama.com/install.sh | sh
+    - name: 啟動 Ollama 服務
+      if: steps.check_market.outputs.run_ollama == 'true'
+      run: |
+        ollama serve &
+        # 等待 5 秒讓服務啟動
+        sleep 5
+    - name: 下載 Llama 3.2 模型到雲端
+      if: steps.check_market.outputs.run_ollama == 'true'
+      run: |
+        ollama pull llama3.2
+    - name: 執行 AI 處理器 (使用 Hybrid 模式: Ollama + Gemini)
+      run: python backend/agent_processor.py --mode hybrid --model llama3.2
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
     - name: 將最新產生的 JSON 檔案提交並推送回 GitHub

@@ -314,6 +314,28 @@ document.addEventListener("DOMContentLoaded", () => {
         speechUtterance.lang = "en-US";
         speechUtterance.rate = 0.9; // Slightly slower for better learning
 
+        // Find the Microsoft Edge Natural "Andrew" voice
+        const voices = window.speechSynthesis.getVoices();
+        const andrewVoice = voices.find(v => 
+            v.name.includes("en-US-AndrewNeural")
+        ) || voices.find(v => 
+            v.name.toLowerCase().includes("andrew") && 
+            (v.name.toLowerCase().includes("natural") || v.name.toLowerCase().includes("online"))
+        ) || voices.find(v => 
+            v.name.toLowerCase().includes("andrew")
+        ) || voices.find(v => 
+            v.name.toLowerCase().includes("natural") && v.lang.startsWith("en")
+        ) || voices.find(v => 
+            v.lang.startsWith("en")
+        );
+
+        if (andrewVoice) {
+            speechUtterance.voice = andrewVoice;
+            console.log("Using voice:", andrewVoice.name);
+        } else {
+            console.warn("Andrew voice not found, using default system voice.");
+        }
+
         speechUtterance.onstart = () => {
             ttsPlayBtn.style.display = "none";
             ttsStopBtn.style.display = "inline-flex";

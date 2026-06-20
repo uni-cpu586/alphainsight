@@ -219,8 +219,8 @@ def fetch_full_text(url):
         paragraphs = []
         for p in p_tags:
             text = p.get_text().strip()
-            # Filter out ads, sharing links, cookie notice, short phrases
-            if len(text) > 80 and not any(x in text.lower() for x in ["cookie", "subscribe", "sign up", "terms of service", "privacy policy", "rights reserved", "share this", "facebook", "twitter"]):
+            # Filter out ads, sharing links, cookie notice, short phrases, advertiser disclosures
+            if len(text) > 80 and not any(x in text.lower() for x in ["cookie", "subscribe", "sign up", "terms of service", "privacy policy", "rights reserved", "share this", "facebook", "twitter", "advertiser disclosure", "some offers on this page", "disclosure"]):
                 paragraphs.append(text)
                 
         # Join top 6-8 paragraphs to keep it medium-long (approx 300-500 words)
@@ -285,6 +285,7 @@ def run_crawler():
     
     # 1. Fetch stock data
     stock_market_data = None
+    actual_trading_date = None
     # Try today first, then previous days if fail
     for days_back in range(5):
         target_date = today - datetime.timedelta(days=days_back)
@@ -299,6 +300,7 @@ def run_crawler():
                 "net_buy_sell_rank": net_buy_sell,
                 "key_brokerage_branches": branches
             }
+            actual_trading_date = target_date
             break
             
     # 2. Fetch News RSS
@@ -307,7 +309,7 @@ def run_crawler():
     # 3. Assemble and output
     if stock_market_data and news_data:
         raw_output = {
-            "date": today.isoformat(),
+            "date": actual_trading_date.isoformat() if actual_trading_date else today.isoformat(),
             "stock_market": stock_market_data,
             "news": news_data
         }

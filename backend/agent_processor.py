@@ -34,10 +34,31 @@ def generate_mock_processed_insights(raw_data):
     
     trust_buy_name = net_buy_sell.get("trust_buy", [{}])[0].get("stock_name", "聯電")
     
-    mock_processed = {
-        "date": today,
-        "stock_uncle_insight": {
-            "date_header": "6/17 法人與主力大戶主要買超股票",
+    import datetime
+    try:
+        dt = datetime.datetime.strptime(today, "%Y-%m-%d")
+        md_str = f"{dt.month}/{dt.day}"
+        
+        # Check if Taiwan market was closed yesterday
+        tz_offset = datetime.timezone(datetime.timedelta(hours=8))
+        today_tw = datetime.datetime.now(tz_offset).date()
+        yesterday_tw = today_tw - datetime.timedelta(days=1)
+        market_closed_yesterday = (dt.date() < yesterday_tw)
+    except:
+        md_str = "今日"
+        market_closed_yesterday = False
+        
+    if market_closed_yesterday:
+        stock_uncle_insight = {
+            "date_header": f"{md_str} 昨日台股休市，無大戶籌碼分析數據",
+            "buyer_groups": [],
+            "strategies": [],
+            "summary": "昨日台股休市，不進行籌碼分析。",
+            "top_brokerages_analysis": []
+        }
+    else:
+        stock_uncle_insight = {
+            "date_header": f"{md_str} 法人與主力大戶主要買超股票",
             "buyer_groups": [
                 {
                     "group_title": "1. 外資大戶：狂掃航空與面板",
@@ -81,7 +102,7 @@ def generate_mock_processed_insights(raw_data):
                     "strategy_content": "6/17 盤面上最強眼的亮點就是光學股。主要是市場傳出共同封裝光學（CPO）新技術題材發酵，加上蘋果 iPhone 換機潮預期。大戶在權值股整理時，最喜歡找這類『有故事、有想像空間』且剛從底部發動的題材股進行短線拉抬，成功帶動整體中小型光學股集體噴出。"
                 }
             ],
-            "summary": "大戶在 6/17 的操作邏輯非常明確：『棄高換低、防禦與題材並重』。他們利用科技權值股開低的恐慌感，順勢將資金調配到具備旺季效應的航空、避險的金融，以及具備新技術亮點的光學族群。",
+            "summary": "大戶在 6/17 的操作邏輯非常明確：『棄高換低、防禦與題材並重』。他們利用科技權值股開低的恐慌感，順勢將資金調配到具備旺季效應 of 航空、避險的金融，以及具備新技術亮點的光學族群。",
             "top_brokerages_analysis": [
                 {
                     "branch_name": "凱基台北",
@@ -99,7 +120,11 @@ def generate_mock_processed_insights(raw_data):
                     "uncle_logic": "投信在聯電上大打防守戰，明顯是本土高股息ETF和波段資金在死守季線，支撐力道不俗。"
                 }
             ]
-        },
+        }
+
+    mock_processed = {
+        "date": today,
+        "stock_uncle_insight": stock_uncle_insight,
         "english_professor_news": [],
         "market_linker_insight": {
             "violence_connection": f"【大腦暴力聯結】今天清晨路透社報導美股科技股的最新利多，提到 AI 晶片需求依然旺盛。這正好合理解釋了為什麼早盤外資大買半導體權值股【{trust_buy_name}】，且特定分點在低檔提早收貨。自營叔叔分析的『主力潛伏布局』，背後其實是國際半導體供應鏈板塊的利多傳導。建議肖年仔多注意今晚美股開盤後相關板塊的表現，這會直接決定明早台股開盤的氣勢！"
@@ -245,6 +270,72 @@ def generate_mock_processed_insights(raw_data):
         # Use the entire full text as blind text for Level 1
         blind_text = full_text
 
+        # Select keywords based on news type
+        if "grocery" in title.lower() or "pricing data" in full_text.lower():
+            keywords = [
+                {"word": "settlement", "ipa": "/ˈsɛt̬.əl.mənt/", "meaning": "和解金、和解協議", "example": "The company reached a $40 million settlement with the DOJ."},
+                {"word": "scrutiny", "ipa": "/ˈskruː.t̬ən.i/", "meaning": "嚴密審查、監督", "example": "The pricing practices came under federal scrutiny."},
+                {"word": "inflated", "ipa": "/ɪnˈfleɪ.t̬ɪd/", "meaning": "虛報的、誇大的", "example": "They were accused of submitting inflated prescription drug pricing data."},
+                {"word": "reimburse", "ipa": "/ˌriː.ɪmˈbɝːs/", "meaning": "報銷、償還", "example": "The program reimburses pharmacies for prescription drugs."},
+                {"word": "prescription", "ipa": "/prɪˈskrɪp.ʃən/", "meaning": "處方藥的", "example": "Supermarkets offer prescription savings programs."}
+            ]
+        elif "gold" in title.lower() or "blockade" in full_text.lower():
+            keywords = [
+                {"word": "futures", "ipa": "/ˈfjuːtʃərz/", "meaning": "期貨", "example": "Gold futures opened flat compared to yesterday."},
+                {"word": "flat", "ipa": "/flæt/", "meaning": "持平、沒有變化", "example": "The price of gold was flat in morning trading."},
+                {"word": "Fed meeting", "ipa": "/fɛd ˈmiːtɪŋ/", "meaning": "聯準會會議", "example": "Gold prices held steady ahead of the Fed meeting."},
+                {"word": "hold rates steady", "ipa": "/hoʊld reɪts ˈstɛdi/", "meaning": "維持利率不變", "example": "Most observers expect the Fed to hold rates steady."},
+                {"word": "blockade", "ipa": "/blɒˈkeɪd/", "meaning": "封鎖", "example": "The peace agreement will lift the naval blockade."}
+            ]
+        elif "rate cuts" in title.lower() or "funds rate" in full_text.lower():
+            keywords = [
+                {"word": "Federal Open Market Committee (FOMC)", "ipa": "/ˈfɛdərəl ˈoʊpən ˈmɑrkɪt kəˈmɪti/", "meaning": "聯邦公開市場委員會", "example": "The FOMC announced its decision to maintain the rate."},
+                {"word": "federal funds rate", "ipa": "/ˈfɛdərəl fʌndz reɪt/", "meaning": "聯邦資金利率", "example": "The federal funds rate is a key tool for managing inflation."},
+                {"word": "rate cuts", "ipa": "/reɪt kʌts/", "meaning": "降息", "example": "Consumers expect to see rate cuts later this year."},
+                {"word": "inflation", "ipa": "/ɪnˈfleɪʃən/", "meaning": "通貨膨脹", "example": "The Fed raises interest rates when inflation is too high."},
+                {"word": "economic outlook", "ipa": "/ˌikəˈnɑmɪk ˈaʊtˌlʊk/", "meaning": "經濟前景", "example": "The committee maintained the rate citing uncertainty in the economic outlook."}
+            ]
+        elif is_news_1: # Biden chip exports
+            keywords = [
+                {"word": "restricting", "ipa": "/rɪˈstrɪkt.ɪŋ/", "meaning": "限制，約束", "example": "The government is restricting export of advanced semiconductors."},
+                {"word": "accelerators", "ipa": "/ækˈsel.ə.reɪ.tərz/", "meaning": "加速晶片（如 AI 運算 GPU）", "example": "Data centers require high-end AI accelerators to run LLMs."},
+                {"word": "curb", "ipa": "/kɜːb/", "meaning": "控制，遏制", "example": "New regulations aim to curb military applications of Western tech."},
+                {"word": "semiconductor", "ipa": "/ˌsem.i.kənˈdʌk.tər/", "meaning": "半導體", "example": "These export controls restrict access to advanced semiconductor technology."},
+                {"word": "proprietary", "ipa": "/prəˈpraɪə.ter.i/", "meaning": "專有的，專利的", "example": "The rules will accelerate efforts to design proprietary hardware alternatives."}
+            ]
+        elif is_cuban:
+            keywords = [
+                {"word": "accredited", "ipa": "/əˈkred.ɪ.tɪd/", "meaning": "合格的，認證的", "example": "Cuban called for a rethink of accredited investor laws."},
+                {"word": "private", "ipa": "/ˈpraɪ.vət/", "meaning": "私有的，未上市的", "example": "Many companies choose to stay private for much longer than before."},
+                {"word": "upside", "ipa": "/ˈʌp.saɪd/", "meaning": "上行空間，潛在利益", "example": "Venture capital firms capture a large part of the upside before the IPO."},
+                {"word": "scams", "ipa": "/skæmz/", "meaning": "騙局，詐騙", "example": "The rules were designed to protect regular people from scams."},
+                {"word": "literacy", "ipa": "/ˈlɪt.ər.ə.si/", "meaning": "讀寫能力，知識素養", "example": "He proposed replacing the standard with a financial literacy test."}
+            ]
+        elif is_spacex:
+            keywords = [
+                {"word": "debut", "ipa": "/ˈdeɪ.bju/", "meaning": "首秀，首次亮相", "example": "SpaceX shares made a blockbuster debut on the exchanges."},
+                {"word": "options", "ipa": "/ˈɑːp.ʃənz/", "meaning": "選擇權，期權", "example": "Options on SpaceX shares will start trading today."},
+                {"word": "avenues", "ipa": "/ˈæv.ə.njuːz/", "meaning": "途徑，手段", "example": "New avenues open up for the company's optimists and pessimists."},
+                {"word": "volatility", "ipa": "/ˌvɑː.ləˈtɪl.ə.t̬i/", "meaning": "波動性", "example": "Investors can opt for strategies to benefit from stock volatility."},
+                {"word": "trajectory", "ipa": "/trəˈdʒek.tər.i/", "meaning": "軌跡，發展路線", "example": "Bulls are convinced of the company's positive trajectory."}
+            ]
+        elif is_atai:
+            keywords = [
+                {"word": "penny stocks", "ipa": "/ˈpen.i stɑːks/", "meaning": "仙股，細價股", "example": "ATAI is one of the best penny stocks that could skyrocket."},
+                {"word": "reiterated", "ipa": "/riˈɪt̬.ə.reɪ.tɪd/", "meaning": "重申，反覆說", "example": "The firm reiterated its Buy rating and price target."},
+                {"word": "intranasal", "ipa": "/ˌɪn.trəˈneɪ.zəl/", "meaning": "鼻內的", "example": "BPL-003 is an intranasal formulation under development."},
+                {"word": "tolerability", "ipa": "/ˌtɑː.lər.əˈbɪl.ə.t̬i/", "meaning": "耐受性", "example": "The dose balances efficacy and tolerability for patients."},
+                {"word": "economics", "ipa": "/ˌiː.kəˈnɑː.mɪks/", "meaning": "經濟效益，經濟學", "example": "Clinic economics fit neatly into a two-hour interventional model."}
+            ]
+        else:
+            keywords = [
+                {"word": "rallied", "ipa": "/ˈræl.id/", "meaning": "（價格等）回升，止跌回升", "example": "Major tech shares rallied across global stock markets."},
+                {"word": "cooling", "ipa": "/ˈkuː.lɪŋ/", "meaning": "降溫的，放緩的", "example": "Cooling inflation data eased investor concerns."},
+                {"word": "curbing", "ipa": "/ˈkɝː.bɪŋ/", "meaning": "控制，遏制", "example": "Monetary policy is successfully curbing inflation."},
+                {"word": "outlook", "ipa": "/ˈaʊt.lʊk/", "meaning": "前景，展望指引", "example": "The company adjusted its quarterly revenue outlook due to news."},
+                {"word": "recession", "ipa": "/rɪˈseʃ.ən/", "meaning": "經濟衰退", "example": "Monetary policy successfully curbed inflation without triggering a recession."}
+            ]
+
         mock_processed["english_professor_news"].append({
             "news_id": item.get("id", "news_1"),
             "title": title,
@@ -253,13 +344,7 @@ def generate_mock_processed_insights(raw_data):
             "level1_blind": {
                 "text": blind_text
             },
-            "level2_keywords": [
-                {"word": "rallied", "ipa": "/ˈræl.id/", "meaning": "（價格等）回升，止跌回升", "example": "The stock market rallied after the inflation report was released."},
-                {"word": "restricting", "ipa": "/rɪˈstrɪkt.ɪŋ/", "meaning": "限制，約束", "example": "The government is restricting export of advanced semiconductors."},
-                {"word": "accelerators", "ipa": "/ækˈsel.ə.reɪ.tərz/", "meaning": "加速晶片（如 AI 運算 GPU）", "example": "Data centers require high-end AI accelerators to run LLMs."},
-                {"word": "curb", "ipa": "/kɜːb/", "meaning": "控制，遏制", "example": "New regulations aim to curb illegal market activities."},
-                {"word": "outlook", "ipa": "/ˈaʊt.lʊk/", "meaning": "前景，展望指引", "example": "The company adjusted its quarterly revenue outlook due to news."}
-            ],
+            "level2_keywords": keywords,
             "level2_context": "白話背景：這篇新聞在探討國際政經政策對核心科技產業（如晶片出口、通膨升息）造成的宏觀影響。這些變動會透過半導體與伺服器代工供應鏈，在幾天內迅速傳導至台灣股市，是主力資金調度的重要風向球。",
             "level3_translation": translations
         })
@@ -354,6 +439,21 @@ def run_processor(mode, ollama_model):
     with open(raw_data_path, "r", encoding="utf-8") as f:
         raw_data = json.load(f)
         
+    # Check if Taiwan market was closed yesterday
+    import datetime
+    tz_offset = datetime.timezone(datetime.timedelta(hours=8))
+    today_tw = datetime.datetime.now(tz_offset).date()
+    yesterday_tw = today_tw - datetime.timedelta(days=1)
+    
+    raw_date_str = raw_data.get("date")
+    try:
+        raw_date = datetime.datetime.strptime(raw_date_str, "%Y-%m-%d")
+        market_closed_yesterday = (raw_date.date() < yesterday_tw)
+    except Exception as e:
+        print(f"Error parsing raw data date {raw_date_str}: {e}")
+        market_closed_yesterday = False
+        raw_date = datetime.datetime.now(tz_offset)
+        
     # Check if we should fallback to mock
     if mode == "mock":
         print("Running in MOCK mode. Generating simulated AI insights...")
@@ -407,26 +507,42 @@ def run_processor(mode, ollama_model):
     # Execute LLM calls
     # 1. Run Stock Uncle
     print("1. Processing Stock Uncle...")
-    if mode == "ollama":
-        stock_uncle_insight = call_ollama(uncle_sys, uncle_user, ollama_model)
-    elif mode == "gemini":
-        if not api_key:
-            print("Error: GEMINI_API_KEY not found in environment. Falling back to MOCK...")
-            return generate_mock_processed_insights(raw_data)
-        stock_uncle_insight = call_gemini(uncle_sys, uncle_user, api_key)
-    elif mode == "hybrid":
-        if not api_key:
-            print("Error: GEMINI_API_KEY not found for hybrid. Falling back to local Ollama...")
+    if market_closed_yesterday:
+        print("   - Yesterday was a market holiday or weekend. Skipping Stock Uncle AI processing.")
+        stock_uncle_insight = {
+            "date_header": f"{raw_date.month}/{raw_date.day} 昨日台股休市，無大戶籌碼分析數據",
+            "buyer_groups": [],
+            "strategies": [],
+            "summary": "昨日台股休市，不進行籌碼分析。",
+            "top_brokerages_analysis": []
+        }
+    else:
+        if mode == "ollama":
             stock_uncle_insight = call_ollama(uncle_sys, uncle_user, ollama_model)
-        else:
-            stock_uncle_insight = call_ollama(uncle_sys, uncle_user, ollama_model)
+        elif mode == "gemini":
+            if not api_key:
+                print("Error: GEMINI_API_KEY not found in environment. Falling back to MOCK...")
+                return generate_mock_processed_insights(raw_data)
+            stock_uncle_insight = call_gemini(uncle_sys, uncle_user, api_key)
+        elif mode == "hybrid":
+            if not api_key:
+                print("Error: GEMINI_API_KEY not found for hybrid. Falling back to local Ollama...")
+                stock_uncle_insight = call_ollama(uncle_sys, uncle_user, ollama_model)
+            else:
+                stock_uncle_insight = call_ollama(uncle_sys, uncle_user, ollama_model)
             
     # 2. Run English Professor article-by-article
     print("2. Processing English Professor (article by article)...")
     english_professor_news = []
+    chosen_keywords = []
     for idx, item in enumerate(raw_data["news"]):
         print(f"   - Processing article {idx+1}/{len(raw_data['news'])}: {item.get('title')[:40]}...")
         single_news_str = json.dumps(item, ensure_ascii=False)
+        
+        avoid_clause = ""
+        if chosen_keywords:
+            avoid_clause = f"且挑選的核心單字絕對不能與以下先前已選的單字重複：{', '.join(chosen_keywords)}。"
+            
         prof_user = (
             f"以下是今日抓取的一篇新聞原始資料：{single_news_str}。\n"
             f"請根據你的留美財經科技教授設定，針對這條新聞，『嚴格』只輸出一個 JSON 物件（不要包裹在 ```json 代碼塊中），包含以下欄位：\n"
@@ -435,7 +551,7 @@ def run_processor(mode, ollama_model):
             f"- source (新聞來源)\n"
             f"- link (新聞連結)\n"
             f"- level1_blind (包含 text 欄位，將這篇長篇新聞（full_text 欄位）的內容完整放入作為盲讀與聽力文本)\n"
-            f"- level2_keywords (包含 5 個關鍵字物件陣列，從文章中挑選 5 個核心產業單字，每個物件欄位為 word, ipa, meaning, example)\n"
+            f"- level2_keywords (包含 5 個關鍵字物件陣列，從文章中挑選 5 個核心產業單字，每個物件欄位為 word, ipa, meaning, example。{avoid_clause})\n"
             f"- level2_context (字串，該新聞的白話宏觀背景提示，不用直接翻譯，而是以中文解釋其產業與政經背景脈絡)\n"
             f"- level3_translation (陣列，請將整篇長篇 'full_text' 的每一句英文拆解，包含 sentence 與 translation 欄位，完成全文對應之繁體中文白話翻譯。務必完成每一句的翻譯，不可為空字串！)"
         )
@@ -454,6 +570,11 @@ def run_processor(mode, ollama_model):
         # Validate result
         if result and isinstance(result, dict) and "level3_translation" in result:
             english_professor_news.append(result)
+            # Add to chosen_keywords
+            keywords = result.get("level2_keywords", [])
+            for kw in keywords:
+                if isinstance(kw, dict) and "word" in kw:
+                    chosen_keywords.append(kw["word"].lower().strip())
         else:
             print(f"   [Warning] AI processing failed or returned invalid JSON for article {idx+1}. Using mock data fallback.")
             mock_res = generate_mock_processed_insights({"news": [item], "stock_market": raw_data.get("stock_market", {})})
@@ -565,10 +686,10 @@ def run_processor(mode, ollama_model):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Process raw data with AI Agents.")
-    parser.add_argument("--mode", type=str, choices=["ollama", "gemini", "hybrid", "mock"], default="ollama",
+    parser.add_argument("--mode", type=str, choices=["ollama", "gemini", "hybrid", "mock"], default="hybrid",
                         help="AI mode: ollama (local), gemini (cloud API), hybrid (ollama + gemini), or mock (simulation)")
-    parser.add_argument("--model", type=str, default="llama3",
-                        help="Ollama model name (default: llama3)")
+    parser.add_argument("--model", type=str, default="llama3.2",
+                        help="Ollama model name (default: llama3.2)")
                         
     args = parser.parse_args()
     
