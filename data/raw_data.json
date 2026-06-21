@@ -1,377 +1,378 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
+  "stock_market_date": "2026-06-18",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 102000000
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 319913795
         },
         {
           "rank": 2,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 75000000
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_buy_shares": 142290326
         },
         {
           "rank": 3,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 21000000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 65777401
         },
         {
           "rank": 4,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 18000000
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 52384372
         },
         {
           "rank": 5,
-          "stock_name": "新光金",
-          "ticker": "2888",
-          "net_buy_shares": 15000000
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_buy_shares": 31388823
         },
         {
           "rank": 6,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 12000000
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_buy_shares": 26659152
         },
         {
           "rank": 7,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 9500000
+          "stock_name": "康霈*",
+          "ticker": "6919",
+          "net_buy_shares": 25485783
         },
         {
           "rank": 8,
-          "stock_name": "大立光",
-          "ticker": "3008",
-          "net_buy_shares": 180000
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 23485793
         },
         {
           "rank": 9,
-          "stock_name": "先進光",
-          "ticker": "3362",
-          "net_buy_shares": 500000
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 19462274
         },
         {
           "rank": 10,
-          "stock_name": "中揚光",
-          "ticker": "6668",
-          "net_buy_shares": 300000
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 19244555
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -45000000
+          "stock_name": "彩晶",
+          "ticker": "6116",
+          "net_sell_shares": -79725519
         },
         {
           "rank": 2,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -15000000
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_sell_shares": -33020694
         },
         {
           "rank": 3,
-          "stock_name": "聯發科",
-          "ticker": "2454",
-          "net_sell_shares": -2200000
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -29761210
         },
         {
           "rank": 4,
           "stock_name": "鴻海",
           "ticker": "2317",
-          "net_sell_shares": -1200000
-        },
-        {
-          "rank": 5,
-          "stock_name": "欣興",
-          "ticker": "3037",
-          "net_sell_shares": -800000
-        },
-        {
-          "rank": 6,
-          "stock_name": "世芯-KY",
-          "ticker": "3661",
-          "net_sell_shares": -500000
-        },
-        {
-          "rank": 7,
-          "stock_name": "創意",
-          "ticker": "3443",
-          "net_sell_shares": -200000
-        },
-        {
-          "rank": 8,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": 0
-        },
-        {
-          "rank": 9,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_sell_shares": 0
-        },
-        {
-          "rank": 10,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": 0
-        }
-      ],
-      "trust_buy": [
-        {
-          "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 19500000
-        },
-        {
-          "rank": 2,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 18700000
-        },
-        {
-          "rank": 3,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 17300000
-        },
-        {
-          "rank": 4,
-          "stock_name": "台新金",
-          "ticker": "2887",
-          "net_buy_shares": 10900000
-        },
-        {
-          "rank": 5,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 8000000
-        },
-        {
-          "rank": 6,
-          "stock_name": "國巨",
-          "ticker": "2327",
-          "net_buy_shares": 1200000
-        },
-        {
-          "rank": 7,
-          "stock_name": "禾伸堂",
-          "ticker": "3026",
-          "net_buy_shares": 800000
-        },
-        {
-          "rank": 8,
-          "stock_name": "長榮",
-          "ticker": "2603",
-          "net_buy_shares": 500000
-        },
-        {
-          "rank": 9,
-          "stock_name": "世芯-KY",
-          "ticker": "3661",
-          "net_buy_shares": 300000
-        },
-        {
-          "rank": 10,
-          "stock_name": "創意",
-          "ticker": "3443",
-          "net_buy_shares": 100000
-        }
-      ],
-      "trust_sell": [
-        {
-          "rank": 1,
-          "stock_name": "陽明",
-          "ticker": "2609",
-          "net_sell_shares": -5000000
-        },
-        {
-          "rank": 2,
-          "stock_name": "萬海",
-          "ticker": "2615",
-          "net_sell_shares": -3500000
-        },
-        {
-          "rank": 3,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_sell_shares": -2000000
-        },
-        {
-          "rank": 4,
-          "stock_name": "台泥",
-          "ticker": "1101",
-          "net_sell_shares": -1500000
-        },
-        {
-          "rank": 5,
-          "stock_name": "開發金",
-          "ticker": "2883",
-          "net_sell_shares": -1000000
-        },
-        {
-          "rank": 6,
-          "stock_name": "欣興",
-          "ticker": "3037",
-          "net_sell_shares": -900000
-        },
-        {
-          "rank": 7,
-          "stock_name": "智原",
-          "ticker": "3035",
-          "net_sell_shares": -600000
-        },
-        {
-          "rank": 8,
-          "stock_name": "創意",
-          "ticker": "3443",
-          "net_sell_shares": -200000
-        },
-        {
-          "rank": 9,
-          "stock_name": "世芯-KY",
-          "ticker": "3661",
-          "net_sell_shares": 0
-        },
-        {
-          "rank": 10,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": 0
-        }
-      ],
-      "dealer_buy": [
-        {
-          "rank": 1,
-          "stock_name": "群益證",
-          "ticker": "6005",
-          "net_buy_shares": 1800000
-        },
-        {
-          "rank": 2,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 1090000
-        },
-        {
-          "rank": 3,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 950000
-        },
-        {
-          "rank": 4,
-          "stock_name": "新光金",
-          "ticker": "2888",
-          "net_buy_shares": 850000
-        },
-        {
-          "rank": 5,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_buy_shares": 750000
-        },
-        {
-          "rank": 6,
-          "stock_name": "三商壽",
-          "ticker": "2867",
-          "net_buy_shares": 600000
-        },
-        {
-          "rank": 7,
-          "stock_name": "中工",
-          "ticker": "2515",
-          "net_buy_shares": 500000
-        },
-        {
-          "rank": 8,
-          "stock_name": "國光生",
-          "ticker": "4142",
-          "net_buy_shares": 300000
-        },
-        {
-          "rank": 9,
-          "stock_name": "先進光",
-          "ticker": "3362",
-          "net_buy_shares": 100000
-        },
-        {
-          "rank": 10,
-          "stock_name": "大立光",
-          "ticker": "3008",
-          "net_buy_shares": 10000
-        }
-      ],
-      "dealer_sell": [
-        {
-          "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -4000000
-        },
-        {
-          "rank": 2,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -2500000
-        },
-        {
-          "rank": 3,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_sell_shares": -1800000
-        },
-        {
-          "rank": 4,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -1500000
+          "net_sell_shares": -25474195
         },
         {
           "rank": 5,
           "stock_name": "緯創",
           "ticker": "3231",
-          "net_sell_shares": -1200000
+          "net_sell_shares": -25043493
         },
         {
           "rank": 6,
-          "stock_name": "英業達",
-          "ticker": "2356",
-          "net_sell_shares": -900000
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_sell_shares": -24676956
         },
         {
           "rank": 7,
-          "stock_name": "廣達",
-          "ticker": "2382",
-          "net_sell_shares": -800000
+          "stock_name": "聯合再生",
+          "ticker": "3576",
+          "net_sell_shares": -21442432
         },
         {
           "rank": 8,
-          "stock_name": "神達",
-          "ticker": "3706",
-          "net_sell_shares": -500000
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -19836811
         },
         {
           "rank": 9,
-          "stock_name": "微星",
-          "ticker": "2377",
-          "net_sell_shares": -300000
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_sell_shares": -18103445
         },
         {
           "rank": 10,
-          "stock_name": "技嘉",
-          "ticker": "2376",
-          "net_sell_shares": -200000
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -15142454
+        }
+      ],
+      "trust_buy": [
+        {
+          "rank": 1,
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 35366883
+        },
+        {
+          "rank": 2,
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_buy_shares": 23500922
+        },
+        {
+          "rank": 3,
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 22670088
+        },
+        {
+          "rank": 4,
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 20339405
+        },
+        {
+          "rank": 5,
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_buy_shares": 19702830
+        },
+        {
+          "rank": 6,
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 17759000
+        },
+        {
+          "rank": 7,
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 13666880
+        },
+        {
+          "rank": 8,
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 13354963
+        },
+        {
+          "rank": 9,
+          "stock_name": "統一",
+          "ticker": "1216",
+          "net_buy_shares": 8258975
+        },
+        {
+          "rank": 10,
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_buy_shares": 7973000
+        }
+      ],
+      "trust_sell": [
+        {
+          "rank": 1,
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_sell_shares": -286095940
+        },
+        {
+          "rank": 2,
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_sell_shares": -107362798
+        },
+        {
+          "rank": 3,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -49325866
+        },
+        {
+          "rank": 4,
+          "stock_name": "康霈*",
+          "ticker": "6919",
+          "net_sell_shares": -24869246
+        },
+        {
+          "rank": 5,
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_sell_shares": -11319036
+        },
+        {
+          "rank": 6,
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -9755828
+        },
+        {
+          "rank": 7,
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_sell_shares": -8525378
+        },
+        {
+          "rank": 8,
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_sell_shares": -8139610
+        },
+        {
+          "rank": 9,
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -7268349
+        },
+        {
+          "rank": 10,
+          "stock_name": "和泰車",
+          "ticker": "2207",
+          "net_sell_shares": -7092628
+        }
+      ],
+      "dealer_buy": [
+        {
+          "rank": 1,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 6248000
+        },
+        {
+          "rank": 2,
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 3019003
+        },
+        {
+          "rank": 3,
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_buy_shares": 2318478
+        },
+        {
+          "rank": 4,
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 1548000
+        },
+        {
+          "rank": 5,
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 1304862
+        },
+        {
+          "rank": 6,
+          "stock_name": "寶成",
+          "ticker": "9904",
+          "net_buy_shares": 1299509
+        },
+        {
+          "rank": 7,
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_buy_shares": 1216951
+        },
+        {
+          "rank": 8,
+          "stock_name": "三商壽",
+          "ticker": "2867",
+          "net_buy_shares": 928000
+        },
+        {
+          "rank": 9,
+          "stock_name": "力成",
+          "ticker": "6239",
+          "net_buy_shares": 736072
+        },
+        {
+          "rank": 10,
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 672447
+        }
+      ],
+      "dealer_sell": [
+        {
+          "rank": 1,
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -737043
+        },
+        {
+          "rank": 2,
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_sell_shares": -499287
+        },
+        {
+          "rank": 3,
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_sell_shares": -455243
+        },
+        {
+          "rank": 4,
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_sell_shares": -399120
+        },
+        {
+          "rank": 5,
+          "stock_name": "華紙",
+          "ticker": "1905",
+          "net_sell_shares": -340506
+        },
+        {
+          "rank": 6,
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -251247
+        },
+        {
+          "rank": 7,
+          "stock_name": "大聯大",
+          "ticker": "3702",
+          "net_sell_shares": -241000
+        },
+        {
+          "rank": 8,
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -197633
+        },
+        {
+          "rank": 9,
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -184988
+        },
+        {
+          "rank": 10,
+          "stock_name": "盟立",
+          "ticker": "2464",
+          "net_sell_shares": -174932
         }
       ]
     },
@@ -379,47 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "長榮航",
-        "shares": 3500000
+        "target": "中鋼",
+        "shares": 111969828
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "友達",
-        "shares": 1090000
+        "target": "聯電",
+        "shares": 2499200
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "聯電",
-        "shares": 8000000
+        "target": "兆豐金",
+        "shares": 15915097
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "聯電",
-        "shares": -15000000
+        "target": "彩晶",
+        "shares": 23917655
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "US tightens chip exports to AI sector targeting advanced accelerators",
-      "source": "Reuters",
-      "link": "https://www.reuters.com/technology/us-tightens-chip-exports-ai-sector-targeting-advanced-accelerators-2026-06",
-      "summary": "The US administration announced new rules restricting exports of advanced AI microchips and accelerators to curb military developments, affecting major global chip manufacturers.",
-      "full_text": "The Biden administration on Thursday announced a sweeping set of new export controls designed to restrict China's access to advanced semiconductor technology and high-end artificial intelligence chip accelerators. The rules, which expand on restrictions implemented last October, are aimed at preventing the use of Western AI technology in military applications. According to the Department of Commerce, these measures are essential to protect national security interests. However, the restrictions are expected to have a significant impact on global chipmakers, particularly those designing high-performance GPUs and accelerators for data centers. Companies like Nvidia, AMD, and Intel will face tighter licensing requirements for shipping their products to specific regions. Industry analysts suggest this move will accelerate efforts by major tech hubs to build localized supply chains and design proprietary hardware alternatives.",
-      "published": "2026-06-20T08:00:00Z"
+      "title": "A Blood Test That Screens for 50+ Cancers Just Moved Closer to Real-World Use. Here's What It Means for Grail Investors.",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/healthcare/articles/blood-test-screens-50-cancers-222500261.html",
+      "summary": "A Blood Test That Screens for 50+ Cancers Just Moved Closer to Real-World Use. Here's What It Means for Grail Investors.",
+      "full_text": "Multi-cancer early detection (MCED) test company Grail (NASDAQ: GRAL) is one of the most fascinating mid-cap healthcare stocks on the market. Usually, when a company misses a primary endpoint in a landmark trial, it's time to fold the hand and focus on the next one. The reality is that many investors did just that, and the stock is down more than 30% in 2026 as I write. Still, there's a case building for its MCED test to receive approval from the Food and Drug Administration (FDA) and coverage from medical insurers. Here's what you need to know before investing in the stock.\n\nThe Galleri MCED test is intended to detect more than 50 cancers at an early stage, and in doing so, improve patient outcomes while significantly reducing treatment costs -- late-stage cancers (III and IV) are far more costly and invasive to treat. To demonstrate Galleri's efficacy, Grail conducted two high-profile studies: a 35,900-person study in North America (PATHFINDER 2) and a three-year, 142,000-person trial in England (NHS-Galleri) with England's National Health Service (NHS).\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nUnfortunately, Grail had bad news for investors in February when it released top-line results from the NHS and outlined that it had missed its primary endpoint of demonstrating \"statistically significant Stage III-IV reduction\" in its trial. The idea is that, by detecting cancer at early stages (I-II), the tested group should see a reduction in Stage III-IV cancers compared to the control group.\n\nThe stock was, understandably, sold off heavily after the news broke, but has recovered about 18.4% as some investors are pricing in the possibility that Galleri could still receive FDA approval and coverage. Management sought to strengthen that case with a much-anticipated presentation at the American Society of Clinical Oncology (ASCO) annual meeting, only to receive a mixed reception from the market afterward.\n\nDespite missing a primary endpoint, management continues its iterative process with the FDA to secure approval for Galleri and provide more evidence of its suitability for medical coverage. There are potentially three factors that could favor the company achieving both.\n\nFirst, Grail believes 12-month follow-up data from the NHS trial will prove out the trial because \"there are people in the control arm who have cancer that isn't being found because it hasn't presented clinically. So after another 12 months go by, more of those cancers will show up,\" according to CFO Aaron Freidin at a recent Goldman Sachs conference.\n\nIf the follow-up data from the control group show late-stage cancers, it will support the case that the Galleri test reduces late-stage cancer detection.",
+      "published": "2026-06-21T22:25:00Z"
     },
     {
       "id": "news_2",
-      "title": "Tech stocks rally as inflation concerns ease globally",
-      "source": "Bloomberg",
-      "link": "https://www.bloomberg.com/news/articles/2026-06/tech-stocks-rally-as-inflation-concerns-ease-globally",
-      "summary": "Global markets saw an upward trend today as positive economic indicators eased inflation worries, driving technology stock prices higher across US and Asian exchanges.",
-      "full_text": "Shares in major technology companies rallied across global stock markets on Friday as cooling inflation data from both the United States and Europe eased investor concerns about aggressive interest rate hikes. The broad-based technology index gained over two percent, led by semiconductor companies and software service providers. Economic reports showed that consumer price indexes rose at a slower pace than anticipated last month, suggesting that central bank monetary policy is successfully curbing inflation without triggering a severe recession. In Asian markets, tech-heavy exchanges in Taipei, Tokyo, and Seoul closed higher, tracking Wall Street's positive momentum. Analysts believe that if inflation continues to stabilize, central banks may pause their rate hikes later this year, creating a more favorable environment for high-growth tech companies.",
-      "published": "2026-06-20T06:30:00Z"
+      "title": "Hormuz Crisis Sparks a Middle East Pipeline Boom",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/energy/articles/hormuz-crisis-sparks-middle-east-210000952.html",
+      "summary": "Hormuz Crisis Sparks a Middle East Pipeline Boom",
+      "full_text": "The blockading of the Strait of Hormuz was something that was never going to happen—until it did, paralyzing a fifth of global LNG and crude oil flows and causing quite a bit of economic pain to both producers and consumers of energy commodities. Now, they are taking care to never let a disruption of that scale happen again.\n\nThe most immediate response to Iran’s closure of the strait was switching to alternative pipeline routes for those that had them. Saudi Arabia demonstrated foresight with its East-West pipeline that it used to reroute its export flows from the Persian Gulf to the Red Sea, ramping up to some 7 million barrels of crude daily along the pipe that had previously handled much lower volumes. The only major constraint in that rerouting was the capacity of the loading facilities at Yanbu Port, an issue Aramco will no doubt address soon.\n\nIt is worth noting that the risk of Iran closing off the Strait of Hormuz was precisely what made Saudi Arabia decide to build the East-West pipeline in the first place, back in the 1980s, as Reuters’ energy columnist Ron Bousso noted in an overview of alternative oil and gas routes out of the Middle East in the aftermath of the Hormuz crisis.\n\nMeanwhile, its neighbor and former fellow OPEC member, the UAE, will have to build a new pipeline to insulate itself from potential future Hormuz trouble. The country already has one pipeline that ships oil to the port of Fujairah, which sits right outside the Strait of Hormuz, but it now plans to double its capacity with a new pipe, from 1.8 million barrels daily to 3.6 million barrels daily—and it wants to do it fast. The new pipeline is scheduled to be ready by the end of next year.\n\nIraq is also trying to boost its pipeline capacity. More than 90% of Iraq's oil exports traditionally move through the Persian Gulf, making the country especially vulnerable to Hormuz disruptions. Exports that averaged more than 3.3 million bpd before the conflict collapsed to a fraction of that level, triggering a sharp decline in government revenues and forcing Baghdad to prioritize domestic energy security over export volumes. Production plummeted from over 4 million barrels daily to barely over 1 million bpd.\n\nLike its neighbor, the UAE, Iraq is looking to ramp up its existing pipeline infrastructure, specifically the Kirkuk-Ceyhan pipeline that handles oil flows from Iraq’s northern fields. The pipeline currently has a capacity of around 200,000 barrels daily, but Baghdad is taking steps to increase this to some 770,000 barrels daily, and wants to do it in months. Then, Iraq is also considering a network of other pipelines to Mediterranean ports in Syria and Jordan as a way of bypassing Hormuz and the risk of future disruptions of tanker traffic there.\n\nThere is a separate initiative to build a pipeline network connecting the Middle East’s oil fields to port cities in the Mediterranean, with Turkey and Syria becoming major regional energy export hubs. “The post-Assad stabilization of Syria opens a narrow but historically decisive window to transform the Levant from a theater of energy conflict into a continental energy corridor,” the organization behind the idea, a think tank named the New Lines Institute, said. One could argue that the takeover by former radical militants is perhaps best not described as stabilization, but it appears the people currently in charge of Syria are eager to make money from energy.\n\n“The Four Seas Initiative would deliver four compounding strategic goods: European energy sovereignty from Russian and Iranian dependence; American commercial primacy in the Middle East’s most strategically leveraged infrastructure; Syrian economic reconstruction underwritten by transit revenues; and a durable geopolitical settlement that rewards alignment with the West,” the New Lines Institute also said.",
+      "published": "2026-06-21T21:00:00Z"
+    },
+    {
+      "id": "news_3",
+      "title": "She tried to cancel her gym membership but no one was there — now a billing company won't stop charging her",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/small-business/articles/she-tried-cancel-her-gym-180000461.html",
+      "summary": "She tried to cancel her gym membership but no one was there — now a billing company won't stop charging her",
+      "full_text": "Around 77 million Americans hold gym memberships, according to the 2025 US Health & Fitness Consumer Report (1). With gyms charging average monthly dues of $65 (2), Americans are spending a lot of money to stay in shape.\n\nBut what happens if your gym membership is no longer worth it, you want to cancel, and your gym doesn’t cooperate? Let’s pretend, for example, that Xavier has a gym membership he signed up for two years ago. The membership is month-to-month, so he has the right to cancel, and he wants to do so.\n\nRobert Kiyosaki says this 1 asset will surge 400% in a year and begs investors not to miss this ‘explosion’\n\nMillionaires under 43 hold only 25% of their wealth in stocks. Surprised? Here’s where their money is actually going\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — here are 5 ways to build wealth like a landlord without actually being one\n\nThe problem is that the gym contract requires him to talk to a staff member to cancel — and the gym doesn’t actually have any staff. Xavier has visited the gym at different hours, called, emailed, and sent letters, but no staff member is ever present, no one answers the phone, and no one responds.\n\nNow, Xavier is in a situation where he is being billed each month, and he doesn’t know what he can do about the situation. So, what can Xavier do?\n\nThe first key thing to do if you have a gym membership you don’t want is to ensure you’re following the cancellation procedure exactly.",
+      "published": "2026-06-21T18:00:00Z"
     }
   ]
 }
