@@ -4,29 +4,10 @@
 document.addEventListener("DOMContentLoaded", () => {
     let insightData = null;
     let currentNewsIndex = 0;
-    let speechUtterance = null;
+    let audioPlayer = null;
     let saveTimeout = null;
     let hideStatusTimeout = null;
     let isSpeaking = false;
-    let currentSpeechIndex = 0;
-    let currentSentences = [];
-    let cachedVoices = [];
-
-    // DOM Elements
-    const dateEl = document.getElementById("insight-date");
-
-    // Pre-cache voices
-    function loadVoices() {
-        if (typeof window !== "undefined" && window.speechSynthesis) {
-            cachedVoices = window.speechSynthesis.getVoices();
-        }
-    }
-    loadVoices();
-    if (typeof window !== "undefined" && window.speechSynthesis) {
-        window.speechSynthesis.onvoiceschanged = () => {
-            loadVoices();
-        };
-    }
 
     // Stock Uncle Elements
     const uncleReportHeaderEl = document.getElementById("uncle-report-header");
@@ -37,6 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
     
     // Linker Elements
     const linkerInsightEl = document.getElementById("linker-insight-text");
+    const dateEl = document.getElementById("insight-date");
     
     // English Section Elements
     const newsSelectorEl = document.getElementById("news-selector");
@@ -337,79 +319,39 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     });
 
-    // Text-to-Speech Speech Synthesis Logic
-    function speakSentence() {
-        if (!isSpeaking) return;
-        
-        if (currentSpeechIndex >= currentSentences.length) {
-            stopSpeech();
-            return;
-        }
-
-        const textToSpeak = currentSentences[currentSpeechIndex];
-        speechUtterance = new SpeechSynthesisUtterance(textToSpeak);
-        speechUtterance.lang = "en-US";
-        speechUtterance.rate = 0.9; // Slightly slower for better learning
-
-        // Find the Microsoft Edge Natural "Andrew" voice
-        const andrewVoice = cachedVoices.find(v => 
-            v.name.includes("en-US-AndrewNeural")
-        ) || cachedVoices.find(v => 
-            v.name.toLowerCase().includes("andrew") && 
-            (v.name.toLowerCase().includes("natural") || v.name.toLowerCase().includes("online"))
-        ) || cachedVoices.find(v => 
-            v.name.toLowerCase().includes("andrew")
-        ) || cachedVoices.find(v => 
-            v.name.toLowerCase().includes("natural") && v.lang.startsWith("en")
-        ) || cachedVoices.find(v => 
-            v.lang.startsWith("en")
-        );
-
-        if (andrewVoice) {
-            speechUtterance.voice = andrewVoice;
-        }
-
-        speechUtterance.onend = () => {
-            if (isSpeaking) {
-                currentSpeechIndex++;
-                speakSentence();
-            }
-        };
-
-        speechUtterance.onerror = (e) => {
-            console.error("SpeechSynthesis error:", e);
-            if (isSpeaking) {
-                currentSpeechIndex++;
-                setTimeout(speakSentence, 100);
-            } else {
-                stopSpeech();
-            }
-        };
-
-        window.speechSynthesis.speak(speechUtterance);
-    }
-
+    // Text-to-Speech Edge TTS Audio Logic
     ttsPlayBtn.addEventListener("click", () => {
         if (!insightData) return;
         const news = insightData.english_professor_news[currentNewsIndex];
         if (!news) return;
 
-        // Stop any current speech first
+        // Stop any current playback first
         stopSpeech();
 
         isSpeaking = true;
-        currentSpeechIndex = 0;
-        currentSentences = news.level1_blind.text
-            .split(/(?<=\.|\?|\!)\s+/)
-            .map(s => s.trim())
-            .filter(s => s.length > 0);
-
-        if (currentSentences.length === 0) return;
+        
+        // Dynamically load the pre-generated en-US-AndrewNeural mp3 file
+        const audioSrc = `data/audio/news_${currentNewsIndex + 1}.mp3`;
+        audioPlayer = new Audio(audioSrc);
 
         ttsPlayBtn.style.display = "none";
         ttsStopBtn.style.display = "inline-flex";
 
-        speakSentence();
+        audioPlayer.play().catch(err => {
+            console.error("Failed to play Edge TTS audio file:", err);
+            stopSpeech();
+            alert("Edge TTS 音檔載入失敗，請確認後端處理器已正確執行並生成語音音檔。");
+        });
+
+        // Listen for playback completion to reset UI
+        audioPlayer.onended = () => {
+            stopSpeech();
+        };
+
+        audioPlayer.onerror = (e) => {
+            console.error("Audio playback error:", e);
+            stopSpeech();
+        };
     });
 
     ttsStopBtn.addEventListener("click", () => {
@@ -418,8 +360,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function stopSpeech() {
         isSpeaking = false;
-        if (typeof window !== "undefined" && window.speechSynthesis) {
-            window.speechSynthesis.cancel();
+        if (audioPlayer) {
+            audioPlayer.pause();
+            audioPlayer.currentTime = 0;
+            audioPlayer = null;
         }
         resetSpeechUI();
     }

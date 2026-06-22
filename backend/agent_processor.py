@@ -270,6 +270,9 @@ def run_processor(mode, ollama_model):
             result = call_gemini(prof_sys, prof_user, api_key)
         else: # hybrid mode -> run other with local ollama
             result = call_ollama(prof_sys, prof_user, ollama_model)
+            if not result:
+                print("Warning: Ollama call failed. Falling back to Gemini API...")
+                result = call_gemini(prof_sys, prof_user, api_key)
             
         if not result:
             raise RuntimeError(f"Failed to get response or parse JSON from AI for English Professor article {idx+1} in mode {mode}.")
@@ -290,6 +293,9 @@ def run_processor(mode, ollama_model):
         market_linker_insight = call_gemini(linker_sys, linker_user, api_key)
     else: # hybrid mode -> run other with local ollama
         market_linker_insight = call_ollama(linker_sys, linker_user, ollama_model)
+        if not market_linker_insight:
+            print("Warning: Ollama call failed. Falling back to Gemini API...")
+            market_linker_insight = call_gemini(linker_sys, linker_user, api_key)
         
     if not market_linker_insight:
         raise RuntimeError(f"Failed to get response or parse JSON from AI for Market Linker module in mode {mode}.")
@@ -337,3 +343,26 @@ if __name__ == "__main__":
             json.dump(result_data, f, ensure_ascii=False, indent=2)
             
         print(f"\nProcessing completed successfully! Saved to: {output_file}")
+
+        # Generate Audio Files using Edge TTS
+        print("\nGenerating Microsoft Edge TTS en-US-AndrewNeural audio files...")
+        audio_dir = os.path.join(frontend_data_dir, "audio")
+        os.makedirs(audio_dir, exist_ok=True)
+        
+        import asyncio
+        import edge_tts
+        
+        async def make_audios():
+            for idx, news in enumerate(result_data.get("english_professor_news", [])):
+                text = news.get("level1_blind", {}).get("text", "")
+                if text:
+                    audio_path = os.path.join(audio_dir, f"news_{idx+1}.mp3")
+                    print(f" - Generating audio for article {idx+1}: {audio_path}")
+                    communicate = edge_tts.Communicate(text, "en-US-AndrewNeural")
+                    await communicate.save(audio_path)
+                    
+        try:
+            asyncio.run(make_audios())
+            print("Edge TTS Audio generation completed successfully!")
+        except Exception as e:
+            print(f"Warning: Failed to generate TTS audio: {e}")
