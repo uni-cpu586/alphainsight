@@ -2,6 +2,7 @@
 import os
 import json
 import argparse
+import time
 import requests
 from dotenv import load_dotenv
 
@@ -45,35 +46,65 @@ def call_gemini(system_prompt, user_prompt, api_key):
         }
     }
     
-    text_response = ""
-    try:
-        response = requests.post(url, json=payload, timeout=60)
-        if response.status_code == 200:
-            result = response.json()
-            # Parse Gemini text response
-            text_response = result["candidates"][0]["content"]["parts"][0]["text"]
+    max_retries = 5
+    backoff_factor = 2
+    
+    for attempt in range(max_retries):
+        text_response = ""
+        try:
+            response = requests.post(url, json=payload, timeout=60)
+            if response.status_code == 200:
+                result = response.json()
+                # Parse Gemini text response
+                text_response = result["candidates"][0]["content"]["parts"][0]["text"]
+                
+                # Clean markdown formatting if present
+                cleaned = text_response.strip()
+                if cleaned.startswith("```json"):
+                    cleaned = cleaned[7:]
+                elif cleaned.startswith("```"):
+                    cleaned = cleaned[3:]
+                if cleaned.endswith("```"):
+                    cleaned = cleaned[:-3]
+                cleaned = cleaned.strip()
+                
+                return json.loads(cleaned)
+            elif response.status_code == 429:
+                retry_delay = 5.0
+                try:
+                    err_data = response.json()
+                    details = err_data.get("error", {}).get("details", [])
+                    for detail in details:
+                        if detail.get("@type") == "type.googleapis.com/google.rpc.RetryInfo":
+                            delay_str = detail.get("retryDelay", "5s")
+                            if delay_str.endswith("s"):
+                                retry_delay = float(delay_str[:-1])
+                            else:
+                                retry_delay = float(delay_str)
+                            break
+                except Exception:
+                    pass
+                
+                sleep_time = retry_delay * (backoff_factor ** attempt)
+                print(f"Gemini API rate limit hit (429). Retrying in {sleep_time:.2f} seconds (Attempt {attempt+1}/{max_retries})...")
+                time.sleep(sleep_time)
+            else:
+                print(f"Gemini API returned status code: {response.status_code}, error: {response.text}")
+                return None
+        except Exception as e:
+            print(f"Gemini API call failed: {e}")
+            if text_response:
+                print("--- Text Response Snippet (first 1000 chars) ---")
+                print(text_response[:1000])
+                print("--- End of Snippet ---")
             
-            # Clean markdown formatting if present
-            cleaned = text_response.strip()
-            if cleaned.startswith("```json"):
-                cleaned = cleaned[7:]
-            elif cleaned.startswith("```"):
-                cleaned = cleaned[3:]
-            if cleaned.endswith("```"):
-                cleaned = cleaned[:-3]
-            cleaned = cleaned.strip()
-            
-            return json.loads(cleaned)
-        else:
-            print(f"Gemini API returned status code: {response.status_code}, error: {response.text}")
-            return None
-    except Exception as e:
-        print(f"Gemini API call failed: {e}")
-        if text_response:
-            print("--- Text Response Snippet (first 1000 chars) ---")
-            print(text_response[:1000])
-            print("--- End of Snippet ---")
-        return None
+            sleep_time = 5 * (backoff_factor ** attempt)
+            if attempt < max_retries - 1:
+                print(f"Retrying in {sleep_time} seconds...")
+                time.sleep(sleep_time)
+            else:
+                return None
+    return None
 
 def call_ollama(system_prompt, user_prompt, model="llama3.2"):
     hosts = ["http://localhost:11434", "http://127.0.0.1:11435", "http://localhost:11435"]
