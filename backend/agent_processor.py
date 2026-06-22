@@ -48,11 +48,13 @@ def call_gemini(system_prompt, user_prompt, api_key):
     
     max_retries = 5
     backoff_factor = 2
+    max_sleep_time = 10.0  # Limit max sleep time per retry to 10 seconds
+    request_timeout = 15   # Limit single request timeout to 15 seconds
     
     for attempt in range(max_retries):
         text_response = ""
         try:
-            response = requests.post(url, json=payload, timeout=60)
+            response = requests.post(url, json=payload, timeout=request_timeout)
             if response.status_code == 200:
                 result = response.json()
                 # Parse Gemini text response
@@ -85,7 +87,7 @@ def call_gemini(system_prompt, user_prompt, api_key):
                 except Exception:
                     pass
                 
-                sleep_time = retry_delay * (backoff_factor ** attempt)
+                sleep_time = min(retry_delay * (backoff_factor ** attempt), max_sleep_time)
                 print(f"Gemini API rate limit hit (429). Retrying in {sleep_time:.2f} seconds (Attempt {attempt+1}/{max_retries})...")
                 time.sleep(sleep_time)
             else:
@@ -98,9 +100,9 @@ def call_gemini(system_prompt, user_prompt, api_key):
                 print(text_response[:1000])
                 print("--- End of Snippet ---")
             
-            sleep_time = 5 * (backoff_factor ** attempt)
+            sleep_time = min(5.0 * (backoff_factor ** attempt), max_sleep_time)
             if attempt < max_retries - 1:
-                print(f"Retrying in {sleep_time} seconds...")
+                print(f"Retrying in {sleep_time:.2f} seconds...")
                 time.sleep(sleep_time)
             else:
                 return None
