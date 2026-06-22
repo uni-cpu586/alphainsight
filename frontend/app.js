@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const saveStatusEl = document.getElementById("save-status");
 
     // Initialize App: Load JSON Data
-    fetch("data/processed_insights.json")
+    fetch(`data/processed_insights.json?t=${Date.now()}`)
         .then(response => {
             if (!response.ok) {
                 throw new Error("processed_insights.json not found");
