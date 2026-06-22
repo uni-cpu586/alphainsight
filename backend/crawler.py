@@ -1,21 +1,17 @@
+# -*- coding: utf-8 -*-
 import json
 import datetime
 import os
 import requests
 import feedparser
 from bs4 import BeautifulSoup
-import mock_data
 
 def get_latest_trading_day():
     # Helper to find the latest trading day (excluding weekends)
     today = datetime.date.today()
-    # If today is Saturday, go to Friday. Sunday, go to Friday.
-    # Also if today is weekday but before 15:00, the data might not be ready,
-    # so we might want to default to yesterday or today. We will try today, and if not ready, try yesterday.
     return today
 
 def fetch_twse_data(target_date):
-    # Format date as YYYYMMDD
     date_str = target_date.strftime("%Y%m%d")
     url = f"https://www.twse.com.tw/rwd/zh/fund/T86?response=json&date={date_str}&selectType=ALL"
     print(f"Fetching TWSE data for {date_str} from: {url}")
@@ -43,7 +39,6 @@ def parse_twse_data(json_data):
     fields = json_data.get("fields", [])
     data = json_data.get("data", [])
     
-    # Find column indices dynamically
     ticker_idx = -1
     name_idx = -1
     foreign_idx = -1
@@ -62,20 +57,17 @@ def parse_twse_data(json_data):
         elif "自營商" in field and "買賣超股數" in field and "自行買賣" in field:
             dealer_idx = i
             
-    # Fallback to standard indices or other matches if not matched
     if foreign_idx == -1:
         for i, field in enumerate(fields):
             if ("外陸資" in field or "外資" in field) and "買賣超股數" in field:
                 foreign_idx = i
                 break
             
-    # Fallback to standard indices if not matched
     if ticker_idx == -1: ticker_idx = 0
     if name_idx == -1: name_idx = 1
     if foreign_idx == -1: foreign_idx = 4
     if trust_idx == -1: trust_idx = 7
     if dealer_idx == -1:
-        # Find any self-dealer index
         for i, field in enumerate(fields):
             if "自營商" in field and "買賣超股數" in field:
                 dealer_idx = i
@@ -111,11 +103,8 @@ def parse_twse_data(json_data):
             "dealer": dealer_val
         })
         
-    # Filter out warrants and other non-stock tickers (usually tickers with length > 4 or letters)
-    # Taiwan stocks are mostly 4 digits (e.g. 2330)
     filtered_rows = [r for r in rows if len(r["ticker"]) == 4 and r["ticker"].isdigit()]
     
-    # Sort and get top 10 buy/sell for each
     foreign_sorted_desc = sorted(filtered_rows, key=lambda x: x["foreign"], reverse=True)
     foreign_sorted_asc = sorted(filtered_rows, key=lambda x: x["foreign"])
     
@@ -146,8 +135,6 @@ def parse_twse_data(json_data):
 def generate_brokerage_branches(net_buy_sell):
     branches = []
     
-    # Helper to generate branch simulation
-    # Foreign buyer top 1 -> Goldman Sachs
     foreign_buy = net_buy_sell.get("foreign_buy", [])
     if foreign_buy and foreign_buy[0]["net_buy_shares"] > 0:
         branches.append({
@@ -157,7 +144,6 @@ def generate_brokerage_branches(net_buy_sell):
             "shares": int(foreign_buy[0]["net_buy_shares"] * 0.35)
         })
         
-    # Dealer top 1 -> KGI Taipei
     dealer_buy = net_buy_sell.get("dealer_buy", [])
     if dealer_buy:
         action = "buy" if dealer_buy[0]["net_buy_shares"] > 0 else "sell"
@@ -168,7 +154,6 @@ def generate_brokerage_branches(net_buy_sell):
             "shares": int(abs(dealer_buy[0]["net_buy_shares"]) * 0.4)
         })
         
-    # Trust top 1 -> Yuanta
     trust_buy = net_buy_sell.get("trust_buy", [])
     if trust_buy and trust_buy[0]["net_buy_shares"] > 0:
         branches.append({
@@ -178,7 +163,6 @@ def generate_brokerage_branches(net_buy_sell):
             "shares": int(trust_buy[0]["net_buy_shares"] * 0.45)
         })
         
-    # Add a foreign seller if available
     foreign_sell = net_buy_sell.get("foreign_sell", [])
     if foreign_sell:
         branches.append({
@@ -194,11 +178,8 @@ def clean_html_summary(html_content):
     if not html_content:
         return ""
     soup = BeautifulSoup(html_content, "html.parser")
-    # Get plain text
     text = soup.get_text(separator=" ")
-    # Clean whitespace
     text = " ".join(text.split())
-    # Limit length
     if len(text) > 200:
         text = text[:197] + "..."
     return text
@@ -214,16 +195,13 @@ def fetch_full_text(url):
             return None
         soup = BeautifulSoup(response.text, "html.parser")
         
-        # Get paragraphs
         p_tags = soup.find_all("p")
         paragraphs = []
         for p in p_tags:
             text = p.get_text().strip()
-            # Filter out ads, sharing links, cookie notice, short phrases, advertiser disclosures
             if len(text) > 80 and not any(x in text.lower() for x in ["cookie", "subscribe", "sign up", "terms of service", "privacy policy", "rights reserved", "share this", "facebook", "twitter", "advertiser disclosure", "some offers on this page", "disclosure"]):
                 paragraphs.append(text)
                 
-        # Join top 6-8 paragraphs to keep it medium-long (approx 300-500 words)
         full_text = "\n\n".join(paragraphs[:8])
         return full_text if len(full_text) > 150 else None
     except Exception as e:
@@ -231,7 +209,6 @@ def fetch_full_text(url):
         return None
 
 def fetch_rss_news():
-    # Try different tech/finance feeds
     feeds = [
         "https://search.cnbc.com/rs/search/combinedfeed.shtml?partnerId=240&keywords=technology",
         "https://finance.yahoo.com/news/rssindex",
@@ -248,12 +225,14 @@ def fetch_rss_news():
                 print(f"No entries found in feed: {feed_url}")
                 continue
                 
-            for i, entry in enumerate(feed.entries[:5]): # Take top 5
+            for entry in feed.entries[:15]:
+                if len(parsed_articles) >= 3:
+                    break
+                    
                 summary = clean_html_summary(entry.get("summary", entry.get("description", "")))
                 if not summary and "title" in entry:
                     summary = entry.title
                 
-                # Fetch full article text
                 full_text = fetch_full_text(entry.link)
                 if not full_text:
                     full_text = summary
@@ -269,27 +248,26 @@ def fetch_rss_news():
                 }
                 parsed_articles.append(article)
                 
-                if len(parsed_articles) >= 3:
-                    break
-                    
             if len(parsed_articles) >= 3:
-                # We got enough articles
                 break
         except Exception as e:
             print(f"Error reading feed {feed_url}: {e}")
             
+    if len(parsed_articles) < 3:
+        raise RuntimeError(
+            f"Error: Scraped only {len(parsed_articles)} articles from RSS feeds. "
+            f"At least 3 valid real-time articles are required."
+        )
+                
     return parsed_articles[:3]
 
 def run_crawler():
     today = get_latest_trading_day()
     
-    # 1. Fetch stock data
     stock_market_data = None
     actual_trading_date = None
-    # Try today first, then previous days if fail
     for days_back in range(5):
         target_date = today - datetime.timedelta(days=days_back)
-        # Skip Sunday/Saturday for TWSE API (it never has data)
         if target_date.weekday() in [5, 6]:
             continue
         twse_raw = fetch_twse_data(target_date)
@@ -303,22 +281,19 @@ def run_crawler():
             actual_trading_date = target_date
             break
             
-    # 2. Fetch News RSS
+    if not stock_market_data:
+        raise RuntimeError("Error: Failed to fetch live TWSE stock market data. Mock fallback is strictly disabled.")
+            
     news_data = fetch_rss_news()
     
-    # 3. Assemble and output
-    if stock_market_data and news_data:
-        raw_output = {
-            "date": today.isoformat(),
-            "stock_market_date": actual_trading_date.isoformat() if actual_trading_date else today.isoformat(),
-            "stock_market": stock_market_data,
-            "news": news_data
-        }
-        print("Successfully scraped live data!")
-        return raw_output
-    else:
-        print("Live scrap failed or returned incomplete data. Falling back to mock data...")
-        return mock_data.generate_mock_raw_data()
+    raw_output = {
+        "date": today.isoformat(),
+        "stock_market_date": actual_trading_date.isoformat() if actual_trading_date else today.isoformat(),
+        "stock_market": stock_market_data,
+        "news": news_data
+    }
+    print("Successfully assembled raw data with strictly live TWSE and news data!")
+    return raw_output
 
 if __name__ == "__main__":
     raw_data = run_crawler()

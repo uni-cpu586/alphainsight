@@ -158,28 +158,6 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Outfit', sans-serif;
 }
 
-.status-indicator {
-    color: var(--neon-green);
-    border-color: rgba(16, 185, 129, 0.15);
-    background: rgba(16, 185, 129, 0.02);
-}
-
-.status-dot {
-    width: 8px;
-    height: 8px;
-    background-color: var(--neon-green);
-    border-radius: 50%;
-    box-shadow: 0 0 10px var(--neon-green);
-    display: inline-block;
-    animation: pulse 2s infinite;
-}
-
-@keyframes pulse {
-    0% { transform: scale(0.95); opacity: 0.7; }
-    50% { transform: scale(1.1); opacity: 1; box-shadow: 0 0 14px var(--neon-green); }
-    100% { transform: scale(0.95); opacity: 0.7; }
-}
-
 /* Dashboard Columns Layout */
 .app-main {
     display: grid;
@@ -793,7 +771,7 @@ h1, h2, h3, h4, h5, h6 {
 /* 3D Flip Cards */
 .keyword-card-wrapper {
     perspective: 1000px;
-    height: 120px;
+    height: 180px;
     cursor: pointer;
 }
 
@@ -847,6 +825,9 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--text-primary);
     transform: rotateY(180deg);
     border-color: rgba(59, 130, 246, 0.3);
+    overflow-y: auto;
+    justify-content: flex-start;
+    padding: 16px 12px;
 }
 
 .keyword-card-back p {
@@ -880,6 +861,12 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 768px) {
     .read-along-container {
         grid-template-columns: 1fr;
+    }
+    .english-passage-interactive,
+    .translation-side-panel {
+        max-height: none;
+        height: auto;
+        overflow-y: visible;
     }
 }
 

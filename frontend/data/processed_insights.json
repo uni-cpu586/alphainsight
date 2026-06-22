@@ -1,191 +1,218 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "stock_uncle_insight": {
-    "date_header": "6/20 法人與主力大戶主要買超股票",
+    "date_header": "6/18 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃航空與面板",
+        "group_title": "1. 外資大戶：狂掃傳產龍頭與部分金融，對作面板與半導體",
         "stocks": [
           {
-            "stock_name": "長榮航",
-            "ticker": "2618",
-            "description": "外資瘋狂買超 10.2 萬張（已連續 7 日加碼），基期低且暑期旺季大爆發。"
+            "stock_name": "中鋼",
+            "ticker": "2002",
+            "description": "肖年仔，你看這中鋼，外資狂掃了近 31.99 萬張！這擺明是看好原物料行情，或是拿來當避險部位，畢竟國際局勢不穩，通膨壓力又來了，這種傳產龍頭就是資金的避風港啦！"
+          },
+          {
+            "stock_name": "台塑",
+            "ticker": "1301",
+            "description": "台塑也被外資買了近 14.23 萬張，跟中鋼一樣，都是傳產龍頭，這種穩定的標的，外資大戶在市場震盪時，就是喜歡拿來壓艙，穩住陣腳。"
+          },
+          {
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "聯電外資買了近 6.58 萬張，但投信卻在倒貨，這就是標準的法人對作。外資可能覺得聯電跌深了，或是看好成熟製程的訂單，但投信可能覺得還有壓，肖年仔別黑白猜，看清楚主力意圖。"
           },
           {
             "stock_name": "友達",
             "ticker": "2409",
-            "description": "外資買超 7.5 萬張、自營商也買超 1.09 萬張（主力券商買超第 1 名）。"
+            "description": "友達外資買了近 5.24 萬張，面板股最近消息面多空交雜，外資買友達卻賣彩晶、群創，這表示他們不是全面看好面板，而是有選擇性地布局，或是短線操作。"
+          },
+          {
+            "stock_name": "旺宏",
+            "ticker": "2337",
+            "description": "旺宏外資買了近 3.14 萬張，記憶體族群最近也是話題不斷，外資可能在低檔偷偷吃貨，準備等題材發酵拉高出貨。"
+          },
+          {
+            "stock_name": "永豐金",
+            "ticker": "2890",
+            "description": "永豐金外資買了近 2.35 萬張，同時投信也在買，這檔金融股有雙法人加持，顯示在市場震盪時，金融股的防禦性還是很受青睞。"
           },
           {
             "stock_name": "華航",
             "ticker": "2610",
-            "description": "外資買超 2.1 萬張，同屬現成有業績支撐的暑期旅遊避風港。"
+            "description": "華航外資買了近 1.95 萬張，航空股之前漲多拉回，現在外資又開始回補，可能是看好暑假旺季效應，或是油價波動後的避險操作。"
           }
         ]
       },
       {
-        "group_title": "2. 投信大戶（本土國家隊）：鎖定金融與轉機股",
+        "group_title": "2. 投信大戶（本土國家隊）：鎖碼金融股作帳，對作外資",
         "stocks": [
           {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "投信買超 1.95 萬張。有趣的是外資當天大賣聯電 4.5 萬張，形成本土大戶與ETF資金死守、對決外資的局面。"
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "兆豐金投信狂掃近 3.54 萬張，這就是典型的投信作帳行情啦！肖年仔，看到投信這樣大買金融股，就知道他們要拉高淨值，準備跟基金投資人交待了。"
+          },
+          {
+            "stock_name": "遠傳",
+            "ticker": "4904",
+            "description": "遠傳投信買了近 2.35 萬張，電信股也是防禦型標的，在市場不確定性高的時候，投信喜歡抱這種穩定的股票，進可攻退可守。"
+          },
+          {
+            "stock_name": "永豐金",
+            "ticker": "2890",
+            "description": "永豐金投信買了近 2.27 萬張，跟外資同步買超，這檔金融股有雙法人共識，代表短期內有支撐，但肖年仔別傻傻追高，要看清楚是真買還是假買。"
           },
           {
             "stock_name": "第一金",
             "ticker": "2892",
-            "description": "投信與官股買超 1.87 萬張，撐盤色彩濃厚。"
+            "description": "第一金投信買了近 2.03 萬張，又是金融股！本土國家隊就是愛金融，作帳季節到了，這些金控股就是他們的提款機，拉高出貨的好工具。"
           },
           {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "投信買超 1.73 萬張，防禦性質高。"
+            "stock_name": "臻鼎-KY",
+            "ticker": "4958",
+            "description": "臻鼎-KY投信買了近 1.97 萬張，但外資卻在賣，這也是法人對作。投信可能看好PCB產業的下半年展望，或是趁外資倒貨時接刀。"
           },
           {
-            "stock_name": "台新金",
-            "ticker": "2887",
-            "description": "投信買超 1.09 萬張，持續布局金控合併題材。"
-          },
-          {
-            "stock_name": "國巨",
-            "ticker": "2327",
-            "description": "投信建倉，看好被動元件低谷回溫。"
-          },
-          {
-            "stock_name": "禾伸堂",
-            "ticker": "3026",
-            "description": "默默敲進，被動元件低基期防守盤。"
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "群創投信買了近 1.78 萬張，但外資卻在狂賣近 2.98 萬張，這對作的力道很強。投信可能覺得面板跌深有反彈空間，但外資卻在割韭菜，肖年仔別傻傻地去接刀啊！"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：點火光學題材",
+        "group_title": "3. 內資主力與實戶：短線操作半導體與面板，避險盤也來湊熱鬧",
         "stocks": [
           {
-            "stock_name": "大立光",
-            "ticker": "3008",
-            "description": "大漲重返 5000 元大關，CPO 新技術與 iPhone 換機潮預期發酵。"
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "自營商買了近 0.62 萬張聯電，這量不大，但跟外資同向，顯示他們也想搭個順風車。自營商的單通常比較短線，肖年仔要小心，別被他們拉高出貨了。"
           },
           {
-            "stock_name": "先進光",
-            "ticker": "3362",
-            "description": "二線光學股集體飆漲停，內資主力短線拉抬氣勢磅礴。"
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "自營商買了近 0.30 萬張群創，這跟投信同向，但外資卻是大賣。自營商這種買法，很可能是避險盤，或是看準短線反彈，準備隔日沖倒貨。"
           },
           {
-            "stock_name": "中揚光",
-            "ticker": "6668",
-            "description": "低檔噴出，主力在權值股整理時拉抬具備想像空間的題材股。"
+            "stock_name": "富邦科技",
+            "ticker": "0052",
+            "description": "自營商買了近 0.23 萬張富邦科技ETF，這就是典型的避險操作，不想單壓個股，就買ETF來分散風險，或是作為權證避險的部位。"
+          },
+          {
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "自營商買了近 0.15 萬張友達，跟外資同向。面板股最近波動大，自營商這種小量買進，通常是短線進出，肖年仔別以為是鎖碼，小心被套牢。"
+          },
+          {
+            "stock_name": "力積電",
+            "ticker": "6770",
+            "description": "自營商買了近 0.13 萬張力積電，這也是半導體族群。自營商對這種有題材的股票，通常是快進快出，賺個價差就跑，別想跟他們玩波段。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔避險與資金避風港（金融、航空）",
-        "strategy_content": "由於科技權值股（如台積電、聯發科、台達電）近期漲幅已大，加上美股費半重挫，外資與本土大戶在 6/17 選擇將資金撤出高風險的半導體，轉進『防禦型』與『受惠於暑期旺季』的標的。航空雙雄即將迎來第 3 季暑假旅遊及貨運旺季，屬於基期相對科技股低的選擇，因而成為外資大吸金池。而第一金、兆豐金等金融股，則是投信與國家隊在大盤重挫時慣用的『撐盤』工具，防禦性極佳。"
+        "strategy_title": "策略一：高檔避險與資金避風港（金融、傳產龍頭）",
+        "strategy_content": "肖年仔，你看國際新聞說中東局勢緊張，油價又飆高，通膨壓力山大，美股期貨也跌。這種時候，聰明的大戶會把資金從高風險的科技股撤出來，轉往那些有防禦性、抗通膨特性的標的。外資狂掃中鋼、台塑、台玻這些傳產龍頭，就是看準原物料上漲的利多，或是當成通膨避險。而投信和外資同步買進金融股，更是典型的資金避風港操作，這些金控股殖利率高、股價波動小，在市場震盪時就是最好的防禦工事，也是投信作帳的好工具。"
       },
       {
-        "strategy_title": "策略二：低基期與高殖利率卡位（面板、成熟製程）",
-        "strategy_content": "面板雙虎近期股價基期極低，在市場恐慌時，這類『跌無可跌』且具有資產價值的低基期股票，反而成為主力資金短線停泊、賺取反彈的避風港。成熟製程的聯電，雖然外資因全球半導體修正調節 4.5 萬張，但投信大戶持續瘋狂吸納，著眼於聯電下檔有配息與評價面支撐，形成內外資的劇烈籌碼角力。"
+        "strategy_title": "策略二：半導體與面板的法人對作與短線博弈",
+        "strategy_content": "半導體跟面板族群，這次很明顯就是法人在對作。外資買聯電、友達、旺宏，但同時又在賣彩晶、群創、華邦電。投信則是買群創、南亞科，卻賣聯電。自營商也來參一咖，買聯電、群創、友達。這表示市場對這些產業的看法非常分歧，沒有一致的方向。外資可能在做產業輪動，把資金從漲多的個股換到相對低檔的，而投信則可能在趁機拉抬部分個股作帳。肖年仔，這種對作盤最容易被割韭菜，沒有真本事就別亂接刀，很容易被兩邊主力夾殺。"
       },
       {
-        "strategy_title": "策略三：新技術題材點火（光學 CPO 題材）",
-        "strategy_content": "6/17 盤面上最強眼的亮點就是光學股。主要是市場傳出共同封裝光學（CPO）新技術題材發酵，加上蘋果 iPhone 換機潮預期。大戶在權值股整理時，最喜歡找這類『有故事、有想像空間』且剛從底部發動的題材股進行短線拉抬，成功帶動整體中小型光學股集體噴出。"
+        "strategy_title": "策略三：投信作帳行情鎖碼金融股",
+        "strategy_content": "本土國家隊投信，這次大買兆豐金、永豐金、第一金、華南金，這根本就是教科書等級的作帳行情！每到季底或半年底，投信為了美化基金績效，就會鎖碼這些權值大、股性穩定的金融股，把股價拉高。肖年仔，這時候看到投信狂買，別以為是大利多就傻傻追高，他們可能只是為了作帳，等時間一到，這些股票就可能被倒貨，讓你接最後一棒。"
       }
     ],
-    "summary": "大戶在 6/17 的操作邏輯非常明確：『棄高換低、防禦與題材並重』。他們利用科技權值股開低的恐慌感，順勢將資金調配到具備旺季效應 of 航空、避險的金融，以及具備新技術亮點的光學族群。",
+    "summary": "肖年仔，今天市場就是一個字：亂！外資在傳產跟金融找避風港，投信狂拉金融股作帳，半導體跟面板則是法人對作。這種盤勢，沒有真功夫的韭菜們，最好是多看少動，別黑白買，不然很容易被主力割韭菜！",
     "top_brokerages_analysis": [
       {
-        "branch_name": "凱基台北",
-        "action": "買超 1.09 萬張",
-        "uncle_logic": "凱基台北在友達大玩隔日沖，明天開盤衝高大單出貨的機會非常高，肖年仔不要傻傻去接刀被割韭菜。"
+        "branch_name": "美商高盛",
+        "action": "buy",
+        "uncle_logic": "高盛這外資大咖，狂買中鋼近 11.20 萬張，這絕對不是隔日沖的小打小鬧。這擺明是看好原物料行情，或是把中鋼當成通膨避險的長線部位，準備鎖碼波段操作！"
       },
       {
-        "branch_name": "美商高盛",
-        "action": "買超 3.5 萬張",
-        "uncle_logic": "高盛幫外資波段基金代操，大買長榮航代表對暑期航空旺季買盤有中長線共識，這算有利多支撐。"
+        "branch_name": "凱基台北",
+        "action": "buy",
+        "uncle_logic": "凱基台北買聯電近 0.25 萬張，肖年仔，這分點是出了名的隔日沖大戶！買這種權值股，通常就是想搭個短線順風車，隔天高開就倒貨，賺個便當錢，你可別傻傻地跟著追高啊。"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 8000 張",
-        "uncle_logic": "投信在聯電上大打防守戰，明顯是本土高股息ETF和波段資金在死守季線，支撐力道不俗。"
+        "action": "buy",
+        "uncle_logic": "元大投信買兆豐金近 1.59 萬張，這就是本土國家隊的作帳部隊！他們就是要拉抬基金淨值，把金融股鎖碼，讓帳面好看。肖年仔，這不是給你進場的訊號，是給你看出貨機會的訊號！"
+      },
+      {
+        "branch_name": "摩根大通",
+        "action": "sell",
+        "uncle_logic": "摩根大通這外資大戶，賣彩晶近 2.39 萬張，跟外資整體賣超彩晶的趨勢一致。這可能是對面板股短線看法保守，或是之前有賺錢，現在趁機獲利了結，準備把資金轉到其他地方去。"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "A Blood Test That Screens for 50+ Cancers Just Moved Closer to Real-World Use. Here's What It Means for Grail Investors.",
+      "title": "You Can't Buy Anthropic Stock Yet, but You Can Buy These 4 AI Stocks Instead",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/healthcare/articles/blood-test-screens-50-cancers-222500261.html",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cant-buy-anthropic-stock-yet-232000485.html",
       "level1_blind": {
-        "text": "Multi-cancer early detection (MCED) test company Grail (NASDAQ: GRAL) is one of the most fascinating mid-cap healthcare stocks on the market. Usually, when a company misses a primary endpoint in a landmark trial, it's time to fold the hand and focus on the next one. The reality is that many investors did just that, and the stock is down more than 30% in 2026 as I write. Still, there's a case building for its MCED test to receive approval from the Food and Drug Administration (FDA) and coverage from medical insurers. Here's what you need to know before investing in the stock.\n\nThe Galleri MCED test is intended to detect more than 50 cancers at an early stage, and in doing so, improve patient outcomes while significantly reducing treatment costs -- late-stage cancers (III and IV) are far more costly and invasive to treat. To demonstrate Galleri's efficacy, Grail conducted two high-profile studies: a 35,900-person study in North America (PATHFINDER 2) and a three-year, 142,000-person trial in England (NHS-Galleri) with England's National Health Service (NHS).\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nUnfortunately, Grail had bad news for investors in February when it released top-line results from the NHS and outlined that it had missed its primary endpoint of demonstrating \"statistically significant Stage III-IV reduction\" in its trial. The idea is that, by detecting cancer at early stages (I-II), the tested group should see a reduction in Stage III-IV cancers compared to the control group.\n\nThe stock was, understandably, sold off heavily after the news broke, but has recovered about 18.4% as some investors are pricing in the possibility that Galleri could still receive FDA approval and coverage. Management sought to strengthen that case with a much-anticipated presentation at the American Society of Clinical Oncology (ASCO) annual meeting, only to receive a mixed reception from the market afterward.\n\nDespite missing a primary endpoint, management continues its iterative process with the FDA to secure approval for Galleri and provide more evidence of its suitability for medical coverage. There are potentially three factors that could favor the company achieving both.\n\nFirst, Grail believes 12-month follow-up data from the NHS trial will prove out the trial because \"there are people in the control arm who have cancer that isn't being found because it hasn't presented clinically. So after another 12 months go by, more of those cancers will show up,\" according to CFO Aaron Freidin at a recent Goldman Sachs conference.\n\nIf the follow-up data from the control group show late-stage cancers, it will support the case that the Galleri test reduces late-stage cancer detection."
+        "text": "Anthropic's Claude is one of the most popular artificial intelligence (AI) models, translating into skyrocketing growth for the company. Anthropic recently revealed that its annualized revenue has roughly tripled since the end of 2025, exceeding $30 billion in early 2026.\n\nAnthropic recently filed a draft registration statement with the Securities and Exchange Commission as it prepares for an initial public offering (IPO). But investors don't have to wait. Adoption of AI agents, including Claude Cowork, is driving accelerating investment in AI infrastructure.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nHere are four companies directly involved in helping Anthropic scale its computing capacity to handle growing Claude usage.\n\nAnthropic has been a close partner with Amazon (NASDAQ: AMZN) since 2023. It uses over 1 million Amazon Trainium 2 chips to train and run Claude. In the first quarter, Amazon's chip business exceeded $20 billion in annualized revenue, growing at triple-digit rates.\n\nAs of April, Amazon had invested $13 billion in Anthropic, with plans to invest up to $20 billion. Anthropic agreed to spend over $100 billion on Amazon Web Services (AWS) over the next 10 years, including up to 5 gigawatts of compute capacity to train and run Claude.\n\nTo put that in perspective, Anthropic's $100 billion commitment is roughly three-quarters of AWS's trailing-12-month revenue. In the first quarter, AWS revenue surged 28% year over year to $37.6 billion. This makes Amazon one of the best megacap stocks to invest in AI infrastructure growth.\n\nIn October 2025, Anthropic announced it would use up to 1 million of Alphabet's (NASDAQ: GOOG) (NASDAQ: GOOGL) Tensor Processing Units (TPUs). This diversifies Claude's compute strategy and helps maintain a relationship with all the top AI infrastructure leaders."
       },
       "level2_keywords": [
         {
-          "word": "Multi-cancer early detection (MCED)",
-          "ipa": "/ˌmʌltiˈkænsər ˈɜːrli dɪˈtɛkʃən/",
-          "meaning": "多癌種早期篩檢。各位同學，這是一種透過單一檢測就能同時篩檢出多種癌症的創新技術，在醫療科技領域具有顛覆性潛力。",
-          "example": "The company's new **Multi-cancer early detection** test aims to revolutionize how we approach cancer screening."
+          "word": "Anthropic",
+          "ipa": "/ænˈθrɑːpɪk/",
+          "meaning": "一家領先的人工智慧研究公司，開發了大型語言模型 Claude。",
+          "example": "「Anthropic is a key player in the generative AI space, competing with OpenAI.」"
         },
         {
-          "word": "primary endpoint",
-          "ipa": "/ˈpraɪməri ˈɛndˌpɔɪnt/",
-          "meaning": "主要評估指標。在臨床試驗中，這句話的意思是，這是用來判斷藥物或治療是否達到預期效果的關鍵性、最核心的結果指標。",
-          "example": "The drug failed to meet its **primary endpoint** in the Phase 3 clinical trial, which significantly impacted its market prospects."
+          "word": "AI models",
+          "ipa": "/ˌeɪ ˈaɪ ˈmɑːdlz/",
+          "meaning": "指經過大量數據訓練，能執行特定人工智慧任務（如語言理解、圖像生成）的演算法系統。",
+          "example": "「The company's success is largely attributed to the performance of its advanced AI models.」"
         },
         {
-          "word": "Food and Drug Administration (FDA)",
-          "ipa": "/ˌɛfˌdiːˈeɪ/",
-          "meaning": "美國食品藥物管理局。我們要注意這個機構，它是美國負責監管食品、藥品、醫療器材等產品安全與效能的最高權威政府機構，其批准對產品上市至關重要。",
-          "example": "New medical devices require rigorous testing and **FDA** approval before they can be widely adopted."
+          "word": "annualized revenue",
+          "ipa": "/ˈænjuəlaɪzd ˈrɛvənuː/",
+          "meaning": "將某一段時間（例如一季或一個月）的營收，按比例推算成一整年的預估營收。",
+          "example": "「Anthropic's annualized revenue has shown impressive triple-digit growth.」"
         },
         {
-          "word": "medical insurers",
-          "ipa": "/ˈmɛdɪkəl ɪnˈʃʊrərz/",
-          "meaning": "醫療保險公司。這指的是提供健康保險服務的公司，它們負責支付或分擔被保險人的醫療費用，對於新醫療技術的普及化扮演關鍵角色。",
-          "example": "For a new diagnostic test to gain widespread use, it often needs coverage from major **medical insurers**."
+          "word": "IPO",
+          "ipa": "/ˌaɪ piː ˈoʊ/",
+          "meaning": "「首次公開募股」，指公司首次將其股票向公眾出售，在證券交易所上市。",
+          "example": "「Investors are eagerly awaiting Anthropic's initial public offering (IPO) to buy its shares.」"
         },
         {
-          "word": "statistically significant",
-          "ipa": "/stəˈtɪstɪkli sɪɡˈnɪfɪkənt/",
-          "meaning": "具統計學意義的。這句話在財經界的意思是，實驗或研究結果不太可能是偶然發生的，而是真實存在的效果。在科學研究和臨床試驗中，這是判斷結果可靠性的重要標準。",
-          "example": "The clinical trial results showed a **statistically significant** improvement in patient outcomes compared to the control group."
+          "word": "AI infrastructure",
+          "ipa": "/ˌeɪ ˈaɪ ˈɪnfrəˌstrʌktʃər/",
+          "meaning": "支援人工智慧模型開發、訓練與運行的底層硬體（如晶片、伺服器）和軟體（如雲端服務、數據中心）系統。",
+          "example": "「Heavy investment in AI infrastructure is crucial for scaling large language models.」"
         }
       ],
-      "level2_context": "各位同學，這篇新聞聚焦在生物科技公司Grail開發的「多癌種早期篩檢」（MCED）血液檢測技術Galleri。這項技術的目標非常宏大，希望能透過一次血液檢測就偵測出超過50種癌症，這對於提升癌症患者的存活率、降低晚期治療成本具有劃時代的意義。然而，新聞的關鍵點在於，Grail在英國進行的大規模臨床試驗中，未能達到其「主要評估指標」，也就是沒有在統計學上顯著證明能減少晚期癌症的發生率。這對生技公司來說是個重大的挫折，通常會導致股價大跌，因為臨床試驗的成功與否，直接關係到產品能否獲得監管機構（如美國FDA）的批准以及醫療保險公司的給付。儘管如此，Grail的管理層仍在努力，試圖透過後續追蹤數據和持續與FDA溝通，來證明其檢測的價值。這也提醒我們，生技產業的投資風險高，臨床試驗的結果往往是決定公司命運的關鍵，但有時候，即使初步結果不如預期，仍有機會透過其他數據或策略來扭轉局面，這就是市場的複雜性與挑戰性。",
+      "level2_context": "各位同學，這篇新聞主要在告訴我們，雖然目前還不能直接投資像 Anthropic 這樣炙手可熱的 AI 模型開發公司，但我們可以從另一個角度切入：投資那些為 AI 發展提供『基礎建設』的巨頭。這背後反映的是，AI 模型的訓練和運行需要龐大的運算資源，這就催生了對高效能晶片、雲端服務和數據中心的巨大需求。亞馬遜和 Alphabet 等科技巨頭，不僅直接投資 Anthropic，更透過提供其雲端服務（AWS）和專用晶片（Trainium、TPU），成為 AI 產業鏈中不可或缺的一環。這顯示了 AI 基礎建設的重要性，以及這些巨頭在 AI 時代的策略佈局，它們是 AI 浪潮下穩健的投資標的。",
       "level3_translation": [
         {
-          "sentence": "Multi-cancer early detection (MCED) test company Grail (NASDAQ: GRAL) is one of the most fascinating mid-cap healthcare stocks on the market.",
-          "translation": "多癌種早期篩檢（MCED）公司Grail（那斯達克代碼：GRAL）是目前市場上最引人注目的中型醫療保健股之一。"
+          "sentence": "Anthropic's Claude is one of the most popular artificial intelligence (AI) models, translating into skyrocketing growth for the company.",
+          "translation": "各位同學，Anthropic 公司的 Claude 是目前最受歡迎的人工智慧（AI）模型之一，這也讓這家公司的業務呈現爆炸性成長。"
         },
         {
-          "sentence": "Usually, when a company misses a primary endpoint in a landmark trial, it's time to fold the hand and focus on the next one.",
-          "translation": "通常，當一家公司在一個指標性的臨床試驗中未能達到其主要評估指標時，就該認輸並轉向下一個項目了。"
+          "sentence": "Anthropic recently revealed that its annualized revenue has roughly tripled since the end of 2025, exceeding $30 billion in early 2026.",
+          "translation": "Anthropic 最近揭露，自 2025 年底以來，其「年化營收」已大致成長了三倍，在 2026 年初就已超過 300 億美元。"
         },
         {
-          "sentence": "The reality is that many investors did just that, and the stock is down more than 30% in 2026 as I write.",
-          "translation": "事實上，許多投資人確實這麼做了，因此在我撰寫本文時，該公司股價在2026年已下跌超過30%。"
+          "sentence": "Anthropic recently filed a draft registration statement with the Securities and Exchange Commission as it prepares for an initial public offering (IPO).",
+          "translation": "Anthropic 最近向美國證券交易委員會（SEC）提交了一份初步的註冊聲明草案，為其「首次公開募股」（IPO）做準備。"
         },
         {
-          "sentence": "Still, there's a case building for its MCED test to receive approval from the Food and Drug Administration (FDA) and coverage from medical insurers.",
-          "translation": "儘管如此，目前仍有論點支持其MCED檢測有望獲得美國食品藥物管理局（FDA）的批准，並納入醫療保險給付。"
+          "sentence": "But investors don't have to wait.",
+          "translation": "不過，投資人其實不必等待。"
         },
         {
-          "sentence": "Here's what you need to know before investing in the stock.",
-          "translation": "在投資這檔股票之前，以下是您需要了解的資訊。"
-        },
-        {
-          "sentence": "The Galleri MCED test is intended to detect more than 50 cancers at an early stage, and in doing so, improve patient outcomes while significantly reducing treatment costs -- late-stage cancers (III and IV) are far more costly and invasive to treat.",
-          "translation": "Galleri MCED檢測旨在早期階段檢測出超過50種癌症，藉此改善病患預後，同時顯著降低治療成本——因為晚期癌症（第三期和第四期）的治療費用更高且更具侵入性。"
-        },
-        {
-          "sentence": "To demonstrate Galleri's efficacy, Grail conducted two high-profile studies: a 35,900-person study in North America (PATHFINDER 2) and a three-year, 142,000-person trial in England (NHS-Galleri) with England's National Health Service (NHS).",
-          "translation": "為了證明Galleri的功效，Grail進行了兩項備受矚目的研究：一項在北美進行的35,900人研究（PATHFINDER 2），以及一項與英國國民保健署（NHS）合作，在英國進行的為期三年、142,000人參與的試驗（NHS-Galleri）。"
+          "sentence": "Adoption of AI agents, including Claude Cowork, is driving accelerating investment in AI infrastructure.",
+          "translation": "隨著包括 Claude Cowork 在內的「AI 代理」（AI agents）被廣泛採用，這正加速對「AI 基礎建設」的投資。"
         },
         {
           "sentence": "Missed Nvidia in 2009?",
-          "translation": "錯過了2009年的輝達（Nvidia）嗎？"
+          "translation": "錯過了 2009 年的輝達（Nvidia）嗎？"
         },
         {
           "sentence": "This Rare Signal Is Flashing Again.",
@@ -193,284 +220,270 @@
         },
         {
           "sentence": "In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia.",
-          "translation": "在2009年，一個『加倍下注』的訊號曾為一家當時鮮為人知的晶片製造商輝達閃現。"
+          "translation": "在 2009 年，一個「加倍投入」的訊號曾為一家當時還不太知名的晶片製造商——輝達——閃現。"
         },
         {
           "sentence": "For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia.",
-          "translation": "多年來首次，同樣的『完全確信』訊號正為一家規模僅輝達百分之一的公司閃現。"
+          "translation": "多年來首次，同樣的「完全確信」訊號正為一家規模僅輝達百分之一的公司閃現。"
         },
         {
           "sentence": "Continue »",
           "translation": "繼續閱讀 »"
         },
         {
-          "sentence": "Unfortunately, Grail had bad news for investors in February when it released top-line results from the NHS and outlined that it had missed its primary endpoint of demonstrating \"statistically significant Stage III-IV reduction\" in its trial.",
-          "translation": "不幸的是，Grail在二月份發布了來自英國國民保健署（NHS）的初步試驗結果，並指出其試驗未能達到主要評估指標，即未能證明在『統計學上顯著降低第三期至第四期癌症』方面取得成效，這對投資人來說是個壞消息。"
+          "sentence": "Here are four companies directly involved in helping Anthropic scale its computing capacity to handle growing Claude usage.",
+          "translation": "接下來，我們要介紹四家直接參與協助 Anthropic 擴展其「運算能力」，以應對 Claude 日益增長的使用量的公司。"
         },
         {
-          "sentence": "The idea is that, by detecting cancer at early stages (I-II), the tested group should see a reduction in Stage III-IV cancers compared to the control group.",
-          "translation": "其理念是，透過在早期階段（第一期至第二期）檢測出癌症，受試組相較於對照組，應能看到第三期至第四期癌症的發生率有所減少。"
+          "sentence": "Anthropic has been a close partner with Amazon (NASDAQ: AMZN) since 2023.",
+          "translation": "自 2023 年以來，Anthropic 一直是亞馬遜（NASDAQ: AMZN）的緊密合作夥伴。"
         },
         {
-          "sentence": "The stock was, understandably, sold off heavily after the news broke, but has recovered about 18.4% as some investors are pricing in the possibility that Galleri could still receive FDA approval and coverage.",
-          "translation": "消息傳出後，該股理所當然地遭到大量拋售，但隨著部分投資人將Galleri仍可能獲得FDA批准和保險給付的可能性納入考量，股價已回升約18.4%。"
+          "sentence": "It uses over 1 million Amazon Trainium 2 chips to train and run Claude.",
+          "translation": "Anthropic 使用超過 100 萬個亞馬遜的 Trainium 2 晶片來訓練和運行 Claude 模型。"
         },
         {
-          "sentence": "Management sought to strengthen that case with a much-anticipated presentation at the American Society of Clinical Oncology (ASCO) annual meeting, only to receive a mixed reception from the market afterward.",
-          "translation": "管理層試圖透過在美國臨床腫瘤學會（ASCO）年會上發表備受期待的簡報來強化這一論點，但隨後市場反應卻褒貶不一。"
+          "sentence": "In the first quarter, Amazon's chip business exceeded $20 billion in annualized revenue, growing at triple-digit rates.",
+          "translation": "在第一季，亞馬遜的晶片業務「年化營收」已超過 200 億美元，並以三位數的速度成長。"
         },
         {
-          "sentence": "Despite missing a primary endpoint, management continues its iterative process with the FDA to secure approval for Galleri and provide more evidence of its suitability for medical coverage.",
-          "translation": "儘管未能達到主要評估指標，管理層仍持續與FDA進行迭代溝通，以爭取Galleri的批准，並提供更多證據證明其適用於醫療保險給付。"
+          "sentence": "As of April, Amazon had invested $13 billion in Anthropic, with plans to invest up to $20 billion.",
+          "translation": "截至四月，亞馬遜已向 Anthropic 投資了 130 億美元，並計劃將投資額提高到 200 億美元。"
         },
         {
-          "sentence": "There are potentially three factors that could favor the company achieving both.",
-          "translation": "有三個潛在因素可能有利於該公司同時達成這兩項目標。"
+          "sentence": "Anthropic agreed to spend over $100 billion on Amazon Web Services (AWS) over the next 10 years, including up to 5 gigawatts of compute capacity to train and run Claude.",
+          "translation": "Anthropic 同意在未來十年內，將在亞馬遜網路服務（AWS）上花費超過 1000 億美元，其中包括高達 5 兆瓦的「運算容量」來訓練和運行 Claude。"
         },
         {
-          "sentence": "First, Grail believes 12-month follow-up data from the NHS trial will prove out the trial because \"there are people in the control arm who have cancer that isn't being found because it hasn't presented clinically.",
-          "translation": "首先，Grail相信來自NHS試驗的12個月追蹤數據將能證明該試驗的價值，因為『對照組中有些人罹患癌症，但由於尚未出現臨床症狀而未被發現。"
+          "sentence": "To put that in perspective, Anthropic's $100 billion commitment is roughly three-quarters of AWS's trailing-12-month revenue.",
+          "translation": "從宏觀角度來看，Anthropic 這 1000 億美元的承諾，大約是 AWS 過去十二個月「追溯性營收」的四分之三。"
         },
         {
-          "sentence": "So after another 12 months go by, more of those cancers will show up,\" according to CFO Aaron Freidin at a recent Goldman Sachs conference.",
-          "translation": "因此，再過12個月後，更多這些癌症將會顯現出來，』Grail財務長Aaron Freidin在最近的高盛會議上表示。"
+          "sentence": "In the first quarter, AWS revenue surged 28% year over year to $37.6 billion.",
+          "translation": "在第一季，AWS 的營收年增 28%，達到 376 億美元。"
         },
         {
-          "sentence": "If the follow-up data from the control group show late-stage cancers, it will support the case that the Galleri test reduces late-stage cancer detection.",
-          "translation": "如果對照組的追蹤數據顯示出晚期癌症，這將支持Galleri檢測能減少晚期癌症檢出的論點。"
+          "sentence": "This makes Amazon one of the best megacap stocks to invest in AI infrastructure growth.",
+          "translation": "這使得亞馬遜成為投資「AI 基礎建設」成長的最佳「大型股」之一。"
+        },
+        {
+          "sentence": "In October 2025, Anthropic announced it would use up to 1 million of Alphabet's (NASDAQ: GOOG) (NASDAQ: GOOGL) Tensor Processing Units (TPUs).",
+          "translation": "在 2025 年十月，Anthropic 宣布將使用多達 100 萬個 Alphabet（NASDAQ: GOOG）（NASDAQ: GOOGL）的「張量處理單元」（TPUs）。"
+        },
+        {
+          "sentence": "This diversifies Claude's compute strategy and helps maintain a relationship with all the top AI infrastructure leaders.",
+          "translation": "這不僅「分散」了 Claude 的「運算策略」，也有助於維持與所有頂尖「AI 基礎建設」領導者的合作關係。"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Hormuz Crisis Sparks a Middle East Pipeline Boom",
+      "title": "Stock market today: S&P 500, Nasdaq, Dow futures slide with US-Iran peace and inflation in focus",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/energy/articles/hormuz-crisis-sparks-middle-east-210000952.html",
+      "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-22-225817825.html",
       "level1_blind": {
-        "text": "The blockading of the Strait of Hormuz was something that was never going to happen—until it did, paralyzing a fifth of global LNG and crude oil flows and causing quite a bit of economic pain to both producers and consumers of energy commodities. Now, they are taking care to never let a disruption of that scale happen again.\n\nThe most immediate response to Iran’s closure of the strait was switching to alternative pipeline routes for those that had them. Saudi Arabia demonstrated foresight with its East-West pipeline that it used to reroute its export flows from the Persian Gulf to the Red Sea, ramping up to some 7 million barrels of crude daily along the pipe that had previously handled much lower volumes. The only major constraint in that rerouting was the capacity of the loading facilities at Yanbu Port, an issue Aramco will no doubt address soon.\n\nIt is worth noting that the risk of Iran closing off the Strait of Hormuz was precisely what made Saudi Arabia decide to build the East-West pipeline in the first place, back in the 1980s, as Reuters’ energy columnist Ron Bousso noted in an overview of alternative oil and gas routes out of the Middle East in the aftermath of the Hormuz crisis.\n\nMeanwhile, its neighbor and former fellow OPEC member, the UAE, will have to build a new pipeline to insulate itself from potential future Hormuz trouble. The country already has one pipeline that ships oil to the port of Fujairah, which sits right outside the Strait of Hormuz, but it now plans to double its capacity with a new pipe, from 1.8 million barrels daily to 3.6 million barrels daily—and it wants to do it fast. The new pipeline is scheduled to be ready by the end of next year.\n\nIraq is also trying to boost its pipeline capacity. More than 90% of Iraq's oil exports traditionally move through the Persian Gulf, making the country especially vulnerable to Hormuz disruptions. Exports that averaged more than 3.3 million bpd before the conflict collapsed to a fraction of that level, triggering a sharp decline in government revenues and forcing Baghdad to prioritize domestic energy security over export volumes. Production plummeted from over 4 million barrels daily to barely over 1 million bpd.\n\nLike its neighbor, the UAE, Iraq is looking to ramp up its existing pipeline infrastructure, specifically the Kirkuk-Ceyhan pipeline that handles oil flows from Iraq’s northern fields. The pipeline currently has a capacity of around 200,000 barrels daily, but Baghdad is taking steps to increase this to some 770,000 barrels daily, and wants to do it in months. Then, Iraq is also considering a network of other pipelines to Mediterranean ports in Syria and Jordan as a way of bypassing Hormuz and the risk of future disruptions of tanker traffic there.\n\nThere is a separate initiative to build a pipeline network connecting the Middle East’s oil fields to port cities in the Mediterranean, with Turkey and Syria becoming major regional energy export hubs. “The post-Assad stabilization of Syria opens a narrow but historically decisive window to transform the Levant from a theater of energy conflict into a continental energy corridor,” the organization behind the idea, a think tank named the New Lines Institute, said. One could argue that the takeover by former radical militants is perhaps best not described as stabilization, but it appears the people currently in charge of Syria are eager to make money from energy.\n\n“The Four Seas Initiative would deliver four compounding strategic goods: European energy sovereignty from Russian and Iranian dependence; American commercial primacy in the Middle East’s most strategically leveraged infrastructure; Syrian economic reconstruction underwritten by transit revenues; and a durable geopolitical settlement that rewards alignment with the West,” the New Lines Institute also said."
+        "text": "US stock futures fell Sunday evening, while crude oil prices surged, as investors weighed uncertainty over Iran and prepared for a pivotal inflation report later this week.\n\nFutures linked to the S&P 500 (ES=F) slipped 0.4%, while contracts tied to the Nasdaq 100 (NQ=F) lost 0.6%. Dow futures (YM=F) declined 0.3%.\n\nEnergy markets climbed with instability driving oil higher. West Texas Intermediate (CL=F) crude jumped nearly 3% to trade near $78 a barrel, while Brent (BZ=F) crude climbed above $81 as traders assessed the risk of further disruption in the Middle East.\n\nMarket sentiment was rattled after President Donald Trump warned Iran of potential additional military action unless Tehran moved to rein in allied groups operating in Lebanon. The comments came as Vice President JD Vance opened a new round of diplomatic talks with Iranian representatives in Switzerland.\n\nAttention now turns to Thursday's release of the Personal Consumption Expenditures price index, the Fed's preferred inflation gauge. Economists expect core PCE, which excludes food and energy costs, to show a modest acceleration from April levels.\n\nThe report arrives just days after the Fed struck a more hawkish tone, prompting traders to reassess the path of interest rates. Markets have increasingly pushed forward expectations for the next rate hike, making this week's inflation data a critical test for investors looking for clues on whether price pressures remain stubborn enough to warrant additional tightening."
       },
       "level2_keywords": [
         {
-          "word": "Strait of Hormuz",
-          "ipa": "/ˌstreɪt əv ˈhɔːr.mʊz/",
-          "meaning": "荷姆茲海峽，位於波斯灣與阿曼灣之間，是全球最重要的石油運輸咽喉要道，約有五分之一的原油與液化天然氣經此運送。",
-          "example": "The potential closure of the Strait of Hormuz poses a significant threat to global energy supply chains."
+          "word": "crude oil prices",
+          "ipa": "/kruːd ɔɪl ˈpraɪsɪz/",
+          "meaning": "原油價格，指未經提煉的石油在國際市場上的交易價格，受供需、地緣政治、庫存等因素影響。",
+          "example": "Geopolitical tensions in the Middle East frequently cause 「crude oil prices」 to surge due to supply disruption fears."
         },
         {
-          "word": "crude oil",
-          "ipa": "/ˌkruːd ˈɔɪl/",
-          "meaning": "原油，未經提煉的石油，是許多石化產品的基礎原料，也是全球主要的能源商品之一。",
-          "example": "Global demand for crude oil continues to influence geopolitical stability and economic growth."
+          "word": "inflation report",
+          "ipa": "/ɪnˈfleɪʃən rɪˈpɔrt/",
+          "meaning": "通膨報告，指政府或央行定期發布的經濟數據，用來衡量物價上漲的速度，對貨幣政策有重要影響。",
+          "example": "Investors are eagerly awaiting the upcoming 「inflation report」 for clues on the Federal Reserve's next policy moves."
         },
         {
-          "word": "pipeline",
-          "ipa": "/ˈpaɪp.laɪn/",
-          "meaning": "輸油管線，用於長距離輸送石油、天然氣或其他液體的基礎設施，是能源運輸的重要方式。",
-          "example": "Many Middle Eastern countries are investing heavily in new pipeline projects to diversify their export routes."
+          "word": "hawkish tone",
+          "ipa": "/ˈhɔːkɪʃ toʊn/",
+          "meaning": "鷹派立場，在貨幣政策中，指央行傾向於採取緊縮政策（如升息）來對抗通膨，即使這可能犧牲一些經濟成長。",
+          "example": "The Federal Reserve's recent 「hawkish tone」 suggested that interest rates might remain higher for longer than anticipated."
         },
         {
-          "word": "export flows",
-          "ipa": "/ˈek.spɔːrt floʊz/",
-          "meaning": "出口流量，指一個國家或地區向外輸送商品（特別是能源或原材料）的數量或速度，對其經濟收入至關重要。",
-          "example": "Saudi Arabia rerouted its export flows to the Red Sea to bypass potential disruptions in the Persian Gulf."
-        },
-        {
-          "word": "energy security",
-          "ipa": "/ˈen.ɚ.dʒi sɪˈkjʊr.ə.t̬i/",
-          "meaning": "能源安全，指一個國家或地區能夠穩定、可靠地獲取所需能源的能力，是國家戰略的關鍵組成部分。",
-          "example": "Iraq is prioritizing domestic energy security to ensure stable supply amidst regional tensions."
+          "word": "interest rates",
+          "ipa": "/ˈɪntrəst reɪts/",
+          "meaning": "利率，指借貸資金的成本，通常以百分比表示。央行調整利率是影響經濟活動和通膨的重要工具。",
+          "example": "Higher 「interest rates」 can make borrowing more expensive for businesses and consumers, potentially slowing economic growth."
         }
       ],
-      "level2_context": "各位同學，這篇新聞談的是中東地區在荷姆茲海峽危機後，各國如何積極發展替代輸油管線，以確保其能源出口與國家經濟安全。荷姆茲海峽是全球原油與液化天然氣運輸的關鍵咽喉，一旦被封鎖，將對全球能源供應鏈造成巨大衝擊，引發油價飆升，並對生產國與消費國都帶來嚴重的經濟損失。因此，沙烏地阿拉伯、阿拉伯聯合大公國（UAE）和伊拉克等主要產油國，為了降低對該海峽的依賴，紛紛投入巨資擴建或新建輸油管線，將原油從波斯灣直接運往紅海或地中海港口。這不僅是為了應對地緣政治風險，更是為了保障其長期的能源出口穩定性與國家財政收入，這對全球能源市場的穩定性與供應多元化具有深遠的影響。",
+      "level2_context": "各位同學，這篇新聞主要聚焦在兩個影響全球金融市場的關鍵因素：地緣政治風險與通膨壓力。首先，美國與伊朗之間的地緣政治緊張局勢升溫，特別是川普總統對伊朗發出警告，這讓市場擔憂中東地區的石油供應可能受到干擾，因此我們看到原油價格應聲上漲。能源是經濟的血液，原油價格的波動會直接影響企業成本和消費者支出，進而牽動整體經濟表現。\n\n其次，市場正屏息以待本週稍後公布的『個人消費支出物價指數』（PCE），這是聯準會最看重的通膨指標。聯準會近期展現了『鷹派』立場，暗示他們為了抑制通膨，可能會維持高利率或進一步升息。如果PCE數據顯示通膨壓力依然頑固，那麼聯準會很可能會採取更緊縮的貨幣政策，這將提高借貸成本，對股市和經濟成長構成壓力。因此，這篇新聞反映了投資人面對地緣政治不確定性以及聯準會可能持續緊縮貨幣政策的雙重擔憂，導致股市期貨下跌。",
       "level3_translation": [
         {
-          "sentence": "The blockading of the Strait of Hormuz was something that was never going to happen—until it did, paralyzing a fifth of global LNG and crude oil flows and causing quite a bit of economic pain to both producers and consumers of energy commodities.",
-          "translation": "荷姆茲海峽的封鎖，原本被認為是不可能發生的事——直到它真的發生了，癱瘓了全球五分之一的液化天然氣（LNG）與原油運輸量，並對能源商品的生產國與消費國都造成了相當大的經濟衝擊。"
+          "sentence": "US stock futures fell Sunday evening, while crude oil prices surged, as investors weighed uncertainty over Iran and prepared for a pivotal inflation report later this week.",
+          "translation": "各位同學，美國股市期貨在週日晚間下跌，而國際原油價格則大幅上漲，這反映出投資人正在權衡伊朗局勢的不確定性，並為本週稍後即將公布的關鍵通膨報告做準備。"
         },
         {
-          "sentence": "Now, they are taking care to never let a disruption of that scale happen again.",
-          "translation": "現在，這些國家正採取措施，確保如此大規模的運輸中斷不會再次發生。"
+          "sentence": "Futures linked to the S&P 500 (ES=F) slipped 0.4%, while contracts tied to the Nasdaq 100 (NQ=F) lost 0.6%.",
+          "translation": "與標普500指數相關的期貨（ES=F）下跌了0.4%，那斯達克100指數相關的期貨合約（NQ=F）則下跌了0.6%。"
         },
         {
-          "sentence": "The most immediate response to Iran’s closure of the strait was switching to alternative pipeline routes for those that had them.",
-          "translation": "針對伊朗封鎖海峽最直接的應對方式，就是對於那些擁有替代管線的國家來說，轉用這些替代路線。"
+          "sentence": "Dow futures (YM=F) declined 0.3%.",
+          "translation": "道瓊期貨（YM=F）也下跌了0.3%。"
         },
         {
-          "sentence": "Saudi Arabia demonstrated foresight with its East-West pipeline that it used to reroute its export flows from the Persian Gulf to the Red Sea, ramping up to some 7 million barrels of crude daily along the pipe that had previously handled much lower volumes.",
-          "translation": "沙烏地阿拉伯展現了其遠見，利用其東西向輸油管線，將出口原油從波斯灣改道運往紅海，將這條過去輸送量較低的管線，日輸送量提升至約七百萬桶原油。"
+          "sentence": "Energy markets climbed with instability driving oil higher.",
+          "translation": "能源市場呈現上漲走勢，主要是因為地緣政治的不穩定性推升了油價。"
         },
         {
-          "sentence": "The only major constraint in that rerouting was the capacity of the loading facilities at Yanbu Port, an issue Aramco will no doubt address soon.",
-          "translation": "這次改道運輸唯一的主要限制，是延布港（Yanbu Port）裝載設施的產能，這點沙烏地阿拉伯國家石油公司（Aramco）無疑將很快解決。"
+          "sentence": "West Texas Intermediate (CL=F) crude jumped nearly 3% to trade near $78 a barrel, while Brent (BZ=F) crude climbed above $81 as traders assessed the risk of further disruption in the Middle East.",
+          "translation": "西德州中級原油（CL=F）價格跳漲近3%，交易價逼近每桶78美元，而布蘭特原油（BZ=F）則漲破81美元，因為交易員們正在評估中東地區可能進一步出現供應中斷的風險。"
         },
         {
-          "sentence": "It is worth noting that the risk of Iran closing off the Strait of Hormuz was precisely what made Saudi Arabia decide to build the East-West pipeline in the first place, back in the 1980s, as Reuters’ energy columnist Ron Bousso noted in an overview of alternative oil and gas routes out of the Middle East in the aftermath of the Hormuz crisis.",
-          "translation": "值得注意的是，正如路透社能源專欄作家Ron Bousso在荷姆茲危機後對中東替代油氣路線的概述中所指出的，伊朗封鎖荷姆茲海峽的風險，正是沙烏地阿拉伯早在1980年代就決定興建東西向輸油管線的最初原因。"
+          "sentence": "Market sentiment was rattled after President Donald Trump warned Iran of potential additional military action unless Tehran moved to rein in allied groups operating in Lebanon.",
+          "translation": "市場情緒受到衝擊，此前美國前總統川普警告伊朗，除非德黑蘭方面能約束其在黎巴嫩活動的盟友團體，否則美國可能採取額外的軍事行動。"
         },
         {
-          "sentence": "Meanwhile, its neighbor and former fellow OPEC member, the UAE, will have to build a new pipeline to insulate itself from potential future Hormuz trouble.",
-          "translation": "同時，其鄰國且曾是石油輸出國家組織（OPEC）成員的阿拉伯聯合大公國（UAE），也將不得不興建一條新的輸油管線，以避免未來可能發生的荷姆茲海峽危機影響。"
+          "sentence": "The comments came as Vice President JD Vance opened a new round of diplomatic talks with Iranian representatives in Switzerland.",
+          "translation": "這些言論發布之際，副總統JD范斯正在瑞士與伊朗代表展開新一輪的外交談判。"
         },
         {
-          "sentence": "The country already has one pipeline that ships oil to the port of Fujairah, which sits right outside the Strait of Hormuz, but it now plans to double its capacity with a new pipe, from 1.8 million barrels daily to 3.6 million barrels daily—and it wants to do it fast.",
-          "translation": "該國目前已有一條將石油運往富查伊拉港（Fujairah Port）的管線，該港口位於荷姆茲海峽之外，但現在它計劃透過一條新管線將其輸送量倍增，從每日180萬桶提高到每日360萬桶——而且它希望快速完成。"
+          "sentence": "Attention now turns to Thursday's release of the Personal Consumption Expenditures price index, the Fed's preferred inflation gauge.",
+          "translation": "現在，市場的焦點轉向週四即將公布的『個人消費支出物價指數』（PCE），這是聯準會最偏好的通膨衡量指標。"
         },
         {
-          "sentence": "The new pipeline is scheduled to be ready by the end of next year.",
-          "translation": "這條新管線預計將在明年底前完工。"
+          "sentence": "Economists expect core PCE, which excludes food and energy costs, to show a modest acceleration from April levels.",
+          "translation": "經濟學家預期，排除食品和能源成本的『核心PCE』，將會顯示出較四月份水平溫和加速的趨勢。"
         },
         {
-          "sentence": "Iraq is also trying to boost its pipeline capacity.",
-          "translation": "伊拉克也正努力提升其輸油管線的輸送量。"
+          "sentence": "The report arrives just days after the Fed struck a more hawkish tone, prompting traders to reassess the path of interest rates.",
+          "translation": "這份報告公布的幾天前，聯準會才剛展現出更為『鷹派』的立場，促使交易員們重新評估未來的利率走向。"
         },
         {
-          "sentence": "More than 90% of Iraq's oil exports traditionally move through the Persian Gulf, making the country especially vulnerable to Hormuz disruptions.",
-          "translation": "伊拉克超過九成的石油出口傳統上經由波斯灣運送，這使得該國特別容易受到荷姆茲海峽中斷的影響。"
-        },
-        {
-          "sentence": "Exports that averaged more than 3.3 million bpd before the conflict collapsed to a fraction of that level, triggering a sharp decline in government revenues and forcing Baghdad to prioritize domestic energy security over export volumes.",
-          "translation": "衝突前平均每日超過330萬桶的出口量，暴跌至原先的一小部分，導致政府收入急劇下降，並迫使巴格達優先考慮國內能源安全而非出口量。"
-        },
-        {
-          "sentence": "Production plummeted from over 4 million barrels daily to barely over 1 million bpd.",
-          "translation": "原油產量從每日超過400萬桶驟降至僅僅超過100萬桶。"
-        },
-        {
-          "sentence": "Like its neighbor, the UAE, Iraq is looking to ramp up its existing pipeline infrastructure, specifically the Kirkuk-Ceyhan pipeline that handles oil flows from Iraq’s northern fields.",
-          "translation": "與其鄰國阿拉伯聯合大公國一樣，伊拉克也正尋求提升其現有的輸油管線基礎設施，特別是處理伊拉克北部油田石油輸送的基爾庫克-傑伊漢管線（Kirkuk-Ceyhan pipeline）。"
-        },
-        {
-          "sentence": "The pipeline currently has a capacity of around 200,000 barrels daily, but Baghdad is taking steps to increase this to some 770,000 barrels daily, and wants to do it in months.",
-          "translation": "這條管線目前的輸送量約為每日20萬桶，但巴格達正採取措施，希望在數月內將其提升至每日約77萬桶。"
-        },
-        {
-          "sentence": "Then, Iraq is also considering a network of other pipelines to Mediterranean ports in Syria and Jordan as a way of bypassing Hormuz and the risk of future disruptions of tanker traffic there.",
-          "translation": "此外，伊拉克也正考慮興建一個連接敘利亞和約旦地中海港口的管線網絡，作為繞過荷姆茲海峽並規避未來油輪運輸中斷風險的方式。"
-        },
-        {
-          "sentence": "There is a separate initiative to build a pipeline network connecting the Middle East’s oil fields to port cities in the Mediterranean, with Turkey and Syria becoming major regional energy export hubs.",
-          "translation": "還有一個獨立的倡議，旨在建立一個連接中東油田與地中海港口城市的管線網絡，讓土耳其和敘利亞成為主要的區域能源出口樞紐。"
-        },
-        {
-          "sentence": "“The post-Assad stabilization of Syria opens a narrow but historically decisive window to transform the Levant from a theater of energy conflict into a continental energy corridor,” the organization behind the idea, a think tank named the New Lines Institute, said.",
-          "translation": "提出此構想的智庫「新線研究所」（New Lines Institute）表示：「後阿薩德時代敘利亞的穩定化，開啟了一個雖狹窄卻具歷史決定性的窗口，能將黎凡特地區從能源衝突的戰場轉變為橫跨大陸的能源走廊。」"
-        },
-        {
-          "sentence": "One could argue that the takeover by former radical militants is perhaps best not described as stabilization, but it appears the people currently in charge of Syria are eager to make money from energy.",
-          "translation": "或許有人會爭辯說，由前激進武裝分子接管的局面最好不要被描述為穩定化，但目前掌管敘利亞的人似乎渴望從能源中獲利。"
-        },
-        {
-          "sentence": "“The Four Seas Initiative would deliver four compounding strategic goods: European energy sovereignty from Russian and Iranian dependence; American commercial primacy in the Middle East’s most strategically leveraged infrastructure; Syrian economic reconstruction underwritten by transit revenues; and a durable geopolitical settlement that rewards alignment with the West,” the New Lines Institute also said.",
-          "translation": "「新線研究所」也指出：「『四海倡議』將帶來四項複合式的戰略利益：歐洲擺脫俄羅斯和伊朗依賴的能源主權；美國在中東最具戰略影響力的基礎設施中取得商業主導地位；敘利亞由過境收入支持的經濟重建；以及一個獎勵與西方結盟的持久地緣政治和解。」"
+          "sentence": "Markets have increasingly pushed forward expectations for the next rate hike, making this week's inflation data a critical test for investors looking for clues on whether price pressures remain stubborn enough to warrant additional tightening.",
+          "translation": "市場已經越來越傾向於提前預期下一次升息的時機，這使得本週的通膨數據成為投資人尋找線索的關鍵考驗，以判斷物價壓力是否依然頑固到足以讓聯準會採取進一步的緊縮政策。"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "She tried to cancel her gym membership but no one was there — now a billing company won't stop charging her",
+      "title": "Hormuz Crisis Sparks a Middle East Pipeline Boom",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/she-tried-cancel-her-gym-180000461.html",
+      "link": "https://finance.yahoo.com/energy/articles/hormuz-crisis-sparks-middle-east-210000952.html",
       "level1_blind": {
-        "text": "Around 77 million Americans hold gym memberships, according to the 2025 US Health & Fitness Consumer Report (1). With gyms charging average monthly dues of $65 (2), Americans are spending a lot of money to stay in shape.\n\nBut what happens if your gym membership is no longer worth it, you want to cancel, and your gym doesn’t cooperate? Let’s pretend, for example, that Xavier has a gym membership he signed up for two years ago. The membership is month-to-month, so he has the right to cancel, and he wants to do so.\n\nRobert Kiyosaki says this 1 asset will surge 400% in a year and begs investors not to miss this ‘explosion’\n\nMillionaires under 43 hold only 25% of their wealth in stocks. Surprised? Here’s where their money is actually going\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — here are 5 ways to build wealth like a landlord without actually being one\n\nThe problem is that the gym contract requires him to talk to a staff member to cancel — and the gym doesn’t actually have any staff. Xavier has visited the gym at different hours, called, emailed, and sent letters, but no staff member is ever present, no one answers the phone, and no one responds.\n\nNow, Xavier is in a situation where he is being billed each month, and he doesn’t know what he can do about the situation. So, what can Xavier do?\n\nThe first key thing to do if you have a gym membership you don’t want is to ensure you’re following the cancellation procedure exactly."
+        "text": "The blockading of the Strait of Hormuz was something that was never going to happen—until it did, paralyzing a fifth of global LNG and crude oil flows and causing quite a bit of economic pain to both producers and consumers of energy commodities. Now, they are taking care to never let a disruption of that scale happen again.\n\nThe most immediate response to Iran’s closure of the strait was switching to alternative pipeline routes for those that had them. Saudi Arabia demonstrated foresight with its East-West pipeline that it used to reroute its export flows from the Persian Gulf to the Red Sea, ramping up to some 7 million barrels of crude daily along the pipe that had previously handled much lower volumes. The only major constraint in that rerouting was the capacity of the loading facilities at Yanbu Port, an issue Aramco will no doubt address soon.\n\nIt is worth noting that the risk of Iran closing off the Strait of Hormuz was precisely what made Saudi Arabia decide to build the East-West pipeline in the first place, back in the 1980s, as Reuters’ energy columnist Ron Bousso noted in an overview of alternative oil and gas routes out of the Middle East in the aftermath of the Hormuz crisis.\n\nMeanwhile, its neighbor and former fellow OPEC member, the UAE, will have to build a new pipeline to insulate itself from potential future Hormuz trouble. The country already has one pipeline that ships oil to the port of Fujairah, which sits right outside the Strait of Hormuz, but it now plans to double its capacity with a new pipe, from 1.8 million barrels daily to 3.6 million barrels daily—and it wants to do it fast. The new pipeline is scheduled to be ready by the end of next year.\n\nIraq is also trying to boost its pipeline capacity. More than 90% of Iraq's oil exports traditionally move through the Persian Gulf, making the country especially vulnerable to Hormuz disruptions. Exports that averaged more than 3.3 million bpd before the conflict collapsed to a fraction of that level, triggering a sharp decline in government revenues and forcing Baghdad to prioritize domestic energy security over export volumes. Production plummeted from over 4 million barrels daily to barely over 1 million bpd.\n\nLike its neighbor, the UAE, Iraq is looking to ramp up its existing pipeline infrastructure, specifically the Kirkuk-Ceyhan pipeline that handles oil flows from Iraq’s northern fields. The pipeline currently has a capacity of around 200,000 barrels daily, but Baghdad is taking steps to increase this to some 770,000 barrels daily, and wants to do it in months. Then, Iraq is also considering a network of other pipelines to Mediterranean ports in Syria and Jordan as a way of bypassing Hormuz and the risk of future disruptions of tanker traffic there.\n\nThere is a separate initiative to build a pipeline network connecting the Middle East’s oil fields to port cities in the Mediterranean, with Turkey and Syria becoming major regional energy export hubs. “The post-Assad stabilization of Syria opens a narrow but historically decisive window to transform the Levant from a theater of energy conflict into a continental energy corridor,” the organization behind the idea, a think tank named the New Lines Institute, said. One could argue that the takeover by former radical militants is perhaps best not described as stabilization, but it appears the people currently in charge of Syria are eager to make money from energy.\n\n“The Four Seas Initiative would deliver four compounding strategic goods: European energy sovereignty from Russian and Iranian dependence; American commercial primacy in the Middle East’s most strategically leveraged infrastructure; Syrian economic reconstruction underwritten by transit revenues; and a durable geopolitical settlement that rewards alignment with the West,” the New Lines Institute also said."
       },
       "level2_keywords": [
         {
-          "word": "membership",
-          "ipa": "/ˈmɛmbərˌʃɪp/",
-          "meaning": "會員資格；會籍。指個人或組織加入某團體、俱樂部或服務所獲得的身份與權利。在商業上，常與訂閱制服務相關。",
-          "example": "Many streaming services operate on a subscription `membership` model."
+          "word": "Strait of Hormuz",
+          "ipa": "/streɪt əv ˈhɔːrmuːz/",
+          "meaning": "荷姆茲海峽，位於波斯灣與阿曼灣之間，是全球石油和天然氣運輸的關鍵咽喉點。",
+          "example": "「The Strait of Hormuz is a critical choke point for global oil and gas shipments.」"
         },
         {
-          "word": "billing company",
-          "ipa": "/ˈbɪlɪŋ ˈkʌmpəni/",
-          "meaning": "帳務公司；收費公司。專門負責處理客戶帳單、收款和費用管理的第三方服務公司。",
-          "example": "If you have issues with recurring charges, you might need to contact the `billing company` directly."
+          "word": "LNG",
+          "ipa": "/ˌel en ˈdʒiː/",
+          "meaning": "液化天然氣（Liquefied Natural Gas），將天然氣冷卻至液態以便於運輸和儲存的能源商品。",
+          "example": "「A fifth of global LNG flows were paralyzed by the disruption in the Strait of Hormuz.」"
         },
         {
-          "word": "contract",
-          "ipa": "/ˈkɒntrækt/",
-          "meaning": "合約；契約。指雙方或多方之間具有法律約束力的協議，規定了權利與義務。",
-          "example": "Always read the fine print of any service `contract` before signing."
+          "word": "pipeline",
+          "ipa": "/ˈpaɪplaɪn/",
+          "meaning": "輸油/氣管線，用於長距離輸送石油、天然氣或其他流體的基礎設施。",
+          "example": "「Saudi Arabia utilized its East-West pipeline to reroute crude oil exports.」"
         },
         {
-          "word": "dues",
-          "ipa": "/duːz/",
-          "meaning": "會費；月費；應繳費用。指定期向會員收取的費用，以維持服務或組織運作。",
-          "example": "The monthly `dues` for the premium gym membership are quite high."
+          "word": "export flows",
+          "ipa": "/ˈɛkspɔːrt floʊz/",
+          "meaning": "出口流量，指一個國家或地區向外輸出商品（如石油、天然氣）的數量或速度。",
+          "example": "「The new pipeline aims to secure the UAE's export flows even if the Strait of Hormuz is disrupted.」"
         },
         {
-          "word": "cancellation procedure",
-          "ipa": "/ˌkænsəˈleɪʃən prəˈsiːdʒər/",
-          "meaning": "取消程序；終止流程。指終止服務、合約或會員資格所必須遵循的具體步驟或規定。",
-          "example": "Make sure you understand the `cancellation procedure` to avoid unexpected charges."
+          "word": "energy sovereignty",
+          "ipa": "/ˈɛnərdʒi ˈsɒvrənti/",
+          "meaning": "能源主權，指一個國家自主決定其能源政策、供應來源和消費模式的能力，以確保能源安全和獨立性。",
+          "example": "「The Four Seas Initiative aims to enhance European energy sovereignty by reducing dependence on certain suppliers.」"
         }
       ],
-      "level2_context": "各位同學，這篇新聞雖然看似是個人消費糾紛，但它其實反映了當今訂閱經濟（Subscription Economy）下一個重要的消費者保護議題。許多服務，從健身房到串流平台，都採用了會員制和自動續費模式。對消費者來說，這提供了便利性；但對企業而言，這也確保了穩定的現金流。\n\n然而，問題往往出現在「取消」環節。有些企業會刻意讓取消程序變得複雜、不透明，甚至難以接觸到負責人員，目的就是為了降低客戶流失率（Churn Rate），並持續收取費用。這不僅損害了消費者的權益，也可能導致消費者對該品牌或產業產生不信任感。\n\n這則新聞中的Xavier遇到的困境，正是許多消費者在嘗試終止服務時的縮影。它提醒我們，在簽訂任何長期合約或訂閱服務時，務必仔細閱讀合約條款，特別是關於「取消程序」的部分。同時，這也凸顯了消費者保護機構在確保市場公平性上的重要角色。從宏觀角度來看，如果這種「難以取消」的現象普遍存在，可能會影響消費者對訂閱服務的信心，進而對相關產業的長期發展造成負面影響。",
+      "level2_context": "各位同學，這篇新聞主要探討的是，當全球重要的能源運輸要道「荷姆茲海峽」面臨潛在的封鎖危機時，中東產油國如何積極尋求替代方案，以確保其原油和天然氣的出口。過去，荷姆茲海峽的封鎖曾癱瘓全球五分之一的液化天然氣和原油運輸，對能源生產國和消費國都造成巨大經濟衝擊。因此，沙烏地阿拉伯、阿拉伯聯合大公國和伊拉克等國，正加速擴建或規劃新的輸油管線，繞過這個戰略要地。這不僅是為了規避地緣政治風險，更是為了保障這些國家的能源出口收入和國家經濟安全。新聞中也提到一些更宏大的區域性倡議，希望將中東轉變為一個連結地中海的能源走廊，這背後也牽涉到歐洲的能源獨立性、美國在中東的商業利益以及敘利亞的經濟重建等複雜的政治經濟考量。",
       "level3_translation": [
         {
-          "sentence": "Around 77 million Americans hold gym memberships, according to the 2025 US Health & Fitness Consumer Report (1).",
-          "translation": "根據《2025年美國健康與健身消費者報告》，大約有7,700萬美國人擁有健身房會員資格。"
+          "sentence": "The blockading of the Strait of Hormuz was something that was never going to happen—until it did, paralyzing a fifth of global LNG and crude oil flows and causing quite a bit of economic pain to both producers and consumers of energy commodities.",
+          "translation": "荷姆茲海峽的封鎖，原本被認為是不可能發生的事——直到它真的發生了，癱瘓了全球五分之一的液化天然氣（LNG）和原油運輸量，並對能源商品的生產商和消費者都造成了相當大的經濟衝擊。"
         },
         {
-          "sentence": "With gyms charging average monthly dues of $65 (2), Americans are spending a lot of money to stay in shape.",
-          "translation": "由於健身房平均每月收取65美元的會費，美國人為了保持身材花費了大量金錢。"
+          "sentence": "Now, they are taking care to never let a disruption of that scale happen again.",
+          "translation": "現在，各方正謹慎行事，確保這種規模的供應中斷不會再次發生。"
         },
         {
-          "sentence": "But what happens if your gym membership is no longer worth it, you want to cancel, and your gym doesn’t cooperate?",
-          "translation": "但是，如果你的健身房會員資格不再划算，你想要取消，而健身房卻不配合，那該怎麼辦呢？"
+          "sentence": "The most immediate response to Iran’s closure of the strait was switching to alternative pipeline routes for those that had them.",
+          "translation": "針對伊朗封鎖海峽最直接的應對方式，就是對於那些擁有替代管線的國家來說，改用其他輸油管線路線。"
         },
         {
-          "sentence": "Let’s pretend, for example, that Xavier has a gym membership he signed up for two years ago.",
-          "translation": "舉例來說，我們假設Xavier兩年前辦了一個健身房會員。"
+          "sentence": "Saudi Arabia demonstrated foresight with its East-West pipeline that it used to reroute its export flows from the Persian Gulf to the Red Sea, ramping up to some 7 million barrels of crude daily along the pipe that had previously handled much lower volumes.",
+          "translation": "沙烏地阿拉伯展現了其遠見，利用其東西向輸油管線，將出口原油從波斯灣轉運至紅海，這條管線過去處理的運量遠低於此，現在已將每日原油運輸量提升至約700萬桶。"
         },
         {
-          "sentence": "The membership is month-to-month, so he has the right to cancel, and he wants to do so.",
-          "translation": "這個會員資格是按月計費的，所以他有權利取消，而且他也想這麼做。"
+          "sentence": "The only major constraint in that rerouting was the capacity of the loading facilities at Yanbu Port, an issue Aramco will no doubt address soon.",
+          "translation": "這次轉運唯一的主要限制是延布港（Yanbu Port）裝載設施的處理能力，這無疑是沙烏地阿拉伯國家石油公司（Aramco）將很快解決的問題。"
         },
         {
-          "sentence": "Robert Kiyosaki says this 1 asset will surge 400% in a year and begs investors not to miss this ‘explosion’",
-          "translation": "羅伯特·清崎表示，這項資產將在一年內飆升400%，並懇求投資者不要錯過這場「爆發」。"
+          "sentence": "It is worth noting that the risk of Iran closing off the Strait of Hormuz was precisely what made Saudi Arabia decide to build the East-West pipeline in the first place, back in the 1980s, as Reuters’ energy columnist Ron Bousso noted in an overview of alternative oil and gas routes out of the Middle East in the aftermath of the Hormuz crisis.",
+          "translation": "值得注意的是，正如路透社能源專欄作家羅恩·布索（Ron Bousso）在荷姆茲危機後對中東替代油氣路線的概述中指出，伊朗封鎖荷姆茲海峽的風險，正是沙烏地阿拉伯早在1980年代就決定興建東西向輸油管線的最初原因。"
         },
         {
-          "sentence": "Millionaires under 43 hold only 25% of their wealth in stocks.",
-          "translation": "43歲以下的百萬富翁，他們的財富只有25%是股票。"
+          "sentence": "Meanwhile, its neighbor and former fellow OPEC member, the UAE, will have to build a new pipeline to insulate itself from potential future Hormuz trouble.",
+          "translation": "同時，沙烏地阿拉伯的鄰國，也是石油輸出國組織（OPEC）的前成員國阿拉伯聯合大公國（UAE），將不得不興建一條新的輸油管線，以隔絕未來可能發生的荷姆茲海峽問題。"
         },
         {
-          "sentence": "Surprised?",
-          "translation": "感到驚訝嗎？"
+          "sentence": "The country already has one pipeline that ships oil to the port of Fujairah, which sits right outside the Strait of Hormuz, but it now plans to double its capacity with a new pipe, from 1.8 million barrels daily to 3.6 million barrels daily—and it wants to do it fast.",
+          "translation": "該國已經有一條將石油運往富查伊拉港（Fujairah Port）的管線，該港口位於荷姆茲海峽之外，但現在阿聯計畫透過一條新管線將其運量從每日180萬桶倍增至每日360萬桶——而且他們希望盡快完成。"
         },
         {
-          "sentence": "Here’s where their money is actually going",
-          "translation": "這裡揭示了他們的錢實際流向何處。"
+          "sentence": "The new pipeline is scheduled to be ready by the end of next year.",
+          "translation": "這條新管線預計將於明年底前完工啟用。"
         },
         {
-          "sentence": "Jeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — here are 5 ways to build wealth like a landlord without actually being one",
-          "translation": "傑夫·貝佐斯支持一個平台，讓任何人都能以低至100美元的金額投資出租房屋——這裡有五種方法，讓你像房東一樣累積財富，卻不必真的成為房東。"
+          "sentence": "Iraq is also trying to boost its pipeline capacity.",
+          "translation": "伊拉克也正努力提升其輸油管線的運載能力。"
         },
         {
-          "sentence": "The problem is that the gym contract requires him to talk to a staff member to cancel — and the gym doesn’t actually have any staff.",
-          "translation": "問題在於，健身房的合約要求他必須與一名工作人員溝通才能取消——但這家健身房實際上根本沒有任何工作人員。"
+          "sentence": "More than 90% of Iraq's oil exports traditionally move through the Persian Gulf, making the country especially vulnerable to Hormuz disruptions.",
+          "translation": "伊拉克超過90%的石油出口傳統上經由波斯灣運送，這使得該國特別容易受到荷姆茲海峽中斷的影響。"
         },
         {
-          "sentence": "Xavier has visited the gym at different hours, called, emailed, and sent letters, but no staff member is ever present, no one answers the phone, and no one responds.",
-          "translation": "Xavier在不同時段去過健身房，打過電話、發過電子郵件，也寄過信件，但從來沒有工作人員在場，沒有人接電話，也沒有人回應。"
+          "sentence": "Exports that averaged more than 3.3 million bpd before the conflict collapsed to a fraction of that level, triggering a sharp decline in government revenues and forcing Baghdad to prioritize domestic energy security over export volumes.",
+          "translation": "在衝突發生前，每日平均超過330萬桶的出口量驟降至原先的一小部分，導致政府收入急劇下滑，迫使巴格達將國內能源安全置於出口量之上。"
         },
         {
-          "sentence": "Now, Xavier is in a situation where he is being billed each month, and he doesn’t know what he can do about the situation.",
-          "translation": "現在，Xavier面臨著每月都被收費的困境，他不知道該如何處理這種情況。"
+          "sentence": "Production plummeted from over 4 million barrels daily to barely over 1 million bpd.",
+          "translation": "石油產量從每日超過400萬桶暴跌至每日僅略高於100萬桶。"
         },
         {
-          "sentence": "So, what can Xavier do?",
-          "translation": "那麼，Xavier能怎麼辦呢？"
+          "sentence": "Like its neighbor, the UAE, Iraq is looking to ramp up its existing pipeline infrastructure, specifically the Kirkuk-Ceyhan pipeline that handles oil flows from Iraq’s northern fields.",
+          "translation": "與其鄰國阿聯一樣，伊拉克也正尋求提升其現有的輸油管線基礎設施，特別是負責處理伊拉克北部油田原油運輸的基爾庫克-傑伊漢（Kirkuk-Ceyhan）輸油管線。"
         },
         {
-          "sentence": "The first key thing to do if you have a gym membership you don’t want is to ensure you’re following the cancellation procedure exactly.",
-          "translation": "如果你擁有一個不想要的健身房會員資格，首先要做的關鍵事情，就是確保你完全遵循了取消程序。"
+          "sentence": "The pipeline currently has a capacity of around 200,000 barrels daily, but Baghdad is taking steps to increase this to some 770,000 barrels daily, and wants to do it in months.",
+          "translation": "這條管線目前的運載能力約為每日20萬桶，但巴格達正採取措施將其提升至每日約77萬桶，並希望在數月內完成。"
+        },
+        {
+          "sentence": "Then, Iraq is also considering a network of other pipelines to Mediterranean ports in Syria and Jordan as a way of bypassing Hormuz and the risk of future disruptions of tanker traffic there.",
+          "translation": "此外，伊拉克也正在考慮興建一個連接敘利亞和約旦地中海港口的其他輸油管線網絡，作為繞過荷姆茲海峽並規避未來油輪運輸中斷風險的方式。"
+        },
+        {
+          "sentence": "There is a separate initiative to build a pipeline network connecting the Middle East’s oil fields to port cities in the Mediterranean, with Turkey and Syria becoming major regional energy export hubs.",
+          "translation": "還有一個獨立的倡議，旨在興建一個連結中東油田與地中海港口城市的輸油管線網絡，讓土耳其和敘利亞成為主要的區域能源出口樞紐。"
+        },
+        {
+          "sentence": "“The post-Assad stabilization of Syria opens a narrow but historically decisive window to transform the Levant from a theater of energy conflict into a continental energy corridor,” the organization behind the idea, a think tank named the New Lines Institute, said.",
+          "translation": "提出這個想法的智庫「新線研究所」（New Lines Institute）表示：「後阿薩德時代敘利亞的穩定，開啟了一個雖狹窄卻具歷史決定性的窗口，能將黎凡特地區從能源衝突的戰場轉變為橫跨大陸的能源走廊。」"
+        },
+        {
+          "sentence": "One could argue that the takeover by former radical militants is perhaps best not described as stabilization, but it appears the people currently in charge of Syria are eager to make money from energy.",
+          "translation": "有人可能會爭辯說，由前激進武裝分子接管或許不應被描述為穩定，但目前掌管敘利亞的人似乎渴望從能源中獲利。"
+        },
+        {
+          "sentence": "“The Four Seas Initiative would deliver four compounding strategic goods: European energy sovereignty from Russian and Iranian dependence; American commercial primacy in the Middle East’s most strategically leveraged infrastructure; Syrian economic reconstruction underwritten by transit revenues; and a durable geopolitical settlement that rewards alignment with the West,” the New Lines Institute also said.",
+          "translation": "新線研究所也指出：「『四海倡議』將帶來四項複合式的戰略利益：歐洲擺脫俄羅斯和伊朗依賴的能源主權；美國在中東最具戰略槓桿作用的基礎設施中取得商業主導地位；由過境收入支持的敘利亞經濟重建；以及一個獎勵與西方結盟的持久地緣政治解決方案。」"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "violence_connection": "今日台股盤面最引人注目的「暴力聯結」，莫過於外資大戶對傳統產業龍頭中鋼（2002）與台塑（1301）的巨額掃貨，特別是美商高盛對中鋼的驚人買超。這看似與科技主軸無關的動作，在晚間國際財經新聞揭露「荷姆茲海峽危機引爆中東輸油管建設熱潮」後，其背後的深層邏輯便浮出水面。外資顯然在台灣時間白天交易時段，已提前掌握中東地區因地緣政治風險升高，導致沙烏地阿拉伯、阿聯酋與伊拉克等國急於擴建或新建輸油管線，以確保能源出口安全。這些大規模基礎建設對鋼材與石化相關材料的需求將呈爆炸性增長。外資此舉，無疑是精準預判了全球能源供應鏈的結構性轉變，並透過台灣的龍頭供應商進行預先部署與套利。相較之下，投信法人對中鋼與台塑的賣超，則可能反映其對短期獲利了結或資產配置的考量，與外資著眼於更宏觀、長期的產業趨勢形成鮮明對比，揭示了市場大戶間對同一事件的不同解讀與操作策略。"
+    "violence_connection": "今日台股大戶籌碼動向與國際財經新聞的暴力聯結，揭示了外資對全球兩大宏觀趨勢的「超前部署」：能源地緣政治下的商品週期重啟，以及AI基礎建設的全面擴張。\n\n首先，外資在6/18對中鋼（2002）與台塑（1301）的巨額買超，尤其美商高盛對中鋼的驚人佈局，絕非偶然。這與6/21國際新聞揭露的「荷姆茲海峽危機引發中東輸油管建設熱潮」及「原油價格飆升」形成完美的時間差印證。中東地區為規避地緣政治風險，正加速興建大規模替代輸油管線，這將引爆對鋼鐵、石化等基礎材料的龐大需求。外資顯然已提前嗅到這股由地緣政治驅動的商品超級週期，透過暴力買入台灣相關龍頭股，預先卡位這波能源基礎建設紅利。\n\n其次，儘管國際新聞聚焦於Anthropic等AI巨頭對AWS與Google TPU的千億級投資，台股方面，外資與自營商在6/18同步買超聯電（2303）、旺宏（2337）及力積電（6770）等成熟製程與記憶體廠，同時自營商也積極佈局面板雙雄友達（2409）、群創（3481）及科技ETF。這暗示大戶們不僅看好AI尖端晶片，更預見AI生態系擴張將帶動整體半導體供應鏈（包括電源管理IC、周邊控制晶片等成熟製程）及相關電子產品的需求復甦。外資雖賣超緯創、鴻海等組裝廠，可能反映其對供應鏈環節的戰略性調整，將資金轉向更具上游議價能力或特定利基的半導體與材料端。\n\n總結而言，6/18的台股大戶籌碼，是外資在國際新聞見報前，對地緣政治與科技趨勢進行深度解讀後，所採取的精準套利與預先部署行為，展現了其資訊領先與宏觀視野的暴力聯結能力。"
   }
 }

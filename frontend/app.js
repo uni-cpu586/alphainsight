@@ -6,10 +6,28 @@ document.addEventListener("DOMContentLoaded", () => {
     let currentNewsIndex = 0;
     let speechUtterance = null;
     let saveTimeout = null;
+    let hideStatusTimeout = null;
+    let isSpeaking = false;
+    let currentSpeechIndex = 0;
+    let currentSentences = [];
+    let cachedVoices = [];
 
     // DOM Elements
     const dateEl = document.getElementById("insight-date");
-    
+
+    // Pre-cache voices
+    function loadVoices() {
+        if (typeof window !== "undefined" && window.speechSynthesis) {
+            cachedVoices = window.speechSynthesis.getVoices();
+        }
+    }
+    loadVoices();
+    if (typeof window !== "undefined" && window.speechSynthesis) {
+        window.speechSynthesis.onvoiceschanged = () => {
+            loadVoices();
+        };
+    }
+
     // Stock Uncle Elements
     const uncleReportHeaderEl = document.getElementById("uncle-report-header");
     const buyerGroupsContainerEl = document.getElementById("buyer-groups-container");
@@ -65,8 +83,26 @@ document.addEventListener("DOMContentLoaded", () => {
             if (uncleReportHeaderEl) {
                 uncleReportHeaderEl.textContent = "無法載入最新資料，請確保已經跑過 Python 腳本產生 JSON 檔案。";
             }
-            linkerInsightEl.textContent = "讀取失敗，資料庫未就緒。";
-            blindPassageEl.textContent = "資料載入失敗。";
+            if (linkerInsightEl) {
+                linkerInsightEl.textContent = "讀取失敗，資料庫未就緒。";
+            }
+            if (blindPassageEl) {
+                blindPassageEl.textContent = "資料載入失敗。";
+            }
+            
+            // Clear loading spinners and show errors
+            if (buyerGroupsContainerEl) {
+                buyerGroupsContainerEl.innerHTML = "<div class='loading-spinner'>資料載入失敗</div>";
+            }
+            if (strategiesContainerEl) {
+                strategiesContainerEl.innerHTML = "<div class='loading-spinner'>資料載入失敗</div>";
+            }
+            if (brokeragesListEl) {
+                brokeragesListEl.innerHTML = "<div class='loading-spinner'>資料載入失敗</div>";
+            }
+            if (newsSelectorEl) {
+                newsSelectorEl.innerHTML = "<div class='loading-spinner'>資料載入失敗</div>";
+            }
         });
 
     // Main Render Function
@@ -302,54 +338,78 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     // Text-to-Speech Speech Synthesis Logic
+    function speakSentence() {
+        if (!isSpeaking) return;
+        
+        if (currentSpeechIndex >= currentSentences.length) {
+            stopSpeech();
+            return;
+        }
+
+        const textToSpeak = currentSentences[currentSpeechIndex];
+        speechUtterance = new SpeechSynthesisUtterance(textToSpeak);
+        speechUtterance.lang = "en-US";
+        speechUtterance.rate = 0.9; // Slightly slower for better learning
+
+        // Find the Microsoft Edge Natural "Andrew" voice
+        const andrewVoice = cachedVoices.find(v => 
+            v.name.includes("en-US-AndrewNeural")
+        ) || cachedVoices.find(v => 
+            v.name.toLowerCase().includes("andrew") && 
+            (v.name.toLowerCase().includes("natural") || v.name.toLowerCase().includes("online"))
+        ) || cachedVoices.find(v => 
+            v.name.toLowerCase().includes("andrew")
+        ) || cachedVoices.find(v => 
+            v.name.toLowerCase().includes("natural") && v.lang.startsWith("en")
+        ) || cachedVoices.find(v => 
+            v.lang.startsWith("en")
+        );
+
+        if (andrewVoice) {
+            speechUtterance.voice = andrewVoice;
+        }
+
+        speechUtterance.onend = () => {
+            if (isSpeaking) {
+                currentSpeechIndex++;
+                speakSentence();
+            }
+        };
+
+        speechUtterance.onerror = (e) => {
+            console.error("SpeechSynthesis error:", e);
+            if (isSpeaking) {
+                currentSpeechIndex++;
+                setTimeout(speakSentence, 100);
+            } else {
+                stopSpeech();
+            }
+        };
+
+        window.speechSynthesis.speak(speechUtterance);
+    }
+
     ttsPlayBtn.addEventListener("click", () => {
         if (!insightData) return;
         const news = insightData.english_professor_news[currentNewsIndex];
         if (!news) return;
 
         // Stop any current speech first
-        window.speechSynthesis.cancel();
+        stopSpeech();
 
-        speechUtterance = new SpeechSynthesisUtterance(news.level1_blind.text);
-        speechUtterance.lang = "en-US";
-        speechUtterance.rate = 0.9; // Slightly slower for better learning
+        isSpeaking = true;
+        currentSpeechIndex = 0;
+        currentSentences = news.level1_blind.text
+            .split(/(?<=\.|\?|\!)\s+/)
+            .map(s => s.trim())
+            .filter(s => s.length > 0);
 
-        // Find the Microsoft Edge Natural "Andrew" voice
-        const voices = window.speechSynthesis.getVoices();
-        const andrewVoice = voices.find(v => 
-            v.name.includes("en-US-AndrewNeural")
-        ) || voices.find(v => 
-            v.name.toLowerCase().includes("andrew") && 
-            (v.name.toLowerCase().includes("natural") || v.name.toLowerCase().includes("online"))
-        ) || voices.find(v => 
-            v.name.toLowerCase().includes("andrew")
-        ) || voices.find(v => 
-            v.name.toLowerCase().includes("natural") && v.lang.startsWith("en")
-        ) || voices.find(v => 
-            v.lang.startsWith("en")
-        );
+        if (currentSentences.length === 0) return;
 
-        if (andrewVoice) {
-            speechUtterance.voice = andrewVoice;
-            console.log("Using voice:", andrewVoice.name);
-        } else {
-            console.warn("Andrew voice not found, using default system voice.");
-        }
+        ttsPlayBtn.style.display = "none";
+        ttsStopBtn.style.display = "inline-flex";
 
-        speechUtterance.onstart = () => {
-            ttsPlayBtn.style.display = "none";
-            ttsStopBtn.style.display = "inline-flex";
-        };
-
-        speechUtterance.onend = () => {
-            resetSpeechUI();
-        };
-
-        speechUtterance.onerror = () => {
-            resetSpeechUI();
-        };
-
-        window.speechSynthesis.speak(speechUtterance);
+        speakSentence();
     });
 
     ttsStopBtn.addEventListener("click", () => {
@@ -357,7 +417,8 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     function stopSpeech() {
-        if (window.speechSynthesis.speaking) {
+        isSpeaking = false;
+        if (typeof window !== "undefined" && window.speechSynthesis) {
             window.speechSynthesis.cancel();
         }
         resetSpeechUI();
@@ -378,6 +439,7 @@ document.addEventListener("DOMContentLoaded", () => {
     sandboxTextarea.addEventListener("input", () => {
         // Debounce saving to localStorage to prevent massive writes
         clearTimeout(saveTimeout);
+        clearTimeout(hideStatusTimeout);
         
         saveStatusEl.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> 正在儲存...';
         saveStatusEl.classList.add("show");
@@ -387,7 +449,7 @@ document.addEventListener("DOMContentLoaded", () => {
             saveStatusEl.innerHTML = '<i class="fa-solid fa-cloud-arrow-up"></i> 已即時儲存至本機';
             
             // Hide indicator after a brief moment
-            setTimeout(() => {
+            hideStatusTimeout = setTimeout(() => {
                 saveStatusEl.classList.remove("show");
             }, 1500);
         }, 800);
@@ -403,6 +465,9 @@ document.addEventListener("DOMContentLoaded", () => {
         
         // Function to apply a view
         const applyView = (view) => {
+            // Stop speech when view changes
+            stopSpeech();
+
             // Remove all view classes from appMainEl
             appMainEl.classList.remove("view-morning", "view-english", "view-night", "view-sandbox");
             
