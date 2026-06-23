@@ -1,378 +1,378 @@
 {
-  "date": "2026-06-22",
-  "stock_market_date": "2026-06-18",
+  "date": "2026-06-23",
+  "stock_market_date": "2026-06-22",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_buy_shares": 319913795
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_buy_shares": 55470670
         },
         {
           "rank": 2,
-          "stock_name": "台塑",
-          "ticker": "1301",
-          "net_buy_shares": 142290326
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 44581757
         },
         {
           "rank": 3,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 65777401
+          "stock_name": "華新",
+          "ticker": "1605",
+          "net_buy_shares": 34774250
         },
         {
           "rank": 4,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 52384372
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 27409723
         },
         {
           "rank": 5,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_buy_shares": 31388823
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_buy_shares": 20077034
         },
         {
           "rank": 6,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_buy_shares": 26659152
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_buy_shares": 17463686
         },
         {
           "rank": 7,
-          "stock_name": "康霈*",
-          "ticker": "6919",
-          "net_buy_shares": 25485783
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_buy_shares": 16495001
         },
         {
           "rank": 8,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_buy_shares": 23485793
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_buy_shares": 15662506
         },
         {
           "rank": 9,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 19462274
+          "stock_name": "定穎投控",
+          "ticker": "3715",
+          "net_buy_shares": 15309945
         },
         {
           "rank": 10,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 19244555
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 15256888
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "彩晶",
-          "ticker": "6116",
-          "net_sell_shares": -79725519
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -117423914
         },
         {
           "rank": 2,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_sell_shares": -33020694
-        },
-        {
-          "rank": 3,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -29761210
-        },
-        {
-          "rank": 4,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_sell_shares": -25474195
-        },
-        {
-          "rank": 5,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_sell_shares": -25043493
-        },
-        {
-          "rank": 6,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_sell_shares": -24676956
-        },
-        {
-          "rank": 7,
-          "stock_name": "聯合再生",
-          "ticker": "3576",
-          "net_sell_shares": -21442432
-        },
-        {
-          "rank": 8,
           "stock_name": "華邦電",
           "ticker": "2344",
-          "net_sell_shares": -19836811
-        },
-        {
-          "rank": 9,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_sell_shares": -18103445
-        },
-        {
-          "rank": 10,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_sell_shares": -15142454
-        }
-      ],
-      "trust_buy": [
-        {
-          "rank": 1,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 35366883
-        },
-        {
-          "rank": 2,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_buy_shares": 23500922
+          "net_sell_shares": -103086815
         },
         {
           "rank": 3,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_buy_shares": 22670088
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_sell_shares": -37388242
         },
         {
           "rank": 4,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 20339405
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_sell_shares": -27348402
         },
         {
           "rank": 5,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_buy_shares": 19702830
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_sell_shares": -24813052
         },
         {
           "rank": 6,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 17759000
+          "stock_name": "台泥",
+          "ticker": "1101",
+          "net_sell_shares": -20897345
         },
         {
           "rank": 7,
           "stock_name": "華南金",
           "ticker": "2880",
-          "net_buy_shares": 13666880
+          "net_sell_shares": -18882094
         },
         {
           "rank": 8,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 13354963
+          "stock_name": "上海商銀",
+          "ticker": "5876",
+          "net_sell_shares": -16607180
         },
         {
           "rank": 9,
-          "stock_name": "統一",
-          "ticker": "1216",
-          "net_buy_shares": 8258975
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_sell_shares": -16561241
         },
         {
           "rank": 10,
+          "stock_name": "遠東銀",
+          "ticker": "2845",
+          "net_sell_shares": -15070172
+        }
+      ],
+      "trust_buy": [
+        {
+          "rank": 1,
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 47711359
+        },
+        {
+          "rank": 2,
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 37260286
+        },
+        {
+          "rank": 3,
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_buy_shares": 24929199
+        },
+        {
+          "rank": 4,
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 23851011
+        },
+        {
+          "rank": 5,
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 18097629
+        },
+        {
+          "rank": 6,
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 16158031
+        },
+        {
+          "rank": 7,
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 15589130
+        },
+        {
+          "rank": 8,
           "stock_name": "遠東新",
           "ticker": "1402",
-          "net_buy_shares": 7973000
+          "net_buy_shares": 12928622
+        },
+        {
+          "rank": 9,
+          "stock_name": "遠東銀",
+          "ticker": "2845",
+          "net_buy_shares": 12085064
+        },
+        {
+          "rank": 10,
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 12074448
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_sell_shares": -286095940
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -12473047
         },
         {
           "rank": 2,
-          "stock_name": "台塑",
-          "ticker": "1301",
-          "net_sell_shares": -107362798
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_sell_shares": -6790000
         },
         {
           "rank": 3,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -49325866
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_sell_shares": -5598696
         },
         {
           "rank": 4,
-          "stock_name": "康霈*",
-          "ticker": "6919",
-          "net_sell_shares": -24869246
+          "stock_name": "東和鋼鐵",
+          "ticker": "2006",
+          "net_sell_shares": -5574950
         },
         {
           "rank": 5,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_sell_shares": -11319036
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_sell_shares": -5562676
         },
         {
           "rank": 6,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_sell_shares": -9755828
+          "stock_name": "晶技",
+          "ticker": "3042",
+          "net_sell_shares": -5514000
         },
         {
           "rank": 7,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_sell_shares": -8525378
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_sell_shares": -5209267
         },
         {
           "rank": 8,
-          "stock_name": "富邦金",
-          "ticker": "2881",
-          "net_sell_shares": -8139610
+          "stock_name": "東陽",
+          "ticker": "1319",
+          "net_sell_shares": -4680765
         },
         {
           "rank": 9,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -7268349
+          "stock_name": "群益證",
+          "ticker": "6005",
+          "net_sell_shares": -4293217
         },
         {
           "rank": 10,
-          "stock_name": "和泰車",
-          "ticker": "2207",
-          "net_sell_shares": -7092628
+          "stock_name": "光寶科",
+          "ticker": "2301",
+          "net_sell_shares": -4098000
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 6248000
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_buy_shares": 3362996
         },
         {
           "rank": 2,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 3019003
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 3281000
         },
         {
           "rank": 3,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_buy_shares": 2318478
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 2073564
         },
         {
           "rank": 4,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 1548000
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_buy_shares": 1148712
         },
         {
           "rank": 5,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 1304862
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_buy_shares": 1112230
         },
         {
           "rank": 6,
-          "stock_name": "寶成",
-          "ticker": "9904",
-          "net_buy_shares": 1299509
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 1088000
         },
         {
           "rank": 7,
-          "stock_name": "京元電子",
-          "ticker": "2449",
-          "net_buy_shares": 1216951
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_buy_shares": 998000
         },
         {
           "rank": 8,
-          "stock_name": "三商壽",
-          "ticker": "2867",
-          "net_buy_shares": 928000
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_buy_shares": 864806
         },
         {
           "rank": 9,
-          "stock_name": "力成",
-          "ticker": "6239",
-          "net_buy_shares": 736072
+          "stock_name": "三商壽",
+          "ticker": "2867",
+          "net_buy_shares": 828000
         },
         {
           "rank": 10,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_buy_shares": 672447
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_buy_shares": 755900
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_sell_shares": -737043
+          "stock_name": "台灣高鐵",
+          "ticker": "2633",
+          "net_sell_shares": -2700000
         },
         {
           "rank": 2,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_sell_shares": -499287
+          "stock_name": "東陽",
+          "ticker": "1319",
+          "net_sell_shares": -1756584
         },
         {
           "rank": 3,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_sell_shares": -455243
+          "stock_name": "彩晶",
+          "ticker": "6116",
+          "net_sell_shares": -1375997
         },
         {
           "rank": 4,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_sell_shares": -399120
+          "stock_name": "台達電",
+          "ticker": "2308",
+          "net_sell_shares": -1085480
         },
         {
           "rank": 5,
-          "stock_name": "華紙",
-          "ticker": "1905",
-          "net_sell_shares": -340506
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -668916
         },
         {
           "rank": 6,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -251247
+          "stock_name": "大聯大",
+          "ticker": "3702",
+          "net_sell_shares": -503000
         },
         {
           "rank": 7,
-          "stock_name": "大聯大",
-          "ticker": "3702",
-          "net_sell_shares": -241000
+          "stock_name": "統一實",
+          "ticker": "9907",
+          "net_sell_shares": -379307
         },
         {
           "rank": 8,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_sell_shares": -197633
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_sell_shares": -317623
         },
         {
           "rank": 9,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -184988
+          "stock_name": "華固",
+          "ticker": "2548",
+          "net_sell_shares": -281000
         },
         {
           "rank": 10,
-          "stock_name": "盟立",
-          "ticker": "2464",
-          "net_sell_shares": -174932
+          "stock_name": "聯鈞",
+          "ticker": "3450",
+          "net_sell_shares": -252080
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "中鋼",
-        "shares": 111969828
+        "target": "台玻",
+        "shares": 19414734
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "聯電",
-        "shares": 2499200
+        "target": "台玻",
+        "shares": 1345198
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "兆豐金",
-        "shares": 15915097
+        "target": "華邦電",
+        "shares": 21470111
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "彩晶",
-        "shares": 23917655
+        "target": "群創",
+        "shares": 35227174
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Meta’s CEO Just Promised Superintelligence. He Thinks Everyone Will Have It",
+      "title": "Fast-food seafood chain closed over 900 stores, mounts comeback",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/meta-ceo-just-promised-superintelligence-133049868.html",
-      "summary": "Meta’s CEO Just Promised Superintelligence. He Thinks Everyone Will Have It",
-      "full_text": "Meta (META) posted $56 billion in Q1 revenue, up 33%, as Zuckerberg pledged to deliver personal superintelligence to billions of users.\n\nMeta raised 2026 capex to $145 billion while Muse Spark, its first superintelligence model, drove double-digit growth in AI sessions per user.\n\nAnalysts set an $827 consensus target with 57 buys and zero sells, even as shares fell 16% from the earnings filing price on execution concerns.\n\nAct now: the analyst who called NVIDIA in 2010 just named his top 10 AI stocks — and Meta didn't make the cut. Grab the names FREE today.\n\nMark Zuckerberg opened Meta Platforms (NASDAQ:META)'s Q1 2026 earnings call with a sentence that would sound deranged coming from almost any other CEO: \"We're on track to deliver personal superintelligence to billions of people.\" It was the thesis.\n\nThe claim landed alongside numbers that, for once, support the swagger. Meta posted Q1 revenue of $56.31 billion, up 33% year over year, EPS of $10.44 against a $6.6587 consensus, and net income of $26.77 billion. Roughly $3.13 of that EPS came from an $8.03 billion tax benefit tied to Treasury guidance on capitalized R&D, but the operating engine is real: ad impressions rose 19% and average price per ad rose 12%.\n\nZuckerberg's definition is consumer-facing. \"Our goal is not just to deliver Meta AI as an assistant, but to deliver agents that can understand your goals and then work day and night to help you achieve them,\" he said. He drew a sharp line against rivals: \"I hear a lot of people out there talk about how AI is going to replace people. Instead, I think that AI is going to amplify people's ability to do what they want.\"\n\nAct now: the analyst who called NVIDIA in 2010 just named his top 10 AI stocks — and Meta didn't make the cut. Grab the names FREE today.",
-      "published": "2026-06-20T13:30:49Z"
+      "link": "https://finance.yahoo.com/small-business/articles/closing-1-000-restaurants-seafood-011700497.html",
+      "summary": "Fast-food seafood chain closed over 900 stores, mounts comeback",
+      "full_text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nSometimes, a business has to get smaller in order to grow, or at least that's what executives, including Wendy's CFO Ken Cook, say when they explain why they're closing locations.\n\n\"We're focused on improving restaurant-level economics, taking a hard look at underperforming restaurants in our system from both the financial and customer experience perspective and working with franchisees to improve those, transfer those to another operator or potentially closing them,\" he said during the chain's third-quarter earnings call.\n\nClosing up to 350 restaurants, he said, will improve the financials of those that remain and leave franchise operators with cash to invest in their remaining locations.\n\nLong John Silver's, an iconic fast-food chain like Wendy's, has also been closing locations — dropping from over 1,000 units in 2015 to fewer than 500 currently, based on the Consumer Edge 2026 Restaurant Outlook report.\n\nAt its peak, the chain operated more than 1,400 restaurants, according to Food Republic.\n\nThe company's Senior Vice President Tony Ellis, much like Cook, believes that the closures, at least the ones over the past three years, have actually put the seafood chain in a strong position to return to growth.\n\nTony Ellis told SeafoodSource that Long John Silver's has closed \"roughly 110 to 120 locations over the past three years.\" He said the company now operates 214 company-owned restaurants and about 262 franchised units, which matches the total on the company's restaurant locator page.",
+      "published": "2026-06-22T01:17:00Z"
     },
     {
       "id": "news_2",
-      "title": "Why Does Donald Trump Like Marvell Technology (MRVL)?",
+      "title": "Dave Ramsey says most millionaires just copied the guy in the next cubicle — not debating the perfect portfolio",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/why-does-donald-trump-marvell-133141323.html",
-      "summary": "Why Does Donald Trump Like Marvell Technology (MRVL)?",
-      "full_text": "Marvell Technology (NASDAQ:MRVL) is another favorite stock of Donald Trump that has shown spectacular performance since his purchase in February 2026. It makes custom AI chips, networking solutions, and semiconductor products designed for hyperscalers and data centers. Its customers include the world’s largest cloud and technology companies including Google, Amazon, and other major hyperscalers that are increasingly turning to custom ASICs as a more cost-effective way to scale computing power for AI clusters.\n\nTrump isn’t the only fan of Marvell Technology (NASDAQ:MRVL). Recently, Nvidia CEO Jensen Huang publicly endorsed Marvell as a potential trillion-dollar company, causing the stock to surge 45% in a single week. Nvidia also made a $2 billion strategic investment in Marvell, and the two companies are collaborating on NVLink Fusion, which makes Marvell’s custom XPUs compatible with Nvidia’s broader AI infrastructure stack including Vera CPUs, ConnectX NICs, BlueField DPUs, and Spectrum-X switches.\n\nBut beyond the Huang factor, there are strong fundamental growth catalysts for Marvell Technology (NASDAQ:MRVL). The company recently unveiled the first switch operating at a record speed of 102.4 Tbps designed for AI clusters, delivering energy savings of up to 25% compared to competitors. It also acquired Polariton Technologies to strengthen its photonics-based optical solutions, and has secured over 10 XPU attach program wins with custom revenue expected to grow 20% year-over-year in FY2027, doubling again in FY2028, and nearly tripling by FY2029 towards more than $10 billion.\n\nSound Shore Fund stated the following regarding Marvell Technology, Inc. (NASDAQ:MRVL) in its Q1 2026 investor letter:\n\n“A bright spot in the tech space was our holding in Marvell Technology, Inc. (NASDAQ:MRVL). The company designs custom chips that are both flexible and efficient, a competitive advantage we believe will help Marvell take market share and grow rapidly over the next few years. While many debated whether management could effectively scale up the business and compete, we were able to .... (Click Here to Read the Letter in Detail).”\n\nWhile we acknowledge the potential of MRVL as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and Cathie Wood 2026 Portfolio: 10 Best Stocks to Buy.",
-      "published": "2026-06-20T13:31:41Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-says-most-millionaires-123000219.html",
+      "summary": "Dave Ramsey says most millionaires just copied the guy in the next cubicle — not debating the perfect portfolio",
+      "full_text": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\n\nDave Ramsey has a message for Americans who spend hours debating mutual funds versus index funds online: stop talking and start investing.\n\nThe personal finance personality shared his thoughts on what he sees as one of the biggest mistakes would-be investors make during a recent episode of The Ramsey Show. (1) A caller questioned his long-standing recommendation to split retirement savings across four types of mutual funds rather than simply buying an S&P 500 index fund.\n\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake — here’s how to fix it ASAP\n\nJP Morgan sees gold hitting $6,000/oz before 2027 — and a Gold IRA lets you hold the physical metal while deferring the tax bill. Get your free guide from Priority Gold\n\nThe ultra-rich use these 5 real estate strategies to build wealth while they sleep — you can start with just $100\n\nThe caller, Dylan, claimed that Ramsey has referenced the strong long-term returns of the S&P 500, so why not recommend investors simply buy the index and call it a day?\n\nRamsey acknowledged that fewer than half of individual mutual funds in the growth mutual fund sector outperform the market, but argued that people should “shut up and invest” since people who invest end up with more money than those who don’t.",
+      "published": "2026-06-21T12:30:00Z"
     },
     {
       "id": "news_3",
-      "title": "Amkor Soared on a Taiwan Semi Deal. How to Play AMKR Stock Here.",
+      "title": "How Fed Chairman Kevin Warsh just screwed AI tech beasts",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amkor-soared-taiwan-semi-deal-133002805.html",
-      "summary": "Amkor Soared on a Taiwan Semi Deal. How to Play AMKR Stock Here.",
-      "full_text": "Amkor Technology (AMKR) has surged into the spotlight after announcing a landmark 10-year partnership with Taiwan Semiconductor Manufacturing Company Limited (TSM), a deal that positions the company at the center of America’s push to build a complete domestic semiconductor supply chain.\n\nUnder the agreement, TSMC will source advanced packaging and testing services from Amkor’s expanding Arizona operations, creating a critical link between leading-edge chip fabrication and final packaging for artificial intelligence (AI), data center, and high-performance computing applications. Investors quickly embraced the news, sending AMKR shares sharply higher as the partnership strengthens Amkor’s long-term revenue visibility and strategic importance in the fast-growing advanced packaging market.\n\nMark Cuban Says the Stock Market Makes Guys Like Elon Musk ‘Insanely Rich’ — But Eliminating Billionaires Would Trigger the ‘Worst Depression’ Ever Seen\n\nThe rally is about more than a single contract. Advanced packaging has become one of the most important bottlenecks in semiconductor manufacturing, especially for AI accelerators and next-generation computing chips. With major customers increasingly seeking U.S.-based production capabilities, Amkor is emerging as a key beneficiary of industry trends, supported by its Arizona expansion and growing relationships with leading chipmakers.\n\nDoes the recent breakout mark the beginning of a sustained growth story or has AMKR stock already priced in much of the good news?\n\nAmkor Technology is one of the world’s largest providers of outsourced semiconductor assembly and test (OSAT) services, offering advanced packaging, wafer-level processing, and testing solutions for leading chipmakers serving the communications, computing, automotive, industrial, and consumer electronics markets. Headquartered in Tempe, Arizona, Amkor operates a global manufacturing footprint across Asia, Europe, and the U.S. and plays a critical role in the semiconductor supply chain by helping customers bring advanced chips to market. Amkor has a market cap of $21.43 billion.\n\nAmkor Technology has been one of the semiconductor sector’s standout performers in 2026, with the stock surging to a new 52-week high of $96.68 on June 16 after the company announced a landmark 10-year advanced packaging partnership with TSMC. Investor enthusiasm surrounding the deal, which strengthens Amkor’s position in the rapidly growing AI and advanced packaging markets, fueled a powerful rally in the shares.\n\nThe momentum accelerated over the past week, with AMKR gaining 24.2% in just the past five trading sessions. Moreover, the stock jumped 9.4% on June 11 and added another 8.7% on June 12 as investors reacted to growing optimism about the company’s long-term growth prospects and expanding role in the U.S. semiconductor supply chain. The rally continued into the following week, culminating in a fresh 52-week high on June 16.",
-      "published": "2026-06-20T13:30:02Z"
+      "link": "https://finance.yahoo.com/markets/article/how-fed-chairman-kevin-warsh-just-screwed-ai-tech-beasts-103000167.html",
+      "summary": "How Fed Chairman Kevin Warsh just screwed AI tech beasts",
+      "full_text": "And most importantly, he didn't do anything with interest rates for some time. If anything, he leaned on the side of cutting rates, even as the Iran war drove up inflation.\n\nBut new Fed Chairman Kevin Warsh reminded the world this week that he will be a different beast for markets. Warsh will say less, review all old Fed practices, and, in the near term, defend independence. And that could mean an interest rate hike to beat back inflation once and for all.\n\nBig Tech is becoming hooked on debt to fuel its grandiose visions of widespread AI adoption. In years past, aggressive investments were largely driven by internally generated cash. These companies have used the easy-money ways of the Powell-led Fed to spend willy-nilly. A higher cost of capital under Warsh could upset the apple cart.\n\nAI-related companies have issued about $140 billion in investment-grade bonds year to date, accounting for 49% of the total investment-grade issuance, according to new analysis from the Kobeissi Letter.\n\nIn high-yield corporate bonds, AI-related companies have accounted for 38% of total issuance, or roughly $21 billion year to date.\n\nThe most headline-making debt raise of the year has been out of Alphabet (GOOG, GOOGL).\n\nAlphabet became the first tech company in decades to issue a 100-year bond. In total, it raised $31.51 billion in February across its global bond offering, tapping sterling and Swiss franc markets alongside US dollar issuance.\n\n\"The AI investment boom is reshaping how capital is allocated across the entire financial system,\" Kobeissi researchers said.",
+      "published": "2026-06-21T12:30:00Z"
     }
   ]
 }
