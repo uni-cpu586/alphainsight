@@ -48,8 +48,8 @@ def call_gemini(system_prompt, user_prompt, api_key):
     
     max_retries = 5
     backoff_factor = 2
-    max_sleep_time = 10.0  # Limit max sleep time per retry to 10 seconds
-    request_timeout = 15   # Limit single request timeout to 15 seconds
+    max_sleep_time = 30.0  # Limit max sleep time per retry to 30 seconds
+    request_timeout = 60   # Limit single request timeout to 60 seconds
     
     for attempt in range(max_retries):
         text_response = ""
@@ -71,25 +71,29 @@ def call_gemini(system_prompt, user_prompt, api_key):
                 cleaned = cleaned.strip()
                 
                 return json.loads(cleaned)
-            elif response.status_code == 429:
+            elif response.status_code in [429, 500, 502, 503, 504]:
                 retry_delay = 5.0
-                try:
-                    err_data = response.json()
-                    details = err_data.get("error", {}).get("details", [])
-                    for detail in details:
-                        if detail.get("@type") == "type.googleapis.com/google.rpc.RetryInfo":
-                            delay_str = detail.get("retryDelay", "5s")
-                            if delay_str.endswith("s"):
-                                retry_delay = float(delay_str[:-1])
-                            else:
-                                retry_delay = float(delay_str)
-                            break
-                except Exception:
-                    pass
+                if response.status_code == 429:
+                    try:
+                        err_data = response.json()
+                        details = err_data.get("error", {}).get("details", [])
+                        for detail in details:
+                            if detail.get("@type") == "type.googleapis.com/google.rpc.RetryInfo":
+                                delay_str = detail.get("retryDelay", "5s")
+                                if delay_str.endswith("s"):
+                                    retry_delay = float(delay_str[:-1])
+                                else:
+                                    retry_delay = float(delay_str)
+                                break
+                    except Exception:
+                        pass
                 
                 sleep_time = min(retry_delay * (backoff_factor ** attempt), max_sleep_time)
-                print(f"Gemini API rate limit hit (429). Retrying in {sleep_time:.2f} seconds (Attempt {attempt+1}/{max_retries})...")
-                time.sleep(sleep_time)
+                if attempt < max_retries - 1:
+                    print(f"Gemini API returned status code {response.status_code}. Retrying in {sleep_time:.2f} seconds (Attempt {attempt+1}/{max_retries})...")
+                    time.sleep(sleep_time)
+                else:
+                    print(f"Gemini API returned status code {response.status_code} on final attempt.")
             else:
                 print(f"Gemini API returned status code: {response.status_code}, error: {response.text}")
                 return None
