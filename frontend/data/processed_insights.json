@@ -4,199 +4,360 @@
     "date_header": "6/23 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：傳產龍頭與半導體卡位",
+        "group_title": "1. 外資大戶：狂掃金融航空，轉進部分成熟半導體",
         "stocks": [
           {
-            "stock_name": "台玻",
-            "ticker": "1802",
-            "description": "肖年仔，這台玻被外資狂掃 5.55 萬張，擺明是看好傳產的低基期補漲行情，還是有什麼新題材在發酵？這外資大戶的動作，值得觀察！"
-          },
-          {
-            "stock_name": "中鋼",
-            "ticker": "2002",
-            "description": "鋼鐵股龍頭中鋼，外資敲進 4.46 萬張，這波傳產回溫，外資嗅到味道了，準備拉高出貨給散戶接刀嗎？"
-          },
-          {
-            "stock_name": "華新",
-            "ticker": "1605",
-            "description": "電線電纜、不鏽鋼大廠華新，外資買超 3.48 萬張，這也是傳產的避風港概念，還是有什麼銅價題材在發酵？"
-          },
-          {
-            "stock_name": "力積電",
-            "ticker": "6770",
-            "description": "記憶體與晶圓代工廠力積電，外資買超 2.74 萬張，這是在低檔撿便宜，還是看好半導體庫存調整後的反彈？"
+            "stock_name": "華航",
+            "ticker": "2610",
+            "description": "肖年仔，外資大戶狂掃華航超過 3.38 萬張，這擺明是看好解封題材跟航空業復甦，資金從高風險股撤出，轉進這種有實體營收的避風港啦！"
           },
           {
             "stock_name": "京元電子",
             "ticker": "2449",
-            "description": "封測大廠京元電子，外資買超 2.01 萬張，半導體下游的訂單能見度，外資是不是在偷吃貨？"
+            "description": "外資也沒放過京元電，買超 3.16 萬張，這是在卡位半導體測試封裝，可能是看好後續訂單回溫，或是Intel CEO說的AI基礎建設機會。"
           },
           {
-            "stock_name": "日月光投控",
-            "ticker": "3711",
-            "description": "封測龍頭日月光投控，外資買超 1.57 萬張，但投信卻在賣超 0.68 萬張，這外資跟投信在對作，有貓膩！"
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "聯電也被外資買超 2.76 萬張，這老牌晶圓代工廠，在市場震盪時反而成為資金避風港，Intel CEO都說CPU需求高，這就是價值重估的訊號。"
           },
           {
             "stock_name": "凱基金",
             "ticker": "2883",
-            "description": "金融股凱基金，外資買超 1.53 萬張，這波金融股被外資當作避險標的，還是有配息題材在吸引他們？"
+            "description": "金融股也是外資的心頭好，凱基金被買超 2.34 萬張，這種穩定的金控股，在高檔震盪時就是外資的防禦性配置。"
+          },
+          {
+            "stock_name": "台新新光金",
+            "ticker": "2887",
+            "description": "台新新光金也一樣，外資買超 2.06 萬張，金融股就是穩，配息又好，外資在避險時最愛這種。"
           }
         ]
       },
       {
-        "group_title": "2. 投信大戶（本土國家隊）：金融防禦與記憶體作帳",
+        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，卡位傳產與金融",
         "stocks": [
+          {
+            "stock_name": "南亞",
+            "ticker": "1303",
+            "description": "投信這國家隊，大買南亞超過 4.07 萬張，這很明顯是季底作帳，把資金往傳產龍頭股塞，穩住基金淨值，順便卡位高殖利率啦！"
+          },
           {
             "stock_name": "華邦電",
             "ticker": "2344",
-            "description": "華邦電這檔，投信狂買 4.77 萬張，但外資卻大賣 10.31 萬張，這擺明是投信在作帳，跟外資對作，看誰的拳頭硬！"
+            "description": "華邦電被投信買超 3.97 萬張，雖然外資在倒貨，但投信卻逆勢承接，這可能是看好記憶體產業的谷底翻揚，或是基金配置需求。"
           },
           {
             "stock_name": "兆豐金",
             "ticker": "2886",
-            "description": "兆豐金被投信買超 3.73 萬張，外資卻賣超 3.74 萬張，這也是標準的法人對作，投信把金融股當防禦型標的在佈局。"
+            "description": "兆豐金被投信買超 2.78 萬張，這跟外資買金融的邏輯差不多，穩定的金控股是投信作帳跟避險的好標的。"
           },
           {
             "stock_name": "遠傳",
             "ticker": "4904",
-            "description": "電信股遠傳，投信買超 2.49 萬張，外資賣超 2.73 萬張，電信股也是防禦型，投信在找穩定的標的，不跟大盤黑白猜。"
+            "description": "遠傳也入列，投信買超 2.50 萬張，電信股防禦性高，現金流穩定，是投信在市場不確定時的標準配備。"
           },
           {
-            "stock_name": "永豐金",
-            "ticker": "2890",
-            "description": "永豐金被投信買超 2.39 萬張，金融股持續被投信鎖碼，這波金融股的配息行情，投信不會放過，準備吃豆腐。"
-          },
-          {
-            "stock_name": "第一金",
-            "ticker": "2892",
-            "description": "第一金被投信買超 1.81 萬張，跟永豐金一樣，投信在金融股佈局，準備吃配息，肖年仔，這就是國家隊的穩健操作。"
-          },
-          {
-            "stock_name": "群創",
-            "ticker": "3481",
-            "description": "群創這面板股，投信買超 1.56 萬張，但外資卻大賣 11.74 萬張，面板股投信在低檔接刀，外資在倒貨，這風險很高啊！"
+            "stock_name": "南亞科",
+            "ticker": "2408",
+            "description": "南亞科也被投信買超 1.57 萬張，跟華邦電一樣，投信在記憶體族群上跟外資有不同調，可能是看好長線復甦。"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：航空起飛與ETF避險",
+        "group_title": "3. 內資主力與實戶：跟風外資，短線操作航空與半導體",
         "stocks": [
           {
-            "stock_name": "台玻",
-            "ticker": "1802",
-            "description": "自營商也買超台玻 0.34 萬張，跟外資同步，這傳產股是不是有什麼內線消息？內資也跟著吃貨，不簡單。"
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "肖年仔，內資主力也跟著外資買聯電 3212 張，這老牌晶圓代工，有基本面撐腰，短線主力也想來撈一筆。"
           },
           {
             "stock_name": "華航",
             "ticker": "2610",
-            "description": "華航被自營商買超 0.33 萬張，航空股最近有解封題材，自營商在點火，準備拉高出貨給散戶追高？"
+            "description": "華航不只外資買，內資主力也買超 2894 張，這航空雙雄的解封題材，連內資都忍不住要來分一杯羹，但要小心隔日沖的倒貨喔！"
           },
           {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "大盤震盪，自營商買元大台灣50 0.21 萬張避險，這操作很聰明，不跟散戶玩個股，直接買大盤，穩穩賺。"
+            "stock_name": "三商壽",
+            "ticker": "2867",
+            "description": "三商壽被內資主力買超 1151 張，這壽險股有資產題材，內資在找低基期或有轉機的標的，這也是一種避險操作。"
           },
           {
-            "stock_name": "富邦科技",
-            "ticker": "0052",
-            "description": "自營商買超富邦科技 0.11 萬張，科技型ETF，也是避險兼顧科技股的彈性，進可攻退可守。"
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "長榮航也被內資主力買超 555 張，跟華航一樣，航空雙雄是這波內資短線追逐的熱點，但追高要小心。"
           },
           {
-            "stock_name": "亞泥",
-            "ticker": "1102",
-            "description": "傳產股亞泥，自營商也買超 0.11 萬張，傳產股的防禦性，自營商也在佈局，這就是穩健的操盤思維。"
+            "stock_name": "南茂",
+            "ticker": "8150",
+            "description": "南茂也被內資主力買超 743 張，這封測股跟著半導體族群動，內資也想在裡面找機會，但張數不多，可能是小打小鬧。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔避險與資金避風港（傳產、金融、電信）",
-        "strategy_content": "肖年仔，你看外資跟投信，雖然有些對作，但整體而言，資金明顯往傳產龍頭、金融、電信這些相對穩定的板塊移動。外資狂掃台玻、中鋼、華新，自營商也跟著買台玻、華航、亞泥，這擺明是市場對高風險科技股的疑慮加深，尤其國際新聞提到新任Fed主席可能升息，讓AI科技股的借貸成本提高，資金自然會找避風港。這些傳產股可能沒什麼爆發力，但至少跌不下去，配息也穩定，是資金暫時的棲身之所。"
+        "strategy_title": "策略一：高檔避險與資金避風港（金融、航空）",
+        "strategy_content": "肖年仔，你看外資跟內資主力都狂掃金融股跟航空股，這不是沒道理的。現在大盤在高檔震盪，美股那邊Intel CEO雖然講AI，但市場對高估值科技股還是有疑慮。資金從高風險板塊撤出，轉進金融這種有穩定配息、低波動的防禦性標的，還有航空這種解封後營收會實質成長的族群，就是標準的避險操作啦！"
       },
       {
-        "strategy_title": "策略二：法人對作與作帳行情（記憶體、面板、部分金融）",
-        "strategy_content": "這盤面最精彩的就是法人對作！外資大賣華邦電、群創、兆豐金、遠傳，但投信卻反手狂買這些股票。這很明顯是投信在作帳，準備拉抬自己持有的股票，跟外資的避險或獲利了結盤形成拉鋸。特別是華邦電，外資倒貨超過10萬張，投信卻接了近5萬張，這不是作帳是什麼？肖年仔，這種對作的股票，短線波動會很大，沒兩把刷子別亂接刀，小心被割韭菜！"
+        "strategy_title": "策略二：半導體板塊輪動與價值重估（成熟製程、封測）",
+        "strategy_content": "Intel CEO都出來喊話了，說AI不只看GPU，CPU跟基礎建設更重要，這就給了成熟製程跟封測廠一個機會。你看外資買聯電、京元電、強茂、南茂，內資也跟著買聯電、南茂、南電，這擺明是資金在半導體族群裡輪動，從之前炒高的題材股，轉向有基本面支撐、評價面相對低的標的，這就是價值重估的開始啦！"
       },
       {
-        "strategy_title": "策略三：低基期與新題材點火（半導體下游、航空）",
-        "strategy_content": "外資買超力積電、京元電子、日月光投控這些半導體下游，可能是在賭半導體庫存調整接近尾聲，或是看好特定利基市場。雖然國際新聞說Fed可能升息會影響AI科技股，但這些傳統半導體製造和封測廠，可能被視為相對低基期的標的。另外，自營商買華航、漢翔，這航空雙雄最近有解封題材，自營商在點火，準備拉抬一波，看能不能吸引散戶追價，然後隔日沖倒貨。"
+        "strategy_title": "策略三：投信季底作帳與傳產龍頭卡位",
+        "strategy_content": "投信這群國家隊，最愛在季底搞作帳。你看他們大買南亞、遠東新這種傳產龍頭，還有兆豐金、永豐金這些金控股，這都是為了穩住基金淨值，讓帳面好看。同時，這些傳產龍頭股通常有高殖利率，在市場震盪時，也是投信卡位避險的好選擇，肖年仔，這就是投信的『明牌』啦！"
       }
     ],
-    "summary": "肖年仔，這盤面就是法人在玩大風吹，資金從高風險的AI科技股撤出，轉往傳產、金融避險，同時投信跟外資在記憶體、面板上對作，沒兩把刷子別亂追高，小心被割韭菜！",
+    "summary": "肖年仔，今天主力大戶的動作很清楚，外資跟內資都在高檔避險，資金往金融、航空這些防禦性跟復甦題材股跑，半導體則是內部輪動，投信則是在季底作帳，別傻傻去追高那些被倒貨的股票，看清楚主力動向，才不會被割韭菜！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 1.94 萬張",
-        "uncle_logic": "高盛這外資大戶，狂敲台玻這麼多，擺明是看好傳產的低基期補漲行情，或是背後有什麼產業復甦的利多消息。這不是短線隔日沖，比較像是波段鎖碼，準備吃一波。"
+        "action": "買超 1181.4 萬張",
+        "uncle_logic": "美商高盛這外資大戶的指標分點，狂掃華航超過 1.18 萬張，這擺明是看好解封題材跟航空業復甦，肖年仔，這不是隔日沖，這是要鎖碼吃大段的！"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 0.13 萬張",
-        "uncle_logic": "凱基台北這短線大戶也跟著買台玻，雖然張數不多，但跟著高盛這種大咖走，可能是想吃點豆腐，隔天看情況不對就倒貨，標準的短線操作。"
+        "action": "買超 128.48 萬張",
+        "uncle_logic": "凱基台北這短線大戶，買超聯電 1.28 萬張，八成是看準了聯電的低基期跟晶圓代工的穩定單，準備隔日沖或短線拉抬出貨，韭菜們別傻傻去接刀啊！"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 2.15 萬張",
-        "uncle_logic": "元大投信這本土國家隊，在華邦電被外資大賣的時候，反手買超這麼多，這就是標準的作帳行情！他們要拉抬自己基金的績效，不惜跟外資對作，看誰的籌碼硬。"
+        "action": "買超 1829.5 萬張",
+        "uncle_logic": "元大投信這國家隊的代表，大買南亞超過 1.83 萬張，這很明顯是投信在作帳，把資金往傳產龍頭股塞，穩住基金淨值，順便卡位高殖利率。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 3.52 萬張",
-        "uncle_logic": "摩根大通這外資大咖，狂倒群創這麼多，擺明是看壞面板產業短期前景，或是獲利了結。跟投信在群創上對作，這外資是鐵了心要倒貨，韭菜們別傻傻去接刀啊！"
+        "action": "賣超 1158.37 萬張",
+        "uncle_logic": "摩根大通這外資大咖倒貨台玻超過 1.16 萬張，擺明是看空傳產原物料，或是資金要轉去其他更有題材的標的，肖年仔，別跟著去接這種倒貨盤！"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "Fast-food seafood chain closed over 900 stores, mounts comeback",
+      "title": "Intel CEO gives investors a reality check",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/closing-1-000-restaurants-seafood-011700497.html",
+      "link": "https://finance.yahoo.com/technology/ai/articles/intel-ceo-gives-investors-reality-184700678.html",
       "level1_blind": {
-        "text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nSometimes, a business has to get smaller in order to grow, or at least that's what executives, including Wendy's CFO Ken Cook, say when they explain why they're closing locations.\n\n\"We're focused on improving restaurant-level economics, taking a hard look at underperforming restaurants in our system from both the financial and customer experience perspective and working with franchisees to improve those, transfer those to another operator or potentially closing them,\" he said during the chain's third-quarter earnings call.\n\nClosing up to 350 restaurants, he said, will improve the financials of those that remain and leave franchise operators with cash to invest in their remaining locations.\n\nLong John Silver's, an iconic fast-food chain like Wendy's, has also been closing locations — dropping from over 1,000 units in 2015 to fewer than 500 currently, based on the Consumer Edge 2026 Restaurant Outlook report.\n\nAt its peak, the chain operated more than 1,400 restaurants, according to Food Republic.\n\nThe company's Senior Vice President Tony Ellis, much like Cook, believes that the closures, at least the ones over the past three years, have actually put the seafood chain in a strong position to return to growth.\n\nTony Ellis told SeafoodSource that Long John Silver's has closed \"roughly 110 to 120 locations over the past three years.\" He said the company now operates 214 company-owned restaurants and about 262 franchised units, which matches the total on the company's restaurant locator page."
+        "text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nAI stock investors have essentially been trained to follow a rule to invest in businesses closest to GPUs, data centers, and hyperscaler spending.\n\nIntel (INTC) CEO Lip-Bu Tan just flipped that script on the June 18 episode of No Priors: AI, Machine Learning, Tech, & Startups.\n\nTan believes that the AI trade is effectively moving beyond a simple GPU story and into harder infrastructure layers behind it\n\nHe effectively laid out a far bigger map of where the semiconductor space is being stretched.\n\nThat gives Intel a remarkably ambitious investor narrative, but also a tougher test in proving it can execute where the entire AI supply chain is under pressure.\n\nIntel CEO Lip-Bu Tan used the No Priors podcast to push the AI investment debate beyond GPUs.\n\nTan argued that the old training setup relied too heavily on GPUs, but newer AI workloads require much more orchestration, reinforcement learning, and coordination across agents. That is bringing CPUs back into the discussion. “Right now, the demand is very high for my CPU,” he said."
       },
       "level2_keywords": [
         {
-          "word": "CFO",
-          "ipa": "/ˌsiː ef ˈoʊ/",
-          "meaning": "財務長，負責公司財務策略與管理的高階主管。",
-          "example": "The company's CFO announced a new cost-cutting initiative to improve profitability."
+          "word": "GPUs",
+          "ipa": "[dʒiː piː juːz]",
+          "meaning": "圖形處理器，主要用於處理圖像、影片，近年來因其平行運算能力強大，成為AI訓練與推論的關鍵硬體。",
+          "example": "NVIDIA's advanced GPUs are essential for accelerating complex AI computations."
         },
         {
-          "word": "underperforming",
-          "ipa": "/ˌʌndər pərˈfɔːrmɪŋ/",
-          "meaning": "表現不佳的，指業務或資產未能達到預期目標或低於同業水準。",
-          "example": "They decided to divest their underperforming assets to focus on core businesses."
+          "word": "hyperscaler",
+          "ipa": "[ˈhaɪpərˌskeɪlər]",
+          "meaning": "超大規模雲服務商，指提供大規模雲端運算服務的公司，如亞馬遜AWS、微軟Azure、Google Cloud等，它們擁有龐大的資料中心基礎設施。",
+          "example": "The demand for AI infrastructure is largely driven by major hyperscalers' investments."
         },
         {
-          "word": "franchisees",
-          "ipa": "/ˌfrænʧaɪˈziːz/",
-          "meaning": "加盟商，透過簽訂特許經營協議，經營特定品牌業務的獨立業者。",
-          "example": "The company works closely with its franchisees to ensure consistent brand standards."
+          "word": "AI trade",
+          "ipa": "[eɪ aɪ treɪd]",
+          "meaning": "AI概念股的投資趨勢或交易活動，指投資人針對與人工智慧相關的企業股票進行買賣。",
+          "example": "The AI trade is evolving, with investors now looking beyond just GPU manufacturers."
         },
         {
-          "word": "earnings call",
-          "ipa": "/ˈɜːrnɪŋz kɔːl/",
-          "meaning": "財報電話會議，上市公司向投資者、分析師公布財報並回答問題的會議。",
-          "example": "Investors eagerly awaited the company's quarterly earnings call for updates on its financial performance."
+          "word": "semiconductor space",
+          "ipa": "[ˌsɛmɪkənˈdʌktər speɪs]",
+          "meaning": "半導體產業領域，泛指從晶片設計、製造到封裝測試的整個半導體產業鏈。",
+          "example": "Intel is aiming to expand its market share across the entire semiconductor space."
         },
         {
-          "word": "return to growth",
-          "ipa": "/rɪˈtɜːrn tuː ɡroʊθ/",
-          "meaning": "重回成長軌道，指公司或產業在經歷衰退或停滯後，再次實現業務擴張和營收增長。",
-          "example": "After a period of restructuring, the tech giant is now poised for a strong return to growth."
+          "word": "orchestration",
+          "ipa": "[ˌɔːrkɪˈstreɪʃən]",
+          "meaning": "（系統或工作流程的）編排、協調，指在複雜的IT環境中，自動化和管理多個系統、應用程式和服務之間的互動。",
+          "example": "Newer AI workloads demand sophisticated orchestration of various hardware and software components."
         }
       ],
-      "level2_context": "各位同學，這篇新聞揭示了餐飲業，特別是速食連鎖店，在面對市場變化時，如何透過「瘦身」策略來尋求轉型與成長。我們要注意，這並非單純的倒閉潮，而是一種企業策略性的調整。當一家連鎖企業發現旗下部分門市的「餐廳層級經濟效益」（restaurant-level economics）不佳時，也就是說，這些店鋪的營收、成本、獲利能力無法達到預期，甚至拖累整體表現，高層便會考慮關閉這些「表現不佳」（underperforming）的據點。\n\n這種做法的目的是為了集中資源，讓剩餘的、體質較好的門市能獲得更多投資，提升營運效率和顧客體驗。對於像 Long John Silver's 這樣的加盟體系，這也意味著與「加盟商」（franchisees）合作，可能將表現不佳的店轉讓給更有能力的經營者，或者直接關閉。最終目標是讓公司整體能夠「重回成長軌道」（return to growth），這在財經界是常見的策略，尤其在競爭激烈的消費性產業中，企業必須不斷優化其資產組合，才能確保長期獲利能力。",
+      "level2_context": "各位同學，這篇新聞的背景脈絡很有趣。我們都知道，過去幾年AI產業的投資熱潮，幾乎都圍繞著GPU（圖形處理器）打轉，因為GPU在AI模型訓練上表現出色，所以像輝達（NVIDIA）這樣的公司股價一飛沖天。投資人也習慣性地認為，只要投資那些離GPU、資料中心和超大規模雲服務商（hyperscaler）最近的公司，就能搭上AI的順風車。\n\n然而，英特爾（Intel）的執行長Lip-Bu Tan現在卻出來「潑冷水」，他認為AI的投資趨勢正在轉變，不再只是單純的GPU故事。他指出，AI的發展已經進入更深層次的「基礎設施層」，這意味著除了GPU，還有其他許多硬體和軟體元件的協調與整合變得越來越重要。這對英特爾來說是個好消息，因為他們是CPU（中央處理器）的巨頭，而CPU在處理更複雜、需要大量協調的AI工作負載時，將會重新扮演關鍵角色。這也暗示著AI硬體市場的競爭格局可能會有變化，不再是輝達一家獨大，英特爾看到了新的機會，但同時也面臨著在AI供應鏈壓力下，證明其執行力的嚴峻考驗。",
       "level3_translation": [
         {
           "sentence": "The above button links to Coinbase.",
-          "translation": "上方的按鈕連結到 Coinbase 交易所。"
+          "translation": "上方按鈕連結到加密貨幣交易所Coinbase。"
         },
         {
           "sentence": "Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading.",
-          "translation": "雅虎財經本身並非券商或投資顧問，不提供證券或加密貨幣的銷售，也不協助交易。"
+          "translation": "Yahoo財經並非證券經紀商或投資顧問，不提供證券或加密貨幣的銷售，也不協助交易。"
+        },
+        {
+          "sentence": "Coinbase pays us for certain activity generated through this link.",
+          "translation": "Coinbase會為透過此連結產生的特定活動支付費用給我們。"
+        },
+        {
+          "sentence": "Prices displayed are informational.",
+          "translation": "顯示的價格僅供參考。"
+        },
+        {
+          "sentence": "AI stock investors have essentially been trained to follow a rule to invest in businesses closest to GPUs, data centers, and hyperscaler spending.",
+          "translation": "各位同學，AI概念股的投資人基本上已經習慣遵循一個原則：投資那些與圖形處理器（GPU）、資料中心和超大規模雲服務商（hyperscaler）支出最相關的企業。"
+        },
+        {
+          "sentence": "Intel (INTC) CEO Lip-Bu Tan just flipped that script on the June 18 episode of No Priors: AI, Machine Learning, Tech, & Startups.",
+          "translation": "然而，英特爾（股票代碼：INTC）執行長Lip-Bu Tan在6月18日播出的『No Priors: AI, Machine Learning, Tech, & Startups』節目中，卻扭轉了這個局面。"
+        },
+        {
+          "sentence": "Tan believes that the AI trade is effectively moving beyond a simple GPU story and into harder infrastructure layers behind it",
+          "translation": "Tan認為，AI概念股的投資趨勢正有效地超越單純的GPU故事，轉向其背後更複雜的基礎設施層。"
+        },
+        {
+          "sentence": "He effectively laid out a far bigger map of where the semiconductor space is being stretched.",
+          "translation": "他有效地描繪出半導體產業領域正在擴展的更宏大藍圖。"
+        },
+        {
+          "sentence": "That gives Intel a remarkably ambitious investor narrative, but also a tougher test in proving it can execute where the entire AI supply chain is under pressure.",
+          "translation": "這為英特爾提供了一個極具企圖心的投資敘事，但同時也帶來了更嚴峻的考驗，因為它必須證明在整個AI供應鏈面臨壓力之際，自己仍能有效執行策略。"
+        },
+        {
+          "sentence": "Intel CEO Lip-Bu Tan used the No Priors podcast to push the AI investment debate beyond GPUs.",
+          "translation": "英特爾執行長Lip-Bu Tan利用『No Priors』播客節目，將AI投資的討論推向超越GPU的範疇。"
+        },
+        {
+          "sentence": "Tan argued that the old training setup relied too heavily on GPUs, but newer AI workloads require much more orchestration, reinforcement learning, and coordination across agents.",
+          "translation": "Tan主張，舊的訓練架構過於依賴GPU，但較新的AI工作負載需要更多的協調與編排（orchestration）、強化學習（reinforcement learning）以及各代理（agents）之間的協同合作。"
+        },
+        {
+          "sentence": "That is bringing CPUs back into the discussion.",
+          "translation": "這使得中央處理器（CPU）重新成為討論焦點。"
+        },
+        {
+          "sentence": "“Right now, the demand is very high for my CPU,” he said.",
+          "translation": "他表示：「目前，市場對我的CPU需求非常高。」"
+        }
+      ]
+    },
+    {
+      "news_id": "news_2",
+      "title": "52-year-old Outback Steakhouse rival chain closes 24 locations",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/economy/articles/52-old-outback-steakhouse-rival-194700477.html",
+      "level1_blind": {
+        "text": "Rising food costs driven by inflation have been a problem for U.S. steakhouses ranging from high-end to budget establishments, leading some well-known restaurants to permanently shut their doors and in some cases file for bankruptcy\n\nAn increase in the cost of beef that led to steak prices spiking 16% to $12.73 per pound in March 2026, according to data from the Federal Reserve Bank of St. Louis, affected menu prices and discouraged some diners from dining in steakhouses, taking a bite out of restaurant revenue.\n\nSteakhouses that have closed locations in the U.S. over the last three months have included Fleming's Prime Steakhouse and Wine Bar, McCormick & Schmick's, and Stoney River Steakhouse and Grill, with Quaker Steak & Lube about to close one, too.\n\nA Golden Corral restaurant franchisee, Conroe Corral Murphy LLC, however filed for Chapter 11 bankruptcy in Texas on June 8 and continues to operate.\n\nOutback Steakhouse's owner Bloomin' Brands closed 21 locations in 2025 and said it would close another 22 locations in 2026 as leases expire, according to its third quarter earnings call.\n\n\"After almost 23 years of service, Quaker Steak & Lube is closing its doors after business closes on July 5th,\" Smith, who worked at the restaurant since 2009, said.\n\nNeither Smith nor Quaker Steak Lube stated a reason for closing the location, which opened in 2003. Smith said she began working at the restaurant in August 2009.\n\nThe Quaker Steak & Lube chain opened in 1974 in an abandoned gas station in Sharon, Pa., as a muscle car-themed, cook-your-own-steak restaurant chain."
+      },
+      "level2_keywords": [
+        {
+          "word": "inflation",
+          "ipa": "/ɪnˈfleɪʃən/",
+          "meaning": "通貨膨脹，指貨幣供給過多導致物價普遍上漲的經濟現象。",
+          "example": "Rising inflation has significantly increased operating costs for many businesses, especially in the food industry."
+        },
+        {
+          "word": "bankruptcy",
+          "ipa": "/ˈbæŋkrʌptsi/",
+          "meaning": "破產，指個人或企業因無法償還債務而依法宣告無力償債的狀態。",
+          "example": "Several companies filed for bankruptcy protection after facing severe financial difficulties."
+        },
+        {
+          "word": "franchisee",
+          "ipa": "/ˌfrænʧaɪˈziː/",
+          "meaning": "加盟商，指獲得特許經營權，經營特定品牌或業務的個人或公司。",
+          "example": "The restaurant franchisee decided to expand by opening new locations in different cities."
+        },
+        {
+          "word": "revenue",
+          "ipa": "/ˈrɛvənuː/",
+          "meaning": "營收，指企業在一定時期內透過銷售商品或提供服務所獲得的總收入。",
+          "example": "The company's quarterly revenue was negatively impacted by decreased consumer spending."
+        },
+        {
+          "word": "leases",
+          "ipa": "/ˈliːsɪz/",
+          "meaning": "租約，指不動產或設備的租賃合同，規定租賃雙方的權利與義務。",
+          "example": "Many businesses are reviewing their commercial leases to reduce overhead costs."
+        }
+      ],
+      "level2_context": "各位同學，這則新聞揭示了美國餐飲業，特別是牛排館，在當前高通膨環境下所面臨的嚴峻挑戰。由於食品成本，尤其是牛肉價格的飆升，導致餐廳營運成本大增，不得不調漲菜單價格。這不僅影響了消費者的用餐意願，也直接衝擊了餐廳的營收。我們可以看到，即使是知名連鎖品牌，也難逃關店或聲請破產的命運。這反映了通膨對實體經濟的深遠影響，特別是那些對原物料成本敏感的產業。對於投資人來說，這也提醒我們在評估餐飲業或零售業的投資標的時，必須將通膨壓力與其成本轉嫁能力納入考量。",
+      "level3_translation": [
+        {
+          "sentence": "Rising food costs driven by inflation have been a problem for U.S. steakhouses ranging from high-end to budget establishments, leading some well-known restaurants to permanently shut their doors and in some cases file for bankruptcy",
+          "translation": "通貨膨脹導致的食品成本上漲，一直是美國牛排館面臨的問題，無論是高檔還是平價餐廳都受影響，導致一些知名餐廳永久歇業，甚至有些還聲請破產。"
+        },
+        {
+          "sentence": "An increase in the cost of beef that led to steak prices spiking 16% to $12.73 per pound in March 2026, according to data from the Federal Reserve Bank of St. Louis, affected menu prices and discouraged some diners from dining in steakhouses, taking a bite out of restaurant revenue.",
+          "translation": "根據聖路易聯邦準備銀行數據，牛肉成本上漲導致牛排價格在2026年3月飆升16%，達到每磅12.73美元，這影響了菜單定價，也讓一些顧客不願再到牛排館用餐，進而侵蝕了餐廳的營收。"
+        },
+        {
+          "sentence": "Steakhouses that have closed locations in the U.S. over the last three months have included Fleming's Prime Steakhouse and Wine Bar, McCormick & Schmick's, and Stoney River Steakhouse and Grill, with Quaker Steak & Lube about to close one, too.",
+          "translation": "過去三個月在美國關閉分店的牛排館包括了Fleming's Prime Steakhouse and Wine Bar、McCormick & Schmick's，以及Stoney River Steakhouse and Grill，而Quaker Steak & Lube也即將關閉一家分店。"
+        },
+        {
+          "sentence": "A Golden Corral restaurant franchisee, Conroe Corral Murphy LLC, however filed for Chapter 11 bankruptcy in Texas on June 8 and continues to operate.",
+          "translation": "然而，Golden Corral餐廳的加盟商Conroe Corral Murphy LLC，已於6月8日在德州聲請破產法第11章保護，但目前仍持續營運。"
+        },
+        {
+          "sentence": "Outback Steakhouse's owner Bloomin' Brands closed 21 locations in 2025 and said it would close another 22 locations in 2026 as leases expire, according to its third quarter earnings call.",
+          "translation": "根據Outback Steakhouse母公司Bloomin' Brands的第三季財報電話會議，該公司在2025年關閉了21家分店，並表示隨著租約到期，2026年還會再關閉22家分店。"
+        },
+        {
+          "sentence": "\"After almost 23 years of service, Quaker Steak & Lube is closing its doors after business closes on July 5th,\" Smith, who worked at the restaurant since 2009, said.",
+          "translation": "『在服務了將近23年之後，Quaker Steak & Lube將在7月5日營業結束後關閉。』自2009年起就在這家餐廳工作的史密斯說道。"
+        },
+        {
+          "sentence": "Neither Smith nor Quaker Steak Lube stated a reason for closing the location, which opened in 2003.",
+          "translation": "史密斯和Quaker Steak Lube都沒有說明這家2003年開業的分店關閉原因。"
+        },
+        {
+          "sentence": "Smith said she began working at the restaurant in August 2009.",
+          "translation": "史密斯表示她是在2009年8月開始在這家餐廳工作的。"
+        },
+        {
+          "sentence": "The Quaker Steak & Lube chain opened in 1974 in an abandoned gas station in Sharon, Pa., as a muscle car-themed, cook-your-own-steak restaurant chain.",
+          "translation": "Quaker Steak & Lube連鎖餐廳於1974年在賓州沙倫市的一個廢棄加油站開業，當時是一家以肌肉車為主題、主打顧客自己動手烤牛排的餐廳。"
+        }
+      ]
+    },
+    {
+      "news_id": "news_3",
+      "title": "Tech stocks today: Uber and Lucid expanding in Houston, Intel's latest chip moves",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-uber-and-lucid-expanding-in-houston-intels-latest-chip-moves-100000021.html",
+      "level1_blind": {
+        "text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nIntel gained more than 10% after President Trump posted on Truth Social that the company is working with Apple to build chips for the iPhone maker. Apple stock was flat on the day.\n\nSpaceX closed out the day lower for the second straight day for the first time since it began training on the public market. Shares were off roughly 3.5%.\n\nOn Wednesday, Uber and Lucid announced that they're expanding their robotaxi service to Houston.\n\nThe companies previously announced San Francisco as their launch city, with plans to begin offering autonomous rides later this year. Houston will get self-driving rides in 2027.\n\nAnthropic (ANTH.PVT) met with members of the Trump administration this week as the AI lab seeks to reach an agreement that will allow it to begin using its Fable 5 and Mythos 5 models again.\n\nThe administration issued an export control directive against the models last Friday, preventing Anthropic from allowing any foreign national, inside or outside the US, to access the software. And that includes Anthropic employees.\n\nNot being able to show off its latest and greatest models puts the company in a tough spot as it prepares for its initial public offering later this year. But the administration's approach could pose problems for more than just Anthropic."
+      },
+      "level2_keywords": [
+        {
+          "word": "chip",
+          "ipa": "[tʃɪp]",
+          "meaning": "指用於電子設備中的積體電路或微處理器，是科技產品的核心元件。",
+          "example": "Intel is reportedly working with Apple to build chips for the iPhone maker."
+        },
+        {
+          "word": "robotaxi",
+          "ipa": "[ˈroʊboʊˌtæksi]",
+          "meaning": "指由自動駕駛技術驅動的無人計程車服務，是未來智慧交通的發展方向。",
+          "example": "Uber and Lucid are expanding their robotaxi service to Houston, aiming for self-driving rides by 2027."
+        },
+        {
+          "word": "export control",
+          "ipa": "[ˈɛkspɔrt kənˈtroʊl]",
+          "meaning": "指政府對特定技術、產品或軟體出口實施的限制措施，通常出於國家安全或外交政策考量。",
+          "example": "The administration issued an export control directive against Anthropic's AI models, restricting foreign access."
+        },
+        {
+          "word": "initial public offering",
+          "ipa": "[ɪˈnɪʃəl ˈpʌblɪk ˈɔfərɪŋ]",
+          "meaning": "簡稱 IPO，指公司首次向公眾發行股票，並在證券交易所上市交易的過程，是公司籌集資金的重要途徑。",
+          "example": "Anthropic is in a tough spot as it prepares for its initial public offering later this year due to recent restrictions."
+        },
+        {
+          "word": "administration",
+          "ipa": "[ædˌmɪnɪˈstreɪʃən]",
+          "meaning": "在此財經新聞情境中，通常指某國的政府當局或行政部門，負責制定和執行政策。",
+          "example": "Anthropic met with members of the Trump administration this week to discuss the export control directive."
+        }
+      ],
+      "level2_context": "各位同學，這篇新聞涵蓋了幾個當前科技與財經領域的熱點。首先，關於英特爾與蘋果合作開發晶片的傳聞，這反映了晶片產業供應鏈的動態，以及美國政府對於本土製造的重視。如果屬實，這將對兩家公司的股價和市場競爭格局產生重大影響。其次，Uber和Lucid擴展無人計程車服務至休士頓，這顯示了自動駕駛技術的商業化進程正在加速，儘管全面普及仍需時間，但相關技術和服務提供商的未來潛力值得關注。最後，美國政府對AI實驗室Anthropic的AI模型實施出口管制，這凸顯了地緣政治對高科技產業的影響，特別是在AI領域，國家安全考量可能超越商業利益。這不僅會影響Anthropic的IPO計畫，也預示著未來AI技術的發展和應用將面臨更多來自政府層面的審查和限制。",
+      "level3_translation": [
+        {
+          "sentence": "The above button links to Coinbase.",
+          "translation": "上方按鈕連結至 Coinbase。"
+        },
+        {
+          "sentence": "Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading.",
+          "translation": "Yahoo 財經並非證券經紀商或投資顧問，不提供證券或加密貨幣的銷售，也不協助交易。"
         },
         {
           "sentence": "Coinbase pays us for certain activity generated through this link.",
@@ -204,232 +365,60 @@
         },
         {
           "sentence": "Prices displayed are informational.",
-          "translation": "所顯示的價格僅供參考。"
+          "translation": "顯示的價格僅供參考。"
         },
         {
-          "sentence": "Sometimes, a business has to get smaller in order to grow, or at least that's what executives, including Wendy's CFO Ken Cook, say when they explain why they're closing locations.",
-          "translation": "有時候，企業必須先「瘦身」才能成長，至少包括溫蒂漢堡財務長 Ken Cook 在內的高階主管，在解釋為何關閉門市時，都是這麼說的。"
+          "sentence": "Intel gained more than 10% after President Trump posted on Truth Social that the company is working with Apple to build chips for the iPhone maker.",
+          "translation": "在川普總統於 Truth Social 發文表示英特爾正與蘋果合作為 iPhone 製造晶片後，英特爾股價上漲超過 10%。"
         },
         {
-          "sentence": "\"We're focused on improving restaurant-level economics, taking a hard look at underperforming restaurants in our system from both the financial and customer experience perspective and working with franchisees to improve those, transfer those to another operator or potentially closing them,\" he said during the chain's third-quarter earnings call.",
-          "translation": "「我們專注於改善餐廳層級的經濟效益，從財務和顧客體驗的角度，嚴格審視我們體系中表現不佳的餐廳，並與加盟商合作，改善這些店鋪、將其轉讓給其他經營者，或者考慮關閉它們，」他在該連鎖店的第三季財報電話會議上表示。"
+          "sentence": "Apple stock was flat on the day.",
+          "translation": "蘋果股價當天持平。"
         },
         {
-          "sentence": "Closing up to 350 restaurants, he said, will improve the financials of those that remain and leave franchise operators with cash to invest in their remaining locations.",
-          "translation": "他說，關閉多達 350 家餐廳，將能改善剩餘門市的財務狀況，並讓加盟經營者有現金可以投資在他們留下的據點。"
+          "sentence": "SpaceX closed out the day lower for the second straight day for the first time since it began training on the public market.",
+          "translation": "SpaceX 股價連續第二天收跌，這是自其進入公開市場交易以來首次出現。"
         },
         {
-          "sentence": "Long John Silver's, an iconic fast-food chain like Wendy's, has also been closing locations — dropping from over 1,000 units in 2015 to fewer than 500 currently, based on the Consumer Edge 2026 Restaurant Outlook report.",
-          "translation": "像溫蒂漢堡一樣，標誌性的速食連鎖店 Long John Silver's 也一直在關閉門市——根據 Consumer Edge 2026 餐廳展望報告，其門市數量從 2015 年的 1,000 多家，降至目前不到 500 家。"
+          "sentence": "Shares were off roughly 3.5%.",
+          "translation": "其股價下跌約 3.5%。"
         },
         {
-          "sentence": "At its peak, the chain operated more than 1,400 restaurants, according to Food Republic.",
-          "translation": "根據 Food Republic 的資料，該連鎖店在巔峰時期曾經營超過 1,400 家餐廳。"
+          "sentence": "On Wednesday, Uber and Lucid announced that they're expanding their robotaxi service to Houston.",
+          "translation": "週三，Uber 和 Lucid 宣布將其無人計程車服務擴展至休士頓。"
         },
         {
-          "sentence": "The company's Senior Vice President Tony Ellis, much like Cook, believes that the closures, at least the ones over the past three years, have actually put the seafood chain in a strong position to return to growth.",
-          "translation": "該公司資深副總裁 Tony Ellis，與 Cook 的看法非常相似，他認為這些關閉行動，至少是過去三年來的那些，實際上已讓這家海鮮連鎖店處於一個有利的地位，得以重回成長軌道。"
+          "sentence": "The companies previously announced San Francisco as their launch city, with plans to begin offering autonomous rides later this year.",
+          "translation": "這兩家公司先前已宣布舊金山為其首發城市，並計畫在今年稍晚開始提供自動駕駛乘車服務。"
         },
         {
-          "sentence": "Tony Ellis told SeafoodSource that Long John Silver's has closed \"roughly 110 to 120 locations over the past three years.\"",
-          "translation": "Tony Ellis 告訴 SeafoodSource，Long John Silver's 在過去三年中，大約關閉了「110 到 120 家門市」。"
+          "sentence": "Houston will get self-driving rides in 2027.",
+          "translation": "休士頓則將在 2027 年獲得自動駕駛乘車服務。"
         },
         {
-          "sentence": "He said the company now operates 214 company-owned restaurants and about 262 franchised units, which matches the total on the company's restaurant locator page.",
-          "translation": "他表示，該公司目前經營 214 家直營餐廳和約 262 家加盟店，這與公司官網上的餐廳查詢頁面顯示的總數相符。"
-        }
-      ]
-    },
-    {
-      "news_id": "news_2",
-      "title": "Dave Ramsey says most millionaires just copied the guy in the next cubicle — not debating the perfect portfolio",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-says-most-millionaires-123000219.html",
-      "level1_blind": {
-        "text": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\n\nDave Ramsey has a message for Americans who spend hours debating mutual funds versus index funds online: stop talking and start investing.\n\nThe personal finance personality shared his thoughts on what he sees as one of the biggest mistakes would-be investors make during a recent episode of The Ramsey Show. (1) A caller questioned his long-standing recommendation to split retirement savings across four types of mutual funds rather than simply buying an S&P 500 index fund.\n\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake — here’s how to fix it ASAP\n\nJP Morgan sees gold hitting $6,000/oz before 2027 — and a Gold IRA lets you hold the physical metal while deferring the tax bill. Get your free guide from Priority Gold\n\nThe ultra-rich use these 5 real estate strategies to build wealth while they sleep — you can start with just $100\n\nThe caller, Dylan, claimed that Ramsey has referenced the strong long-term returns of the S&P 500, so why not recommend investors simply buy the index and call it a day?\n\nRamsey acknowledged that fewer than half of individual mutual funds in the growth mutual fund sector outperform the market, but argued that people should “shut up and invest” since people who invest end up with more money than those who don’t."
-      },
-      "level2_keywords": [
-        {
-          "word": "mutual funds",
-          "ipa": "/ˈmjuːtʃuəl fʌndz/",
-          "meaning": "一種集合許多投資人資金，由專業經理人操作，投資於股票、債券等多元資產的投資工具。",
-          "example": "「許多新手投資人會選擇共同基金，因為有專業人士代為管理。」"
+          "sentence": "Anthropic (ANTH.PVT) met with members of the Trump administration this week as the AI lab seeks to reach an agreement that will allow it to begin using its Fable 5 and Mythos 5 models again.",
+          "translation": "Anthropic（ANTH.PVT）本週與川普政府成員會面，這家 AI 實驗室正尋求達成協議，以使其能夠再次使用其 Fable 5 和 Mythos 5 模型。"
         },
         {
-          "word": "index funds",
-          "ipa": "/ˈɪndɛks fʌndz/",
-          "meaning": "一種追蹤特定市場指數（如S&P 500）表現的基金，目標是複製該指數的報酬，通常管理費較低。",
-          "example": "「指數型基金因其低成本和被動管理策略，近年來受到廣大投資者的青睞。」"
+          "sentence": "The administration issued an export control directive against the models last Friday, preventing Anthropic from allowing any foreign national, inside or outside the US, to access the software.",
+          "translation": "政府當局上週五對這些模型發布了出口管制指令，禁止 Anthropic 允許任何外國國民，無論是在美國境內或境外，存取該軟體。"
         },
         {
-          "word": "retirement savings",
-          "ipa": "/rɪˈtaɪərmənt ˈseɪvɪŋz/",
-          "meaning": "為了退休後生活而預先儲蓄或投資的資金。",
-          "example": "「提早規劃退休儲蓄，是確保晚年生活無虞的關鍵。」"
+          "sentence": "And that includes Anthropic employees.",
+          "translation": "這也包括 Anthropic 的員工。"
         },
         {
-          "word": "S&P 500",
-          "ipa": "/ˌɛs ˌænd ˈpiː faɪv ˈhʌndrəd/",
-          "meaning": "標準普爾500指數，是衡量美國500家大型上市公司股票表現的市場指數，被視為美國股市的代表性指標。",
-          "example": "「許多投資人會將S&P 500指數的表現，作為衡量美國經濟健康狀況的重要參考。」"
+          "sentence": "Not being able to show off its latest and greatest models puts the company in a tough spot as it prepares for its initial public offering later this year.",
+          "translation": "無法展示其最新最優秀的模型，讓這家公司在準備今年稍晚的首次公開募股（IPO）時陷入困境。"
         },
         {
-          "word": "outperform",
-          "ipa": "/ˌaʊtpərˈfɔːrm/",
-          "meaning": "表現優於（市場或同業），指投資報酬率高於基準指數或競爭對手。",
-          "example": "「這支基金經理人以其卓越的選股能力，連續五年跑贏大盤，表現優於同業。」"
-        }
-      ],
-      "level2_context": "各位同學，這篇新聞主要探討的是個人理財領域一個很經典的議題：究竟該選擇主動管理的共同基金，還是被動追蹤市場指數的指數型基金？許多投資新手常在這個問題上糾結，甚至因此延誤了開始投資的時機。文章中，知名的理財專家戴夫·拉姆齊（Dave Ramsey）強調，對於大多數人而言，與其花時間爭論哪種投資工具『最完美』，不如盡早開始投資，並持之以恆。這反映了財經界一個重要的觀念：『時間』是投資複利的最大朋友。無論是共同基金還是指數型基金，只要能長期投入，通常都能累積可觀的財富。這也提醒我們，在資訊爆炸的時代，面對琳瑯滿目的投資選項，有時『行動』比『完美決策』更重要。",
-      "level3_translation": [
-        {
-          "sentence": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.",
-          "translation": "「Moneywise 和 Yahoo Finance LLC 可能會透過下方內容中的連結賺取佣金或收益。」"
-        },
-        {
-          "sentence": "Dave Ramsey has a message for Americans who spend hours debating mutual funds versus index funds online: stop talking and start investing.",
-          "translation": "「知名理財專家戴夫·拉姆齊（Dave Ramsey）想對那些花好幾個小時在網路上爭論共同基金和指數型基金的美國人說：『別再紙上談兵了，趕快開始投資吧！』」"
-        },
-        {
-          "sentence": "The personal finance personality shared his thoughts on what he sees as one of the biggest mistakes would-be investors make during a recent episode of The Ramsey Show.",
-          "translation": "「這位個人理財專家在最近一集『拉姆齊秀』（The Ramsey Show）中，分享了他認為潛在投資人常犯的最大錯誤之一。」"
-        },
-        {
-          "sentence": "(1) A caller questioned his long-standing recommendation to split retirement savings across four types of mutual funds rather than simply buying an S&P 500 index fund.",
-          "translation": "「一位聽眾質疑他長期以來建議將退休儲蓄分散投資於四種不同類型的共同基金，而非直接買進S&P 500指數型基金的做法。」"
-        },
-        {
-          "sentence": "Dave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake — here’s how to fix it ASAP",
-          "translation": "「戴夫·拉姆齊警告，近五成的美國人正在犯一個重大的社會安全福利錯誤——這裡教你如何盡快修正。」"
-        },
-        {
-          "sentence": "JP Morgan sees gold hitting $6,000/oz before 2027 — and a Gold IRA lets you hold the physical metal while deferring the tax bill.",
-          "translation": "「摩根大通預期黃金價格在2027年前將達到每盎司6,000美元——而黃金個人退休帳戶（Gold IRA）能讓你在遞延繳稅的情況下持有實體黃金。」"
-        },
-        {
-          "sentence": "Get your free guide from Priority Gold",
-          "translation": "「立即向Priority Gold索取你的免費指南。」"
-        },
-        {
-          "sentence": "The ultra-rich use these 5 real estate strategies to build wealth while they sleep — you can start with just $100",
-          "translation": "「超級富豪們運用這5種房地產策略，在睡夢中也能累積財富——你甚至只需100美元就能開始。」"
-        },
-        {
-          "sentence": "The caller, Dylan, claimed that Ramsey has referenced the strong long-term returns of the S&P 500, so why not recommend investors simply buy the index and call it a day?",
-          "translation": "「這位名叫迪倫的聽眾聲稱，拉姆齊曾提及S&P 500指數的長期報酬表現強勁，那為何不直接建議投資人買進該指數就好？」"
-        },
-        {
-          "sentence": "Ramsey acknowledged that fewer than half of individual mutual funds in the growth mutual fund sector outperform the market, but argued that people should “shut up and invest” since people who invest end up with more money than those who don’t.",
-          "translation": "「拉姆齊承認，在成長型共同基金領域中，確實有不到一半的個別共同基金表現不如大盤，但他主張人們應該『閉嘴並開始投資』，因為有投資的人最終會比沒投資的人擁有更多財富。」"
-        }
-      ]
-    },
-    {
-      "news_id": "news_3",
-      "title": "How Fed Chairman Kevin Warsh just screwed AI tech beasts",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/article/how-fed-chairman-kevin-warsh-just-screwed-ai-tech-beasts-103000167.html",
-      "level1_blind": {
-        "text": "And most importantly, he didn't do anything with interest rates for some time. If anything, he leaned on the side of cutting rates, even as the Iran war drove up inflation.\n\nBut new Fed Chairman Kevin Warsh reminded the world this week that he will be a different beast for markets. Warsh will say less, review all old Fed practices, and, in the near term, defend independence. And that could mean an interest rate hike to beat back inflation once and for all.\n\nBig Tech is becoming hooked on debt to fuel its grandiose visions of widespread AI adoption. In years past, aggressive investments were largely driven by internally generated cash. These companies have used the easy-money ways of the Powell-led Fed to spend willy-nilly. A higher cost of capital under Warsh could upset the apple cart.\n\nAI-related companies have issued about $140 billion in investment-grade bonds year to date, accounting for 49% of the total investment-grade issuance, according to new analysis from the Kobeissi Letter.\n\nIn high-yield corporate bonds, AI-related companies have accounted for 38% of total issuance, or roughly $21 billion year to date.\n\nThe most headline-making debt raise of the year has been out of Alphabet (GOOG, GOOGL).\n\nAlphabet became the first tech company in decades to issue a 100-year bond. In total, it raised $31.51 billion in February across its global bond offering, tapping sterling and Swiss franc markets alongside US dollar issuance.\n\n\"The AI investment boom is reshaping how capital is allocated across the entire financial system,\" Kobeissi researchers said."
-      },
-      "level2_keywords": [
-        {
-          "word": "interest rates",
-          "ipa": "/ˈɪntrəst reɪts/",
-          "meaning": "指中央銀行或金融機構對借貸資金收取的費用，直接影響企業和個人的借貸成本。",
-          "example": "各位同學，聯準會的『interest rates』政策，是影響全球經濟景氣的關鍵因素之一喔。"
-        },
-        {
-          "word": "inflation",
-          "ipa": "/ɪnˈfleɪʃən/",
-          "meaning": "指物價普遍上漲，導致貨幣購買力下降的經濟現象。",
-          "example": "我們要注意，當『inflation』持續高漲時，民眾的實質購買力就會受到侵蝕。"
-        },
-        {
-          "word": "debt",
-          "ipa": "/dɛt/",
-          "meaning": "指企業或個人向他人借入的資金，通常需要支付利息並在未來償還。",
-          "example": "這家科技巨頭為了擴張AI業務，大量舉借『debt』，這也增加了其財務槓桿。"
-        },
-        {
-          "word": "investment-grade bonds",
-          "ipa": "/ɪnˈvɛstmənt ɡreɪd bɑːndz/",
-          "meaning": "指信用評級較高、違約風險較低的債券，通常被機構投資者視為相對安全的投資標的。",
-          "example": "許多大型企業會發行『investment-grade bonds』來籌集資金，因為這類債券的發行成本相對較低。"
-        },
-        {
-          "word": "capital allocation",
-          "ipa": "/ˈkæpɪtəl ˌæləˈkeɪʃən/",
-          "meaning": "指企業或金融系統將資金分配到不同投資項目或資產類別的過程，以實現最佳回報。",
-          "example": "人工智慧的崛起，正在徹底改變整個金融體系的『capital allocation』模式。"
-        }
-      ],
-      "level2_context": "各位同學，這篇新聞的背景脈絡非常重要。過去幾年，在由鮑威爾領導的聯準會推動下，全球處於一個「寬鬆貨幣」的環境，也就是利率非常低，企業借錢的成本也相對便宜。這讓許多大型科技公司，特別是那些積極發展人工智慧的公司，得以大量舉債來推動其宏大的擴張計畫。然而，新聞中提到的新任聯準會主席凱文·沃許，他的政策方向可能與前任大相徑庭，他更傾向於升息來對抗通膨。這對那些習慣了低成本資金的科技巨頭來說，無疑是個壞消息。一旦利率上升，借貸成本變高，這些公司用來投資AI的資金成本也會隨之增加，這可能會打亂他們原有的投資步調，甚至影響整個AI產業的發展速度。這就是為什麼這篇新聞會說他「搞砸」了AI科技巨頭，因為他可能終結了它們的「廉價資金派對」。",
-      "level3_translation": [
-        {
-          "sentence": "And most importantly, he didn't do anything with interest rates for some time.",
-          "translation": "「更重要的是，他有一段時間都沒有對利率採取任何行動。」"
-        },
-        {
-          "sentence": "If anything, he leaned on the side of cutting rates, even as the Iran war drove up inflation.",
-          "translation": "「甚至可以說，他傾向於降息，即便當時伊朗戰爭導致通膨飆升。」"
-        },
-        {
-          "sentence": "But new Fed Chairman Kevin Warsh reminded the world this week that he will be a different beast for markets.",
-          "translation": "「然而，新任聯準會主席凱文·沃許本週提醒了全球，他將會是市場上一個截然不同的角色。」"
-        },
-        {
-          "sentence": "Warsh will say less, review all old Fed practices, and, in the near term, defend independence.",
-          "translation": "「沃許將會少說多做，審視所有聯準會舊有的慣例，並且在短期內捍衛其獨立性。」"
-        },
-        {
-          "sentence": "And that could mean an interest rate hike to beat back inflation once and for all.",
-          "translation": "「這可能意味著，為了徹底打擊通膨，他會採取升息的手段。」"
-        },
-        {
-          "sentence": "Big Tech is becoming hooked on debt to fuel its grandiose visions of widespread AI adoption.",
-          "translation": "「大型科技公司正日益依賴舉債，來推動其宏大的願景，也就是讓人工智慧普及化。」"
-        },
-        {
-          "sentence": "In years past, aggressive investments were largely driven by internally generated cash.",
-          "translation": "「在過去幾年，積極的投資主要來自於公司內部產生的現金流。」"
-        },
-        {
-          "sentence": "These companies have used the easy-money ways of the Powell-led Fed to spend willy-nilly.",
-          "translation": "「這些公司利用了由鮑威爾領導的聯準會所創造的寬鬆貨幣環境，隨心所欲地大肆花費。」"
-        },
-        {
-          "sentence": "A higher cost of capital under Warsh could upset the apple cart.",
-          "translation": "「在沃許領導下，更高的資金成本可能會打亂原有的市場秩序。」"
-        },
-        {
-          "sentence": "AI-related companies have issued about $140 billion in investment-grade bonds year to date, accounting for 49% of the total investment-grade issuance, according to new analysis from the Kobeissi Letter.",
-          "translation": "「根據Kobeissi Letter的最新分析，截至今年為止，與人工智慧相關的公司已發行了約1400億美元的投資級債券，佔投資級債券總發行量的49%。」"
-        },
-        {
-          "sentence": "In high-yield corporate bonds, AI-related companies have accounted for 38% of total issuance, or roughly $21 billion year to date.",
-          "translation": "「在高收益公司債方面，截至今年為止，與人工智慧相關的公司佔總發行量的38%，約為210億美元。」"
-        },
-        {
-          "sentence": "The most headline-making debt raise of the year has been out of Alphabet (GOOG, GOOGL).",
-          "translation": "「今年最引人注目的募債案，就是來自於Alphabet（股票代號：GOOG, GOOGL）。」"
-        },
-        {
-          "sentence": "Alphabet became the first tech company in decades to issue a 100-year bond.",
-          "translation": "「Alphabet成為數十年來第一家發行百年期債券的科技公司。」"
-        },
-        {
-          "sentence": "In total, it raised $31.51 billion in February across its global bond offering, tapping sterling and Swiss franc markets alongside US dollar issuance.",
-          "translation": "「總計，它在二月份透過全球債券發行，籌集了315.1億美元，除了美元債券外，也涉足了英鎊和瑞士法郎市場。」"
-        },
-        {
-          "sentence": "\"The AI investment boom is reshaping how capital is allocated across the entire financial system,\" Kobeissi researchers said.",
-          "translation": "「Kobeissi的研究人員表示：『人工智慧的投資熱潮正在重塑整個金融體系的資金配置方式。』」"
+          "sentence": "But the administration's approach could pose problems for more than just Anthropic.",
+          "translation": "然而，政府當局的這種做法可能不僅僅會給 Anthropic 帶來問題。"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "violence_connection": "今日台股大戶籌碼動向，在國際財經新聞的映照下，赫然揭示外資對AI產業鏈的微妙態度轉變。儘管美股科技股近期表現強勁，但新任聯準會主席Kevin Warsh可能採取鷹派立場、提高利率以抑制通膨的消息，無疑為高度依賴債務融資推動AI擴張的美國科技巨頭敲響警鐘。這則在台灣時間下午或晚上見報的新聞，似乎已在今日台股盤中被外資提前消化並反映。\n\n觀察外資賣超榜，赫然發現仁寶與緯創等AI伺服器供應鏈關鍵廠商名列其中。這並非巧合，而是外資對「AI投資熱潮」可能面臨「資本成本上升」的預先部署。當Alphabet這類AI巨頭的融資成本墊高，其大規模的AI基礎設施建置速度便可能放緩，直接衝擊台灣的ODM代工廠。外資此舉，可被解讀為對未來訂單成長動能放緩的避險操作，將資金從直接受AI資本支出影響的環節撤出。\n\n與此同時，外資大買力積電、京元電子、日月光投控等半導體製造與封測業者，以及定穎投控等PCB廠，顯示其並非全面看空科技業，而是進行結構性調整。這可能代表資金正從高槓桿、高成長預期的AI伺服器組裝環節，轉向更具基礎性、相對穩健的半導體核心元件供應商。這場「資訊暴力聯結」揭示，大戶正透過籌碼流向，精準演繹對全球資金成本變化與AI產業鏈傳導效應的深刻洞察，提前為市場的潛在變局進行佈局。"
+    "violence_connection": "6/23的台股數據揭示了外資與自營商對半導體供應鏈的精準佈局，與前一日（6/22）國際科技財經新聞中的Intel CEO言論形成暴力聯結。Intel執行長Lip-Bu Tan於台灣時間6/23清晨發布的訪談中明確指出，AI投資的重心正從單純的GPU轉向更深層次的「硬體基礎設施」與CPU需求，並強調「目前對CPU的需求非常高」。此言一出，當日台股市場便見外資大買京元電子、聯電、強茂、南茂等封測與晶圓代工廠，自營商也同步加碼聯電、南茂，甚至連高階ABF載板廠南電也榜上有名。這絕非巧合，而是大戶資金對市場新敘事的「即時解讀與迅速反應」。外資與自營商顯然將Intel CEO的「CPU需求強勁」視為AI供應鏈新一輪洗牌的訊號。當AI運算從訓練走向推論、從雲端走向邊緣，對CPU與其周邊基礎設施的需求將顯著提升。台股的聯電作為成熟製程晶圓代工廠，京元電子、南茂作為關鍵封測夥伴，以及南電作為高階載板供應商，都將直接受惠於這股趨勢。大戶們的買超行為，正是在預先卡位這波由CPU驅動的「後GPU時代」AI基礎設施紅利。與此同時，投信則在聯電與南茂上呈現賣超，這可能反映了內資與外資對短期獲利了結與長期趨勢佈局的不同策略，但外資與自營商的同步買進，無疑是對Intel新敘事的強烈背書，預示著台灣半導體產業在AI浪潮中的新角色。"
   }
 }
