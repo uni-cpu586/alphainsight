@@ -8,7 +8,9 @@ from bs4 import BeautifulSoup
 
 def get_latest_trading_day():
     # Helper to find the latest trading day (excluding weekends)
-    today = datetime.date.today()
+    # Use Taiwan Time (UTC+8) to ensure correct date mapping when run on GitHub Actions in UTC
+    tz_offset = datetime.timezone(datetime.timedelta(hours=8))
+    today = datetime.datetime.now(tz_offset).date()
     return today
 
 def fetch_twse_data(target_date):

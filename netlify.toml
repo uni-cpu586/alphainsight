@@ -2,4 +2,5 @@
 # This tells Netlify to publish the "frontend" folder instead of the root folder.
 
 [build]
+  command = "echo 'No build'"
   publish = "frontend"
