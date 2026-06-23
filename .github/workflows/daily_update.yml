@@ -7,6 +7,8 @@ on:
 jobs:
   update-insights:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - name: 複製專案程式碼 (Checkout)
       uses: actions/checkout@v4
@@ -84,3 +86,8 @@ jobs:
           git pull --rebase origin main
           git push origin main
         fi
+    - name: Deploy to GitHub Pages
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        folder: frontend
+        branch: gh-pages
