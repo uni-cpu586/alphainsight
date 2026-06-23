@@ -12,28 +12,56 @@ def get_latest_trading_day():
     return today
 
 def fetch_twse_data(target_date):
+    import time
     date_str = target_date.strftime("%Y%m%d")
-    url = f"https://www.twse.com.tw/rwd/zh/fund/T86?response=json&date={date_str}&selectType=ALL"
-    print(f"Fetching TWSE data for {date_str} from: {url}")
     
-    try:
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-        response = requests.get(url, headers=headers, timeout=10)
-        if response.status_code != 200:
-            print(f"Failed to fetch TWSE. Status code: {response.status_code}")
-            return None
-        
-        json_data = response.json()
-        if json_data.get("stat") != "OK":
-            print(f"TWSE returned status: {json_data.get('stat')}")
-            return None
+    # Try both RWD and non-RWD URL patterns to be extra robust
+    urls = [
+        f"https://www.twse.com.tw/rwd/zh/fund/T86?response=json&date={date_str}&selectType=ALL",
+        f"https://www.twse.com.tw/fund/T86?response=json&date={date_str}&selectType=ALL"
+    ]
+    
+    session = requests.Session()
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "application/json, text/javascript, */*; q=0.01",
+        "Accept-Language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Referer": "https://www.twse.com.tw/zh/fund/T86"
+    }
+    session.headers.update(headers)
+    
+    max_retries = 3
+    for url in urls:
+        for attempt in range(max_retries):
+            try:
+                print(f"Fetching TWSE data for {date_str} from: {url} (Attempt {attempt+1}/{max_retries})")
+                response = session.get(url, timeout=15)
+                
+                if response.history:
+                    print(f"  Redirect history: {[r.status_code for r in response.history]} -> {response.url}")
+                    
+                if response.status_code == 200:
+                    json_data = response.json()
+                    stat = json_data.get("stat", "")
+                    if stat == "OK":
+                        return json_data
+                    else:
+                        print(f"  TWSE returned status: {stat}")
+                        # If the day has no trading data (holiday/weekend), we don't need to retry
+                        if "沒有符合條件的資料" in stat or "查詢無資料" in stat:
+                            break
+                elif response.status_code in [307, 429, 500, 502, 503, 504]:
+                    print(f"  Failed with status code: {response.status_code}. Retrying...")
+                else:
+                    print(f"  Failed to fetch TWSE. Status code: {response.status_code}")
+                    break
+            except Exception as e:
+                print(f"  Error fetching TWSE data: {e}")
             
-        return json_data
-    except Exception as e:
-        print(f"Error fetching TWSE data: {e}")
-        return None
+            if attempt < max_retries - 1:
+                time.sleep(2)
+                
+    return None
 
 def parse_twse_data(json_data):
     fields = json_data.get("fields", [])
