@@ -1,183 +1,264 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "stock_uncle_insight": {
-    "date_header": "6/24 法人與主力大戶主要買超股票",
+    "date_header": "6/25 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃航空、金融與部分晶圓代工",
+        "group_title": "1. 外資大戶：高檔出貨電子，轉進傳產與防禦型",
         "stocks": [
           {
-            "stock_name": "華航",
-            "ticker": "2610",
-            "description": "肖年仔，外資大戶狂掃 3.37 萬張華航，這擺明就是看好解封後的航空復甦行情，外資在卡位，準備拉高出貨，別傻傻追高啊！"
-          },
-          {
-            "stock_name": "京元電子",
-            "ticker": "2449",
-            "description": "外資買超 3.15 萬張京元電子，封測廠被外資看上，可能跟半導體產業鏈的訂單能見度有關，或是搭上Intel CEO說的AI基礎建設題材，但也要小心隔日沖。"
-          },
-          {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "外資買超 2.75 萬張聯電，晶圓代工二哥，外資跟自營商同步敲進，但投信卻在倒貨，這就是典型的法人對作，看誰的拳頭硬，肖年仔別黑白猜。"
-          },
-          {
-            "stock_name": "凱基金",
-            "ticker": "2883",
-            "description": "外資買超 2.34 萬張凱基金，金融股是避險好標的，外資在找資金避風港，這檔買超量不小，值得注意，但別以為穩賺不賠。"
-          },
-          {
-            "stock_name": "台新新光金",
-            "ticker": "2887",
-            "description": "外資買超 2.06 萬張台新新光金，跟凱基金一樣，外資在佈局金融，但投信卻在賣，這也是法人對作，小心別接刀。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：穩健佈局傳產、金融與記憶體",
-        "stocks": [
-          {
-            "stock_name": "南亞",
-            "ticker": "1303",
-            "description": "投信狂買 4.06 萬張南亞，傳產龍頭，投信在作帳，這種穩健的標的是他們的最愛，可能是低基期卡位，準備拉抬績效。"
-          },
-          {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "投信買超 3.97 萬張華邦電，外資在倒貨，投信卻在接，這就是典型的「法人換手」，看好記憶體後市，準備拉抬，肖年仔可以觀察。"
-          },
-          {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "投信買超 2.77 萬張兆豐金，金融股是投信的壓艙石，穩定配息，作帳行情少不了它，但外資卻在賣，要留意。"
-          },
-          {
-            "stock_name": "遠傳",
-            "ticker": "4904",
-            "description": "投信買超 2.49 萬張遠傳，電信股防禦性高，投信在找資金避風港，但外資卻在賣，自營商卻在買，這檔有點複雜，別亂衝。"
-          },
-          {
-            "stock_name": "永豐金",
-            "ticker": "2890",
-            "description": "投信買超 2.48 萬張永豐金，跟兆豐金一樣，投信在佈局金融，穩穩賺，但漲幅可能有限。"
-          }
-        ]
-      },
-      {
-        "group_title": "3. 內資主力與實戶：跟風外資、短線操作半導體與航空",
-        "stocks": [
-          {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "自營商買超 3212 張聯電，跟外資同步買進，這擺明是看好短線有搞頭，準備隔日沖或短波段，肖年仔別傻傻追高。"
+            "stock_name": "力積電",
+            "ticker": "6770",
+            "description": "肖年仔，你看這力積電，外資狂掃 8.32 萬張，這擺明是看好半導體跌深反彈，還是有什麼新題材要點火？但別忘了，外資也不是省油的燈，買這麼多，搞不好是想拉高出貨給散戶接刀！"
           },
           {
             "stock_name": "華航",
             "ticker": "2610",
-            "description": "自營商買超 2893 張華航，跟外資一起買航空，這就是典型的「跟風」，看外資大戶在拉，自己也想分一杯羹，但跑得比誰都快。"
-          },
-          {
-            "stock_name": "三商壽",
-            "ticker": "2867",
-            "description": "自營商買超 1151 張三商壽，壽險股，可能是有特定題材或避險需求，內資主力在偷偷卡位，但量不大，要小心。"
-          },
-          {
-            "stock_name": "南茂",
-            "ticker": "8150",
-            "description": "自營商買超 743 張南茂，跟外資同步買進封測，也是短線操作的痕跡，肖年仔別接刀。"
+            "description": "航空雙雄之一的華航，外資大買 6.13 萬張，這很明顯是看好暑假旺季題材，還是避險資金轉進？但這種股票，漲多也是要小心的，別追高被倒貨了。"
           },
           {
             "stock_name": "長榮航",
             "ticker": "2618",
-            "description": "自營商買超 555 張長榮航，跟華航一樣，航空雙雄都被自營商看上，短線有搞頭，但這種量，隔日沖的機率很高。"
+            "description": "長榮航也跟著華航，外資買超 2.54 萬張。航空股最近很夯，但主力進出頻繁，肖年仔要看清楚，這波是真愛還是隔日沖？"
+          },
+          {
+            "stock_name": "台塑",
+            "ticker": "1301",
+            "description": "傳產龍頭台塑，外資買超 2.06 萬張。這波外資把資金從電子抽出來，轉進塑化這種相對穩定的傳產，擺明是高檔避險，找個資金避風港。"
+          },
+          {
+            "stock_name": "台化",
+            "ticker": "1326",
+            "description": "台化也跟著台塑，外資買超 2.06 萬張。傳產股最近有資金輪動的跡象，外資這是在佈局低基期，還是看好下半年景氣復甦？"
+          },
+          {
+            "stock_name": "臺企銀",
+            "ticker": "2834",
+            "description": "金融股臺企銀，外資買超 1.52 萬張。在大盤震盪的時候，金融股就是外資的避風港，穩穩賺股息，風險又低，這叫作「穩健佈局」。"
+          }
+        ]
+      },
+      {
+        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，鎖定金融與防禦型",
+        "stocks": [
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "投信狂買兆豐金 4.09 萬張，肖年仔，這就是標準的投信作帳行情！金融股高殖利率又穩健，是基金經理人年底衝績效的好標的，而且外資大賣，投信卻大買，這叫「內外資對作」。"
+          },
+          {
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "華邦電被投信買超 3.36 萬張，記憶體族群最近有復甦題材，投信這是在卡位，還是看好下半年漲價效應？"
+          },
+          {
+            "stock_name": "永豐金",
+            "ticker": "2890",
+            "description": "永豐金也獲投信買超 3.02 萬張。投信對金融股的愛，真的是不離不棄，這批國家隊就是喜歡這種穩定的標的，好拉抬又好結帳。"
+          },
+          {
+            "stock_name": "華南金",
+            "ticker": "2880",
+            "description": "華南金被投信買超 2.66 萬張。看來投信這波就是鎖定金融族群，準備一路作帳到年底，肖年仔別傻傻去追高電子股，小心被割韭菜。"
+          },
+          {
+            "stock_name": "玉山金",
+            "ticker": "2884",
+            "description": "玉山金也獲投信買超 2.41 萬張。投信這波對金融股的買超力道很強，這不是單純的買盤，這是有計畫的作帳佈局。"
+          },
+          {
+            "stock_name": "遠傳",
+            "ticker": "4904",
+            "description": "遠傳被投信買超 1.89 萬張。電信股也是防禦性標的，高殖利率，股價波動小，是投信在市場震盪時的避風港。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：短線避險與搶反彈，航空、聯電成焦點",
+        "stocks": [
+          {
+            "stock_name": "華航",
+            "ticker": "2610",
+            "description": "自營商買超華航 0.57 萬張，這跟外資的動作很像，但自營商的單通常比較短線，可能是跟著外資的腳步，也可能是權證避險盤在動。"
+          },
+          {
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "聯電被自營商買超 0.56 萬張，但投信卻是大賣聯電 2.72 萬張。這就是內外資對作的典型，自營商可能在搶跌深反彈，但投信卻在結帳，肖年仔要小心，別接刀接到手軟。"
+          },
+          {
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "群創被自營商買超 0.13 萬張，面板股最近有報價回穩的聲音，自營商這是在卡位，還是純粹的短線交易？但外資卻是大賣群創 2.52 萬張，這也是內外資不同調。"
+          },
+          {
+            "stock_name": "力積電",
+            "ticker": "6770",
+            "description": "力積電自營商也買超 0.12 萬張，跟外資的買超方向一致。這表示市場對這檔股票的短線動能有共識，但自營商的單，通常隔日沖的機率很高，別傻傻跟著追高。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔避險與資金避風港（金融、航空、電信）",
-        "strategy_content": "肖年仔，大盤在高檔震盪，大戶們可不是傻子，資金當然要找地方躲。外資狂掃華航、金融股，投信也買進兆豐金、遠傳這種防禦性高的電信股，這就是典型的避險操作。航空股則是看好解封後的報復性消費，提前卡位，準備拉高出貨，但也要小心漲多回檔。"
+        "strategy_title": "策略一：高檔避險與資金避風港（金融、航空、傳產）",
+        "strategy_content": "肖年仔，你看外資這波操作，大賣 0050、台積電、友達這些高價電子股，轉頭就去掃航空、塑化、鋼鐵、金融這些相對低基期或有旺季題材的板塊。這擺明了就是在大盤高檔震盪時，把資金從高風險的電子股撤出來，找個安全的地方避風頭。金融股有高殖利率，傳產股有景氣復甦預期，航空股有暑假旺季，這都是聰明錢在找的避險標的啦！"
       },
       {
-        "strategy_title": "策略二：半導體產業鏈的重新洗牌與佈局",
-        "strategy_content": "Intel CEO都說了，AI不只看GPU，CPU跟基礎建設更重要。外資大買聯電、京元電子、南茂，自營商也跟進，這表示他們看好半導體產業鏈的擴散效應。但投信卻在賣聯電、南茂，這就是法人對作，看誰對產業趨勢看得更遠。同時，投信買進華邦電、南亞科，可能是在低檔佈局記憶體，準備等外資回頭接手，肖年仔別黑白猜，要看清楚。"
+        "strategy_title": "策略二：投信作帳與高殖利率卡位（金融、電信、部分傳產）",
+        "strategy_content": "本土國家隊投信，這次很明顯就是提前啟動作帳行情了。狂掃兆豐金、永豐金、華南金、玉山金這些金融股，還有遠傳這種電信股，這些都是高殖利率、股價波動小的防禦型標的。基金經理人就是要靠這些股票來衝年底績效，拉高淨值。肖年仔，看到投信這樣買，就知道他們在為年底的獎金努力了，這波金融股可能還有戲唱，但別追高，等拉回再說。"
       },
       {
-        "strategy_title": "策略三：投信作帳行情與傳產低基期卡位",
-        "strategy_content": "投信大戶狂掃南亞、遠東新等傳產股，還有多檔金融股，這擺明就是作帳行情。這些股票通常股性較穩，殖利率也高，在大盤震盪時，是投信鎖碼的好標的，準備在季底或年底拉抬績效。外資雖然有賣一些金融，但整體來看，金融股仍是法人資金的重要去處，肖年仔可以觀察這些穩健的標的。"
+        "strategy_title": "策略三：新技術題材點火與跌深反彈（記憶體、面板、晶圓代工）",
+        "strategy_content": "外資買力積電，投信買華邦電、南亞科，自營商買聯電、群創。這些股票之前都跌得鼻青臉腫，現在記憶體有復甦題材，面板報價也傳出回穩，晶圓代工也有訂單能見度。主力大戶可能是在底部點火，或是搶一波跌深反彈。但這種股票波動大，肖年仔如果沒有兩把刷子，很容易被洗出場，甚至接到刀子，所以要特別小心。"
       }
     ],
-    "summary": "肖年仔，今天三大法人各懷鬼胎，外資狂掃航空跟部分金融、半導體，投信則在傳產、金融跟記憶體作帳，自營商則跟風外資搞短線。市場資金流向很分歧，別黑白買，看清楚主力意圖才不會被割韭菜！",
+    "summary": "肖年仔，今天三大法人動作很明確，外資在電子股高檔出貨，轉進傳產與金融避險；投信則是鎖定金融股作帳，準備衝年底績效。內資主力則是在航空、聯電這些股票上短線進出。總之，市場資金正在輪動，別傻傻追高，小心被主力割韭菜！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 1.18 萬張",
-        "uncle_logic": "肖年仔，高盛這種外資大戶狂掃華航，這不是短線仔會幹的事。這擺明是看好後疫情時代的航空復甦大行情，準備長線佈局，等股價噴上去再慢慢倒貨給散戶，別傻傻去當接盤俠。"
+        "action": "買超 2.91 萬張",
+        "uncle_logic": "高盛這外資大咖，狂掃力積電 2.91 萬張，這不是看好半導體復甦，就是有什麼獨家消息。但外資的單，通常都是大進大出，肖年仔別看到外資買就黑白買，小心變成抬轎的。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 1284 張",
-        "uncle_logic": "凱基台北這分點，就是典型的隔日沖大本營！買聯電這種權值股，擺明就是看好今天有量，明天準備拉高出貨，肖年仔別傻傻去接刀啊！"
+        "action": "買超 0.23 萬張",
+        "uncle_logic": "凱基台北這分點，買超華航 0.23 萬張，這就是標準的短線主力，搞不好明天就隔日沖倒貨了。肖年仔，看到這種分點進場，心裡要有數，別傻傻去接刀。"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 1.82 萬張",
-        "uncle_logic": "元大投信這種本土國家隊，大買南亞這種傳產龍頭，很明顯就是在作帳，或是看好低基期傳產股的價值。他們不會像外資那樣大進大出，而是穩穩地鎖碼，準備拉抬績效，肖年仔可以跟著吃豆腐。"
+        "action": "買超 1.84 萬張",
+        "uncle_logic": "元大投信買超兆豐金 1.84 萬張，這就是本土國家隊在作帳了。金融股穩健，高殖利率，是投信的最愛。這波買盤很紮實，肖年仔可以多留意金融股的後續表現。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 1.15 萬張",
-        "uncle_logic": "摩根大通這種外資大戶在倒貨台玻，這不是沒原因的。可能是獲利了結，也可能是對傳產前景有疑慮，肖年仔看到這種大咖在賣，可別黑白猜，小心點好！"
+        "action": "賣超 3.78 萬張",
+        "uncle_logic": "摩根大通大賣元大台灣50 3.78 萬張，這外資大咖在賣 ETF，很明顯就是對大盤指數的看法比較保守，或是把資金抽出來轉進其他個股。肖年仔，這代表大盤可能還有震盪，操作要更謹慎。"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "Intel CEO gives investors a reality check",
+      "title": "Czech billionaire extracts £114m from Royal Mail owner",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/intel-ceo-gives-investors-reality-184700678.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/czech-billionaire-extracts-114m-royal-145510693.html",
       "level1_blind": {
-        "text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nAI stock investors have essentially been trained to follow a rule to invest in businesses closest to GPUs, data centers, and hyperscaler spending.\n\nIntel (INTC) CEO Lip-Bu Tan just flipped that script on the June 18 episode of No Priors: AI, Machine Learning, Tech, & Startups.\n\nTan believes that the AI trade is effectively moving beyond a simple GPU story and into harder infrastructure layers behind it\n\nHe effectively laid out a far bigger map of where the semiconductor space is being stretched.\n\nThat gives Intel a remarkably ambitious investor narrative, but also a tougher test in proving it can execute where the entire AI supply chain is under pressure.\n\nIntel CEO Lip-Bu Tan used the No Priors podcast to push the AI investment debate beyond GPUs.\n\nTan argued that the old training setup relied too heavily on GPUs, but newer AI workloads require much more orchestration, reinforcement learning, and coordination across agents. That is bringing CPUs back into the discussion. “Right now, the demand is very high for my CPU,” he said."
+        "text": "Royal Mail's billionaire owner has extracted £114m from the postal service's owner even as it grapples with a letter-delay crisis.\n\nThe money was paid out last year to a company controlled by Daniel Křetínský, the Czech tycoon who bought Royal Mail, to cover interest payments linked to his debt-fuelled £3.6bn takeover.\n\nThe payout appears to run counter to the billionaire's promise not to pay dividends from the business unless performance improved.\n\nSpeaking in front of MPs earlier this year, Mr Křetínský said Royal Mail would not distribute dividends if its quality of service deteriorated compared with before the takeover.\n\nThe latest Ofcom figures show the postal service delivered just 75.7pc of letters on time last year, down from 76.5pc in the prior year.\n\nRoyal Mail insisted that the £114m payment did not qualify as a dividend as it was only being used to service debt and had not been paid out to Mr Křetínský's EP Group.\n\nA spokesman for Royal Mail's parent company International Distribution Services (IDS) said: \"IDS did not pay a dividend to EP Group.\n\n\"The dividend was paid by IDS to its immediate UK parent, EP Distribution Services Limited, and was ultimately used to fund interest on the debt that financed EP's acquisition of IDS.\""
       },
       "level2_keywords": [
         {
-          "word": "GPUs",
-          "ipa": "/ˌdʒiː.piːˈjuːz/",
-          "meaning": "繪圖處理器。最初用於處理電腦繪圖，現已成為人工智慧（AI）運算的核心硬體，尤其在深度學習和機器學習領域扮演關鍵角色。",
-          "example": "「Nvidia 的高階 GPUs 在AI訓練市場上幾乎是獨佔鰲頭。」"
+          "word": "extracted",
+          "ipa": "/ɪkˈstræktɪd/",
+          "meaning": "提取、取出（指從公司獲取資金）",
+          "example": "The billionaire *extracted* a significant sum from the company despite its financial struggles."
         },
         {
-          "word": "Hyperscaler",
-          "ipa": "/ˈhaɪ.pərˌskeɪ.lər/",
-          "meaning": "超大規模雲端服務商。指那些提供大規模雲端運算基礎設施的巨頭公司，如Amazon AWS、Microsoft Azure和Google Cloud，它們是AI運算資源的主要需求方。",
-          "example": "「各大 Hyperscaler 為了滿足AI需求，正積極擴建其資料中心。」"
+          "word": "grapples with",
+          "ipa": "/ˈɡræpəlz wɪð/",
+          "meaning": "努力應對、掙扎",
+          "example": "Royal Mail *grapples with* a letter-delay crisis, affecting its service quality."
         },
         {
-          "word": "Semiconductor",
-          "ipa": "/ˌsem.i.kənˈdʌk.tər/",
-          "meaning": "半導體。指介於導體和絕緣體之間的材料，是所有現代電子產品（包括AI晶片）的基礎。",
-          "example": "「全球 Semiconductor 供應鏈的穩定性，對科技產業至關重要。」"
+          "word": "takeover",
+          "ipa": "/ˈteɪkˌoʊvər/",
+          "meaning": "收購、併購",
+          "example": "The debt-fuelled *takeover* of Royal Mail raised concerns about its future."
         },
         {
-          "word": "Orchestration",
-          "ipa": "/ˌɔːr.kəˈstreɪ.ʃən/",
-          "meaning": "編排/協調。在軟體或系統架構中，指自動化多個獨立服務、應用程式或元件之間的協調與管理，使其能協同工作以完成複雜任務。在AI領域，特別指管理和優化不同AI模型、資料流和硬體資源的運作。",
-          "example": "「新的AI工作負載需要更精密的資源 Orchestration，才能發揮最大效能。」"
+          "word": "dividends",
+          "ipa": "/ˈdɪvɪdɛndz/",
+          "meaning": "股息、紅利",
+          "example": "The company promised not to pay *dividends* unless performance improved."
         },
         {
-          "word": "CPUs",
-          "ipa": "/ˌsiː.piːˈjuːz/",
-          "meaning": "中央處理器。電腦的核心運算單元，負責執行指令和處理資料。雖然在AI訓練中常被GPU取代，但在某些AI推論和通用運算任務中仍扮演重要角色。",
-          "example": "「Intel 認為，隨著AI應用多元化，CPUs 在整體AI架構中的重要性將會回升。」"
+          "word": "service debt",
+          "ipa": "/ˈsɜːrvɪs dɛt/",
+          "meaning": "償還債務、支付債務利息",
+          "example": "The payment was used to *service debt* linked to the acquisition."
         }
       ],
-      "level2_context": "各位同學，這則新聞的背景是，過去幾年AI產業的投資熱潮，主要都聚焦在繪圖處理器（GPU）及其相關的資料中心與超大規模雲端服務商（Hyperscaler）的支出上，因為GPU在AI模型訓練上具有強大優勢。然而，Intel的執行長Lip-Bu Tan現在提出了一個不同的觀點，他認為AI的發展已經超越了單純依賴GPU的階段，開始進入更深層次的基礎設施層面。這意味著，未來的AI工作負載將需要更複雜的協調（Orchestration）、強化學習（Reinforcement Learning）以及跨代理的協同合作，而這些需求將讓中央處理器（CPU）重新回到AI運算的核心討論中。對於Intel來說，這是一個極具野心的投資敘事，因為CPU是其傳統強項，這也代表他們正試圖在整個AI供應鏈面臨壓力的情況下，證明其執行能力，並在AI市場中重新定義自己的角色。簡單來說，就是Intel要告訴大家，AI不只是GPU的天下，CPU也有它不可或缺的地位。",
+      "level2_context": "各位同學，這則新聞揭示了一個在企業併購中常見的財務操作與公眾責任之間的張力。一位億萬富翁透過大量舉債來收購英國皇家郵政，這在財經界稱為「槓桿收購」（Leveraged Buyout）。通常，收購方會利用被收購公司的未來現金流來償還這筆債務。然而，這位老闆曾承諾，如果皇家郵政的服務品質下降，就不會發放股息。但現在，儘管服務品質確實惡化，卻有一筆資金被「提取」出來，用於支付收購時所產生的債務利息。這引發了外界質疑，這是否變相違背了當初的承諾，因為這筆錢雖然名義上不是股息，但實質上仍是從公司流出，用於滿足老闆的財務需求。這對我們理解企業治理、股東利益與公共服務之間的平衡，提供了很好的案例。",
+      "level3_translation": [
+        {
+          "sentence": "Royal Mail's billionaire owner has extracted £114m from the postal service's owner even as it grapples with a letter-delay crisis.",
+          "translation": "英國皇家郵政的億萬富翁老闆，儘管這家郵政服務公司正努力應對信件延誤危機，卻仍從其母公司提取了1.14億英鎊。"
+        },
+        {
+          "sentence": "The money was paid out last year to a company controlled by Daniel Křetínský, the Czech tycoon who bought Royal Mail, to cover interest payments linked to his debt-fuelled £3.6bn takeover.",
+          "translation": "這筆資金去年支付給了由丹尼爾·克雷廷斯基（這位收購皇家郵政的捷克大亨）所控制的一家公司，用來支付與他以債務為基礎、耗資36億英鎊的收購案相關的利息。"
+        },
+        {
+          "sentence": "The payout appears to run counter to the billionaire's promise not to pay dividends from the business unless performance improved.",
+          "translation": "這筆支付似乎與這位億萬富翁先前「除非業績改善，否則不會從公司發放股息」的承諾背道而馳。"
+        },
+        {
+          "sentence": "Speaking in front of MPs earlier this year, Mr Křetínský said Royal Mail would not distribute dividends if its quality of service deteriorated compared with before the takeover.",
+          "translation": "今年稍早，克雷廷斯基先生在國會議員面前表示，如果皇家郵政的服務品質與收購前相比有所惡化，公司將不會發放股息。"
+        },
+        {
+          "sentence": "The latest Ofcom figures show the postal service delivered just 75.7pc of letters on time last year, down from 76.5pc in the prior year.",
+          "translation": "英國通訊管理局（Ofcom）的最新數據顯示，去年這家郵政服務公司僅有75.7%的信件準時送達，低於前一年的76.5%。"
+        },
+        {
+          "sentence": "Royal Mail insisted that the £114m payment did not qualify as a dividend as it was only being used to service debt and had not been paid out to Mr Křetínský's EP Group.",
+          "translation": "皇家郵政堅稱，這1.14億英鎊的支付不屬於股息，因為它僅用於償還債務，且並未支付給克雷廷斯基先生的EP集團。"
+        },
+        {
+          "sentence": "A spokesman for Royal Mail's parent company International Distribution Services (IDS) said: \"IDS did not pay a dividend to EP Group.",
+          "translation": "皇家郵政的母公司國際配送服務（IDS）的一位發言人表示：「IDS並未向EP集團支付股息。」"
+        },
+        {
+          "sentence": "\"The dividend was paid by IDS to its immediate UK parent, EP Distribution Services Limited, and was ultimately used to fund interest on the debt that financed EP's acquisition of IDS.\"",
+          "translation": "「這筆股息是由IDS支付給其在英國的直接母公司EP Distribution Services Limited，最終用於支付EP收購IDS時所融資債務的利息。」"
+        }
+      ]
+    },
+    {
+      "news_id": "news_2",
+      "title": "As Centrus Order Backlog Swells, Growth Acceleration Can Trigger Stock Upside",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/centrus-order-backlog-swells-growth-145009950.html",
+      "level1_blind": {
+        "text": "As Centrus Order Backlog Swells, Growth Acceleration Can Trigger Stock Upside\nCentrus Energy (LEU) has a unique positioning as the only publicly traded, deployment-ready enricher that's positioned to fuel the future of nuclear power. LEU stock's performance has however been middling with a decline of 4% in the last 52-weeks."
+      },
+      "level2_keywords": [
+        {
+          "word": "backlog",
+          "ipa": "/ˈbækˌlɔɡ/",
+          "meaning": "訂單積壓；待處理業務",
+          "example": "The company's substantial order backlog ensures stable revenue for years to come."
+        },
+        {
+          "word": "enricher",
+          "ipa": "/ɪnˈrɪtʃər/",
+          "meaning": "濃縮商；提供核燃料濃縮服務的公司",
+          "example": "As the sole domestic enricher, Centrus plays a critical role in the U.S. nuclear supply chain."
+        },
+        {
+          "word": "nuclear power",
+          "ipa": "/ˈnuːkliər ˈpaʊər/",
+          "meaning": "核能；利用核反應產生的能量",
+          "example": "Many countries are turning to nuclear power as a reliable, low-carbon energy source."
+        },
+        {
+          "word": "revenue visibility",
+          "ipa": "/ˈrɛvəˌnuː ˌvɪzəˈbɪləti/",
+          "meaning": "營收能見度；未來營收的可預測性",
+          "example": "Long-term contracts significantly improve a company's revenue visibility, attracting investors."
+        },
+        {
+          "word": "HALEU",
+          "ipa": "/ˈheɪluː/",
+          "meaning": "高豐度低濃縮鈾；一種用於新型核反應爐的先進核燃料",
+          "example": "The development of HALEU is crucial for the next generation of small modular reactors."
+        }
+      ],
+      "level2_context": "各位同學，這篇新聞主要聚焦在美國一家核燃料供應商Centrus Energy (LEU)。在全球尋求潔淨能源、減少碳排放的趨勢下，核能作為一種穩定且低碳的發電方式，其重要性日益提升。然而，核燃料的供應鏈，特別是高階核燃料如『高豐度低濃縮鈾』（HALEU），長期以來都面臨供應不足的挑戰。美國政府也意識到這項戰略物資的重要性，正積極推動國內生產。\n\nCentrus Energy在這樣的背景下，作為美國唯一一家準備好商業化部署的核燃料濃縮商，其地位顯得格外關鍵。新聞提到該公司與Oklo簽署了長期供貨協議，將為新型核反應爐提供HALEU，這不僅確保了Centrus未來的營收，也解決了部分市場對先進核燃料供應的擔憂。儘管其股價近期表現平平，但龐大的訂單積壓和長期合約，為其提供了強勁的『營收能見度』，這對投資人來說是一個重要的利多信號。這也解釋了為何在股價修正後，市場認為這是一個不錯的『累積機會』。",
       "level3_translation": [
         {
           "sentence": "The above button links to Coinbase.",
-          "translation": "「上方按鈕連結到加密貨幣交易平台Coinbase。」"
+          "translation": "「上方按鈕會連結到Coinbase。」"
         },
         {
           "sentence": "Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading.",
@@ -189,246 +270,146 @@
         },
         {
           "sentence": "Prices displayed are informational.",
-          "translation": "「所顯示的價格僅供參考。」"
+          "translation": "「顯示的價格僅供參考。」"
         },
         {
-          "sentence": "AI stock investors have essentially been trained to follow a rule to invest in businesses closest to GPUs, data centers, and hyperscaler spending.",
-          "translation": "「人工智慧（AI）概念股的投資人，基本上已被訓練成遵循一個原則：投資那些與繪圖處理器（GPU）、資料中心以及超大規模雲端服務商（Hyperscaler）支出最相關的企業。」"
+          "sentence": "Centrus Energy (LEU) has a unique positioning as the only publicly traded, deployment-ready enricher that's positioned to fuel the future of nuclear power.",
+          "translation": "「Centrus Energy（股票代號LEU）擁有獨特的市場定位，是唯一一家公開上市、準備好商業化部署的核燃料濃縮商，有望為未來的核能發展提供燃料。」"
         },
         {
-          "sentence": "Intel (INTC) CEO Lip-Bu Tan just flipped that script on the June 18 episode of No Priors: AI, Machine Learning, Tech, & Startups.",
-          "translation": "「Intel（股票代號：INTC）執行長Lip-Bu Tan，在6月18日的『No Priors: AI, Machine Learning, Tech, & Startups』節目中，徹底顛覆了這個既定劇本。」"
+          "sentence": "LEU stock's performance has however been middling with a decline of 4% in the last 52-weeks.",
+          "translation": "「然而，LEU的股價表現一直平平，在過去52週內下跌了4%。」"
         },
         {
-          "sentence": "Tan believes that the AI trade is effectively moving beyond a simple GPU story and into harder infrastructure layers behind it",
-          "translation": "「Tan認為，AI的投資趨勢正有效地從單純的GPU敘事，轉向背後更複雜的基礎設施層面。」"
+          "sentence": "However, this should not be a deterrent from considering exposure to LEU stock.",
+          "translation": "「不過，這不應阻礙投資人考慮佈局LEU股票。」"
         },
         {
-          "sentence": "He effectively laid out a far bigger map of where the semiconductor space is being stretched.",
-          "translation": "「他有效地描繪出半導體產業版圖正在擴展的更宏大願景。」"
+          "sentence": "On the contrary, the sideways movement provides a good opportunity for exposure as Centrus Energy positions itself to benefit from the LEU (Low-Enriched Uranium) and HALEU (High-Assay Low-Enriched Uranium) market.",
+          "translation": "「相反地，這種盤整走勢提供了一個良好的佈局機會，因為Centrus Energy正積極佈局，準備從低濃縮鈾（LEU）和高豐度低濃縮鈾（HALEU）市場中獲利。」"
         },
         {
-          "sentence": "That gives Intel a remarkably ambitious investor narrative, but also a tougher test in proving it can execute where the entire AI supply chain is under pressure.",
-          "translation": "「這賦予了Intel一個極具企圖心的投資論述，但同時也面臨更嚴峻的考驗，必須證明它能在整個AI供應鏈都面臨壓力的情況下，仍能有效執行其策略。」"
+          "sentence": "The Big Tech Investment Cycle is Shifting, and Chevron Just Wrote the Blueprint for the AI Power Trade.",
+          "translation": "「大型科技的投資週期正在轉變，而雪佛龍（Chevron）剛為AI電力交易寫下了藍圖。」"
         },
         {
-          "sentence": "Intel CEO Lip-Bu Tan used the No Priors podcast to push the AI investment debate beyond GPUs.",
-          "translation": "「Intel執行長Lip-Bu Tan利用『No Priors』播客節目，將AI投資的討論推向超越GPU的範疇。」"
+          "sentence": "In an important step towards that direction, Oklo (OKLO) and Centrus Energy signed a letter of intent to purchase nuclear fuel for the former's Aurora Powerhouse deployment.",
+          "translation": "「朝著這個方向邁出的重要一步是，Oklo（股票代號OKLO）與Centrus Energy簽署了一份意向書，將為前者『Aurora發電廠』的部署採購核燃料。」"
         },
         {
-          "sentence": "Tan argued that the old training setup relied too heavily on GPUs, but newer AI workloads require much more orchestration, reinforcement learning, and coordination across agents.",
-          "translation": "「Tan主張，舊有的AI訓練架構過度依賴GPU，但更新的AI工作負載需要更多的編排（Orchestration）、強化學習（Reinforcement Learning）以及跨代理的協調。」"
+          "sentence": "As a part of this agreement, Centrus would supply HALEU to five Aurora powerhouses for multiple years, with deliveries to Oklo beginning in 2029.",
+          "translation": "「作為這項協議的一部分，Centrus將在未來數年內向五座『Aurora發電廠』供應高豐度低濃縮鈾（HALEU），預計於2029年開始向Oklo交貨。」"
         },
         {
-          "sentence": "That is bringing CPUs back into the discussion.",
-          "translation": "「這使得中央處理器（CPU）重新回到討論的焦點。」"
+          "sentence": "The long-term agreement will support Centrus Energy's revenue visibility.",
+          "translation": "「這項長期協議將有助於提升Centrus Energy的營收能見度。」"
         },
         {
-          "sentence": "“Right now, the demand is very high for my CPU,” he said.",
-          "translation": "「他表示：『目前，市場對我的CPU需求非常高。』」"
-        }
-      ]
-    },
-    {
-      "news_id": "news_2",
-      "title": "52-year-old Outback Steakhouse rival chain closes 24 locations",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/economy/articles/52-old-outback-steakhouse-rival-194700477.html",
-      "level1_blind": {
-        "text": "Rising food costs driven by inflation have been a problem for U.S. steakhouses ranging from high-end to budget establishments, leading some well-known restaurants to permanently shut their doors and in some cases file for bankruptcy\n\nAn increase in the cost of beef that led to steak prices spiking 16% to $12.73 per pound in March 2026, according to data from the Federal Reserve Bank of St. Louis, affected menu prices and discouraged some diners from dining in steakhouses, taking a bite out of restaurant revenue.\n\nSteakhouses that have closed locations in the U.S. over the last three months have included Fleming's Prime Steakhouse and Wine Bar, McCormick & Schmick's, and Stoney River Steakhouse and Grill, with Quaker Steak & Lube about to close one, too.\n\nA Golden Corral restaurant franchisee, Conroe Corral Murphy LLC, however filed for Chapter 11 bankruptcy in Texas on June 8 and continues to operate.\n\nOutback Steakhouse's owner Bloomin' Brands closed 21 locations in 2025 and said it would close another 22 locations in 2026 as leases expire, according to its third quarter earnings call.\n\n\"After almost 23 years of service, Quaker Steak & Lube is closing its doors after business closes on July 5th,\" Smith, who worked at the restaurant since 2009, said.\n\nNeither Smith nor Quaker Steak Lube stated a reason for closing the location, which opened in 2003. Smith said she began working at the restaurant in August 2009.\n\nThe Quaker Steak & Lube chain opened in 1974 in an abandoned gas station in Sharon, Pa., as a muscle car-themed, cook-your-own-steak restaurant chain."
-      },
-      "level2_keywords": [
-        {
-          "word": "bankruptcy",
-          "ipa": "/ˈbæŋkrʌptsi/",
-          "meaning": "破產（指個人或企業因無法償還債務而宣告無力償債的法律狀態）",
-          "example": "「The company filed for bankruptcy after years of declining sales.」"
+          "sentence": "Headquartered in Bethesda, Maryland, Centrus Energy is a supplier of nuclear fuel components for the nuclear power industry.",
+          "translation": "「Centrus Energy總部位於馬里蘭州的貝塞斯達，是核能產業的核燃料組件供應商。」"
         },
         {
-          "word": "franchisee",
-          "ipa": "/ˌfrænʧaɪˈziː/",
-          "meaning": "加盟商（指獲得特許經營權，經營特定品牌或業務的獨立企業或個人）",
-          "example": "「As a franchisee, you operate under the brand's established guidelines.」"
+          "sentence": "The company operates in two business segments: LEU, which supplies various components of nuclear fuel and Technical Solutions, which provides advanced uranium enrichment for the nuclear industry and the U.S. government.",
+          "translation": "「該公司經營兩個業務部門：『低濃縮鈾（LEU）』部門，負責供應各種核燃料組件；以及『技術解決方案』部門，為核能產業和美國政府提供先進的鈾濃縮服務。」"
         },
         {
-          "word": "earnings call",
-          "ipa": "/ˈɜːrnɪŋz kɔːl/",
-          "meaning": "財報電話會議（上市公司向投資者和分析師公佈財務業績並回答問題的會議）",
-          "example": "「Investors closely watched the company's latest earnings call for future guidance.」"
+          "sentence": "Since 1998, Centrus has provided its utility customers with 1,850 reactor years of fuel, which is equivalent to more than seven billion tons of coal.",
+          "translation": "「自1998年以來，Centrus已為其公用事業客戶提供了相當於1,850反應爐年的燃料，這等同於超過70億噸的煤炭。」"
         },
         {
-          "word": "revenue",
-          "ipa": "/ˈrɛvəˌnuː/",
-          "meaning": "營收／收入（指企業在一定時期內，透過銷售商品或提供服務所獲得的總金額）",
-          "example": "「The new marketing campaign aims to boost the company's quarterly revenue.」"
-        }
-      ],
-      "level2_context": "各位同學，這篇新聞在談的是美國餐飲業，特別是牛排館，面臨的嚴峻挑戰。我們可以看到，『通貨膨脹』這個經濟現象是背後的主要推手。當通膨發生時，食材成本，尤其是牛肉這種主要原料的價格會大幅上漲。這對餐飲業者來說，意味著他們的營運成本增加了。為了維持獲利，他們可能不得不調高菜單價格。然而，價格一高，消費者就會卻步，選擇減少外出用餐的頻率，或是轉向更平價的選項。這種消費行為的改變，直接衝擊了牛排館的『營收』，導致許多知名連鎖店不得不關閉部分門市，甚至有些撐不下去的就走向『破產』。這也提醒我們，即使是看似穩固的餐飲巨頭，在面對宏觀經濟壓力時，也必須做出艱難的營運決策。",
-      "level3_translation": [
-        {
-          "sentence": "Rising food costs driven by inflation have been a problem for U.S. steakhouses ranging from high-end to budget establishments, leading some well-known restaurants to permanently shut their doors and in some cases file for bankruptcy",
-          "translation": "「在美國，從高檔到平價的牛排館都面臨一個大問題，那就是由『通貨膨脹』所帶動的食材成本不斷上漲，這導致一些知名餐廳永久歇業，甚至有些還聲請了『破產』。」"
+          "sentence": "For FY25, Centrus reported revenue and gross profit of $448.7 million and $117.5 million, respectively.",
+          "translation": "「在2025財年，Centrus分別報告了4.487億美元的營收和1.175億美元的毛利。」"
         },
         {
-          "sentence": "An increase in the cost of beef that led to steak prices spiking 16% to $12.73 per pound in March 2026, according to data from the Federal Reserve Bank of St. Louis, affected menu prices and discouraged some diners from dining in steakhouses, taking a bite out of restaurant revenue.",
-          "translation": "「根據聖路易聯邦準備銀行提供的數據，牛肉成本的增加導致牛排價格在2026年3月飆漲了16%，達到每磅12.73美元，這影響了菜單定價，也讓一些顧客打消了去牛排館用餐的念頭，進而侵蝕了餐廳的『營收』。」"
+          "sentence": "For the year, The LEU segment contributed to 77% of the revenue with 23% coming from the Technical Solutions segment.",
+          "translation": "「該年度，『低濃縮鈾（LEU）』部門貢獻了77%的營收，其餘23%來自『技術解決方案』部門。」"
         },
         {
-          "sentence": "Steakhouses that have closed locations in the U.S. over the last three months have included Fleming's Prime Steakhouse and Wine Bar, McCormick & Schmick's, and Stoney River Steakhouse and Grill, with Quaker Steak & Lube about to close one, too.",
-          "translation": "「過去三個月在美國關閉門市的牛排館，包括了Fleming's Prime Steakhouse and Wine Bar、McCormick & Schmick's，以及Stoney River Steakhouse and Grill，而Quaker Steak & Lube也即將關閉一家分店。」"
+          "sentence": "Further, the company ended FY25 with a strong balance sheet and a cash buffer of $2 billion.",
+          "translation": "「此外，該公司在2025財年結束時擁有穩健的資產負債表和20億美元的現金緩衝。」"
         },
         {
-          "sentence": "A Golden Corral restaurant franchisee, Conroe Corral Murphy LLC, however filed for Chapter 11 bankruptcy in Texas on June 8 and continues to operate.",
-          "translation": "「然而，Golden Corral餐廳的『加盟商』Conroe Corral Murphy LLC，已於6月8日在德州聲請了美國破產法第11章的『破產』保護，但目前仍持續營運。」"
+          "sentence": "As of May 2026, Centrus Energy reported an order book of $3.9 billion (including contingent sales).",
+          "translation": "「截至2026年5月，Centrus Energy報告的訂單簿總額為39億美元（包含或有銷售額）。」"
         },
         {
-          "sentence": "Outback Steakhouse's owner Bloomin' Brands closed 21 locations in 2025 and said it would close another 22 locations in 2026 as leases expire, according to its third quarter earnings call.",
-          "translation": "「根據Outback Steakhouse母公司Bloomin' Brands在第三季『財報電話會議』上透露，他們在2025年關閉了21家門市，並表示隨著『租約』到期，2026年還會再關閉22家。」"
+          "sentence": "With contracts extending through 2040, the backlog provides Centrus with long-term cash flow visibility.",
+          "translation": "「由於合約期限延伸至2040年，這些訂單積壓為Centrus提供了長期的現金流能見度。」"
         },
         {
-          "sentence": "\"After almost 23 years of service, Quaker Steak & Lube is closing its doors after business closes on July 5th,\" Smith, who worked at the restaurant since 2009, said.",
-          "translation": "「『在服務了將近23年之後，Quaker Steak & Lube將在7月5日營業結束後關閉，』自2009年起就在這家餐廳工作的Smith表示。」"
+          "sentence": "While the growth outlook is positive, Centrus stock has corrected by 27% in the last six months.",
+          "translation": "「儘管成長前景看好，Centrus的股價在過去六個月內已修正了27%。」"
         },
         {
-          "sentence": "Neither Smith nor Quaker Steak Lube stated a reason for closing the location, which opened in 2003.",
-          "translation": "「Smith和Quaker Steak Lube都沒有說明這家於2003年開業的門市為何關閉。」"
-        },
-        {
-          "sentence": "Smith said she began working at the restaurant in August 2009.",
-          "translation": "「Smith說她是在2009年8月開始在這家餐廳工作的。」"
-        },
-        {
-          "sentence": "The Quaker Steak & Lube chain opened in 1974 in an abandoned gas station in Sharon, Pa., as a muscle car-themed, cook-your-own-steak restaurant chain.",
-          "translation": "「Quaker Steak & Lube連鎖店於1974年在賓州沙倫市的一個廢棄加油站開業，當時是以肌肉車為主題，主打顧客自己動手烹飪牛排的餐廳。」"
+          "sentence": "This seems like a good accumulation opportunity.",
+          "translation": "「這似乎是一個不錯的累積機會。」"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Intel Stock and 3 Other Winners I Found Using Barchart’s High-Octane Stock Screener",
+      "title": "Silver, Bitcoin, and Palantir Prove That Chasing the ‘Hot Dot’ Is a Great Way to Lose Your Money",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-3-other-winners-153015920.html",
-      "level1_blind": {
-        "text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nAs you might have read in some of my past articles, when it comes to Barchart, I was a “long time listener, first time caller.” When I started writing here early last year, it was a case of “long time user, first time writer.”\n\nHundreds of articles later, I am still closer to the tip of the iceberg than the bottom of the ocean when it comes to scouting out ways to sharpen my investing skills. And thanks to Barchart, I have no shortage of new things to learn.\n\nOne feature within the Barchart Stock Screener tool that resonated with me is a pre-built filter known as the J-Pattern or J-Curve. I’ve kept my use of it mostly to myself, as it often opts for momentum stocks.\n\nI like momentum just like the next trader, but at the margin. I’m more of what I’d call a “contrarian chartist.” That is, when I see a pattern I’ve seen literally millions of times over the decades, I simply say to myself “aha, that’s one I’ll focus on.”\n\nMore recently, the J-Pattern screener has been producing both a mix of stocks already well into powerful moves which look to continue, and others which look to be in the early to middle innings of their moves. I quickly glanced at this list each day during my two recent stints filling in for Barchart’s Chart of the Day maestro, Jim Van Meerten.\n\nAs Jim returns to make us a little bit smarter each day, the current iteration of the J-Pattern screen (as of Thursday’s market close) caught my eye. Why? I found a quartet of intriguing charts.\n\nHere’s my full version of the screen, which is the standard one you can pull up under Barchart Screeners, alongside many others. All I do with my custom version of it is to put a $5 billion market cap restriction on it, to avoid stocks whose charts might be based on more scattered trading activity."
-      },
+      "link": "https://finance.yahoo.com/markets/stocks/articles/silver-bitcoin-palantir-prove-chasing-145130021.html",
+      "level1_blind": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nInvestors who have chased dozens of popular stocks and ETFs are now watching them come crashing back down. They fell into the trap of the \\",
       "level2_keywords": [
         {
-          "word": "Stock Screener",
-          "ipa": "[stɑk ˈskriːnər]",
-          "meaning": "股票篩選器，一種工具，讓投資者能根據特定條件（如市值、產業、本益比等）來篩選出符合要求的股票。",
-          "example": "『A good stock screener can help investors identify potential opportunities efficiently.』"
+          "word": "D-Wave",
+          "ipa": "",
+          "meaning": "D-Wave 是一家 canada 的量子計算公司",
+          "example": ""
         },
         {
-          "word": "momentum stocks",
-          "ipa": "[ˈmoʊmɛntəm stɑks]",
-          "meaning": "動能股，指股價在短期內呈現強勁上漲趨勢，並預期這種趨勢會持續的股票，常吸引追求快速獲利的交易者。",
-          "example": "『The J-Pattern screener often identifies momentum stocks, which can be volatile but offer high returns.』"
+          "word": "Palantir",
+          "ipa": "",
+          "meaning": "Palantir 是一家美國的數據分析公司",
+          "example": ""
         },
         {
-          "word": "contrarian chartist",
-          "ipa": "[kənˈtrɛəriən ˈʧɑːrtɪst]",
-          "meaning": "逆勢圖表分析師，指透過技術圖表分析，專門尋找與市場主流趨勢相反的投資機會的分析師或投資者。",
-          "example": "『A contrarian chartist might buy when others are selling, looking for a reversal in the trend.』"
+          "word": "Bitcoin",
+          "ipa": "",
+          "meaning": "比特幣是一種加密貨幣",
+          "example": ""
         },
         {
-          "word": "market cap",
-          "ipa": "[ˈmɑːrkɪt kæp]",
-          "meaning": "市值，指一家公司所有流通股的總價值，是衡量公司規模的重要指標。",
-          "example": "『He set a $5 billion market cap restriction to focus on larger, more stable companies.』"
+          "word": "Silver",
+          "ipa": "",
+          "meaning": "銀是一種 precious metal",
+          "example": ""
         },
         {
-          "word": "J-Pattern",
-          "ipa": "[ʤeɪ ˈpætərn]",
-          "meaning": "J型模式，一種技術分析圖表形態，通常指股價在下跌後迅速反彈，形成類似字母「J」的走勢，預示股價可能持續上漲。",
-          "example": "『The J-Pattern is a specific technical analysis formation that the author uses to identify potential investment opportunities.』"
+          "word": "S&P 500 Index",
+          "ipa": "",
+          "meaning": "S平公 500四发代约是美國股市的指數",
+          "example": ""
         }
       ],
-      "level2_context": "各位同學，這篇文章是一位財經作家分享他如何利用Barchart這個股票篩選工具，搭配他個人偏好的「J型模式」篩選器，來尋找潛在的投資標的。他特別提到，雖然這個篩選器常找出「動能股」，但他自己更像是一位「逆勢圖表分析師」，會從這些模式中找出他感興趣的股票。這顯示了在當今市場上，許多投資人會運用各種技術分析工具和策略來輔助決策，而不同的工具和策略也反映了投資人不同的風險偏好和投資哲學。這篇文章的重點在於介紹一種個人化的選股方法，以及如何透過設定市值限制來優化篩選結果，避免交易量不夠活躍的股票。",
+      "level2_context": "\n\n這篇文章談到的是投資者在追求「熱點」（hot dot）的過程中，會遇到的困難。作者認為，這種情況下投資者會因為對於市場的不確定性而陷入「熱點」的誘惑之中。\n\n",
       "level3_translation": [
         {
           "sentence": "The above button links to Coinbase.",
-          "translation": "『上方那個按鈕會連結到Coinbase。』"
+          "translation": ""
         },
         {
           "sentence": "Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading.",
-          "translation": "『Yahoo財經並非證券經紀商或投資顧問，也不提供證券或加密貨幣的銷售或交易服務。』"
+          "translation": ""
         },
         {
           "sentence": "Coinbase pays us for certain activity generated through this link.",
-          "translation": "『Coinbase會因為透過此連結產生的特定活動而支付我們費用。』"
+          "translation": ""
         },
         {
           "sentence": "Prices displayed are informational.",
-          "translation": "『所顯示的價格僅供參考。』"
+          "translation": ""
         },
         {
-          "sentence": "As you might have read in some of my past articles, when it comes to Barchart, I was a “long time listener, first time caller.”",
-          "translation": "『正如您可能在我過去的一些文章中讀到的，談到Barchart這個平台，我過去一直是「長期聽眾，首次發言者」（意指長期關注但未曾實際參與）。』"
-        },
-        {
-          "sentence": "When I started writing here early last year, it was a case of “long time user, first time writer.”",
-          "translation": "『當我去年初開始在這裡寫作時，情況就變成「長期使用者，首次作者」（意指長期使用該工具但首次撰寫相關內容）。』"
-        },
-        {
-          "sentence": "Hundreds of articles later, I am still closer to the tip of the iceberg than the bottom of the ocean when it comes to scouting out ways to sharpen my investing skills.",
-          "translation": "『寫了數百篇文章之後，在探索如何精進我的投資技能方面，我感覺自己仍處於冰山一角，而非深海底部（意指還有很多東西要學）。』"
-        },
-        {
-          "sentence": "And thanks to Barchart, I have no shortage of new things to learn.",
-          "translation": "『多虧了Barchart，我總是有學不完的新知識。』"
-        },
-        {
-          "sentence": "One feature within the Barchart Stock Screener tool that resonated with me is a pre-built filter known as the J-Pattern or J-Curve.",
-          "translation": "『在Barchart股票篩選工具中，有一個讓我深感共鳴的功能，就是一個預設的篩選器，它被稱為「J型模式」或「J型曲線」。』"
-        },
-        {
-          "sentence": "I’ve kept my use of it mostly to myself, as it often opts for momentum stocks.",
-          "translation": "『我大多將它的使用方法保留給自己，因為它經常會篩選出「動能股」。』"
-        },
-        {
-          "sentence": "I like momentum just like the next trader, but at the margin.",
-          "translation": "『我跟其他交易員一樣喜歡動能股，但僅限於邊際（意指在特定條件下）。』"
-        },
-        {
-          "sentence": "I’m more of what I’d call a “contrarian chartist.”",
-          "translation": "『我更像是一位我會稱之為「逆勢圖表分析師」的人。』"
-        },
-        {
-          "sentence": "That is, when I see a pattern I’ve seen literally millions of times over the decades, I simply say to myself “aha, that’s one I’ll focus on.”",
-          "translation": "『也就是說，當我看到一個數十年來已見過數百萬次的模式時，我會簡單地對自己說：「啊哈，這就是我要關注的目標。」』"
-        },
-        {
-          "sentence": "More recently, the J-Pattern screener has been producing both a mix of stocks already well into powerful moves which look to continue, and others which look to be in the early to middle innings of their moves.",
-          "translation": "『最近，這個「J型模式」篩選器篩選出的股票，有些已經處於強勁的漲勢中且看來會持續，有些則似乎正處於其漲勢的早期或中期階段。』"
-        },
-        {
-          "sentence": "I quickly glanced at this list each day during my two recent stints filling in for Barchart’s Chart of the Day maestro, Jim Van Meerten.",
-          "translation": "『在我最近兩次代班Barchart「每日圖表大師」Jim Van Meerten期間，我每天都會快速瀏覽這份清單。』"
-        },
-        {
-          "sentence": "As Jim returns to make us a little bit smarter each day, the current iteration of the J-Pattern screen (as of Thursday’s market close) caught my eye.",
-          "translation": "『隨著Jim回歸，每天讓我們增長一點智慧，截至週四收盤，目前這個「J型模式」篩選器的最新版本吸引了我的目光。』"
-        },
-        {
-          "sentence": "Why?",
-          "translation": "『為什麼呢？』"
-        },
-        {
-          "sentence": "I found a quartet of intriguing charts.",
-          "translation": "『我發現了四個引人入勝的圖表。』"
-        },
-        {
-          "sentence": "Here’s my full version of the screen, which is the standard one you can pull up under Barchart Screeners, alongside many others.",
-          "translation": "『這是我完整的篩選器版本，它就是你在Barchart篩選器中可以找到的標準版本，旁邊還有許多其他篩選器。』"
-        },
-        {
-          "sentence": "All I do with my custom version of it is to put a $5 billion market cap restriction on it, to avoid stocks whose charts might be based on more scattered trading activity.",
-          "translation": "『我對我的自訂版本所做的，只是加上一個50億美元的「市值」限制，以避免那些圖表可能基於較為零散的交易活動的股票。』"
+          "sentence": "Investors who have chased dozens of popular stocks and ETFs are now watching them come crashing back down.",
+          "translation": ""
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "violence_connection": "今日台股大戶籌碼動向與國際科技財經新聞之間，浮現一條極其精密的「資訊暴力聯結」線索。6月22日，英特爾（Intel）執行長在美股盤後發表了關鍵言論，強調AI投資已從單純的GPU敘事，擴展至更廣泛的「硬體基礎設施層」，並明確指出CPU需求正強勁回升。這項消息在台灣時間週一（6/24）開盤前已充分發酵，成為大戶提前部署的黃金信號。\n\n觀察今日台股，外資與自營商不約而同地大買聯電（2303）、京元電子（2449）、南茂（8150）及南電（8046）等半導體供應鏈關鍵廠商。聯電作為晶圓代工廠，若CPU需求擴大，其成熟製程或特殊製程的訂單有望受惠；京元電子與南茂則是封測大廠，CPU及相關AI晶片需求增長，直接帶動後段封測業務量；而南電作為ABF載板供應商，更是高階CPU與AI晶片不可或缺的關鍵材料。這些買盤精準地指向了「非GPU獨大」的AI基礎設施擴建趨勢。\n\n值得注意的是，投信在聯電與南茂上呈現賣超，但在華邦電（2344）與南亞科（2408）等記憶體股卻是買超，顯示機構法人對AI浪潮下的半導體板塊有著不同的側重與佈局策略。然而，外資與自營商對晶圓代工、封測及載板的積極佈局，無疑是提前嗅到Intel釋出的訊號，預判AI生態系將更為多元，並將資金精準灌注於台灣在全球半導體供應鏈中不可或缺的環節，進行一場深思熟慮的套利與預先部署。"
+    "violence_connection": "今日台股大戶籌碼動向揭示了一場精密的資本再配置遊戲，其背後邏輯與國際財經新聞形成暴力聯結。外資在盤中大舉賣超元大台灣50（0050）及台積電（2330），摩根大通更是領銜拋售0050，此舉在台灣時間下午國際新聞發布前，便已暗示了市場對「追逐熱點」（Hot Dot）策略的警惕。當晚間雅虎財經報導警示「追逐熱點是虧損之道」時，外資的早盤行動便顯得更具前瞻性，彷彿預知了市場情緒將從盲目追高轉向審慎避險，提前從廣泛性科技ETF及權值股中獲利了結或進行風險管理。\n\n然而，這並非全面撤退。美商高盛逆勢大買力積電（6770），內資投信也同步加碼華邦電（2344）、南亞科（2408）等記憶體相關個股。這與Centrus能源新聞中提及的「AI電力交易」及「科技投資週期轉移」形成微妙呼應。儘管Centrus聚焦核燃料，但其背後隱含的對穩定能源供應以支持AI等高耗能科技發展的長期需求，可能促使部分聰明資金轉向佈局被低估、但對未來科技基礎建設至關重要的半導體次產業。這表明大戶並非全面看空，而是進行精準的板塊輪動，將資金從過熱的「熱點」轉移至具備長期結構性成長潛力、且估值相對合理的科技基礎元件，為下一波科技浪潮預先部署。這是一場在公開資訊發布前，便已悄然展開的資本博弈。"
   }
 }
