@@ -1,316 +1,316 @@
 {
-  "date": "2026-06-24",
-  "stock_market_date": "2026-06-23",
+  "date": "2026-06-25",
+  "stock_market_date": "2026-06-24",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 33754552
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 83295842
         },
         {
           "rank": 2,
-          "stock_name": "京元電子",
-          "ticker": "2449",
-          "net_buy_shares": 31582066
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 61356527
         },
         {
           "rank": 3,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 27579714
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 25400553
         },
         {
           "rank": 4,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 23429454
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_buy_shares": 20646302
         },
         {
           "rank": 5,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 20638967
+          "stock_name": "台化",
+          "ticker": "1326",
+          "net_buy_shares": 20604701
         },
         {
           "rank": 6,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_buy_shares": 18509700
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_buy_shares": 15294058
         },
         {
           "rank": 7,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_buy_shares": 17362206
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 14041692
         },
         {
           "rank": 8,
-          "stock_name": "強茂",
-          "ticker": "2481",
-          "net_buy_shares": 13979790
+          "stock_name": "凌巨",
+          "ticker": "8105",
+          "net_buy_shares": 10154053
         },
         {
           "rank": 9,
-          "stock_name": "台中銀",
-          "ticker": "2812",
-          "net_buy_shares": 11991457
+          "stock_name": "東和鋼鐵",
+          "ticker": "2006",
+          "net_buy_shares": 7741337
         },
         {
           "rank": 10,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_buy_shares": 11950464
+          "stock_name": "和碩",
+          "ticker": "4938",
+          "net_buy_shares": 7649206
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_sell_shares": -38612452
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -126206899
         },
         {
           "rank": 2,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_sell_shares": -32411798
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -51790233
         },
         {
           "rank": 3,
           "stock_name": "友達",
           "ticker": "2409",
-          "net_sell_shares": -28755809
+          "net_sell_shares": -43044546
         },
         {
           "rank": 4,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -27630722
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_sell_shares": -40496692
         },
         {
           "rank": 5,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_sell_shares": -27498720
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -38450174
         },
         {
           "rank": 6,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_sell_shares": -25806882
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -37759620
         },
         {
           "rank": 7,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -25099509
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_sell_shares": -29206914
         },
         {
           "rank": 8,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -24432170
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_sell_shares": -27646655
         },
         {
           "rank": 9,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -23554786
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -25214333
         },
         {
           "rank": 10,
-          "stock_name": "華新",
-          "ticker": "1605",
-          "net_sell_shares": -21476387
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_sell_shares": -24433627
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 40655919
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 40906501
         },
         {
           "rank": 2,
           "stock_name": "華邦電",
           "ticker": "2344",
-          "net_buy_shares": 39706473
+          "net_buy_shares": 33632000
         },
         {
           "rank": 3,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 27780261
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 30210097
         },
         {
           "rank": 4,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_buy_shares": 24990715
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 26678000
         },
         {
           "rank": 5,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_buy_shares": 24827248
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 24193893
         },
         {
           "rank": 6,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 21572581
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_buy_shares": 18985000
         },
         {
           "rank": 7,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 16351687
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 18072000
         },
         {
           "rank": 8,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 15734608
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 16345000
         },
         {
           "rank": 9,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_buy_shares": 11646078
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 13077000
         },
         {
           "rank": 10,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 11399472
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_buy_shares": 11697000
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_sell_shares": -14182215
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -27264690
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -13789958
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -13353063
         },
         {
           "rank": 3,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_sell_shares": -10128000
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_sell_shares": -8220000
         },
         {
           "rank": 4,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_sell_shares": -7950555
+          "stock_name": "東和鋼鐵",
+          "ticker": "2006",
+          "net_sell_shares": -5604664
         },
         {
           "rank": 5,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_sell_shares": -6188159
+          "stock_name": "群益證",
+          "ticker": "6005",
+          "net_sell_shares": -4495252
         },
         {
           "rank": 6,
-          "stock_name": "東和鋼鐵",
-          "ticker": "2006",
-          "net_sell_shares": -5691438
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_sell_shares": -4227000
         },
         {
           "rank": 7,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_sell_shares": -5642619
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_sell_shares": -4193506
         },
         {
           "rank": 8,
-          "stock_name": "亞泥",
-          "ticker": "1102",
-          "net_sell_shares": -5459672
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_sell_shares": -3807000
         },
         {
           "rank": 9,
           "stock_name": "光寶科",
           "ticker": "2301",
-          "net_sell_shares": -4959579
+          "net_sell_shares": -3701000
         },
         {
           "rank": 10,
-          "stock_name": "群益證",
-          "ticker": "6005",
-          "net_sell_shares": -4788000
+          "stock_name": "瑞儀",
+          "ticker": "6176",
+          "net_sell_shares": -3557000
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 3212000
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 5786000
         },
         {
           "rank": 2,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 2893644
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 5649000
         },
         {
           "rank": 3,
-          "stock_name": "三商壽",
-          "ticker": "2867",
-          "net_buy_shares": 1151000
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 1384000
         },
         {
           "rank": 4,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_buy_shares": 743000
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 1228000
         },
         {
           "rank": 5,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 555000
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 1193476
         },
         {
           "rank": 6,
           "stock_name": "遠傳",
           "ticker": "4904",
-          "net_buy_shares": 519815
+          "net_buy_shares": 931099
         },
         {
           "rank": 7,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 518000
+          "stock_name": "三商壽",
+          "ticker": "2867",
+          "net_buy_shares": 653000
         },
         {
           "rank": 8,
-          "stock_name": "華新",
-          "ticker": "1605",
-          "net_buy_shares": 449000
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 552000
         },
         {
           "rank": 9,
-          "stock_name": "南電",
-          "ticker": "8046",
-          "net_buy_shares": 252562
+          "stock_name": "中華電",
+          "ticker": "2412",
+          "net_buy_shares": 478985
         },
         {
           "rank": 10,
-          "stock_name": "亞泥",
-          "ticker": "1102",
-          "net_buy_shares": 230503
+          "stock_name": "和桐",
+          "ticker": "1714",
+          "net_buy_shares": 233000
         }
       ],
       "dealer_sell": [
@@ -318,61 +318,61 @@
           "rank": 1,
           "stock_name": "台灣高鐵",
           "ticker": "2633",
-          "net_sell_shares": -2690754
+          "net_sell_shares": -4927258
         },
         {
           "rank": 2,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_sell_shares": -2074000
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_sell_shares": -2103995
         },
         {
           "rank": 3,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -1126000
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -1422000
         },
         {
           "rank": 4,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_sell_shares": -987000
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_sell_shares": -1103995
         },
         {
           "rank": 5,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_sell_shares": -931272
+          "stock_name": "力成",
+          "ticker": "6239",
+          "net_sell_shares": -1068093
         },
         {
           "rank": 6,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -866515
+          "stock_name": "台達電",
+          "ticker": "2308",
+          "net_sell_shares": -1035203
         },
         {
           "rank": 7,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_sell_shares": -726441
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -831000
         },
         {
           "rank": 8,
-          "stock_name": "威盛",
-          "ticker": "2388",
-          "net_sell_shares": -708449
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_sell_shares": -623851
         },
         {
           "rank": 9,
-          "stock_name": "彩晶",
-          "ticker": "6116",
-          "net_sell_shares": -656820
+          "stock_name": "晶技",
+          "ticker": "3042",
+          "net_sell_shares": -513998
         },
         {
           "rank": 10,
-          "stock_name": "力成",
-          "ticker": "6239",
-          "net_sell_shares": -554024
+          "stock_name": "智原",
+          "ticker": "3035",
+          "net_sell_shares": -445000
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "華航",
-        "shares": 11814093
+        "target": "力積電",
+        "shares": 29153544
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "聯電",
-        "shares": 1284800
+        "target": "華航",
+        "shares": 2314400
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "南亞",
-        "shares": 18295163
+        "target": "兆豐金",
+        "shares": 18407925
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "台玻",
-        "shares": 11583735
+        "target": "元大台灣50",
+        "shares": 37862069
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Intel CEO gives investors a reality check",
+      "title": "Czech billionaire extracts £114m from Royal Mail owner",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/intel-ceo-gives-investors-reality-184700678.html",
-      "summary": "Intel CEO gives investors a reality check",
-      "full_text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nAI stock investors have essentially been trained to follow a rule to invest in businesses closest to GPUs, data centers, and hyperscaler spending.\n\nIntel (INTC) CEO Lip-Bu Tan just flipped that script on the June 18 episode of No Priors: AI, Machine Learning, Tech, & Startups.\n\nTan believes that the AI trade is effectively moving beyond a simple GPU story and into harder infrastructure layers behind it\n\nHe effectively laid out a far bigger map of where the semiconductor space is being stretched.\n\nThat gives Intel a remarkably ambitious investor narrative, but also a tougher test in proving it can execute where the entire AI supply chain is under pressure.\n\nIntel CEO Lip-Bu Tan used the No Priors podcast to push the AI investment debate beyond GPUs.\n\nTan argued that the old training setup relied too heavily on GPUs, but newer AI workloads require much more orchestration, reinforcement learning, and coordination across agents. That is bringing CPUs back into the discussion. “Right now, the demand is very high for my CPU,” he said.",
-      "published": "2026-06-22T18:47:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/czech-billionaire-extracts-114m-royal-145510693.html",
+      "summary": "Czech billionaire extracts £114m from Royal Mail owner",
+      "full_text": "Royal Mail's billionaire owner has extracted £114m from the postal service's owner even as it grapples with a letter-delay crisis.\n\nThe money was paid out last year to a company controlled by Daniel Křetínský, the Czech tycoon who bought Royal Mail, to cover interest payments linked to his debt-fuelled £3.6bn takeover.\n\nThe payout appears to run counter to the billionaire's promise not to pay dividends from the business unless performance improved.\n\nSpeaking in front of MPs earlier this year, Mr Křetínský said Royal Mail would not distribute dividends if its quality of service deteriorated compared with before the takeover.\n\nThe latest Ofcom figures show the postal service delivered just 75.7pc of letters on time last year, down from 76.5pc in the prior year.\n\nRoyal Mail insisted that the £114m payment did not qualify as a dividend as it was only being used to service debt and had not been paid out to Mr Křetínský's EP Group.\n\nA spokesman for Royal Mail's parent company International Distribution Services (IDS) said: \"IDS did not pay a dividend to EP Group.\n\n\"The dividend was paid by IDS to its immediate UK parent, EP Distribution Services Limited, and was ultimately used to fund interest on the debt that financed EP's acquisition of IDS.\"",
+      "published": "2026-06-23T14:55:10Z"
     },
     {
       "id": "news_2",
-      "title": "52-year-old Outback Steakhouse rival chain closes 24 locations",
+      "title": "As Centrus Order Backlog Swells, Growth Acceleration Can Trigger Stock Upside",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/economy/articles/52-old-outback-steakhouse-rival-194700477.html",
-      "summary": "52-year-old Outback Steakhouse rival chain closes 24 locations",
-      "full_text": "Rising food costs driven by inflation have been a problem for U.S. steakhouses ranging from high-end to budget establishments, leading some well-known restaurants to permanently shut their doors and in some cases file for bankruptcy\n\nAn increase in the cost of beef that led to steak prices spiking 16% to $12.73 per pound in March 2026, according to data from the Federal Reserve Bank of St. Louis, affected menu prices and discouraged some diners from dining in steakhouses, taking a bite out of restaurant revenue.\n\nSteakhouses that have closed locations in the U.S. over the last three months have included Fleming's Prime Steakhouse and Wine Bar, McCormick & Schmick's, and Stoney River Steakhouse and Grill, with Quaker Steak & Lube about to close one, too.\n\nA Golden Corral restaurant franchisee, Conroe Corral Murphy LLC, however filed for Chapter 11 bankruptcy in Texas on June 8 and continues to operate.\n\nOutback Steakhouse's owner Bloomin' Brands closed 21 locations in 2025 and said it would close another 22 locations in 2026 as leases expire, according to its third quarter earnings call.\n\n\"After almost 23 years of service, Quaker Steak & Lube is closing its doors after business closes on July 5th,\" Smith, who worked at the restaurant since 2009, said.\n\nNeither Smith nor Quaker Steak Lube stated a reason for closing the location, which opened in 2003. Smith said she began working at the restaurant in August 2009.\n\nThe Quaker Steak & Lube chain opened in 1974 in an abandoned gas station in Sharon, Pa., as a muscle car-themed, cook-your-own-steak restaurant chain.",
-      "published": "2026-06-22T19:47:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/centrus-order-backlog-swells-growth-145009950.html",
+      "summary": "As Centrus Order Backlog Swells, Growth Acceleration Can Trigger Stock Upside",
+      "full_text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nCentrus Energy (LEU) has a unique positioning as the only publicly traded, deployment-ready enricher that's positioned to fuel the future of nuclear power. LEU stock's performance has however been middling with a decline of 4% in the last 52-weeks.\n\nHowever, this should not be a deterrent from considering exposure to LEU stock. On the contrary, the sideways movement provides a good opportunity for exposure as Centrus Energy positions itself to benefit from the LEU (Low-Enriched Uranium) and HALEU (High-Assay Low-Enriched Uranium) market.\n\nThe Big Tech Investment Cycle is Shifting, and Chevron Just Wrote the Blueprint for the AI Power Trade.\n\nIn an important step towards that direction, Oklo (OKLO) and Centrus Energy signed a letter of intent to purchase nuclear fuel for the former's Aurora Powerhouse deployment. As a part of this agreement, Centrus would supply HALEU to five Aurora powerhouses for multiple years, with deliveries to Oklo beginning in 2029. The long-term agreement will support Centrus Energy's revenue visibility.\n\nHeadquartered in Bethesda, Maryland, Centrus Energy is a supplier of nuclear fuel components for the nuclear power industry. The company operates in two business segments: LEU, which supplies various components of nuclear fuel and Technical Solutions, which provides advanced uranium enrichment for the nuclear industry and the U.S. government.\n\nSince 1998, Centrus has provided its utility customers with 1,850 reactor years of fuel, which is equivalent to more than seven billion tons of coal. For FY25, Centrus reported revenue and gross profit of $448.7 million and $117.5 million, respectively. For the year, The LEU segment contributed to 77% of the revenue with 23% coming from the Technical Solutions segment. Further, the company ended FY25 with a strong balance sheet and a cash buffer of $2 billion.\n\nAs of May 2026, Centrus Energy reported an order book of $3.9 billion (including contingent sales). With contracts extending through 2040, the backlog provides Centrus with long-term cash flow visibility. While the growth outlook is positive, Centrus stock has corrected by 27% in the last six months. This seems like a good accumulation opportunity.",
+      "published": "2026-06-23T14:50:09Z"
     },
     {
       "id": "news_3",
-      "title": "Intel Stock and 3 Other Winners I Found Using Barchart’s High-Octane Stock Screener",
+      "title": "Silver, Bitcoin, and Palantir Prove That Chasing the ‘Hot Dot’ Is a Great Way to Lose Your Money",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-3-other-winners-153015920.html",
-      "summary": "Intel Stock and 3 Other Winners I Found Using Barchart’s High-Octane Stock Screener",
-      "full_text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nAs you might have read in some of my past articles, when it comes to Barchart, I was a “long time listener, first time caller.” When I started writing here early last year, it was a case of “long time user, first time writer.”\n\nHundreds of articles later, I am still closer to the tip of the iceberg than the bottom of the ocean when it comes to scouting out ways to sharpen my investing skills. And thanks to Barchart, I have no shortage of new things to learn.\n\nOne feature within the Barchart Stock Screener tool that resonated with me is a pre-built filter known as the J-Pattern or J-Curve. I’ve kept my use of it mostly to myself, as it often opts for momentum stocks.\n\nI like momentum just like the next trader, but at the margin. I’m more of what I’d call a “contrarian chartist.” That is, when I see a pattern I’ve seen literally millions of times over the decades, I simply say to myself “aha, that’s one I’ll focus on.”\n\nMore recently, the J-Pattern screener has been producing both a mix of stocks already well into powerful moves which look to continue, and others which look to be in the early to middle innings of their moves. I quickly glanced at this list each day during my two recent stints filling in for Barchart’s Chart of the Day maestro, Jim Van Meerten.\n\nAs Jim returns to make us a little bit smarter each day, the current iteration of the J-Pattern screen (as of Thursday’s market close) caught my eye. Why? I found a quartet of intriguing charts.\n\nHere’s my full version of the screen, which is the standard one you can pull up under Barchart Screeners, alongside many others. All I do with my custom version of it is to put a $5 billion market cap restriction on it, to avoid stocks whose charts might be based on more scattered trading activity.",
-      "published": "2026-06-22T15:30:15Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/silver-bitcoin-palantir-prove-chasing-145130021.html",
+      "summary": "Silver, Bitcoin, and Palantir Prove That Chasing the ‘Hot Dot’ Is a Great Way to Lose Your Money",
+      "full_text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nInvestors who have chased dozens of popular stocks and ETFs are now watching them come crashing back down. They fell into the trap of the \"Hot Dot,\" throwing out all the lessons from legends like Warren Buffett and Benjamin Graham.\n\nD-Wave Just Unveiled a Major Quantum Breakthrough. QBTS Stock Looks Ready for Another Surge.\n\nIt's not that traders aren't nimble. In fact, new, nimble traders enter the market every day thanks to unprecedented access to high-quality investment data, such as the treasure trove available here at Barchart.com.\n\nInstead, it's that the temptation to buy a stock or ETF simply \"because it is up\" is a natural, human emotion.\n\nSome would conclude that it's retail investors falling prey to the \"Hot Dot\" trap, buying 52-week highs with reckless abandon. In my experience, it's just as likely, if not more so, that professionals are stoking the \"Hot Dot\" flame. Advisors and money managers get paid to perform. Sometimes, that means their last resort is to chase.\n\nThey call it \"avoiding career suicide,\" since they realize that clients will ultimately look at the S&P 500 Index ($SPX) as a benchmark, even if it does not bear much resemblance to their tolerance for risk. Such is life in modern, algorithmic-driven markets where the major indexes suck much the air out of the room.\n\nThe crowd loves a winner, especially when it's moving straight up. When an asset starts hitting new highs day after day, it creates a powerful urge to jump in.",
+      "published": "2026-06-23T14:51:30Z"
     }
   ]
 }
