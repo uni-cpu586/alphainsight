@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AlphaInsight</title>
+    <meta name="description" content="結合台股大戶操盤思維逆向工程與國際財經科技英語語感訓練的單頁 Dashboard。">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- FontAwesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="app-header">
+            <div class="logo-area">
+                <i class="fa-solid fa-chart-line logo-icon"></i>
+                <div class="logo-text">
+                    <h1>AlphaInsight</h1>
+                </div>
+            </div>
+            <div class="header-meta">
+                <div class="meta-item">
+                    <i class="fa-regular fa-calendar"></i>
+                    <span id="insight-date">讀取中...</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- View Selector / Nav Tabs -->
+        <nav class="view-selector-container">
+            <div class="view-tabs">
+                <button class="view-tab-btn active" data-view="all">
+                    <i class="fa-solid fa-border-all"></i> 全部顯示
+                </button>
+                <button class="view-tab-btn" data-view="morning">
+                    <span class="view-badge view-badge-morning">晨</span> 晨間 8:30
+                </button>
+                <button class="view-tab-btn" data-view="english">
+                    <span class="view-badge view-badge-daytime">日</span> 日間語感
+                </button>
+                <button class="view-tab-btn" data-view="night">
+                    <span class="view-badge view-badge-night">夜</span> 夜間沉澱
+                </button>
+                <button class="view-tab-btn" data-view="sandbox">
+                    <i class="fa-solid fa-pen-nib"></i> 思維沙盒
+                </button>
+            </div>
+        </nav>
+
+        <!-- Main Dashboard Layout -->
+        <main class="app-main">
+            <!-- Left Column: Stocks & Links -->
+            <div class="main-column left-column">
+                
+                <!-- Section 1: Morning Stock Uncle -->
+                <section class="dashboard-card stock-section" id="morning-stock">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="badge badge-morning">晨間 8:30</span>
+                            <h2>大戶籌碼逆向工程</h2>
+                        </div>
+                        <i class="fa-solid fa-user-tie header-card-icon"></i>
+                    </div>
+                    
+                    <div class="card-content morning-content-grid">
+                        <div class="morning-left-col">
+                            <!-- Uncle Sentiment -->
+                            <div class="uncle-sentiment-box">
+                                <div class="uncle-avatar">
+                                    <i class="fa-solid fa-user-ninja"></i>
+                                </div>
+                                <div class="sentiment-speech">
+                                    <h3 id="uncle-report-header" class="report-header">正在逆向分析主力籌碼中...</h3>
+                                </div>
+                            </div>
+
+                            <!-- Buyer Groups Section -->
+                            <div class="uncle-report-section">
+                                <div id="buyer-groups-container" class="buyer-groups-grid">
+                                    <div class="loading-spinner"><i class="fa-solid fa-circle-notch fa-spin"></i> 正在生成大戶分組明細...</div>
+                                </div>
+                            </div>
+
+                            <!-- Summary Section -->
+                            <div class="uncle-summary-box" id="uncle-summary-container">
+                                <h4><i class="fa-solid fa-quote-left"></i> 自營部叔叔總結</h4>
+                                <p id="uncle-summary-text">正在整合操盤思維...</p>
+                            </div>
+                        </div>
+
+                        <div class="morning-right-col">
+                            <!-- Strategic Rationale Section -->
+                            <div class="uncle-report-section strategies-section">
+                                <h3><i class="fa-solid fa-lightbulb"></i> 推測：主力大戶為什麼這樣買？</h3>
+                                <div id="strategies-container" class="strategies-grid">
+                                    <div class="loading-spinner"><i class="fa-solid fa-circle-notch fa-spin"></i> 正在剖析大戶操盤策略...</div>
+                                </div>
+                            </div>
+
+                            <!-- Top Brokerage Analysis list -->
+                            <div class="analysis-group brokerage-tracker-group">
+                                <h3 class="brokerage-tracker-title"><i class="fa-solid fa-building-columns"></i> 關鍵主力分點進出逆向推理</h3>
+                                <div id="brokerages-list" class="brokerage-grid">
+                                    <div class="loading-spinner"><i class="fa-solid fa-circle-notch fa-spin"></i> 載入分點資料中...</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Section 3: Night Market Linker -->
+                <section class="dashboard-card linker-section" id="night-linker">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="badge badge-night">夜間沉澱</span>
+                            <h2>跨領域大腦聯結器 (Violence Linker)</h2>
+                        </div>
+                        <i class="fa-solid fa-brain header-card-icon"></i>
+                    </div>
+                    <div class="card-content">
+                        <p id="linker-insight-text" class="linker-text">
+                            正在暴力聯結晨間台股大戶動作與國際科技新聞...
+                        </p>
+                    </div>
+                </section>
+
+            </div>
+
+            <!-- Right Column: English Professor & Sandbox -->
+            <div class="main-column right-column">
+                
+                <!-- Section 2: Daytime English Professor -->
+                <section class="dashboard-card english-section" id="daytime-english">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <span class="badge badge-daytime">日間語感</span>
+                            <h2>財經教授・國際科技財經英語修煉場</h2>
+                        </div>
+                        <i class="fa-solid fa-graduation-cap header-card-icon"></i>
+                    </div>
+
+                    <div class="card-content">
+                        <!-- News Selector (if multiple news items exist) -->
+                        <div class="news-tabs" id="news-selector">
+                            <!-- Dynamically loaded tabs -->
+                        </div>
+
+                        <!-- Level Switcher -->
+                        <div class="level-switcher">
+                            <button class="level-btn active" id="btn-level1" data-level="1">
+                                <span class="btn-num">L1</span>
+                                <span class="btn-txt">盲聽/盲讀</span>
+                            </button>
+                            <button class="level-btn" id="btn-level2" data-level="2">
+                                <span class="btn-num">L2</span>
+                                <span class="btn-txt">關鍵字提示</span>
+                            </button>
+                            <button class="level-btn" id="btn-level3" data-level="3">
+                                <span class="btn-num">L3</span>
+                                <span class="btn-txt">全文陪讀</span>
+                            </button>
+                        </div>
+
+                        <!-- Training Area -->
+                        <div class="training-display">
+                            
+                            <!-- Level 1: Blind Reading & Listening -->
+                            <div class="level-panel active" id="panel-level1">
+                                <div class="blind-controls">
+                                    <button class="control-btn play-btn" id="tts-play-btn" title="播放語音">
+                                        <i class="fa-solid fa-circle-play"></i> 聽力播放 (TTS)
+                                    </button>
+                                    <button class="control-btn stop-btn" id="tts-stop-btn" title="停止播放" style="display:none;">
+                                        <i class="fa-solid fa-circle-stop"></i> 停止
+                                    </button>
+                                    <button class="control-btn peek-btn" id="peek-btn">
+                                        <i class="fa-regular fa-eye"></i> 暫時解鎖文字 (馬賽克)
+                                    </button>
+                                </div>
+                                <div class="blind-text-container">
+                                    <div class="blind-text blur-effect" id="blind-passage">
+                                        Loading passage...
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Level 2: Keywords & Context -->
+                            <div class="level-panel" id="panel-level2">
+                                <!-- Background Context -->
+                                <div class="context-box">
+                                    <h4><i class="fa-solid fa-circle-info"></i> 教授的白話背景提示</h4>
+                                    <p id="prof-context">載入中...</p>
+                                </div>
+                                
+                                <!-- Keyword Cards Grid -->
+                                <h4><i class="fa-solid fa-tags"></i> 核心產業英語單字 (點擊翻牌)</h4>
+                                <div class="keyword-grid" id="keywords-container">
+                                    <!-- Dynamic Keyword Cards -->
+                                </div>
+                            </div>
+
+                            <!-- Level 3: Full Read-Along -->
+                            <div class="level-panel" id="panel-level3">
+                                <div class="helper-tip">
+                                    <i class="fa-regular fa-lightbulb"></i> 點擊任何一個英文句子，右側或下方將浮現結合產業背景的白話中文翻譯。
+                                </div>
+                                <div class="read-along-container">
+                                    <div class="english-passage-interactive" id="interactive-passage">
+                                        <!-- Sentences loaded dynamically -->
+                                    </div>
+                                    <div class="translation-side-panel" id="translation-panel">
+                                        <div class="translation-panel-header">
+                                            <i class="fa-solid fa-language"></i> 教授對話式翻譯
+                                        </div>
+                                        <div class="translation-panel-content" id="translation-content">
+                                            點擊英文句子即可獲得白話翻譯。
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Sandbox Notes Box -->
+                <section class="dashboard-card sandbox-card" id="sandbox">
+                    <div class="card-header">
+                        <div class="card-title">
+                            <i class="fa-solid fa-square-pen"></i>
+                            <h2>思維沙盒 (每日對比筆記)</h2>
+                        </div>
+                    </div>
+                    <div class="card-content">
+                        <div class="sandbox-intro">
+                            寫下開盤後的「實際走勢」與「自營叔叔推測」的對比，訓練獨立投資腦。資料自動備份在瀏覽器。
+                        </div>
+                        <textarea id="sandbox-textarea" placeholder="在此記錄您的觀察...（例如：今天凱基台北果然在早盤 9:15 大量出貨群創，開高走低，被叔叔說中了！）"></textarea>
+                        <div class="sandbox-footer">
+                            <span id="save-status"><i class="fa-solid fa-cloud-arrow-up"></i> 已即時儲存至本機</span>
+                        </div>
+                    </div>
+                </section>
+
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="app-footer">
+            <p>&copy; 2026 AlphaInsight. 專為大學生設計的台股主力逆向思維與財經英語養成計畫。</p>
+        </footer>
+    </div>
+
+    <!-- App JS -->
+    <script src="app.js"></script>
+</body>
+</html>

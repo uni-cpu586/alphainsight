@@ -1,0 +1,434 @@
+{
+  "date": "2026-06-24",
+  "stock_uncle_insight": {
+    "date_header": "6/24 法人與主力大戶主要買超股票",
+    "buyer_groups": [
+      {
+        "group_title": "1. 外資大戶：狂掃航空、金融與部分晶圓代工",
+        "stocks": [
+          {
+            "stock_name": "華航",
+            "ticker": "2610",
+            "description": "肖年仔，外資大戶狂掃 3.37 萬張華航，這擺明就是看好解封後的航空復甦行情，外資在卡位，準備拉高出貨，別傻傻追高啊！"
+          },
+          {
+            "stock_name": "京元電子",
+            "ticker": "2449",
+            "description": "外資買超 3.15 萬張京元電子，封測廠被外資看上，可能跟半導體產業鏈的訂單能見度有關，或是搭上Intel CEO說的AI基礎建設題材，但也要小心隔日沖。"
+          },
+          {
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "外資買超 2.75 萬張聯電，晶圓代工二哥，外資跟自營商同步敲進，但投信卻在倒貨，這就是典型的法人對作，看誰的拳頭硬，肖年仔別黑白猜。"
+          },
+          {
+            "stock_name": "凱基金",
+            "ticker": "2883",
+            "description": "外資買超 2.34 萬張凱基金，金融股是避險好標的，外資在找資金避風港，這檔買超量不小，值得注意，但別以為穩賺不賠。"
+          },
+          {
+            "stock_name": "台新新光金",
+            "ticker": "2887",
+            "description": "外資買超 2.06 萬張台新新光金，跟凱基金一樣，外資在佈局金融，但投信卻在賣，這也是法人對作，小心別接刀。"
+          }
+        ]
+      },
+      {
+        "group_title": "2. 投信大戶（本土國家隊）：穩健佈局傳產、金融與記憶體",
+        "stocks": [
+          {
+            "stock_name": "南亞",
+            "ticker": "1303",
+            "description": "投信狂買 4.06 萬張南亞，傳產龍頭，投信在作帳，這種穩健的標的是他們的最愛，可能是低基期卡位，準備拉抬績效。"
+          },
+          {
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "投信買超 3.97 萬張華邦電，外資在倒貨，投信卻在接，這就是典型的「法人換手」，看好記憶體後市，準備拉抬，肖年仔可以觀察。"
+          },
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "投信買超 2.77 萬張兆豐金，金融股是投信的壓艙石，穩定配息，作帳行情少不了它，但外資卻在賣，要留意。"
+          },
+          {
+            "stock_name": "遠傳",
+            "ticker": "4904",
+            "description": "投信買超 2.49 萬張遠傳，電信股防禦性高，投信在找資金避風港，但外資卻在賣，自營商卻在買，這檔有點複雜，別亂衝。"
+          },
+          {
+            "stock_name": "永豐金",
+            "ticker": "2890",
+            "description": "投信買超 2.48 萬張永豐金，跟兆豐金一樣，投信在佈局金融，穩穩賺，但漲幅可能有限。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：跟風外資、短線操作半導體與航空",
+        "stocks": [
+          {
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "自營商買超 3212 張聯電，跟外資同步買進，這擺明是看好短線有搞頭，準備隔日沖或短波段，肖年仔別傻傻追高。"
+          },
+          {
+            "stock_name": "華航",
+            "ticker": "2610",
+            "description": "自營商買超 2893 張華航，跟外資一起買航空，這就是典型的「跟風」，看外資大戶在拉，自己也想分一杯羹，但跑得比誰都快。"
+          },
+          {
+            "stock_name": "三商壽",
+            "ticker": "2867",
+            "description": "自營商買超 1151 張三商壽，壽險股，可能是有特定題材或避險需求，內資主力在偷偷卡位，但量不大，要小心。"
+          },
+          {
+            "stock_name": "南茂",
+            "ticker": "8150",
+            "description": "自營商買超 743 張南茂，跟外資同步買進封測，也是短線操作的痕跡，肖年仔別接刀。"
+          },
+          {
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "自營商買超 555 張長榮航，跟華航一樣，航空雙雄都被自營商看上，短線有搞頭，但這種量，隔日沖的機率很高。"
+          }
+        ]
+      }
+    ],
+    "strategies": [
+      {
+        "strategy_title": "策略一：高檔避險與資金避風港（金融、航空、電信）",
+        "strategy_content": "肖年仔，大盤在高檔震盪，大戶們可不是傻子，資金當然要找地方躲。外資狂掃華航、金融股，投信也買進兆豐金、遠傳這種防禦性高的電信股，這就是典型的避險操作。航空股則是看好解封後的報復性消費，提前卡位，準備拉高出貨，但也要小心漲多回檔。"
+      },
+      {
+        "strategy_title": "策略二：半導體產業鏈的重新洗牌與佈局",
+        "strategy_content": "Intel CEO都說了，AI不只看GPU，CPU跟基礎建設更重要。外資大買聯電、京元電子、南茂，自營商也跟進，這表示他們看好半導體產業鏈的擴散效應。但投信卻在賣聯電、南茂，這就是法人對作，看誰對產業趨勢看得更遠。同時，投信買進華邦電、南亞科，可能是在低檔佈局記憶體，準備等外資回頭接手，肖年仔別黑白猜，要看清楚。"
+      },
+      {
+        "strategy_title": "策略三：投信作帳行情與傳產低基期卡位",
+        "strategy_content": "投信大戶狂掃南亞、遠東新等傳產股，還有多檔金融股，這擺明就是作帳行情。這些股票通常股性較穩，殖利率也高，在大盤震盪時，是投信鎖碼的好標的，準備在季底或年底拉抬績效。外資雖然有賣一些金融，但整體來看，金融股仍是法人資金的重要去處，肖年仔可以觀察這些穩健的標的。"
+      }
+    ],
+    "summary": "肖年仔，今天三大法人各懷鬼胎，外資狂掃航空跟部分金融、半導體，投信則在傳產、金融跟記憶體作帳，自營商則跟風外資搞短線。市場資金流向很分歧，別黑白買，看清楚主力意圖才不會被割韭菜！",
+    "top_brokerages_analysis": [
+      {
+        "branch_name": "美商高盛",
+        "action": "買超 1.18 萬張",
+        "uncle_logic": "肖年仔，高盛這種外資大戶狂掃華航，這不是短線仔會幹的事。這擺明是看好後疫情時代的航空復甦大行情，準備長線佈局，等股價噴上去再慢慢倒貨給散戶，別傻傻去當接盤俠。"
+      },
+      {
+        "branch_name": "凱基台北",
+        "action": "買超 1284 張",
+        "uncle_logic": "凱基台北這分點，就是典型的隔日沖大本營！買聯電這種權值股，擺明就是看好今天有量，明天準備拉高出貨，肖年仔別傻傻去接刀啊！"
+      },
+      {
+        "branch_name": "元大投信",
+        "action": "買超 1.82 萬張",
+        "uncle_logic": "元大投信這種本土國家隊，大買南亞這種傳產龍頭，很明顯就是在作帳，或是看好低基期傳產股的價值。他們不會像外資那樣大進大出，而是穩穩地鎖碼，準備拉抬績效，肖年仔可以跟著吃豆腐。"
+      },
+      {
+        "branch_name": "摩根大通",
+        "action": "賣超 1.15 萬張",
+        "uncle_logic": "摩根大通這種外資大戶在倒貨台玻，這不是沒原因的。可能是獲利了結，也可能是對傳產前景有疑慮，肖年仔看到這種大咖在賣，可別黑白猜，小心點好！"
+      }
+    ]
+  },
+  "english_professor_news": [
+    {
+      "news_id": "news_1",
+      "title": "Intel CEO gives investors a reality check",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/ai/articles/intel-ceo-gives-investors-reality-184700678.html",
+      "level1_blind": {
+        "text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nAI stock investors have essentially been trained to follow a rule to invest in businesses closest to GPUs, data centers, and hyperscaler spending.\n\nIntel (INTC) CEO Lip-Bu Tan just flipped that script on the June 18 episode of No Priors: AI, Machine Learning, Tech, & Startups.\n\nTan believes that the AI trade is effectively moving beyond a simple GPU story and into harder infrastructure layers behind it\n\nHe effectively laid out a far bigger map of where the semiconductor space is being stretched.\n\nThat gives Intel a remarkably ambitious investor narrative, but also a tougher test in proving it can execute where the entire AI supply chain is under pressure.\n\nIntel CEO Lip-Bu Tan used the No Priors podcast to push the AI investment debate beyond GPUs.\n\nTan argued that the old training setup relied too heavily on GPUs, but newer AI workloads require much more orchestration, reinforcement learning, and coordination across agents. That is bringing CPUs back into the discussion. “Right now, the demand is very high for my CPU,” he said."
+      },
+      "level2_keywords": [
+        {
+          "word": "GPUs",
+          "ipa": "/ˌdʒiː.piːˈjuːz/",
+          "meaning": "繪圖處理器。最初用於處理電腦繪圖，現已成為人工智慧（AI）運算的核心硬體，尤其在深度學習和機器學習領域扮演關鍵角色。",
+          "example": "「Nvidia 的高階 GPUs 在AI訓練市場上幾乎是獨佔鰲頭。」"
+        },
+        {
+          "word": "Hyperscaler",
+          "ipa": "/ˈhaɪ.pərˌskeɪ.lər/",
+          "meaning": "超大規模雲端服務商。指那些提供大規模雲端運算基礎設施的巨頭公司，如Amazon AWS、Microsoft Azure和Google Cloud，它們是AI運算資源的主要需求方。",
+          "example": "「各大 Hyperscaler 為了滿足AI需求，正積極擴建其資料中心。」"
+        },
+        {
+          "word": "Semiconductor",
+          "ipa": "/ˌsem.i.kənˈdʌk.tər/",
+          "meaning": "半導體。指介於導體和絕緣體之間的材料，是所有現代電子產品（包括AI晶片）的基礎。",
+          "example": "「全球 Semiconductor 供應鏈的穩定性，對科技產業至關重要。」"
+        },
+        {
+          "word": "Orchestration",
+          "ipa": "/ˌɔːr.kəˈstreɪ.ʃən/",
+          "meaning": "編排/協調。在軟體或系統架構中，指自動化多個獨立服務、應用程式或元件之間的協調與管理，使其能協同工作以完成複雜任務。在AI領域，特別指管理和優化不同AI模型、資料流和硬體資源的運作。",
+          "example": "「新的AI工作負載需要更精密的資源 Orchestration，才能發揮最大效能。」"
+        },
+        {
+          "word": "CPUs",
+          "ipa": "/ˌsiː.piːˈjuːz/",
+          "meaning": "中央處理器。電腦的核心運算單元，負責執行指令和處理資料。雖然在AI訓練中常被GPU取代，但在某些AI推論和通用運算任務中仍扮演重要角色。",
+          "example": "「Intel 認為，隨著AI應用多元化，CPUs 在整體AI架構中的重要性將會回升。」"
+        }
+      ],
+      "level2_context": "各位同學，這則新聞的背景是，過去幾年AI產業的投資熱潮，主要都聚焦在繪圖處理器（GPU）及其相關的資料中心與超大規模雲端服務商（Hyperscaler）的支出上，因為GPU在AI模型訓練上具有強大優勢。然而，Intel的執行長Lip-Bu Tan現在提出了一個不同的觀點，他認為AI的發展已經超越了單純依賴GPU的階段，開始進入更深層次的基礎設施層面。這意味著，未來的AI工作負載將需要更複雜的協調（Orchestration）、強化學習（Reinforcement Learning）以及跨代理的協同合作，而這些需求將讓中央處理器（CPU）重新回到AI運算的核心討論中。對於Intel來說，這是一個極具野心的投資敘事，因為CPU是其傳統強項，這也代表他們正試圖在整個AI供應鏈面臨壓力的情況下，證明其執行能力，並在AI市場中重新定義自己的角色。簡單來說，就是Intel要告訴大家，AI不只是GPU的天下，CPU也有它不可或缺的地位。",
+      "level3_translation": [
+        {
+          "sentence": "The above button links to Coinbase.",
+          "translation": "「上方按鈕連結到加密貨幣交易平台Coinbase。」"
+        },
+        {
+          "sentence": "Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading.",
+          "translation": "「Yahoo財經並非證券經紀商或投資顧問，不提供證券或加密貨幣的銷售，也不協助交易。」"
+        },
+        {
+          "sentence": "Coinbase pays us for certain activity generated through this link.",
+          "translation": "「Coinbase會針對透過此連結產生的特定活動支付費用給我們。」"
+        },
+        {
+          "sentence": "Prices displayed are informational.",
+          "translation": "「所顯示的價格僅供參考。」"
+        },
+        {
+          "sentence": "AI stock investors have essentially been trained to follow a rule to invest in businesses closest to GPUs, data centers, and hyperscaler spending.",
+          "translation": "「人工智慧（AI）概念股的投資人，基本上已被訓練成遵循一個原則：投資那些與繪圖處理器（GPU）、資料中心以及超大規模雲端服務商（Hyperscaler）支出最相關的企業。」"
+        },
+        {
+          "sentence": "Intel (INTC) CEO Lip-Bu Tan just flipped that script on the June 18 episode of No Priors: AI, Machine Learning, Tech, & Startups.",
+          "translation": "「Intel（股票代號：INTC）執行長Lip-Bu Tan，在6月18日的『No Priors: AI, Machine Learning, Tech, & Startups』節目中，徹底顛覆了這個既定劇本。」"
+        },
+        {
+          "sentence": "Tan believes that the AI trade is effectively moving beyond a simple GPU story and into harder infrastructure layers behind it",
+          "translation": "「Tan認為，AI的投資趨勢正有效地從單純的GPU敘事，轉向背後更複雜的基礎設施層面。」"
+        },
+        {
+          "sentence": "He effectively laid out a far bigger map of where the semiconductor space is being stretched.",
+          "translation": "「他有效地描繪出半導體產業版圖正在擴展的更宏大願景。」"
+        },
+        {
+          "sentence": "That gives Intel a remarkably ambitious investor narrative, but also a tougher test in proving it can execute where the entire AI supply chain is under pressure.",
+          "translation": "「這賦予了Intel一個極具企圖心的投資論述，但同時也面臨更嚴峻的考驗，必須證明它能在整個AI供應鏈都面臨壓力的情況下，仍能有效執行其策略。」"
+        },
+        {
+          "sentence": "Intel CEO Lip-Bu Tan used the No Priors podcast to push the AI investment debate beyond GPUs.",
+          "translation": "「Intel執行長Lip-Bu Tan利用『No Priors』播客節目，將AI投資的討論推向超越GPU的範疇。」"
+        },
+        {
+          "sentence": "Tan argued that the old training setup relied too heavily on GPUs, but newer AI workloads require much more orchestration, reinforcement learning, and coordination across agents.",
+          "translation": "「Tan主張，舊有的AI訓練架構過度依賴GPU，但更新的AI工作負載需要更多的編排（Orchestration）、強化學習（Reinforcement Learning）以及跨代理的協調。」"
+        },
+        {
+          "sentence": "That is bringing CPUs back into the discussion.",
+          "translation": "「這使得中央處理器（CPU）重新回到討論的焦點。」"
+        },
+        {
+          "sentence": "“Right now, the demand is very high for my CPU,” he said.",
+          "translation": "「他表示：『目前，市場對我的CPU需求非常高。』」"
+        }
+      ]
+    },
+    {
+      "news_id": "news_2",
+      "title": "52-year-old Outback Steakhouse rival chain closes 24 locations",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/economy/articles/52-old-outback-steakhouse-rival-194700477.html",
+      "level1_blind": {
+        "text": "Rising food costs driven by inflation have been a problem for U.S. steakhouses ranging from high-end to budget establishments, leading some well-known restaurants to permanently shut their doors and in some cases file for bankruptcy\n\nAn increase in the cost of beef that led to steak prices spiking 16% to $12.73 per pound in March 2026, according to data from the Federal Reserve Bank of St. Louis, affected menu prices and discouraged some diners from dining in steakhouses, taking a bite out of restaurant revenue.\n\nSteakhouses that have closed locations in the U.S. over the last three months have included Fleming's Prime Steakhouse and Wine Bar, McCormick & Schmick's, and Stoney River Steakhouse and Grill, with Quaker Steak & Lube about to close one, too.\n\nA Golden Corral restaurant franchisee, Conroe Corral Murphy LLC, however filed for Chapter 11 bankruptcy in Texas on June 8 and continues to operate.\n\nOutback Steakhouse's owner Bloomin' Brands closed 21 locations in 2025 and said it would close another 22 locations in 2026 as leases expire, according to its third quarter earnings call.\n\n\"After almost 23 years of service, Quaker Steak & Lube is closing its doors after business closes on July 5th,\" Smith, who worked at the restaurant since 2009, said.\n\nNeither Smith nor Quaker Steak Lube stated a reason for closing the location, which opened in 2003. Smith said she began working at the restaurant in August 2009.\n\nThe Quaker Steak & Lube chain opened in 1974 in an abandoned gas station in Sharon, Pa., as a muscle car-themed, cook-your-own-steak restaurant chain."
+      },
+      "level2_keywords": [
+        {
+          "word": "bankruptcy",
+          "ipa": "/ˈbæŋkrʌptsi/",
+          "meaning": "破產（指個人或企業因無法償還債務而宣告無力償債的法律狀態）",
+          "example": "「The company filed for bankruptcy after years of declining sales.」"
+        },
+        {
+          "word": "franchisee",
+          "ipa": "/ˌfrænʧaɪˈziː/",
+          "meaning": "加盟商（指獲得特許經營權，經營特定品牌或業務的獨立企業或個人）",
+          "example": "「As a franchisee, you operate under the brand's established guidelines.」"
+        },
+        {
+          "word": "earnings call",
+          "ipa": "/ˈɜːrnɪŋz kɔːl/",
+          "meaning": "財報電話會議（上市公司向投資者和分析師公佈財務業績並回答問題的會議）",
+          "example": "「Investors closely watched the company's latest earnings call for future guidance.」"
+        },
+        {
+          "word": "revenue",
+          "ipa": "/ˈrɛvəˌnuː/",
+          "meaning": "營收／收入（指企業在一定時期內，透過銷售商品或提供服務所獲得的總金額）",
+          "example": "「The new marketing campaign aims to boost the company's quarterly revenue.」"
+        }
+      ],
+      "level2_context": "各位同學，這篇新聞在談的是美國餐飲業，特別是牛排館，面臨的嚴峻挑戰。我們可以看到，『通貨膨脹』這個經濟現象是背後的主要推手。當通膨發生時，食材成本，尤其是牛肉這種主要原料的價格會大幅上漲。這對餐飲業者來說，意味著他們的營運成本增加了。為了維持獲利，他們可能不得不調高菜單價格。然而，價格一高，消費者就會卻步，選擇減少外出用餐的頻率，或是轉向更平價的選項。這種消費行為的改變，直接衝擊了牛排館的『營收』，導致許多知名連鎖店不得不關閉部分門市，甚至有些撐不下去的就走向『破產』。這也提醒我們，即使是看似穩固的餐飲巨頭，在面對宏觀經濟壓力時，也必須做出艱難的營運決策。",
+      "level3_translation": [
+        {
+          "sentence": "Rising food costs driven by inflation have been a problem for U.S. steakhouses ranging from high-end to budget establishments, leading some well-known restaurants to permanently shut their doors and in some cases file for bankruptcy",
+          "translation": "「在美國，從高檔到平價的牛排館都面臨一個大問題，那就是由『通貨膨脹』所帶動的食材成本不斷上漲，這導致一些知名餐廳永久歇業，甚至有些還聲請了『破產』。」"
+        },
+        {
+          "sentence": "An increase in the cost of beef that led to steak prices spiking 16% to $12.73 per pound in March 2026, according to data from the Federal Reserve Bank of St. Louis, affected menu prices and discouraged some diners from dining in steakhouses, taking a bite out of restaurant revenue.",
+          "translation": "「根據聖路易聯邦準備銀行提供的數據，牛肉成本的增加導致牛排價格在2026年3月飆漲了16%，達到每磅12.73美元，這影響了菜單定價，也讓一些顧客打消了去牛排館用餐的念頭，進而侵蝕了餐廳的『營收』。」"
+        },
+        {
+          "sentence": "Steakhouses that have closed locations in the U.S. over the last three months have included Fleming's Prime Steakhouse and Wine Bar, McCormick & Schmick's, and Stoney River Steakhouse and Grill, with Quaker Steak & Lube about to close one, too.",
+          "translation": "「過去三個月在美國關閉門市的牛排館，包括了Fleming's Prime Steakhouse and Wine Bar、McCormick & Schmick's，以及Stoney River Steakhouse and Grill，而Quaker Steak & Lube也即將關閉一家分店。」"
+        },
+        {
+          "sentence": "A Golden Corral restaurant franchisee, Conroe Corral Murphy LLC, however filed for Chapter 11 bankruptcy in Texas on June 8 and continues to operate.",
+          "translation": "「然而，Golden Corral餐廳的『加盟商』Conroe Corral Murphy LLC，已於6月8日在德州聲請了美國破產法第11章的『破產』保護，但目前仍持續營運。」"
+        },
+        {
+          "sentence": "Outback Steakhouse's owner Bloomin' Brands closed 21 locations in 2025 and said it would close another 22 locations in 2026 as leases expire, according to its third quarter earnings call.",
+          "translation": "「根據Outback Steakhouse母公司Bloomin' Brands在第三季『財報電話會議』上透露，他們在2025年關閉了21家門市，並表示隨著『租約』到期，2026年還會再關閉22家。」"
+        },
+        {
+          "sentence": "\"After almost 23 years of service, Quaker Steak & Lube is closing its doors after business closes on July 5th,\" Smith, who worked at the restaurant since 2009, said.",
+          "translation": "「『在服務了將近23年之後，Quaker Steak & Lube將在7月5日營業結束後關閉，』自2009年起就在這家餐廳工作的Smith表示。」"
+        },
+        {
+          "sentence": "Neither Smith nor Quaker Steak Lube stated a reason for closing the location, which opened in 2003.",
+          "translation": "「Smith和Quaker Steak Lube都沒有說明這家於2003年開業的門市為何關閉。」"
+        },
+        {
+          "sentence": "Smith said she began working at the restaurant in August 2009.",
+          "translation": "「Smith說她是在2009年8月開始在這家餐廳工作的。」"
+        },
+        {
+          "sentence": "The Quaker Steak & Lube chain opened in 1974 in an abandoned gas station in Sharon, Pa., as a muscle car-themed, cook-your-own-steak restaurant chain.",
+          "translation": "「Quaker Steak & Lube連鎖店於1974年在賓州沙倫市的一個廢棄加油站開業，當時是以肌肉車為主題，主打顧客自己動手烹飪牛排的餐廳。」"
+        }
+      ]
+    },
+    {
+      "news_id": "news_3",
+      "title": "Intel Stock and 3 Other Winners I Found Using Barchart’s High-Octane Stock Screener",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-3-other-winners-153015920.html",
+      "level1_blind": {
+        "text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nAs you might have read in some of my past articles, when it comes to Barchart, I was a “long time listener, first time caller.” When I started writing here early last year, it was a case of “long time user, first time writer.”\n\nHundreds of articles later, I am still closer to the tip of the iceberg than the bottom of the ocean when it comes to scouting out ways to sharpen my investing skills. And thanks to Barchart, I have no shortage of new things to learn.\n\nOne feature within the Barchart Stock Screener tool that resonated with me is a pre-built filter known as the J-Pattern or J-Curve. I’ve kept my use of it mostly to myself, as it often opts for momentum stocks.\n\nI like momentum just like the next trader, but at the margin. I’m more of what I’d call a “contrarian chartist.” That is, when I see a pattern I’ve seen literally millions of times over the decades, I simply say to myself “aha, that’s one I’ll focus on.”\n\nMore recently, the J-Pattern screener has been producing both a mix of stocks already well into powerful moves which look to continue, and others which look to be in the early to middle innings of their moves. I quickly glanced at this list each day during my two recent stints filling in for Barchart’s Chart of the Day maestro, Jim Van Meerten.\n\nAs Jim returns to make us a little bit smarter each day, the current iteration of the J-Pattern screen (as of Thursday’s market close) caught my eye. Why? I found a quartet of intriguing charts.\n\nHere’s my full version of the screen, which is the standard one you can pull up under Barchart Screeners, alongside many others. All I do with my custom version of it is to put a $5 billion market cap restriction on it, to avoid stocks whose charts might be based on more scattered trading activity."
+      },
+      "level2_keywords": [
+        {
+          "word": "Stock Screener",
+          "ipa": "[stɑk ˈskriːnər]",
+          "meaning": "股票篩選器，一種工具，讓投資者能根據特定條件（如市值、產業、本益比等）來篩選出符合要求的股票。",
+          "example": "『A good stock screener can help investors identify potential opportunities efficiently.』"
+        },
+        {
+          "word": "momentum stocks",
+          "ipa": "[ˈmoʊmɛntəm stɑks]",
+          "meaning": "動能股，指股價在短期內呈現強勁上漲趨勢，並預期這種趨勢會持續的股票，常吸引追求快速獲利的交易者。",
+          "example": "『The J-Pattern screener often identifies momentum stocks, which can be volatile but offer high returns.』"
+        },
+        {
+          "word": "contrarian chartist",
+          "ipa": "[kənˈtrɛəriən ˈʧɑːrtɪst]",
+          "meaning": "逆勢圖表分析師，指透過技術圖表分析，專門尋找與市場主流趨勢相反的投資機會的分析師或投資者。",
+          "example": "『A contrarian chartist might buy when others are selling, looking for a reversal in the trend.』"
+        },
+        {
+          "word": "market cap",
+          "ipa": "[ˈmɑːrkɪt kæp]",
+          "meaning": "市值，指一家公司所有流通股的總價值，是衡量公司規模的重要指標。",
+          "example": "『He set a $5 billion market cap restriction to focus on larger, more stable companies.』"
+        },
+        {
+          "word": "J-Pattern",
+          "ipa": "[ʤeɪ ˈpætərn]",
+          "meaning": "J型模式，一種技術分析圖表形態，通常指股價在下跌後迅速反彈，形成類似字母「J」的走勢，預示股價可能持續上漲。",
+          "example": "『The J-Pattern is a specific technical analysis formation that the author uses to identify potential investment opportunities.』"
+        }
+      ],
+      "level2_context": "各位同學，這篇文章是一位財經作家分享他如何利用Barchart這個股票篩選工具，搭配他個人偏好的「J型模式」篩選器，來尋找潛在的投資標的。他特別提到，雖然這個篩選器常找出「動能股」，但他自己更像是一位「逆勢圖表分析師」，會從這些模式中找出他感興趣的股票。這顯示了在當今市場上，許多投資人會運用各種技術分析工具和策略來輔助決策，而不同的工具和策略也反映了投資人不同的風險偏好和投資哲學。這篇文章的重點在於介紹一種個人化的選股方法，以及如何透過設定市值限制來優化篩選結果，避免交易量不夠活躍的股票。",
+      "level3_translation": [
+        {
+          "sentence": "The above button links to Coinbase.",
+          "translation": "『上方那個按鈕會連結到Coinbase。』"
+        },
+        {
+          "sentence": "Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading.",
+          "translation": "『Yahoo財經並非證券經紀商或投資顧問，也不提供證券或加密貨幣的銷售或交易服務。』"
+        },
+        {
+          "sentence": "Coinbase pays us for certain activity generated through this link.",
+          "translation": "『Coinbase會因為透過此連結產生的特定活動而支付我們費用。』"
+        },
+        {
+          "sentence": "Prices displayed are informational.",
+          "translation": "『所顯示的價格僅供參考。』"
+        },
+        {
+          "sentence": "As you might have read in some of my past articles, when it comes to Barchart, I was a “long time listener, first time caller.”",
+          "translation": "『正如您可能在我過去的一些文章中讀到的，談到Barchart這個平台，我過去一直是「長期聽眾，首次發言者」（意指長期關注但未曾實際參與）。』"
+        },
+        {
+          "sentence": "When I started writing here early last year, it was a case of “long time user, first time writer.”",
+          "translation": "『當我去年初開始在這裡寫作時，情況就變成「長期使用者，首次作者」（意指長期使用該工具但首次撰寫相關內容）。』"
+        },
+        {
+          "sentence": "Hundreds of articles later, I am still closer to the tip of the iceberg than the bottom of the ocean when it comes to scouting out ways to sharpen my investing skills.",
+          "translation": "『寫了數百篇文章之後，在探索如何精進我的投資技能方面，我感覺自己仍處於冰山一角，而非深海底部（意指還有很多東西要學）。』"
+        },
+        {
+          "sentence": "And thanks to Barchart, I have no shortage of new things to learn.",
+          "translation": "『多虧了Barchart，我總是有學不完的新知識。』"
+        },
+        {
+          "sentence": "One feature within the Barchart Stock Screener tool that resonated with me is a pre-built filter known as the J-Pattern or J-Curve.",
+          "translation": "『在Barchart股票篩選工具中，有一個讓我深感共鳴的功能，就是一個預設的篩選器，它被稱為「J型模式」或「J型曲線」。』"
+        },
+        {
+          "sentence": "I’ve kept my use of it mostly to myself, as it often opts for momentum stocks.",
+          "translation": "『我大多將它的使用方法保留給自己，因為它經常會篩選出「動能股」。』"
+        },
+        {
+          "sentence": "I like momentum just like the next trader, but at the margin.",
+          "translation": "『我跟其他交易員一樣喜歡動能股，但僅限於邊際（意指在特定條件下）。』"
+        },
+        {
+          "sentence": "I’m more of what I’d call a “contrarian chartist.”",
+          "translation": "『我更像是一位我會稱之為「逆勢圖表分析師」的人。』"
+        },
+        {
+          "sentence": "That is, when I see a pattern I’ve seen literally millions of times over the decades, I simply say to myself “aha, that’s one I’ll focus on.”",
+          "translation": "『也就是說，當我看到一個數十年來已見過數百萬次的模式時，我會簡單地對自己說：「啊哈，這就是我要關注的目標。」』"
+        },
+        {
+          "sentence": "More recently, the J-Pattern screener has been producing both a mix of stocks already well into powerful moves which look to continue, and others which look to be in the early to middle innings of their moves.",
+          "translation": "『最近，這個「J型模式」篩選器篩選出的股票，有些已經處於強勁的漲勢中且看來會持續，有些則似乎正處於其漲勢的早期或中期階段。』"
+        },
+        {
+          "sentence": "I quickly glanced at this list each day during my two recent stints filling in for Barchart’s Chart of the Day maestro, Jim Van Meerten.",
+          "translation": "『在我最近兩次代班Barchart「每日圖表大師」Jim Van Meerten期間，我每天都會快速瀏覽這份清單。』"
+        },
+        {
+          "sentence": "As Jim returns to make us a little bit smarter each day, the current iteration of the J-Pattern screen (as of Thursday’s market close) caught my eye.",
+          "translation": "『隨著Jim回歸，每天讓我們增長一點智慧，截至週四收盤，目前這個「J型模式」篩選器的最新版本吸引了我的目光。』"
+        },
+        {
+          "sentence": "Why?",
+          "translation": "『為什麼呢？』"
+        },
+        {
+          "sentence": "I found a quartet of intriguing charts.",
+          "translation": "『我發現了四個引人入勝的圖表。』"
+        },
+        {
+          "sentence": "Here’s my full version of the screen, which is the standard one you can pull up under Barchart Screeners, alongside many others.",
+          "translation": "『這是我完整的篩選器版本，它就是你在Barchart篩選器中可以找到的標準版本，旁邊還有許多其他篩選器。』"
+        },
+        {
+          "sentence": "All I do with my custom version of it is to put a $5 billion market cap restriction on it, to avoid stocks whose charts might be based on more scattered trading activity.",
+          "translation": "『我對我的自訂版本所做的，只是加上一個50億美元的「市值」限制，以避免那些圖表可能基於較為零散的交易活動的股票。』"
+        }
+      ]
+    }
+  ],
+  "market_linker_insight": {
+    "violence_connection": "今日台股大戶籌碼動向與國際科技財經新聞之間，浮現一條極其精密的「資訊暴力聯結」線索。6月22日，英特爾（Intel）執行長在美股盤後發表了關鍵言論，強調AI投資已從單純的GPU敘事，擴展至更廣泛的「硬體基礎設施層」，並明確指出CPU需求正強勁回升。這項消息在台灣時間週一（6/24）開盤前已充分發酵，成為大戶提前部署的黃金信號。\n\n觀察今日台股，外資與自營商不約而同地大買聯電（2303）、京元電子（2449）、南茂（8150）及南電（8046）等半導體供應鏈關鍵廠商。聯電作為晶圓代工廠，若CPU需求擴大，其成熟製程或特殊製程的訂單有望受惠；京元電子與南茂則是封測大廠，CPU及相關AI晶片需求增長，直接帶動後段封測業務量；而南電作為ABF載板供應商，更是高階CPU與AI晶片不可或缺的關鍵材料。這些買盤精準地指向了「非GPU獨大」的AI基礎設施擴建趨勢。\n\n值得注意的是，投信在聯電與南茂上呈現賣超，但在華邦電（2344）與南亞科（2408）等記憶體股卻是買超，顯示機構法人對AI浪潮下的半導體板塊有著不同的側重與佈局策略。然而，外資與自營商對晶圓代工、封測及載板的積極佈局，無疑是提前嗅到Intel釋出的訊號，預判AI生態系將更為多元，並將資金精準灌注於台灣在全球半導體供應鏈中不可或缺的環節，進行一場深思熟慮的套利與預先部署。"
+  }
+}
