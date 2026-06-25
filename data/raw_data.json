@@ -1,192 +1,192 @@
 {
-  "date": "2026-06-25",
-  "stock_market_date": "2026-06-24",
+  "date": "2026-06-26",
+  "stock_market_date": "2026-06-25",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 83295842
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 52215807
         },
         {
           "rank": 2,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 61356527
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_buy_shares": 39475499
         },
         {
           "rank": 3,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 25400553
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_buy_shares": 23417883
         },
         {
           "rank": 4,
-          "stock_name": "台塑",
-          "ticker": "1301",
-          "net_buy_shares": 20646302
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_buy_shares": 18512573
         },
         {
           "rank": 5,
-          "stock_name": "台化",
-          "ticker": "1326",
-          "net_buy_shares": 20604701
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_buy_shares": 14683952
         },
         {
           "rank": 6,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_buy_shares": 15294058
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 13423165
         },
         {
           "rank": 7,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_buy_shares": 14041692
+          "stock_name": "台泥",
+          "ticker": "1101",
+          "net_buy_shares": 12700000
         },
         {
           "rank": 8,
-          "stock_name": "凌巨",
-          "ticker": "8105",
-          "net_buy_shares": 10154053
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_buy_shares": 12080594
         },
         {
           "rank": 9,
-          "stock_name": "東和鋼鐵",
-          "ticker": "2006",
-          "net_buy_shares": 7741337
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 11768117
         },
         {
           "rank": 10,
-          "stock_name": "和碩",
-          "ticker": "4938",
-          "net_buy_shares": 7649206
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_buy_shares": 11113395
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -126206899
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -87947500
         },
         {
           "rank": 2,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -51790233
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_sell_shares": -54162831
         },
         {
           "rank": 3,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -43044546
+          "stock_name": "金寶",
+          "ticker": "2312",
+          "net_sell_shares": -33120413
         },
         {
           "rank": 4,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_sell_shares": -40496692
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -30257446
         },
         {
           "rank": 5,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -38450174
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_sell_shares": -26839049
         },
         {
           "rank": 6,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_sell_shares": -37759620
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -23490994
         },
         {
           "rank": 7,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_sell_shares": -29206914
+          "stock_name": "南茂",
+          "ticker": "8150",
+          "net_sell_shares": -21119166
         },
         {
           "rank": 8,
           "stock_name": "永豐金",
           "ticker": "2890",
-          "net_sell_shares": -27646655
+          "net_sell_shares": -18369976
         },
         {
           "rank": 9,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -25214333
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_sell_shares": -17691267
         },
         {
           "rank": 10,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_sell_shares": -24433627
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_sell_shares": -17042840
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 40906501
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 37035644
         },
         {
           "rank": 2,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 33632000
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 32401000
         },
         {
           "rank": 3,
           "stock_name": "永豐金",
           "ticker": "2890",
-          "net_buy_shares": 30210097
+          "net_buy_shares": 30661000
         },
         {
           "rank": 4,
           "stock_name": "華南金",
           "ticker": "2880",
-          "net_buy_shares": 26678000
+          "net_buy_shares": 25343000
         },
         {
           "rank": 5,
           "stock_name": "玉山金",
           "ticker": "2884",
-          "net_buy_shares": 24193893
+          "net_buy_shares": 22770000
         },
         {
           "rank": 6,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_buy_shares": 18985000
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 19339000
         },
         {
           "rank": 7,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 18072000
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 15911000
         },
         {
           "rank": 8,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 16345000
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_buy_shares": 15144000
         },
         {
           "rank": 9,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 13077000
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_buy_shares": 13928000
         },
         {
           "rank": 10,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_buy_shares": 11697000
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 11009450
         }
       ],
       "trust_sell": [
@@ -194,185 +194,185 @@
           "rank": 1,
           "stock_name": "聯電",
           "ticker": "2303",
-          "net_sell_shares": -27264690
+          "net_sell_shares": -26375763
         },
         {
           "rank": 2,
           "stock_name": "元大金",
           "ticker": "2885",
-          "net_sell_shares": -13353063
+          "net_sell_shares": -13233000
         },
         {
           "rank": 3,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_sell_shares": -8220000
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_sell_shares": -7149000
         },
         {
           "rank": 4,
-          "stock_name": "東和鋼鐵",
-          "ticker": "2006",
-          "net_sell_shares": -5604664
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_sell_shares": -6433856
         },
         {
           "rank": 5,
-          "stock_name": "群益證",
-          "ticker": "6005",
-          "net_sell_shares": -4495252
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_sell_shares": -5775444
         },
         {
           "rank": 6,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -4227000
+          "stock_name": "寶成",
+          "ticker": "9904",
+          "net_sell_shares": -5732000
         },
         {
           "rank": 7,
-          "stock_name": "亞泥",
-          "ticker": "1102",
-          "net_sell_shares": -4193506
+          "stock_name": "東和鋼鐵",
+          "ticker": "2006",
+          "net_sell_shares": -5335378
         },
         {
           "rank": 8,
-          "stock_name": "京元電子",
-          "ticker": "2449",
-          "net_sell_shares": -3807000
+          "stock_name": "群益證",
+          "ticker": "6005",
+          "net_sell_shares": -5154430
         },
         {
           "rank": 9,
-          "stock_name": "光寶科",
-          "ticker": "2301",
-          "net_sell_shares": -3701000
+          "stock_name": "東陽",
+          "ticker": "1319",
+          "net_sell_shares": -4695000
         },
         {
           "rank": 10,
-          "stock_name": "瑞儀",
-          "ticker": "6176",
-          "net_sell_shares": -3557000
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_sell_shares": -4096000
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 5786000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 4086000
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 5649000
+          "stock_name": "三商壽",
+          "ticker": "2867",
+          "net_buy_shares": 3084000
         },
         {
           "rank": 3,
           "stock_name": "群創",
           "ticker": "3481",
-          "net_buy_shares": 1384000
+          "net_buy_shares": 2367990
         },
         {
           "rank": 4,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 1228000
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 2121000
         },
         {
           "rank": 5,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 1193476
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_buy_shares": 1130994
         },
         {
           "rank": 6,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_buy_shares": 931099
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 994522
         },
         {
           "rank": 7,
-          "stock_name": "三商壽",
-          "ticker": "2867",
-          "net_buy_shares": 653000
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 789004
         },
         {
           "rank": 8,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 552000
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 744391
         },
         {
           "rank": 9,
-          "stock_name": "中華電",
-          "ticker": "2412",
-          "net_buy_shares": 478985
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_buy_shares": 688959
         },
         {
           "rank": 10,
-          "stock_name": "和桐",
-          "ticker": "1714",
-          "net_buy_shares": 233000
+          "stock_name": "中華電",
+          "ticker": "2412",
+          "net_buy_shares": 446445
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "台灣高鐵",
-          "ticker": "2633",
-          "net_sell_shares": -4927258
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_sell_shares": -2100000
         },
         {
           "rank": 2,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_sell_shares": -2103995
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_sell_shares": -1524992
         },
         {
           "rank": 3,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_sell_shares": -1422000
+          "stock_name": "遠雄",
+          "ticker": "5522",
+          "net_sell_shares": -1458000
         },
         {
           "rank": 4,
           "stock_name": "台玻",
           "ticker": "1802",
-          "net_sell_shares": -1103995
+          "net_sell_shares": -1322000
         },
         {
           "rank": 5,
-          "stock_name": "力成",
-          "ticker": "6239",
-          "net_sell_shares": -1068093
+          "stock_name": "大聯大",
+          "ticker": "3702",
+          "net_sell_shares": -1187000
         },
         {
           "rank": 6,
-          "stock_name": "台達電",
-          "ticker": "2308",
-          "net_sell_shares": -1035203
+          "stock_name": "力成",
+          "ticker": "6239",
+          "net_sell_shares": -1164253
         },
         {
           "rank": 7,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -831000
+          "stock_name": "金寶",
+          "ticker": "2312",
+          "net_sell_shares": -876000
         },
         {
           "rank": 8,
-          "stock_name": "華新科",
-          "ticker": "2492",
-          "net_sell_shares": -623851
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -844920
         },
         {
           "rank": 9,
-          "stock_name": "晶技",
-          "ticker": "3042",
-          "net_sell_shares": -513998
+          "stock_name": "智易",
+          "ticker": "3596",
+          "net_sell_shares": -669000
         },
         {
           "rank": 10,
-          "stock_name": "智原",
-          "ticker": "3035",
-          "net_sell_shares": -445000
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_sell_shares": -657917
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "力積電",
-        "shares": 29153544
+        "target": "華航",
+        "shares": 18275532
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "華航",
-        "shares": 2314400
+        "target": "聯電",
+        "shares": 1634400
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "兆豐金",
-        "shares": 18407925
+        "target": "華邦電",
+        "shares": 16666039
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "元大台灣50",
-        "shares": 37862069
+        "target": "力積電",
+        "shares": 26384250
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Czech billionaire extracts £114m from Royal Mail owner",
+      "title": "Pegasystems (PEGA) Is Growing On The Back Of AI, Could Investors Be Missing This Opportunity?",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/czech-billionaire-extracts-114m-royal-145510693.html",
-      "summary": "Czech billionaire extracts £114m from Royal Mail owner",
-      "full_text": "Royal Mail's billionaire owner has extracted £114m from the postal service's owner even as it grapples with a letter-delay crisis.\n\nThe money was paid out last year to a company controlled by Daniel Křetínský, the Czech tycoon who bought Royal Mail, to cover interest payments linked to his debt-fuelled £3.6bn takeover.\n\nThe payout appears to run counter to the billionaire's promise not to pay dividends from the business unless performance improved.\n\nSpeaking in front of MPs earlier this year, Mr Křetínský said Royal Mail would not distribute dividends if its quality of service deteriorated compared with before the takeover.\n\nThe latest Ofcom figures show the postal service delivered just 75.7pc of letters on time last year, down from 76.5pc in the prior year.\n\nRoyal Mail insisted that the £114m payment did not qualify as a dividend as it was only being used to service debt and had not been paid out to Mr Křetínský's EP Group.\n\nA spokesman for Royal Mail's parent company International Distribution Services (IDS) said: \"IDS did not pay a dividend to EP Group.\n\n\"The dividend was paid by IDS to its immediate UK parent, EP Distribution Services Limited, and was ultimately used to fund interest on the debt that financed EP's acquisition of IDS.\"",
-      "published": "2026-06-23T14:55:10Z"
+      "link": "https://finance.yahoo.com/technology/ai/articles/pegasystems-pega-growing-back-ai-152429540.html",
+      "summary": "Pegasystems (PEGA) Is Growing On The Back Of AI, Could Investors Be Missing This Opportunity?",
+      "full_text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nPegasystems Inc. (NASDAQ:PEGA) is one of the 10 Best 52-Week Low Technology Stocks to Buy According to Analysts. Pegasystems Inc. (NASDAQ:PEGA) has seen bullish analyst activity recently. On June 10, Lucky Schreiner of D.A. Davidson reiterated a Buy rating on the stock and assigned a target price of $55. The analyst price target reflects a significant 87% upside from current levels.\n\nEarlier, on June 8, PEGA announced that it had completed the transition to a subscription-based model. The AI tailwind continues to help the company in its growth plans, though investor sentiment hasn't yet turned positive. The software company highlighted strong recurring revenue from its cloud business, with Pega Cloud ACV rising from 16% in Q1 2024 to 29% in 2026. As a result, the company reported improved profitability, with stronger gross and operating margins. In addition, its free cash flow has significantly improved, rising from modest levels in 2022 to over half a billion dollars annually.\n\nMoreover, the management sees additional growth in recurring revenue streams. It plans to achieve this through selling more products and services to existing customers, winning new clients through its Blueprint AI platform, and expanding its cloud business. The company also reported strong sales momentum, with its overall sales growing 29% year over year.\n\nPegasystems Inc. (NASDAQ:PEGA) develops, markets, hosts, and supports enterprise software. It offers Pega Infinity, software that helps businesses improve customer engagement and automate workflows. The company offers its software across a wide range of industries, including financial services, healthcare, communications, government, insurance, and technology. It was founded in 1983 and is headquartered in Waltham, Massachusetts.\n\nWhile we acknowledge the potential of PEGA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT:  7 Worst Cloud Stocks To Buy According to Short Sellers and 10 Best High-Bandwidth Memory (HBM4) Value Chain Stocks to Buy According to Hedge Funds.",
+      "published": "2026-06-24T15:24:29Z"
     },
     {
       "id": "news_2",
-      "title": "As Centrus Order Backlog Swells, Growth Acceleration Can Trigger Stock Upside",
+      "title": "Trading At 52-Week Lows, Pony AI (PONY) Stock Could More Than Double From Here According To Analysts",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/centrus-order-backlog-swells-growth-145009950.html",
-      "summary": "As Centrus Order Backlog Swells, Growth Acceleration Can Trigger Stock Upside",
-      "full_text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nCentrus Energy (LEU) has a unique positioning as the only publicly traded, deployment-ready enricher that's positioned to fuel the future of nuclear power. LEU stock's performance has however been middling with a decline of 4% in the last 52-weeks.\n\nHowever, this should not be a deterrent from considering exposure to LEU stock. On the contrary, the sideways movement provides a good opportunity for exposure as Centrus Energy positions itself to benefit from the LEU (Low-Enriched Uranium) and HALEU (High-Assay Low-Enriched Uranium) market.\n\nThe Big Tech Investment Cycle is Shifting, and Chevron Just Wrote the Blueprint for the AI Power Trade.\n\nIn an important step towards that direction, Oklo (OKLO) and Centrus Energy signed a letter of intent to purchase nuclear fuel for the former's Aurora Powerhouse deployment. As a part of this agreement, Centrus would supply HALEU to five Aurora powerhouses for multiple years, with deliveries to Oklo beginning in 2029. The long-term agreement will support Centrus Energy's revenue visibility.\n\nHeadquartered in Bethesda, Maryland, Centrus Energy is a supplier of nuclear fuel components for the nuclear power industry. The company operates in two business segments: LEU, which supplies various components of nuclear fuel and Technical Solutions, which provides advanced uranium enrichment for the nuclear industry and the U.S. government.\n\nSince 1998, Centrus has provided its utility customers with 1,850 reactor years of fuel, which is equivalent to more than seven billion tons of coal. For FY25, Centrus reported revenue and gross profit of $448.7 million and $117.5 million, respectively. For the year, The LEU segment contributed to 77% of the revenue with 23% coming from the Technical Solutions segment. Further, the company ended FY25 with a strong balance sheet and a cash buffer of $2 billion.\n\nAs of May 2026, Centrus Energy reported an order book of $3.9 billion (including contingent sales). With contracts extending through 2040, the backlog provides Centrus with long-term cash flow visibility. While the growth outlook is positive, Centrus stock has corrected by 27% in the last six months. This seems like a good accumulation opportunity.",
-      "published": "2026-06-23T14:50:09Z"
+      "link": "https://finance.yahoo.com/technology/ai/articles/trading-52-week-lows-pony-152427072.html",
+      "summary": "Trading At 52-Week Lows, Pony AI (PONY) Stock Could More Than Double From Here According To Analysts",
+      "full_text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nPony AI Inc. (NASDAQ::PONY) is one of the 10 Best 52-Week Low Technology Stocks to Buy According to Analysts.  On June 9, in collaboration with Stellantis and Bolt, Pony AI Inc. (NASDAQ:PONY), a global leader in autonomous driving technology, launched a mobility pilot program in Luxembourg. This will allow the companies to test autonomous vehicle technology in the country's local traffic. The testing program focused on the safety, performance, and regulatory readiness of Pony's seventh-generation autonomous vehicles. Moreover, the partners are preparing the pilot program, which is designed to test the technologies and operational processes required to support safe mobility in cities. The pilot program was based on earlier plans by Stellantis, Pony, and Bolt to help expand mobility solutions in Europe. This shows autonomous companies are heavily focused on delivering driverless transportation services on a larger scale.\n\n\"Luxembourg's forward-looking regulatory environment provides a strong foundation for autonomous mobility testing in Europe. Together with Bolt and Stellantis, we look forward to validating Pony.ai's technology in local traffic scenarios and supporting the responsible development of autonomous mobility across the region.\"\n\nEarlier on May 28, Barclays analyst Jiong Shao reiterated a Hold rating on Pony AI Inc. (NASDAQ:PONY) with a target price of $10. The firm's price target suggests an additional 19% upside from the current levels.\n\nPony AI Inc. (NASDAQ:PONY) is involved in the autonomous mobility sector. It provides several AV services, including software deployment, vehicle engineering, and more. It also offers logistics platforms with transportation services, along with licensing and applications business that includes personally owned vehicle intelligent solutions, data analytics tools, and more.\n\nWhile we acknowledge the potential of PONY as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT:  7 Worst Cloud Stocks To Buy According to Short Sellers and 10 Best High-Bandwidth Memory (HBM4) Value Chain Stocks to Buy According to Hedge Funds.",
+      "published": "2026-06-24T15:24:27Z"
     },
     {
       "id": "news_3",
-      "title": "Silver, Bitcoin, and Palantir Prove That Chasing the ‘Hot Dot’ Is a Great Way to Lose Your Money",
+      "title": "PayPal No Longer Deserves A Premium Valuation. Here's Why.",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/silver-bitcoin-palantir-prove-chasing-145130021.html",
-      "summary": "Silver, Bitcoin, and Palantir Prove That Chasing the ‘Hot Dot’ Is a Great Way to Lose Your Money",
-      "full_text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nInvestors who have chased dozens of popular stocks and ETFs are now watching them come crashing back down. They fell into the trap of the \"Hot Dot,\" throwing out all the lessons from legends like Warren Buffett and Benjamin Graham.\n\nD-Wave Just Unveiled a Major Quantum Breakthrough. QBTS Stock Looks Ready for Another Surge.\n\nIt's not that traders aren't nimble. In fact, new, nimble traders enter the market every day thanks to unprecedented access to high-quality investment data, such as the treasure trove available here at Barchart.com.\n\nInstead, it's that the temptation to buy a stock or ETF simply \"because it is up\" is a natural, human emotion.\n\nSome would conclude that it's retail investors falling prey to the \"Hot Dot\" trap, buying 52-week highs with reckless abandon. In my experience, it's just as likely, if not more so, that professionals are stoking the \"Hot Dot\" flame. Advisors and money managers get paid to perform. Sometimes, that means their last resort is to chase.\n\nThey call it \"avoiding career suicide,\" since they realize that clients will ultimately look at the S&P 500 Index ($SPX) as a benchmark, even if it does not bear much resemblance to their tolerance for risk. Such is life in modern, algorithmic-driven markets where the major indexes suck much the air out of the room.\n\nThe crowd loves a winner, especially when it's moving straight up. When an asset starts hitting new highs day after day, it creates a powerful urge to jump in.",
-      "published": "2026-06-23T14:51:30Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/paypal-no-longer-deserves-premium-152500993.html",
+      "summary": "PayPal No Longer Deserves A Premium Valuation. Here's Why.",
+      "full_text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nPayPal's (NASDAQ: PYPL) share price has stumbled by more than 25% year to date, and the stock now trades at a P/E ratio of 8. However, that doesn't make it a buy right away, and it may never climb to a lofty P/E ratio now that the growth narrative is mostly dead.\n\nPayPal delivered 7% year-over-year revenue growth in the first quarter, which is well below that of emerging fintech stocks like SoFi Technologies (up 41% in Q1) and Robinhood Markets (up 15%). PayPal's revenue compound annual growth rate (CAGR) has been declining in recent years. It has a 10-year CAGR of 13.9%, but only a 7.2% CAGR over the past three years.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nPayPal isn't delivering high user growth rates either. The company reached 439 million daily active users in Q1, which only represents a 1% year-over-year increase. Meanwhile, Meta Platforms, a company known by almost everyone, delivered 4% year-over-year user growth but turned that into 33% year-over-year revenue growth. More specifically, in fintech, SoFi grew its user base by 35% year over year.\n\nPayPal doesn't have the exciting user growth rates of SoFi, and it can't translate low user growth into surging sales the way Meta Platforms can. PayPal CEO Enrique Lores said in the Q1 press release that he was confident that the company would soon return to \"a more durable path to long-term growth,\" but the multiyear trend makes it an uphill battle.\n\nPayPal didn't have many competitors in its early days, but that has changed. Apple and Alphabet have payment apps that bypass PayPal for transactions, which is how PayPal makes most of its money. Stripe is another major competitor, and as more companies enter the crowded arena, the best way to gain traction is to have lower fees.\n\nThis sets up a race to the bottom, and when it comes to such races, Apple and Alphabet can wait out almost anyone. That's not to suggest PayPal will go out of business. It has far too many users and has become an established brand. However, it will make it even more difficult for the company to gain meaningful market share and expand margins in the years ahead, and that can be enough to keep the stock at a low valuation.",
+      "published": "2026-06-24T15:25:00Z"
     }
   ]
 }

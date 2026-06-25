@@ -1,100 +1,85 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "stock_uncle_insight": {
-    "date_header": "6/25 法人與主力大戶主要買超股票",
+    "date_header": "6/26 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：高檔出貨電子，轉進傳產與防禦型",
+        "group_title": "1. 外資大戶：狂掃航空與傳產，避險兼卡位",
         "stocks": [
-          {
-            "stock_name": "力積電",
-            "ticker": "6770",
-            "description": "肖年仔，你看這力積電，外資狂掃 8.32 萬張，這擺明是看好半導體跌深反彈，還是有什麼新題材要點火？但別忘了，外資也不是省油的燈，買這麼多，搞不好是想拉高出貨給散戶接刀！"
-          },
           {
             "stock_name": "華航",
             "ticker": "2610",
-            "description": "航空雙雄之一的華航，外資大買 6.13 萬張，這很明顯是看好暑假旺季題材，還是避險資金轉進？但這種股票，漲多也是要小心的，別追高被倒貨了。"
-          },
-          {
-            "stock_name": "長榮航",
-            "ticker": "2618",
-            "description": "長榮航也跟著華航，外資買超 2.54 萬張。航空股最近很夯，但主力進出頻繁，肖年仔要看清楚，這波是真愛還是隔日沖？"
+            "description": "肖年仔，外資狂掃 5.2 萬張華航，這擺明是看好暑假旺季題材，準備拉高出貨給散戶接刀。這不是真外資長線佈局，是短線炒作的訊號啦！"
           },
           {
             "stock_name": "台塑",
             "ticker": "1301",
-            "description": "傳產龍頭台塑，外資買超 2.06 萬張。這波外資把資金從電子抽出來，轉進塑化這種相對穩定的傳產，擺明是高檔避險，找個資金避風港。"
+            "description": "外資敲進 3.9 萬張台塑，傳產龍頭股，在大盤震盪時，外資把資金轉進這種低波動的權值股，當作資金避風港，穩穩賺，但別期待噴出。"
           },
           {
-            "stock_name": "台化",
-            "ticker": "1326",
-            "description": "台化也跟著台塑，外資買超 2.06 萬張。傳產股最近有資金輪動的跡象，外資這是在佈局低基期，還是看好下半年景氣復甦？"
+            "stock_name": "合庫金",
+            "ticker": "5880",
+            "description": "外資買超 2.3 萬張合庫金，金融股是外資在避險時的愛股，殖利率高、波動小，進可攻退可守，但投信卻在賣部分金融，有點對作，肖年仔要看清楚。"
           },
           {
-            "stock_name": "臺企銀",
-            "ticker": "2834",
-            "description": "金融股臺企銀，外資買超 1.52 萬張。在大盤震盪的時候，金融股就是外資的避風港，穩穩賺股息，風險又低，這叫作「穩健佈局」。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，鎖定金融與防禦型",
-        "stocks": [
-          {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "投信狂買兆豐金 4.09 萬張，肖年仔，這就是標準的投信作帳行情！金融股高殖利率又穩健，是基金經理人年底衝績效的好標的，而且外資大賣，投信卻大買，這叫「內外資對作」。"
-          },
-          {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "華邦電被投信買超 3.36 萬張，記憶體族群最近有復甦題材，投信這是在卡位，還是看好下半年漲價效應？"
-          },
-          {
-            "stock_name": "永豐金",
-            "ticker": "2890",
-            "description": "永豐金也獲投信買超 3.02 萬張。投信對金融股的愛，真的是不離不棄，這批國家隊就是喜歡這種穩定的標的，好拉抬又好結帳。"
-          },
-          {
-            "stock_name": "華南金",
-            "ticker": "2880",
-            "description": "華南金被投信買超 2.66 萬張。看來投信這波就是鎖定金融族群，準備一路作帳到年底，肖年仔別傻傻去追高電子股，小心被割韭菜。"
-          },
-          {
-            "stock_name": "玉山金",
-            "ticker": "2884",
-            "description": "玉山金也獲投信買超 2.41 萬張。投信這波對金融股的買超力道很強，這不是單純的買盤，這是有計畫的作帳佈局。"
-          },
-          {
-            "stock_name": "遠傳",
-            "ticker": "4904",
-            "description": "遠傳被投信買超 1.89 萬張。電信股也是防禦性標的，高殖利率，股價波動小，是投信在市場震盪時的避風港。"
-          }
-        ]
-      },
-      {
-        "group_title": "3. 內資主力與實戶：短線避險與搶反彈，航空、聯電成焦點",
-        "stocks": [
-          {
-            "stock_name": "華航",
-            "ticker": "2610",
-            "description": "自營商買超華航 0.57 萬張，這跟外資的動作很像，但自營商的單通常比較短線，可能是跟著外資的腳步，也可能是權證避險盤在動。"
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "外資也買進 1.3 萬張長榮航，跟華航一樣，航空雙雄一起被外資鎖定，旺季題材發酵，但也要小心高檔倒貨，別當最後一隻老鼠。"
           },
           {
             "stock_name": "聯電",
             "ticker": "2303",
-            "description": "聯電被自營商買超 0.56 萬張，但投信卻是大賣聯電 2.72 萬張。這就是內外資對作的典型，自營商可能在搶跌深反彈，但投信卻在結帳，肖年仔要小心，別接刀接到手軟。"
+            "description": "外資買超 1.1 萬張聯電，但投信卻大賣 2.6 萬張，自營商小買，這檔外資跟投信在對作，主力意圖不明，肖年仔們風險較高，別黑白買。"
+          }
+        ]
+      },
+      {
+        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，鎖定金融與記憶體",
+        "stocks": [
+          {
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "投信狂敲 3.7 萬張華邦電，記憶體族群最近有題材，投信這是在作帳，準備拉抬衝績效，肖年仔們可以觀察，但別傻傻追高被割韭菜。"
+          },
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "投信買超 3.2 萬張兆豐金，永豐金、華南金、玉山金、第一金也都在買超榜上，投信這波是集體鎖定金融股，準備年底作帳，跟外資在部分金融股上對作，這就是法人之間的心理戰。"
+          },
+          {
+            "stock_name": "永豐金",
+            "ticker": "2890",
+            "description": "投信買超 3.0 萬張永豐金，金融股是投信作帳的常客，穩健好拉，但外資卻在賣玉山金、兆豐金，這盤面很複雜，別亂猜。"
+          },
+          {
+            "stock_name": "南亞科",
+            "ticker": "2408",
+            "description": "投信買超 1.5 萬張南亞科，跟華邦電一樣，記憶體雙雄都被投信看上，這波作帳行情，記憶體是重點之一，但也要小心投信結帳倒貨。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：短線操作，面板與聯電成焦點",
+        "stocks": [
+          {
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "自營商買超 4,086 張聯電，外資買投信賣，自營商這小咖也來湊熱鬧，可能是避險盤或短線套利，意圖不明，肖年仔們別亂跟。"
+          },
+          {
+            "stock_name": "三商壽",
+            "ticker": "2867",
+            "description": "自營商買超 3,084 張三商壽，壽險股有時會被自營商當作避險標的，或是看好特定題材，但量不大，參考就好，別太認真。"
           },
           {
             "stock_name": "群創",
             "ticker": "3481",
-            "description": "群創被自營商買超 0.13 萬張，面板股最近有報價回穩的聲音，自營商這是在卡位，還是純粹的短線交易？但外資卻是大賣群創 2.52 萬張，這也是內外資不同調。"
+            "description": "自營商買超 2,367 張群創，面板股最近有轉機題材，自營商這是在卡位，看能不能搭上順風車，但肖年仔們要小心，面板股波動大，接刀要小心。"
           },
           {
-            "stock_name": "力積電",
-            "ticker": "6770",
-            "description": "力積電自營商也買超 0.12 萬張，跟外資的買超方向一致。這表示市場對這檔股票的短線動能有共識，但自營商的單，通常隔日沖的機率很高，別傻傻跟著追高。"
+            "stock_name": "華航",
+            "ticker": "2610",
+            "description": "自營商也買超 2,121 張華航，跟外資一起買航空股，這表示航空股的旺季題材確實吸引短線資金，但也要小心隔日沖，別被倒貨。"
           }
         ]
       }
@@ -102,314 +87,460 @@
     "strategies": [
       {
         "strategy_title": "策略一：高檔避險與資金避風港（金融、航空、傳產）",
-        "strategy_content": "肖年仔，你看外資這波操作，大賣 0050、台積電、友達這些高價電子股，轉頭就去掃航空、塑化、鋼鐵、金融這些相對低基期或有旺季題材的板塊。這擺明了就是在大盤高檔震盪時，把資金從高風險的電子股撤出來，找個安全的地方避風頭。金融股有高殖利率，傳產股有景氣復甦預期，航空股有暑假旺季，這都是聰明錢在找的避險標的啦！"
+        "strategy_content": "肖年仔，外資在大盤高檔震盪時，把資金從部分科技股（如力積電、旺宏）撤出，轉進波動較小、殖利率較高的金融股（合庫金、臺企銀、彰銀、元大金）以及具旺季題材的航空股（華航、長榮航）。同時，傳產龍頭股（台塑、台泥、台玻）也成為資金避風港，顯示外資在尋求穩健收益，降低整體投資組合風險。這不是看壞大盤，而是資金輪動的避險操作，肖年仔們要學會看懂這種避險盤。"
       },
       {
-        "strategy_title": "策略二：投信作帳與高殖利率卡位（金融、電信、部分傳產）",
-        "strategy_content": "本土國家隊投信，這次很明顯就是提前啟動作帳行情了。狂掃兆豐金、永豐金、華南金、玉山金這些金融股，還有遠傳這種電信股，這些都是高殖利率、股價波動小的防禦型標的。基金經理人就是要靠這些股票來衝年底績效，拉高淨值。肖年仔，看到投信這樣買，就知道他們在為年底的獎金努力了，這波金融股可能還有戲唱，但別追高，等拉回再說。"
+        "strategy_title": "策略二：投信作帳行情啟動（金融、記憶體）",
+        "strategy_content": "本土投信大戶展現強烈作帳意圖，大舉買進金融股（兆豐金、永豐金、華南金、玉山金、第一金）和記憶體族群（華邦電、南亞科）。金融股因其穩定性與高殖利率，常是投信年底衝刺績效的標的。記憶體則因產業景氣有望復甦，成為投信提前卡位的重點。這波操作顯示投信在為季底或年底結帳做準備，肖年仔們要留意這些被鎖碼的標的，但別傻傻追高。"
       },
       {
-        "strategy_title": "策略三：新技術題材點火與跌深反彈（記憶體、面板、晶圓代工）",
-        "strategy_content": "外資買力積電，投信買華邦電、南亞科，自營商買聯電、群創。這些股票之前都跌得鼻青臉腫，現在記憶體有復甦題材，面板報價也傳出回穩，晶圓代工也有訂單能見度。主力大戶可能是在底部點火，或是搶一波跌深反彈。但這種股票波動大，肖年仔如果沒有兩把刷子，很容易被洗出場，甚至接到刀子，所以要特別小心。"
+        "strategy_title": "策略三：法人對作與短線套利（聯電、部分金融）",
+        "strategy_content": "聯電出現外資買、投信大賣的法人對作現象，自營商則小幅買進。這顯示市場對聯電的看法分歧，外資可能看好其成熟製程的穩定性，而投信則可能在調整持股或獲利了結。此外，外資賣超玉山金、兆豐金、永豐金、華南金，但投信卻大買這些金融股，這也是典型的法人對作。這種情況下，股價容易震盪，短線主力會趁機套利，肖年仔們要小心別被洗出場，更別去接這種刀。"
       }
     ],
-    "summary": "肖年仔，今天三大法人動作很明確，外資在電子股高檔出貨，轉進傳產與金融避險；投信則是鎖定金融股作帳，準備衝年底績效。內資主力則是在航空、聯電這些股票上短線進出。總之，市場資金正在輪動，別傻傻追高，小心被主力割韭菜！",
+    "summary": "肖年仔，看清楚了沒？外資在避險，把錢往航空跟傳產、部分金融塞，投信這群本土國家隊則在作帳，狂掃金融跟記憶體。法人對作的股票，別傻傻去接刀，小心被割韭菜！這盤面就是資金輪動，高檔震盪，穩健為上！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 2.91 萬張",
-        "uncle_logic": "高盛這外資大咖，狂掃力積電 2.91 萬張，這不是看好半導體復甦，就是有什麼獨家消息。但外資的單，通常都是大進大出，肖年仔別看到外資買就黑白買，小心變成抬轎的。"
+        "action": "買超 1.8 萬張",
+        "uncle_logic": "這外資大咖狂掃華航，擺明就是看好航空雙雄的暑假旺季題材，準備拉高出貨給散戶接刀，這不是真外資長線佈局，是短線炒作的訊號啦！"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 0.23 萬張",
-        "uncle_logic": "凱基台北這分點，買超華航 0.23 萬張，這就是標準的短線主力，搞不好明天就隔日沖倒貨了。肖年仔，看到這種分點進場，心裡要有數，別傻傻去接刀。"
+        "action": "買超 1,634 張",
+        "uncle_logic": "凱基台北這分點，肖年仔們都知道是隔日沖大本營。今天買聯電，明天八成就是準備倒貨給追高的韭菜，小心別去接刀啊！"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 1.84 萬張",
-        "uncle_logic": "元大投信買超兆豐金 1.84 萬張，這就是本土國家隊在作帳了。金融股穩健，高殖利率，是投信的最愛。這波買盤很紮實，肖年仔可以多留意金融股的後續表現。"
+        "action": "買超 1.6 萬張",
+        "uncle_logic": "元大投信這本土國家隊，狂敲華邦電，擺明就是投信作帳行情又來了。記憶體族群最近有題材，他們趁機拉抬，準備年底結帳衝績效。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 3.78 萬張",
-        "uncle_logic": "摩根大通大賣元大台灣50 3.78 萬張，這外資大咖在賣 ETF，很明顯就是對大盤指數的看法比較保守，或是把資金抽出來轉進其他個股。肖年仔，這代表大盤可能還有震盪，操作要更謹慎。"
+        "action": "賣超 2.6 萬張",
+        "uncle_logic": "摩根大通這外資大咖，狂倒力積電，跟外資整體賣超力積電的動作一致。這擺明是外資在撤出部分半導體資金，肖年仔們別傻傻去接這種倒貨盤。"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "Czech billionaire extracts £114m from Royal Mail owner",
+      "title": "Pegasystems (PEGA) Is Growing On The Back Of AI, Could Investors Be Missing This Opportunity?",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/czech-billionaire-extracts-114m-royal-145510693.html",
+      "link": "https://finance.yahoo.com/technology/ai/articles/pegasystems-pega-growing-back-ai-152429540.html",
       "level1_blind": {
-        "text": "Royal Mail's billionaire owner has extracted £114m from the postal service's owner even as it grapples with a letter-delay crisis.\n\nThe money was paid out last year to a company controlled by Daniel Křetínský, the Czech tycoon who bought Royal Mail, to cover interest payments linked to his debt-fuelled £3.6bn takeover.\n\nThe payout appears to run counter to the billionaire's promise not to pay dividends from the business unless performance improved.\n\nSpeaking in front of MPs earlier this year, Mr Křetínský said Royal Mail would not distribute dividends if its quality of service deteriorated compared with before the takeover.\n\nThe latest Ofcom figures show the postal service delivered just 75.7pc of letters on time last year, down from 76.5pc in the prior year.\n\nRoyal Mail insisted that the £114m payment did not qualify as a dividend as it was only being used to service debt and had not been paid out to Mr Křetínský's EP Group.\n\nA spokesman for Royal Mail's parent company International Distribution Services (IDS) said: \"IDS did not pay a dividend to EP Group.\n\n\"The dividend was paid by IDS to its immediate UK parent, EP Distribution Services Limited, and was ultimately used to fund interest on the debt that financed EP's acquisition of IDS.\""
+        "text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nPegasystems Inc. (NASDAQ:PEGA) is one of the 10 Best 52-Week Low Technology Stocks to Buy According to Analysts. Pegasystems Inc. (NASDAQ:PEGA) has seen bullish analyst activity recently. On June 10, Lucky Schreiner of D.A. Davidson reiterated a Buy rating on the stock and assigned a target price of $55. The analyst price target reflects a significant 87% upside from current levels.\n\nEarlier, on June 8, PEGA announced that it had completed the transition to a subscription-based model. The AI tailwind continues to help the company in its growth plans, though investor sentiment hasn't yet turned positive. The software company highlighted strong recurring revenue from its cloud business, with Pega Cloud ACV rising from 16% in Q1 2024 to 29% in 2026. As a result, the company reported improved profitability, with stronger gross and operating margins. In addition, its free cash flow has significantly improved, rising from modest levels in 2022 to over half a billion dollars annually.\n\nMoreover, the management sees additional growth in recurring revenue streams. It plans to achieve this through selling more products and services to existing customers, winning new clients through its Blueprint AI platform, and expanding its cloud business. The company also reported strong sales momentum, with its overall sales growing 29% year over year.\n\nPegasystems Inc. (NASDAQ:PEGA) develops, markets, hosts, and supports enterprise software. It offers Pega Infinity, software that helps businesses improve customer engagement and automate workflows. The company offers its software across a wide range of industries, including financial services, healthcare, communications, government, insurance, and technology. It was founded in 1983 and is headquartered in Waltham, Massachusetts.\n\nWhile we acknowledge the potential of PEGA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT:  7 Worst Cloud Stocks To Buy According to Short Sellers and 10 Best High-Bandwidth Memory (HBM4) Value Chain Stocks to Buy According to Hedge Funds."
       },
       "level2_keywords": [
         {
-          "word": "extracted",
-          "ipa": "/ɪkˈstræktɪd/",
-          "meaning": "提取、取出（指從公司獲取資金）",
-          "example": "The billionaire *extracted* a significant sum from the company despite its financial struggles."
+          "word": "subscription-based model",
+          "ipa": "/səbˈskrɪpʃən beɪst ˈmɑdəl/",
+          "meaning": "訂閱制模式。指公司產品或服務以定期收費（如月費、年費）而非一次性買斷的方式提供給客戶。",
+          "example": "Many software companies have successfully transitioned to a subscription-based model to ensure stable recurring revenue."
         },
         {
-          "word": "grapples with",
-          "ipa": "/ˈɡræpəlz wɪð/",
-          "meaning": "努力應對、掙扎",
-          "example": "Royal Mail *grapples with* a letter-delay crisis, affecting its service quality."
+          "word": "AI tailwind",
+          "ipa": "/eɪ aɪ ˈteɪlwɪnd/",
+          "meaning": "AI順風。指人工智慧技術的發展為某公司或產業帶來有利的增長勢頭或機會。",
+          "example": "The company's recent growth has been significantly boosted by the strong AI tailwind across the tech sector."
         },
         {
-          "word": "takeover",
-          "ipa": "/ˈteɪkˌoʊvər/",
-          "meaning": "收購、併購",
-          "example": "The debt-fuelled *takeover* of Royal Mail raised concerns about its future."
+          "word": "recurring revenue",
+          "ipa": "/rɪˈkɜrɪŋ ˈrɛvəˌnu/",
+          "meaning": "經常性收入。指企業透過訂閱、服務合約等方式，能穩定且重複獲得的收入。",
+          "example": "Software-as-a-Service (SaaS) businesses are highly valued for their predictable recurring revenue streams."
         },
         {
-          "word": "dividends",
-          "ipa": "/ˈdɪvɪdɛndz/",
-          "meaning": "股息、紅利",
-          "example": "The company promised not to pay *dividends* unless performance improved."
+          "word": "gross and operating margins",
+          "ipa": "/ɡroʊs ænd ˈɑpəˌreɪtɪŋ ˈmɑrdʒɪnz/",
+          "meaning": "毛利率與營益率。毛利率是銷售收入扣除銷貨成本後的比率；營益率是銷售收入扣除銷貨成本和營運費用後的比率，兩者都是衡量公司獲利能力的關鍵指標。",
+          "example": "Improved efficiency in production led to stronger gross and operating margins for the manufacturing firm."
         },
         {
-          "word": "service debt",
-          "ipa": "/ˈsɜːrvɪs dɛt/",
-          "meaning": "償還債務、支付債務利息",
-          "example": "The payment was used to *service debt* linked to the acquisition."
+          "word": "free cash flow",
+          "ipa": "/fri kæʃ floʊ/",
+          "meaning": "自由現金流。指公司在支付營運費用和資本支出後，可供股東或債權人自由運用的現金，是衡量公司財務健康的重要指標。",
+          "example": "Analysts often look at free cash flow to assess a company's ability to fund growth and pay dividends."
         }
       ],
-      "level2_context": "各位同學，這則新聞揭示了一個在企業併購中常見的財務操作與公眾責任之間的張力。一位億萬富翁透過大量舉債來收購英國皇家郵政，這在財經界稱為「槓桿收購」（Leveraged Buyout）。通常，收購方會利用被收購公司的未來現金流來償還這筆債務。然而，這位老闆曾承諾，如果皇家郵政的服務品質下降，就不會發放股息。但現在，儘管服務品質確實惡化，卻有一筆資金被「提取」出來，用於支付收購時所產生的債務利息。這引發了外界質疑，這是否變相違背了當初的承諾，因為這筆錢雖然名義上不是股息，但實質上仍是從公司流出，用於滿足老闆的財務需求。這對我們理解企業治理、股東利益與公共服務之間的平衡，提供了很好的案例。",
+      "level2_context": "各位同學，這篇新聞主要在探討軟體公司 Pegasystems (PEGA) 近期的成長動能，以及它在資本市場上可能被低估的投資機會。這背後有幾個重要的產業趨勢：\n\n首先，『訂閱制模式』是當代軟體產業的黃金標準。過去軟體公司多半是一次性銷售授權，但現在轉型為訂閱制，能為公司帶來穩定且可預測的『經常性收入』。這不僅讓財務預測更精準，也提高了公司的估值，因為投資人偏好這種持續性的現金流。Pegasystems 成功轉型，正是其獲利能力提升的關鍵。\n\n其次，『AI 順風』。人工智慧的浪潮席捲各行各業，對軟體公司而言，將 AI 整合到產品中，能大幅提升其解決方案的價值和競爭力。Pegasystems 的 Blueprint AI 平台就是一個例子，它利用 AI 幫助企業優化客戶互動和自動化工作流程，這讓它能吸引新客戶並深化與現有客戶的關係。\n\n最後，新聞提到分析師看好 PEGA 的股價有顯著上漲空間，但『投資人情緒』尚未完全轉為正面。這可能意味著市場還未充分認識到 Pegasystems 在轉型和 AI 整合上的成功，或是其財務指標如『毛利率與營益率』和『自由現金流』的改善。對於投資人來說，這可能是一個『被低估』的機會。\n\n總體而言，這篇新聞反映了軟體產業在 AI 驅動下，透過商業模式創新（訂閱制）來提升財務表現和市場價值的宏觀趨勢。",
       "level3_translation": [
         {
-          "sentence": "Royal Mail's billionaire owner has extracted £114m from the postal service's owner even as it grapples with a letter-delay crisis.",
-          "translation": "英國皇家郵政的億萬富翁老闆，儘管這家郵政服務公司正努力應對信件延誤危機，卻仍從其母公司提取了1.14億英鎊。"
+          "sentence": "The above button links to Coinbase.",
+          "translation": "上方按鈕連結到 Coinbase 平台。"
         },
         {
-          "sentence": "The money was paid out last year to a company controlled by Daniel Křetínský, the Czech tycoon who bought Royal Mail, to cover interest payments linked to his debt-fuelled £3.6bn takeover.",
-          "translation": "這筆資金去年支付給了由丹尼爾·克雷廷斯基（這位收購皇家郵政的捷克大亨）所控制的一家公司，用來支付與他以債務為基礎、耗資36億英鎊的收購案相關的利息。"
+          "sentence": "Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading.",
+          "translation": "Yahoo 財經並非證券經紀商或投資顧問，不提供證券或加密貨幣的銷售，也不協助交易。"
         },
         {
-          "sentence": "The payout appears to run counter to the billionaire's promise not to pay dividends from the business unless performance improved.",
-          "translation": "這筆支付似乎與這位億萬富翁先前「除非業績改善，否則不會從公司發放股息」的承諾背道而馳。"
+          "sentence": "Coinbase pays us for certain activity generated through this link.",
+          "translation": "Coinbase 會針對透過此連結產生的特定活動支付費用給我們。"
         },
         {
-          "sentence": "Speaking in front of MPs earlier this year, Mr Křetínský said Royal Mail would not distribute dividends if its quality of service deteriorated compared with before the takeover.",
-          "translation": "今年稍早，克雷廷斯基先生在國會議員面前表示，如果皇家郵政的服務品質與收購前相比有所惡化，公司將不會發放股息。"
+          "sentence": "Prices displayed are informational.",
+          "translation": "顯示的價格僅供參考。"
         },
         {
-          "sentence": "The latest Ofcom figures show the postal service delivered just 75.7pc of letters on time last year, down from 76.5pc in the prior year.",
-          "translation": "英國通訊管理局（Ofcom）的最新數據顯示，去年這家郵政服務公司僅有75.7%的信件準時送達，低於前一年的76.5%。"
+          "sentence": "Pegasystems Inc. (NASDAQ:PEGA) is one of the 10 Best 52-Week Low Technology Stocks to Buy According to Analysts.",
+          "translation": "根據分析師的看法，Pegasystems 公司（那斯達克代碼：PEGA）是十檔最佳的『52週低點科技股』之一。"
         },
         {
-          "sentence": "Royal Mail insisted that the £114m payment did not qualify as a dividend as it was only being used to service debt and had not been paid out to Mr Křetínský's EP Group.",
-          "translation": "皇家郵政堅稱，這1.14億英鎊的支付不屬於股息，因為它僅用於償還債務，且並未支付給克雷廷斯基先生的EP集團。"
+          "sentence": "Pegasystems Inc. (NASDAQ:PEGA) has seen bullish analyst activity recently.",
+          "translation": "Pegasystems 公司（那斯達克代碼：PEGA）近期獲得了分析師的看好。"
         },
         {
-          "sentence": "A spokesman for Royal Mail's parent company International Distribution Services (IDS) said: \"IDS did not pay a dividend to EP Group.",
-          "translation": "皇家郵政的母公司國際配送服務（IDS）的一位發言人表示：「IDS並未向EP集團支付股息。」"
+          "sentence": "On June 10, Lucky Schreiner of D.A. Davidson reiterated a Buy rating on the stock and assigned a target price of $55.",
+          "translation": "6月10日，D.A. Davidson 的分析師 Lucky Schreiner 重申了對該股的『買入』評級，並設定了55美元的目標價。"
         },
         {
-          "sentence": "\"The dividend was paid by IDS to its immediate UK parent, EP Distribution Services Limited, and was ultimately used to fund interest on the debt that financed EP's acquisition of IDS.\"",
-          "translation": "「這筆股息是由IDS支付給其在英國的直接母公司EP Distribution Services Limited，最終用於支付EP收購IDS時所融資債務的利息。」"
+          "sentence": "The analyst price target reflects a significant 87% upside from current levels.",
+          "translation": "這個分析師目標價，代表著從目前股價水準來看，有高達87%的潛在『上漲空間』。"
+        },
+        {
+          "sentence": "Earlier, on June 8, PEGA announced that it had completed the transition to a subscription-based model.",
+          "translation": "在此之前，PEGA 在6月8日宣布已完成向『訂閱制模式』的轉型。"
+        },
+        {
+          "sentence": "The AI tailwind continues to help the company in its growth plans, though investor sentiment hasn't yet turned positive.",
+          "translation": "儘管投資人情緒尚未完全轉為正面，『AI 順風』持續助推該公司的成長計畫。"
+        },
+        {
+          "sentence": "The software company highlighted strong recurring revenue from its cloud business, with Pega Cloud ACV rising from 16% in Q1 2024 to 29% in 2026.",
+          "translation": "這家軟體公司強調其雲端業務帶來強勁的『經常性收入』，其中 Pega Cloud 的年度合約價值（ACV）預計將從2024年第一季的16%成長到2026年的29%。"
+        },
+        {
+          "sentence": "As a result, the company reported improved profitability, with stronger gross and operating margins.",
+          "translation": "因此，該公司報告了獲利能力的提升，『毛利率與營益率』也更為強勁。"
+        },
+        {
+          "sentence": "In addition, its free cash flow has significantly improved, rising from modest levels in 2022 to over half a billion dollars annually.",
+          "translation": "此外，其『自由現金流』也顯著改善，從2022年的溫和水準，成長到每年超過五億美元。"
+        },
+        {
+          "sentence": "Moreover, the management sees additional growth in recurring revenue streams.",
+          "translation": "再者，管理層預期『經常性收入』來源將有額外成長。"
+        },
+        {
+          "sentence": "It plans to achieve this through selling more products and services to existing customers, winning new clients through its Blueprint AI platform, and expanding its cloud business.",
+          "translation": "公司計畫透過向現有客戶銷售更多產品與服務、透過其 Blueprint AI 平台贏得新客戶，以及擴展其雲端業務來實現此目標。"
+        },
+        {
+          "sentence": "The company also reported strong sales momentum, with its overall sales growing 29% year over year.",
+          "translation": "該公司也報告了強勁的銷售動能，整體銷售額年增長了29%。"
+        },
+        {
+          "sentence": "Pegasystems Inc. (NASDAQ:PEGA) develops, markets, hosts, and supports enterprise software.",
+          "translation": "Pegasystems 公司（那斯達克代碼：PEGA）開發、行銷、託管並支援『企業級軟體』。"
+        },
+        {
+          "sentence": "It offers Pega Infinity, software that helps businesses improve customer engagement and automate workflows.",
+          "translation": "它提供 Pega Infinity 軟體，這套軟體能協助企業提升『客戶互動』並『自動化工作流程』。"
+        },
+        {
+          "sentence": "The company offers its software across a wide range of industries, including financial services, healthcare, communications, government, insurance, and technology.",
+          "translation": "該公司將其軟體應用於廣泛的產業，包括金融服務、醫療保健、通訊、政府、保險和科技業。"
+        },
+        {
+          "sentence": "It was founded in 1983 and is headquartered in Waltham, Massachusetts.",
+          "translation": "該公司成立於1983年，總部位於麻薩諸塞州的沃爾瑟姆。"
+        },
+        {
+          "sentence": "While we acknowledge the potential of PEGA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk.",
+          "translation": "雖然我們認可 PEGA 作為一項投資的潛力，但我們認為某些 AI 股票提供更大的『上漲潛力』且『下行風險』較低。"
+        },
+        {
+          "sentence": "If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.",
+          "translation": "如果您正在尋找一檔極度『被低估』的 AI 股票，同時也能從『川普時代關稅』和『在地化生產趨勢』中顯著受益，請參閱我們關於最佳短期 AI 股票的免費報告。"
+        },
+        {
+          "sentence": "READ NEXT:  7 Worst Cloud Stocks To Buy According to Short Sellers and 10 Best High-Bandwidth Memory (HBM4) Value Chain Stocks to Buy According to Hedge Funds.",
+          "translation": "延伸閱讀：根據放空者的說法，最不值得買入的7檔雲端股票，以及根據對沖基金的說法，最值得買入的10檔高頻寬記憶體（HBM4）價值鏈股票。"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "As Centrus Order Backlog Swells, Growth Acceleration Can Trigger Stock Upside",
+      "title": "Trading At 52-Week Lows, Pony AI (PONY) Stock Could More Than Double From Here According To Analysts",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/centrus-order-backlog-swells-growth-145009950.html",
+      "link": "https://finance.yahoo.com/technology/ai/articles/trading-52-week-lows-pony-152427072.html",
       "level1_blind": {
-        "text": "As Centrus Order Backlog Swells, Growth Acceleration Can Trigger Stock Upside\nCentrus Energy (LEU) has a unique positioning as the only publicly traded, deployment-ready enricher that's positioned to fuel the future of nuclear power. LEU stock's performance has however been middling with a decline of 4% in the last 52-weeks."
+        "text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nPony AI Inc. (NASDAQ::PONY) is one of the 10 Best 52-Week Low Technology Stocks to Buy According to Analysts. On June 9, in collaboration with Stellantis and Bolt, Pony AI Inc. (NASDAQ:PONY), a global leader in autonomous driving technology, launched a mobility pilot program in Luxembourg. This will allow the companies to test autonomous vehicle technology in the country's local traffic. The testing program focused on the safety, performance, and regulatory readiness of Pony's seventh-generation autonomous vehicles. Moreover, the partners are preparing the pilot program, which is designed to test the technologies and operational processes required to support safe mobility in cities. The pilot program was based on earlier plans by Stellantis, Pony, and Bolt to help expand mobility solutions in Europe. This shows autonomous companies are heavily focused on delivering driverless transportation services on a larger scale.\n\n\"Luxembourg's forward-looking regulatory environment provides a strong foundation for autonomous mobility testing in Europe. Together with Bolt and Stellantis, we look forward to validating Pony.ai's technology in local traffic scenarios and supporting the responsible development of autonomous mobility across the region.\"\n\nEarlier on May 28, Barclays analyst Jiong Shao reiterated a Hold rating on Pony AI Inc. (NASDAQ:PONY) with a target price of $10. The firm's price target suggests an additional 19% upside from the current levels.\n\nPony AI Inc. (NASDAQ:PONY) is involved in the autonomous mobility sector. It provides several AV services, including software deployment, vehicle engineering, and more. It also offers logistics platforms with transportation services, along with licensing and applications business that includes personally owned vehicle intelligent solutions, data analytics tools, and more.\n\nWhile we acknowledge the potential of PONY as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT: 7 Worst Cloud Stocks To Buy According to Short Sellers and 10 Best High-Bandwidth Memory (HBM4) Value Chain Stocks to Buy According to Hedge Funds."
       },
       "level2_keywords": [
         {
-          "word": "backlog",
-          "ipa": "/ˈbækˌlɔɡ/",
-          "meaning": "訂單積壓；待處理業務",
-          "example": "The company's substantial order backlog ensures stable revenue for years to come."
+          "word": "autonomous driving",
+          "ipa": "/ˌɔːtəˈnɑːməs ˈdraɪvɪŋ/",
+          "meaning": "自動駕駛，指車輛無需人類操作即可自行感知環境、規劃路徑並行駛的技術。",
+          "example": "The company is investing heavily in 「autonomous driving」 technology to revolutionize urban transportation."
         },
         {
-          "word": "enricher",
-          "ipa": "/ɪnˈrɪtʃər/",
-          "meaning": "濃縮商；提供核燃料濃縮服務的公司",
-          "example": "As the sole domestic enricher, Centrus plays a critical role in the U.S. nuclear supply chain."
+          "word": "mobility pilot program",
+          "ipa": "/moʊˈbɪləti ˈpaɪlət ˈproʊɡræm/",
+          "meaning": "移動出行試點計畫，指在特定區域或條件下，測試新型交通服務或自動駕駛技術的初期實驗性專案。",
+          "example": "Pony AI launched a 「mobility pilot program」 in Luxembourg to test its autonomous vehicles in local traffic."
         },
         {
-          "word": "nuclear power",
-          "ipa": "/ˈnuːkliər ˈpaʊər/",
-          "meaning": "核能；利用核反應產生的能量",
-          "example": "Many countries are turning to nuclear power as a reliable, low-carbon energy source."
+          "word": "regulatory environment",
+          "ipa": "/ˈrɛɡjələˌtɔːri ɪnˈvaɪrənmənt/",
+          "meaning": "監管環境，指政府或相關機構對特定產業或活動所制定的法律、法規和政策框架。",
+          "example": "A supportive 「regulatory environment」 is crucial for the successful deployment of autonomous vehicle technology."
         },
         {
-          "word": "revenue visibility",
-          "ipa": "/ˈrɛvəˌnuː ˌvɪzəˈbɪləti/",
-          "meaning": "營收能見度；未來營收的可預測性",
-          "example": "Long-term contracts significantly improve a company's revenue visibility, attracting investors."
+          "word": "Hold rating",
+          "ipa": "/hoʊld ˈreɪtɪŋ/",
+          "meaning": "持有評級，是分析師對股票的建議，意指投資者應維持現有持股，不建議買入或賣出。",
+          "example": "Barclays analyst reiterated a 「Hold rating」 on Pony AI, suggesting investors maintain their current positions."
         },
         {
-          "word": "HALEU",
-          "ipa": "/ˈheɪluː/",
-          "meaning": "高豐度低濃縮鈾；一種用於新型核反應爐的先進核燃料",
-          "example": "The development of HALEU is crucial for the next generation of small modular reactors."
+          "word": "target price",
+          "ipa": "/ˈtɑːrɡɪt praɪs/",
+          "meaning": "目標價，分析師預期股票在未來特定時間內可能達到的價格。",
+          "example": "The analyst set a 「target price」 of $10 for Pony AI, indicating potential upside from its current trading levels."
         }
       ],
-      "level2_context": "各位同學，這篇新聞主要聚焦在美國一家核燃料供應商Centrus Energy (LEU)。在全球尋求潔淨能源、減少碳排放的趨勢下，核能作為一種穩定且低碳的發電方式，其重要性日益提升。然而，核燃料的供應鏈，特別是高階核燃料如『高豐度低濃縮鈾』（HALEU），長期以來都面臨供應不足的挑戰。美國政府也意識到這項戰略物資的重要性，正積極推動國內生產。\n\nCentrus Energy在這樣的背景下，作為美國唯一一家準備好商業化部署的核燃料濃縮商，其地位顯得格外關鍵。新聞提到該公司與Oklo簽署了長期供貨協議，將為新型核反應爐提供HALEU，這不僅確保了Centrus未來的營收，也解決了部分市場對先進核燃料供應的擔憂。儘管其股價近期表現平平，但龐大的訂單積壓和長期合約，為其提供了強勁的『營收能見度』，這對投資人來說是一個重要的利多信號。這也解釋了為何在股價修正後，市場認為這是一個不錯的『累積機會』。",
+      "level2_context": "各位同學，這篇新聞主要圍繞著自動駕駛技術公司 Pony AI 的最新動態。首先，它提到 Pony AI 在盧森堡與 Stellantis 和 Bolt 合作啟動了一個「移動出行試點計畫」。這件事的宏觀意義在於，自動駕駛技術的發展需要大量的實際路測數據和不同地區的法規驗證。盧森堡被選中，很可能是因為其「監管環境」相對開放和前瞻，有利於新技術的測試與落地。這不僅是技術層面的進展，更是商業模式探索的重要一步，因為自動駕駛最終目標是提供大規模的無人駕駛運輸服務。\n\n其次，新聞也提到了巴克萊分析師對 Pony AI 給出了「持有評級」和10美元的「目標價」。在財經界，分析師的評級和目標價是市場判斷一家公司股票潛力的重要參考。一個「持有評級」通常意味著分析師認為該股票目前價格合理，建議投資者維持現有部位即可，不急於買入或賣出。而「目標價」則代表了分析師基於其研究模型，預期該股票在未來一段時間內可能達到的合理價格。這反映了市場對 Pony AI 發展前景的看法，儘管公司有潛力，但分析師可能認為其短期內股價上漲空間有限，或者存在其他更具吸引力的投資標的。總體而言，這篇新聞結合了科技產業的技術進展與金融市場的投資評估，為我們理解自動駕駛產業的發展現況提供了雙重視角。",
       "level3_translation": [
         {
           "sentence": "The above button links to Coinbase.",
-          "translation": "「上方按鈕會連結到Coinbase。」"
+          "translation": "上方的按鈕連結到 Coinbase。"
         },
         {
           "sentence": "Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading.",
-          "translation": "「Yahoo財經並非證券經紀商或投資顧問，不提供證券或加密貨幣的銷售，也不協助交易。」"
+          "translation": "Yahoo 財經並非證券經紀商或投資顧問，不提供證券或加密貨幣的銷售或交易服務。"
         },
         {
           "sentence": "Coinbase pays us for certain activity generated through this link.",
-          "translation": "「Coinbase會針對透過此連結產生的特定活動支付費用給我們。」"
+          "translation": "Coinbase 會為透過此連結產生的特定活動支付費用給我們。"
         },
         {
           "sentence": "Prices displayed are informational.",
-          "translation": "「顯示的價格僅供參考。」"
+          "translation": "顯示的價格僅供參考。"
         },
         {
-          "sentence": "Centrus Energy (LEU) has a unique positioning as the only publicly traded, deployment-ready enricher that's positioned to fuel the future of nuclear power.",
-          "translation": "「Centrus Energy（股票代號LEU）擁有獨特的市場定位，是唯一一家公開上市、準備好商業化部署的核燃料濃縮商，有望為未來的核能發展提供燃料。」"
+          "sentence": "Pony AI Inc. (NASDAQ::PONY) is one of the 10 Best 52-Week Low Technology Stocks to Buy According to Analysts.",
+          "translation": "根據分析師的說法，Pony AI 公司（那斯達克代碼：PONY）是目前最值得買進的十檔「52週低點科技股」之一。"
         },
         {
-          "sentence": "LEU stock's performance has however been middling with a decline of 4% in the last 52-weeks.",
-          "translation": "「然而，LEU的股價表現一直平平，在過去52週內下跌了4%。」"
+          "sentence": "On June 9, in collaboration with Stellantis and Bolt, Pony AI Inc. (NASDAQ:PONY), a global leader in autonomous driving technology, launched a mobility pilot program in Luxembourg.",
+          "translation": "6月9日，全球自動駕駛技術領導者 Pony AI 公司（那斯達克代碼：PONY）與 Stellantis 和 Bolt 合作，在盧森堡啟動了一項「移動出行試點計畫」。"
         },
         {
-          "sentence": "However, this should not be a deterrent from considering exposure to LEU stock.",
-          "translation": "「不過，這不應阻礙投資人考慮佈局LEU股票。」"
+          "sentence": "This will allow the companies to test autonomous vehicle technology in the country's local traffic.",
+          "translation": "這將使這些公司能夠在盧森堡當地的交通環境中測試自動駕駛車輛技術。"
         },
         {
-          "sentence": "On the contrary, the sideways movement provides a good opportunity for exposure as Centrus Energy positions itself to benefit from the LEU (Low-Enriched Uranium) and HALEU (High-Assay Low-Enriched Uranium) market.",
-          "translation": "「相反地，這種盤整走勢提供了一個良好的佈局機會，因為Centrus Energy正積極佈局，準備從低濃縮鈾（LEU）和高豐度低濃縮鈾（HALEU）市場中獲利。」"
+          "sentence": "The testing program focused on the safety, performance, and regulatory readiness of Pony's seventh-generation autonomous vehicles.",
+          "translation": "這項測試計畫主要關注 Pony 第七代自動駕駛車輛的安全性、性能表現以及法規準備度。"
         },
         {
-          "sentence": "The Big Tech Investment Cycle is Shifting, and Chevron Just Wrote the Blueprint for the AI Power Trade.",
-          "translation": "「大型科技的投資週期正在轉變，而雪佛龍（Chevron）剛為AI電力交易寫下了藍圖。」"
+          "sentence": "Moreover, the partners are preparing the pilot program, which is designed to test the technologies and operational processes required to support safe mobility in cities.",
+          "translation": "此外，合作夥伴們正在準備這項試點計畫，其目的是測試支援城市安全移動出行所需的技術和營運流程。"
         },
         {
-          "sentence": "In an important step towards that direction, Oklo (OKLO) and Centrus Energy signed a letter of intent to purchase nuclear fuel for the former's Aurora Powerhouse deployment.",
-          "translation": "「朝著這個方向邁出的重要一步是，Oklo（股票代號OKLO）與Centrus Energy簽署了一份意向書，將為前者『Aurora發電廠』的部署採購核燃料。」"
+          "sentence": "The pilot program was based on earlier plans by Stellantis, Pony, and Bolt to help expand mobility solutions in Europe.",
+          "translation": "這項試點計畫是基於 Stellantis、Pony 和 Bolt 先前為協助擴展歐洲移動出行解決方案而制定的計畫。"
         },
         {
-          "sentence": "As a part of this agreement, Centrus would supply HALEU to five Aurora powerhouses for multiple years, with deliveries to Oklo beginning in 2029.",
-          "translation": "「作為這項協議的一部分，Centrus將在未來數年內向五座『Aurora發電廠』供應高豐度低濃縮鈾（HALEU），預計於2029年開始向Oklo交貨。」"
+          "sentence": "This shows autonomous companies are heavily focused on delivering driverless transportation services on a larger scale.",
+          "translation": "這顯示自動駕駛公司正高度專注於大規模提供無人駕駛運輸服務。"
         },
         {
-          "sentence": "The long-term agreement will support Centrus Energy's revenue visibility.",
-          "translation": "「這項長期協議將有助於提升Centrus Energy的營收能見度。」"
+          "sentence": "\"Luxembourg's forward-looking regulatory environment provides a strong foundation for autonomous mobility testing in Europe.",
+          "translation": "「盧森堡前瞻性的『監管環境』為歐洲的自動駕駛移動出行測試提供了堅實的基礎。"
         },
         {
-          "sentence": "Headquartered in Bethesda, Maryland, Centrus Energy is a supplier of nuclear fuel components for the nuclear power industry.",
-          "translation": "「Centrus Energy總部位於馬里蘭州的貝塞斯達，是核能產業的核燃料組件供應商。」"
+          "sentence": "Together with Bolt and Stellantis, we look forward to validating Pony.ai's technology in local traffic scenarios and supporting the responsible development of autonomous mobility across the region.\"",
+          "translation": "我們期待與 Bolt 和 Stellantis 共同驗證 Pony.ai 的技術在當地交通情境中的表現，並支持該地區自動駕駛移動出行的負責任發展。」"
         },
         {
-          "sentence": "The company operates in two business segments: LEU, which supplies various components of nuclear fuel and Technical Solutions, which provides advanced uranium enrichment for the nuclear industry and the U.S. government.",
-          "translation": "「該公司經營兩個業務部門：『低濃縮鈾（LEU）』部門，負責供應各種核燃料組件；以及『技術解決方案』部門，為核能產業和美國政府提供先進的鈾濃縮服務。」"
+          "sentence": "Earlier on May 28, Barclays analyst Jiong Shao reiterated a Hold rating on Pony AI Inc. (NASDAQ:PONY) with a target price of $10.",
+          "translation": "早在5月28日，巴克萊銀行分析師邵炯（Jiong Shao）重申了對 Pony AI 公司（那斯達克代碼：PONY）的「持有評級」，並給出了10美元的「目標價」。"
         },
         {
-          "sentence": "Since 1998, Centrus has provided its utility customers with 1,850 reactor years of fuel, which is equivalent to more than seven billion tons of coal.",
-          "translation": "「自1998年以來，Centrus已為其公用事業客戶提供了相當於1,850反應爐年的燃料，這等同於超過70億噸的煤炭。」"
+          "sentence": "The firm's price target suggests an additional 19% upside from the current levels.",
+          "translation": "該公司的目標價意味著從當前股價還有額外19%的上漲空間。"
         },
         {
-          "sentence": "For FY25, Centrus reported revenue and gross profit of $448.7 million and $117.5 million, respectively.",
-          "translation": "「在2025財年，Centrus分別報告了4.487億美元的營收和1.175億美元的毛利。」"
+          "sentence": "Pony AI Inc. (NASDAQ:PONY) is involved in the autonomous mobility sector.",
+          "translation": "Pony AI 公司（那斯達克代碼：PONY）活躍於「自動駕駛移動出行」領域。"
         },
         {
-          "sentence": "For the year, The LEU segment contributed to 77% of the revenue with 23% coming from the Technical Solutions segment.",
-          "translation": "「該年度，『低濃縮鈾（LEU）』部門貢獻了77%的營收，其餘23%來自『技術解決方案』部門。」"
+          "sentence": "It provides several AV services, including software deployment, vehicle engineering, and more.",
+          "translation": "它提供多種自動駕駛（AV）服務，包括軟體部署、車輛工程等等。"
         },
         {
-          "sentence": "Further, the company ended FY25 with a strong balance sheet and a cash buffer of $2 billion.",
-          "translation": "「此外，該公司在2025財年結束時擁有穩健的資產負債表和20億美元的現金緩衝。」"
+          "sentence": "It also offers logistics platforms with transportation services, along with licensing and applications business that includes personally owned vehicle intelligent solutions, data analytics tools, and more.",
+          "translation": "它還提供附帶運輸服務的「物流平台」，以及包含個人車輛智慧解決方案、數據分析工具等在內的授權和應用業務。"
         },
         {
-          "sentence": "As of May 2026, Centrus Energy reported an order book of $3.9 billion (including contingent sales).",
-          "translation": "「截至2026年5月，Centrus Energy報告的訂單簿總額為39億美元（包含或有銷售額）。」"
+          "sentence": "While we acknowledge the potential of PONY as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk.",
+          "translation": "儘管我們認可 PONY 作為一項投資的潛力，但我們認為某些AI股票提供更大的上漲潛力，且風險較低。"
         },
         {
-          "sentence": "With contracts extending through 2040, the backlog provides Centrus with long-term cash flow visibility.",
-          "translation": "「由於合約期限延伸至2040年，這些訂單積壓為Centrus提供了長期的現金流能見度。」"
+          "sentence": "If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.",
+          "translation": "如果您正在尋找一檔被嚴重低估、且有望從川普時代關稅和「在岸生產趨勢」中顯著受益的AI股票，請參閱我們關於最佳短期AI股票的免費報告。"
         },
         {
-          "sentence": "While the growth outlook is positive, Centrus stock has corrected by 27% in the last six months.",
-          "translation": "「儘管成長前景看好，Centrus的股價在過去六個月內已修正了27%。」"
-        },
-        {
-          "sentence": "This seems like a good accumulation opportunity.",
-          "translation": "「這似乎是一個不錯的累積機會。」"
+          "sentence": "READ NEXT: 7 Worst Cloud Stocks To Buy According to Short Sellers and 10 Best High-Bandwidth Memory (HBM4) Value Chain Stocks to Buy According to Hedge Funds.",
+          "translation": "延伸閱讀：根據放空者，最不值得買進的七檔雲端股票，以及根據對沖基金，最值得買進的十檔高頻寬記憶體（HBM4）價值鏈股票。"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Silver, Bitcoin, and Palantir Prove That Chasing the ‘Hot Dot’ Is a Great Way to Lose Your Money",
+      "title": "PayPal No Longer Deserves A Premium Valuation. Here's Why.",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/silver-bitcoin-palantir-prove-chasing-145130021.html",
-      "level1_blind": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nInvestors who have chased dozens of popular stocks and ETFs are now watching them come crashing back down. They fell into the trap of the \\",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/paypal-no-longer-deserves-premium-152500993.html",
+      "level1_blind": {
+        "text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nPayPal's (NASDAQ: PYPL) share price has stumbled by more than 25% year to date, and the stock now trades at a P/E ratio of 8. However, that doesn't make it a buy right away, and it may never climb to a lofty P/E ratio now that the growth narrative is mostly dead.\n\nPayPal delivered 7% year-over-year revenue growth in the first quarter, which is well below that of emerging fintech stocks like SoFi Technologies (up 41% in Q1) and Robinhood Markets (up 15%). PayPal's revenue compound annual growth rate (CAGR) has been declining in recent years. It has a 10-year CAGR of 13.9%, but only a 7.2% CAGR over the past three years.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nPayPal isn't delivering high user growth rates either. The company reached 439 million daily active users in Q1, which only represents a 1% year-over-year increase. Meanwhile, Meta Platforms, a company known by almost everyone, delivered 4% year-over-year user growth but turned that into 33% year-over-year revenue growth. More specifically, in fintech, SoFi grew its user base by 35% year over year.\n\nPayPal doesn't have the exciting user growth rates of SoFi, and it can't translate low user growth into surging sales the way Meta Platforms can. PayPal CEO Enrique Lores said in the Q1 press release that he was confident that the company would soon return to \"a more durable path to long-term growth,\" but the multiyear trend makes it an uphill battle.\n\nPayPal didn't have many competitors in its early days, but that has changed. Apple and Alphabet have payment apps that bypass PayPal for transactions, which is how PayPal makes most of its money. Stripe is another major competitor, and as more companies enter the crowded arena, the best way to gain traction is to have lower fees.\n\nThis sets up a race to the bottom, and when it comes to such races, Apple and Alphabet can wait out almost anyone. That's not to suggest PayPal will go out of business. It has far too many users and has become an established brand. However, it will make it even more difficult for the company to gain meaningful market share and expand margins in the years ahead, and that can be enough to keep the stock at a low valuation."
+      },
       "level2_keywords": [
         {
-          "word": "D-Wave",
-          "ipa": "",
-          "meaning": "D-Wave 是一家 canada 的量子計算公司",
-          "example": ""
+          "word": "premium valuation",
+          "ipa": "/ˌpriːmiəm ˌvæljuˈeɪʃən/",
+          "meaning": "溢價估值 (指市場給予某公司高於同業的估值，通常因為其成長潛力或獨特優勢)",
+          "example": "Investors once gave PayPal a premium valuation due to its strong growth prospects."
         },
         {
-          "word": "Palantir",
-          "ipa": "",
-          "meaning": "Palantir 是一家美國的數據分析公司",
-          "example": ""
+          "word": "P/E ratio",
+          "ipa": "/ˌpiː ˈiː ˌreɪʃioʊ/",
+          "meaning": "本益比 (股價與每股盈餘之比，用來衡量股價是否合理)",
+          "example": "PayPal's P/E ratio has dropped significantly, reflecting concerns about its future growth."
         },
         {
-          "word": "Bitcoin",
-          "ipa": "",
-          "meaning": "比特幣是一種加密貨幣",
-          "example": ""
+          "word": "fintech",
+          "ipa": "/ˈfɪntɛk/",
+          "meaning": "金融科技 (結合金融服務與科技創新，提供更便捷高效的服務)",
+          "example": "Emerging fintech companies are challenging established players like PayPal with faster growth."
         },
         {
-          "word": "Silver",
-          "ipa": "",
-          "meaning": "銀是一種 precious metal",
-          "example": ""
+          "word": "CAGR",
+          "ipa": "/ˌsiː eɪ dʒiː ˈɑːr/",
+          "meaning": "複合年均成長率 (衡量投資或營收在特定期間內的平均年成長率)",
+          "example": "PayPal's revenue CAGR has been declining, indicating a slowdown in its long-term growth trajectory."
         },
         {
-          "word": "S&P 500 Index",
-          "ipa": "",
-          "meaning": "S平公 500四发代约是美國股市的指數",
-          "example": ""
+          "word": "market share",
+          "ipa": "/ˈmɑːrkɪt ʃɛr/",
+          "meaning": "市佔率 (某公司在特定市場中銷售額或產量所佔的比例)",
+          "example": "Increased competition makes it harder for PayPal to gain meaningful market share and expand its business."
         }
       ],
-      "level2_context": "\n\n這篇文章談到的是投資者在追求「熱點」（hot dot）的過程中，會遇到的困難。作者認為，這種情況下投資者會因為對於市場的不確定性而陷入「熱點」的誘惑之中。\n\n",
+      "level2_context": "各位同學，這篇新聞在探討為什麼支付巨頭 PayPal 過去享有的「溢價估值」不再受到市場青睞。核心原因在於其成長動能顯著放緩，無論是營收成長率還是用戶成長率，都遠不如新興的金融科技（fintech）公司，甚至連 Meta Platforms 這樣的大公司都能將用戶成長轉化為更強勁的營收成長。過去市場給予 PayPal 高本益比，是因為看好它的成長故事，但現在這個故事似乎已經走到盡頭。此外，支付市場的競爭也越來越激烈，Apple 和 Alphabet 等科技巨頭都推出了自己的支付應用程式，直接繞過 PayPal 的服務。這導致整個產業陷入「價格戰」，大家都在比誰的手續費更低，這對 PayPal 來說，要在維持獲利能力的同時，還要擴大「市佔率」和「毛利率」，無疑是一場艱難的「上坡戰」。雖然 PayPal 不會因此倒閉，畢竟它用戶基數龐大且品牌已根深蒂固，但其未來的成長潛力與獲利空間確實面臨嚴峻挑戰，這也讓投資人重新評估其價值。",
       "level3_translation": [
         {
           "sentence": "The above button links to Coinbase.",
-          "translation": ""
+          "translation": "上方按鈕會連結到 Coinbase。"
         },
         {
           "sentence": "Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading.",
-          "translation": ""
+          "translation": "Yahoo 財經並非證券經紀商或投資顧問，不提供證券或加密貨幣的銷售，也不協助交易。"
         },
         {
           "sentence": "Coinbase pays us for certain activity generated through this link.",
-          "translation": ""
+          "translation": "Coinbase 會針對透過此連結產生的特定活動支付費用給我們。"
         },
         {
           "sentence": "Prices displayed are informational.",
-          "translation": ""
+          "translation": "顯示的價格僅供參考。"
         },
         {
-          "sentence": "Investors who have chased dozens of popular stocks and ETFs are now watching them come crashing back down.",
-          "translation": ""
+          "sentence": "PayPal's (NASDAQ: PYPL) share price has stumbled by more than 25% year to date, and the stock now trades at a P/E ratio of 8.",
+          "translation": "PayPal（那斯達克代碼：PYPL）的股價今年以來已下跌超過 25%，目前本益比為 8 倍。"
+        },
+        {
+          "sentence": "However, that doesn't make it a buy right away, and it may never climb to a lofty P/E ratio now that the growth narrative is mostly dead.",
+          "translation": "然而，這並不代表它現在就值得買進，而且在成長故事幾乎終結的情況下，它的本益比可能再也無法回到高點了。"
+        },
+        {
+          "sentence": "PayPal delivered 7% year-over-year revenue growth in the first quarter, which is well below that of emerging fintech stocks like SoFi Technologies (up 41% in Q1) and Robinhood Markets (up 15%).",
+          "translation": "PayPal 第一季的營收年增率為 7%，這遠低於新興金融科技股，例如 SoFi Technologies（第一季成長 41%）和 Robinhood Markets（成長 15%）。"
+        },
+        {
+          "sentence": "PayPal's revenue compound annual growth rate (CAGR) has been declining in recent years.",
+          "translation": "PayPal 的營收複合年均成長率（CAGR）近年來持續下滑。"
+        },
+        {
+          "sentence": "It has a 10-year CAGR of 13.9%, but only a 7.2% CAGR over the past three years.",
+          "translation": "它過去十年的複合年均成長率為 13.9%，但過去三年卻只剩下 7.2%。"
+        },
+        {
+          "sentence": "Missed Nvidia in 2009?",
+          "translation": "錯過了 2009 年的輝達嗎？"
+        },
+        {
+          "sentence": "This Rare Signal Is Flashing Again.",
+          "translation": "這個罕見的訊號又再次閃現了。"
+        },
+        {
+          "sentence": "In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia.",
+          "translation": "2009 年，一個「加倍下注」的訊號曾為一家當時名不見經傳的晶片製造商輝達閃現。"
+        },
+        {
+          "sentence": "For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia.",
+          "translation": "多年來首次，同樣的「完全確信」訊號正為一家規模僅輝達百分之一的公司閃現。"
+        },
+        {
+          "sentence": "Continue »",
+          "translation": "繼續閱讀 »"
+        },
+        {
+          "sentence": "PayPal isn't delivering high user growth rates either.",
+          "translation": "PayPal 在用戶成長率方面也表現不佳。"
+        },
+        {
+          "sentence": "The company reached 439 million daily active users in Q1, which only represents a 1% year-over-year increase.",
+          "translation": "該公司第一季的每日活躍用戶數達到 4.39 億，年增率僅 1%。"
+        },
+        {
+          "sentence": "Meanwhile, Meta Platforms, a company known by almost everyone, delivered 4% year-over-year user growth but turned that into 33% year-over-year revenue growth.",
+          "translation": "與此同時，幾乎人盡皆知的 Meta Platforms 雖然用戶年增率為 4%，卻能將其轉化為 33% 的營收年增率。"
+        },
+        {
+          "sentence": "More specifically, in fintech, SoFi grew its user base by 35% year over year.",
+          "translation": "更具體來說，在金融科技領域，SoFi 的用戶基數年增率高達 35%。"
+        },
+        {
+          "sentence": "PayPal doesn't have the exciting user growth rates of SoFi, and it can't translate low user growth into surging sales the way Meta Platforms can.",
+          "translation": "PayPal 既沒有 SoFi 那樣令人興奮的用戶成長率，也無法像 Meta Platforms 那樣將低用戶成長轉化為營收的飆升。"
+        },
+        {
+          "sentence": "PayPal CEO Enrique Lores said in the Q1 press release that he was confident that the company would soon return to \"a more durable path to long-term growth,\" but the multiyear trend makes it an uphill battle.",
+          "translation": "PayPal 執行長 Enrique Lores 在第一季財報新聞稿中表示，他相信公司很快就能回到「更持久的長期成長軌道」，但多年的趨勢顯示這將是一場艱難的「上坡戰」。"
+        },
+        {
+          "sentence": "PayPal didn't have many competitors in its early days, but that has changed.",
+          "translation": "PayPal 在早期並沒有太多競爭對手，但現在情況已經不同了。"
+        },
+        {
+          "sentence": "Apple and Alphabet have payment apps that bypass PayPal for transactions, which is how PayPal makes most of its money.",
+          "translation": "Apple 和 Alphabet 都有自己的支付應用程式，這些應用程式在交易時會繞過 PayPal，而這正是 PayPal 大部分收入的來源。"
+        },
+        {
+          "sentence": "Stripe is another major competitor, and as more companies enter the crowded arena, the best way to gain traction is to have lower fees.",
+          "translation": "Stripe 也是另一個主要競爭對手，隨著越來越多公司進入這個擁擠的市場，獲得市場青睞的最佳方式就是降低手續費。"
+        },
+        {
+          "sentence": "This sets up a race to the bottom, and when it comes to such races, Apple and Alphabet can wait out almost anyone.",
+          "translation": "這導致了一場「價格戰」，而在這種競爭中，Apple 和 Alphabet 幾乎可以耗盡任何對手。"
+        },
+        {
+          "sentence": "That's not to suggest PayPal will go out of business.",
+          "translation": "這並不是說 PayPal 會倒閉。"
+        },
+        {
+          "sentence": "It has far too many users and has become an established brand.",
+          "translation": "它擁有龐大的用戶群，並且已經是一個成熟的品牌。"
+        },
+        {
+          "sentence": "However, it will make it even more difficult for the company to gain meaningful market share and expand margins in the years ahead, and that can be enough to keep the stock at a low valuation.",
+          "translation": "然而，這將使得該公司在未來幾年更難以取得顯著的「市佔率」並「擴大毛利率」，而這足以讓其股價維持在低估值水平。"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "violence_connection": "今日台股大戶籌碼動向揭示了一場精密的資本再配置遊戲，其背後邏輯與國際財經新聞形成暴力聯結。外資在盤中大舉賣超元大台灣50（0050）及台積電（2330），摩根大通更是領銜拋售0050，此舉在台灣時間下午國際新聞發布前，便已暗示了市場對「追逐熱點」（Hot Dot）策略的警惕。當晚間雅虎財經報導警示「追逐熱點是虧損之道」時，外資的早盤行動便顯得更具前瞻性，彷彿預知了市場情緒將從盲目追高轉向審慎避險，提前從廣泛性科技ETF及權值股中獲利了結或進行風險管理。\n\n然而，這並非全面撤退。美商高盛逆勢大買力積電（6770），內資投信也同步加碼華邦電（2344）、南亞科（2408）等記憶體相關個股。這與Centrus能源新聞中提及的「AI電力交易」及「科技投資週期轉移」形成微妙呼應。儘管Centrus聚焦核燃料，但其背後隱含的對穩定能源供應以支持AI等高耗能科技發展的長期需求，可能促使部分聰明資金轉向佈局被低估、但對未來科技基礎建設至關重要的半導體次產業。這表明大戶並非全面看空，而是進行精準的板塊輪動，將資金從過熱的「熱點」轉移至具備長期結構性成長潛力、且估值相對合理的科技基礎元件，為下一波科技浪潮預先部署。這是一場在公開資訊發布前，便已悄然展開的資本博弈。"
+    "violence_connection": "今日台股大戶籌碼動向與國際科技財經新聞的暴力聯結，揭示了一場在AI浪潮下，資金分流與提前部署的複雜戰局。儘管國際市場持續熱議Pegasystems與Pony AI等AI應用與自駕技術的成長潛力，暗示著未來對高效能運算與記憶體的需求，台股機構法人的操作卻顯得更為細膩且分歧。外資大舉賣出力積電與旺宏等記憶體股，摩根大通更是主力空方，這可能反映了對非HBM主流記憶體市場競爭加劇或技術迭代的預期，預先汰弱留強。然而，本土投信卻反向大買華邦電與南亞科，顯示其可能看好記憶體產業的整體景氣復甦，或押注這些公司在特定利基市場（如邊緣AI、物聯網）的長期價值，與外資形成鮮明對比。更值得注意的是，外資在科技股操作分歧的同時，卻不約而同地將大量資金灌入華航、長榮航等航空股，以及台塑、台泥等傳統產業，其中美商高盛對華航的巨額買超尤為顯眼。這強烈暗示，在全球AI熱潮持續延燒之際，部分國際大戶正採取「兩手策略」：一方面在科技鏈中進行精準的汰弱留強，另一方面則將資金轉向被低估的「舊經濟」板塊，尋求全球經濟復甦下的價值重估機會，或作為對科技股高估值的一種避險。這不僅是時間差的預判，更是對宏觀經濟與產業趨勢的深度權衡，預示著市場資金正從單一熱點向多元化佈局轉移。"
   }
 }
