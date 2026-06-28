@@ -1,192 +1,192 @@
 {
-  "date": "2026-06-28",
-  "stock_market_date": "2026-06-24",
+  "date": "2026-06-29",
+  "stock_market_date": "2026-06-26",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 83295842
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_buy_shares": 57327341
         },
         {
           "rank": 2,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 61356527
+          "stock_name": "南茂",
+          "ticker": "8150",
+          "net_buy_shares": 18340964
         },
         {
           "rank": 3,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 25400553
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 7635841
         },
         {
           "rank": 4,
-          "stock_name": "台塑",
-          "ticker": "1301",
-          "net_buy_shares": 20646302
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_buy_shares": 7429367
         },
         {
           "rank": 5,
-          "stock_name": "台化",
-          "ticker": "1326",
-          "net_buy_shares": 20604701
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_buy_shares": 7330720
         },
         {
           "rank": 6,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_buy_shares": 15294058
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 7122809
         },
         {
           "rank": 7,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_buy_shares": 14041692
+          "stock_name": "力成",
+          "ticker": "6239",
+          "net_buy_shares": 7044676
         },
         {
           "rank": 8,
-          "stock_name": "凌巨",
-          "ticker": "8105",
-          "net_buy_shares": 10154053
+          "stock_name": "精成科",
+          "ticker": "6191",
+          "net_buy_shares": 6981217
         },
         {
           "rank": 9,
-          "stock_name": "東和鋼鐵",
-          "ticker": "2006",
-          "net_buy_shares": 7741337
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_buy_shares": 6698789
         },
         {
           "rank": 10,
-          "stock_name": "和碩",
-          "ticker": "4938",
-          "net_buy_shares": 7649206
+          "stock_name": "長榮",
+          "ticker": "2603",
+          "net_buy_shares": 6678443
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -126206899
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -152253028
         },
         {
           "rank": 2,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -51790233
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -130305489
         },
         {
           "rank": 3,
           "stock_name": "友達",
           "ticker": "2409",
-          "net_sell_shares": -43044546
+          "net_sell_shares": -60943790
         },
         {
           "rank": 4,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_sell_shares": -40496692
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_sell_shares": -30327761
         },
         {
           "rank": 5,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -38450174
+          "stock_name": "寶成",
+          "ticker": "9904",
+          "net_sell_shares": -24806337
         },
         {
           "rank": 6,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_sell_shares": -37759620
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_sell_shares": -23336273
         },
         {
           "rank": 7,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_sell_shares": -29206914
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_sell_shares": -22367854
         },
         {
           "rank": 8,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_sell_shares": -27646655
+          "stock_name": "元大高股息",
+          "ticker": "0056",
+          "net_sell_shares": -18823311
         },
         {
           "rank": 9,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -25214333
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -18445690
         },
         {
           "rank": 10,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_sell_shares": -24433627
+          "stock_name": "台化",
+          "ticker": "1326",
+          "net_sell_shares": -18102782
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 40906501
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 20870448
         },
         {
           "rank": 2,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 33632000
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_buy_shares": 15870544
         },
         {
           "rank": 3,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_buy_shares": 30210097
+          "stock_name": "遠東銀",
+          "ticker": "2845",
+          "net_buy_shares": 12134000
         },
         {
           "rank": 4,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 26678000
+          "stock_name": "台灣高鐵",
+          "ticker": "2633",
+          "net_buy_shares": 11229000
         },
         {
           "rank": 5,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 24193893
+          "stock_name": "上海商銀",
+          "ticker": "5876",
+          "net_buy_shares": 10004000
         },
         {
           "rank": 6,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_buy_shares": 18985000
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 8023085
         },
         {
           "rank": 7,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 18072000
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 6708224
         },
         {
           "rank": 8,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 16345000
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 5646897
         },
         {
           "rank": 9,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 13077000
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 4900000
         },
         {
           "rank": 10,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_buy_shares": 11697000
+          "stock_name": "欣興",
+          "ticker": "3037",
+          "net_buy_shares": 4756257
         }
       ],
       "trust_sell": [
@@ -194,185 +194,185 @@
           "rank": 1,
           "stock_name": "聯電",
           "ticker": "2303",
-          "net_sell_shares": -27264690
+          "net_sell_shares": -24161920
         },
         {
           "rank": 2,
           "stock_name": "元大金",
           "ticker": "2885",
-          "net_sell_shares": -13353063
+          "net_sell_shares": -10291425
         },
         {
           "rank": 3,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_sell_shares": -8220000
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_sell_shares": -7989481
         },
         {
           "rank": 4,
-          "stock_name": "東和鋼鐵",
-          "ticker": "2006",
-          "net_sell_shares": -5604664
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_sell_shares": -7183826
         },
         {
           "rank": 5,
-          "stock_name": "群益證",
-          "ticker": "6005",
-          "net_sell_shares": -4495252
+          "stock_name": "寶成",
+          "ticker": "9904",
+          "net_sell_shares": -5982000
         },
         {
           "rank": 6,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -4227000
+          "stock_name": "和碩",
+          "ticker": "4938",
+          "net_sell_shares": -5739000
         },
         {
           "rank": 7,
-          "stock_name": "亞泥",
-          "ticker": "1102",
-          "net_sell_shares": -4193506
+          "stock_name": "群益證",
+          "ticker": "6005",
+          "net_sell_shares": -5254944
         },
         {
           "rank": 8,
-          "stock_name": "京元電子",
-          "ticker": "2449",
-          "net_sell_shares": -3807000
+          "stock_name": "統一實",
+          "ticker": "9907",
+          "net_sell_shares": -4897000
         },
         {
           "rank": 9,
-          "stock_name": "光寶科",
-          "ticker": "2301",
-          "net_sell_shares": -3701000
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_sell_shares": -3505000
         },
         {
           "rank": 10,
-          "stock_name": "瑞儀",
-          "ticker": "6176",
-          "net_sell_shares": -3557000
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_sell_shares": -3498773
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 5786000
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_buy_shares": 768823
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 5649000
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 633287
         },
         {
           "rank": 3,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 1384000
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 611869
         },
         {
           "rank": 4,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 1228000
+          "stock_name": "中華電",
+          "ticker": "2412",
+          "net_buy_shares": 611000
         },
         {
           "rank": 5,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_buy_shares": 1193476
+          "net_buy_shares": 399000
         },
         {
           "rank": 6,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_buy_shares": 931099
+          "stock_name": "康舒",
+          "ticker": "6282",
+          "net_buy_shares": 354000
         },
         {
           "rank": 7,
-          "stock_name": "三商壽",
-          "ticker": "2867",
-          "net_buy_shares": 653000
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 344000
         },
         {
           "rank": 8,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 552000
+          "stock_name": "希華",
+          "ticker": "2484",
+          "net_buy_shares": 289228
         },
         {
           "rank": 9,
-          "stock_name": "中華電",
-          "ticker": "2412",
-          "net_buy_shares": 478985
+          "stock_name": "三商壽",
+          "ticker": "2867",
+          "net_buy_shares": 241000
         },
         {
           "rank": 10,
-          "stock_name": "和桐",
-          "ticker": "1714",
-          "net_buy_shares": 233000
+          "stock_name": "倉佑",
+          "ticker": "1568",
+          "net_buy_shares": 217000
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "台灣高鐵",
-          "ticker": "2633",
-          "net_sell_shares": -4927258
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -14136958
         },
         {
           "rank": 2,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_sell_shares": -2103995
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -4387499
         },
         {
           "rank": 3,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_sell_shares": -1422000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -3922996
         },
         {
           "rank": 4,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_sell_shares": -1103995
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -2631992
         },
         {
           "rank": 5,
-          "stock_name": "力成",
-          "ticker": "6239",
-          "net_sell_shares": -1068093
+          "stock_name": "長榮",
+          "ticker": "2603",
+          "net_sell_shares": -2451998
         },
         {
           "rank": 6,
-          "stock_name": "台達電",
-          "ticker": "2308",
-          "net_sell_shares": -1035203
+          "stock_name": "力成",
+          "ticker": "6239",
+          "net_sell_shares": -1819071
         },
         {
           "rank": 7,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -831000
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_sell_shares": -1752765
         },
         {
           "rank": 8,
-          "stock_name": "華新科",
-          "ticker": "2492",
-          "net_sell_shares": -623851
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -1206700
         },
         {
           "rank": 9,
-          "stock_name": "晶技",
-          "ticker": "3042",
-          "net_sell_shares": -513998
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_sell_shares": -1063996
         },
         {
           "rank": 10,
-          "stock_name": "智原",
-          "ticker": "3035",
-          "net_sell_shares": -445000
+          "stock_name": "聯發科",
+          "ticker": "2454",
+          "net_sell_shares": -992121
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "力積電",
-        "shares": 29153544
+        "target": "旺宏",
+        "shares": 20064569
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "華航",
-        "shares": 2314400
+        "target": "遠傳",
+        "shares": 307529
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "兆豐金",
-        "shares": 18407925
+        "target": "第一金",
+        "shares": 9391701
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "元大台灣50",
-        "shares": 37862069
+        "target": "群創",
+        "shares": 45675908
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "3 Stocks I'm Not Selling No Matter What the Market Does",
+      "title": "Dow Jones Futures Rise On U.S.-Iran News; Market At Tipping Point",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-im-not-selling-223500097.html",
-      "summary": "3 Stocks I'm Not Selling No Matter What the Market Does",
-      "full_text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nThe stock market hasn't endured a deep bear market since the Great Recession. There have been corrections and bear markets since that point, but they have been brief affairs. With the market near all-time highs, an intense investor focus on a small number of tech giants, inflation fears, recession fears, and geopolitical conflicts raging, I'm expecting another deep bear market in the near future. Here are three reliable dividend stocks that I'll hold right through the downturn.\n\nOver time, my investment approach has shifted toward more conservative investments. I prefer to own companies that I believe are well run, buying them when they are attractively priced relative to historical levels. In practice, that usually means buying companies like Medtronic (NYSE: MDT), which have long histories of annual dividend increases and historically high yields. Medtronic's dividend streak is up to 49 years, and its 3.5% yield is toward the high end of the stock's historical yield range.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nMedtronic is a large medical device company. Over time, it got bloated, and inefficiencies crept in. Profitability sagged and growth slowed. Management has been working to slim down and refocus the company. It is starting to gain some traction, noting that it just reported its highest annual revenue growth in a decade.\n\nThere's still more work to be done, but the healthcare products it sells are necessities, and I'm not about to give up on the stock if there's a market downturn. When the next bear market turns into a bull market, Medtronic will still be the same well-run company and, I believe, will continue to reliably increase its dividend all along the way.\n\nReal estate investment trust (REIT) Realty Income (NYSE: O) has an attractive dividend yield of 5.2%. It has increased its dividend annually for 31 years. I owned it once, sold it short-sightedly, and then ended up owning it again when it bought another REIT I owned. I won't be selling it again anytime soon. The yield isn't historically high, but it is attractive on an absolute basis.\n\nRealty Income is the largest net lease REIT, with over 15,500 properties. It focuses on single-tenant retail assets but also has exposure to industrial properties and to more unique assets, such as casinos and data centers. Geographically, Realty Income's portfolio spans North America and Europe. A conservative management approach is taken throughout the company's operations. To sum it up, the REIT is boring and reliable, as evidenced by the fact that occupancy didn't drop below 96% during the Great Recession. Given the depth of that economic downturn and the associated bear market, I'm confident that holding Realty Income through the next bear market is a good call.",
-      "published": "2026-06-27T22:35:00Z"
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&yptr=yahoo",
+      "summary": "Dow Jones Futures Rise On U.S.-Iran News; Market At Tipping Point",
+      "full_text": "Dow Jones Futures Rise On U.S.-Iran News; Market At Tipping Point",
+      "published": "2026-06-28T22:24:29Z"
     },
     {
       "id": "news_2",
-      "title": "Procore Technologies (PCOR) Announces Roll-out of Connected Common Data Environment",
+      "title": "60% of S&P 500 Stocks Carry Buy Ratings as US, Iran Halt Strikes",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/articles/procore-technologies-pcor-announces-roll-221818886.html",
-      "summary": "Procore Technologies (PCOR) Announces Roll-out of Connected Common Data Environment",
-      "full_text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nProcore Technologies, Inc. (NYSE:PCOR) is one of the Best Cloud Computing Stocks to Buy According to Hedge Funds. On June 1, the company announced the roll-out of its connected Common Data Environment. This is a purpose-built CDE from the ground up on a single platform, which can help in unifying and verifying project data from approved design to handover. This helps to capture evidence in the flow of work and keeps the digital record in line with site reality. This trusted data foundation enables the agentic AI to act throughout the full construction lifecycle.\n\nWhere fragmented information has been hampering decision-making and leading to costly delays, connected data continues to define top-performing organizations. Developed specifically for European market requirements, Procore Technologies, Inc. (NYSE:PCOR)'s CDE will initially be rolled out in the UK and Ireland before expanding across EMEA.\n\nThe company developed a localized UK Data Zone, while a dedicated EU Data Zone is expected to be launched in the fall of 2026.\n\nProcore Technologies, Inc. (NYSE:PCOR) offers a cloud-based construction management platform and related products and services.\n\nWhile we acknowledge the potential of PCOR as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT: 10 Best FMCG Stocks to Invest In According to Analysts and 11 Best Long-Term Tech Stocks to Buy According to Analysts.",
-      "published": "2026-06-27T22:18:18Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/60-p-500-stocks-carry-215900774.html",
+      "summary": "60% of S&P 500 Stocks Carry Buy Ratings as US, Iran Halt Strikes",
+      "full_text": "Nearly 60% of S&P 500 stocks now carry a Buy rating from Wall Street analysts, the highest level on record, after the United States and Iran agreed to halt strikes and ease geopolitical tensions.\n\nThe mix of record analyst optimism and cooling Middle East risk has reinforced bullish sentiment across US equities and other risk assets, including crypto.\n\nNearly 60% of S&P 500 stocks carry a Buy rating, the highest on record, strategist Charlie Bilello says. FactSet data put Buy ratings at 59.4% of analyst calls in June.\n\nHold ratings have slipped to 35.7%, and Sell calls sit at 4.9%, below their five-year average. Such Sell calls are structurally rare, since Wall Street analysts lean toward Buy and Hold.\n\nBilello, chief market strategist at Creative Planning, framed the optimism as a caution rather than a green light.\n\n\"When everyone is expecting good news, there's less room for positive surprises,\" He shared the view in late June.\n\nAnalyst optimism firmed as the US and Iran agreed to stop all \"kinetic activity,\" according to Axios. They will meet Tuesday in Doha.\n\nAccording to the report, U.S. officials said both sides will suspend hostilities for now, allowing commercial vessels to move freely while technical negotiations continue.",
+      "published": "2026-06-28T21:59:00Z"
     },
     {
       "id": "news_3",
-      "title": "Goldman Sachs Raises PT on Dynatrace (DT) Stock",
+      "title": "SpaceX landed in millions of 401(k)s through index funds — and the same rules open the door to OpenAI and Anthropic",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-pt-dynatrace-221811886.html",
-      "summary": "Goldman Sachs Raises PT on Dynatrace (DT) Stock",
-      "full_text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nDynatrace, Inc. (NYSE:DT) is one of the Best Cloud Computing Stocks to Buy According to Hedge Funds. On June 17, Goldman Sachs analyst Matthew Martino lifted the firm's price objective to $50 from $45 and maintained a \"Buy\" rating. There have been management discussions addressing the worries related to the slower Q4 net new annual recurring revenue growth as well as ambitious FY27 guidance. Post this, there was an improvement in the firm's confidence in Dynatrace, Inc. (NYSE:DT)'s FY 2027 outlook.\n\nThis is because the company's management highlighted that the recent softness was mainly due to Europe. The analyst further added that several drivers were also outlined, which aid the credible path to reaccelerating growth with potential upside as the year moves forward.\n\nIn a different update, BMO Capital lifted the firm's price objective on Dynatrace, Inc. (NYSE:DT)'s stock to $50 from $43 and maintained an \"Outperform\" rating. The analyst highlighted that the company gave a credible bridge to FY 2027 annualized recurring revenue targets.\n\nDynatrace, Inc. (NYSE:DT) offers a unified observability platform, which helps in combining AIOps, cloud monitoring, as well as application security.\n\nWhile we acknowledge the potential of DT as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT: 10 Best FMCG Stocks to Invest In According to Analysts and 11 Best Long-Term Tech Stocks to Buy According to Analysts.",
-      "published": "2026-06-27T22:18:11Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-landed-millions-401-k-214500017.html",
+      "summary": "SpaceX landed in millions of 401(k)s through index funds — and the same rules open the door to OpenAI and Anthropic",
+      "full_text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nSpaceX (NASDAQ:SPCX) priced its IPO (1) at $135 a share on June 12 and promptly went on a tear. Within four trading days, it climbed roughly two-thirds, touching $225 and a valuation near $3 trillion. Then it gave most of that back, sliding more than 30% to around $153, where it trades now — still roughly a $2 trillion company.\n\nNone of that round trip had any bearing on what happened next in millions of retirement accounts. On June 18, just five trading days after the listing, SpaceX entered the CRSP US Total Market Index — the benchmark behind the Vanguard Total Stock Market Index Fund (NYSEARCA:VTI), one of the most widely held funds in America and many other index funds.\n\nThat's the part worth understanding, because it's about to happen two more times.\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — here are 5 ways to build wealth like a landlord without actually being one\n\nRobert Kiyosaki says this 1 asset will surge 400% in a year and begs investors not to miss this 'explosion'\n\nMillionaires under 43 hold only 25% of their wealth in stocks. Here's where their money is actually going\n\nSpaceX's entry into your index funds is a sequence already in motion, unfolding over weeks:",
+      "published": "2026-06-28T21:45:00Z"
     }
   ]
 }
