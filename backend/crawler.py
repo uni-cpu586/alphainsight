@@ -229,7 +229,7 @@ def fetch_full_text(url):
         paragraphs = []
         for p in p_tags:
             text = p.get_text().strip()
-            if len(text) > 80 and not any(x in text.lower() for x in ["cookie", "subscribe", "sign up", "terms of service", "privacy policy", "rights reserved", "share this", "facebook", "twitter", "advertiser disclosure", "some offers on this page", "disclosure"]):
+            if len(text) > 80 and not any(x in text.lower() for x in ["cookie", "subscribe", "sign up", "terms of service", "privacy policy", "rights reserved", "share this", "facebook", "twitter", "advertiser disclosure", "some offers on this page", "disclosure", "links to coinbase", "yahoo finance is not a broker-dealer", "coinbase pays us"]):
                 paragraphs.append(text)
                 
         full_text = "\n\n".join(paragraphs[:8])
