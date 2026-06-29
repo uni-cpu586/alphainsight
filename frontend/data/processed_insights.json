@@ -1,482 +1,381 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "stock_uncle_insight": {
-    "date_header": "6/26 法人與主力大戶主要買超股票",
+    "date_header": "6/30 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃航空與傳產，避險兼卡位",
+        "group_title": "1. 外資大戶：狂掃面板雙虎與金融避風港",
         "stocks": [
           {
-            "stock_name": "華航",
-            "ticker": "2610",
-            "description": "肖年仔，外資狂掃 5.2 萬張華航，這擺明是看好暑假旺季題材，準備拉高出貨給散戶接刀。這不是真外資長線佈局，是短線炒作的訊號啦！"
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "肖年仔，外資大戶這天狂掃友達17.7萬張，這不是黑白買，擺明是看好面板景氣落底反彈，或是對友達的特定題材有長線布局，準備「鎖碼」了啦！"
           },
           {
-            "stock_name": "台塑",
-            "ticker": "1301",
-            "description": "外資敲進 3.9 萬張台塑，傳產龍頭股，在大盤震盪時，外資把資金轉進這種低波動的權值股，當作資金避風港，穩穩賺，但別期待噴出。"
+            "stock_name": "彩晶",
+            "ticker": "6116",
+            "description": "跟友達一樣，外資也買超彩晶2.3萬張，這面板雙虎一起動，肯定有貓膩，外資在低檔「卡位」的意圖很明顯。"
           },
           {
-            "stock_name": "合庫金",
-            "ticker": "5880",
-            "description": "外資買超 2.3 萬張合庫金，金融股是外資在避險時的愛股，殖利率高、波動小，進可攻退可守，但投信卻在賣部分金融，有點對作，肖年仔要看清楚。"
-          },
-          {
-            "stock_name": "長榮航",
-            "ticker": "2618",
-            "description": "外資也買進 1.3 萬張長榮航，跟華航一樣，航空雙雄一起被外資鎖定，旺季題材發酵，但也要小心高檔倒貨，別當最後一隻老鼠。"
+            "stock_name": "台新新光金",
+            "ticker": "2887",
+            "description": "外資買超台新新光金1.9萬張，金融股在市場震盪時，常常是資金的「避風港」，外資這是在找穩定的標的。"
           },
           {
             "stock_name": "聯電",
             "ticker": "2303",
-            "description": "外資買超 1.1 萬張聯電，但投信卻大賣 2.6 萬張，自營商小買，這檔外資跟投信在對作，主力意圖不明，肖年仔們風險較高，別黑白買。"
+            "description": "外資買超聯電1.0萬張，雖然投信跟自營商都在賣，但外資逆勢買進，可能是在半導體族群中，對聯電的評價面有獨到看法，或是看好特定訂單。"
           }
         ]
       },
       {
-        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，鎖定金融與記憶體",
+        "group_title": "2. 投信大戶（本土國家隊）：作帳行情與防禦性佈局",
         "stocks": [
+          {
+            "stock_name": "遠東新",
+            "ticker": "1402",
+            "description": "投信大買遠東新1.6萬張，這種傳產龍頭股，通常是投信在季底「作帳」或「結帳」時，用來拉抬績效的穩健標的。"
+          },
+          {
+            "stock_name": "第一金",
+            "ticker": "2892",
+            "description": "投信買超第一金1.5萬張，金融股是本土國家隊的最愛之一，穩健配息加上防禦性，是他們在市場震盪時的「壓艙石」。"
+          },
           {
             "stock_name": "華邦電",
             "ticker": "2344",
-            "description": "投信狂敲 3.7 萬張華邦電，記憶體族群最近有題材，投信這是在作帳，準備拉抬衝績效，肖年仔們可以觀察，但別傻傻追高被割韭菜。"
+            "description": "外資在賣華邦電，但投信卻逆勢買超1.1萬張，這就是典型的「法人對作」，投信可能看好記憶體後市，或是認為股價已經跌無可跌，準備「接刀」了。"
           },
           {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "投信買超 3.2 萬張兆豐金，永豐金、華南金、玉山金、第一金也都在買超榜上，投信這波是集體鎖定金融股，準備年底作帳，跟外資在部分金融股上對作，這就是法人之間的心理戰。"
-          },
-          {
-            "stock_name": "永豐金",
-            "ticker": "2890",
-            "description": "投信買超 3.0 萬張永豐金，金融股是投信作帳的常客，穩健好拉，但外資卻在賣玉山金、兆豐金，這盤面很複雜，別亂猜。"
-          },
-          {
-            "stock_name": "南亞科",
-            "ticker": "2408",
-            "description": "投信買超 1.5 萬張南亞科，跟華邦電一樣，記憶體雙雄都被投信看上，這波作帳行情，記憶體是重點之一，但也要小心投信結帳倒貨。"
+            "stock_name": "台灣高鐵",
+            "ticker": "2633",
+            "description": "投信買超台灣高鐵0.8萬張，這種內需概念股，在市場不確定性高的時候，是相對穩定的選擇，也是投信「作帳」的好標的。"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：短線操作，面板與聯電成焦點",
+        "group_title": "3. 內資主力與實戶：跟風面板與ETF避險",
         "stocks": [
           {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "自營商買超 4,086 張聯電，外資買投信賣，自營商這小咖也來湊熱鬧，可能是避險盤或短線套利，意圖不明，肖年仔們別亂跟。"
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "自營商買超0050約0.13萬張，這代表內資主力對大盤看法比較保守，先買進ETF來「避險」，等著看風向再說。"
           },
           {
-            "stock_name": "三商壽",
-            "ticker": "2867",
-            "description": "自營商買超 3,084 張三商壽，壽險股有時會被自營商當作避險標的，或是看好特定題材，但量不大，參考就好，別太認真。"
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "自營商也跟著外資買超友達0.13萬張，面板雙虎的低檔反彈題材，連內資主力都想來「嘎一腳」，肖年仔，這就是市場的「跟風效應」。"
           },
           {
             "stock_name": "群創",
             "ticker": "3481",
-            "description": "自營商買超 2,367 張群創，面板股最近有轉機題材，自營商這是在卡位，看能不能搭上順風車，但肖年仔們要小心，面板股波動大，接刀要小心。"
+            "description": "自營商買超群創0.12萬張，跟友達一樣，面板股被內外資一起點火，主力們可能覺得這波有搞頭，準備「拉高出貨」了。"
           },
           {
-            "stock_name": "華航",
-            "ticker": "2610",
-            "description": "自營商也買超 2,121 張華航，跟外資一起買航空股，這表示航空股的旺季題材確實吸引短線資金，但也要小心隔日沖，別被倒貨。"
+            "stock_name": "中華電",
+            "ticker": "2412",
+            "description": "自營商買超中華電0.06萬張，電信股是典型的防禦型股票，內資主力買進，可能是為了穩定部位，或是看好其高殖利率的特性。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔避險與資金避風港（金融、航空、傳產）",
-        "strategy_content": "肖年仔，外資在大盤高檔震盪時，把資金從部分科技股（如力積電、旺宏）撤出，轉進波動較小、殖利率較高的金融股（合庫金、臺企銀、彰銀、元大金）以及具旺季題材的航空股（華航、長榮航）。同時，傳產龍頭股（台塑、台泥、台玻）也成為資金避風港，顯示外資在尋求穩健收益，降低整體投資組合風險。這不是看壞大盤，而是資金輪動的避險操作，肖年仔們要學會看懂這種避險盤。"
+        "strategy_title": "策略一：高檔避險與資金避風港（金融、傳產、電信）",
+        "strategy_content": "肖年仔，你看外資、投信、自營商不約而同地買進金融、傳產和電信股，這很明顯就是在大盤高檔震盪時，把資金從高風險板塊撤出，轉往具有防禦性或穩定配息的標的。尤其在國際市場變數多，像H&M這種零售巨頭都在關店，大家都在找「避風港」啦！"
       },
       {
-        "strategy_title": "策略二：投信作帳行情啟動（金融、記憶體）",
-        "strategy_content": "本土投信大戶展現強烈作帳意圖，大舉買進金融股（兆豐金、永豐金、華南金、玉山金、第一金）和記憶體族群（華邦電、南亞科）。金融股因其穩定性與高殖利率，常是投信年底衝刺績效的標的。記憶體則因產業景氣有望復甦，成為投信提前卡位的重點。這波操作顯示投信在為季底或年底結帳做準備，肖年仔們要留意這些被鎖碼的標的，但別傻傻追高。"
+        "strategy_title": "策略二：面板雙虎低基期點火（友達、彩晶、群創）",
+        "strategy_content": "面板雙虎友達、彩晶、群創，被外資和自營商聯手買超，這擺明是主力看好面板產業已經跌無可跌，準備從底部「點火」了。雖然面板景氣還沒完全翻多，但大戶們已經開始在低檔「鎖碼」，準備等著「拉高出貨」了，肖年仔，這就是逆向操作的精髓！"
       },
       {
-        "strategy_title": "策略三：法人對作與短線套利（聯電、部分金融）",
-        "strategy_content": "聯電出現外資買、投信大賣的法人對作現象，自營商則小幅買進。這顯示市場對聯電的看法分歧，外資可能看好其成熟製程的穩定性，而投信則可能在調整持股或獲利了結。此外，外資賣超玉山金、兆豐金、永豐金、華南金，但投信卻大買這些金融股，這也是典型的法人對作。這種情況下，股價容易震盪，短線主力會趁機套利，肖年仔們要小心別被洗出場，更別去接這種刀。"
+        "strategy_title": "策略三：AI 題材分歧與半導體資金輪動",
+        "strategy_content": "雖然國際上有Nvidia的AI大單消息，但你看台股的半導體族群，外資大賣力積電、華邦電，卻又買聯電、嘉晶。投信則是買華邦電，賣聯電。這表示法人對半導體次產業的看法很分歧，資金正在進行「輪動」。外資可能在「倒貨」記憶體，但對晶圓代工或特定利基型半導體還是有興趣，肖年仔，這不是黑白猜，是主力在挑肥揀瘦啦！"
       }
     ],
-    "summary": "肖年仔，看清楚了沒？外資在避險，把錢往航空跟傳產、部分金融塞，投信這群本土國家隊則在作帳，狂掃金融跟記憶體。法人對作的股票，別傻傻去接刀，小心被割韭菜！這盤面就是資金輪動，高檔震盪，穩健為上！",
+    "summary": "肖年仔，今天市場就是一個字：亂！法人對作、資金避險、低基期點火，主力大戶們都在找機會「割韭菜」，你可別傻傻地去「接刀」啊！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 1.8 萬張",
-        "uncle_logic": "這外資大咖狂掃華航，擺明就是看好航空雙雄的暑假旺季題材，準備拉高出貨給散戶接刀，這不是真外資長線佈局，是短線炒作的訊號啦！"
+        "action": "買超 6.2萬張",
+        "uncle_logic": "美商高盛這外資大戶狂掃友達6.2萬張，這不是短線「隔日沖」的量，擺明是看好面板低檔反彈，或是對友達的特定題材有長線布局，準備「鎖碼」了啦！"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 1,634 張",
-        "uncle_logic": "凱基台北這分點，肖年仔們都知道是隔日沖大本營。今天買聯電，明天八成就是準備倒貨給追高的韭菜，小心別去接刀啊！"
+        "action": "買超 0.05萬張",
+        "uncle_logic": "凱基台北這分點，平常都是短線「隔日沖」的代表。買0050這種ETF，可能是為了「避險」，或是當作短線資金停泊站，等著找下一個標的「點火」，肖年仔，別以為他們轉性了！"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 1.6 萬張",
-        "uncle_logic": "元大投信這本土國家隊，狂敲華邦電，擺明就是投信作帳行情又來了。記憶體族群最近有題材，他們趁機拉抬，準備年底結帳衝績效。"
+        "action": "買超 0.74萬張",
+        "uncle_logic": "元大投信買遠東新0.74萬張，這種傳產股通常是投信在「作帳」或「季底結帳」時，用來拉抬績效的穩健標的，或是看好其高殖利率的防禦性。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 2.6 萬張",
-        "uncle_logic": "摩根大通這外資大咖，狂倒力積電，跟外資整體賣超力積電的動作一致。這擺明是外資在撤出部分半導體資金，肖年仔們別傻傻去接這種倒貨盤。"
+        "action": "賣超 0.8萬張",
+        "uncle_logic": "摩根大通這外資大戶在「倒貨」力積電0.8萬張，肖年仔要小心，這可能代表他們對記憶體或晶圓代工後市看法保守，或是獲利了結「拉高出貨」，你可別去「接刀」啊！"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "I Give My Teenager $50 a Week and Have No Idea Where It Goes. Would Dave Ramsey Call That Lazy Parenting?",
+      "title": "79-year-old fashion retailer closed 136 stores, killed one of its brands",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/teenager-50-week-no-idea-140046188.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/h-m-closed-136-stores-012815718.html",
       "level1_blind": {
-        "text": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\n\nLazy is a strong word. Uninformed is more accurate. But here is the truth: handing a teenager cash with no system, no accountability, and no visibility is not an allowance. It is a weekly lesson in spending without thinking, and you are the one funding it.\n\nThe point of an allowance is not to give your kid spending money. The point is to give them a controlled environment to practice earning, allocating, and decision-making before the stakes are real. If you hand over $50 with no strings, no tracking, and no conversation, you are skipping the entire lesson.\n\nSmall differences in withdrawal and tax strategy can significantly impact long-term retirement income — see where you stand today.\n\nRamsey's philosophy on allowance is clear: it should be tied to work. Not chores in the \"because you live here\" category, but real contributions that have a dollar value attached. A teenager who earns their money develops a different relationship with it than one who receives it automatically.\n\nIf you do not know where your teenager's money is going, neither does your teenager, at least not in any structured way. That is the problem. A 16-year-old who cannot account for $200 a month in spending is going to be a 22-year-old who cannot account for $2,000 a month. The habit of tracking where money goes is not something most people develop spontaneously. It has to be practiced.\n\nThis is not about surveillance. It is about building awareness. You want your teenager to be able to look at their spending and say, \"I spent $38 on food and $12 on a game download and I have $0 left, so I need to wait until next week.\" That is a win.\n\nTrending: AI Robots Have Already Fried More Than 5 Million Baskets Of Food. Everyday Investors Can Still Buy Into The Company Behind Them."
+        "text": "The problem with fashion is that it's fickle and people's tastes change, demand for items can fall quickly, and yesterday's success story can easily become tomorrow's struggling brand.\n\nEven long-time retailers like The Gap have periods where they're hot and others where they're on the wrong side of current trends. Fast fashion, was supposed to be somewhat immune to that because of the changed nature of its merchandise cycle.\n\n\"With a focus on ultra-low prices and condensed production cycles, fast fashion gets new styles to customers at a record pace — and creates sizable environmental and social challenges,\" according to McKinsey and Company's What is Fast Fashion.\n\nIn theory, a retailer like H&M can stay on top of current trends and move away from declining ones quickly.\n\nWhat the retail giant did not account for, however, was cheaper digital rivals that have lower costs, so they can charge less, while also being able to move even fast.\n\n\"Fast fashion retailers have consolidated their position in the American market: retailers such as Shein and Temu are now the primary online fashion marketplaces in the United States — fast or otherwise,\" according to McKinsey's The State of Fashion 2025.\n\nH&M has closed more than 600 stores since 2022, with 136 closing over the past six months. In addition, the chain has shut down most standalone stores for its Monki brand while transitioning select locations to its Weekday brand.\n\nWhile it has also opened a number of locations, H&M Group closed 2022 with 4,702 stores and completed the first half of 2026 with 4,038, a loss of 644 locations. The chain has finished every year in that time period with fewer locations than it had the year before."
       },
       "level2_keywords": [
         {
-          "word": "commission",
-          "ipa": "/kəˈmɪʃən/",
-          "meaning": "銷售或服務完成後支付的報酬，類似於業務獎金或仲介費。",
-          "example": "「Sales representatives often earn a commission on their successful deals.」"
+          "word": "fickle",
+          "ipa": "/ˈfɪkəl/",
+          "meaning": "各位同學，這個字指的是事物或人的情緒、品味等變化無常，難以預測。在時尚界，這表示潮流來去快速，品牌很難長期維持熱度。",
+          "example": "「The fashion industry is notoriously fickle, making it hard for brands to maintain long-term relevance.」"
         },
         {
-          "word": "revenue",
-          "ipa": "/ˈrɛvəˌnuː/",
-          "meaning": "公司在特定期間內從銷售商品或服務中獲得的總收入，也就是俗稱的『營收』。",
-          "example": "「The company's quarterly revenue exceeded expectations due to strong product demand.」"
+          "word": "fast fashion",
+          "ipa": "/ˌfæst ˈfæʃən/",
+          "meaning": "這是一種商業模式，旨在快速將最新的時尚趨勢從伸展台帶到商店，以低廉的價格提供給消費者，並縮短生產週期，讓消費者能頻繁購買新衣。",
+          "example": "「Companies like Shein and Temu have revolutionized fast fashion with their ultra-low prices and rapid production.」"
         },
         {
-          "word": "allowance",
-          "ipa": "/əˈlaʊəns/",
-          "meaning": "定期給予某人（通常是孩子）用於個人開支的錢，在台灣我們常說『零用錢』或『津貼』。",
-          "example": "「Many parents give their children an allowance to teach them about money management.」"
+          "word": "merchandise cycle",
+          "ipa": "/ˈmɜːrtʃəndaɪz ˈsaɪkəl/",
+          "meaning": "我們要注意這個詞，它指的是商品從設計、生產、上架、銷售到下架的整個生命週期。快時尚的特點就是這個週期非常短，以快速更新商品。",
+          "example": "「A shorter merchandise cycle allows fast fashion retailers to quickly adapt to changing consumer demands.」"
         },
         {
-          "word": "accountability",
-          "ipa": "/əˌkaʊntəˈbɪləti/",
-          "meaning": "對自己的行為負責，並能解釋其結果的狀態，在企業管理中常指『問責制』或『責任制』。",
-          "example": "「Financial accountability is crucial for managing personal budgets effectively.」"
+          "word": "digital rivals",
+          "ipa": "/ˈdɪdʒɪtəl ˈraɪvəlz/",
+          "meaning": "這句話在財經界的意思是，主要透過線上平台運營，並利用數位技術獲得競爭優勢的對手。它們通常成本較低、反應更快，對傳統零售商構成威脅。",
+          "example": "「Traditional brick-and-mortar stores are struggling to compete with agile digital rivals that offer lower prices and faster delivery.」"
         },
         {
-          "word": "strategy",
-          "ipa": "/ˈstrætədʒi/",
-          "meaning": "為達成特定目標而規劃的一系列行動，也就是『策略』或『戰略』。",
-          "example": "「Developing a sound investment strategy is key to long-term financial success.」"
+          "word": "standalone stores",
+          "ipa": "/ˈstændəˌloʊn stɔːrz/",
+          "meaning": "這個詞指的是獨立於百貨公司或其他大型購物中心之外，擁有自己獨立店面的零售門市。它們通常需要較高的營運成本。",
+          "example": "「H&M is closing many of its standalone stores for the Monki brand to streamline its retail operations.」"
         }
       ],
-      "level2_context": "各位同學，這篇新聞雖然看似在談家庭教育，但它背後蘊含的其實是重要的『個人理財觀念』與『財務素養』。文章的核心在於探討如何透過給予青少年零用錢，來培養他們正確的金錢觀和管理能力。它點出了許多家長常犯的錯誤：只是單純給錢，卻沒有建立一套系統，讓孩子學習如何『賺錢』、『分配』與『決策』。這就像企業在分配預算時，如果沒有明確的『問責機制』和『績效追蹤』，很容易導致資源浪費。新聞中提到的財務專家 Dave Ramsey 的觀點，更是強調零用錢應該與『勞務』掛鉤，讓孩子理解金錢的『價值』，而非不勞而獲。這對他們未來進入社會，面對真實的『收入』與『支出』，建立穩健的『財務規劃』，有著深遠的影響。所以，這不只是一篇親子文章，更是一堂生動的『財商教育』課。",
+      "level2_context": "各位同學，這篇新聞在探討的是傳統快時尚巨頭 H&M 面臨的嚴峻挑戰。我們可以看到，時尚產業的本質就是「善變」（fickle），消費者品味變化快速，這對任何品牌都是一大考驗。過去，H&M 等品牌以「快時尚」（fast fashion）模式崛起，透過快速將伸展台趨勢轉化為平價商品，縮短了「商品週期」（merchandise cycle），一度被認為能免疫於這種善變。\n\n然而，新聞點出了更深層的產業變革：新一代的「數位競爭者」（digital rivals）如 Shein 和 Temu，它們以更極致的「超低價格」和「壓縮生產週期」進入市場。這些數位原生品牌不僅成本結構更輕，反應速度更快，還能透過數據分析精準掌握趨勢，迅速將商品送到消費者手中。這使得 H&M 這種仍有大量實體「獨立門市」（standalone stores）的傳統快時尚模式，在成本和速度上都難以匹敵。\n\n因此，H&M 大規模關閉門市，甚至淘汰旗下品牌，反映的是整個零售業，特別是時尚產業，正經歷一場由數位化和極致供應鏈效率驅動的典範轉移。這不僅是單一公司的困境，更是傳統零售商在面對數位化浪潮時，如何轉型、如何重新定義其「商品週期」和營運模式的宏觀挑戰。",
       "level3_translation": [
         {
-          "sentence": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
-          "translation": "Benzinga 和 Yahoo Finance 有限責任公司可能會透過下方連結，從某些商品中賺取『佣金』或『營收』。"
+          "sentence": "The problem with fashion is that it's fickle and people's tastes change, demand for items can fall quickly, and yesterday's success story can easily become tomorrow's struggling brand.",
+          "translation": "時尚產業的挑戰在於它變化莫測，人們的品味不斷改變，商品需求可能快速下滑，而昨日的成功案例很容易就變成明日苦苦掙扎的品牌。"
         },
         {
-          "sentence": "Lazy is a strong word.",
-          "translation": "『懶惰』這個詞說得有點重了。"
+          "sentence": "Even long-time retailers like The Gap have periods where they're hot and others where they're on the wrong side of current trends.",
+          "translation": "即使是像 The Gap 這樣的老牌零售商，也有風光一時的時期，以及錯估當前趨勢而陷入困境的時期。"
         },
         {
-          "sentence": "Uninformed is more accurate.",
-          "translation": "『不知情』或許更為貼切。"
+          "sentence": "Fast fashion, was supposed to be somewhat immune to that because of the changed nature of its merchandise cycle.",
+          "translation": "快時尚原本應該能多少免疫於這種狀況，因為它的商品週期本質已經改變。"
         },
         {
-          "sentence": "But here is the truth: handing a teenager cash with no system, no accountability, and no visibility is not an allowance.",
-          "translation": "但事實是：如果只是把現金交給青少年，卻沒有一套系統、沒有『問責機制』，也沒有『透明度』，那這根本不能算是『零用錢』。"
+          "sentence": "\"With a focus on ultra-low prices and condensed production cycles, fast fashion gets new styles to customers at a record pace — and creates sizable environmental and social challenges,\" according to McKinsey and Company's What is Fast Fashion.",
+          "translation": "根據麥肯錫顧問公司『什麼是快時尚』的報告指出：「快時尚專注於超低價格和壓縮的生產週期，以創紀錄的速度將新款式推向消費者——同時也帶來了巨大的環境與社會挑戰。」"
         },
         {
-          "sentence": "It is a weekly lesson in spending without thinking, and you are the one funding it.",
-          "translation": "這反而變成每週一次的『無腦消費』課程，而你就是那個出錢的冤大頭。"
+          "sentence": "In theory, a retailer like H&M can stay on top of current trends and move away from declining ones quickly.",
+          "translation": "理論上，像 H&M 這樣的零售商可以迅速掌握最新趨勢，並擺脫衰退中的趨勢。"
         },
         {
-          "sentence": "The point of an allowance is not to give your kid spending money.",
-          "translation": "給『零用錢』的重點，並不是單純給孩子花錢。"
+          "sentence": "What the retail giant did not account for, however, was cheaper digital rivals that have lower costs, so they can charge less, while also being able to move even fast.",
+          "translation": "然而，這家零售巨頭沒有考慮到的是，那些成本更低、因此可以收取更少費用，同時動作也更快的數位競爭者。"
         },
         {
-          "sentence": "The point is to give them a controlled environment to practice earning, allocating, and decision-making before the stakes are real.",
-          "translation": "重點是提供他們一個可控的環境，讓他們在真正面對高風險之前，練習『賺錢』、『分配』和『決策』。"
+          "sentence": "\"Fast fashion retailers have consolidated their position in the American market: retailers such as Shein and Temu are now the primary online fashion marketplaces in the United States — fast or otherwise,\" according to McKinsey's The State of Fashion 2025.",
+          "translation": "根據麥肯錫『2025 年時尚產業現況』報告指出：「快時尚零售商已經鞏固了他們在美國市場的地位：像 Shein 和 Temu 這樣的零售商，現在是美國主要的線上時尚市集——無論他們是否被歸類為快時尚。」"
         },
         {
-          "sentence": "If you hand over $50 with no strings, no tracking, and no conversation, you are skipping the entire lesson.",
-          "translation": "如果你只是隨手給了 50 美元，沒有任何附加條件、沒有『追蹤』，也沒有任何對話，那你就完全跳過了這整堂課。"
+          "sentence": "H&M has closed more than 600 stores since 2022, with 136 closing over the past six months.",
+          "translation": "自 2022 年以來，H&M 已關閉超過 600 家門市，其中有 136 家是在過去六個月內關閉的。"
         },
         {
-          "sentence": "Small differences in withdrawal and tax strategy can significantly impact long-term retirement income — see where you stand today.",
-          "translation": "提領和『稅務策略』上的微小差異，都可能顯著影響你長期的『退休金收入』——今天就來看看你的狀況如何。"
+          "sentence": "In addition, the chain has shut down most standalone stores for its Monki brand while transitioning select locations to its Weekday brand.",
+          "translation": "此外，該連鎖品牌也關閉了其 Monki 品牌的大部分獨立門市，同時將部分選定的地點轉型為其 Weekday 品牌。"
         },
         {
-          "sentence": "Ramsey's philosophy on allowance is clear: it should be tied to work.",
-          "translation": "Ramsey 對於『零用錢』的哲學很明確：它應該與『工作』掛鉤。"
+          "sentence": "While it has also opened a number of locations, H&M Group closed 2022 with 4,702 stores and completed the first half of 2026 with 4,038, a loss of 644 locations.",
+          "translation": "儘管 H&M 集團也開設了一些新門市，但 2022 年底時擁有 4,702 家門市，到 2026 年上半年結束時則剩下 4,038 家，總共減少了 644 家門市。"
         },
         {
-          "sentence": "Not chores in the \"because you live here\" category, but real contributions that have a dollar value attached.",
-          "translation": "不是那種『因為你住在這裡』所以要做的家務，而是有實際『美元價值』的貢獻。"
-        },
-        {
-          "sentence": "A teenager who earns their money develops a different relationship with it than one who receives it automatically.",
-          "translation": "一個透過勞動賺取金錢的青少年，與一個自動獲得金錢的青少年，他們對金錢的『關係』會截然不同。"
-        },
-        {
-          "sentence": "If you do not know where your teenager's money is going, neither does your teenager, at least not in any structured way.",
-          "translation": "如果你不知道你家青少年的錢花到哪裡去了，那你的青少年自己也不知道，至少不是以任何有『結構』的方式知道。"
-        },
-        {
-          "sentence": "That is the problem.",
-          "translation": "這就是問題所在。"
-        },
-        {
-          "sentence": "A 16-year-old who cannot account for $200 a month in spending is going to be a 22-year-old who cannot account for $2,000 a month.",
-          "translation": "一個 16 歲無法交代每月 200 美元『支出』的青少年，將來很可能成為一個 22 歲無法交代每月 2,000 美元『支出』的年輕人。"
-        },
-        {
-          "sentence": "The habit of tracking where money goes is not something most people develop spontaneously.",
-          "translation": "『追蹤金錢流向』的習慣，並不是大多數人會自然而然養成的。"
-        },
-        {
-          "sentence": "It has to be practiced.",
-          "translation": "它必須透過練習來養成。"
-        },
-        {
-          "sentence": "This is not about surveillance.",
-          "translation": "這並不是關於『監控』。"
-        },
-        {
-          "sentence": "It is about building awareness.",
-          "translation": "這是關於建立『金錢意識』。"
-        },
-        {
-          "sentence": "You want your teenager to be able to look at their spending and say, \"I spent $38 on food and $12 on a game download and I have $0 left, so I need to wait until next week.\"",
-          "translation": "你希望你的青少年能夠檢視他們的『消費』，然後說：「我花了 38 美元買食物，12 美元下載遊戲，現在我一毛錢都不剩了，所以我要等到下週才能再花錢。」"
-        },
-        {
-          "sentence": "That is a win.",
-          "translation": "這就是一個『勝利』。"
-        },
-        {
-          "sentence": "Trending: AI Robots Have Already Fried More Than 5 Million Baskets Of Food.",
-          "translation": "熱門趨勢：AI 機器人已經炸了超過 500 萬籃的食物。"
-        },
-        {
-          "sentence": "Everyday Investors Can Still Buy Into The Company Behind Them.",
-          "translation": "一般投資人仍然可以『投資』這些公司背後的企業。"
+          "sentence": "The chain has finished every year in that time period with fewer locations than it had the year before.",
+          "translation": "在這段期間內，該連鎖品牌每年結束時的門市數量都比前一年少。"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Billionaire Mark Cuban Says Data Center Fight Is ‘Proxy For Hate’ Toward AI And ‘Concentration Of Wealth’ — ‘Nothing To Do With Data Centers’",
+      "title": "Australia's Firmus Technologies strikes AI access deal with Nvidia",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/billionaire-mark-cuban-says-data-140002990.html",
+      "link": "https://finance.yahoo.com/technology/ai/articles/australias-firmus-technologies-strikes-ai-140253776.html",
       "level1_blind": {
-        "text": "Artificial intelligence (AI) may be built on chips and code, but Mark Cuban believes its future could hinge on something much less technical: whether ordinary people decide they want it in their backyard.\n\nIn a post on X on June 25, the billionaire entrepreneur argued that growing opposition to data centers is no longer just about giant buildings or power demand. Instead, he said, they have become symbols of broader anxieties surrounding artificial intelligence.\n\nBillionaire Mark Cuban Says If We Fined Insurance Companies and Providers $100 Each Time They Overbilled, 'We Could Pay Off the National Debt'\n\nBroadcom and OpenAI Just Unveiled the New Jalapeño AI Chip. What That Means for AVGO Stock.\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\n\"It's time for everyone to realize that the fight against data centers has nothing to do with data centers,\" Cuban wrote. \"They have become a proxy for the hate towards AI and the concentration and accumulation of wealth it's creating.\"\n\nCuban argued that the companies behind today's largest large language models, or LLMs, are losing public support because they have focused too much on technology and not enough on the people affected by it.\n\n\"The big LLMs have lost the PR battle,\" he wrote. \"Why? Because they all suck at putting people first. They have an SV attitude that makes them all think they are John Galt saving the world.\""
+        "text": "SYDNEY, June 29 (Reuters) - Australian AI infrastructure company Firmus Technologies said on Monday it had signed a strategic partnership ‌with Nvidia Corp to help provide emerging AI firms with more ‌cost-effective access to computing power.\n\n• Firmus said the deal would see it buy Nvidia infrastructure ​and sell Nvidia‑powered cloud services to \"AI Native\" customers, among others, in an agreement that would earn the U.S.-listed chip giant product revenue and a share of cloud revenue.\n\n• The deal will deliver 170,000 Graphics Processing Units (GPU) from the ‌first quarter of 2027 to ⁠the start of 2028, that will be located in Batam, Indonesia.\n\n• Firmus said it expected to earn up to $30 ⁠billion in revenue during the first six years of the deal, based on customer commitments.\n\n• The Australian-founded company said the deal would make it easier for ​smaller ​and developing AI firms to access the ​technology's infrastructure.\n\n• \"We have worked to ‌figure out how to close the gap between the cost benefits that the large guys have access to, which they do because they have great credit ratings, and the guys that are up and comers,\" Firmus co-chief executive Tim Rosenfield told Reuters. \"This is actually a really material way to ‌level the playing field a little bit ​to give the next a chance to compete ​with the big guys.\"\n\n• ​Nvidia has participated in Firmus' previous capital raisings making it ‌an investor in the Australian firm, ​according to Firmus.\n\n• ​Firmus said in April it had raised $1.35 billion over the previous six months, giving it a $5.5 billion post-money valuation. It has appointed investment ​banks to work on ‌a potential initial public offering, according to people familiar with ​the matter."
       },
       "level2_keywords": [
         {
-          "word": "Artificial intelligence (AI)",
-          "ipa": "/ˌɑːrtɪˈfɪʃəl ɪnˈtɛlɪdʒəns/",
-          "meaning": "人工智慧，指機器模擬人類智能進行學習、推理、解決問題的能力。",
-          "example": "The rapid development of artificial intelligence is transforming many industries, from healthcare to finance."
+          "word": "strategic partnership",
+          "ipa": "/strəˈtiːdʒɪk ˈpɑːrtnərˌʃɪp/",
+          "meaning": "策略聯盟、戰略合作夥伴關係。指兩家公司為共同目標而建立的長期合作關係。",
+          "example": "「Firmus Technologies 與 Nvidia 簽署了『strategic partnership』，目標是為新興 AI 公司提供運算資源。」"
         },
         {
-          "word": "Data centers",
-          "ipa": "/ˈdeɪtə ˈsɛntərz/",
-          "meaning": "資料中心，指集中存放電腦伺服器、儲存設備及網路硬體設施的場所，用於處理、儲存和傳輸大量數據。",
-          "example": "Building new data centers often faces local community opposition due to concerns about power consumption and environmental impact."
+          "word": "computing power",
+          "ipa": "/kəmˈpjuːtɪŋ ˈpaʊər/",
+          "meaning": "運算能力、算力。指電腦系統處理數據和執行指令的能力，在 AI 領域尤為關鍵。",
+          "example": "「這項合作旨在讓更多 AI 新創公司能以更具成本效益的方式取得高效的『computing power』。」"
         },
         {
-          "word": "Proxy",
-          "ipa": "/ˈprɑːksi/",
-          "meaning": "代理、代表物，在此情境中指某事物成為另一種更深層情緒或問題的替代性表達或象徵。",
-          "example": "Cuban suggests the fight against data centers is a proxy for deeper societal anxieties about technology and economic inequality."
+          "word": "infrastructure",
+          "ipa": "/ˈɪnfrəˌstrʌktʃər/",
+          "meaning": "基礎設施。在科技領域，通常指硬體、網路、資料中心等支撐系統運作的基礎架構。",
+          "example": "「Firmus 將採購 Nvidia 的『infrastructure』，並銷售基於 Nvidia 技術的雲端服務。」"
         },
         {
-          "word": "Concentration of wealth",
-          "ipa": "/ˌkɑːnsənˈtreɪʃən əv wɛlθ/",
-          "meaning": "財富集中，指財富過度集中於少數人或企業手中，導致貧富差距擴大。",
-          "example": "Critics argue that the tech boom has led to an increased concentration of wealth among a few powerful companies and individuals."
+          "word": "Graphics Processing Units (GPU)",
+          "ipa": "/ˈɡræfɪks ˈprɑːsɛsɪŋ ˈjuːnɪts/",
+          "meaning": "圖形處理器。最初用於處理圖像，但因其平行運算能力強大，現已成為 AI 和機器學習的核心硬體。",
+          "example": "「這筆交易預計將在 2027 年至 2028 年間交付 17 萬個『Graphics Processing Units (GPU)』。」"
         },
         {
-          "word": "Large language models (LLMs)",
-          "ipa": "/lɑːrdʒ ˈlæŋɡwɪdʒ ˈmɑːdəlz/",
-          "meaning": "大型語言模型，指基於深度學習技術，能夠理解、生成和處理人類語言的AI模型，如ChatGPT。",
-          "example": "LLMs like ChatGPT are powerful tools, but they need to address public perception and ethical concerns to gain broader acceptance."
+          "word": "initial public offering (IPO)",
+          "ipa": "/ɪˈnɪʃəl ˈpʌblɪk ˈɔːfərɪŋ/",
+          "meaning": "首次公開募股。指公司首次將其股票向公眾出售，通常是為了籌集資金並在證券交易所上市。",
+          "example": "「Firmus 已經委託投資銀行，準備進行潛在的『initial public offering』。」"
         }
       ],
-      "level2_context": "各位同學，這篇新聞探討的是一個非常有趣的社會現象，它點出了當前科技發展，特別是人工智慧（AI）在社會中引發的深層焦慮。馬克·庫班這位億萬富翁的觀點是，民眾對資料中心的抗拒，其實並非單純針對這些建築物本身，而是對AI技術快速進展可能帶來的財富集中化、甚至對未來社會結構的擔憂。這反映了科技巨頭在推動創新時，往往容易忽略公眾感受和社會影響，導致公關戰失利。這對我們理解科技產業與社會互動的宏觀趨勢非常重要，提醒我們技術發展不能只看技術本身，更要關注其對『人』的影響。",
+      "level2_context": "各位同學，這則新聞揭示了當前 AI 產業發展的一個重要趨勢，那就是「算力」的普及化與民主化。Nvidia 作為 AI 晶片龍頭，其 GPU 幾乎是所有大型 AI 模型訓練的基石，但這些高效能晶片和相關運算資源價格不菲，對於許多新興或規模較小的 AI 新創公司來說，取得這些資源是個巨大的挑戰。\n\nFirmus Technologies 與 Nvidia 的合作，正是為了解決這個痛點。Firmus 透過大量採購 Nvidia 的硬體，並將其轉化為雲端服務，讓這些「AI Native」的新創公司能夠以更彈性、更具成本效益的方式租用算力，而不需要一次性投入巨額資金建置自己的資料中心。這不僅有助於降低 AI 創新的門檻，也能加速整個產業的發展。\n\n對 Nvidia 而言，這也是一種擴大市場滲透率的策略。除了直接銷售硬體給大型客戶外，透過 Firmus 這樣的合作夥伴，Nvidia 的技術可以觸及更廣泛的客戶群，確保其在 AI 基礎設施領域的領導地位。同時，Firmus 預期未來幾年能創造數百億美元的營收，並規劃 IPO，這也顯示了市場對 AI 基礎服務的強勁需求和巨大潛力。",
       "level3_translation": [
         {
-          "sentence": "Artificial intelligence (AI) may be built on chips and code, but Mark Cuban believes its future could hinge on something much less technical: whether ordinary people decide they want it in their backyard.",
-          "translation": "各位同學，人工智慧（AI）雖然是建立在晶片和程式碼之上，但馬克·庫班（Mark Cuban）認為，它的未來可能取決於一個遠不那麼技術性的因素：那就是一般民眾是否願意讓它進駐到他們的生活周遭。"
+          "sentence": "SYDNEY, June 29 (Reuters) - Australian AI infrastructure company Firmus Technologies said on Monday it had signed a strategic partnership ‌with Nvidia Corp to help provide emerging AI firms with more ‌cost-effective access to computing power.",
+          "translation": "「路透雪梨 6 月 29 日電 — 澳洲人工智慧基礎設施公司 Firmus Technologies 週一表示，他們已與輝達（Nvidia Corp）簽署了一項策略合作夥伴協議，旨在協助新興 AI 公司以更具成本效益的方式取得運算能力。」"
         },
         {
-          "sentence": "In a post on X on June 25, the billionaire entrepreneur argued that growing opposition to data centers is no longer just about giant buildings or power demand.",
-          "translation": "這位億萬富翁企業家在6月25日於社群平台X上發文指出，民眾對資料中心的日益反對，已經不再只是關於那些龐大建築物或是電力需求的問題了。"
+          "sentence": "Firmus said the deal would see it buy Nvidia infrastructure ​and sell Nvidia‑powered cloud services to \"AI Native\" customers, among others, in an agreement that would earn the U.S.-listed chip giant product revenue and a share of cloud revenue.",
+          "translation": "「Firmus 表示，這項協議將讓他們採購輝達的基礎設施，並向『AI 原生』客戶等銷售由輝達技術驅動的雲端服務，這筆交易將為這家在美國上市的晶片巨頭帶來產品營收和部分雲端服務營收。」"
         },
         {
-          "sentence": "Instead, he said, they have become symbols of broader anxieties surrounding artificial intelligence.",
-          "translation": "相反地，他認為，這些資料中心已經成為了人們對人工智慧更廣泛焦慮的象徵。"
+          "sentence": "The deal will deliver 170,000 Graphics Processing Units (GPU) from the ‌first quarter of 2027 to ⁠the start of 2028, that will be located in Batam, Indonesia.",
+          "translation": "「這項交易預計將在 2027 年第一季至 2028 年初之間交付 17 萬個圖形處理器（GPU），這些設備將部署在印尼巴淡島。」"
         },
         {
-          "sentence": "Billionaire Mark Cuban Says If We Fined Insurance Companies and Providers $100 Each Time They Overbilled, 'We Could Pay Off the National Debt'",
-          "translation": "億萬富翁馬克·庫班說，如果我們每次對保險公司和供應商超額收費處以100美元罰款，『我們就能還清國債』。"
+          "sentence": "Firmus said it expected to earn up to $30 ⁠billion in revenue during the first six years of the deal, based on customer commitments.",
+          "translation": "「Firmus 表示，根據客戶承諾，他們預計在這項協議生效的前六年內，營收將達到 300 億美元。」"
         },
         {
-          "sentence": "Broadcom and OpenAI Just Unveiled the New Jalapeño AI Chip. What That Means for AVGO Stock.",
-          "translation": "博通（Broadcom）和OpenAI剛剛發表了新的「Jalapeño」AI晶片。這對博通（AVGO）的股價意味著什麼？"
+          "sentence": "The Australian-founded company said the deal would make it easier for ​smaller ​and developing AI firms to access the ​technology's infrastructure.",
+          "translation": "「這家澳洲創立的公司指出，這項協議將使規模較小和正在發展中的 AI 公司更容易取得這項技術的基礎設施。」"
         },
         {
-          "sentence": "Markets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.",
-          "translation": "市場瞬息萬變。請閱讀我們免費的午間Barchart Brief電子報，以獲取獨家圖表、分析和頭條新聞，隨時掌握最新動態。"
+          "sentence": "\"We have worked to ‌figure out how to close the gap between the cost benefits that the large guys have access to, which they do because they have great credit ratings, and the guys that are up and comers,\" Firmus co-chief executive Tim Rosenfield told Reuters.",
+          "translation": "「Firmus 共同執行長 Tim Rosenfield 告訴路透社：『我們一直致力於找出如何彌補大型企業所享有的成本優勢，他們之所以有這些優勢，是因為他們擁有良好的信用評級，而新興公司則沒有。』」"
         },
         {
-          "sentence": "\"It's time for everyone to realize that the fight against data centers has nothing to do with data centers,\" Cuban wrote.",
-          "translation": "庫班寫道：「各位同學，現在是時候讓大家意識到，反對資料中心的抗爭，其實跟資料中心本身一點關係都沒有。」"
+          "sentence": "\"This is actually a really material way to ‌level the playing field a little bit ​to give the next a chance to compete ​with the big guys.\"",
+          "translation": "「『這實際上是一種非常實質的方式，可以稍微『拉平競爭環境』，讓下一代公司有機會與大企業競爭。』」"
         },
         {
-          "sentence": "\"They have become a proxy for the hate towards AI and the concentration and accumulation of wealth it's creating.\"",
-          "translation": "他接著說：「它們（資料中心）已經成為了人們對人工智慧的厭惡，以及它所創造的財富集中與累積現象的『代理人』或『替罪羊』。」"
+          "sentence": "Nvidia has participated in Firmus' previous capital raisings making it ‌an investor in the Australian firm, ​according to Firmus.",
+          "translation": "「根據 Firmus 的說法，輝達曾參與 Firmus 先前的募資活動，使其成為這家澳洲公司的投資者。」"
         },
         {
-          "sentence": "Cuban argued that the companies behind today's largest large language models, or LLMs, are losing public support because they have focused too much on technology and not enough on the people affected by it.",
-          "translation": "庫班認為，現今最大型語言模型（LLMs）背後的公司正在失去公眾支持，因為他們過於專注在技術層面，卻沒有足夠關注受其影響的民眾。"
+          "sentence": "Firmus said in April it had raised $1.35 billion over the previous six months, giving it a $5.5 billion post-money valuation.",
+          "translation": "「Firmus 在四月表示，過去六個月已募得 13.5 億美元，使其投後估值達到 55 億美元。」"
         },
         {
-          "sentence": "\"The big LLMs have lost the PR battle,\" he wrote.",
-          "translation": "他寫道：「這些大型語言模型（LLMs）已經輸掉了公關戰。」"
-        },
-        {
-          "sentence": "\"Why? Because they all suck at putting people first. They have an SV attitude that makes them all think they are John Galt saving the world.\"",
-          "translation": "他進一步解釋：「為什麼呢？因為他們在『以人為本』這方面都做得非常糟糕。他們帶有一種『矽谷心態』（SV attitude），讓他們都覺得自己是像約翰·高爾特（John Galt）那樣在拯救世界。」"
+          "sentence": "It has appointed investment ​banks to work on ‌a potential initial public offering, according to people familiar with ​the matter.",
+          "translation": "「據知情人士透露，該公司已委託投資銀行處理潛在的首次公開募股（IPO）事宜。」"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Broadcom and OpenAI Just Unveiled the New Jalapeño AI Chip. What That Means for AVGO Stock.",
+      "title": "RBC Capital Maintains a Sector Perform Rating on Regeneron (REGN) – Here’s Why",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-openai-just-unveiled-jalape-140002870.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-maintains-sector-perform-140119882.html",
       "level1_blind": {
-        "text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nSemiconductor giant Broadcom (AVGO) grabbed the spotlight on June 24 after joining forces with OpenAI to unveil Jalapeño, OpenAI's first custom-built artificial intelligence (AI) chip, designed to power the next generation of AI models. The chip is the first AI accelerator in a multi-generation computing platform that the two companies are developing together to make AI faster, more reliable, and more affordable to deploy at scale.\n\nOpenAI designed Jalapeño based on its deep understanding of the ways in which AI models like ChatGPT work, while Broadcom and Celestica (CLS) helped transform the design into a production-ready chip. Their work included chip manufacturing, system integration, high-speed networking, and building the infrastructure needed to produce the chips at scale. Jalapeño is designed to support both current and future AI models, and engineering samples are already running machine-learning workloads, including GPT-5.3-Codex-Spark, at the chip's target speed and power levels.\n\nBillionaire Mark Cuban Says If We Fined Insurance Companies and Providers $100 Each Time They Overbilled, 'We Could Pay Off the National Debt'\n\nAlphabet Stock Falls Below Berkshire's Buying Price, but GOOG Is Not a Screaming Buy Yet\n\nAlthough OpenAI is still completing final performance tests, early results suggest Jalapeño delivers significantly better performance while using less power than today's leading AI chips. The chip is also designed to move data more efficiently, allowing AI models to process information faster while reducing energy consumption. Broadcom's chip design expertise and its Tomahawk networking technology are expected to play a key role in bringing the platform into large-scale production.\n\nFor Broadcom, this is more than just another product launch. The partnership strengthens the company's position as one of the key suppliers powering the global AI boom and expands its role beyond networking chips into custom AI processors. If OpenAI increasingly relies on Broadcom's technology as its AI business grows, the partnership could become a meaningful long-term growth driver for AVGO. Thus, given this latest development, here's a closer look at AVGO stock.\n\nSan Jose-based Broadcom has grown into one of the world's most influential semiconductor companies, powering much of the technology that runs the digital economy. While it may not enjoy the same consumer recognition as many Big Tech giants, Broadcom supplies the chips and infrastructure software that keep data centers, broadband networks, enterprise systems, and cloud platforms running efficiently. Its business combines a broad portfolio of semiconductor products focused on connectivity and data processing with a fast-growing infrastructure software segment built through strategic acquisitions."
+        "text": "Regeneron Pharmaceuticals, Inc. (NASDAQ:REGN) is one of the best non-tech stocks to buy according to analysts. RBC Capital maintained a Sector Perform rating on Regeneron Pharmaceuticals, Inc. (NASDAQ:REGN) on June 22, setting a $707 price target. However, the firm noted that AbbVie's acquisition of Apogee Therapeutics, announced that morning, is a net negative for the company. It further told investors in a research note that the deal brings a significantly more commercially capable operator with deep dermatology market relationships and decades of experience selling Humira and Skyrizi behind Zumi, which is Apogee's long-acting IL-13 antibody in atopic dermatitis, and a potential next-gen competitor to Dupixent.\n\nIn a separate development, Regeneron Pharmaceuticals, Inc. (NASDAQ:REGN) announced on May 28 that maftivimab has been recommended by the World Health Organization's (WHO) Therapeutics Advisory Group to be prioritized for evaluation in clinical trials of investigational treatments for Bundibugyo ebolavirus. Maftivimab is the most potent neutralizing antibody included in Inmazeb®, according to the company, and has exhibited broad activity in vitro against multiple Ebola species, including Bundibugyo.\n\nRegeneron Pharmaceuticals, Inc. (NASDAQ:REGN) is a pharmaceutical company that develops, discovers, and commercializes therapies for several diseases, including cancer, eye disorders, and allergic conditions.\n\nWhile we acknowledge the potential of REGN as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT: 15 Stocks That Will Make You Rich in 10 Years AND 12 Best Stocks That Will Always Grow."
       },
       "level2_keywords": [
         {
-          "word": "Semiconductor",
-          "ipa": "/ˌsɛmiˈkɒndʌktər/",
-          "meaning": "半導體，指一種導電性介於導體和絕緣體之間的材料，是現代電子產品的核心元件。",
-          "example": "The global demand for advanced semiconductors continues to drive innovation in the tech industry."
+          "word": "Sector Perform rating",
+          "ipa": "[ˈsɛktər pərˈfɔrm ˈreɪtɪŋ]",
+          "meaning": "產業表現一致評級（指分析師認為該股票的表現預計與其所屬產業的平均表現相符）",
+          "example": "「RBC Capital maintained a Sector Perform rating on Regeneron, suggesting its stock performance might mirror the broader pharmaceutical sector.」"
         },
         {
-          "word": "Accelerator",
-          "ipa": "/ækˈsɛləreɪtər/",
-          "meaning": "加速器，在科技領域特指用於加速特定運算任務（如 AI 模型訓練）的硬體裝置。",
-          "example": "AI accelerators are specialized hardware designed to speed up machine learning tasks."
+          "word": "Price target",
+          "ipa": "[praɪs ˈtɑːrɡɪt]",
+          "meaning": "目標價（分析師預期某支股票在未來一段時間內可能達到的價格）",
+          "example": "「The analyst set a $707 price target for Regeneron, indicating their valuation of the company's future prospects.」"
         },
         {
-          "word": "Networking",
-          "ipa": "/ˈnɛtwɜːrkɪŋ/",
-          "meaning": "網路技術或網路設備，指用於連接電腦或其他設備以共享數據和資源的技術或系統。",
-          "example": "Broadcom's Tomahawk networking technology is crucial for high-speed data transfer in data centers."
+          "word": "Acquisition",
+          "ipa": "[ˌækwɪˈzɪʃən]",
+          "meaning": "收購（一家公司購買另一家公司的控制權或資產）",
+          "example": "「AbbVie's acquisition of Apogee Therapeutics is expected to strengthen its position in the dermatology market.」"
         },
         {
-          "word": "Processors",
-          "ipa": "/ˈprɒsɛsərz/",
-          "meaning": "處理器，指執行電腦指令的電子電路，是電腦或電子設備的核心運算單元。",
-          "example": "Custom AI processors are becoming essential for companies like OpenAI to optimize their AI models."
+          "word": "Antibody",
+          "ipa": "[ˈæntɪˌbɑːdi]",
+          "meaning": "抗體（免疫系統產生的一種蛋白質，用於識別和中和細菌、病毒等外來物質）",
+          "example": "「Maftivimab is a potent neutralizing antibody, showing promise in treating certain viral infections.」"
         },
         {
-          "word": "Acquisitions",
-          "ipa": "/ˌækwɪˈzɪʃənz/",
-          "meaning": "收購案，指一家公司購買另一家公司的全部或大部分股份，以獲得控制權的商業行為。",
-          "example": "Broadcom has expanded its infrastructure software segment through a series of strategic acquisitions."
+          "word": "Clinical trials",
+          "ipa": "[ˈklɪnɪkəl ˈtraɪəlz]",
+          "meaning": "臨床試驗（在人體上測試新藥或治療方法安全性和有效性的研究）",
+          "example": "「The WHO recommended maftivimab for evaluation in clinical trials for Bundibugyo ebolavirus.」"
         }
       ],
-      "level2_context": "各位同學，這篇新聞報導了半導體巨頭博通（Broadcom）與人工智慧先驅 OpenAI 聯手推出了一款名為 Jalapeño 的客製化 AI 晶片。這件事在財經科技界意義重大，因為它反映了幾個重要的產業趨勢。\n\n首先，AI 模型的運算需求越來越高，通用型晶片（例如 NVIDIA 的 GPU）雖然強大，但對於像 OpenAI 這樣需要極致效率和成本控制的公司來說，客製化晶片變得越來越有吸引力。自己設計晶片，可以針對 AI 模型的特定運算模式進行優化，從而達到更高的性能和更低的功耗。\n\n其次，博通作為一家老牌的半導體公司，其核心優勢在於晶片設計、製造能力以及高速網路技術。這次與 OpenAI 的合作，讓博通的角色從傳統的網路晶片供應商，擴展到更前沿的客製化 AI 處理器領域，這對其未來的成長動能至關重要，也鞏固了它在全球 AI 供應鏈中的關鍵地位。\n\n這項合作不僅僅是一個產品發表，更是兩家公司在 AI 時代下，為確保自身競爭力所做的策略性佈局。OpenAI 透過掌握底層硬體，能更好地控制其 AI 模型的發展方向和成本；而博通則藉由與頂尖 AI 公司的合作，開拓了新的高成長市場。這對整個 AI 產業的發展，以及相關供應鏈的企業，都將產生深遠的影響。",
+      "level2_context": "各位同學，這篇新聞主要聚焦在生技製藥巨頭再生元（Regeneron）的市場評價與近期發展。首先，RBC 資本市場維持了再生元的「產業表現一致」評級，並給出了目標價，這表示分析師認為再生元的股價表現會與整個製藥產業的平均水準差不多。\n\n然而，新聞中也提到了一個重要的負面因素：另一家製藥大廠艾伯維（AbbVie）收購了 Apogee Therapeutics。這項收購對再生元來說是個潛在威脅，因為 Apogee 治療異位性皮膚炎的藥物 Zumi，在艾伯維強大的商業化能力和市場關係加持下，可能會成為再生元旗下明星藥物 Dupixent 的強勁競爭對手。這在製藥產業是很常見的競爭動態，大型藥廠透過併購來擴大產品線或消除競爭。\n\n另一方面，再生元也有好消息，其藥物 maftivimab 獲得了世界衛生組織（WHO）的推薦，將優先評估其用於治療伊波拉病毒的臨床試驗。這顯示了再生元在藥物研發上的實力，以及其產品在公共衛生領域的潛力。\n\n總體而言，這篇新聞呈現了再生元在市場評價、產業競爭和新藥研發方面的多面向發展。同時，文章結尾也順帶提到了 AI 類股，這反映了當前市場對科技股，特別是 AI 概念股的高度關注，即使在討論傳統產業時，AI 的投資潛力也常被拿來比較。",
       "level3_translation": [
         {
-          "sentence": "The above button links to Coinbase.",
-          "translation": "上方按鈕連結至 Coinbase。"
+          "sentence": "Regeneron Pharmaceuticals, Inc. (NASDAQ:REGN) is one of the best non-tech stocks to buy according to analysts.",
+          "translation": "各位同學，根據分析師的看法，再生元製藥公司（那斯達克代碼：REGN）是目前最值得買進的非科技類股之一。"
         },
         {
-          "sentence": "Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading.",
-          "translation": "Yahoo 財經並非證券經紀商或投資顧問，不提供證券或加密貨幣的銷售，也不協助交易。"
+          "sentence": "RBC Capital maintained a Sector Perform rating on Regeneron Pharmaceuticals, Inc. (NASDAQ:REGN) on June 22, setting a $707 price target.",
+          "translation": "RBC 資本市場在 6 月 22 日維持了再生元製藥公司（那斯達克代碼：REGN）的「產業表現一致」評級，並設定了 707 美元的目標價。"
         },
         {
-          "sentence": "Coinbase pays us for certain activity generated through this link.",
-          "translation": "Coinbase 會因透過此連結產生的特定活動向我們支付費用。"
+          "sentence": "However, the firm noted that AbbVie's acquisition of Apogee Therapeutics, announced that morning, is a net negative for the company.",
+          "translation": "然而，該券商指出，當天早上宣布的艾伯維（AbbVie）收購 Apogee Therapeutics 的消息，對再生元而言是個負面因素。"
         },
         {
-          "sentence": "Prices displayed are informational.",
-          "translation": "所顯示的價格僅供參考。"
+          "sentence": "It further told investors in a research note that the deal brings a significantly more commercially capable operator with deep dermatology market relationships and decades of experience selling Humira and Skyrizi behind Zumi, which is Apogee's long-acting IL-13 antibody in atopic dermatitis, and a potential next-gen competitor to Dupixent.",
+          "translation": "該券商在研究報告中進一步向投資人表示，這項交易將帶來一個在商業上更具實力的營運商，它在皮膚病學市場擁有深厚的關係，並擁有數十年銷售 Humira 和 Skyrizi 的經驗，這將支持 Apogee 治療異位性皮膚炎的長效 IL-13 抗體 Zumi，並可能成為 Dupixent 的下一代競爭對手。"
         },
         {
-          "sentence": "Semiconductor giant Broadcom (AVGO) grabbed the spotlight on June 24 after joining forces with OpenAI to unveil Jalapeño, OpenAI's first custom-built artificial intelligence (AI) chip, designed to power the next generation of AI models.",
-          "translation": "半導體巨頭博通（AVGO）在 6 月 24 日成為焦點，當時它與 OpenAI 攜手發表了 Jalapeño，這是 OpenAI 首款客製化人工智慧（AI）晶片，旨在為下一代 AI 模型提供運算動力。"
+          "sentence": "In a separate development, Regeneron Pharmaceuticals, Inc. (NASDAQ:REGN) announced on May 28 that maftivimab has been recommended by the World Health Organization's (WHO) Therapeutics Advisory Group to be prioritized for evaluation in clinical trials of investigational treatments for Bundibugyo ebolavirus.",
+          "translation": "另外，再生元製藥公司（那斯達克代碼：REGN）在 5 月 28 日宣布，其藥物 maftivimab 已獲得世界衛生組織（WHO）治療學諮詢小組的推薦，應優先評估其作為邦迪布焦伊波拉病毒（Bundibugyo ebolavirus）試驗性治療藥物的臨床試驗。"
         },
         {
-          "sentence": "The chip is the first AI accelerator in a multi-generation computing platform that the two companies are developing together to make AI faster, more reliable, and more affordable to deploy at scale.",
-          "translation": "這款晶片是兩家公司共同開發的多代運算平台中的首款 AI 加速器，目標是讓 AI 更快、更可靠，並以更低的成本大規模部署。"
+          "sentence": "Maftivimab is the most potent neutralizing antibody included in Inmazeb®, according to the company, and has exhibited broad activity in vitro against multiple Ebola species, including Bundibugyo.",
+          "translation": "根據該公司表示，Maftivimab 是 Inmazeb® 中最有效的「中和抗體」，並且在體外實驗中對包括邦迪布焦在內的多種伊波拉病毒株展現了廣泛的活性。"
         },
         {
-          "sentence": "OpenAI designed Jalapeño based on its deep understanding of the ways in which AI models like ChatGPT work, while Broadcom and Celestica (CLS) helped transform the design into a production-ready chip.",
-          "translation": "OpenAI 根據其對 ChatGPT 等 AI 模型運作方式的深入理解設計了 Jalapeño，而博通和 Celestica (CLS) 則協助將該設計轉化為可量產的晶片。"
+          "sentence": "Regeneron Pharmaceuticals, Inc. (NASDAQ:REGN) is a pharmaceutical company that develops, discovers, and commercializes therapies for several diseases, including cancer, eye disorders, and allergic conditions.",
+          "translation": "再生元製藥公司（那斯達克代碼：REGN）是一家製藥公司，致力於開發、發現並將多種疾病的療法商業化，這些疾病包括癌症、眼部疾病和過敏性疾病。"
         },
         {
-          "sentence": "Their work included chip manufacturing, system integration, high-speed networking, and building the infrastructure needed to produce the chips at scale.",
-          "translation": "他們的工作內容包括晶片製造、系統整合、高速網路，以及建立大規模生產這些晶片所需的基礎設施。"
+          "sentence": "While we acknowledge the potential of REGN as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk.",
+          "translation": "雖然我們認可再生元（REGN）作為一項投資的潛力，但我們認為某些 AI 類股提供了更大的上漲潛力，且下行風險較低。"
         },
         {
-          "sentence": "Jalapeño is designed to support both current and future AI models, and engineering samples are already running machine-learning workloads, including GPT-5.3-Codex-Spark, at the chip's target speed and power levels.",
-          "translation": "Jalapeño 旨在支援當前和未來的 AI 模型，工程樣品已在晶片的目標速度和功耗水平下運行機器學習工作負載，包括 GPT-5.3-Codex-Spark。"
+          "sentence": "If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.",
+          "translation": "如果您正在尋找一支極度被低估，且有望從川普時代關稅和產業回流趨勢中顯著受益的 AI 類股，請參考我們關於最佳短期 AI 類股的免費報告。"
         },
         {
-          "sentence": "Billionaire Mark Cuban Says If We Fined Insurance Companies and Providers $100 Each Time They Overbilled, 'We Could Pay Off the National Debt'",
-          "translation": "億萬富翁馬克·庫班表示，如果我們每次對保險公司和供應商超額收費處以 100 美元的罰款，『我們就能償還國債』。"
-        },
-        {
-          "sentence": "Alphabet Stock Falls Below Berkshire's Buying Price, but GOOG Is Not a Screaming Buy Yet",
-          "translation": "Alphabet 股價跌破波克夏的買入價，但 GOOG 尚未達到『強烈買入』的程度。"
-        },
-        {
-          "sentence": "Although OpenAI is still completing final performance tests, early results suggest Jalapeño delivers significantly better performance while using less power than today's leading AI chips.",
-          "translation": "儘管 OpenAI 仍在完成最終的性能測試，但初步結果顯示，Jalapeño 在提供顯著更優異性能的同時，功耗比當今領先的 AI 晶片更低。"
-        },
-        {
-          "sentence": "The chip is also designed to move data more efficiently, allowing AI models to process information faster while reducing energy consumption.",
-          "translation": "這款晶片還設計用於更高效地傳輸數據，讓 AI 模型能更快地處理資訊，同時降低能源消耗。"
-        },
-        {
-          "sentence": "Broadcom's chip design expertise and its Tomahawk networking technology are expected to play a key role in bringing the platform into large-scale production.",
-          "translation": "博通的晶片設計專業知識及其 Tomahawk 網路技術，預計將在該平台的大規模量產中發揮關鍵作用。"
-        },
-        {
-          "sentence": "For Broadcom, this is more than just another product launch.",
-          "translation": "對博通而言，這不僅僅是又一次的產品發表。"
-        },
-        {
-          "sentence": "The partnership strengthens the company's position as one of the key suppliers powering the global AI boom and expands its role beyond networking chips into custom AI processors.",
-          "translation": "這項合作強化了該公司作為推動全球 AI 熱潮的關鍵供應商之一的地位，並將其角色從網路晶片擴展到客製化 AI 處理器。"
-        },
-        {
-          "sentence": "If OpenAI increasingly relies on Broadcom's technology as its AI business grows, the partnership could become a meaningful long-term growth driver for AVGO.",
-          "translation": "如果 OpenAI 隨著其 AI 業務的成長越來越依賴博通的技術，這項合作關係可能成為博通（AVGO）一個有意義的長期成長動能。"
-        },
-        {
-          "sentence": "Thus, given this latest development, here's a closer look at AVGO stock.",
-          "translation": "因此，鑑於這項最新進展，以下將更深入地探討博通（AVGO）的股票。"
-        },
-        {
-          "sentence": "San Jose-based Broadcom has grown into one of the world's most influential semiconductor companies, powering much of the technology that runs the digital economy.",
-          "translation": "總部位於聖荷西的博通已發展成為全球最具影響力的半導體公司之一，為許多驅動數位經濟的技術提供動力。"
-        },
-        {
-          "sentence": "While it may not enjoy the same consumer recognition as many Big Tech giants, Broadcom supplies the chips and infrastructure software that keep data centers, broadband networks, enterprise systems, and cloud platforms running efficiently.",
-          "translation": "儘管它可能不像許多大型科技巨頭那樣享有廣泛的消費者認知度，但博通供應的晶片和基礎設施軟體，卻能讓資料中心、寬頻網路、企業系統和雲端平台高效運作。"
-        },
-        {
-          "sentence": "Its business combines a broad portfolio of semiconductor products focused on connectivity and data processing with a fast-growing infrastructure software segment built through strategic acquisitions.",
-          "translation": "其業務結合了專注於連接性和數據處理的廣泛半導體產品組合，以及透過策略性收購建立的快速成長的基礎設施軟體部門。"
+          "sentence": "READ NEXT: 15 Stocks That Will Make You Rich in 10 Years AND 12 Best Stocks That Will Always Grow.",
+          "translation": "接下來請閱讀：「10 年內讓你致富的 15 支股票」以及「永遠會成長的 12 支最佳股票」。"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "violence_connection": "6月29日台股大戶籌碼動向與國際科技新聞的暴力聯結，揭示了一場精準的市場資金重分配。當全球目光聚焦於Broadcom與OpenAI聯手推出『Jalapeño』AI晶片，預示著AI硬體進入客製化、高效能的新紀元時，台灣大戶已然提前部署。外資大買旺宏與南茂，美商高盛更是巨額敲進旺宏，這絕非巧合。這反映了對AI晶片對高頻寬記憶體（HBM）及先進封裝需求的強烈預期，旺宏的NOR Flash與南茂的封測技術，正是這波客製化AI晶片不可或缺的基石。\n\n然而，外資同步大賣鴻海與緯創，兩大AI伺服器組裝巨頭，這看似矛盾卻極具策略性。這或許是大戶在預見客製化AI晶片普及後，標準化AI伺服器代工利潤可能面臨壓縮，因此將資金從下游組裝轉向上游關鍵零組件的精準套利行為。投信則鎖定欣興，其ABF載板正是高階AI晶片封裝的命脈，進一步印證了市場對先進製程材料的渴求。\n\n這場資金流動，不僅是對『Jalapeño』晶片技術突破的反應，更是對AI產業鏈價值重構的預判。大戶們正以實際行動，告訴我們：AI的未來，在於更深層次的晶片設計與供應鏈整合，而非僅僅是伺服器組裝。這是一場在新聞見報前，就已悄然展開的『先知先覺』布局，將AI晶片革命的紅利，精準導向台灣半導體供應鏈的核心。"
+    "violence_connection": "在金融市場中，H&M 的閉店和財務不穩定與 Firmus Technologies 的 AI Access Deal 和 Nvidia 的投資有著密切的因果關係。 Firmus Technologies 的這項交易使得小型 AI 企業能夠更容易地獲得成本效益，並且這也會對 Nvidia 的收入產生影響。與此同時，H&M 的財務不穩定可能會導致股價下跌，這將對 Nvidia 的投資有所影響。因此，可以說這兩個事件之間存在著一個複雜的因果關係，涉及到金融市場、AI 企業和技術公司之間的互動。"
   }
 }

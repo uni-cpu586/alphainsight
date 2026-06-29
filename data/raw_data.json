@@ -1,192 +1,192 @@
 {
-  "date": "2026-06-29",
-  "stock_market_date": "2026-06-26",
+  "date": "2026-06-30",
+  "stock_market_date": "2026-06-29",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_buy_shares": 57327341
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 177670132
         },
         {
           "rank": 2,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_buy_shares": 18340964
+          "stock_name": "彩晶",
+          "ticker": "6116",
+          "net_buy_shares": 23080431
         },
         {
           "rank": 3,
           "stock_name": "台新新光金",
           "ticker": "2887",
-          "net_buy_shares": 7635841
+          "net_buy_shares": 19106129
         },
         {
           "rank": 4,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_buy_shares": 7429367
+          "stock_name": "嘉晶",
+          "ticker": "3016",
+          "net_buy_shares": 13958782
         },
         {
           "rank": 5,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_buy_shares": 7330720
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 10372333
         },
         {
           "rank": 6,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 7122809
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_buy_shares": 9844813
         },
         {
           "rank": 7,
-          "stock_name": "力成",
-          "ticker": "6239",
-          "net_buy_shares": 7044676
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 8248799
         },
         {
           "rank": 8,
-          "stock_name": "精成科",
-          "ticker": "6191",
-          "net_buy_shares": 6981217
+          "stock_name": "和碩",
+          "ticker": "4938",
+          "net_buy_shares": 7918954
         },
         {
           "rank": 9,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_buy_shares": 6698789
+          "stock_name": "正新",
+          "ticker": "2105",
+          "net_buy_shares": 6734350
         },
         {
           "rank": 10,
-          "stock_name": "長榮",
-          "ticker": "2603",
-          "net_buy_shares": 6678443
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_buy_shares": 6352373
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -152253028
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -26786141
         },
         {
           "rank": 2,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_sell_shares": -130305489
+          "net_sell_shares": -21649761
         },
         {
           "rank": 3,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -60943790
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -20610326
         },
         {
           "rank": 4,
           "stock_name": "鴻海",
           "ticker": "2317",
-          "net_sell_shares": -30327761
+          "net_sell_shares": -20344952
         },
         {
           "rank": 5,
-          "stock_name": "寶成",
-          "ticker": "9904",
-          "net_sell_shares": -24806337
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_sell_shares": -20271919
         },
         {
           "rank": 6,
-          "stock_name": "台塑",
-          "ticker": "1301",
-          "net_sell_shares": -23336273
+          "stock_name": "南茂",
+          "ticker": "8150",
+          "net_sell_shares": -17488518
         },
         {
           "rank": 7,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_sell_shares": -22367854
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -17276062
         },
         {
           "rank": 8,
-          "stock_name": "元大高股息",
-          "ticker": "0056",
-          "net_sell_shares": -18823311
+          "stock_name": "台泥",
+          "ticker": "1101",
+          "net_sell_shares": -14648828
         },
         {
           "rank": 9,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -18445690
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_sell_shares": -12158610
         },
         {
           "rank": 10,
-          "stock_name": "台化",
-          "ticker": "1326",
-          "net_sell_shares": -18102782
+          "stock_name": "中華電",
+          "ticker": "2412",
+          "net_sell_shares": -9510493
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 20870448
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_buy_shares": 16569233
         },
         {
           "rank": 2,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_buy_shares": 15870544
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 15256513
         },
         {
           "rank": 3,
-          "stock_name": "遠東銀",
-          "ticker": "2845",
-          "net_buy_shares": 12134000
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 11985901
         },
         {
           "rank": 4,
-          "stock_name": "台灣高鐵",
-          "ticker": "2633",
-          "net_buy_shares": 11229000
+          "stock_name": "遠東銀",
+          "ticker": "2845",
+          "net_buy_shares": 8897740
         },
         {
           "rank": 5,
-          "stock_name": "上海商銀",
-          "ticker": "5876",
-          "net_buy_shares": 10004000
+          "stock_name": "台灣高鐵",
+          "ticker": "2633",
+          "net_buy_shares": 8055000
         },
         {
           "rank": 6,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 8023085
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 7505877
         },
         {
           "rank": 7,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_buy_shares": 6708224
+          "stock_name": "上海商銀",
+          "ticker": "5876",
+          "net_buy_shares": 7433000
         },
         {
           "rank": 8,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 5646897
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_buy_shares": 6694108
         },
         {
           "rank": 9,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_buy_shares": 4900000
+          "net_buy_shares": 6270000
         },
         {
           "rank": 10,
-          "stock_name": "欣興",
-          "ticker": "3037",
-          "net_buy_shares": 4756257
+          "stock_name": "佳世達",
+          "ticker": "2352",
+          "net_buy_shares": 5647000
         }
       ],
       "trust_sell": [
@@ -194,185 +194,185 @@
           "rank": 1,
           "stock_name": "聯電",
           "ticker": "2303",
-          "net_sell_shares": -24161920
+          "net_sell_shares": -26113192
         },
         {
           "rank": 2,
           "stock_name": "元大金",
           "ticker": "2885",
-          "net_sell_shares": -10291425
+          "net_sell_shares": -9368819
         },
         {
           "rank": 3,
-          "stock_name": "亞泥",
-          "ticker": "1102",
-          "net_sell_shares": -7989481
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_sell_shares": -7065903
         },
         {
           "rank": 4,
           "stock_name": "宏碁",
           "ticker": "2353",
-          "net_sell_shares": -7183826
+          "net_sell_shares": -6519159
         },
         {
           "rank": 5,
-          "stock_name": "寶成",
-          "ticker": "9904",
-          "net_sell_shares": -5982000
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_sell_shares": -6157286
         },
         {
           "rank": 6,
-          "stock_name": "和碩",
-          "ticker": "4938",
-          "net_sell_shares": -5739000
+          "stock_name": "群益證",
+          "ticker": "6005",
+          "net_sell_shares": -4640550
         },
         {
           "rank": 7,
-          "stock_name": "群益證",
-          "ticker": "6005",
-          "net_sell_shares": -5254944
+          "stock_name": "寶成",
+          "ticker": "9904",
+          "net_sell_shares": -4165717
         },
         {
           "rank": 8,
-          "stock_name": "統一實",
-          "ticker": "9907",
-          "net_sell_shares": -4897000
+          "stock_name": "力成",
+          "ticker": "6239",
+          "net_sell_shares": -2703000
         },
         {
           "rank": 9,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -3505000
+          "stock_name": "統一實",
+          "ticker": "9907",
+          "net_sell_shares": -2537000
         },
         {
           "rank": 10,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -3498773
+          "stock_name": "東陽",
+          "ticker": "1319",
+          "net_sell_shares": -2350232
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_buy_shares": 768823
-        },
-        {
-          "rank": 2,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 633287
-        },
-        {
-          "rank": 3,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_buy_shares": 611869
-        },
-        {
-          "rank": 4,
-          "stock_name": "中華電",
-          "ticker": "2412",
-          "net_buy_shares": 611000
-        },
-        {
-          "rank": 5,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_buy_shares": 399000
-        },
-        {
-          "rank": 6,
-          "stock_name": "康舒",
-          "ticker": "6282",
-          "net_buy_shares": 354000
-        },
-        {
-          "rank": 7,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 344000
-        },
-        {
-          "rank": 8,
-          "stock_name": "希華",
-          "ticker": "2484",
-          "net_buy_shares": 289228
-        },
-        {
-          "rank": 9,
-          "stock_name": "三商壽",
-          "ticker": "2867",
-          "net_buy_shares": 241000
-        },
-        {
-          "rank": 10,
-          "stock_name": "倉佑",
-          "ticker": "1568",
-          "net_buy_shares": 217000
-        }
-      ],
-      "dealer_sell": [
-        {
-          "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -14136958
+          "net_buy_shares": 1325005
         },
         {
           "rank": 2,
           "stock_name": "友達",
           "ticker": "2409",
-          "net_sell_shares": -4387499
+          "net_buy_shares": 1322990
         },
         {
           "rank": 3,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -3922996
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 1258988
         },
         {
           "rank": 4,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -2631992
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_buy_shares": 833783
         },
         {
           "rank": 5,
-          "stock_name": "長榮",
-          "ticker": "2603",
-          "net_sell_shares": -2451998
+          "stock_name": "榮星",
+          "ticker": "1617",
+          "net_buy_shares": 712996
         },
         {
           "rank": 6,
-          "stock_name": "力成",
-          "ticker": "6239",
-          "net_sell_shares": -1819071
+          "stock_name": "中華電",
+          "ticker": "2412",
+          "net_buy_shares": 611000
         },
         {
           "rank": 7,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -1752765
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_buy_shares": 522791
         },
         {
           "rank": 8,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -1206700
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_buy_shares": 415000
         },
         {
           "rank": 9,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_sell_shares": -1063996
+          "stock_name": "台達電",
+          "ticker": "2308",
+          "net_buy_shares": 358836
         },
         {
           "rank": 10,
-          "stock_name": "聯發科",
-          "ticker": "2454",
-          "net_sell_shares": -992121
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_buy_shares": 262101
+        }
+      ],
+      "dealer_sell": [
+        {
+          "rank": 1,
+          "stock_name": "致伸",
+          "ticker": "4915",
+          "net_sell_shares": -3858000
+        },
+        {
+          "rank": 2,
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -2829917
+        },
+        {
+          "rank": 3,
+          "stock_name": "長榮",
+          "ticker": "2603",
+          "net_sell_shares": -2557000
+        },
+        {
+          "rank": 4,
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_sell_shares": -2386544
+        },
+        {
+          "rank": 5,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -1603000
+        },
+        {
+          "rank": 6,
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -1040617
+        },
+        {
+          "rank": 7,
+          "stock_name": "南茂",
+          "ticker": "8150",
+          "net_sell_shares": -875306
+        },
+        {
+          "rank": 8,
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -402300
+        },
+        {
+          "rank": 9,
+          "stock_name": "新唐",
+          "ticker": "4919",
+          "net_sell_shares": -383000
+        },
+        {
+          "rank": 10,
+          "stock_name": "英業達",
+          "ticker": "2356",
+          "net_sell_shares": -381357
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "旺宏",
-        "shares": 20064569
+        "target": "友達",
+        "shares": 62184546
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "遠傳",
-        "shares": 307529
+        "target": "元大台灣50",
+        "shares": 530002
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "第一金",
-        "shares": 9391701
+        "target": "遠東新",
+        "shares": 7456154
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "群創",
-        "shares": 45675908
+        "target": "力積電",
+        "shares": 8035842
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "I Give My Teenager $50 a Week and Have No Idea Where It Goes. Would Dave Ramsey Call That Lazy Parenting?",
+      "title": "79-year-old fashion retailer closed 136 stores, killed one of its brands",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/teenager-50-week-no-idea-140046188.html",
-      "summary": "I Give My Teenager $50 a Week and Have No Idea Where It Goes. Would Dave Ramsey Call That Lazy Parenting?",
-      "full_text": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\n\nLazy is a strong word. Uninformed is more accurate. But here is the truth: handing a teenager cash with no system, no accountability, and no visibility is not an allowance. It is a weekly lesson in spending without thinking, and you are the one funding it.\n\nThe point of an allowance is not to give your kid spending money. The point is to give them a controlled environment to practice earning, allocating, and decision-making before the stakes are real. If you hand over $50 with no strings, no tracking, and no conversation, you are skipping the entire lesson.\n\nSmall differences in withdrawal and tax strategy can significantly impact long-term retirement income — see where you stand today.\n\nRamsey's philosophy on allowance is clear: it should be tied to work. Not chores in the \"because you live here\" category, but real contributions that have a dollar value attached. A teenager who earns their money develops a different relationship with it than one who receives it automatically.\n\nIf you do not know where your teenager's money is going, neither does your teenager, at least not in any structured way. That is the problem. A 16-year-old who cannot account for $200 a month in spending is going to be a 22-year-old who cannot account for $2,000 a month. The habit of tracking where money goes is not something most people develop spontaneously. It has to be practiced.\n\nThis is not about surveillance. It is about building awareness. You want your teenager to be able to look at their spending and say, \"I spent $38 on food and $12 on a game download and I have $0 left, so I need to wait until next week.\" That is a win.\n\nTrending: AI Robots Have Already Fried More Than 5 Million Baskets Of Food. Everyday Investors Can Still Buy Into The Company Behind Them.",
-      "published": "2026-06-27T14:00:46Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/h-m-closed-136-stores-012815718.html",
+      "summary": "79-year-old fashion retailer closed 136 stores, killed one of its brands",
+      "full_text": "The problem with fashion is that it's fickle and people's tastes change, demand for items can fall quickly, and yesterday's success story can easily become tomorrow's struggling brand.\n\nEven long-time retailers like The Gap have periods where they're hot and others where they're on the wrong side of current trends. Fast fashion, was supposed to be somewhat immune to that because of the changed nature of its merchandise cycle.\n\n\"With a focus on ultra-low prices and condensed production cycles, fast fashion gets new styles to customers at a record pace — and creates sizable environmental and social challenges,\" according to McKinsey and Company's What is Fast Fashion.\n\nIn theory, a retailer like H&M can stay on top of current trends and move away from declining ones quickly.\n\nWhat the retail giant did not account for, however, was cheaper digital rivals that have lower costs, so they can charge less, while also being able to move even fast.\n\n\"Fast fashion retailers have consolidated their position in the American market: retailers such as Shein and Temu are now the primary online fashion marketplaces in the United States — fast or otherwise,\" according to McKinsey's The State of Fashion 2025.\n\nH&M has closed more than 600 stores since 2022, with 136 closing over the past six months. In addition, the chain has shut down most standalone stores for its Monki brand while transitioning select locations to its Weekday brand.\n\nWhile it has also opened a number of locations, H&M Group closed 2022 with 4,702 stores and completed the first half of 2026 with 4,038, a loss of 644 locations. The chain has finished every year in that time period with fewer locations than it had the year before.",
+      "published": "2026-06-29T01:28:15Z"
     },
     {
       "id": "news_2",
-      "title": "Billionaire Mark Cuban Says Data Center Fight Is ‘Proxy For Hate’ Toward AI And ‘Concentration Of Wealth’ — ‘Nothing To Do With Data Centers’",
+      "title": "Australia's Firmus Technologies strikes AI access deal with Nvidia",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/billionaire-mark-cuban-says-data-140002990.html",
-      "summary": "Billionaire Mark Cuban Says Data Center Fight Is ‘Proxy For Hate’ Toward AI And ‘Concentration Of Wealth’ — ‘Nothing To Do With Data Centers’",
-      "full_text": "Artificial intelligence (AI) may be built on chips and code, but Mark Cuban believes its future could hinge on something much less technical: whether ordinary people decide they want it in their backyard.\n\nIn a post on X on June 25, the billionaire entrepreneur argued that growing opposition to data centers is no longer just about giant buildings or power demand. Instead, he said, they have become symbols of broader anxieties surrounding artificial intelligence.\n\nBillionaire Mark Cuban Says If We Fined Insurance Companies and Providers $100 Each Time They Overbilled, 'We Could Pay Off the National Debt'\n\nBroadcom and OpenAI Just Unveiled the New Jalapeño AI Chip. What That Means for AVGO Stock.\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\n\"It's time for everyone to realize that the fight against data centers has nothing to do with data centers,\" Cuban wrote. \"They have become a proxy for the hate towards AI and the concentration and accumulation of wealth it's creating.\"\n\nCuban argued that the companies behind today's largest large language models, or LLMs, are losing public support because they have focused too much on technology and not enough on the people affected by it.\n\n\"The big LLMs have lost the PR battle,\" he wrote. \"Why? Because they all suck at putting people first. They have an SV attitude that makes them all think they are John Galt saving the world.\"",
-      "published": "2026-06-27T14:00:02Z"
+      "link": "https://finance.yahoo.com/technology/ai/articles/australias-firmus-technologies-strikes-ai-140253776.html",
+      "summary": "Australia's Firmus Technologies strikes AI access deal with Nvidia",
+      "full_text": "SYDNEY, June 29 (Reuters) - Australian AI infrastructure company Firmus Technologies said on Monday it had signed a strategic partnership ‌with Nvidia Corp to help provide emerging AI firms with more ‌cost-effective access to computing power.\n\n• Firmus said the deal would see it buy Nvidia infrastructure ​and sell Nvidia‑powered cloud services to \"AI Native\" customers, among others, in an agreement that would earn the U.S.-listed chip giant product revenue and a share of cloud revenue.\n\n• The deal will deliver 170,000 Graphics Processing Units (GPU) from the ‌first quarter of 2027 to ⁠the start of 2028, that will be located in Batam, Indonesia.\n\n• Firmus said it expected to earn up to $30 ⁠billion in revenue during the first six years of the deal, based on customer commitments.\n\n• The Australian-founded company said the deal would make it easier for ​smaller ​and developing AI firms to access the ​technology's infrastructure.\n\n• \"We have worked to ‌figure out how to close the gap between the cost benefits that the large guys have access to, which they do because they have great credit ratings, and the guys that are up and comers,\" Firmus co-chief executive Tim Rosenfield told Reuters. \"This is actually a really material way to ‌level the playing field a little bit ​to give the next a chance to compete ​with the big guys.\"\n\n• ​Nvidia has participated in Firmus' previous capital raisings making it ‌an investor in the Australian firm, ​according to Firmus.\n\n• ​Firmus said in April it had raised $1.35 billion over the previous six months, giving it a $5.5 billion post-money valuation. It has appointed investment ​banks to work on ‌a potential initial public offering, according to people familiar with ​the matter.",
+      "published": "2026-06-28T14:02:53Z"
     },
     {
       "id": "news_3",
-      "title": "Broadcom and OpenAI Just Unveiled the New Jalapeño AI Chip. What That Means for AVGO Stock.",
+      "title": "RBC Capital Maintains a Sector Perform Rating on Regeneron (REGN) – Here’s Why",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-openai-just-unveiled-jalape-140002870.html",
-      "summary": "Broadcom and OpenAI Just Unveiled the New Jalapeño AI Chip. What That Means for AVGO Stock.",
-      "full_text": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.\n\nSemiconductor giant Broadcom (AVGO) grabbed the spotlight on June 24 after joining forces with OpenAI to unveil Jalapeño, OpenAI's first custom-built artificial intelligence (AI) chip, designed to power the next generation of AI models. The chip is the first AI accelerator in a multi-generation computing platform that the two companies are developing together to make AI faster, more reliable, and more affordable to deploy at scale.\n\nOpenAI designed Jalapeño based on its deep understanding of the ways in which AI models like ChatGPT work, while Broadcom and Celestica (CLS) helped transform the design into a production-ready chip. Their work included chip manufacturing, system integration, high-speed networking, and building the infrastructure needed to produce the chips at scale. Jalapeño is designed to support both current and future AI models, and engineering samples are already running machine-learning workloads, including GPT-5.3-Codex-Spark, at the chip's target speed and power levels.\n\nBillionaire Mark Cuban Says If We Fined Insurance Companies and Providers $100 Each Time They Overbilled, 'We Could Pay Off the National Debt'\n\nAlphabet Stock Falls Below Berkshire's Buying Price, but GOOG Is Not a Screaming Buy Yet\n\nAlthough OpenAI is still completing final performance tests, early results suggest Jalapeño delivers significantly better performance while using less power than today's leading AI chips. The chip is also designed to move data more efficiently, allowing AI models to process information faster while reducing energy consumption. Broadcom's chip design expertise and its Tomahawk networking technology are expected to play a key role in bringing the platform into large-scale production.\n\nFor Broadcom, this is more than just another product launch. The partnership strengthens the company's position as one of the key suppliers powering the global AI boom and expands its role beyond networking chips into custom AI processors. If OpenAI increasingly relies on Broadcom's technology as its AI business grows, the partnership could become a meaningful long-term growth driver for AVGO. Thus, given this latest development, here's a closer look at AVGO stock.\n\nSan Jose-based Broadcom has grown into one of the world's most influential semiconductor companies, powering much of the technology that runs the digital economy. While it may not enjoy the same consumer recognition as many Big Tech giants, Broadcom supplies the chips and infrastructure software that keep data centers, broadband networks, enterprise systems, and cloud platforms running efficiently. Its business combines a broad portfolio of semiconductor products focused on connectivity and data processing with a fast-growing infrastructure software segment built through strategic acquisitions.",
-      "published": "2026-06-27T14:00:02Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-maintains-sector-perform-140119882.html",
+      "summary": "RBC Capital Maintains a Sector Perform Rating on Regeneron (REGN) – Here’s Why",
+      "full_text": "Regeneron Pharmaceuticals, Inc. (NASDAQ:REGN) is one of the best non-tech stocks to buy according to analysts. RBC Capital maintained a Sector Perform rating on Regeneron Pharmaceuticals, Inc. (NASDAQ:REGN) on June 22, setting a $707 price target. However, the firm noted that AbbVie's acquisition of Apogee Therapeutics, announced that morning, is a net negative for the company. It further told investors in a research note that the deal brings a significantly more commercially capable operator with deep dermatology market relationships and decades of experience selling Humira and Skyrizi behind Zumi, which is Apogee's long-acting IL-13 antibody in atopic dermatitis, and a potential next-gen competitor to Dupixent.\n\nIn a separate development, Regeneron Pharmaceuticals, Inc. (NASDAQ:REGN) announced on May 28 that maftivimab has been recommended by the World Health Organization's (WHO) Therapeutics Advisory Group to be prioritized for evaluation in clinical trials of investigational treatments for Bundibugyo ebolavirus. Maftivimab is the most potent neutralizing antibody included in Inmazeb®, according to the company, and has exhibited broad activity in vitro against multiple Ebola species, including Bundibugyo.\n\nRegeneron Pharmaceuticals, Inc. (NASDAQ:REGN) is a pharmaceutical company that develops, discovers, and commercializes therapies for several diseases, including cancer, eye disorders, and allergic conditions.\n\nWhile we acknowledge the potential of REGN as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT: 15 Stocks That Will Make You Rich in 10 Years AND 12 Best Stocks That Will Always Grow.",
+      "published": "2026-06-28T14:01:19Z"
     }
   ]
 }
