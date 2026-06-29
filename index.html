@@ -34,10 +34,7 @@
         <!-- View Selector / Nav Tabs -->
         <nav class="view-selector-container">
             <div class="view-tabs">
-                <button class="view-tab-btn active" data-view="all">
-                    <i class="fa-solid fa-border-all"></i> 全部顯示
-                </button>
-                <button class="view-tab-btn" data-view="morning">
+                <button class="view-tab-btn active" data-view="morning">
                     <span class="view-badge view-badge-morning">晨</span> 晨間 8:30
                 </button>
                 <button class="view-tab-btn" data-view="english">
@@ -139,7 +136,7 @@
                     <div class="card-header">
                         <div class="card-title">
                             <span class="badge badge-daytime">日間語感</span>
-                            <h2>財經教授・國際科技財經英語修煉場</h2>
+                            <h2>英語修煉場</h2>
                         </div>
                         <i class="fa-solid fa-graduation-cap header-card-icon"></i>
                     </div>
@@ -232,17 +229,101 @@
                 <section class="dashboard-card sandbox-card" id="sandbox">
                     <div class="card-header">
                         <div class="card-title">
-                            <i class="fa-solid fa-square-pen"></i>
-                            <h2>思維沙盒 (每日對比筆記)</h2>
+                            <i class="fa-solid fa-pen-nib"></i>
+                            <h2>思維沙盒 (英文重點筆記)</h2>
                         </div>
                     </div>
                     <div class="card-content">
-                        <div class="sandbox-intro">
-                            寫下開盤後的「實際走勢」與「自營叔叔推測」的對比，訓練獨立投資腦。資料自動備份在瀏覽器。
+                        <!-- Cleanup Notification Banner -->
+                        <div class="sandbox-notification" id="sandbox-notification" style="display: none;">
+                            <span class="notification-text"><i class="fa-solid fa-circle-check"></i> 每週自動清理已完成！已將上週的筆記歸檔至單字庫。</span>
+                            <button class="notification-close" id="btn-close-notification">&times;</button>
                         </div>
-                        <textarea id="sandbox-textarea" placeholder="在此記錄您的觀察...（例如：今天凱基台北果然在早盤 9:15 大量出貨群創，開高走低，被叔叔說中了！）"></textarea>
-                        <div class="sandbox-footer">
-                            <span id="save-status"><i class="fa-solid fa-cloud-arrow-up"></i> 已即時儲存至本機</span>
+
+                        <!-- Sandbox Sub Tabs -->
+                        <div class="sandbox-tabs">
+                            <button class="sandbox-tab-btn active" data-sandbox-tab="edit">
+                                <i class="fa-solid fa-pen-nib"></i> 筆記編輯
+                            </button>
+                            <button class="sandbox-tab-btn" data-sandbox-tab="words">
+                                <i class="fa-solid fa-book"></i> 單字庫 (<span id="vocab-count">0</span>)
+                            </button>
+                            <button class="sandbox-tab-btn" data-sandbox-tab="quiz">
+                                <i class="fa-solid fa-gamepad"></i> 互動測驗
+                            </button>
+                        </div>
+
+                        <!-- Panel 1: Note Editor -->
+                        <div class="sandbox-panel active" id="sandbox-panel-edit">
+                            <div class="sandbox-intro">
+                                請輸入財經英語重點，每行一個單字或片語（格式如：<code>go on a tear 勢不可擋</code> 或 <code>bear market - 空頭市場</code>）。資料將自動備份於瀏覽器。
+                            </div>
+                            <textarea id="sandbox-textarea" placeholder="在此記錄您的英文重點...（例如：&#10;go on a tear 勢不可擋&#10;take a hit 遭受打擊&#10;bear market 空頭市場）"></textarea>
+                            <div class="sandbox-action-bar">
+                                <button class="sandbox-btn primary-btn" id="btn-consolidate-now">
+                                    <i class="fa-solid fa-file-invoice"></i> 整理並歸檔至單字庫
+                                </button>
+                                <span id="save-status"><i class="fa-solid fa-cloud-arrow-up"></i> 已即時儲存</span>
+                            </div>
+                        </div>
+
+                        <!-- Panel 2: Vocabulary Bank -->
+                        <div class="sandbox-panel" id="sandbox-panel-words">
+                            <div class="vocab-header-actions">
+                                <div class="backup-actions">
+                                    <button class="sandbox-btn secondary-btn" id="btn-export-vocab">
+                                        <i class="fa-solid fa-file-export"></i> 匯出單字庫
+                                    </button>
+                                    <label class="sandbox-btn secondary-btn upload-label" for="input-import-vocab">
+                                        <i class="fa-solid fa-file-import"></i> 匯入單字庫
+                                        <input type="file" id="input-import-vocab" accept=".json" style="display: none;">
+                                    </label>
+                                    <button class="sandbox-btn danger-btn" id="btn-clear-vocab">
+                                        <i class="fa-solid fa-trash-can"></i> 清空單字庫
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="vocab-list-container" id="vocab-list">
+                                <p class="vocab-empty-msg">單字庫目前是空的。請在「筆記編輯」中寫下單字後歸檔，或點選匯入。</p>
+                            </div>
+                        </div>
+
+                        <!-- Panel 3: Interactive Quiz -->
+                        <div class="sandbox-panel" id="sandbox-panel-quiz">
+                            <div id="quiz-setup-view">
+                                <p class="quiz-intro">挑戰您自己記錄的英文重點單字！測驗會從您的單字庫中隨機挑選單字進行四選一問答。</p>
+                                <button class="sandbox-btn primary-btn" id="btn-start-quiz">
+                                    <i class="fa-solid fa-play"></i> 開始互動測驗
+                                </button>
+                            </div>
+                            <div id="quiz-active-view" style="display: none;">
+                                <div class="quiz-meta">
+                                    <span class="quiz-progress">第 <span id="quiz-current-num">1</span> 題</span>
+                                    <span class="quiz-score">得分：<span id="quiz-score-num">0</span></span>
+                                </div>
+                                <div class="quiz-question-container">
+                                    <h3 id="quiz-question-text">題目載入中...</h3>
+                                </div>
+                                <div class="quiz-options-container" id="quiz-options">
+                                    <!-- Options will be generated here -->
+                                </div>
+                                <div class="quiz-feedback" id="quiz-feedback-text" style="display: none;"></div>
+                                <div class="quiz-actions" style="margin-top: 15px; display: flex; justify-content: flex-end;">
+                                    <button class="sandbox-btn primary-btn" id="btn-next-question" style="display: none;">
+                                        下一題 <i class="fa-solid fa-arrow-right"></i>
+                                    </button>
+                                </div>
+                            </div>
+                            <div id="quiz-result-view" style="display: none; text-align: center;">
+                                <div class="quiz-result-trophy">
+                                    <i class="fa-solid fa-trophy" style="font-size: 3.5rem; color: var(--neon-amber); filter: drop-shadow(0 0 10px rgba(245,158,11,0.4));"></i>
+                                </div>
+                                <h3 class="quiz-result-title">測驗結束！</h3>
+                                <p class="quiz-result-summary">您的得分是：<span id="quiz-final-score" style="color: var(--neon-amber); font-weight: bold; font-size: 1.2rem;">0</span> 分</p>
+                                <button class="sandbox-btn primary-btn" id="btn-restart-quiz" style="margin-top: 15px;">
+                                    <i class="fa-solid fa-rotate-left"></i> 再試一次
+                                </button>
+                            </div>
                         </div>
                     </div>
                 </section>
