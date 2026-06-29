@@ -373,39 +373,499 @@ document.addEventListener("DOMContentLoaded", () => {
         ttsStopBtn.style.display = "none";
     }
 
-    // Sandbox Note LocalStorage auto-save
-    // Load saved note
-    const savedNote = localStorage.getItem("alphainsight_sandbox_note");
-    if (savedNote) {
-        sandboxTextarea.value = savedNote;
+    // Sandbox Notes & Vocabulary Bank Logic
+    
+    // Sandbox New Elements
+    const sandboxNotification = document.getElementById("sandbox-notification");
+    const btnCloseNotification = document.getElementById("btn-close-notification");
+    const sandboxTabBtns = document.querySelectorAll(".sandbox-tab-btn");
+    const sandboxPanels = document.querySelectorAll(".sandbox-panel");
+    const btnConsolidateNow = document.getElementById("btn-consolidate-now");
+    const btnExportVocab = document.getElementById("btn-export-vocab");
+    const inputImportVocab = document.getElementById("input-import-vocab");
+    const btnClearVocab = document.getElementById("btn-clear-vocab");
+    const vocabListContainer = document.getElementById("vocab-list");
+    const vocabCountEl = document.getElementById("vocab-count");
+    
+    // Quiz View Elements
+    const quizSetupView = document.getElementById("quiz-setup-view");
+    const quizActiveView = document.getElementById("quiz-active-view");
+    const quizResultView = document.getElementById("quiz-result-view");
+    const btnStartQuiz = document.getElementById("btn-start-quiz");
+    const btnNextQuestion = document.getElementById("btn-next-question");
+    const btnRestartQuiz = document.getElementById("btn-restart-quiz");
+    const quizQuestionText = document.getElementById("quiz-question-text");
+    const quizOptionsContainer = document.getElementById("quiz-options");
+    const quizFeedbackText = document.getElementById("quiz-feedback-text");
+    const quizCurrentNumEl = document.getElementById("quiz-current-num");
+    const quizScoreNumEl = document.getElementById("quiz-score-num");
+    const quizFinalScoreEl = document.getElementById("quiz-final-score");
+
+    // Load Vocabulary Bank
+    let vocabBank = [];
+    try {
+        const storedVocab = localStorage.getItem("alphainsight_vocab_bank");
+        if (storedVocab) {
+            vocabBank = JSON.parse(storedVocab);
+        }
+    } catch (e) {
+        console.error("Failed to load vocabulary bank", e);
+        vocabBank = [];
     }
 
-    sandboxTextarea.addEventListener("input", () => {
-        // Debounce saving to localStorage to prevent massive writes
-        clearTimeout(saveTimeout);
-        clearTimeout(hideStatusTimeout);
-        
-        saveStatusEl.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> 正在儲存...';
-        saveStatusEl.classList.add("show");
+    // Render Vocabulary Bank Function
+    function renderVocabBank() {
+        if (vocabCountEl) {
+            vocabCountEl.textContent = vocabBank.length;
+        }
+        if (vocabListContainer) {
+            if (vocabBank.length === 0) {
+                vocabListContainer.innerHTML = '<p class="vocab-empty-msg">單字庫目前是空的。請在「筆記編輯」中寫下單字後歸檔，或點選匯入。</p>';
+            } else {
+                vocabListContainer.innerHTML = "";
+                // Sort alphabetically by word
+                const sortedVocab = [...vocabBank].sort((a, b) => a.word.localeCompare(b.word));
+                sortedVocab.forEach(item => {
+                    const chip = document.createElement("div");
+                    chip.className = "vocab-chip";
+                    chip.innerHTML = `
+                        <span class="vocab-chip-word">${item.word}</span>
+                        <span class="vocab-chip-meaning">${item.meaning}</span>
+                    `;
+                    vocabListContainer.appendChild(chip);
+                });
+            }
+        }
+    }
 
-        saveTimeout = setTimeout(() => {
-            localStorage.setItem("alphainsight_sandbox_note", sandboxTextarea.value);
-            saveStatusEl.innerHTML = '<i class="fa-solid fa-cloud-arrow-up"></i> 已即時儲存至本機';
+    // Parser for Sandbox Notes
+    function parseNotesToVocabulary(notesText) {
+        if (!notesText) return [];
+        const lines = notesText.split('\n');
+        const vocabList = [];
+        for (let line of lines) {
+            line = line.trim();
+            if (!line) continue;
+            // Matches English word/phrase at the start and Chinese translation at the end.
+            // Accepts spaces, hyphens, colons, vertical bars as separators.
+            // E.g., "go on a tear 勢不可擋" or "take a hit - 遭受打擊"
+            const match = line.match(/^([a-zA-Z0-9\s'’,\-\?!()\/]+?)(?:\s*[\-–—:|]\s*|\s+)([^a-zA-Z0-9].*)$/);
+            if (match) {
+                vocabList.push({
+                    word: match[1].trim(),
+                    meaning: match[2].trim()
+                });
+            } else {
+                // Fallback split by common separators
+                const parts = line.split(/\s+-\s+|\s*:\s*|\s*\|\s*/);
+                if (parts.length >= 2) {
+                    vocabList.push({
+                        word: parts[0].trim(),
+                        meaning: parts.slice(1).join(' ').trim()
+                    });
+                }
+            }
+        }
+        return vocabList;
+    }
+
+    // Save Vocabulary Bank
+    function saveVocabBank() {
+        localStorage.setItem("alphainsight_vocab_bank", JSON.stringify(vocabBank));
+        renderVocabBank();
+    }
+
+    // Consolidate notes into Vocabulary Bank
+    function consolidateNotes(isAuto = false) {
+        const text = sandboxTextarea.value.trim();
+        if (!text) {
+            if (!isAuto) {
+                alert("筆記內容為空，無可歸檔的單字。");
+            }
+            return false;
+        }
+
+        const newVocabItems = parseNotesToVocabulary(text);
+        if (newVocabItems.length === 0) {
+            if (!isAuto) {
+                alert("未偵測到符合格式的單字！\n請確認每行輸入一個單字，格式如：\ngo on a tear 勢不可擋\nbear market - 空頭市場");
+            }
+            return false;
+        }
+
+        // Merge and deduplicate by word (case-insensitive)
+        let addedCount = 0;
+        newVocabItems.forEach(newItem => {
+            const exists = vocabBank.some(item => item.word.toLowerCase() === newItem.word.toLowerCase());
+            if (!exists) {
+                vocabBank.push(newItem);
+                addedCount++;
+            }
+        });
+
+        // Save and clear active editor
+        saveVocabBank();
+        sandboxTextarea.value = "";
+        localStorage.setItem("alphainsight_sandbox_note", "");
+        
+        if (!isAuto) {
+            alert(`已成功解析並整理！\n成功歸檔 ${addedCount} 個新單字。`);
+        }
+        return true;
+    }
+
+    // Weekly Auto-Cleanup Check
+    function checkWeeklyCleanup() {
+        const now = Date.now();
+        let lastCleanup = localStorage.getItem("alphainsight_last_cleanup");
+        
+        if (!lastCleanup) {
+            // First time running the app, set timestamp and do nothing else
+            localStorage.setItem("alphainsight_last_cleanup", now.toString());
+            return;
+        }
+
+        const timeDiff = now - parseInt(lastCleanup, 10);
+        const sevenDaysMs = 7 * 24 * 60 * 60 * 1000;
+
+        if (timeDiff >= sevenDaysMs) {
+            // It has been a week! Check if there's any content to consolidate
+            const currentNote = localStorage.getItem("alphainsight_sandbox_note") || "";
+            if (currentNote.trim()) {
+                // Save old textarea value to check
+                sandboxTextarea.value = currentNote;
+                consolidateNotes(true);
+            }
             
-            // Hide indicator after a brief moment
-            hideStatusTimeout = setTimeout(() => {
-                saveStatusEl.classList.remove("show");
-            }, 1500);
-        }, 800);
-    });
+            // Show notification banner
+            if (sandboxNotification) {
+                sandboxNotification.style.display = "flex";
+            }
+
+            // Update last cleanup time
+            localStorage.setItem("alphainsight_last_cleanup", now.toString());
+        }
+    }
+
+    // Close Notification Event
+    if (btnCloseNotification) {
+        btnCloseNotification.addEventListener("click", () => {
+            sandboxNotification.style.display = "none";
+        });
+    }
+
+    // Load saved active note and render vocab list on startup
+    const savedActiveNote = localStorage.getItem("alphainsight_sandbox_note");
+    if (savedActiveNote && sandboxTextarea) {
+        sandboxTextarea.value = savedActiveNote;
+    }
+    renderVocabBank();
+    checkWeeklyCleanup();
+
+    // Textarea Autosave Listener
+    if (sandboxTextarea) {
+        sandboxTextarea.addEventListener("input", () => {
+            clearTimeout(saveTimeout);
+            clearTimeout(hideStatusTimeout);
+            
+            saveStatusEl.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> 正在儲存...';
+            saveStatusEl.classList.add("show");
+
+            saveTimeout = setTimeout(() => {
+                localStorage.setItem("alphainsight_sandbox_note", sandboxTextarea.value);
+                saveStatusEl.innerHTML = '<i class="fa-solid fa-cloud-arrow-up"></i> 已即時儲存';
+                
+                hideStatusTimeout = setTimeout(() => {
+                    saveStatusEl.classList.remove("show");
+                }, 1500);
+            }, 800);
+        });
+    }
+
+    // Consolidate Button Listener
+    if (btnConsolidateNow) {
+        btnConsolidateNow.addEventListener("click", () => {
+            consolidateNotes(false);
+        });
+    }
+
+    // Export Vocabulary Button Listener
+    if (btnExportVocab) {
+        btnExportVocab.addEventListener("click", () => {
+            if (vocabBank.length === 0) {
+                alert("單字庫目前為空，沒有可匯出的內容。");
+                return;
+            }
+            const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(vocabBank, null, 2));
+            const downloadAnchor = document.createElement('a');
+            downloadAnchor.setAttribute("href", dataStr);
+            downloadAnchor.setAttribute("download", "alphainsight_vocab_bank.json");
+            document.body.appendChild(downloadAnchor);
+            downloadAnchor.click();
+            downloadAnchor.remove();
+        });
+    }
+
+    // Import Vocabulary Button Listener
+    if (inputImportVocab) {
+        inputImportVocab.addEventListener("change", (event) => {
+            const file = event.target.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = (e) => {
+                try {
+                    const imported = JSON.parse(e.target.result);
+                    if (Array.isArray(imported)) {
+                        let importedCount = 0;
+                        imported.forEach(item => {
+                            if (item.word && item.meaning) {
+                                const exists = vocabBank.some(v => v.word.toLowerCase() === item.word.toLowerCase());
+                                if (!exists) {
+                                    vocabBank.push({
+                                        word: item.word.trim(),
+                                        meaning: item.meaning.trim()
+                                    });
+                                    importedCount++;
+                                }
+                            }
+                        });
+                        saveVocabBank();
+                        alert(`成功匯入！\n從檔案匯入了 ${importedCount} 個新單字。`);
+                    } else {
+                        alert("匯入失敗：檔案格式不正確，必須是 JSON 陣列。");
+                    }
+                } catch (err) {
+                    alert("匯入失敗：解析 JSON 檔案出錯。");
+                }
+                // Reset file input
+                inputImportVocab.value = "";
+            };
+            reader.readAsText(file);
+        });
+    }
+
+    // Clear Vocabulary Button Listener
+    if (btnClearVocab) {
+        btnClearVocab.addEventListener("click", () => {
+            if (vocabBank.length === 0) return;
+            if (confirm("您確定要清空所有的單字嗎？此動作將無法還原。")) {
+                vocabBank = [];
+                saveVocabBank();
+                alert("已成功清空單字庫。");
+            }
+        });
+    }
+
+    // Sandbox Panel Tabs Toggle
+    if (sandboxTabBtns) {
+        sandboxTabBtns.forEach(btn => {
+            btn.addEventListener("click", () => {
+                const targetTab = btn.getAttribute("data-sandbox-tab");
+                
+                // Toggle active tab class
+                sandboxTabBtns.forEach(b => b.classList.remove("active"));
+                btn.classList.add("active");
+                
+                // Toggle active panel class
+                sandboxPanels.forEach(panel => {
+                    if (panel.id === `sandbox-panel-${targetTab}`) {
+                        panel.classList.add("active");
+                    } else {
+                        panel.classList.remove("active");
+                    }
+                });
+
+                // If switching to words, render them
+                if (targetTab === "words") {
+                    renderVocabBank();
+                }
+                
+                // If switching to quiz, reset to setup view
+                if (targetTab === "quiz") {
+                    resetQuizUI();
+                }
+            });
+        });
+    }
+
+    // --- Interactive Quiz Logic ---
+    let quizQuestions = [];
+    let currentQuestionIdx = 0;
+    let quizScore = 0;
+    let hasAnswered = false;
+
+    function resetQuizUI() {
+        if (quizSetupView && quizActiveView && quizResultView) {
+            quizSetupView.style.display = "block";
+            quizActiveView.style.display = "none";
+            quizResultView.style.display = "none";
+        }
+    }
+
+    // Helper to shuffle array
+    function shuffleArray(array) {
+        const arr = [...array];
+        for (let i = arr.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [arr[i], arr[j]] = [arr[j], arr[i]];
+        }
+        return arr;
+    }
+
+    // Start Quiz Button Listener
+    if (btnStartQuiz) {
+        btnStartQuiz.addEventListener("click", () => {
+            if (vocabBank.length < 4) {
+                alert("您的單字庫中至少需要 4 個單字才能開始測驗！\n請先去筆記編輯區記錄一些單字並點選「整理並歸檔」。");
+                return;
+            }
+
+            // Shuffle and pick up to 10 questions
+            const shuffledBank = shuffleArray(vocabBank);
+            quizQuestions = shuffledBank.slice(0, Math.min(10, shuffledBank.length));
+            
+            currentQuestionIdx = 0;
+            quizScore = 0;
+
+            quizSetupView.style.display = "none";
+            quizResultView.style.display = "none";
+            quizActiveView.style.display = "block";
+
+            loadQuizQuestion();
+        });
+    }
+
+    // Load Quiz Question
+    function loadQuizQuestion() {
+        hasAnswered = false;
+        
+        if (btnNextQuestion) btnNextQuestion.style.display = "none";
+        if (quizFeedbackText) quizFeedbackText.style.display = "none";
+
+        const currentQuestion = quizQuestions[currentQuestionIdx];
+        if (quizCurrentNumEl) quizCurrentNumEl.textContent = currentQuestionIdx + 1;
+        if (quizScoreNumEl) quizScoreNumEl.textContent = quizScore;
+        
+        if (quizQuestionText) {
+            quizQuestionText.innerHTML = `「<span style="color:var(--neon-amber);">${currentQuestion.word}</span>」的中文意思是什麼？`;
+        }
+
+        // Distractors generation: pick 3 other words from vocabBank
+        const otherWords = vocabBank.filter(item => item.word.toLowerCase() !== currentQuestion.word.toLowerCase());
+        const shuffledDistractors = shuffleArray(otherWords);
+        const pickedDistractors = shuffledDistractors.slice(0, 3);
+
+        // Put correct answer and distractors together and shuffle
+        const options = shuffleArray([
+            { text: currentQuestion.meaning, isCorrect: true },
+            ...pickedDistractors.map(d => ({ text: d.meaning, isCorrect: false }))
+        ]);
+
+        // Render options buttons
+        if (quizOptionsContainer) {
+            quizOptionsContainer.innerHTML = "";
+            const optionLabels = ["A", "B", "C", "D"];
+            options.forEach((opt, idx) => {
+                const btn = document.createElement("button");
+                btn.className = "quiz-option-btn";
+                btn.innerHTML = `
+                    <span class="quiz-option-badge">${optionLabels[idx]}</span>
+                    <span>${opt.text}</span>
+                `;
+                
+                // Add click listener
+                btn.addEventListener("click", () => handleAnswerSelect(opt.isCorrect, btn));
+                quizOptionsContainer.appendChild(btn);
+            });
+        }
+    }
+
+    // Handle Option Selection
+    function handleAnswerSelect(isCorrect, selectedBtn) {
+        if (hasAnswered) return;
+        hasAnswered = true;
+
+        // Show feedback and Next button
+        if (btnNextQuestion) {
+            btnNextQuestion.style.display = "inline-flex";
+            if (currentQuestionIdx === quizQuestions.length - 1) {
+                btnNextQuestion.innerHTML = '查看結果 <i class="fa-solid fa-square-check"></i>';
+            } else {
+                btnNextQuestion.innerHTML = '下一題 <i class="fa-solid fa-arrow-right"></i>';
+            }
+        }
+
+        // Highlight correct and incorrect options
+        const optionBtns = quizOptionsContainer.querySelectorAll(".quiz-option-btn");
+        
+        // Find correct option index in DOM to highlight
+        const correctQuestionObj = quizQuestions[currentQuestionIdx];
+        optionBtns.forEach(btn => {
+            const textContent = btn.querySelector("span:last-child").textContent;
+            if (textContent === correctQuestionObj.meaning) {
+                btn.classList.add("correct");
+            }
+        });
+
+        if (isCorrect) {
+            quizScore++;
+            if (quizScoreNumEl) quizScoreNumEl.textContent = quizScore;
+            
+            selectedBtn.classList.add("correct");
+            if (quizFeedbackText) {
+                quizFeedbackText.style.display = "block";
+                quizFeedbackText.className = "quiz-feedback correct";
+                quizFeedbackText.innerHTML = '<i class="fa-solid fa-circle-check"></i> 答對了！太棒了！';
+            }
+        } else {
+            selectedBtn.classList.add("incorrect");
+            if (quizFeedbackText) {
+                quizFeedbackText.style.display = "block";
+                quizFeedbackText.className = "quiz-feedback incorrect";
+                quizFeedbackText.innerHTML = `<i class="fa-solid fa-circle-xmark"></i> 答錯了！正確答案是：${correctQuestionObj.meaning}`;
+            }
+        }
+    }
+
+    // Next Question Button Listener
+    if (btnNextQuestion) {
+        btnNextQuestion.addEventListener("click", () => {
+            currentQuestionIdx++;
+            if (currentQuestionIdx < quizQuestions.length) {
+                loadQuizQuestion();
+            } else {
+                // Show final result view
+                if (quizActiveView) quizActiveView.style.display = "none";
+                if (quizResultView) {
+                    quizResultView.style.display = "block";
+                    if (quizFinalScoreEl) {
+                        const scorePercent = Math.round((quizScore / quizQuestions.length) * 100);
+                        quizFinalScoreEl.textContent = scorePercent;
+                    }
+                }
+            }
+        });
+    }
+
+    // Restart Quiz Button Listener
+    if (btnRestartQuiz) {
+        btnRestartQuiz.addEventListener("click", () => {
+            resetQuizUI();
+            if (btnStartQuiz) btnStartQuiz.click();
+        });
+    }
 
     // View Tab Selection Logic
     const viewBtns = document.querySelectorAll(".view-tab-btn");
     const appMainEl = document.querySelector(".app-main");
 
     if (viewBtns && appMainEl) {
-        // Load default/saved view from localStorage or default to "all"
-        const savedView = localStorage.getItem("alphainsight_preferred_view") || "all";
+        // Load default/saved view from localStorage or default to "morning"
+        let savedView = localStorage.getItem("alphainsight_preferred_view") || "morning";
+        if (savedView === "all") {
+            savedView = "morning";
+        }
         
         // Function to apply a view
         const applyView = (view) => {
@@ -415,10 +875,8 @@ document.addEventListener("DOMContentLoaded", () => {
             // Remove all view classes from appMainEl
             appMainEl.classList.remove("view-morning", "view-english", "view-night", "view-sandbox");
             
-            // Add selected view class if not 'all'
-            if (view !== "all") {
-                appMainEl.classList.add(`view-${view}`);
-            }
+            // Add selected view class
+            appMainEl.classList.add(`view-${view}`);
             
             // Update active states on buttons
             viewBtns.forEach(btn => {
