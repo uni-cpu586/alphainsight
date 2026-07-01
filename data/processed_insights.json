@@ -1,487 +1,429 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "stock_uncle_insight": {
-    "date_header": "7/1 法人與主力大戶主要買超股票",
+    "date_header": "7/2 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃面板、金融與傳產，避險意味濃",
+        "group_title": "1. 外資大戶：半導體與金融股兩手策略",
         "stocks": [
-          {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "外資狂掃近8.55萬張，面板股這是要起風了逆？肖年仔，這外資不是黑白買的，肯定有什麼故事，準備鎖碼！"
-          },
-          {
-            "stock_name": "台玻",
-            "ticker": "1802",
-            "description": "外資買超近5.40萬張，傳產股也能被外資看上，可能是在找低基期避風港，或是卡位原物料行情。"
-          },
-          {
-            "stock_name": "國泰金",
-            "ticker": "2882",
-            "description": "外資買超近4.91萬張，金融股穩健，大戶避險首選，這盤勢不穩，資金就往這裡鑽，肖年仔，這是防禦性佈局。"
-          },
           {
             "stock_name": "聯電",
             "ticker": "2303",
-            "description": "外資買超近3.52萬張，成熟製程的晶圓代工，外資還是有在佈局，跟投信對作，有意思，這檔籌碼戰開打了。"
-          },
-          {
-            "stock_name": "中石化",
-            "ticker": "1314",
-            "description": "外資買超近2.24萬張，塑化傳產也入袋，這外資的胃口真廣，可能在卡位原物料行情，別黑白猜。"
-          },
-          {
-            "stock_name": "凱基金",
-            "ticker": "2883",
-            "description": "外資買超近2.12萬張，又一檔金融股，看來外資對金融股的防禦性是鐵了心，肖年仔，別傻傻去追高電子股。"
-          },
-          {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "外資買超近2.08萬張，直接買大盤ETF，這就是最簡單粗暴的避險跟佈局，看好台股長期啦，但短期震盪難免。"
-          },
-          {
-            "stock_name": "漢翔",
-            "ticker": "2634",
-            "description": "外資買超近1.89萬張，軍工概念股，這題材還在燒，外資也來湊熱鬧，但這種題材股要小心拉高出貨。"
-          },
-          {
-            "stock_name": "宏碁",
-            "ticker": "2353",
-            "description": "外資買超近1.58萬張，PC品牌股，這波AI PC題材，外資也想分一杯羹，但要看有沒有真材實料。"
-          },
-          {
-            "stock_name": "京元電子",
-            "ticker": "2449",
-            "description": "外資買超近1.57萬張，半導體封測，這也是AI相關的受惠股，外資眼光很精準，可能在卡位下一波行情。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：狂敲金融股作帳，航空雙雄也入袋",
-        "stocks": [
-          {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "投信狂敲近4.22萬張，這就是標準的作帳行情，金融股穩健又好拉，國家隊的最愛，肖年仔，這種穩健股是拿來撐績效的。"
-          },
-          {
-            "stock_name": "彰銀",
-            "ticker": "2801",
-            "description": "投信買超近4.05萬張，又是金融股，投信的資金就是往這些有殖利率的標的鑽，穩穩賺才是王道。"
-          },
-          {
-            "stock_name": "永豐金",
-            "ticker": "2890",
-            "description": "投信買超近3.69萬張，金融股三連發，肖年仔，看到沒，投信就是愛金融，作帳作到流湯。"
-          },
-          {
-            "stock_name": "第一金",
-            "ticker": "2892",
-            "description": "投信買超近2.99萬張，金融股繼續買，這根本是金融股大閱兵，投信這波作帳，金融股是主戰場。"
-          },
-          {
-            "stock_name": "長榮航",
-            "ticker": "2618",
-            "description": "投信買超近2.71萬張，航空雙雄之一，暑假旺季題材，投信也來卡位，這就是作夢行情，但也要小心利多出盡。"
-          },
-          {
-            "stock_name": "華航",
-            "ticker": "2610",
-            "description": "投信買超近2.40萬張，航空雙雄都入袋，這就是看好解封後的旅遊商機，肖年仔，這種題材股要看準時機。"
-          },
-          {
-            "stock_name": "玉山金",
-            "ticker": "2884",
-            "description": "投信買超近2.24萬張，金融股繼續買，投信的資金就是這麼保守又愛作帳，穩字訣。"
-          },
-          {
-            "stock_name": "台新新光金",
-            "ticker": "2887",
-            "description": "投信買超近2.17萬張，金融股買不完，這波投信就是鎖定金融股，穩穩賺，別想太多。"
-          },
-          {
-            "stock_name": "中信金",
-            "ticker": "2891",
-            "description": "投信買超近1.19萬張，金融股最後一棒，投信這波作帳，金融股是主戰場，肖年仔，跟著國家隊走，比較穩。"
-          },
-          {
-            "stock_name": "微星",
-            "ticker": "2377",
-            "description": "投信買超近1.02萬張，電競筆電大廠，這檔可能是有新題材或基本面轉好，投信也來卡位，但量不大，要觀察。"
-          }
-        ]
-      },
-      {
-        "group_title": "3. 內資主力與實戶：面板雙雄、金融傳產，避險盤跟著外資走",
-        "stocks": [
-          {
-            "stock_name": "群創",
-            "ticker": "3481",
-            "description": "自營商買超近0.49萬張，面板雙雄之一，跟著外資一起買，這避險盤嗅到味道了，準備做價差。"
-          },
-          {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "自營商買超近0.37萬張，面板股被自營商買，這不是避險盤就是看好權證行情，準備拉高出貨，肖年仔，小心被割韭菜。"
-          },
-          {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "自營商買超近0.29萬張，買ETF避險，這就是怕大盤崩盤，先買個保險，肖年仔，這叫分散風險。"
-          },
-          {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "自營商買超近0.23萬張，半導體股，自營商也來參一腳，可能是在做價差或避險，這檔籌碼有點亂。"
-          },
-          {
-            "stock_name": "台玻",
-            "ticker": "1802",
-            "description": "自營商買超近0.20萬張，傳產股，這自營商跟外資的口味有點像，都在找穩定的標的，肖年仔，這叫跟單。"
-          },
-          {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "自營商買超近0.16萬張，記憶體股，這檔也是跌深反彈，自營商可能在搶短，但要小心套牢。"
-          },
-          {
-            "stock_name": "中信金",
-            "ticker": "2891",
-            "description": "自營商買超近0.15萬張，金融股，自營商也來買金融，這就是避險盤的標準操作，穩健為上。"
-          },
-          {
-            "stock_name": "三商壽",
-            "ticker": "2867",
-            "description": "自營商買超近0.13萬張，壽險股，這也是金融避險的一種，自營商很會找標的，肖年仔，這叫多元佈局。"
-          },
-          {
-            "stock_name": "力積電",
-            "ticker": "6770",
-            "description": "自營商買超近0.12萬張，半導體股，自營商也在搶短，這檔也是跌深反彈，但要小心反彈無力。"
+            "description": "肖年仔，外資狂掃聯電 6.58 萬張，這擺明是看好半導體產業的復甦，或是對聯電的特定利多消息有掌握，這不是黑白買的！"
           },
           {
             "stock_name": "亞泥",
             "ticker": "1102",
-            "description": "自營商買超近0.11萬張，水泥傳產，這自營商的避險盤，連水泥股都買，很穩健，肖年仔，這叫保守操作。"
+            "description": "外資買超亞泥 4.24 萬張，傳產股被外資買，通常是看好基本面或特定旺季效應，這不是隨便亂買的。"
+          },
+          {
+            "stock_name": "富邦金",
+            "ticker": "2881",
+            "description": "外資買超富邦金 2.95 萬張，跟國泰金一樣，這波外資買金融，可能是看上高殖利率，或是把金融股當作資金避風港，先卡位再說。"
+          },
+          {
+            "stock_name": "國泰金",
+            "ticker": "2882",
+            "description": "外資買超國泰金 2.75 萬張，跟富邦金一樣，金融股在震盪盤勢中，外資通常會拿來避險，或是等著配息。"
+          },
+          {
+            "stock_name": "矽統",
+            "ticker": "2363",
+            "description": "外資買超矽統 1.92 萬張，這檔半導體股被外資點火，可能是有新題材或轉機，肖年仔要盯緊。"
+          }
+        ]
+      },
+      {
+        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，狂拉金融與航空",
+        "stocks": [
+          {
+            "stock_name": "第一金",
+            "ticker": "2892",
+            "description": "投信狂買第一金 9.84 萬張，這就是典型的投信作帳行情，把外資倒出來的籌碼全接走，準備拉高結帳。"
+          },
+          {
+            "stock_name": "彰銀",
+            "ticker": "2801",
+            "description": "投信大買彰銀 8.28 萬張，跟第一金一樣，投信在金融股上展現強勁的買盤，擺明就是要拉抬績效。"
+          },
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "投信買超兆豐金 6.41 萬張，這幾檔金融股都被投信鎖碼，肖年仔你看到沒，這就是國家隊在護盤兼作帳。"
+          },
+          {
+            "stock_name": "永豐金",
+            "ticker": "2890",
+            "description": "投信買超永豐金 6.34 萬張，投信對金融股的買盤非常集中，這不是黑白買，是精準布局。"
+          },
+          {
+            "stock_name": "華航",
+            "ticker": "2610",
+            "description": "投信買超華航 1.77 萬張，長榮航也買，這顯示投信看好解封後的航空業復甦，或是趁外資倒貨時接刀。"
+          },
+          {
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "投信買超長榮航 1.53 萬張，航空雙雄都被投信點火，這波資金流向很明顯。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：跟風外資，避險兼卡位",
+        "stocks": [
+          {
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "自營商也買聯電 0.49 萬張，跟著外資一起買聯電，這顯示市場對聯電的共識度提高，或是自營商的避險盤在跟風。"
+          },
+          {
+            "stock_name": "中信金",
+            "ticker": "2891",
+            "description": "自營商買超中信金 0.21 萬張，金融股也是自營商的避險標的，在市場震盪時，資金會往這裡跑。"
+          },
+          {
+            "stock_name": "亞泥",
+            "ticker": "1102",
+            "description": "自營商買超亞泥 0.20 萬張，傳產股被自營商買，通常是看好短期題材或基本面，或是權證避險盤。"
+          },
+          {
+            "stock_name": "富邦科技",
+            "ticker": "0052",
+            "description": "自營商買超富邦科技 0.13 萬張，買 ETF 這種操作，擺明就是避險，或是對大盤指數有特定的看法。"
+          },
+          {
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "自營商買超元大台灣50 0.06 萬張，跟富邦科技一樣，買大盤 ETF 就是在做避險，或是對大盤指數有特定的看法，肖年仔，這就是穩健操作。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：法人資金避風港，金融傳產成顯學",
-        "strategy_content": "肖年仔，今天三大法人操作很明顯，外資、投信、自營商不約而同大買金融股，像國泰金、兆豐金、彰銀等，投信更是幾乎清一色掃貨。這擺明了就是在大盤高檔震盪，甚至有點風雨欲來的時候，資金往這些高殖利率、股價穩健的金融股避險。外資連台玻、中石化這種傳產股都買，也是在找低基期、有基本面的標的。這就是大戶在找「安全牌」啦，尤其在國際上對社會福利支出有疑慮的時候，穩健資產更受青睞。"
+        "strategy_title": "策略一：高檔避險與資金避風港（金融、ETF）",
+        "strategy_content": "在市場震盪不安時，外資與自營商紛紛將資金轉向金融股（如富邦金、國泰金、中信金）和大型權值股ETF（如富邦科技、元大台灣50）。這不是肖年仔你亂猜的，這是大戶在做避險，把資金從高風險的電子股撤出，轉到相對穩定的標的，等待市場方向明朗。國際上零售巨頭關店潮，也暗示經濟前景不明，大戶更傾向保守。"
       },
       {
-        "strategy_title": "策略二：面板雙雄獲外資自營聯手點火，短線有戲",
-        "strategy_content": "友達、群創這兩檔面板股，同時獲得外資和自營商的大力買超。外資狂掃友達近8.55萬張，自營商也跟著買進。這顯示主力對面板產業景氣築底反彈有高度期待，可能是面板報價止跌回穩，或是下半年旺季效應。肖年仔，這種法人聯手點火的，短線通常會有行情，但也要小心隔日沖倒貨，別傻傻去追高。"
+        "strategy_title": "策略二：半導體龍頭卡位與題材點火（聯電、矽統）",
+        "strategy_content": "外資與自營商同步大買聯電，外資更是狂掃 6.58 萬張，這擺明是看好半導體產業的復甦，特別是聯電這種晶圓代工二哥。同時，外資也點火矽統，這可能是看上其在特定半導體領域的潛力，或是新技術題材發酵。雖然國際新聞提到AI基礎設施，但大戶更傾向布局台灣半導體鏈中具備成本優勢或特定技術的標的。"
       },
       {
-        "strategy_title": "策略三：半導體看法分歧，外資佈局成熟製程與封測，投信卻在結帳",
-        "strategy_content": "外資買超聯電、京元電子，顯示他們對成熟製程和半導體封測仍有佈局意願。但你看投信，卻是大賣聯電近7.41萬張，這就是法人對半導體看法分歧的證據。外資可能看好特定利基型應用，而投信則可能在調整持股，把資金轉往金融股作帳。肖年仔，這種對作的股票，籌碼會很亂，操作起來要特別小心，別被兩邊的籌碼洗出去，最後被割韭菜。"
-      },
-      {
-        "strategy_title": "策略四：航空雙雄迎旺季，投信提前卡位作夢行情",
-        "strategy_content": "投信大買長榮航、華航，這兩檔航空股在暑假旺季前被投信狂敲，擺明了就是看好解封後的旅遊商機，提前卡位作夢行情。雖然國際新聞沒有直接相關，但全球旅遊復甦的趨勢是明確的，加上國內旅遊熱潮，投信就是看準這波。肖年仔，這種季節性題材，投信通常會提前佈局，但也要注意利多出盡的風險，別追在最高點。"
+        "strategy_title": "策略三：投信作帳行情與航空股接刀（金融、航空）",
+        "strategy_content": "投信大戶狂掃第一金、彰銀、兆豐金、永豐金等金融股，這就是典型的投信作帳行情，把外資倒出來的金融股籌碼全接走，準備拉高結帳。同時，投信也大買華航、長榮航，趁著外資倒貨時接刀，看好解封後的航空業復甦題材。肖年仔，這就是國家隊的玩法，跟外資對作，但目標都是為了基金績效。"
       }
     ],
-    "summary": "肖年仔，今天三大法人操作很明顯，外資跟自營商在面板、金融、傳產找避風港，投信則狂敲金融股作帳，順便卡位航空旺季。半導體法人看法分歧，操作要小心。整體來看，市場資金還是偏向穩健跟有題材的標的，別傻傻去追高那些被倒貨的股票！",
+    "summary": "肖年仔，今天外資跟投信在金融股上玩起了大風吹，外資買聯電避險兼卡位，投信狂掃金融作帳，自營商則跟風避險，這盤勢就是一個字：亂！但亂中有序，大戶資金流向，你得看懂！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 2.99萬張",
-        "uncle_logic": "高盛這外資大戶，狂掃友達近3萬張，這不是黑白買的啦！肯定是看好面板景氣築底反彈，或者有什麼獨家消息，準備鎖碼拉抬一波。肖年仔，這檔要盯緊了！"
+        "action": "買超 2.30 萬張",
+        "uncle_logic": "高盛這外資大戶，狂掃聯電 2.30 萬張，這不是黑白買，擺明是看好聯電的長線價值，或是對半導體景氣復甦有獨到見解。肖年仔，這叫鎖碼，不是給你隔日沖的！"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 0.20萬張",
-        "uncle_logic": "凱基台北這隔日沖大戶，買群創近2千張，擺明就是想隔日沖倒貨啦！明天開盤如果衝高，小心被他倒貨割韭菜。這種短線仔，別跟著黑白追高，不然會被套牢！"
+        "action": "買超 0.19 萬張",
+        "uncle_logic": "凱基台北這分點，買聯電 0.19 萬張，肖年仔你別傻傻跟進，這擺明就是隔日沖的單，明天開盤大概率就是要倒貨給你接刀的，小心別被割韭菜！"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 1.90萬張",
-        "uncle_logic": "元大投信狂買兆豐金近1.9萬張，這是投信作帳的標準動作啦！金融股穩健，殖利率又高，拿來撐基金績效最實在。這就是國家隊在幫忙穩盤，順便拉抬自己的持股，肖年仔，這叫跟著法人吃肉。"
+        "action": "買超 4.42 萬張",
+        "uncle_logic": "元大投信買第一金 4.42 萬張，這就是標準的投信作帳手法，把外資倒出來的金融股籌碼全接走，準備拉高結帳，肖年仔，這就是國家隊在護盤兼拉抬績效。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 1.29萬張",
-        "uncle_logic": "摩根大通這外資大咖，大賣中鋼近1.3萬張，擺明就是對傳產鋼鐵股沒信心，或者在做避險調整。肖年仔，看到這種大咖在倒貨，別傻傻去接刀啊！不然會被斷頭！"
+        "action": "賣超 4.89 萬張",
+        "uncle_logic": "摩根大通這外資大戶，大賣友達 4.89 萬張，這擺明是對面板股看法偏空，或是獲利了結。肖年仔，這叫拉高出貨，你別傻傻去接刀！"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "Rocket Lab Soars 12% on $8 Billion Iridium Takeover, AST SpaceMobile and Planet Labs Rise 10%",
+      "title": "Former retail giant closed over 1,000 locations",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-soars-12-8-134628966.html",
+      "link": "https://finance.yahoo.com/small-business/articles/former-retail-giant-closed-over-150700944.html",
       "level1_blind": {
-        "text": "Rocket Lab's $8 billion Iridium acquisition lifted RKLB 12% and helped push ASTS and PL up 10%, recovering part of a ~45% prior-month selloff.\n\nRKLB and ASTS carry high betas so volatility is a concern, and the Rocket Lab deal still needs shareholder and regulatory approval before a mid-2027 close.\n\nAct now: the analyst who called NVIDIA in 2010 just named his top 10 AI stocks — and Rocket Lab didn't make the cut. Grab the names FREE today.\n\nSpace stocks are catching a bid Monday morning after Rocket Lab (NASDAQ:RKLB) unveiled a definitive agreement to acquire Iridium Communications (NASDAQ:IRDM) in a cash-and-stock deal carrying an enterprise value of approximately $8 billion. Rocket Lab stock is up 12% to $95 in early trading.\n\nThe deal validates consolidation across the satellite economy, and peers are riding the momentum. AST SpaceMobile (NASDAQ:ASTS) stock is up 10% to $78 and change, while Planet Labs (NYSE:PL) stock is up 10% to $29.90.\n\nThe rally cuts against a brutal stretch for the group. Rocket Lab stock had fallen 44% over the prior month, while Planet Labs stock was down 46% and AST SpaceMobile stock was down 45% over the same window. Today's gains are starting to repair some of that damage.\n\nUnder the terms, Iridium holders will receive $54 per share, consisting of $27 in cash plus Rocket Lab common stock based on an exchange ratio with a collar banded from $67.50 to $112.50. Both boards have unanimously approved the transaction, which is expected to close in mid-2027.\n\nAct now: the analyst who called NVIDIA in 2010 just named his top 10 AI stocks — and Rocket Lab didn't make the cut. Grab the names FREE today."
+        "text": "Some forms of retail work better in a brick-and-mortar store than they do online.\n\nClothing and footwear, for example, benefits from the ability to try the items on. Even people who wear the same size across multiple brands sometime put on an outfit, a pair of sneakers, or some fancy shoes only to find that they don't fit right.\n\nThe internet shines, however, on items that don't need to be held, touched, or tried on. That has made some retailers more vulnerable than others.\n\nOffice supply chains, which includes Office Depot and Staples, have been in a slow, steady decline.\n\n\"Office supply stores as a sector employ some 60,000 people and bring in $10.3 billion in revenue in the U.S., which is projected to decline roughly 2% a year through 2026, according to research firm IBISWorld.\n\nThat has led to Office Depot closing more than half its stores since 2013, a process that has continued with the chain's most recent shutdowns.\n\nOffice Depot merged with Office Max in 2013, with the combined chain operating about 1,900 U.S. stores following the merger, according to the Dallas Morning News.\n\nAt the time of the deal, the two companies said they planned to close 400 stores. The industry was already in decline, according to FOX Business."
       },
       "level2_keywords": [
         {
-          "word": "acquisition",
-          "ipa": "/ˌækwɪˈzɪʃən/",
-          "meaning": "併購案，指一家公司買下另一家公司，通常是為了擴大市場、增加產品線或取得新技術。",
-          "example": "The tech giant's recent acquisition of a startup aims to boost its AI capabilities."
+          "word": "retail giant",
+          "ipa": "/ˈriːteɪl ˈdʒaɪənt/",
+          "meaning": "各位同學，這個詞指的是規模龐大、在零售業中佔有主導地位的公司，通常擁有許多實體店面或廣大的市場份額。",
+          "example": "The former retail giant struggled to adapt to the e-commerce boom and closed many of its physical stores."
         },
         {
-          "word": "selloff",
-          "ipa": "/ˈsɛlˌɔf/",
-          "meaning": "拋售潮，指投資者大量賣出股票或其他資產，導致價格快速下跌的現象。",
-          "example": "After the disappointing earnings report, the stock experienced a significant selloff."
+          "word": "brick-and-mortar",
+          "ipa": "/ˌbrɪk ən ˈmɔːrtər/",
+          "meaning": "這是一個很重要的概念，用來形容傳統的實體店面，與線上商店相對。在財經報導中常用來區分實體與虛擬通路。",
+          "example": "Many consumers still prefer the experience of shopping at brick-and-mortar stores for certain products like clothing."
         },
         {
-          "word": "betas",
-          "ipa": "/ˈbeɪtəz/",
-          "meaning": "貝他係數，衡量個股相對於整體市場波動性的指標。貝他值越高，表示股價波動性越大。",
-          "example": "Stocks with high betas tend to outperform in bull markets but suffer more in bear markets."
+          "word": "office supply chains",
+          "ipa": "/ˈɔːfɪs səˈplaɪ tʃeɪnz/",
+          "meaning": "指的是販售辦公用品的連鎖店，例如文具、辦公設備等。這類產業近年來受到數位化趨勢的影響很大。",
+          "example": "The shift to digital documents has significantly impacted traditional office supply chains."
         },
         {
-          "word": "volatility",
-          "ipa": "/ˌvɑləˈtɪləti/",
-          "meaning": "波動性，指資產價格在一段時間內變動的劇烈程度。高波動性意味著價格可能快速上漲或下跌。",
-          "example": "Investors are concerned about the high volatility in the cryptocurrency market."
+          "word": "decline",
+          "ipa": "/dɪˈklaɪn/",
+          "meaning": "這個動詞或名詞在財經界非常常見，指的是數量、價值或活動的逐漸減少或衰退。我們常用它來描述市場、產業或公司業績的下滑趨勢。",
+          "example": "The industry has been in a steady decline for the past decade due to changing consumer habits and technology."
         },
         {
-          "word": "enterprise value",
-          "ipa": "/ˈɛntərˌpraɪz ˈvælju/",
-          "meaning": "企業價值，衡量一家公司總價值的指標，包括市值、債務減去現金，常用於評估併購交易。",
-          "example": "The acquisition was valued at an enterprise value of $10 billion, reflecting both equity and debt."
+          "word": "merged",
+          "ipa": "/mɜːrdʒd/",
+          "meaning": "這個詞表示兩家或多家公司合併成一家。在企業併購（M&A）中，這是一種常見的策略，旨在提升市場競爭力或擴大規模。",
+          "example": "The two companies merged in 2013 to create a stronger entity in a highly competitive market."
         }
       ],
-      "level2_context": "各位同學，這則新聞揭示了航太產業一個重要的趨勢：『整合與併購』。Rocket Lab這家公司透過收購Iridium Communications，不僅擴大了自身的業務版圖，更鞏固了其在衛星通訊領域的地位。這類型的併購案，在產業中往往被視為一種『價值驗證』，代表市場看好該產業的長期發展潛力。當一家龍頭企業進行大規模併購時，通常會帶動整個產業鏈的正面情緒，讓其他同業，像是AST SpaceMobile和Planet Labs，也跟著『搭上順風車』，股價隨之上漲。特別值得注意的是，這些航太股在過去一個月經歷了大幅度的『拋售潮』，這次的併購消息帶來的股價反彈，某種程度上也代表市場對該產業信心的修復。這筆交易採用『現金加股票』的方式，並設定了『企業價值』約80億美元，顯示了其規模與複雜性，也需要經過股東與監管機關的批准才能完成。這背後反映的是，隨著衛星技術的進步與應用場景的擴大，航太產業正進入一個快速發展與重新洗牌的階段。",
+      "level2_context": "各位同學，這篇新聞在探討傳統實體零售業，特別是辦公用品連鎖店，在數位化時代面臨的挑戰與衰退。我們可以看到，有些商品像是服飾鞋類，消費者還是會偏好到實體店面試穿體驗；但對於辦公用品這類不需要實際觸摸或試用的商品，網路購物就顯得更具優勢。這導致像 Office Depot 這樣的辦公用品零售巨頭，在過去十多年間持續關閉大量門市，甚至透過與 Office Max 合併來應對產業的結構性衰退。這反映了電子商務對傳統零售模式的巨大衝擊，以及企業必須轉型才能生存的現實。",
       "level3_translation": [
         {
-          "sentence": "Rocket Lab's $8 billion Iridium acquisition lifted RKLB 12% and helped push ASTS and PL up 10%, recovering part of a ~45% prior-month selloff.",
-          "translation": "Rocket Lab以80億美元併購Iridium的交易，帶動RKLB股價上漲12%，並幫助ASTS和PL股價也同步上漲10%，收復了前一個月約45%的拋售跌幅。"
+          "sentence": "Some forms of retail work better in a brick-and-mortar store than they do online.",
+          "translation": "某些零售業態在實體店面經營的效果會比線上更好。"
         },
         {
-          "sentence": "RKLB and ASTS carry high betas so volatility is a concern, and the Rocket Lab deal still needs shareholder and regulatory approval before a mid-2027 close.",
-          "translation": "RKLB和ASTS的貝他係數（beta）較高，因此股價波動性是一個隱憂；而Rocket Lab的這項交易，仍需股東和監管機關批准，預計在2027年中旬才能完成交割。"
+          "sentence": "Clothing and footwear, for example, benefits from the ability to try the items on.",
+          "translation": "舉例來說，服飾和鞋類商品就能從試穿體驗中獲益。"
         },
         {
-          "sentence": "Act now: the analyst who called NVIDIA in 2010 just named his top 10 AI stocks — and Rocket Lab didn't make the cut.",
-          "translation": "立即行動：那位在2010年就點名輝達（NVIDIA）的分析師，剛公布了他心目中前十大AI概念股——而Rocket Lab並未入選。"
+          "sentence": "Even people who wear the same size across multiple brands sometime put on an outfit, a pair of sneakers, or some fancy shoes only to find that they don't fit right.",
+          "translation": "即使是那些在不同品牌間都穿相同尺寸的人，有時穿上某套服裝、運動鞋或時尚鞋款後，也會發現尺寸不合。"
         },
         {
-          "sentence": "Grab the names FREE today.",
-          "translation": "立即免費索取這些股票名單。"
+          "sentence": "The internet shines, however, on items that don't need to be held, touched, or tried on.",
+          "translation": "然而，對於那些不需要拿取、觸摸或試用的商品，網路購物就展現了其優勢。"
         },
         {
-          "sentence": "Space stocks are catching a bid Monday morning after Rocket Lab (NASDAQ:RKLB) unveiled a definitive agreement to acquire Iridium Communications (NASDAQ:IRDM) in a cash-and-stock deal carrying an enterprise value of approximately $8 billion.",
-          "translation": "週一上午，航太概念股迎來買盤，此前Rocket Lab（那斯達克代碼：RKLB）公布了一項最終協議，將以現金加股票的方式收購Iridium Communications（那斯達克代碼：IRDM），這筆交易的企業價值約為80億美元。"
+          "sentence": "That has made some retailers more vulnerable than others.",
+          "translation": "這使得某些零售商比其他同業更容易受到衝擊。"
         },
         {
-          "sentence": "Rocket Lab stock is up 12% to $95 in early trading.",
-          "translation": "Rocket Lab股價在盤中交易上漲12%，達到95美元。"
+          "sentence": "Office supply chains, which includes Office Depot and Staples, have been in a slow, steady decline.",
+          "translation": "辦公用品連鎖店，包括 Office Depot 和 Staples，一直處於緩慢而穩定的衰退中。"
         },
         {
-          "sentence": "The deal validates consolidation across the satellite economy, and peers are riding the momentum.",
-          "translation": "這項交易驗證了衛星經濟領域的整合趨勢，而同業公司也搭上了這波動能。"
+          "sentence": "\"Office supply stores as a sector employ some 60,000 people and bring in $10.3 billion in revenue in the U.S., which is projected to decline roughly 2% a year through 2026, according to research firm IBISWorld.",
+          "translation": "根據研究機構 IBISWorld 的報告，「辦公用品商店作為一個產業，在美國僱用了約六萬名員工，創造了一百零三億美元的營收，預計到二零二六年每年將以約百分之二的速度下滑。」"
         },
         {
-          "sentence": "AST SpaceMobile (NASDAQ:ASTS) stock is up 10% to $78 and change, while Planet Labs (NYSE:PL) stock is up 10% to $29.90.",
-          "translation": "AST SpaceMobile（那斯達克代碼：ASTS）股價上漲10%，來到78美元多，而Planet Labs（紐約證交所代碼：PL）股價也上漲10%，達到29.90美元。"
+          "sentence": "That has led to Office Depot closing more than half its stores since 2013, a process that has continued with the chain's most recent shutdowns.",
+          "translation": "這導致 Office Depot 自二零一三年以來關閉了超過一半的門市，而這個過程也隨著該連鎖店最近的歇業潮持續進行。"
         },
         {
-          "sentence": "The rally cuts against a brutal stretch for the group.",
-          "translation": "這次的反彈扭轉了該族群先前一段艱困的時期。"
+          "sentence": "Office Depot merged with Office Max in 2013, with the combined chain operating about 1,900 U.S. stores following the merger, according to the Dallas Morning News.",
+          "translation": "根據『達拉斯晨報』報導，Office Depot 在二零一三年與 Office Max 合併，合併後的連鎖店在美國經營約一千九百家門市。"
         },
         {
-          "sentence": "Rocket Lab stock had fallen 44% over the prior month, while Planet Labs stock was down 46% and AST SpaceMobile stock was down 45% over the same window.",
-          "translation": "Rocket Lab股價在前一個月下跌了44%，而Planet Labs股價下跌46%，AST SpaceMobile股價則在同一期間下跌了45%。"
+          "sentence": "At the time of the deal, the two companies said they planned to close 400 stores.",
+          "translation": "在這筆交易當時，兩家公司表示他們計畫關閉四百家門市。"
         },
         {
-          "sentence": "Today's gains are starting to repair some of that damage.",
-          "translation": "今天的漲幅開始彌補了部分損失。"
-        },
-        {
-          "sentence": "Under the terms, Iridium holders will receive $54 per share, consisting of $27 in cash plus Rocket Lab common stock based on an exchange ratio with a collar banded from $67.50 to $112.50.",
-          "translation": "根據交易條款，Iridium的股東每股將獲得54美元，其中包括27美元現金，以及根據換股比例計算的Rocket Lab普通股，該換股比例設有67.50美元至112.50美元的區間限制。"
-        },
-        {
-          "sentence": "Both boards have unanimously approved the transaction, which is expected to close in mid-2027.",
-          "translation": "雙方董事會已一致批准這項交易，預計將於2027年中旬完成交割。"
-        },
-        {
-          "sentence": "Act now: the analyst who called NVIDIA in 2010 just named his top 10 AI stocks — and Rocket Lab didn't make the cut.",
-          "translation": "立即行動：那位在2010年就點名輝達（NVIDIA）的分析師，剛公布了他心目中前十大AI概念股——而Rocket Lab並未入選。"
-        },
-        {
-          "sentence": "Grab the names FREE today.",
-          "translation": "立即免費索取這些股票名單。"
+          "sentence": "The industry was already in decline, according to FOX Business.",
+          "translation": "根據『福斯財經新聞』報導，當時這個產業就已經處於衰退之中。"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "BitMEX CEO And CFO Resign From The Crypto Exchange",
+      "title": "IPO Edge NYSE Firesides Scheduled for July 28",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitmex-ceo-cfo-resign-crypto-134800710.html",
+      "link": "https://finance.yahoo.com/news/ipo-edge-nyse-firesides-scheduled-211107368.html",
       "level1_blind": {
-        "text": "Cryptocurrency exchange BitMEX has lost its chief executive officer (CEO) and chief financial officer (CFO) in a wave of executive resignations.\n\nPrivately held BitMEX, which is a crypto derivatives exchange, said its Chief Growth Officer has also left the company effective immediately.\n\nBitMEX is a troubled exchange that announced earlier this year that it was putting itself up for sale. However, no buyers have emerged for the company.\n\nEightco Secures $125 Million Investment From Bitmine And ARK Invest, Shares Surge\n\nNow, CEO Stephan Lutz, CFO Ina Steiner, and Chief Growth Officer Raphael Polansky have left BitMEX.\n\nThe company said that former Chief Operating Officer (COO) Peter Wilkinson has taken over as CEO in the wake of the executive departures.\n\nThe crypto exchange was co-founded in 2014 by entrepreneur and social media influencer Arthur Hayes.\n\nIn 2020, BitMEX was accused of failing to implement adequate anti-money laundering measures and later pleaded guilty to the charges."
+        "text": "IPO Edge and CorpGov will be conducting interviews from the floor of the New York Stock Exchange on July 28, 2026. We invite guests to join 15-minute fireside chats recorded in a multi camera high-definition television studio at the NYSE.\n\nAll content is published on our owned websites and syndicates instantly (under relevant company stock tickers) via formal agreements with Yahoo Finance, Bloomberg Terminals, Reuters via LSEG Workspace, and AlphaSense. We also publish social media video posts across major platforms like LinkedIn, X, Instagram, and TikTok."
       },
       "level2_keywords": [
         {
-          "word": "cryptocurrency exchange",
-          "ipa": "/ˌkrɪptoʊˈkɜːrənsi ɪksˈtʃeɪndʒ/",
-          "meaning": "虛擬貨幣交易所",
-          "example": "各位同學，Binance 是一家全球領先的「加密貨幣交易所」，這在財經界是個很重要的概念喔。"
+          "word": "IPO",
+          "ipa": "/aɪpʊ/",
+          "meaning": "公司上市",
+          "example": "這家公司將在今年夏季進行 IPO"
         },
         {
-          "word": "executive resignations",
-          "ipa": "/ɪɡˈzɛkjətɪv ˌrɛzɪɡˈneɪʃənz/",
-          "meaning": "高階主管辭職潮",
-          "example": "我們要注意，這波「高階主管辭職潮」往往會引發市場對公司未來發展的擔憂，影響股價表現。"
+          "word": "NYSE",
+          "ipa": "/naɪs/",
+          "meaning": "紐約證券交易所",
+          "example": "這家公司將在 NYSE 上市"
         },
         {
-          "word": "derivatives exchange",
-          "ipa": "/dɪˈrɪvətɪvz ɪksˈtʃeɪndʒ/",
-          "meaning": "衍生性商品交易所",
-          "example": "這句話在財經界的意思是，芝加哥商品交易所是全球最大的「衍生性商品交易所」之一，提供期貨和選擇權交易。"
+          "word": "fireside",
+          "ipa": "/faɪəraɪzd/",
+          "meaning": "小火灶下的對話",
+          "example": "這場會議將是小火灶下的對話"
         },
         {
-          "word": "put itself up for sale",
-          "ipa": "/pʊt ɪtˈsɛlf ʌp fɔr seɪl/",
-          "meaning": "求售；掛牌出售",
-          "example": "當一家公司「掛牌求售」時，通常意味著它可能面臨經營困境或策略轉型。"
+          "word": "interview",
+          "ipa": "/ɪntərˈviːw/",
+          "meaning": "採訪",
+          "example": "我們將與這位 CEO 进行採訪"
         },
         {
-          "word": "anti-money laundering (AML)",
-          "ipa": "/ˌæntaɪ ˈmʌni ˌlɔːndərɪŋ/",
-          "meaning": "反洗錢",
-          "example": "金融機構必須嚴格遵守「反洗錢」法規，這是為了打擊非法資金流動，維護金融秩序。"
+          "word": "stock",
+          "ipa": "/stʌk/",
+          "meaning": "股票",
+          "example": "公司的股票價格在市場上波動"
         }
       ],
-      "level2_context": "各位同學，這則新聞聚焦在曾經是全球領先的加密貨幣衍生品交易所 BitMEX。這家公司在 2020 年因未能有效實施反洗錢（AML）措施，遭到美國司法部起訴並最終認罪，這對其聲譽和業務造成了巨大打擊。這次高階主管（包含執行長和財務長）的集體辭職，加上公司先前已宣布求售卻乏人問津，都明確指出 BitMEX 正面臨嚴峻的經營挑戰。這反映出加密貨幣產業在快速發展的同時，也必須面對日益嚴格的監管壓力與激烈的市場競爭，稍有不慎就可能導致高階人才流失與業務困境。",
+      "level2_context": "\n這篇文章關於 IPO Edge 和 CorpGov 的會議安排，與我們對於公司上市和stock market 的理解有關。\n\nIPO Edge 是一家公司上市服務提供商，CorpGov 是一家企業治理服務提供商。這兩家公司將在紐約證券交易所進行 fireside chat，為投資人和企業提供採訪機會。\n\n這個事件對於stock market 的影響是什麼？該事件對於 IPO Edge 和 CorpGov 的未來發展有何意義？\n",
       "level3_translation": [
         {
-          "sentence": "Cryptocurrency exchange BitMEX has lost its chief executive officer (CEO) and chief financial officer (CFO) in a wave of executive resignations.",
-          "translation": "虛擬貨幣交易所 BitMEX 在這波高階主管辭職潮中，失去了其執行長（CEO）和財務長（CFO）。"
+          "sentence": "IPO Edge and CorpGov will be conducting interviews from the floor of the New York Stock Exchange on July 28, 2026.",
+          "translation": ""
         },
         {
-          "sentence": "Privately held BitMEX, which is a crypto derivatives exchange, said its Chief Growth Officer has also left the company effective immediately.",
-          "translation": "這家私人持有的加密貨幣衍生性商品交易所 BitMEX 表示，其首席成長官也已立即離職。"
+          "sentence": "We invite guests to join 15-minute fireside chats recorded in a multi camera high-definition television studio at the NYSE.",
+          "translation": ""
         },
         {
-          "sentence": "BitMEX is a troubled exchange that announced earlier this year that it was putting itself up for sale.",
-          "translation": "BitMEX 是一家問題重重的交易所，今年稍早曾宣布將自己掛牌求售。"
+          "sentence": "All content is published on our owned websites and syndicates instantly (under relevant company stock tickers) via formal agreements with Yahoo Finance, Bloomberg Terminals, Reuters via LSEG Workspace, and AlphaSense.",
+          "translation": ""
         },
         {
-          "sentence": "However, no buyers have emerged for the company.",
-          "translation": "然而，目前為止還沒有買家對這家公司表達收購意願。"
-        },
-        {
-          "sentence": "Eightco Secures $125 Million Investment From Bitmine And ARK Invest, Shares Surge",
-          "translation": "八方公司（Eightco）從 Bitmine 和 ARK Invest 獲得了 1.25 億美元的投資，股價應聲飆漲。"
-        },
-        {
-          "sentence": "Now, CEO Stephan Lutz, CFO Ina Steiner, and Chief Growth Officer Raphael Polansky have left BitMEX.",
-          "translation": "現在，執行長 Stephan Lutz、財務長 Ina Steiner 和首席成長官 Raphael Polansky 都已離開 BitMEX。"
-        },
-        {
-          "sentence": "The company said that former Chief Operating Officer (COO) Peter Wilkinson has taken over as CEO in the wake of the executive departures.",
-          "translation": "該公司表示，前營運長（COO）Peter Wilkinson 已在高階主管離職後接任執行長一職。"
-        },
-        {
-          "sentence": "The crypto exchange was co-founded in 2014 by entrepreneur and social media influencer Arthur Hayes.",
-          "translation": "這家加密貨幣交易所是由企業家兼社群媒體影響者 Arthur Hayes 於 2014 年共同創立的。"
-        },
-        {
-          "sentence": "In 2020, BitMEX was accused of failing to implement adequate anti-money laundering measures and later pleaded guilty to the charges.",
-          "translation": "2020 年，BitMEX 被指控未能實施足夠的反洗錢措施，隨後對這些指控認罪。"
+          "sentence": "We also publish social media video posts across major platforms like LinkedIn, X, Instagram, and TikTok.",
+          "translation": ""
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Speaker Johnson warns of 'desperate times' for Social Security — and Democrats say that means benefit cuts",
+      "title": "SpaceX’s AI Ambitions Could Rewrite Its Future — If It Can Stop the Bleeding",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/economy/policy/articles/speaker-johnson-warns-desperate-times-135119526.html",
+      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-ai-ambitions-could-rewrite-145215099.html",
       "level1_blind": {
-        "text": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\n\nRepublican Speaker of the House Mike Johnson recently set off a political firestorm on a highly sensitive topic: Social Security reform.\n\nDuring a June 8 appearance on a Louisiana radio show (1), Johnson said that more than 74% of federal spending runs \"on autopilot,\" pointing to entitlement programs like Medicare, Medicaid and Social Security as things that \"have to be adjusted and fixed.\" He added that Republicans \"have a plan to do that next year,\" citing the country's $40-trillion-plus debt and saying \"desperate times call for desperate measures,\" according to Newsweek (2).\n\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake — here's how to fix it ASAP\n\nJP Morgan sees gold hitting $6,000/oz before 2027 — and a Gold IRA lets you hold the physical metal while deferring the tax bill. Get your free guide from Priority Gold\n\nThe ultra-rich use these 6 real estate strategies to build wealth while they sleep — you can start with just $100\n\nThe comments drew swift criticism from Democrats, who argued that the administration is preparing to slash benefits for millions of Americans.\n\n\"Mike Johnson says Republicans have a plan to cut Social Security, Medicare, and Medicaid — after already passing the largest healthcare cut in history,\" Ken Martin, chairman of the Democratic National Committee, said on X (3). \"Higher costs, less healthcare. That's what Republicans are running on this November.\""
+        "text": "Artificial intelligence has investors rethinking how companies create value. Businesses once judged by hardware or software alone are increasingly building entire ecosystems spanning chips, cloud infrastructure, applications, and distribution. Few companies illustrate that shift better than SpaceX (SPCX).\n\nConsensus projections already call for extraordinary growth, but those estimates may underestimate how much the company is changing. At the same time, they may also underestimate the cost of getting there. For investors considering SpaceX's IPO, the real question is no longer whether revenue can grow, but whether profits can eventually catch up.\n\nAnalysts estimate revenue to climb from $18.67 billion in 2025—up from approximately $14 billion in 2024—to roughly $85 billion by 2028. That represents a 4.5-fold increase in just three years.\n\nThose forecasts, however, largely model SpaceX as the company investors already know: a launch provider supplemented by the fast-growing Starlink satellite internet business. But the company has already changed.\n\nSpaceX increasingly describes itself as an AI infrastructure company, not simply an aerospace business. Elon Musk has gone even further, predicting $1 trillion in annual revenue by 2030—a target that borders on science fiction today but underscores the company's ambitions.\n\nInterestingly, SpaceX's own IPO underwriters appear to be moving toward that view. Forecasts from Morgan Stanley and Goldman Sachs reportedly project approximately $330 billion and $322 billion in annual revenue, respectively, after incorporating recently announced AI infrastructure contracts, including roughly $26 billion in annualized data center leases with Alphabet's (GOOG) (GOOGL) Google and Anthropic. Those models reportedly expect AI cloud infrastructure and orbital data centers to contribute more than half of SpaceX's revenue by 2028.\n\nRevenue projections also changed following SpaceX's $60 billion acquisition of Cursor. The purchase gives the company something it previously lacked: an application-layer business. Instead of simply renting AI compute, SpaceX can potentially own the computing infrastructure, the software running on it, and the distribution platform through X.\n\nThat creates an unusually integrated business model. Launches finance Starlink's expansion. Starlink cash flow helps fund Starship. Starship eventually lowers launch costs, enabling the deployment of larger V3 satellites carrying roughly 10 times the downlink capacity of today's V2 satellites. Direct-to-cell service is expanding through partnerships with more than 30 wireless carriers across over 30 countries."
       },
       "level2_keywords": [
         {
-          "word": "Social Security reform",
-          "ipa": "/ˈsoʊʃəl sɪˈkjʊrəti rɪˈfɔrm/",
-          "meaning": "「社會安全制度改革」",
-          "example": "「政府正考慮對社會安全制度進行改革，以確保其長期永續性。」"
+          "word": "ecosystems",
+          "ipa": "/ˈiːkoʊˌsɪstəmz/",
+          "meaning": "指的是一個由多種產品、服務和合作夥伴組成的複雜網路，彼此互相支援，共同創造價值。在科技業，這通常意味著軟硬體、平台、應用程式等環環相扣的生態系。",
+          "example": "Apple's integrated hardware and software create a powerful user「ecosystem」."
         },
         {
-          "word": "entitlement programs",
-          "ipa": "/ɪnˈtaɪtlmənt ˈproʊɡræmz/",
-          "meaning": "「權利福利計畫」",
-          "example": "「美國的權利福利計畫，如社會安全和醫療保險，佔了聯邦預算很大一部分。」"
+          "word": "cloud infrastructure",
+          "ipa": "/klaʊd ˈɪnfrəˌstrʌktʃər/",
+          "meaning": "雲端基礎設施，指的是透過網路提供運算資源、儲存空間、網路服務等，讓企業或個人無需自行建置實體設備就能使用。",
+          "example": "Many startups rely on robust「cloud infrastructure」to scale their operations quickly."
         },
         {
-          "word": "federal spending",
-          "ipa": "/ˈfɛdərəl ˈspɛndɪŋ/",
-          "meaning": "「聯邦支出」",
-          "example": "「國會議員們正在討論如何控制不斷增長的聯邦支出。」"
+          "word": "orbital data centers",
+          "ipa": "/ˈɔːrbɪtəl ˈdeɪtə ˌsɛntərz/",
+          "meaning": "軌道資料中心，這是指將資料中心部署在地球軌道上的衛星或太空站，提供太空中的運算和儲存服務，可能用於太空探索、地球觀測或未來太空經濟。",
+          "example": "SpaceX's vision includes developing「orbital data centers」to support its ambitious AI projects."
         },
         {
-          "word": "debt",
-          "ipa": "/dɛt/",
-          "meaning": "「債務」",
-          "example": "「美國的國債已累積到驚人的數字，引發了對財政永續性的擔憂。」"
+          "word": "application-layer business",
+          "ipa": "/ˌæplɪˈkeɪʃən ˌleɪər ˈbɪznɪs/",
+          "meaning": "應用層業務，指的是提供直接面向終端用戶的軟體應用程式或服務，而非底層的硬體或基礎設施。",
+          "example": "Acquiring Cursor transformed SpaceX into an「application-layer business」, expanding its service offerings."
         },
         {
-          "word": "slash benefits",
-          "ipa": "/slæʃ ˈbɛnɪfɪts/",
-          "meaning": "「大幅削減福利」",
-          "example": "「民主黨警告，共和黨的提案可能會大幅削減數百萬美國人的社會安全福利。」"
+          "word": "downlink capacity",
+          "ipa": "/ˈdaʊnlɪŋk kəˈpæsɪti/",
+          "meaning": "下行傳輸容量，指的是從衛星或其他網路節點向用戶端傳輸資料的最大速率或總量，對於網路服務的速度和效率至關重要。",
+          "example": "The new V3 satellites will significantly increase「downlink capacity」, improving Starlink's internet speed."
         }
       ],
-      "level2_context": "各位同學，這則新聞談的是美國的『社會安全制度』，這是一個非常重要的社會福利計畫，提供退休金、殘障補助等。長期以來，由於人口老化和醫療成本上升，社會安全制度面臨資金不足的挑戰。共和黨通常傾向於透過改革來確保其永續性，這可能包括調整福利發放方式或提高退休年齡等。而民主黨則堅決反對任何形式的福利削減，認為這會傷害到廣大民眾。這次眾議院議長強生提到『絕望的時刻』，暗示可能需要採取大刀闊斧的措施來解決聯邦債務和社會安全問題，這立刻被民主黨解讀為共和黨準備『削減福利』，這在美國政治中是一個非常敏感且常見的議題，尤其是在選舉前夕，兩黨都會利用這個議題來爭取選民支持。",
+      "level2_context": "各位同學，這篇新聞揭示了 SpaceX 正在經歷一場重大的戰略轉型。過去我們可能只把 SpaceX 看作是一家火箭發射公司，或是提供衛星網路服務的 Starlink。但現在，它正積極將自己重新定位為一家「人工智慧基礎設施公司」。這背後的原因是，整個科技產業的價值創造模式正在改變，不再是單一產品的競爭，而是走向建立涵蓋晶片、雲端、應用程式和分銷的完整「生態系」。SpaceX 希望透過其火箭發射能力、Starlink 網路，甚至未來的「軌道資料中心」和應用層業務（例如收購 Cursor），來打造一個獨特的 AI 運算和服務平台。這不僅可能大幅提升其未來的營收潛力，也讓投資人開始用不同的眼光來評估這家公司的價值。不過，這條轉型之路也伴隨著巨大的投資和成本，所以新聞中也提到，獲利能否跟上營收成長，將是投資人關注的焦點。",
       "level3_translation": [
         {
-          "sentence": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.",
-          "translation": "「Moneywise 和 Yahoo Finance LLC 可能會透過下方內容中的連結賺取佣金或收益。」"
+          "sentence": "Artificial intelligence has investors rethinking how companies create value.",
+          "translation": "各位同學，人工智慧（AI）的崛起，正讓投資人重新思考企業創造價值的方式。"
         },
         {
-          "sentence": "Republican Speaker of the House Mike Johnson recently set off a political firestorm on a highly sensitive topic: Social Security reform.",
-          "translation": "「共和黨籍的眾議院議長麥克·強生，最近就一個高度敏感的議題：『社會安全制度改革』，引發了一場政治風暴。」"
+          "sentence": "Businesses once judged by hardware or software alone are increasingly building entire ecosystems spanning chips, cloud infrastructure, applications, and distribution.",
+          "translation": "過去只單純以硬體或軟體來評斷的公司，現在正越來越多地建立起涵蓋晶片、雲端基礎設施、應用程式和分銷通路的完整生態系。"
         },
         {
-          "sentence": "During a June 8 appearance on a Louisiana radio show (1), Johnson said that more than 74% of federal spending runs \"on autopilot,\" pointing to entitlement programs like Medicare, Medicaid and Social Security as things that \"have to be adjusted and fixed.\"",
-          "translation": "「強生在 6 月 8 日於路易斯安那州的一個廣播節目中表示，超過 74% 的聯邦支出是『自動運作』的，他指出像『醫療保險』(Medicare)、『醫療補助』(Medicaid) 和『社會安全』(Social Security) 這些權利福利計畫，都是『必須調整和修正』的項目。」"
+          "sentence": "Few companies illustrate that shift better than SpaceX (SPCX).",
+          "translation": "很少有公司能比 SpaceX (SPCX) 更好地說明這種產業轉變。"
         },
         {
-          "sentence": "He added that Republicans \"have a plan to do that next year,\" citing the country's $40-trillion-plus debt and saying \"desperate times call for desperate measures,\" according to Newsweek (2).",
-          "translation": "「根據《新聞週刊》(Newsweek) 報導，他補充說，共和黨『明年有計畫要這麼做』，並引述美國超過 40 兆美元的債務，表示『絕望的時刻需要絕望的措施』。」"
+          "sentence": "Consensus projections already call for extraordinary growth, but those estimates may underestimate how much the company is changing.",
+          "translation": "市場普遍的預期已經指出 SpaceX 將有非凡的成長，但這些預估可能低估了這家公司正在經歷的巨大轉變。"
         },
         {
-          "sentence": "Dave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake — here's how to fix it ASAP",
-          "translation": "「理財專家戴夫·蘭西 (Dave Ramsey) 警告，近 50% 的美國人正在犯一個重大的社會安全制度錯誤——以下是如何盡快修正的方法。」"
+          "sentence": "At the same time, they may also underestimate the cost of getting there.",
+          "translation": "同時，這些預估也可能低估了實現這些目標所需的成本。"
         },
         {
-          "sentence": "JP Morgan sees gold hitting $6,000/oz before 2027 — and a Gold IRA lets you hold the physical metal while deferring the tax bill. Get your free guide from Priority Gold",
-          "translation": "「摩根大通 (JP Morgan) 預計黃金在 2027 年前將達到每盎司 6,000 美元——而『黃金個人退休帳戶』(Gold IRA) 讓您在延遲繳稅的同時持有實體黃金。從 Priority Gold 獲取您的免費指南。」"
+          "sentence": "For investors considering SpaceX's IPO, the real question is no longer whether revenue can grow, but whether profits can eventually catch up.",
+          "translation": "對於考慮 SpaceX IPO 的投資人來說，真正的問題不再是營收能否成長，而是獲利能力最終能否跟上。"
         },
         {
-          "sentence": "The ultra-rich use these 6 real estate strategies to build wealth while they sleep — you can start with just $100",
-          "translation": "「超級富豪利用這 6 種房地產策略在睡夢中累積財富——您只需 100 美元即可開始。」"
+          "sentence": "Analysts estimate revenue to climb from $18.67 billion in 2025—up from approximately $14 billion in 2024—to roughly $85 billion by 2028.",
+          "translation": "分析師預計，SpaceX 的營收將從 2024 年的約 140 億美元，成長到 2025 年的 186.7 億美元，並在 2028 年達到約 850 億美元。"
         },
         {
-          "sentence": "The comments drew swift criticism from Democrats, who argued that the administration is preparing to slash benefits for millions of Americans.",
-          "translation": "「這些言論立即引發了民主黨的強烈批評，他們認為政府正準備大幅削減數百萬美國人的福利。」"
+          "sentence": "That represents a 4.5-fold increase in just three years.",
+          "translation": "這意味著在短短三年內，營收將成長 4.5 倍。"
         },
         {
-          "sentence": "\"Mike Johnson says Republicans have a plan to cut Social Security, Medicare, and Medicaid — after already passing the largest healthcare cut in history,\" Ken Martin, chairman of the Democratic National Committee, said on X (3).",
-          "translation": "「民主黨全國委員會主席肯·馬丁 (Ken Martin) 在 X (前稱 Twitter) 上表示：『麥克·強生說共和黨有計畫要削減社會安全、醫療保險和醫療補助——而且他們已經通過了史上最大的醫療保健削減案。』」"
+          "sentence": "Those forecasts, however, largely model SpaceX as the company investors already know: a launch provider supplemented by the fast-growing Starlink satellite internet business.",
+          "translation": "然而，這些預測大多將 SpaceX 視為投資人已經熟悉的模樣：一家以快速成長的星鏈（Starlink）衛星網路業務為輔助的火箭發射服務供應商。"
         },
         {
-          "sentence": "\"Higher costs, less healthcare. That's what Republicans are running on this November.\"",
-          "translation": "「『更高的成本，更少的醫療保健。這就是共和黨今年十一月選舉的主打政見。』」"
+          "sentence": "But the company has already changed.",
+          "translation": "但這家公司其實已經改變了。"
+        },
+        {
+          "sentence": "SpaceX increasingly describes itself as an AI infrastructure company, not simply an aerospace business.",
+          "translation": "SpaceX 正越來越多地將自己定位為一家人工智慧基礎設施公司，而不僅僅是傳統的航太企業。"
+        },
+        {
+          "sentence": "Elon Musk has gone even further, predicting $1 trillion in annual revenue by 2030—a target that borders on science fiction today but underscores the company's ambitions.",
+          "translation": "伊隆·馬斯克甚至更進一步，預測到 2030 年，年營收將達到 1 兆美元——這目標在今天看來幾乎是科幻小說情節，但卻突顯了這家公司的巨大野心。"
+        },
+        {
+          "sentence": "Interestingly, SpaceX's own IPO underwriters appear to be moving toward that view.",
+          "translation": "有趣的是，SpaceX 自己的 IPO 承銷商似乎也正朝著這個觀點靠攏。"
+        },
+        {
+          "sentence": "Forecasts from Morgan Stanley and Goldman Sachs reportedly project approximately $330 billion and $322 billion in annual revenue, respectively, after incorporating recently announced AI infrastructure contracts, including roughly $26 billion in annualized data center leases with Alphabet's (GOOG) (GOOGL) Google and Anthropic.",
+          "translation": "據報導，摩根士丹利（Morgan Stanley）和高盛（Goldman Sachs）的預測，在納入近期宣布的人工智慧基礎設施合約後，分別預計 SpaceX 的年營收將達到約 3300 億美元和 3220 億美元，其中包括與 Alphabet 旗下的 Google (GOOG) (GOOGL) 和 Anthropic 簽訂的約 260 億美元的年度資料中心租賃合約。"
+        },
+        {
+          "sentence": "Those models reportedly expect AI cloud infrastructure and orbital data centers to contribute more than half of SpaceX's revenue by 2028.",
+          "translation": "這些模型據稱預計，到 2028 年，人工智慧雲端基礎設施和軌道資料中心將貢獻 SpaceX 超過一半的營收。"
+        },
+        {
+          "sentence": "Revenue projections also changed following SpaceX's $60 billion acquisition of Cursor.",
+          "translation": "在 SpaceX 以 600 億美元收購 Cursor 後，營收預測也隨之改變。"
+        },
+        {
+          "sentence": "The purchase gives the company something it previously lacked: an application-layer business.",
+          "translation": "這次收購讓這家公司獲得了它以前所缺乏的東西：一個應用層業務。"
+        },
+        {
+          "sentence": "Instead of simply renting AI compute, SpaceX can potentially own the computing infrastructure, the software running on it, and the distribution platform through X.",
+          "translation": "SpaceX 不再只是單純租用 AI 運算資源，而是有潛力透過 X 平台，擁有運算基礎設施、運行在其上的軟體，以及分銷平台。"
+        },
+        {
+          "sentence": "That creates an unusually integrated business model.",
+          "translation": "這創造了一個異常整合的商業模式。"
+        },
+        {
+          "sentence": "Launches finance Starlink's expansion.",
+          "translation": "火箭發射業務為星鏈（Starlink）的擴張提供資金。"
+        },
+        {
+          "sentence": "Starlink cash flow helps fund Starship.",
+          "translation": "星鏈的現金流則有助於資助星艦（Starship）計畫。"
+        },
+        {
+          "sentence": "Starship eventually lowers launch costs, enabling the deployment of larger V3 satellites carrying roughly 10 times the downlink capacity of today's V2 satellites.",
+          "translation": "星艦最終將降低發射成本，從而能夠部署更大的 V3 衛星，這些衛星的下行傳輸容量大約是目前 V2 衛星的 10 倍。"
+        },
+        {
+          "sentence": "Direct-to-cell service is expanding through partnerships with more than 30 wireless carriers across over 30 countries.",
+          "translation": "直連手機服務正透過與全球 30 多個國家、超過 30 家無線通訊業者合作，持續擴展。"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "violence_connection": "今日台股數據揭示了一場資本市場的「暴力聯結」預演。儘管國際科技財經新聞在台灣時間下午才見報，但外資在7月1日盤中對特定標的的大舉佈局，已隱約透露出對全球產業趨勢的提前嗅覺。最引人注目的是，美商高盛與外資對面板雙雄友達、群創的積極買超，以及外資對聯電的淨買入，與投信對聯電的巨額賣出形成鮮明對比，這暗示著國際資金與本土法人對半導體成熟製程前景存在顯著分歧。然而，真正的「暴力聯結」可能潛藏在航太領域。當國際新聞揭露Rocket Lab以80億美元收購Iridium，帶動全球太空概念股飆漲時，台股外資已悄然買進漢翔。這並非巧合，而是國際資本對全球太空經濟整合與成長趨勢的提前卡位。儘管漢翔並非直接的衛星通訊公司，但其在航太供應鏈中的關鍵地位，使其成為全球太空產業熱潮的潛在受益者。外資的動作，或許正是預見了這股太空淘金熱潮將擴散至台灣相關供應鏈，提前進行戰略部署。這場資金的提前佈局，無疑是國際科技脈動與台股大戶籌碼之間，一場精準而深遠的跨市場聯結。"
+    "violence_connection": "今日台股大戶籌碼動向與國際科技新聞的暴力聯結，揭示了外資對未來AI基礎設施佈局的先知先覺。在7月2日的交易中，外資對聯電（2303）展現了驚人的買超力道，淨買入高達6587萬股，其中美商高盛單一分點就掃貨逾2300萬股，同時矽統（2363）、南茂（8150）、國巨（2327）等半導體及關鍵零組件股也獲外資青睞。這股強勁的買盤，與前一日（6月30日/7月1日）國際財經新聞中，SpaceX宣佈其正積極轉型為「AI基礎設施公司」，並預期其AI雲端基礎設施與軌道資料中心將貢獻巨額營收的報導，形成了極具說服力的時間差與邏輯串聯。\n\n顯然，部分具備全球視野的頂級外資，已將SpaceX的AI雄心視為半導體產業的下一個巨大催化劑。儘管SpaceX主要聚焦於美國市場，但其對AI晶片、伺服器、通訊模組等硬體的需求，必然會傳導至台灣這個全球半導體供應鏈的核心。聯電作為全球領先的晶圓代工廠，其在特殊製程、電源管理IC等領域的實力，正是支撐AI基礎設施不可或缺的一環。外資大戶的提前部署，正是在賭SpaceX的AI戰略將為台灣相關供應鏈帶來長期而可觀的訂單。這不僅是資訊的聯結，更是資本對未來科技趨勢的精準押注，預示著一場由太空科技巨頭引領的AI硬體新浪潮，正悄然席捲台股。"
   }
 }
