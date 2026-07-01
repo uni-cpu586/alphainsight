@@ -1,378 +1,378 @@
 {
-  "date": "2026-07-01",
-  "stock_market_date": "2026-06-30",
+  "date": "2026-07-02",
+  "stock_market_date": "2026-07-01",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 85499281
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 65873616
         },
         {
           "rank": 2,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_buy_shares": 53989045
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_buy_shares": 42426722
         },
         {
           "rank": 3,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_buy_shares": 49061944
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_buy_shares": 29531083
         },
         {
           "rank": 4,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 35205538
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_buy_shares": 27510116
         },
         {
           "rank": 5,
-          "stock_name": "中石化",
-          "ticker": "1314",
-          "net_buy_shares": 22423649
+          "stock_name": "矽統",
+          "ticker": "2363",
+          "net_buy_shares": 19230246
         },
         {
           "rank": 6,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 21210129
+          "stock_name": "國碩",
+          "ticker": "2406",
+          "net_buy_shares": 16837853
         },
         {
           "rank": 7,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 20819319
+          "stock_name": "南茂",
+          "ticker": "8150",
+          "net_buy_shares": 13827303
         },
         {
           "rank": 8,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_buy_shares": 18919407
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 13573409
         },
         {
           "rank": 9,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_buy_shares": 15836459
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 13398722
         },
         {
           "rank": 10,
-          "stock_name": "京元電子",
-          "ticker": "2449",
-          "net_buy_shares": 15739155
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_buy_shares": 13307232
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_sell_shares": -43106304
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -163160578
         },
         {
           "rank": 2,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -40486441
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_sell_shares": -90746752
         },
         {
           "rank": 3,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_sell_shares": -38244125
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_sell_shares": -82764365
         },
         {
           "rank": 4,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_sell_shares": -33188800
-        },
-        {
-          "rank": 5,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_sell_shares": -27091702
-        },
-        {
-          "rank": 6,
-          "stock_name": "台泥",
-          "ticker": "1101",
-          "net_sell_shares": -24046618
-        },
-        {
-          "rank": 7,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -21920097
-        },
-        {
-          "rank": 8,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_sell_shares": -20955044
-        },
-        {
-          "rank": 9,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -19909530
-        },
-        {
-          "rank": 10,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_sell_shares": -19768568
-        }
-      ],
-      "trust_buy": [
-        {
-          "rank": 1,
           "stock_name": "兆豐金",
           "ticker": "2886",
-          "net_buy_shares": 42223025
-        },
-        {
-          "rank": 2,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_buy_shares": 40518343
-        },
-        {
-          "rank": 3,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_buy_shares": 36854324
-        },
-        {
-          "rank": 4,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 29892000
+          "net_sell_shares": -56860968
         },
         {
           "rank": 5,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 27114069
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_sell_shares": -53579625
         },
         {
           "rank": 6,
           "stock_name": "華航",
           "ticker": "2610",
-          "net_buy_shares": 24011719
+          "net_sell_shares": -41398769
         },
         {
           "rank": 7,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 22357016
+          "stock_name": "大聯大",
+          "ticker": "3702",
+          "net_sell_shares": -29252000
         },
         {
           "rank": 8,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 21749000
+          "stock_name": "台泥",
+          "ticker": "1101",
+          "net_sell_shares": -26751833
         },
         {
           "rank": 9,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 11914466
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_sell_shares": -25230139
+        },
+        {
+          "rank": 10,
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_sell_shares": -25089257
+        }
+      ],
+      "trust_buy": [
+        {
+          "rank": 1,
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 98425000
+        },
+        {
+          "rank": 2,
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_buy_shares": 82885639
+        },
+        {
+          "rank": 3,
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 64186555
+        },
+        {
+          "rank": 4,
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 63471268
+        },
+        {
+          "rank": 5,
+          "stock_name": "大聯大",
+          "ticker": "3702",
+          "net_buy_shares": 29953623
+        },
+        {
+          "rank": 6,
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_buy_shares": 28016067
+        },
+        {
+          "rank": 7,
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 26847000
+        },
+        {
+          "rank": 8,
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 17711974
+        },
+        {
+          "rank": 9,
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 15307150
         },
         {
           "rank": 10,
           "stock_name": "微星",
           "ticker": "2377",
-          "net_buy_shares": 10243631
+          "net_buy_shares": 10981842
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -74092871
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_sell_shares": -52437852
         },
         {
           "rank": 2,
-          "stock_name": "亞泥",
-          "ticker": "1102",
-          "net_sell_shares": -14869617
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -44966991
         },
         {
           "rank": 3,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -10161445
+          "stock_name": "寶成",
+          "ticker": "9904",
+          "net_sell_shares": -35824892
         },
         {
           "rank": 4,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -8933000
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_sell_shares": -30750476
         },
         {
           "rank": 5,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_sell_shares": -7946206
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_sell_shares": -16352308
         },
         {
           "rank": 6,
-          "stock_name": "寶成",
-          "ticker": "9904",
-          "net_sell_shares": -5994982
+          "stock_name": "文曄",
+          "ticker": "3036",
+          "net_sell_shares": -10124931
         },
         {
           "rank": 7,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_sell_shares": -5952420
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -9811573
         },
         {
           "rank": 8,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -4196803
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_sell_shares": -8684000
         },
         {
           "rank": 9,
-          "stock_name": "統一實",
-          "ticker": "9907",
-          "net_sell_shares": -3713797
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_sell_shares": -8377667
         },
         {
           "rank": 10,
-          "stock_name": "群益證",
-          "ticker": "6005",
-          "net_sell_shares": -3001611
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_sell_shares": -7713642
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 4938000
-        },
-        {
-          "rank": 2,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 3718000
-        },
-        {
-          "rank": 3,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 2931995
-        },
-        {
-          "rank": 4,
           "stock_name": "聯電",
           "ticker": "2303",
-          "net_buy_shares": 2274004
-        },
-        {
-          "rank": 5,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_buy_shares": 1987000
-        },
-        {
-          "rank": 6,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 1566934
-        },
-        {
-          "rank": 7,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 1451728
-        },
-        {
-          "rank": 8,
-          "stock_name": "三商壽",
-          "ticker": "2867",
-          "net_buy_shares": 1259000
-        },
-        {
-          "rank": 9,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 1152356
-        },
-        {
-          "rank": 10,
-          "stock_name": "亞泥",
-          "ticker": "1102",
-          "net_buy_shares": 1095230
-        }
-      ],
-      "dealer_sell": [
-        {
-          "rank": 1,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_sell_shares": -4741090
+          "net_buy_shares": 4932000
         },
         {
           "rank": 2,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -2182648
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 2133807
         },
         {
           "rank": 3,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_sell_shares": -737773
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_buy_shares": 2068391
         },
         {
           "rank": 4,
           "stock_name": "中纖",
           "ticker": "1718",
-          "net_sell_shares": -503065
+          "net_buy_shares": 1843580
         },
         {
           "rank": 5,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -445000
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_buy_shares": 1365525
         },
         {
           "rank": 6,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_sell_shares": -340090
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_buy_shares": 971020
         },
         {
           "rank": 7,
-          "stock_name": "環泥",
-          "ticker": "1104",
-          "net_sell_shares": -338472
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_buy_shares": 878000
         },
         {
           "rank": 8,
-          "stock_name": "大東電",
-          "ticker": "1623",
-          "net_sell_shares": -235000
+          "stock_name": "聯嘉投控",
+          "ticker": "3717",
+          "net_buy_shares": 877000
+        },
+        {
+          "rank": 9,
+          "stock_name": "同欣電",
+          "ticker": "6271",
+          "net_buy_shares": 823495
+        },
+        {
+          "rank": 10,
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 670000
+        }
+      ],
+      "dealer_sell": [
+        {
+          "rank": 1,
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_sell_shares": -5070975
+        },
+        {
+          "rank": 2,
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -2894995
+        },
+        {
+          "rank": 3,
+          "stock_name": "長榮",
+          "ticker": "2603",
+          "net_sell_shares": -2431000
+        },
+        {
+          "rank": 4,
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -2351583
+        },
+        {
+          "rank": 5,
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -1425985
+        },
+        {
+          "rank": 6,
+          "stock_name": "華碩",
+          "ticker": "2357",
+          "net_sell_shares": -1322438
+        },
+        {
+          "rank": 7,
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_sell_shares": -1298325
+        },
+        {
+          "rank": 8,
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -978010
         },
         {
           "rank": 9,
           "stock_name": "大聯大",
           "ticker": "3702",
-          "net_sell_shares": -198000
+          "net_sell_shares": -911262
         },
         {
           "rank": 10,
-          "stock_name": "聯嘉投控",
-          "ticker": "3717",
-          "net_sell_shares": -197016
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_sell_shares": -875169
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "友達",
-        "shares": 29924748
+        "target": "聯電",
+        "shares": 23055765
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "群創",
-        "shares": 1975200
+        "target": "聯電",
+        "shares": 1972800
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "兆豐金",
-        "shares": 19000361
+        "target": "第一金",
+        "shares": 44291250
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "中鋼",
-        "shares": 12931891
+        "target": "友達",
+        "shares": 48948173
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Rocket Lab Soars 12% on $8 Billion Iridium Takeover, AST SpaceMobile and Planet Labs Rise 10%",
+      "title": "Former retail giant closed over 1,000 locations",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-soars-12-8-134628966.html",
-      "summary": "Rocket Lab Soars 12% on $8 Billion Iridium Takeover, AST SpaceMobile and Planet Labs Rise 10%",
-      "full_text": "Rocket Lab's $8 billion Iridium acquisition lifted RKLB 12% and helped push ASTS and PL up 10%, recovering part of a ~45% prior-month selloff.\n\nRKLB and ASTS carry high betas so volatility is a concern, and the Rocket Lab deal still needs shareholder and regulatory approval before a mid-2027 close.\n\nAct now: the analyst who called NVIDIA in 2010 just named his top 10 AI stocks — and Rocket Lab didn't make the cut. Grab the names FREE today.\n\nSpace stocks are catching a bid Monday morning after Rocket Lab (NASDAQ:RKLB) unveiled a definitive agreement to acquire Iridium Communications (NASDAQ:IRDM) in a cash-and-stock deal carrying an enterprise value of approximately $8 billion. Rocket Lab stock is up 12% to $95 in early trading.\n\nThe deal validates consolidation across the satellite economy, and peers are riding the momentum. AST SpaceMobile (NASDAQ:ASTS) stock is up 10% to $78 and change, while Planet Labs (NYSE:PL) stock is up 10% to $29.90.\n\nThe rally cuts against a brutal stretch for the group. Rocket Lab stock had fallen 44% over the prior month, while Planet Labs stock was down 46% and AST SpaceMobile stock was down 45% over the same window. Today's gains are starting to repair some of that damage.\n\nUnder the terms, Iridium holders will receive $54 per share, consisting of $27 in cash plus Rocket Lab common stock based on an exchange ratio with a collar banded from $67.50 to $112.50. Both boards have unanimously approved the transaction, which is expected to close in mid-2027.\n\nAct now: the analyst who called NVIDIA in 2010 just named his top 10 AI stocks — and Rocket Lab didn't make the cut. Grab the names FREE today.",
-      "published": "2026-06-29T13:46:28Z"
+      "link": "https://finance.yahoo.com/small-business/articles/former-retail-giant-closed-over-150700944.html",
+      "summary": "Former retail giant closed over 1,000 locations",
+      "full_text": "Some forms of retail work better in a brick-and-mortar store than they do online.\n\nClothing and footwear, for example, benefits from the ability to try the items on. Even people who wear the same size across multiple brands sometime put on an outfit, a pair of sneakers, or some fancy shoes only to find that they don't fit right.\n\nThe internet shines, however, on items that don't need to be held, touched, or tried on. That has made some retailers more vulnerable than others.\n\nOffice supply chains, which includes Office Depot and Staples, have been in a slow, steady decline.\n\n\"Office supply stores as a sector employ some 60,000 people and bring in $10.3 billion in revenue in the U.S., which is projected to decline roughly 2% a year through 2026, according to research firm IBISWorld.\n\nThat has led to Office Depot closing more than half its stores since 2013, a process that has continued with the chain's most recent shutdowns.\n\nOffice Depot merged with Office Max in 2013, with the combined chain operating about 1,900 U.S. stores following the merger, according to the Dallas Morning News.\n\nAt the time of the deal, the two companies said they planned to close 400 stores. The industry was already in decline, according to FOX Business.",
+      "published": "2026-07-01T15:07:00Z"
     },
     {
       "id": "news_2",
-      "title": "BitMEX CEO And CFO Resign From The Crypto Exchange",
+      "title": "IPO Edge NYSE Firesides Scheduled for July 28",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitmex-ceo-cfo-resign-crypto-134800710.html",
-      "summary": "BitMEX CEO And CFO Resign From The Crypto Exchange",
-      "full_text": "Cryptocurrency exchange BitMEX has lost its chief executive officer (CEO) and chief financial officer (CFO) in a wave of executive resignations.\n\nPrivately held BitMEX, which is a crypto derivatives exchange, said its Chief Growth Officer has also left the company effective immediately.\n\nBitMEX is a troubled exchange that announced earlier this year that it was putting itself up for sale. However, no buyers have emerged for the company.\n\nEightco Secures $125 Million Investment From Bitmine And ARK Invest, Shares Surge\n\nNow, CEO Stephan Lutz, CFO Ina Steiner, and Chief Growth Officer Raphael Polansky have left BitMEX.\n\nThe company said that former Chief Operating Officer (COO) Peter Wilkinson has taken over as CEO in the wake of the executive departures.\n\nThe crypto exchange was co-founded in 2014 by entrepreneur and social media influencer Arthur Hayes.\n\nIn 2020, BitMEX was accused of failing to implement adequate anti-money laundering measures and later pleaded guilty to the charges.",
-      "published": "2026-06-29T13:48:00Z"
+      "link": "https://finance.yahoo.com/news/ipo-edge-nyse-firesides-scheduled-211107368.html",
+      "summary": "IPO Edge NYSE Firesides Scheduled for July 28",
+      "full_text": "IPO Edge and CorpGov will be conducting interviews from the floor of the New York Stock Exchange on July 28, 2026. We invite guests to join 15-minute fireside chats recorded in a multi camera high-definition television studio at the NYSE.\n\nAll content is published on our owned websites and syndicates instantly (under relevant company stock tickers) via formal agreements with Yahoo Finance, Bloomberg Terminals, Reuters via LSEG Workspace, and AlphaSense. We also publish social media video posts across major platforms like LinkedIn, X, Instagram, and TikTok.",
+      "published": "2026-06-30T15:00:07Z"
     },
     {
       "id": "news_3",
-      "title": "Speaker Johnson warns of 'desperate times' for Social Security — and Democrats say that means benefit cuts",
+      "title": "SpaceX’s AI Ambitions Could Rewrite Its Future — If It Can Stop the Bleeding",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/economy/policy/articles/speaker-johnson-warns-desperate-times-135119526.html",
-      "summary": "Speaker Johnson warns of 'desperate times' for Social Security — and Democrats say that means benefit cuts",
-      "full_text": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\n\nRepublican Speaker of the House Mike Johnson recently set off a political firestorm on a highly sensitive topic: Social Security reform.\n\nDuring a June 8 appearance on a Louisiana radio show (1), Johnson said that more than 74% of federal spending runs \"on autopilot,\" pointing to entitlement programs like Medicare, Medicaid and Social Security as things that \"have to be adjusted and fixed.\" He added that Republicans \"have a plan to do that next year,\" citing the country's $40-trillion-plus debt and saying \"desperate times call for desperate measures,\" according to Newsweek (2).\n\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake — here's how to fix it ASAP\n\nJP Morgan sees gold hitting $6,000/oz before 2027 — and a Gold IRA lets you hold the physical metal while deferring the tax bill. Get your free guide from Priority Gold\n\nThe ultra-rich use these 6 real estate strategies to build wealth while they sleep — you can start with just $100\n\nThe comments drew swift criticism from Democrats, who argued that the administration is preparing to slash benefits for millions of Americans.\n\n\"Mike Johnson says Republicans have a plan to cut Social Security, Medicare, and Medicaid — after already passing the largest healthcare cut in history,\" Ken Martin, chairman of the Democratic National Committee, said on X (3). \"Higher costs, less healthcare. That's what Republicans are running on this November.\"",
-      "published": "2026-06-29T13:51:19Z"
+      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-ai-ambitions-could-rewrite-145215099.html",
+      "summary": "SpaceX’s AI Ambitions Could Rewrite Its Future — If It Can Stop the Bleeding",
+      "full_text": "Artificial intelligence has investors rethinking how companies create value. Businesses once judged by hardware or software alone are increasingly building entire ecosystems spanning chips, cloud infrastructure, applications, and distribution. Few companies illustrate that shift better than SpaceX (SPCX).\n\nConsensus projections already call for extraordinary growth, but those estimates may underestimate how much the company is changing. At the same time, they may also underestimate the cost of getting there. For investors considering SpaceX's IPO, the real question is no longer whether revenue can grow, but whether profits can eventually catch up.\n\nAnalysts estimate revenue to climb from $18.67 billion in 2025—up from approximately $14 billion in 2024—to roughly $85 billion by 2028. That represents a 4.5-fold increase in just three years.\n\nThose forecasts, however, largely model SpaceX as the company investors already know: a launch provider supplemented by the fast-growing Starlink satellite internet business. But the company has already changed.\n\nSpaceX increasingly describes itself as an AI infrastructure company, not simply an aerospace business. Elon Musk has gone even further, predicting $1 trillion in annual revenue by 2030—a target that borders on science fiction today but underscores the company's ambitions.\n\nInterestingly, SpaceX's own IPO underwriters appear to be moving toward that view. Forecasts from Morgan Stanley and Goldman Sachs reportedly project approximately $330 billion and $322 billion in annual revenue, respectively, after incorporating recently announced AI infrastructure contracts, including roughly $26 billion in annualized data center leases with Alphabet's (GOOG) (GOOGL) Google and Anthropic. Those models reportedly expect AI cloud infrastructure and orbital data centers to contribute more than half of SpaceX's revenue by 2028.\n\nRevenue projections also changed following SpaceX's $60 billion acquisition of Cursor. The purchase gives the company something it previously lacked: an application-layer business. Instead of simply renting AI compute, SpaceX can potentially own the computing infrastructure, the software running on it, and the distribution platform through X.\n\nThat creates an unusually integrated business model. Launches finance Starlink's expansion. Starlink cash flow helps fund Starship. Starship eventually lowers launch costs, enabling the deployment of larger V3 satellites carrying roughly 10 times the downlink capacity of today's V2 satellites. Direct-to-cell service is expanding through partnerships with more than 30 wireless carriers across over 30 countries.",
+      "published": "2026-06-30T14:52:15Z"
     }
   ]
 }
