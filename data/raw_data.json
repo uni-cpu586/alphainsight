@@ -1,378 +1,378 @@
 {
-  "date": "2026-07-02",
-  "stock_market_date": "2026-07-01",
+  "date": "2026-07-04",
+  "stock_market_date": "2026-07-03",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 65873616
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 47477669
         },
         {
           "rank": 2,
-          "stock_name": "亞泥",
-          "ticker": "1102",
-          "net_buy_shares": 42426722
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 35293240
         },
         {
           "rank": 3,
-          "stock_name": "富邦金",
-          "ticker": "2881",
-          "net_buy_shares": 29531083
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_buy_shares": 34370938
         },
         {
           "rank": 4,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_buy_shares": 27510116
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 24649041
         },
         {
           "rank": 5,
-          "stock_name": "矽統",
-          "ticker": "2363",
-          "net_buy_shares": 19230246
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_buy_shares": 19913948
         },
         {
           "rank": 6,
-          "stock_name": "國碩",
-          "ticker": "2406",
-          "net_buy_shares": 16837853
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 14073484
         },
         {
           "rank": 7,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_buy_shares": 13827303
+          "stock_name": "長興",
+          "ticker": "1717",
+          "net_buy_shares": 13846061
         },
         {
           "rank": 8,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 13573409
+          "stock_name": "正新",
+          "ticker": "2105",
+          "net_buy_shares": 13642826
         },
         {
           "rank": 9,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 13398722
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 13479338
         },
         {
           "rank": 10,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_buy_shares": 13307232
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_buy_shares": 12931771
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -163160578
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -57891954
         },
         {
           "rank": 2,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_sell_shares": -90746752
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -22901765
         },
         {
           "rank": 3,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_sell_shares": -82764365
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -19986289
         },
         {
           "rank": 4,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_sell_shares": -56860968
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_sell_shares": -18337641
         },
         {
           "rank": 5,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_sell_shares": -53579625
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_sell_shares": -17406251
         },
         {
           "rank": 6,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_sell_shares": -41398769
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -15106515
         },
         {
           "rank": 7,
-          "stock_name": "大聯大",
-          "ticker": "3702",
-          "net_sell_shares": -29252000
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_sell_shares": -15032607
         },
         {
           "rank": 8,
-          "stock_name": "台泥",
-          "ticker": "1101",
-          "net_sell_shares": -26751833
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_sell_shares": -14987621
         },
         {
           "rank": 9,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_sell_shares": -25230139
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_sell_shares": -13961464
         },
         {
           "rank": 10,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_sell_shares": -25089257
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -12536525
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 98425000
+          "stock_name": "佳世達",
+          "ticker": "2352",
+          "net_buy_shares": 5922000
         },
         {
           "rank": 2,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_buy_shares": 82885639
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 5576491
         },
         {
           "rank": 3,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 64186555
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 4735325
         },
         {
           "rank": 4,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_buy_shares": 63471268
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 4672449
         },
         {
           "rank": 5,
-          "stock_name": "大聯大",
-          "ticker": "3702",
-          "net_buy_shares": 29953623
+          "stock_name": "至上",
+          "ticker": "8112",
+          "net_buy_shares": 4579000
         },
         {
           "rank": 6,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_buy_shares": 28016067
+          "stock_name": "台灣大",
+          "ticker": "3045",
+          "net_buy_shares": 4558075
         },
         {
           "rank": 7,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 26847000
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_buy_shares": 4536916
         },
         {
           "rank": 8,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 17711974
+          "stock_name": "神達",
+          "ticker": "3706",
+          "net_buy_shares": 4257000
         },
         {
           "rank": 9,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 15307150
+          "stock_name": "聯強",
+          "ticker": "2347",
+          "net_buy_shares": 3997104
         },
         {
           "rank": 10,
-          "stock_name": "微星",
-          "ticker": "2377",
-          "net_buy_shares": 10981842
+          "stock_name": "英業達",
+          "ticker": "2356",
+          "net_buy_shares": 3872599
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "亞泥",
-          "ticker": "1102",
-          "net_sell_shares": -52437852
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -18105522
         },
         {
           "rank": 2,
           "stock_name": "聯電",
           "ticker": "2303",
-          "net_sell_shares": -44966991
+          "net_sell_shares": -12952460
         },
         {
           "rank": 3,
-          "stock_name": "寶成",
-          "ticker": "9904",
-          "net_sell_shares": -35824892
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_sell_shares": -9399608
         },
         {
           "rank": 4,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_sell_shares": -30750476
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_sell_shares": -8718676
         },
         {
           "rank": 5,
-          "stock_name": "富邦金",
-          "ticker": "2881",
-          "net_sell_shares": -16352308
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_sell_shares": -6390682
         },
         {
           "rank": 6,
-          "stock_name": "文曄",
-          "ticker": "3036",
-          "net_sell_shares": -10124931
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_sell_shares": -3892544
         },
         {
           "rank": 7,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -9811573
+          "stock_name": "群益證",
+          "ticker": "6005",
+          "net_sell_shares": -3553189
         },
         {
           "rank": 8,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -8684000
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -3321305
         },
         {
           "rank": 9,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_sell_shares": -8377667
+          "stock_name": "和碩",
+          "ticker": "4938",
+          "net_sell_shares": -3319096
         },
         {
           "rank": 10,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_sell_shares": -7713642
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -3026000
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 4932000
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_buy_shares": 3194897
         },
         {
           "rank": 2,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 2133807
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 1719321
         },
         {
           "rank": 3,
-          "stock_name": "亞泥",
-          "ticker": "1102",
-          "net_buy_shares": 2068391
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 1519000
         },
         {
           "rank": 4,
-          "stock_name": "中纖",
-          "ticker": "1718",
-          "net_buy_shares": 1843580
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_buy_shares": 1225161
         },
         {
           "rank": 5,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_buy_shares": 1365525
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 1044884
         },
         {
           "rank": 6,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_buy_shares": 971020
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 907000
         },
         {
           "rank": 7,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_buy_shares": 878000
+          "stock_name": "陽明",
+          "ticker": "2609",
+          "net_buy_shares": 872878
         },
         {
           "rank": 8,
-          "stock_name": "聯嘉投控",
-          "ticker": "3717",
-          "net_buy_shares": 877000
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 734000
         },
         {
           "rank": 9,
-          "stock_name": "同欣電",
-          "ticker": "6271",
-          "net_buy_shares": 823495
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_buy_shares": 631815
         },
         {
           "rank": 10,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 670000
+          "stock_name": "聯茂",
+          "ticker": "6213",
+          "net_buy_shares": 571864
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_sell_shares": -5070975
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -1573000
         },
         {
           "rank": 2,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -2894995
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_sell_shares": -647264
         },
         {
           "rank": 3,
-          "stock_name": "長榮",
-          "ticker": "2603",
-          "net_sell_shares": -2431000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -645000
         },
         {
           "rank": 4,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -2351583
+          "stock_name": "至上",
+          "ticker": "8112",
+          "net_sell_shares": -511931
         },
         {
           "rank": 5,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -1425985
+          "stock_name": "同欣電",
+          "ticker": "6271",
+          "net_sell_shares": -430320
         },
         {
           "rank": 6,
-          "stock_name": "華碩",
-          "ticker": "2357",
-          "net_sell_shares": -1322438
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -402000
         },
         {
           "rank": 7,
-          "stock_name": "富邦金",
-          "ticker": "2881",
-          "net_sell_shares": -1298325
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_sell_shares": -373000
         },
         {
           "rank": 8,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -978010
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_sell_shares": -331000
         },
         {
           "rank": 9,
-          "stock_name": "大聯大",
-          "ticker": "3702",
-          "net_sell_shares": -911262
+          "stock_name": "新唐",
+          "ticker": "4919",
+          "net_sell_shares": -320999
         },
         {
           "rank": 10,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_sell_shares": -875169
+          "stock_name": "大聯大",
+          "ticker": "3702",
+          "net_sell_shares": -294000
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "聯電",
-        "shares": 23055765
+        "target": "台新新光金",
+        "shares": 16617184
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "聯電",
-        "shares": 1972800
+        "target": "富邦科技",
+        "shares": 1277958
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "第一金",
-        "shares": 44291250
+        "target": "佳世達",
+        "shares": 2664900
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "友達",
-        "shares": 48948173
+        "target": "群創",
+        "shares": 17367586
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Former retail giant closed over 1,000 locations",
+      "title": "Forget the Retail Tech Glitz: I Am Loading Up on This Unassailable Enterprise Cash Cow",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/former-retail-giant-closed-over-150700944.html",
-      "summary": "Former retail giant closed over 1,000 locations",
-      "full_text": "Some forms of retail work better in a brick-and-mortar store than they do online.\n\nClothing and footwear, for example, benefits from the ability to try the items on. Even people who wear the same size across multiple brands sometime put on an outfit, a pair of sneakers, or some fancy shoes only to find that they don't fit right.\n\nThe internet shines, however, on items that don't need to be held, touched, or tried on. That has made some retailers more vulnerable than others.\n\nOffice supply chains, which includes Office Depot and Staples, have been in a slow, steady decline.\n\n\"Office supply stores as a sector employ some 60,000 people and bring in $10.3 billion in revenue in the U.S., which is projected to decline roughly 2% a year through 2026, according to research firm IBISWorld.\n\nThat has led to Office Depot closing more than half its stores since 2013, a process that has continued with the chain's most recent shutdowns.\n\nOffice Depot merged with Office Max in 2013, with the combined chain operating about 1,900 U.S. stores following the merger, according to the Dallas Morning News.\n\nAt the time of the deal, the two companies said they planned to close 400 stores. The industry was already in decline, according to FOX Business.",
-      "published": "2026-07-01T15:07:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/forget-retail-tech-glitz-am-151844766.html",
+      "summary": "Forget the Retail Tech Glitz: I Am Loading Up on This Unassailable Enterprise Cash Cow",
+      "full_text": "MSFT's Azure grew 40% and AI revenue hit a $37 billion annualized run rate while the stock trades at just 19 times forward earnings.\n\nCapex nearly doubled to $31 billion, but operating cash flow grew 26% as Microsoft's customers fund the AI buildout in real time.\n\nThirteen board members bought shares during the June dip, and commercial backlog surged 99% to $627 billion, locking in years of contracted revenue.\n\nAct now: the analyst who called NVIDIA in 2010 just named his top 10 AI stocks — and Microsoft didn't make the cut. Grab the names FREE today.\n\nI keep hitting the buy button on Microsoft (NASDAQ:MSFT), and the June selloff only made me press it harder. When the tape dragged this stock down to $373 in June while the underlying business printed 18.3% revenue growth, my thesis stopped being a thesis and started feeling like a gift. I own this for the next twenty years of retirement income, through many cycles of noisy headlines.\n\nWhat pulls me back is boring in the best way. Microsoft sells the plumbing every enterprise on earth now depends on: Windows, Office 365, Azure, GitHub, Dynamics, LinkedIn. Companies do not rip that stack out during a recession. They renew it, expand it, and pay more for it every cycle. That is the cash-flow utility I want anchoring my portfolio.\n\nFirst, the operational reality is running in the opposite direction of the stock chart. Q3 FY26 delivered EPS of $4.27 against a $4.07 estimate, the fourth consecutive beat, on $82.89 billion in revenue. Intelligent Cloud grew 30%, Azure grew 40%, and the AI business now runs at a $37 billion annualized rate, up 123% year over year. Alpha Vantage shows 12 consecutive quarterly beats and an 83.8% beat rate across 130 quarters. That is a compounding machine.\n\nAct now: the analyst who called NVIDIA in 2010 just named his top 10 AI stocks — and Microsoft didn't make the cut. Grab the names FREE today.",
+      "published": "2026-07-02T15:18:44Z"
     },
     {
       "id": "news_2",
-      "title": "IPO Edge NYSE Firesides Scheduled for July 28",
+      "title": "Stock Indexes Turn Mixed as Chipmakers Sink",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/news/ipo-edge-nyse-firesides-scheduled-211107368.html",
-      "summary": "IPO Edge NYSE Firesides Scheduled for July 28",
-      "full_text": "IPO Edge and CorpGov will be conducting interviews from the floor of the New York Stock Exchange on July 28, 2026. We invite guests to join 15-minute fireside chats recorded in a multi camera high-definition television studio at the NYSE.\n\nAll content is published on our owned websites and syndicates instantly (under relevant company stock tickers) via formal agreements with Yahoo Finance, Bloomberg Terminals, Reuters via LSEG Workspace, and AlphaSense. We also publish social media video posts across major platforms like LinkedIn, X, Instagram, and TikTok.",
-      "published": "2026-06-30T15:00:07Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-indexes-turn-mixed-chipmakers-151823193.html",
+      "summary": "Stock Indexes Turn Mixed as Chipmakers Sink",
+      "full_text": "The S&P 500 Index ($SPX) (SPY) is up +0.10% today, the Dow Jones Industrial Average ($DOWI) (DIA) is up +0.85%, and the Nasdaq 100 Index ($IUXX) (QQQ) is down -0.92%.  September E-mini S&P futures (ESU26) are up +0.08%, and September E-mini Nasdaq futures (NQU26) are down -1.03%.\n\nStock indexes are mixed today, with the S&P 500 posting a 2-week high and the Dow Jones Industrials posting a new all-time high.  The broader market has support today after a slower-than-expected increase in US nonfarm payrolls knocked bond yields lower and bolstered speculation that the Fed will be unable to raise interest rates any time soon.  US hiring slowed sharply in June and was revised lower in May even as the unemployment rate fell to a 1-year low.\n\nCEO Phong Le Bought 11,000 Shares of MicroStrategy Preferred Stock as STRC Hit All-Time Lows\n\nHowever, stock gains are muted today, and the Nasdaq 100 is in negative territory amid weakness in chipmakers and AI-infrastructure stocks for a second session.  South Korea's Kospi Index fell more than -7% to a 3-week low, led by a plunge in SK Hynix and Samsung Electronics on renewed doubts over the sustainability of the AI buildout boom.  The losses in South Korean chipmakers come amid negative carryover from Wednesday, when Meta Platforms said it plans to sell computing power, raising questions about excess AI capacity.\n\nUS Jun nonfarm payrolls rose +57,000, weaker than expectations of +113,000, and May nonfarm payrolls were revised lower to +129,000 from the originally reported +172,000.  The Jun unemployment rate unexpectedly fell -0.1 to a 1-year low of 4.2%, signaling a stronger labor market than expectations of no change at 4.3%.\n\nUS Jan average hourly earnings rose +0.3% m/m and +3.5% y/y, right on expectations.\n\nUS weekly initial unemployment claims unexpectedly fell -1,000 to 215,000, showing a stronger labor market than expectations of an increase to 218,000.\n\nUS May factory orders fell -1.3% m/m, a smaller decline than expectations of -2.0% m/m.  Also, May factory orders ex-transportation rose +1.9% m/m, stronger than expectations of +1.0% m/m and the biggest increase in more than 4 years.",
+      "published": "2026-07-02T15:18:23Z"
     },
     {
       "id": "news_3",
-      "title": "SpaceX’s AI Ambitions Could Rewrite Its Future — If It Can Stop the Bleeding",
+      "title": "This Global Utility Stock Looks Very Cheap Right Now as It Invests Nearly $2 Billion in the U.S. Energy Buildout",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-ai-ambitions-could-rewrite-145215099.html",
-      "summary": "SpaceX’s AI Ambitions Could Rewrite Its Future — If It Can Stop the Bleeding",
-      "full_text": "Artificial intelligence has investors rethinking how companies create value. Businesses once judged by hardware or software alone are increasingly building entire ecosystems spanning chips, cloud infrastructure, applications, and distribution. Few companies illustrate that shift better than SpaceX (SPCX).\n\nConsensus projections already call for extraordinary growth, but those estimates may underestimate how much the company is changing. At the same time, they may also underestimate the cost of getting there. For investors considering SpaceX's IPO, the real question is no longer whether revenue can grow, but whether profits can eventually catch up.\n\nAnalysts estimate revenue to climb from $18.67 billion in 2025—up from approximately $14 billion in 2024—to roughly $85 billion by 2028. That represents a 4.5-fold increase in just three years.\n\nThose forecasts, however, largely model SpaceX as the company investors already know: a launch provider supplemented by the fast-growing Starlink satellite internet business. But the company has already changed.\n\nSpaceX increasingly describes itself as an AI infrastructure company, not simply an aerospace business. Elon Musk has gone even further, predicting $1 trillion in annual revenue by 2030—a target that borders on science fiction today but underscores the company's ambitions.\n\nInterestingly, SpaceX's own IPO underwriters appear to be moving toward that view. Forecasts from Morgan Stanley and Goldman Sachs reportedly project approximately $330 billion and $322 billion in annual revenue, respectively, after incorporating recently announced AI infrastructure contracts, including roughly $26 billion in annualized data center leases with Alphabet's (GOOG) (GOOGL) Google and Anthropic. Those models reportedly expect AI cloud infrastructure and orbital data centers to contribute more than half of SpaceX's revenue by 2028.\n\nRevenue projections also changed following SpaceX's $60 billion acquisition of Cursor. The purchase gives the company something it previously lacked: an application-layer business. Instead of simply renting AI compute, SpaceX can potentially own the computing infrastructure, the software running on it, and the distribution platform through X.\n\nThat creates an unusually integrated business model. Launches finance Starlink's expansion. Starlink cash flow helps fund Starship. Starship eventually lowers launch costs, enabling the deployment of larger V3 satellites carrying roughly 10 times the downlink capacity of today's V2 satellites. Direct-to-cell service is expanding through partnerships with more than 30 wireless carriers across over 30 countries.",
-      "published": "2026-06-30T14:52:15Z"
+      "link": "https://finance.yahoo.com/energy/articles/global-utility-stock-looks-very-151738374.html",
+      "summary": "This Global Utility Stock Looks Very Cheap Right Now as It Invests Nearly $2 Billion in the U.S. Energy Buildout",
+      "full_text": "We're seeing a utilities boom like we haven't in quite some time. Indeed, since the rise of the internet, I don't think we've seen this many infrastructure and utilities companies in the limelight as we're seeing now.\n\nOne company that's starting to grab investor attention in a big way is National Grid (NGG), a U.K.-based electricity and gas utility company. Serving much of the United Kingdom, National Grid is a company that's not often on investors' radar screens, but that could mean that it's an interesting opportunity to consider.\n\nBack-to-Back Upgrades Signal Rising Institutional Support for FuelCell Energy Stock\n\nWhy is that, you might ask? Well, National Grid just announced a big move on Wednesday to invest $1.75 billion in a U.S. artificial intelligence (AI) power infrastructure company, supporting the data center buildout.\n\nLet's dive more into this deal and why NGG stock has been seeing so much volatility following the news.\n\nThis $1.75 billion deal is significant in that it signals to investors that global utility players want a piece of what the U.S. market has to offer. Indeed, the data center buildout that's happening in the U.S. (and around the world) will inevitably result in a surge of power demand.\n\nThe particular company National Grid is investing in is Joulent, a company that's currently looking to undertake a massive 2.67 gigawatt (GW) project in Texas. In combination with Chevron (CVX), which is part of the joint venture to put this project together, National Grid looks to increase its exposure to the U.S. market and grab a slice of the tech-driven power demand many investors are after.\n\nNotably, this project should benefit from its geographic proximity to cheaper natural gas in the Permian Basin. Additionally, the fact that Microsoft (MSFT) is the key player looking to ultimately utilize the power generated by this facility in a long-term contract means that the sorts of long-term cash flows this project looks to generate should be increasingly stable.",
+      "published": "2026-07-02T15:17:38Z"
     }
   ]
 }
