@@ -186,7 +186,7 @@ document.addEventListener("DOMContentLoaded", () => {
         // 2. Render Market Linker
         const linkerData = insightData.market_linker_insight;
         if (linkerData) {
-            linkerInsightEl.textContent = linkerData.violence_connection;
+            linkerInsightEl.textContent = linkerData.market_connection;
         }
 
         // 3. Render English Professor News

@@ -1,100 +1,110 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-04",
   "stock_uncle_insight": {
-    "date_header": "7/2 法人與主力大戶主要買超股票",
+    "date_header": "7/4 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：半導體與金融股兩手策略",
+        "group_title": "1. 外資大戶：狂掃金融與傳產，面板、晶圓雙雄先避險",
         "stocks": [
           {
             "stock_name": "聯電",
             "ticker": "2303",
-            "description": "肖年仔，外資狂掃聯電 6.58 萬張，這擺明是看好半導體產業的復甦，或是對聯電的特定利多消息有掌握，這不是黑白買的！"
+            "description": "外資買超聯電 3.5 萬張，但投信跟自營卻在倒貨，這是在玩兩手策略嗎？國際晶片股有雜音，外資這波操作很耐人尋味，肖年仔別黑白猜。"
           },
           {
-            "stock_name": "亞泥",
-            "ticker": "1102",
-            "description": "外資買超亞泥 4.24 萬張，傳產股被外資買，通常是看好基本面或特定旺季效應，這不是隨便亂買的。"
+            "stock_name": "中石化",
+            "ticker": "1314",
+            "description": "連中石化這種傳產股都能進外資買超榜 3.4 萬張，這說明外資在找低基期、有題材的避風港，肖年仔，別只看熱門股，冷門股有時才是寶。"
           },
           {
-            "stock_name": "富邦金",
-            "ticker": "2881",
-            "description": "外資買超富邦金 2.95 萬張，跟國泰金一樣，這波外資買金融，可能是看上高殖利率，或是把金融股當作資金避風港，先卡位再說。"
+            "stock_name": "凱基金",
+            "ticker": "2883",
+            "description": "凱基金被外資買超 2.4 萬張，金融股持續被外資青睞，這波資金流向很明顯，穩健型資金的選擇，肖年仔可以學著點。"
           },
           {
-            "stock_name": "國泰金",
-            "ticker": "2882",
-            "description": "外資買超國泰金 2.75 萬張，跟富邦金一樣，金融股在震盪盤勢中，外資通常會拿來避險，或是等著配息。"
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "外資狂倒群創 5.7 萬張，面板股被外資倒貨倒得兇，肖年仔別去接刀啊！外資都跑了，你還想當韭菜嗎？"
           },
           {
-            "stock_name": "矽統",
-            "ticker": "2363",
-            "description": "外資買超矽統 1.92 萬張，這檔半導體股被外資點火，可能是有新題材或轉機，肖年仔要盯緊。"
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "友達也被外資賣超 2.2 萬張，面板雙雄一起被砍，外資對面板後市不看好，這波跌勢恐怕還沒完。"
+          },
+          {
+            "stock_name": "台積電",
+            "ticker": "2330",
+            "description": "連台積電都被外資小幅賣超 1.2 萬張，雖然不多，但這訊號很清楚，外資在科技股上還是偏保守，肖年仔要小心。"
           }
         ]
       },
       {
-        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，狂拉金融與航空",
+        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，鎖碼AI供應鏈與金融",
         "stocks": [
+          {
+            "stock_name": "佳世達",
+            "ticker": "2352",
+            "description": "投信持續作帳，買超佳世達 5922 張，鎖碼AI相關供應鏈，這就是本土國家隊的慣性，肖年仔可以觀察看看，但要小心結帳壓力。"
+          },
           {
             "stock_name": "第一金",
             "ticker": "2892",
-            "description": "投信狂買第一金 9.84 萬張，這就是典型的投信作帳行情，把外資倒出來的籌碼全接走，準備拉高結帳。"
-          },
-          {
-            "stock_name": "彰銀",
-            "ticker": "2801",
-            "description": "投信大買彰銀 8.28 萬張，跟第一金一樣，投信在金融股上展現強勁的買盤，擺明就是要拉抬績效。"
-          },
-          {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "投信買超兆豐金 6.41 萬張，這幾檔金融股都被投信鎖碼，肖年仔你看到沒，這就是國家隊在護盤兼作帳。"
-          },
-          {
-            "stock_name": "永豐金",
-            "ticker": "2890",
-            "description": "投信買超永豐金 6.34 萬張，投信對金融股的買盤非常集中，這不是黑白買，是精準布局。"
-          },
-          {
-            "stock_name": "華航",
-            "ticker": "2610",
-            "description": "投信買超華航 1.77 萬張，長榮航也買，這顯示投信看好解封後的航空業復甦，或是趁外資倒貨時接刀。"
+            "description": "第一金被投信買超 5576 張，金融股也是投信的愛，穩健配置，這波法人都在找安全牌。"
           },
           {
             "stock_name": "長榮航",
             "ticker": "2618",
-            "description": "投信買超長榮航 1.53 萬張，航空雙雄都被投信點火，這波資金流向很明顯。"
+            "description": "長榮航被投信買超 4735 張，航空股旺季效應，投信也來卡位，肖年仔，有題材的股票才有人氣。"
+          },
+          {
+            "stock_name": "緯創",
+            "ticker": "3231",
+            "description": "緯創這AI概念股，投信持續加碼 4536 張，看好後市，雖然國際晶片股有雜音，但本土法人還是對AI有信心。"
+          },
+          {
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "華邦電被投信倒貨 1.8 萬張，記憶體股短期壓力不小，肖年仔，投信在跑，你還在追嗎？"
+          },
+          {
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "投信賣超聯電 1.2 萬張，跟外資在聯電上不同調，這就是多空分歧，肖年仔，這種股票要特別小心。"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：跟風外資，避險兼卡位",
+        "group_title": "3. 內資主力與實戶：避險買ETF，航運、金融也來湊熱鬧",
         "stocks": [
-          {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "自營商也買聯電 0.49 萬張，跟著外資一起買聯電，這顯示市場對聯電的共識度提高，或是自營商的避險盤在跟風。"
-          },
-          {
-            "stock_name": "中信金",
-            "ticker": "2891",
-            "description": "自營商買超中信金 0.21 萬張，金融股也是自營商的避險標的，在市場震盪時，資金會往這裡跑。"
-          },
-          {
-            "stock_name": "亞泥",
-            "ticker": "1102",
-            "description": "自營商買超亞泥 0.20 萬張，傳產股被自營商買，通常是看好短期題材或基本面，或是權證避險盤。"
-          },
           {
             "stock_name": "富邦科技",
             "ticker": "0052",
-            "description": "自營商買超富邦科技 0.13 萬張，買 ETF 這種操作，擺明就是避險，或是對大盤指數有特定的看法。"
+            "description": "自營商買超富邦科技 3194 張，這擺明是買ETF避險，肖年仔，市場震盪時，跟著大戶買ETF是最安全的選擇。"
           },
           {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "自營商買超元大台灣50 0.06 萬張，跟富邦科技一樣，買大盤 ETF 就是在做避險，或是對大盤指數有特定的看法，肖年仔，這就是穩健操作。"
+            "stock_name": "南亞科",
+            "ticker": "2408",
+            "description": "自營商買超南亞科 1719 張，是看好記憶體反彈還是避險？這種操作很難說，肖年仔，別黑白猜。"
+          },
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "兆豐金被自營商買超 1519 張，金融股穩健，自營商也來分一杯羹，這就是市場資金的避風港。"
+          },
+          {
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "長榮航被自營商買超 1044 張，航運股有題材，自營商也來隔日沖一下，肖年仔，這種短線操作要眼明手快。"
+          },
+          {
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "自營商也跟著外資倒群創 1573 張，這波面板真的要小心，大戶都在跑，你還想當接刀俠嗎？"
+          },
+          {
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "自營商也賣超聯電 645 張，跟投信同調，外資卻在買，肖年仔，這檔股票多空分歧，別輕易出手。"
           }
         ]
       }
@@ -102,328 +112,376 @@
     "strategies": [
       {
         "strategy_title": "策略一：高檔避險與資金避風港（金融、ETF）",
-        "strategy_content": "在市場震盪不安時，外資與自營商紛紛將資金轉向金融股（如富邦金、國泰金、中信金）和大型權值股ETF（如富邦科技、元大台灣50）。這不是肖年仔你亂猜的，這是大戶在做避險，把資金從高風險的電子股撤出，轉到相對穩定的標的，等待市場方向明朗。國際上零售巨頭關店潮，也暗示經濟前景不明，大戶更傾向保守。"
+        "strategy_content": "肖年仔，你看外資狂掃金融股，自營商也買ETF，這擺明是市場震盪，大戶把資金轉往防禦性標的。美股晶片股下跌，台股科技股也受影響，資金自然流向穩健的金融股和指數型ETF避險。這就是大戶在找安全牌，你還在追高殺低嗎？"
       },
       {
-        "strategy_title": "策略二：半導體龍頭卡位與題材點火（聯電、矽統）",
-        "strategy_content": "外資與自營商同步大買聯電，外資更是狂掃 6.58 萬張，這擺明是看好半導體產業的復甦，特別是聯電這種晶圓代工二哥。同時，外資也點火矽統，這可能是看上其在特定半導體領域的潛力，或是新技術題材發酵。雖然國際新聞提到AI基礎設施，但大戶更傾向布局台灣半導體鏈中具備成本優勢或特定技術的標的。"
+        "strategy_title": "策略二：AI供應鏈作帳行情與題材點火",
+        "strategy_content": "投信持續鎖碼AI相關供應鏈，如佳世達、緯創等，這很明顯是季底作帳的慣性。雖然國際新聞提到晶片股下跌，AI基礎設施有疑慮，但本土投信仍看好AI長線趨勢，趁拉回佈局。肖年仔，這就是國家隊在幫你點火，但也要小心結帳壓力。"
       },
       {
-        "strategy_title": "策略三：投信作帳行情與航空股接刀（金融、航空）",
-        "strategy_content": "投信大戶狂掃第一金、彰銀、兆豐金、永豐金等金融股，這就是典型的投信作帳行情，把外資倒出來的金融股籌碼全接走，準備拉高結帳。同時，投信也大買華航、長榮航，趁著外資倒貨時接刀，看好解封後的航空業復甦題材。肖年仔，這就是國家隊的玩法，跟外資對作，但目標都是為了基金績效。"
+        "strategy_title": "策略三：傳產與航運的波段操作與旺季效應",
+        "strategy_content": "外資買中石化、中鋼等傳產，投信和自營商也買長榮航、陽明，這顯示部分資金在尋找低基期或有旺季題材的標的。航運股受惠運價題材，傳產則可能被視為價值型投資。肖年仔，別只看科技股，傳產和航運有時也能給你驚喜。"
+      },
+      {
+        "strategy_title": "策略四：晶片股多空分歧，主力操作謹慎",
+        "strategy_content": "聯電外資大買，但投信和自營商卻大賣，這顯示法人對晶片股的看法出現分歧。國際新聞也提到晶片股下跌，AI基礎設施疑慮，大戶們在晶片股的操作上顯得非常謹慎，多空交戰激烈。肖年仔，這種多空不明的股票，別輕易接刀，看清楚再說。"
       }
     ],
-    "summary": "肖年仔，今天外資跟投信在金融股上玩起了大風吹，外資買聯電避險兼卡位，投信狂掃金融作帳，自營商則跟風避險，這盤勢就是一個字：亂！但亂中有序，大戶資金流向，你得看懂！",
+    "summary": "肖年仔，市場多空交戰，外資避險買金融，投信作帳鎖AI，自營商買ETF，面板、晶片股多空分歧，別黑白買，看清楚主力動向再出手！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 2.30 萬張",
-        "uncle_logic": "高盛這外資大戶，狂掃聯電 2.30 萬張，這不是黑白買，擺明是看好聯電的長線價值，或是對半導體景氣復甦有獨到見解。肖年仔，這叫鎖碼，不是給你隔日沖的！"
+        "action": "買超 1.66 萬張",
+        "uncle_logic": "高盛這外資大戶，狂掃台新新光金 1.66 萬張，擺明是看好金融股的防禦性跟下半年的獲利展望。肖年仔，這不是隔日沖，這是長線布局的訊號！"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 0.19 萬張",
-        "uncle_logic": "凱基台北這分點，買聯電 0.19 萬張，肖年仔你別傻傻跟進，這擺明就是隔日沖的單，明天開盤大概率就是要倒貨給你接刀的，小心別被割韭菜！"
+        "action": "買超 1277 張",
+        "uncle_logic": "凱基台北這分點，買富邦科技 ETF 1277 張，這很明顯是短線避險盤，或是隔日沖的慣性。肖年仔，這種買法，明天可能就倒貨給你，別傻傻去接刀！"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 4.42 萬張",
-        "uncle_logic": "元大投信買第一金 4.42 萬張，這就是標準的投信作帳手法，把外資倒出來的金融股籌碼全接走，準備拉高結帳，肖年仔，這就是國家隊在護盤兼拉抬績效。"
+        "action": "買超 2664 張",
+        "uncle_logic": "元大投信買佳世達 2664 張，這就是標準的投信作帳行情。佳世達有AI題材，投信趁機拉抬，準備年底結算衝績效，肖年仔可以觀察看看，但要小心結帳壓力。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 4.89 萬張",
-        "uncle_logic": "摩根大通這外資大戶，大賣友達 4.89 萬張，這擺明是對面板股看法偏空，或是獲利了結。肖年仔，這叫拉高出貨，你別傻傻去接刀！"
+        "action": "賣超 1.73 萬張",
+        "uncle_logic": "摩根大通這外資大戶，狂倒群創 1.73 萬張，跟外資整體賣超面板的趨勢一致。肖年仔，面板股現在是燙手山芋，外資在撤退，你還想去接刀當韭菜嗎？"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "Former retail giant closed over 1,000 locations",
+      "title": "Forget the Retail Tech Glitz: I Am Loading Up on This Unassailable Enterprise Cash Cow",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/former-retail-giant-closed-over-150700944.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/forget-retail-tech-glitz-am-151844766.html",
       "level1_blind": {
-        "text": "Some forms of retail work better in a brick-and-mortar store than they do online.\n\nClothing and footwear, for example, benefits from the ability to try the items on. Even people who wear the same size across multiple brands sometime put on an outfit, a pair of sneakers, or some fancy shoes only to find that they don't fit right.\n\nThe internet shines, however, on items that don't need to be held, touched, or tried on. That has made some retailers more vulnerable than others.\n\nOffice supply chains, which includes Office Depot and Staples, have been in a slow, steady decline.\n\n\"Office supply stores as a sector employ some 60,000 people and bring in $10.3 billion in revenue in the U.S., which is projected to decline roughly 2% a year through 2026, according to research firm IBISWorld.\n\nThat has led to Office Depot closing more than half its stores since 2013, a process that has continued with the chain's most recent shutdowns.\n\nOffice Depot merged with Office Max in 2013, with the combined chain operating about 1,900 U.S. stores following the merger, according to the Dallas Morning News.\n\nAt the time of the deal, the two companies said they planned to close 400 stores. The industry was already in decline, according to FOX Business."
+        "text": "MSFT's Azure grew 40% and AI revenue hit a $37 billion annualized run rate while the stock trades at just 19 times forward earnings.\n\nCapex nearly doubled to $31 billion, but operating cash flow grew 26% as Microsoft's customers fund the AI buildout in real time.\n\nThirteen board members bought shares during the June dip, and commercial backlog surged 99% to $627 billion, locking in years of contracted revenue.\n\nAct now: the analyst who called NVIDIA in 2010 just named his top 10 AI stocks — and Microsoft didn't make the cut. Grab the names FREE today.\n\nI keep hitting the buy button on Microsoft (NASDAQ:MSFT), and the June selloff only made me press it harder. When the tape dragged this stock down to $373 in June while the underlying business printed 18.3% revenue growth, my thesis stopped being a thesis and started feeling like a gift. I own this for the next twenty years of retirement income, through many cycles of noisy headlines.\n\nWhat pulls me back is boring in the best way. Microsoft sells the plumbing every enterprise on earth now depends on: Windows, Office 365, Azure, GitHub, Dynamics, LinkedIn. Companies do not rip that stack out during a recession. They renew it, expand it, and pay more for it every cycle. That is the cash-flow utility I want anchoring my portfolio.\n\nFirst, the operational reality is running in the opposite direction of the stock chart. Q3 FY26 delivered EPS of $4.27 against a $4.07 estimate, the fourth consecutive beat, on $82.89 billion in revenue. Intelligent Cloud grew 30%, Azure grew 40%, and the AI business now runs at a $37 billion annualized rate, up 123% year over year. Alpha Vantage shows 12 consecutive quarterly beats and an 83.8% beat rate across 130 quarters. That is a compounding machine.\n\nAct now: the analyst who called NVIDIA in 2010 just named his top 10 AI stocks — and Microsoft didn't make the cut. Grab the names FREE today."
       },
       "level2_keywords": [
         {
-          "word": "retail giant",
-          "ipa": "/ˈriːteɪl ˈdʒaɪənt/",
-          "meaning": "各位同學，這個詞指的是規模龐大、在零售業中佔有主導地位的公司，通常擁有許多實體店面或廣大的市場份額。",
-          "example": "The former retail giant struggled to adapt to the e-commerce boom and closed many of its physical stores."
+          "word": "Azure",
+          "ipa": "/ˈæʒər/",
+          "meaning": "各位同學，Azure 是微軟旗下的雲端運算服務平台，提供各種企業級的雲端解決方案，是微軟近年來成長最快的業務之一。",
+          "example": "Microsoft's Azure cloud platform is a key driver of its impressive revenue growth and enterprise adoption."
         },
         {
-          "word": "brick-and-mortar",
-          "ipa": "/ˌbrɪk ən ˈmɔːrtər/",
-          "meaning": "這是一個很重要的概念，用來形容傳統的實體店面，與線上商店相對。在財經報導中常用來區分實體與虛擬通路。",
-          "example": "Many consumers still prefer the experience of shopping at brick-and-mortar stores for certain products like clothing."
+          "word": "annualized run rate",
+          "ipa": "/ˈænjuəlaɪzd rʌn reɪt/",
+          "meaning": "這句話在財經界的意思是「年化運行速度」，指將某個時期的營收或獲利數據，推算成一整年的預估值，用來評估業務的成長動能。",
+          "example": "The company's new AI services are now at a $37 billion annualized run rate, showing rapid expansion and market penetration."
         },
         {
-          "word": "office supply chains",
-          "ipa": "/ˈɔːfɪs səˈplaɪ tʃeɪnz/",
-          "meaning": "指的是販售辦公用品的連鎖店，例如文具、辦公設備等。這類產業近年來受到數位化趨勢的影響很大。",
-          "example": "The shift to digital documents has significantly impacted traditional office supply chains."
+          "word": "forward earnings",
+          "ipa": "/ˈfɔːrwərd ˈɜːrnɪŋz/",
+          "meaning": "我們要注意這個詞，它指的是「預期未來一年的每股盈餘」，是投資人評估股票價值時常用的指標，用來衡量股價相對於未來獲利的合理性。",
+          "example": "Despite strong growth, the stock trades at a reasonable 19 times forward earnings, suggesting it's not overvalued in the current market."
         },
         {
-          "word": "decline",
-          "ipa": "/dɪˈklaɪn/",
-          "meaning": "這個動詞或名詞在財經界非常常見，指的是數量、價值或活動的逐漸減少或衰退。我們常用它來描述市場、產業或公司業績的下滑趨勢。",
-          "example": "The industry has been in a steady decline for the past decade due to changing consumer habits and technology."
+          "word": "Capex",
+          "ipa": "/ˈkeɪpɛks/",
+          "meaning": "Capex 是 Capital Expenditure 的縮寫，也就是「資本支出」，指企業用於購買或升級固定資產的費用，例如廠房、設備或數據中心等，這些投資通常是為了未來的成長。",
+          "example": "Despite a significant increase in Capex to build out its AI infrastructure, Microsoft's operating cash flow remains robust, indicating healthy financial management."
         },
         {
-          "word": "merged",
-          "ipa": "/mɜːrdʒd/",
-          "meaning": "這個詞表示兩家或多家公司合併成一家。在企業併購（M&A）中，這是一種常見的策略，旨在提升市場競爭力或擴大規模。",
-          "example": "The two companies merged in 2013 to create a stronger entity in a highly competitive market."
+          "word": "commercial backlog",
+          "ipa": "/kəˈmɜːrʃəl ˈbæklɒɡ/",
+          "meaning": "這指的是「商業訂單積壓」，也就是企業已簽約但尚未完成交付的訂單總額。這個數字越高，通常代表企業未來營收的潛力越大，是衡量業務穩定性的重要指標。",
+          "example": "A surging commercial backlog of $627 billion indicates strong future revenue for Microsoft for years to come, providing excellent visibility into its financial performance."
         }
       ],
-      "level2_context": "各位同學，這篇新聞在探討傳統實體零售業，特別是辦公用品連鎖店，在數位化時代面臨的挑戰與衰退。我們可以看到，有些商品像是服飾鞋類，消費者還是會偏好到實體店面試穿體驗；但對於辦公用品這類不需要實際觸摸或試用的商品，網路購物就顯得更具優勢。這導致像 Office Depot 這樣的辦公用品零售巨頭，在過去十多年間持續關閉大量門市，甚至透過與 Office Max 合併來應對產業的結構性衰退。這反映了電子商務對傳統零售模式的巨大衝擊，以及企業必須轉型才能生存的現實。",
+      "level2_context": "各位同學，這篇新聞主要在探討為什麼微軟（Microsoft）在科技股中，被視為一個「穩健的現金牛」投資標的，尤其是在當前 AI 浪潮下。文章強調，儘管零售科技股可能光鮮亮麗，但微軟憑藉其核心的企業級軟體和雲端服務（特別是 Azure），展現出極強的韌性和成長潛力。即使在經濟下行或市場震盪時，企業對 Windows、Office 365、Azure 等基礎設施的需求依然強勁，甚至會持續續約和擴展使用，這為微軟帶來穩定且不斷增長的現金流。新聞也特別指出，微軟在 AI 領域的投資正快速轉化為實際營收，且其財務數據（如營運現金流、訂單積壓）表現亮眼，顯示公司在 AI 基礎建設上的投入正被客戶即時買單，這讓它成為一個值得長期持有的「退休金」級別資產。",
       "level3_translation": [
         {
-          "sentence": "Some forms of retail work better in a brick-and-mortar store than they do online.",
-          "translation": "某些零售業態在實體店面經營的效果會比線上更好。"
+          "sentence": "MSFT's Azure grew 40% and AI revenue hit a $37 billion annualized run rate while the stock trades at just 19 times forward earnings.",
+          "translation": "微軟的 Azure 雲端服務成長了四成，AI 相關營收也達到每年 370 億美元的年化運行速度，而這檔股票目前的本益比僅有預期獲利的 19 倍。"
         },
         {
-          "sentence": "Clothing and footwear, for example, benefits from the ability to try the items on.",
-          "translation": "舉例來說，服飾和鞋類商品就能從試穿體驗中獲益。"
+          "sentence": "Capex nearly doubled to $31 billion, but operating cash flow grew 26% as Microsoft's customers fund the AI buildout in real time.",
+          "translation": "雖然資本支出幾乎翻倍來到 310 億美元，但由於微軟的客戶即時為其 AI 基礎建設買單，營運現金流仍成長了 26%。"
         },
         {
-          "sentence": "Even people who wear the same size across multiple brands sometime put on an outfit, a pair of sneakers, or some fancy shoes only to find that they don't fit right.",
-          "translation": "即使是那些在不同品牌間都穿相同尺寸的人，有時穿上某套服裝、運動鞋或時尚鞋款後，也會發現尺寸不合。"
+          "sentence": "Thirteen board members bought shares during the June dip, and commercial backlog surged 99% to $627 billion, locking in years of contracted revenue.",
+          "translation": "今年六月股價下跌時，有 13 位董事會成員買進了股票，而且商業訂單積壓（commercial backlog）暴增了 99%，達到 6270 億美元，這鎖定了未來數年的合約營收。"
         },
         {
-          "sentence": "The internet shines, however, on items that don't need to be held, touched, or tried on.",
-          "translation": "然而，對於那些不需要拿取、觸摸或試用的商品，網路購物就展現了其優勢。"
+          "sentence": "Act now: the analyst who called NVIDIA in 2010 just named his top 10 AI stocks — and Microsoft didn't make the cut.",
+          "translation": "立即行動：那位在 2010 年就精準預測到輝達（NVIDIA）的分析師，最近剛公布了他心目中的十大 AI 股票——但微軟卻沒有入選。"
         },
         {
-          "sentence": "That has made some retailers more vulnerable than others.",
-          "translation": "這使得某些零售商比其他同業更容易受到衝擊。"
+          "sentence": "Grab the names FREE today.",
+          "translation": "今天就免費取得這些股票名單吧！"
         },
         {
-          "sentence": "Office supply chains, which includes Office Depot and Staples, have been in a slow, steady decline.",
-          "translation": "辦公用品連鎖店，包括 Office Depot 和 Staples，一直處於緩慢而穩定的衰退中。"
+          "sentence": "I keep hitting the buy button on Microsoft (NASDAQ:MSFT), and the June selloff only made me press it harder.",
+          "translation": "我持續買進微軟（NASDAQ:MSFT）的股票，而六月的這波拋售潮只讓我更堅定地加碼。"
         },
         {
-          "sentence": "\"Office supply stores as a sector employ some 60,000 people and bring in $10.3 billion in revenue in the U.S., which is projected to decline roughly 2% a year through 2026, according to research firm IBISWorld.",
-          "translation": "根據研究機構 IBISWorld 的報告，「辦公用品商店作為一個產業，在美國僱用了約六萬名員工，創造了一百零三億美元的營收，預計到二零二六年每年將以約百分之二的速度下滑。」"
+          "sentence": "When the tape dragged this stock down to $373 in June while the underlying business printed 18.3% revenue growth, my thesis stopped being a thesis and started feeling like a gift.",
+          "translation": "當市場在六月將這檔股票拖累到 373 美元，而其基本業務卻仍實現 18.3% 的營收成長時，我的投資論點就不再只是一個論點，而更像是一份禮物了。"
         },
         {
-          "sentence": "That has led to Office Depot closing more than half its stores since 2013, a process that has continued with the chain's most recent shutdowns.",
-          "translation": "這導致 Office Depot 自二零一三年以來關閉了超過一半的門市，而這個過程也隨著該連鎖店最近的歇業潮持續進行。"
+          "sentence": "I own this for the next twenty years of retirement income, through many cycles of noisy headlines.",
+          "translation": "我持有這檔股票是為了未來二十年的退休收入，它將伴隨我度過許多喧囂的市場新聞週期。"
         },
         {
-          "sentence": "Office Depot merged with Office Max in 2013, with the combined chain operating about 1,900 U.S. stores following the merger, according to the Dallas Morning News.",
-          "translation": "根據『達拉斯晨報』報導，Office Depot 在二零一三年與 Office Max 合併，合併後的連鎖店在美國經營約一千九百家門市。"
+          "sentence": "What pulls me back is boring in the best way.",
+          "translation": "吸引我的地方，是以一種最好的方式呈現的『無聊』。"
         },
         {
-          "sentence": "At the time of the deal, the two companies said they planned to close 400 stores.",
-          "translation": "在這筆交易當時，兩家公司表示他們計畫關閉四百家門市。"
+          "sentence": "Microsoft sells the plumbing every enterprise on earth now depends on: Windows, Office 365, Azure, GitHub, Dynamics, LinkedIn.",
+          "translation": "微軟銷售的是全球每家企業現在都賴以生存的基礎設施：Windows、Office 365、Azure、GitHub、Dynamics、LinkedIn。"
         },
         {
-          "sentence": "The industry was already in decline, according to FOX Business.",
-          "translation": "根據『福斯財經新聞』報導，當時這個產業就已經處於衰退之中。"
+          "sentence": "Companies do not rip that stack out during a recession.",
+          "translation": "企業在經濟衰退期間並不會把這些核心系統淘汰掉。"
+        },
+        {
+          "sentence": "They renew it, expand it, and pay more for it every cycle.",
+          "translation": "他們會續約、擴展使用，並且在每個週期支付更多費用。"
+        },
+        {
+          "sentence": "That is the cash-flow utility I want anchoring my portfolio.",
+          "translation": "這就是我希望作為投資組合核心的『現金流公用事業』特性。"
+        },
+        {
+          "sentence": "First, the operational reality is running in the opposite direction of the stock chart.",
+          "translation": "首先，公司的營運實況與股價走勢呈現反向。"
+        },
+        {
+          "sentence": "Q3 FY26 delivered EPS of $4.27 against a $4.07 estimate, the fourth consecutive beat, on $82.89 billion in revenue.",
+          "translation": "2026 財年第三季，微軟實現了每股盈餘 4.27 美元，超越了預估的 4.07 美元，這是連續第四次超越預期，總營收達到 828.9 億美元。"
+        },
+        {
+          "sentence": "Intelligent Cloud grew 30%, Azure grew 40%, and the AI business now runs at a $37 billion annualized rate, up 123% year over year.",
+          "translation": "智慧雲端業務成長了三成，Azure 成長了四成，而 AI 業務目前正以 370 億美元的年化速度運行，年增率高達 123%。"
+        },
+        {
+          "sentence": "Alpha Vantage shows 12 consecutive quarterly beats and an 83.8% beat rate across 130 quarters.",
+          "translation": "Alpha Vantage 的數據顯示，微軟已經連續 12 個季度超越財測，在過去 130 個季度中，超越預期的比率高達 83.8%。"
+        },
+        {
+          "sentence": "That is a compounding machine.",
+          "translation": "這簡直就是一台『複利機器』。"
+        },
+        {
+          "sentence": "Act now: the analyst who called NVIDIA in 2010 just named his top 10 AI stocks — and Microsoft didn't make the cut.",
+          "translation": "立即行動：那位在 2010 年就精準預測到輝達（NVIDIA）的分析師，最近剛公布了他心目中的十大 AI 股票——但微軟卻沒有入選。"
+        },
+        {
+          "sentence": "Grab the names FREE today.",
+          "translation": "今天就免費取得這些股票名單吧！"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "IPO Edge NYSE Firesides Scheduled for July 28",
+      "title": "Stock Indexes Turn Mixed as Chipmakers Sink",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/news/ipo-edge-nyse-firesides-scheduled-211107368.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-indexes-turn-mixed-chipmakers-151823193.html",
       "level1_blind": {
-        "text": "IPO Edge and CorpGov will be conducting interviews from the floor of the New York Stock Exchange on July 28, 2026. We invite guests to join 15-minute fireside chats recorded in a multi camera high-definition television studio at the NYSE.\n\nAll content is published on our owned websites and syndicates instantly (under relevant company stock tickers) via formal agreements with Yahoo Finance, Bloomberg Terminals, Reuters via LSEG Workspace, and AlphaSense. We also publish social media video posts across major platforms like LinkedIn, X, Instagram, and TikTok."
+        "text": "The S&P 500 Index ($SPX) (SPY) is up +0.10% today, the Dow Jones Industrial Average ($DOWI) (DIA) is up +0.85%, and the Nasdaq 100 Index ($IUXX) (QQQ) is down -0.92%. September E-mini S&P futures (ESU26) are up +0.08%, and September E-mini Nasdaq futures (NQU26) are down -1.03%.\n\nStock indexes are mixed today, with the S&P 500 posting a 2-week high and the Dow Jones Industrials posting a new all-time high. The broader market has support today after a slower-than-expected increase in US nonfarm payrolls knocked bond yields lower and bolstered speculation that the Fed will be unable to raise interest rates any time soon. US hiring slowed sharply in June and was revised lower in May even as the unemployment rate fell to a 1-year low.\n\nCEO Phong Le Bought 11,000 Shares of MicroStrategy Preferred Stock as STRC Hit All-Time Lows\n\nHowever, stock gains are muted today, and the Nasdaq 100 is in negative territory amid weakness in chipmakers and AI-infrastructure stocks for a second session. South Korea's Kospi Index fell more than -7% to a 3-week low, led by a plunge in SK Hynix and Samsung Electronics on renewed doubts over the sustainability of the AI buildout boom. The losses in South Korean chipmakers come amid negative carryover from Wednesday, when Meta Platforms said it plans to sell computing power, raising questions about excess AI capacity.\n\nUS Jun nonfarm payrolls rose +57,000, weaker than expectations of +113,000, and May nonfarm payrolls were revised lower to +129,000 from the originally reported +172,000. The Jun unemployment rate unexpectedly fell -0.1 to a 1-year low of 4.2%, signaling a stronger labor market than expectations of no change at 4.3%.\n\nUS Jan average hourly earnings rose +0.3% m/m and +3.5% y/y, right on expectations.\n\nUS weekly initial unemployment claims unexpectedly fell -1,000 to 215,000, showing a stronger labor market than expectations of an increase to 218,000.\n\nUS May factory orders fell -1.3% m/m, a smaller decline than expectations of -2.0% m/m. Also, May factory orders ex-transportation rose +1.9% m/m, stronger than expectations of +1.0% m/m and the biggest increase in more than 4 years."
       },
       "level2_keywords": [
         {
-          "word": "IPO",
-          "ipa": "/aɪpʊ/",
-          "meaning": "公司上市",
-          "example": "這家公司將在今年夏季進行 IPO"
+          "word": "nonfarm payrolls",
+          "ipa": "/ˌnɑnˈfɑrm ˈpeɪˌroʊlz/",
+          "meaning": "衡量美國非農業部門的就業人數變化，是判斷經濟健康狀況的重要指標。",
+          "example": "「The latest nonfarm payrolls report showed a slower-than-expected increase, easing concerns about aggressive interest rate hikes.」"
         },
         {
-          "word": "NYSE",
-          "ipa": "/naɪs/",
-          "meaning": "紐約證券交易所",
-          "example": "這家公司將在 NYSE 上市"
+          "word": "bond yields",
+          "ipa": "/bɑnd jildz/",
+          "meaning": "債券的投資報酬率，通常與利率和經濟前景密切相關。",
+          "example": "「Slower hiring data knocked bond yields lower, suggesting investors anticipate less aggressive monetary tightening.」"
         },
         {
-          "word": "fireside",
-          "ipa": "/faɪəraɪzd/",
-          "meaning": "小火灶下的對話",
-          "example": "這場會議將是小火灶下的對話"
+          "word": "chipmakers",
+          "ipa": "/ˈtʃɪpˌmeɪkərz/",
+          "meaning": "生產半導體晶片的廠商，是科技產業的核心。",
+          "example": "「Weakness in chipmakers and AI-infrastructure stocks dragged down the Nasdaq 100 today.」"
         },
         {
-          "word": "interview",
-          "ipa": "/ɪntərˈviːw/",
-          "meaning": "採訪",
-          "example": "我們將與這位 CEO 进行採訪"
+          "word": "AI buildout boom",
+          "ipa": "/ˌeɪ aɪ ˈbɪldˌaʊt bum/",
+          "meaning": "指人工智慧基礎設施（如數據中心、AI晶片等）快速建設和擴張的熱潮。",
+          "example": "「Renewed doubts over the sustainability of the AI buildout boom led to a plunge in major South Korean chipmakers.」"
         },
         {
-          "word": "stock",
-          "ipa": "/stʌk/",
-          "meaning": "股票",
-          "example": "公司的股票價格在市場上波動"
+          "word": "excess AI capacity",
+          "ipa": "/ˈɛkˌsɛs ˌeɪ aɪ kəˈpæsəti/",
+          "meaning": "指人工智慧運算能力或相關基礎設施的供給過剩，可能導致市場競爭加劇或投資回報率下降。",
+          "example": "「Meta Platforms' plan to sell computing power raised questions about potential excess AI capacity in the market.」"
         }
       ],
-      "level2_context": "\n這篇文章關於 IPO Edge 和 CorpGov 的會議安排，與我們對於公司上市和stock market 的理解有關。\n\nIPO Edge 是一家公司上市服務提供商，CorpGov 是一家企業治理服務提供商。這兩家公司將在紐約證券交易所進行 fireside chat，為投資人和企業提供採訪機會。\n\n這個事件對於stock market 的影響是什麼？該事件對於 IPO Edge 和 CorpGov 的未來發展有何意義？\n",
+      "level2_context": "「各位同學，這篇新聞的背景脈絡是這樣的：今天美國股市呈現一個『冰火兩重天』的局面。一方面，由於美國最新公布的非農就業數據增長不如預期，這通常被市場解讀為經濟可能放緩，進而降低了聯準會（Fed）短期內升息的壓力。這種預期讓債券殖利率走低，並為整體大盤，特別是標普500和道瓊工業指數帶來了支撐，甚至創下歷史新高。\n\n然而，另一方面，科技股和AI相關類股卻表現疲軟，拖累了那斯達克100指數。這背後的主要原因，是市場對AI產業的未來發展產生了新的疑慮。南韓的晶片製造商，例如SK海力士和三星電子，股價大幅下跌，就是因為投資人開始質疑『AI基礎設施建置熱潮』能否持續。更具體來說，Meta Platforms宣布計劃出售其運算能力，這讓市場開始思考，AI運算能力是否可能出現『供給過剩』的情況。如果AI基礎設施的擴張速度超過了實際需求，那麼相關晶片製造商和AI服務供應商的營收成長動能就可能受到影響，進而衝擊其股價表現。所以，這篇新聞反映了市場在宏觀經濟數據和特定產業前景之間，複雜的權衡與反應。」",
       "level3_translation": [
         {
-          "sentence": "IPO Edge and CorpGov will be conducting interviews from the floor of the New York Stock Exchange on July 28, 2026.",
-          "translation": ""
+          "sentence": "The S&P 500 Index ($SPX) (SPY) is up +0.10% today, the Dow Jones Industrial Average ($DOWI) (DIA) is up +0.85%, and the Nasdaq 100 Index ($IUXX) (QQQ) is down -0.92%.",
+          "translation": "「標普500指數（$SPX）(SPY) 今天上漲了0.10%，道瓊工業平均指數（$DOWI）(DIA) 上漲了0.85%，而那斯達克100指數（$IUXX）(QQQ) 則下跌了0.92%。」"
         },
         {
-          "sentence": "We invite guests to join 15-minute fireside chats recorded in a multi camera high-definition television studio at the NYSE.",
-          "translation": ""
+          "sentence": "September E-mini S&P futures (ESU26) are up +0.08%, and September E-mini Nasdaq futures (NQU26) are down -1.03%.",
+          "translation": "「九月份的E-mini標普期貨（ESU26）上漲了0.08%，而九月份的E-mini那斯達克期貨（NQU26）則下跌了1.03%。」"
         },
         {
-          "sentence": "All content is published on our owned websites and syndicates instantly (under relevant company stock tickers) via formal agreements with Yahoo Finance, Bloomberg Terminals, Reuters via LSEG Workspace, and AlphaSense.",
-          "translation": ""
+          "sentence": "Stock indexes are mixed today, with the S&P 500 posting a 2-week high and the Dow Jones Industrials posting a new all-time high.",
+          "translation": "「今天股市指數表現好壞參半，標普500指數創下兩週新高，道瓊工業指數更是達到歷史新高。」"
         },
         {
-          "sentence": "We also publish social media video posts across major platforms like LinkedIn, X, Instagram, and TikTok.",
-          "translation": ""
+          "sentence": "The broader market has support today after a slower-than-expected increase in US nonfarm payrolls knocked bond yields lower and bolstered speculation that the Fed will be unable to raise interest rates any time soon.",
+          "translation": "「在美國非農就業數據增長不如預期後，整體大盤今天獲得支撐，因為這使得債券殖利率走低，並強化了市場對於聯準會短期內將無法升息的預期。」"
+        },
+        {
+          "sentence": "US hiring slowed sharply in June and was revised lower in May even as the unemployment rate fell to a 1-year low.",
+          "translation": "「美國六月份的招聘活動顯著放緩，五月份的數據也被下修，儘管失業率降至一年來的最低點。」"
+        },
+        {
+          "sentence": "CEO Phong Le Bought 11,000 Shares of MicroStrategy Preferred Stock as STRC Hit All-Time Lows",
+          "translation": "「執行長Phong Le買入了11,000股MicroStrategy的特別股，當時STRC股價正處於歷史低點。」"
+        },
+        {
+          "sentence": "However, stock gains are muted today, and the Nasdaq 100 is in negative territory amid weakness in chipmakers and AI-infrastructure stocks for a second session.",
+          "translation": "「然而，今天的股市漲幅受到抑制，那斯達克100指數連續第二個交易日呈現負成長，主要受到晶片製造商和AI基礎設施類股走弱的影響。」"
+        },
+        {
+          "sentence": "South Korea's Kospi Index fell more than -7% to a 3-week low, led by a plunge in SK Hynix and Samsung Electronics on renewed doubts over the sustainability of the AI buildout boom.",
+          "translation": "「南韓KOSPI指數下跌超過7%，跌至三週低點，主要原因是市場對AI基礎設施建置熱潮能否持續產生新的疑慮，導致SK海力士和三星電子股價暴跌。」"
+        },
+        {
+          "sentence": "The losses in South Korean chipmakers come amid negative carryover from Wednesday, when Meta Platforms said it plans to sell computing power, raising questions about excess AI capacity.",
+          "translation": "「南韓晶片製造商的跌勢，也受到週三負面消息的延續影響，當時Meta Platforms表示計劃出售其運算能力，引發了市場對AI運算能力可能過剩的質疑。」"
+        },
+        {
+          "sentence": "US Jun nonfarm payrolls rose +57,000, weaker than expectations of +113,000, and May nonfarm payrolls were revised lower to +129,000 from the originally reported +172,000.",
+          "translation": "「美國六月份非農就業人數增加了57,000人，低於市場預期的113,000人；而五月份的非農就業人數也從最初報告的172,000人下修至129,000人。」"
+        },
+        {
+          "sentence": "The Jun unemployment rate unexpectedly fell -0.1 to a 1-year low of 4.2%, signaling a stronger labor market than expectations of no change at 4.3%.",
+          "translation": "「六月份失業率意外下降0.1個百分點，達到一年來的低點4.2%，這顯示勞動市場比預期中（預期維持在4.3%不變）更為強勁。」"
+        },
+        {
+          "sentence": "US Jan average hourly earnings rose +0.3% m/m and +3.5% y/y, right on expectations.",
+          "translation": "「美國一月份平均時薪月增0.3%，年增3.5%，符合市場預期。」"
+        },
+        {
+          "sentence": "US weekly initial unemployment claims unexpectedly fell -1,000 to 215,000, showing a stronger labor market than expectations of an increase to 218,000.",
+          "translation": "「美國每週初次申請失業救濟金人數意外減少1,000人，降至215,000人，顯示勞動市場比預期中（預期增加至218,000人）更為強勁。」"
+        },
+        {
+          "sentence": "US May factory orders fell -1.3% m/m, a smaller decline than expectations of -2.0% m/m.",
+          "translation": "「美國五月份工廠訂單月減1.3%，跌幅小於市場預期的2.0%。」"
+        },
+        {
+          "sentence": "Also, May factory orders ex-transportation rose +1.9% m/m, stronger than expectations of +1.0% m/m and the biggest increase in more than 4 years.",
+          "translation": "「此外，五月份扣除運輸設備的工廠訂單月增1.9%，表現優於市場預期的1.0%，也是四年多來最大的增幅。」"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "SpaceX’s AI Ambitions Could Rewrite Its Future — If It Can Stop the Bleeding",
+      "title": "This Global Utility Stock Looks Very Cheap Right Now as It Invests Nearly $2 Billion in the U.S. Energy Buildout",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-ai-ambitions-could-rewrite-145215099.html",
+      "link": "https://finance.yahoo.com/energy/articles/global-utility-stock-looks-very-151738374.html",
       "level1_blind": {
-        "text": "Artificial intelligence has investors rethinking how companies create value. Businesses once judged by hardware or software alone are increasingly building entire ecosystems spanning chips, cloud infrastructure, applications, and distribution. Few companies illustrate that shift better than SpaceX (SPCX).\n\nConsensus projections already call for extraordinary growth, but those estimates may underestimate how much the company is changing. At the same time, they may also underestimate the cost of getting there. For investors considering SpaceX's IPO, the real question is no longer whether revenue can grow, but whether profits can eventually catch up.\n\nAnalysts estimate revenue to climb from $18.67 billion in 2025—up from approximately $14 billion in 2024—to roughly $85 billion by 2028. That represents a 4.5-fold increase in just three years.\n\nThose forecasts, however, largely model SpaceX as the company investors already know: a launch provider supplemented by the fast-growing Starlink satellite internet business. But the company has already changed.\n\nSpaceX increasingly describes itself as an AI infrastructure company, not simply an aerospace business. Elon Musk has gone even further, predicting $1 trillion in annual revenue by 2030—a target that borders on science fiction today but underscores the company's ambitions.\n\nInterestingly, SpaceX's own IPO underwriters appear to be moving toward that view. Forecasts from Morgan Stanley and Goldman Sachs reportedly project approximately $330 billion and $322 billion in annual revenue, respectively, after incorporating recently announced AI infrastructure contracts, including roughly $26 billion in annualized data center leases with Alphabet's (GOOG) (GOOGL) Google and Anthropic. Those models reportedly expect AI cloud infrastructure and orbital data centers to contribute more than half of SpaceX's revenue by 2028.\n\nRevenue projections also changed following SpaceX's $60 billion acquisition of Cursor. The purchase gives the company something it previously lacked: an application-layer business. Instead of simply renting AI compute, SpaceX can potentially own the computing infrastructure, the software running on it, and the distribution platform through X.\n\nThat creates an unusually integrated business model. Launches finance Starlink's expansion. Starlink cash flow helps fund Starship. Starship eventually lowers launch costs, enabling the deployment of larger V3 satellites carrying roughly 10 times the downlink capacity of today's V2 satellites. Direct-to-cell service is expanding through partnerships with more than 30 wireless carriers across over 30 countries."
+        "text": "We're seeing a utilities boom like we haven't in quite some time. Indeed, since the rise of the internet, I don't think we've seen this many infrastructure and utilities companies in the limelight as we're seeing now.\n\nOne company that's starting to grab investor attention in a big way is National Grid (NGG), a U.K.-based electricity and gas utility company. Serving much of the United Kingdom, National Grid is a company that's not often on investors' radar screens, but that could mean that it's an interesting opportunity to consider.\n\nBack-to-Back Upgrades Signal Rising Institutional Support for FuelCell Energy Stock\n\nWhy is that, you might ask? Well, National Grid just announced a big move on Wednesday to invest $1.75 billion in a U.S. artificial intelligence (AI) power infrastructure company, supporting the data center buildout.\n\nLet's dive more into this deal and why NGG stock has been seeing so much volatility following the news.\n\nThis $1.75 billion deal is significant in that it signals to investors that global utility players want a piece of what the U.S. market has to offer. Indeed, the data center buildout that's happening in the U.S. (and around the world) will inevitably result in a surge of power demand.\n\nThe particular company National Grid is investing in is Joulent, a company that's currently looking to undertake a massive 2.67 gigawatt (GW) project in Texas. In combination with Chevron (CVX), which is part of the joint venture to put this project together, National Grid looks to increase its exposure to the U.S. market and grab a slice of the tech-driven power demand many investors are after.\n\nNotably, this project should benefit from its geographic proximity to cheaper natural gas in the Permian Basin. Additionally, the fact that Microsoft (MSFT) is the key player looking to ultimately utilize the power generated by this facility in a long-term contract means that the sorts of long-term cash flows this project looks to generate should be increasingly stable."
       },
       "level2_keywords": [
         {
-          "word": "ecosystems",
-          "ipa": "/ˈiːkoʊˌsɪstəmz/",
-          "meaning": "指的是一個由多種產品、服務和合作夥伴組成的複雜網路，彼此互相支援，共同創造價值。在科技業，這通常意味著軟硬體、平台、應用程式等環環相扣的生態系。",
-          "example": "Apple's integrated hardware and software create a powerful user「ecosystem」."
+          "word": "utilities",
+          "ipa": "/juˈtɪlɪtiz/",
+          "meaning": "公用事業（指提供水、電、瓦斯等基礎服務的公司或行業）",
+          "example": "The government regulates essential utilities to ensure fair pricing for all citizens."
         },
         {
-          "word": "cloud infrastructure",
-          "ipa": "/klaʊd ˈɪnfrəˌstrʌktʃər/",
-          "meaning": "雲端基礎設施，指的是透過網路提供運算資源、儲存空間、網路服務等，讓企業或個人無需自行建置實體設備就能使用。",
-          "example": "Many startups rely on robust「cloud infrastructure」to scale their operations quickly."
+          "word": "infrastructure",
+          "ipa": "/ˈɪnfrəˌstrʌktʃər/",
+          "meaning": "基礎建設（指一個國家或地區的基礎設施，如道路、橋樑、電網、通訊系統等）",
+          "example": "Investing in robust infrastructure is crucial for long-term economic growth and development."
         },
         {
-          "word": "orbital data centers",
-          "ipa": "/ˈɔːrbɪtəl ˈdeɪtə ˌsɛntərz/",
-          "meaning": "軌道資料中心，這是指將資料中心部署在地球軌道上的衛星或太空站，提供太空中的運算和儲存服務，可能用於太空探索、地球觀測或未來太空經濟。",
-          "example": "SpaceX's vision includes developing「orbital data centers」to support its ambitious AI projects."
+          "word": "data center buildout",
+          "ipa": "/ˈdeɪtə ˈsɛntər ˈbɪldˌaʊt/",
+          "meaning": "資料中心建置（指大規模興建或擴建資料中心設施的過程）",
+          "example": "The rapid expansion of artificial intelligence requires significant global data center buildout."
         },
         {
-          "word": "application-layer business",
-          "ipa": "/ˌæplɪˈkeɪʃən ˌleɪər ˈbɪznɪs/",
-          "meaning": "應用層業務，指的是提供直接面向終端用戶的軟體應用程式或服務，而非底層的硬體或基礎設施。",
-          "example": "Acquiring Cursor transformed SpaceX into an「application-layer business」, expanding its service offerings."
+          "word": "joint venture",
+          "ipa": "/dʒɔɪnt ˈvɛntʃər/",
+          "meaning": "合資企業（兩家或多家公司共同出資、分享利潤和風險的商業合作模式）",
+          "example": "They formed a joint venture to develop a new renewable energy project in the region."
         },
         {
-          "word": "downlink capacity",
-          "ipa": "/ˈdaʊnlɪŋk kəˈpæsɪti/",
-          "meaning": "下行傳輸容量，指的是從衛星或其他網路節點向用戶端傳輸資料的最大速率或總量，對於網路服務的速度和效率至關重要。",
-          "example": "The new V3 satellites will significantly increase「downlink capacity」, improving Starlink's internet speed."
+          "word": "exposure",
+          "ipa": "/ɪkˈspoʊʒər/",
+          "meaning": "曝險/市場佔有率（指在特定市場、資產或風險中的參與程度或份額）",
+          "example": "The company aims to increase its exposure to the rapidly growing Asian technology market."
         }
       ],
-      "level2_context": "各位同學，這篇新聞揭示了 SpaceX 正在經歷一場重大的戰略轉型。過去我們可能只把 SpaceX 看作是一家火箭發射公司，或是提供衛星網路服務的 Starlink。但現在，它正積極將自己重新定位為一家「人工智慧基礎設施公司」。這背後的原因是，整個科技產業的價值創造模式正在改變，不再是單一產品的競爭，而是走向建立涵蓋晶片、雲端、應用程式和分銷的完整「生態系」。SpaceX 希望透過其火箭發射能力、Starlink 網路，甚至未來的「軌道資料中心」和應用層業務（例如收購 Cursor），來打造一個獨特的 AI 運算和服務平台。這不僅可能大幅提升其未來的營收潛力，也讓投資人開始用不同的眼光來評估這家公司的價值。不過，這條轉型之路也伴隨著巨大的投資和成本，所以新聞中也提到，獲利能否跟上營收成長，將是投資人關注的焦點。",
+      "level2_context": "各位同學，這則新聞揭示了一個重要的產業趨勢：隨著人工智慧（AI）的爆炸性發展，全球對資料中心的需求飆升，這也連帶引爆了對電力的龐大需求。傳統上被視為穩定但成長緩慢的公用事業公司，現在看到了新的成長機會。這篇報導中的英國國家電網（National Grid）就是一個很好的例子，它決定大手筆投資美國的AI電力基礎設施公司，這不僅顯示了公用事業巨頭正積極轉型，也反映出美國市場在AI和資料中心建置上的領先地位。此外，新聞提到利用德州二疊紀盆地較便宜的天然氣，以及微軟的長期合約，這都說明了這些大型投資案在規劃時，會非常注重成本效益與未來現金流的穩定性，以確保長期獲利。這對我們理解全球能源轉型和科技產業的交叉影響非常關鍵。",
       "level3_translation": [
         {
-          "sentence": "Artificial intelligence has investors rethinking how companies create value.",
-          "translation": "各位同學，人工智慧（AI）的崛起，正讓投資人重新思考企業創造價值的方式。"
+          "sentence": "We're seeing a utilities boom like we haven't in quite some time.",
+          "translation": "各位同學，我們正目睹一場前所未見的公用事業榮景。"
         },
         {
-          "sentence": "Businesses once judged by hardware or software alone are increasingly building entire ecosystems spanning chips, cloud infrastructure, applications, and distribution.",
-          "translation": "過去只單純以硬體或軟體來評斷的公司，現在正越來越多地建立起涵蓋晶片、雲端基礎設施、應用程式和分銷通路的完整生態系。"
+          "sentence": "Indeed, since the rise of the internet, I don't think we've seen this many infrastructure and utilities companies in the limelight as we're seeing now.",
+          "translation": "確實，自從網路興起以來，我認為我們從未見過如此多的基礎建設和公用事業公司受到如此高度的關注。"
         },
         {
-          "sentence": "Few companies illustrate that shift better than SpaceX (SPCX).",
-          "translation": "很少有公司能比 SpaceX (SPCX) 更好地說明這種產業轉變。"
+          "sentence": "One company that's starting to grab investor attention in a big way is National Grid (NGG), a U.K.-based electricity and gas utility company.",
+          "translation": "其中一家正大幅吸引投資人目光的公司是英國的電力與天然氣公用事業公司『國家電網』（National Grid，股票代碼：NGG）。"
         },
         {
-          "sentence": "Consensus projections already call for extraordinary growth, but those estimates may underestimate how much the company is changing.",
-          "translation": "市場普遍的預期已經指出 SpaceX 將有非凡的成長，但這些預估可能低估了這家公司正在經歷的巨大轉變。"
+          "sentence": "Serving much of the United Kingdom, National Grid is a company that's not often on investors' radar screens, but that could mean that it's an interesting opportunity to consider.",
+          "translation": "國家電網主要服務英國大部分地區，這家公司通常不太受到投資人關注，但這也可能意味著它是一個值得考慮的潛在投資機會。"
         },
         {
-          "sentence": "At the same time, they may also underestimate the cost of getting there.",
-          "translation": "同時，這些預估也可能低估了實現這些目標所需的成本。"
+          "sentence": "Back-to-Back Upgrades Signal Rising Institutional Support for FuelCell Energy Stock",
+          "translation": "（這段是原文中的一個小標題，與主文無關，但仍需翻譯）連續的評級上調，預示著機構對燃料電池能源公司股票的支持正在增加。"
         },
         {
-          "sentence": "For investors considering SpaceX's IPO, the real question is no longer whether revenue can grow, but whether profits can eventually catch up.",
-          "translation": "對於考慮 SpaceX IPO 的投資人來說，真正的問題不再是營收能否成長，而是獲利能力最終能否跟上。"
+          "sentence": "Why is that, you might ask?",
+          "translation": "你可能會問，為什麼會這樣呢？"
         },
         {
-          "sentence": "Analysts estimate revenue to climb from $18.67 billion in 2025—up from approximately $14 billion in 2024—to roughly $85 billion by 2028.",
-          "translation": "分析師預計，SpaceX 的營收將從 2024 年的約 140 億美元，成長到 2025 年的 186.7 億美元，並在 2028 年達到約 850 億美元。"
+          "sentence": "Well, National Grid just announced a big move on Wednesday to invest $1.75 billion in a U.S. artificial intelligence (AI) power infrastructure company, supporting the data center buildout.",
+          "translation": "原來，國家電網剛在週三宣布了一項重大舉措，將投資 17.5 億美元給一家美國的人工智慧（AI）電力基礎設施公司，以支持資料中心的建置。"
         },
         {
-          "sentence": "That represents a 4.5-fold increase in just three years.",
-          "translation": "這意味著在短短三年內，營收將成長 4.5 倍。"
+          "sentence": "Let's dive more into this deal and why NGG stock has been seeing so much volatility following the news.",
+          "translation": "讓我們更深入探討這筆交易，以及為何這項消息發布後，國家電網（NGG）的股價出現如此大的波動。"
         },
         {
-          "sentence": "Those forecasts, however, largely model SpaceX as the company investors already know: a launch provider supplemented by the fast-growing Starlink satellite internet business.",
-          "translation": "然而，這些預測大多將 SpaceX 視為投資人已經熟悉的模樣：一家以快速成長的星鏈（Starlink）衛星網路業務為輔助的火箭發射服務供應商。"
+          "sentence": "This $1.75 billion deal is significant in that it signals to investors that global utility players want a piece of what the U.S. market has to offer.",
+          "translation": "這筆 17.5 億美元的交易意義重大，它向投資人表明，全球的公用事業巨頭都想分一杯羹，參與美國市場的發展機會。"
         },
         {
-          "sentence": "But the company has already changed.",
-          "translation": "但這家公司其實已經改變了。"
+          "sentence": "Indeed, the data center buildout that's happening in the U.S. (and around the world) will inevitably result in a surge of power demand.",
+          "translation": "確實，美國（乃至全球）正在進行的資料中心大規模建置，將不可避免地導致電力需求大幅飆升。"
         },
         {
-          "sentence": "SpaceX increasingly describes itself as an AI infrastructure company, not simply an aerospace business.",
-          "translation": "SpaceX 正越來越多地將自己定位為一家人工智慧基礎設施公司，而不僅僅是傳統的航太企業。"
+          "sentence": "The particular company National Grid is investing in is Joulent, a company that's currently looking to undertake a massive 2.67 gigawatt (GW) project in Texas.",
+          "translation": "國家電網投資的這家特定公司是 Joulent，它目前正計畫在德州承接一個高達 2.67 吉瓦（GW）的巨型專案。"
         },
         {
-          "sentence": "Elon Musk has gone even further, predicting $1 trillion in annual revenue by 2030—a target that borders on science fiction today but underscores the company's ambitions.",
-          "translation": "伊隆·馬斯克甚至更進一步，預測到 2030 年，年營收將達到 1 兆美元——這目標在今天看來幾乎是科幻小說情節，但卻突顯了這家公司的巨大野心。"
+          "sentence": "In combination with Chevron (CVX), which is part of the joint venture to put this project together, National Grid looks to increase its exposure to the U.S. market and grab a slice of the tech-driven power demand many investors are after.",
+          "translation": "國家電網與雪佛龍（Chevron，股票代碼：CVX）共同成立合資企業來推動這個專案，藉此希望增加其在美國市場的曝險，並搶佔許多投資人追逐的科技驅動型電力需求市場。"
         },
         {
-          "sentence": "Interestingly, SpaceX's own IPO underwriters appear to be moving toward that view.",
-          "translation": "有趣的是，SpaceX 自己的 IPO 承銷商似乎也正朝著這個觀點靠攏。"
+          "sentence": "Notably, this project should benefit from its geographic proximity to cheaper natural gas in the Permian Basin.",
+          "translation": "值得注意的是，這個專案將受益於其地理位置，因為它鄰近二疊紀盆地（Permian Basin）較便宜的天然氣供應。"
         },
         {
-          "sentence": "Forecasts from Morgan Stanley and Goldman Sachs reportedly project approximately $330 billion and $322 billion in annual revenue, respectively, after incorporating recently announced AI infrastructure contracts, including roughly $26 billion in annualized data center leases with Alphabet's (GOOG) (GOOGL) Google and Anthropic.",
-          "translation": "據報導，摩根士丹利（Morgan Stanley）和高盛（Goldman Sachs）的預測，在納入近期宣布的人工智慧基礎設施合約後，分別預計 SpaceX 的年營收將達到約 3300 億美元和 3220 億美元，其中包括與 Alphabet 旗下的 Google (GOOG) (GOOGL) 和 Anthropic 簽訂的約 260 億美元的年度資料中心租賃合約。"
-        },
-        {
-          "sentence": "Those models reportedly expect AI cloud infrastructure and orbital data centers to contribute more than half of SpaceX's revenue by 2028.",
-          "translation": "這些模型據稱預計，到 2028 年，人工智慧雲端基礎設施和軌道資料中心將貢獻 SpaceX 超過一半的營收。"
-        },
-        {
-          "sentence": "Revenue projections also changed following SpaceX's $60 billion acquisition of Cursor.",
-          "translation": "在 SpaceX 以 600 億美元收購 Cursor 後，營收預測也隨之改變。"
-        },
-        {
-          "sentence": "The purchase gives the company something it previously lacked: an application-layer business.",
-          "translation": "這次收購讓這家公司獲得了它以前所缺乏的東西：一個應用層業務。"
-        },
-        {
-          "sentence": "Instead of simply renting AI compute, SpaceX can potentially own the computing infrastructure, the software running on it, and the distribution platform through X.",
-          "translation": "SpaceX 不再只是單純租用 AI 運算資源，而是有潛力透過 X 平台，擁有運算基礎設施、運行在其上的軟體，以及分銷平台。"
-        },
-        {
-          "sentence": "That creates an unusually integrated business model.",
-          "translation": "這創造了一個異常整合的商業模式。"
-        },
-        {
-          "sentence": "Launches finance Starlink's expansion.",
-          "translation": "火箭發射業務為星鏈（Starlink）的擴張提供資金。"
-        },
-        {
-          "sentence": "Starlink cash flow helps fund Starship.",
-          "translation": "星鏈的現金流則有助於資助星艦（Starship）計畫。"
-        },
-        {
-          "sentence": "Starship eventually lowers launch costs, enabling the deployment of larger V3 satellites carrying roughly 10 times the downlink capacity of today's V2 satellites.",
-          "translation": "星艦最終將降低發射成本，從而能夠部署更大的 V3 衛星，這些衛星的下行傳輸容量大約是目前 V2 衛星的 10 倍。"
-        },
-        {
-          "sentence": "Direct-to-cell service is expanding through partnerships with more than 30 wireless carriers across over 30 countries.",
-          "translation": "直連手機服務正透過與全球 30 多個國家、超過 30 家無線通訊業者合作，持續擴展。"
+          "sentence": "Additionally, the fact that Microsoft (MSFT) is the key player looking to ultimately utilize the power generated by this facility in a long-term contract means that the sorts of long-term cash flows this project looks to generate should be increasingly stable.",
+          "translation": "此外，微軟（Microsoft，股票代碼：MSFT）作為主要客戶，計畫透過長期合約最終使用該設施產生的電力，這意味著這個專案預期產生的長期現金流將會越來越穩定。"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "violence_connection": "今日台股大戶籌碼動向與國際科技新聞的暴力聯結，揭示了外資對未來AI基礎設施佈局的先知先覺。在7月2日的交易中，外資對聯電（2303）展現了驚人的買超力道，淨買入高達6587萬股，其中美商高盛單一分點就掃貨逾2300萬股，同時矽統（2363）、南茂（8150）、國巨（2327）等半導體及關鍵零組件股也獲外資青睞。這股強勁的買盤，與前一日（6月30日/7月1日）國際財經新聞中，SpaceX宣佈其正積極轉型為「AI基礎設施公司」，並預期其AI雲端基礎設施與軌道資料中心將貢獻巨額營收的報導，形成了極具說服力的時間差與邏輯串聯。\n\n顯然，部分具備全球視野的頂級外資，已將SpaceX的AI雄心視為半導體產業的下一個巨大催化劑。儘管SpaceX主要聚焦於美國市場，但其對AI晶片、伺服器、通訊模組等硬體的需求，必然會傳導至台灣這個全球半導體供應鏈的核心。聯電作為全球領先的晶圓代工廠，其在特殊製程、電源管理IC等領域的實力，正是支撐AI基礎設施不可或缺的一環。外資大戶的提前部署，正是在賭SpaceX的AI戰略將為台灣相關供應鏈帶來長期而可觀的訂單。這不僅是資訊的聯結，更是資本對未來科技趨勢的精準押注，預示著一場由太空科技巨頭引領的AI硬體新浪潮，正悄然席捲台股。"
+    "market_connection": "根據 Yahoo Finance 的國際財經新聞，Microsoft 的 Azure 疁速成長和 AI 部門的年化收入達到 37 億美元，表明該公司的企業 Cash Cow 功能正在穩定下來。這些信息與台新新光金、富邦科技等股權的買賣動向有著密切的關係，因為 Microsoft 的業績對於資本市場具有重要影響力。因此，可以預料在未來，Microsoft 的業績會持續穩定，從而推動相關股權的價值上升。"
   }
 }
