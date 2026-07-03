@@ -88,6 +88,8 @@ def call_gemini(system_prompt, user_prompt, api_key):
                     except Exception:
                         pass
                 
+                if retry_delay <= 0:
+                    retry_delay = 5.0
                 sleep_time = min(retry_delay * (backoff_factor ** attempt), max_sleep_time)
                 if attempt < max_retries - 1:
                     print(f"Gemini API returned status code {response.status_code}. Retrying in {sleep_time:.2f} seconds (Attempt {attempt+1}/{max_retries})...")
@@ -245,7 +247,7 @@ def run_processor(mode, ollama_model):
         f"- top_brokerages_analysis (陣列，每個分點一個物件，欄位包含 branch_name, action, uncle_logic)"
     )
     
-    linker_user = f"{md_str} 的台股數據為：{stock_market_str}；下午的國際財經新聞為：{news_str}。請根據你作為暴力聯結器的設定，進行跨市場大腦聯結推理，並『嚴格』只輸出一個 JSON 物件，包含以下欄位：\n- violence_connection (字串，約 200-350 字的精彩推理，探討兩者間的可能因果關係或主力暗度陳倉行為)"
+    linker_user = f"{md_str} 的台股數據為：{stock_market_str}；下午的國際財經新聞為：{news_str}。請根據你作為大腦聯結器的設定，進行跨市場大腦聯結推理，並『嚴格』只輸出一個 JSON 物件，包含以下欄位：\n- market_connection (字串，約 200-350 字的精彩推理，探討兩者間的可能因果關係或主力暗度陳倉行為)"
 
     # Initialize results
     stock_uncle_insight = None
@@ -323,8 +325,13 @@ def run_processor(mode, ollama_model):
                     chosen_keywords.append(kw["word"].lower().strip())
         else:
             raise RuntimeError(f"Invalid JSON format or missing required fields from AI for English Professor article {idx+1}. Result: {result}")
+            
+        # Add a small delay between articles to avoid rate limits
+        if idx < len(raw_data["news"]) - 1:
+            time.sleep(2)
 
     # 3. Run Market Linker
+    time.sleep(2)
     print("3. Processing Market Linker...")
     if mode == "gemini":
         market_linker_insight = call_gemini(linker_sys, linker_user, api_key)
@@ -340,8 +347,8 @@ def run_processor(mode, ollama_model):
     # --- Structural Validation ---
     if not isinstance(stock_uncle_insight, dict) or "buyer_groups" not in stock_uncle_insight:
         raise RuntimeError("Stock Uncle output is missing 'buyer_groups' or is not a valid object.")
-    if not isinstance(market_linker_insight, dict) or "violence_connection" not in market_linker_insight:
-        raise RuntimeError("Market Linker output is missing 'violence_connection' or is not a valid object.")
+    if not isinstance(market_linker_insight, dict) or "market_connection" not in market_linker_insight:
+        raise RuntimeError("Market Linker output is missing 'market_connection' or is not a valid object.")
 
     # Ensure date_header exists dynamically
     if "date_header" not in stock_uncle_insight or not stock_uncle_insight["date_header"]:
