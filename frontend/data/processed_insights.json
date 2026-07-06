@@ -1,423 +1,551 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "stock_uncle_insight": {
-    "date_header": "7/4 法人與主力大戶主要買超股票",
+    "date_header": "7/7 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃金融與傳產，面板、晶圓雙雄先避險",
+        "group_title": "1. 外資大戶：狂掃面板雙虎與金融避險",
         "stocks": [
-          {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "外資買超聯電 3.5 萬張，但投信跟自營卻在倒貨，這是在玩兩手策略嗎？國際晶片股有雜音，外資這波操作很耐人尋味，肖年仔別黑白猜。"
-          },
-          {
-            "stock_name": "中石化",
-            "ticker": "1314",
-            "description": "連中石化這種傳產股都能進外資買超榜 3.4 萬張，這說明外資在找低基期、有題材的避風港，肖年仔，別只看熱門股，冷門股有時才是寶。"
-          },
-          {
-            "stock_name": "凱基金",
-            "ticker": "2883",
-            "description": "凱基金被外資買超 2.4 萬張，金融股持續被外資青睞，這波資金流向很明顯，穩健型資金的選擇，肖年仔可以學著點。"
-          },
           {
             "stock_name": "群創",
             "ticker": "3481",
-            "description": "外資狂倒群創 5.7 萬張，面板股被外資倒貨倒得兇，肖年仔別去接刀啊！外資都跑了，你還想當韭菜嗎？"
+            "description": "肖年仔，外資大戶今天狂掃群創將近11.8萬張，這不是黑白買，擺明就是看好面板報價有機會觸底反彈，或是準備拉高出貨給追高的韭菜們！"
           },
           {
             "stock_name": "友達",
             "ticker": "2409",
-            "description": "友達也被外資賣超 2.2 萬張，面板雙雄一起被砍，外資對面板後市不看好，這波跌勢恐怕還沒完。"
+            "description": "友達也跟著群創被外資大戶買超9.07萬張，面板雙虎聯手出擊，外資這波操作很明顯，就是鎖定低基期、有轉機題材的標的。"
           },
           {
-            "stock_name": "台積電",
-            "ticker": "2330",
-            "description": "連台積電都被外資小幅賣超 1.2 萬張，雖然不多，但這訊號很清楚，外資在科技股上還是偏保守，肖年仔要小心。"
+            "stock_name": "長興",
+            "ticker": "1717",
+            "description": "外資買超長興2.37萬張，這檔塑化股被買進，可能是看好原物料後市，或是資金在尋找避風港，肖年仔，這叫低基期卡位。"
+          },
+          {
+            "stock_name": "永豐金",
+            "ticker": "2890",
+            "description": "永豐金被外資買超2.18萬張，金融股向來是避險的好去處，在大盤震盪時，外資會把錢挪到這種穩定的標的，肖年仔，這叫資金避風港。"
+          },
+          {
+            "stock_name": "中石化",
+            "ticker": "1314",
+            "description": "中石化也獲得外資2.15萬張的買超，跟長興一樣，塑化股被外資看上，可能是在賭原物料行情，但肖年仔，這種股票波動大，要小心接刀。"
+          },
+          {
+            "stock_name": "國泰金",
+            "ticker": "2882",
+            "description": "國泰金被外資買超2.05萬張，跟永豐金一樣，外資在佈局金融股，這是在做高檔避險，肖年仔，穩字訣才是王道。"
+          },
+          {
+            "stock_name": "凱基金",
+            "ticker": "2883",
+            "description": "凱基金也被外資買超2.03萬張，金融三雄都被外資掃貨，這不是巧合，是外資在調整部位，把資金從高風險板塊撤出。"
+          },
+          {
+            "stock_name": "南茂",
+            "ticker": "8150",
+            "description": "外資買超南茂1.75萬張，雖然大賣記憶體，但對部分半導體封測股還是有興趣，肖年仔，這叫資金輪動，不是整個產業都黑白買。"
+          },
+          {
+            "stock_name": "玉山金",
+            "ticker": "2884",
+            "description": "玉山金被外資買超1.63萬張，但投信卻在賣，這表示外資跟投信對金融股的看法有分歧，肖年仔，這就是市場的眉角。"
+          },
+          {
+            "stock_name": "京元電子",
+            "ticker": "2449",
+            "description": "京元電子被外資買超1.59萬張，跟南茂一樣，半導體封測股有外資青睞，可能是看好AI相關的後段需求，肖年仔，這叫題材點火。"
           }
         ]
       },
       {
-        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，鎖碼AI供應鏈與金融",
+        "group_title": "2. 投信大戶（本土國家隊）：作帳行情鎖定防禦型與高殖利率",
         "stocks": [
-          {
-            "stock_name": "佳世達",
-            "ticker": "2352",
-            "description": "投信持續作帳，買超佳世達 5922 張，鎖碼AI相關供應鏈，這就是本土國家隊的慣性，肖年仔可以觀察看看，但要小心結帳壓力。"
-          },
           {
             "stock_name": "第一金",
             "ticker": "2892",
-            "description": "第一金被投信買超 5576 張，金融股也是投信的愛，穩健配置，這波法人都在找安全牌。"
+            "description": "投信大戶買超第一金0.74萬張，這很明顯是作帳行情，金融股高殖利率又穩，基金經理人年底要交成績單，當然要買這種安全牌來撐場面。"
+          },
+          {
+            "stock_name": "遠傳",
+            "ticker": "4904",
+            "description": "遠傳被投信買超0.64萬張，電信股也是防禦型標的，在大盤震盪時，投信會把資金移到這種抗跌的股票，肖年仔，這叫避險操作。"
           },
           {
             "stock_name": "長榮航",
             "ticker": "2618",
-            "description": "長榮航被投信買超 4735 張，航空股旺季效應，投信也來卡位，肖年仔，有題材的股票才有人氣。"
+            "description": "長榮航被投信買超0.50萬張，航空股在解封題材下，投信持續佈局，肖年仔，這叫旺季效應，但也要小心高檔倒貨。"
           },
           {
-            "stock_name": "緯創",
-            "ticker": "3231",
-            "description": "緯創這AI概念股，投信持續加碼 4536 張，看好後市，雖然國際晶片股有雜音，但本土法人還是對AI有信心。"
-          },
-          {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "華邦電被投信倒貨 1.8 萬張，記憶體股短期壓力不小，肖年仔，投信在跑，你還在追嗎？"
-          },
-          {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "投信賣超聯電 1.2 萬張，跟外資在聯電上不同調，這就是多空分歧，肖年仔，這種股票要特別小心。"
-          }
-        ]
-      },
-      {
-        "group_title": "3. 內資主力與實戶：避險買ETF，航運、金融也來湊熱鬧",
-        "stocks": [
-          {
-            "stock_name": "富邦科技",
-            "ticker": "0052",
-            "description": "自營商買超富邦科技 3194 張，這擺明是買ETF避險，肖年仔，市場震盪時，跟著大戶買ETF是最安全的選擇。"
-          },
-          {
-            "stock_name": "南亞科",
-            "ticker": "2408",
-            "description": "自營商買超南亞科 1719 張，是看好記憶體反彈還是避險？這種操作很難說，肖年仔，別黑白猜。"
+            "stock_name": "英業達",
+            "ticker": "2356",
+            "description": "英業達被投信買超0.49萬張，雖然部分電子股被結帳，但投信還是有挑選部分電子代工股，肖年仔，這可能是看好AI伺服器相關的訂單。"
           },
           {
             "stock_name": "兆豐金",
             "ticker": "2886",
-            "description": "兆豐金被自營商買超 1519 張，金融股穩健，自營商也來分一杯羹，這就是市場資金的避風港。"
+            "description": "兆豐金被投信買超0.47萬張，跟第一金一樣，投信在金融股上持續加碼，這就是國家隊的穩健操作，肖年仔，跟著國家隊走，比較不會被割韭菜。"
+          },
+          {
+            "stock_name": "台灣大",
+            "ticker": "3045",
+            "description": "台灣大被投信買超0.46萬張，電信雙雄都被投信買進，這表示投信對防禦型股票的偏好很明顯，肖年仔，這叫資金避風港。"
+          },
+          {
+            "stock_name": "神達",
+            "ticker": "3706",
+            "description": "神達被投信買超0.43萬張，但自營商卻在賣，這兩大法人對這檔股票看法不同調，肖年仔，這種時候就要看誰的拳頭大。"
+          },
+          {
+            "stock_name": "聯強",
+            "ticker": "2347",
+            "description": "聯強被投信買超0.42萬張，電子通路股被投信買進，可能是看好下半年的消費電子需求，肖年仔，這叫提前卡位。"
+          },
+          {
+            "stock_name": "中信金",
+            "ticker": "2891",
+            "description": "中信金被投信買超0.40萬張，金融股持續被投信青睞，這波金融股的買盤很紮實，肖年仔，這不是黑白買，是有計畫的佈局。"
+          },
+          {
+            "stock_name": "佳世達",
+            "ticker": "2352",
+            "description": "佳世達被投信買超0.38萬張，這檔股票有醫療題材，投信可能是在尋找新的成長動能，肖年仔，這叫新技術題材點火。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：跟風面板雙虎與避險操作",
+        "stocks": [
+          {
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "自營商也跟著外資買超群創0.53萬張，這表示面板雙虎的買盤有共識，肖年仔，這種集體買超，不是要拉高出貨，就是真的看好後市。"
+          },
+          {
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "友達也被自營商買超0.28萬張，自營商跟外資同步買進面板雙虎，這可能是避險盤在權證市場對作，肖年仔，這叫權證大戰。"
           },
           {
             "stock_name": "長榮航",
             "ticker": "2618",
-            "description": "長榮航被自營商買超 1044 張，航運股有題材，自營商也來隔日沖一下，肖年仔，這種短線操作要眼明手快。"
+            "description": "長榮航被自營商買超0.11萬張，跟投信一樣，自營商也看好航空股的復甦，肖年仔，這叫資金避風港，但也要小心短線獲利了結。"
           },
           {
-            "stock_name": "群創",
-            "ticker": "3481",
-            "description": "自營商也跟著外資倒群創 1573 張，這波面板真的要小心，大戶都在跑，你還想當接刀俠嗎？"
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "自營商買超華邦電0.10萬張，但外資卻在大賣，這表示自營商可能在做短線價差，或是權證避險，肖年仔，這叫隔日沖。"
+          },
+          {
+            "stock_name": "中石化",
+            "ticker": "1314",
+            "description": "中石化被自營商買超0.08萬張，跟外資一樣，自營商也佈局塑化股，肖年仔，這叫低基期卡位，但也要小心被套牢。"
           },
           {
             "stock_name": "聯電",
             "ticker": "2303",
-            "description": "自營商也賣超聯電 645 張，跟投信同調，外資卻在買，肖年仔，這檔股票多空分歧，別輕易出手。"
+            "description": "自營商買超聯電0.07萬張，但投信卻大賣，這兩大法人對聯電看法分歧，肖年仔，這種股票就別黑白猜了，容易接刀。"
+          },
+          {
+            "stock_name": "中信金",
+            "ticker": "2891",
+            "description": "中信金被自營商買超0.07萬張，金融股是自營商的避險好標的，肖年仔，這叫高檔避險，穩字訣才是王道。"
+          },
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "兆豐金被自營商買超0.05萬張，金融股被三大法人同步買進，這表示市場對金融股的共識度很高，肖年仔，這叫資金避風港。"
+          },
+          {
+            "stock_name": "京元電子",
+            "ticker": "2449",
+            "description": "京元電子被自營商買超0.05萬張，跟外資一樣，自營商也看好半導體封測，肖年仔，這叫新技術題材點火，但也要小心短線拉高出貨。"
+          },
+          {
+            "stock_name": "長興",
+            "ticker": "1717",
+            "description": "長興被自營商買超0.05萬張，塑化股被外資和自營商同步買進，肖年仔，這可能是看好原物料後市，但也要小心被套牢。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔避險與資金避風港（金融、ETF）",
-        "strategy_content": "肖年仔，你看外資狂掃金融股，自營商也買ETF，這擺明是市場震盪，大戶把資金轉往防禦性標的。美股晶片股下跌，台股科技股也受影響，資金自然流向穩健的金融股和指數型ETF避險。這就是大戶在找安全牌，你還在追高殺低嗎？"
+        "strategy_title": "策略一：高檔避險與資金避風港（金融、電信、航空）",
+        "strategy_content": "肖年仔，你看外資、投信、自營商今天同步狂掃金融股，像永豐金、國泰金、第一金、兆豐金、中信金這些，還有投信買進遠傳、台灣大這些電信股，連長榮航都被投信和自營商買進。這擺明了就是大盤在高檔震盪，主力大戶把資金從高風險的電子股撤出來，轉往這些具有防禦性、高殖利率，或是旺季效應的板塊。國際新聞也說記憶體要漲價但消費不買單，TSMC也要漲價，這些都讓市場對電子股的看法更謹慎，所以資金就往這些避風港跑，肖年仔，這叫穩字訣。"
       },
       {
-        "strategy_title": "策略二：AI供應鏈作帳行情與題材點火",
-        "strategy_content": "投信持續鎖碼AI相關供應鏈，如佳世達、緯創等，這很明顯是季底作帳的慣性。雖然國際新聞提到晶片股下跌，AI基礎設施有疑慮，但本土投信仍看好AI長線趨勢，趁拉回佈局。肖年仔，這就是國家隊在幫你點火，但也要小心結帳壓力。"
+        "strategy_title": "策略二：面板雙虎逆勢點火，外資與自營商同步鎖碼",
+        "strategy_content": "肖年仔，今天最吸睛的就是群創和友達這兩隻面板雙虎，被外資和自營商狂掃，外資光群創就買了將近11.8萬張，友達也買了9.07萬張。這不是黑白買，這是在半導體漲價、消費電子需求不明朗的背景下，主力資金在尋找低基期、有轉機題材的標的。面板報價可能被預期觸底反彈，所以大戶們提前卡位，準備拉高出貨給追高的韭菜們。肖年仔，這種量能不是散戶玩得起的，小心別去接刀。"
       },
       {
-        "strategy_title": "策略三：傳產與航運的波段操作與旺季效應",
-        "strategy_content": "外資買中石化、中鋼等傳產，投信和自營商也買長榮航、陽明，這顯示部分資金在尋找低基期或有旺季題材的標的。航運股受惠運價題材，傳產則可能被視為價值型投資。肖年仔，別只看科技股，傳產和航運有時也能給你驚喜。"
+        "strategy_title": "策略三：半導體板塊資金輪動與避險操作",
+        "strategy_content": "肖年仔，半導體板塊今天很熱鬧，外資大賣力積電、華邦電、旺宏這些記憶體股，但卻買進南茂、京元電子這些封測股。自營商則是買進華邦電、聯電、京元電子，但投信卻大賣聯電。這表示半導體產業鏈內部資金在進行調整，外資可能在出清部分記憶體，轉向其他環節或避險。加上國際新聞說TSMC要漲價，這會影響下游廠商的成本，所以主力資金在重新佈局，肖年仔，這叫資金輪動，不是整個產業都黑白買。"
       },
       {
-        "strategy_title": "策略四：晶片股多空分歧，主力操作謹慎",
-        "strategy_content": "聯電外資大買，但投信和自營商卻大賣，這顯示法人對晶片股的看法出現分歧。國際新聞也提到晶片股下跌，AI基礎設施疑慮，大戶們在晶片股的操作上顯得非常謹慎，多空交戰激烈。肖年仔，這種多空不明的股票，別輕易接刀，看清楚再說。"
+        "strategy_title": "策略四：塑化股的低基期佈局",
+        "strategy_content": "肖年仔，你看外資買超長興、中石化，自營商也跟著買進長興、中石化。這表示主力資金可能在原物料價格低檔徘徊的時候，預期未來有反彈空間，所以提前卡位。這種低基期的股票，一旦有風吹草動，很容易就被拉抬起來，但肖年仔，這種股票波動大，要小心接刀，別傻傻追高。"
       }
     ],
-    "summary": "肖年仔，市場多空交戰，外資避險買金融，投信作帳鎖AI，自營商買ETF，面板、晶片股多空分歧，別黑白買，看清楚主力動向再出手！",
+    "summary": "肖年仔，今天三大法人操作很明確，外資狂掃面板雙虎，同時與投信、自營商一起佈局金融、電信、航空等防禦型股票，這擺明了就是高檔避險，資金在尋找避風港。半導體板塊則是在進行資金輪動，記憶體被倒貨，但封測股有買盤。肖年仔，大盤震盪時，穩字訣才是王道，別傻傻去追高殺低，小心被割韭菜！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 1.66 萬張",
-        "uncle_logic": "高盛這外資大戶，狂掃台新新光金 1.66 萬張，擺明是看好金融股的防禦性跟下半年的獲利展望。肖年仔，這不是隔日沖，這是長線布局的訊號！"
+        "action": "買超 4.13 萬張",
+        "uncle_logic": "美商高盛今天狂掃群創4.13萬張，這擺明是外資大戶在鎖碼群創，不是看好面板後市，就是準備拉高出貨給追高的韭菜們。肖年仔，這種量能不是散戶玩得起的，別傻傻去當抬轎的。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 1277 張",
-        "uncle_logic": "凱基台北這分點，買富邦科技 ETF 1277 張，這很明顯是短線避險盤，或是隔日沖的慣性。肖年仔，這種買法，明天可能就倒貨給你，別傻傻去接刀！"
+        "action": "買超 0.21 萬張",
+        "uncle_logic": "凱基台北這分點，大家嘛知道是隔日沖大本營。今天買群創兩千多張，明天八成是要倒貨給追高的韭菜們。肖年仔，別傻傻去接刀啊，小心被割韭菜！"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 2664 張",
-        "uncle_logic": "元大投信買佳世達 2664 張，這就是標準的投信作帳行情。佳世達有AI題材，投信趁機拉抬，準備年底結算衝績效，肖年仔可以觀察看看，但要小心結帳壓力。"
+        "action": "買超 0.33 萬張",
+        "uncle_logic": "元大投信買第一金三千多張，這是標準的投信作帳行情啦！金融股高殖利率又穩，基金經理人年底要交成績單，當然要買這種安全牌來撐場面。肖年仔，跟著國家隊走，比較不會被割韭菜。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 1.73 萬張",
-        "uncle_logic": "摩根大通這外資大戶，狂倒群創 1.73 萬張，跟外資整體賣超面板的趨勢一致。肖年仔，面板股現在是燙手山芋，外資在撤退，你還想去接刀當韭菜嗎？"
+        "action": "賣超 1.18 萬張",
+        "uncle_logic": "摩根大通大賣和桐一萬多張，這外資在倒貨，擺明就是不看好這檔了。肖年仔，這種股票就別去碰了，小心被割韭菜，別傻傻去接刀。"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "Dow Jones Futures: Techs Jump With Apple, SpaceX, Sandisk, Robinhood In Focus",
+      "title": "Best Buy and Apple flag a price shock for shoppers",
       "source": "Yahoo Finance",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo",
+      "link": "https://finance.yahoo.com/economy/articles/best-buy-apple-flag-price-203300039.html",
       "level1_blind": {
-        "text": "Dow Jones Futures: Techs Jump With Apple, SpaceX, Sandisk, Robinhood In Focus"
+        "text": "\"Unfortunately, price increases are unavoidable,\" he told The Wall Street Journal. \"We're doing everything we can to mitigate the huge increases being passed on to us.\"\n\nThe problem is a global shortage of memory chips. These components, known as DRAM (memory) and NAND (storage), are inside nearly every computing device sold today.\n\nIt's a situation that means higher prices, not just for Apple, but for consumers across the board. Normally, that would push consumers to stock up before prices increase, but that's not what's happening, according to Best Buy's outgoing CEO Corie Barry.\n\nTraditionally, when people know that price increases are coming, that leads to at least some consumers buying ahead to meet future needs.\n\n\"In our research around the consumer. We are not seeing any indicators that would say the customer is pulling forward purchases,\" she said during Best Buy's first-quarter earnings call.\n\nBarry noted that the upcoming price increases, something that will hit pretty much any product that uses memory, unless the manufacturer opts to eat higher costs, have not impacted customer purchases.\n\n\"And in fact, very few really are worried about memory, as I say, in air quotes. And we've been keeping a really tight eye on this. So I think, again, I said it, we continue to see very consistent customer behavior, which is a customer that's under a little more pressure, but still resilient, attracted to deals and sales moments, shopping within their budget,\" she added.\n\nA few months ago, I ordered a hot tub because it was being offered at a lower price than I had seen before. We hadn't moved into the house where the spa is located, but spending the money now meant saving close to $1,000 rather than pushing the purchase down the road."
       },
       "level2_keywords": [
         {
-          "word": "Dow Jones Futures",
-          "ipa": "/daʊ dʒoʊnz ˈfjuːtʃərz/",
-          "meaning": "各位同學，「道瓊期貨」是一種金融衍生品，它代表了投資人對未來道瓊工業指數走勢的預期。在市場分析中，它常用來預測開盤方向或衡量整體市場情緒。",
-          "example": "「Dow Jones Futures」often indicate the market's opening direction, giving investors an early glimpse."
+          "word": "price increases",
+          "ipa": "[praɪs ˈɪnkrisɪz]",
+          "meaning": "指商品或服務的價格上漲，通常會影響消費者的購買力與企業的成本結構。",
+          "example": "The company announced significant price increases for its new product line due to rising raw material costs."
         },
         {
-          "word": "Techs",
-          "ipa": "/tɛks/",
-          "meaning": "「Techs」是「Technology stocks」的簡稱，指的是科技產業相關公司的股票。這些公司通常涵蓋軟體、硬體、網路服務、半導體等領域，是市場上成長潛力較高的板塊。",
-          "example": "After a strong earnings season, 「Techs」have been leading the market rally this quarter."
+          "word": "mitigate",
+          "ipa": "[ˈmɪtɪˌɡeɪt]",
+          "meaning": "減輕、緩解，指採取措施來降低某種負面影響或風險。",
+          "example": "We are implementing new strategies to mitigate the impact of the global chip shortage on our production schedule."
         },
         {
-          "word": "Jump",
-          "ipa": "/dʒʌmp/",
-          "meaning": "在財經新聞中，「jump」表示股價或指數「跳漲」或「大漲」，意味著價格在短時間內顯著上升，通常是受到利好消息或強勁買盤的推動。",
-          "example": "The company's stock took a significant 「jump」after the positive earnings report, surprising many analysts."
+          "word": "global shortage",
+          "ipa": "[ˈɡloʊbəl ˈʃɔrtɪdʒ]",
+          "meaning": "全球短缺，指某種商品、資源或零組件在全球範圍內供應不足的狀況。",
+          "example": "The global shortage of semiconductors has severely disrupted the automotive and electronics industries."
         },
         {
-          "word": "In Focus",
-          "ipa": "/ɪn ˈfoʊkəs/",
-          "meaning": "「In Focus」表示「備受關注」或「成為焦點」。這意味著某個公司、產業或特定議題，正受到市場投資人、分析師或媒體的高度注意與討論。",
-          "example": "With the new product launch, the company is 「in focus」for investors, eager to see its market reception."
+          "word": "memory chips",
+          "ipa": "[ˈmɛməri tʃɪps]",
+          "meaning": "記憶體晶片，泛指用於儲存資料的半導體元件，如 DRAM（動態隨機存取記憶體）和 NAND（儲存型快閃記憶體），是各種電子裝置的核心零組件。",
+          "example": "Smartphones and computers heavily rely on advanced memory chips for their performance and storage capabilities."
         },
         {
-          "word": "Robinhood",
-          "ipa": "/ˈrɒbɪnhʊd/",
-          "meaning": "「羅賓漢」是一家美國的金融服務公司，以其免佣金的股票、ETF和加密貨幣交易平台聞名。它特別受到年輕一代和散戶投資者的歡迎，對傳統券商帶來了衝擊。",
-          "example": "「Robinhood」has democratized investing for many retail traders, making financial markets more accessible."
+          "word": "pulling forward purchases",
+          "ipa": "[ˈpʊlɪŋ ˈfɔrwərd ˈpɜrtʃəsɪz]",
+          "meaning": "提前採購，指消費者或企業預期未來價格上漲或供應短缺，而提前進行購買行為。",
+          "example": "Despite anticipated price hikes, consumers are not pulling forward purchases, indicating cautious spending behavior."
         }
       ],
-      "level2_context": "各位同學，這則新聞標題點出了當前市場的一個重要趨勢。當「道瓊期貨」顯示「科技股」正在「大漲」時，這通常意味著投資人對科技產業的未來表現抱持樂觀態度。新聞特別點名了像「蘋果」（科技巨頭）、「SpaceX」（新興太空科技）、「Sandisk」（記憶體儲存）和「Robinhood」（金融科技）這些公司，它們各自代表了科技產業的不同面向與創新力量。這表示市場的熱點可能集中在這些具有創新能力或市場影響力的科技公司上，投資人正密切關注它們的動態，期待能從中獲利。這也反映了科技產業在全球經濟中日益增長的影響力，以及其對整體市場情緒的帶動作用。",
+      "level2_context": "各位同學，這篇新聞主要在探討當前科技產業面臨的一個關鍵挑戰：記憶體晶片的全球性短缺。這種短缺導致了包括蘋果在內，所有使用 DRAM 和 NAND 這些核心零組件的運算裝置，都將面臨「價格上漲」的壓力。這對廣大消費者來說，意味著未來購買電子產品可能需要付出更高的成本。有趣的是，儘管傳統上消費者在預期價格上漲時會「提前採購」來囤貨，但百思買（Best Buy）的財報電話會議卻顯示，目前消費者並沒有出現這種行為。這反映出在當前經濟壓力下，消費者雖然仍有購買需求，但他們更傾向於精打細算，在預算內購物，並尋找促銷優惠，而非盲目地提前消費。",
       "level3_translation": [
         {
-          "sentence": "Dow Jones Futures: Techs Jump With Apple, SpaceX, Sandisk, Robinhood In Focus",
-          "translation": "「道瓊期貨」顯示，「科技股」在「蘋果」、「SpaceX」、「Sandisk」和「羅賓漢」等公司的帶動下，呈現「大漲」態勢，成為市場「關注焦點」。"
+          "sentence": "\"Unfortunately, price increases are unavoidable,\" he told The Wall Street Journal.",
+          "translation": "「很不幸地，價格上漲是無法避免的，」他向『華爾街日報』表示。"
+        },
+        {
+          "sentence": "\"We're doing everything we can to mitigate the huge increases being passed on to us.\"",
+          "translation": "「我們正盡一切努力來減輕轉嫁到我們身上的巨大成本增幅。」"
+        },
+        {
+          "sentence": "The problem is a global shortage of memory chips.",
+          "translation": "問題出在記憶體晶片的全球性短缺。"
+        },
+        {
+          "sentence": "These components, known as DRAM (memory) and NAND (storage), are inside nearly every computing device sold today.",
+          "translation": "這些被稱為 DRAM（記憶體）和 NAND（儲存）的零組件，幾乎存在於今天市面上銷售的每一台運算裝置中。"
+        },
+        {
+          "sentence": "It's a situation that means higher prices, not just for Apple, but for consumers across the board.",
+          "translation": "這種情況意味著價格將會上漲，不只對蘋果，而是對廣大消費者都會造成影響。"
+        },
+        {
+          "sentence": "Normally, that would push consumers to stock up before prices increase, but that's not what's happening, according to Best Buy's outgoing CEO Corie Barry.",
+          "translation": "通常情況下，這會促使消費者在價格上漲前囤貨，但根據百思買（Best Buy）即將卸任的執行長柯里·巴里（Corie Barry）的說法，目前並非如此。"
+        },
+        {
+          "sentence": "Traditionally, when people know that price increases are coming, that leads to at least some consumers buying ahead to meet future needs.",
+          "translation": "傳統上，當人們知道價格即將上漲時，至少會有一些消費者會提前購買以滿足未來的需求。"
+        },
+        {
+          "sentence": "\"In our research around the consumer. We are not seeing any indicators that would say the customer is pulling forward purchases,\" she said during Best Buy's first-quarter earnings call.",
+          "translation": "她在百思買第一季財報電話會議上表示：「在我們針對消費者的研究中，我們沒有看到任何跡象表明顧客正在提前採購。」"
+        },
+        {
+          "sentence": "Barry noted that the upcoming price increases, something that will hit pretty much any product that uses memory, unless the manufacturer opts to eat higher costs, have not impacted customer purchases.",
+          "translation": "巴里指出，即將到來的價格上漲——這幾乎會影響到所有使用記憶體的產品，除非製造商選擇自行吸收更高的成本——並未影響到顧客的購買行為。"
+        },
+        {
+          "sentence": "\"And in fact, very few really are worried about memory, as I say, in air quotes. And we've been keeping a really tight eye on this. So I think, again, I said it, we continue to see very consistent customer behavior, which is a customer that's under a little more pressure, but still resilient, attracted to deals and sales moments, shopping within their budget,\" she added.",
+          "translation": "她補充說：「事實上，很少有人真正『擔心』記憶體，我這麼說時是打引號的。我們一直密切關注這一點。所以我認為，我再說一次，我們持續看到非常一致的顧客行為，那就是顧客雖然承受著更大的壓力，但仍然具有韌性，會被促銷和特價活動吸引，並在預算內購物。」"
+        },
+        {
+          "sentence": "A few months ago, I ordered a hot tub because it was being offered at a lower price than I had seen before.",
+          "translation": "幾個月前，我訂購了一個熱水浴缸，因為它的價格比我之前看到的還要低。"
+        },
+        {
+          "sentence": "We hadn't moved into the house where the spa is located, but spending the money now meant saving close to $1,000 rather than pushing the purchase down the road.",
+          "translation": "我們當時還沒搬進安裝這個水療浴缸的房子，但現在花錢意味著可以省下將近 1,000 美元，而不是將購買延後。"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "If You'd Invested $10,000 in the SpaceX IPO, Here's How Much You Would Have Now",
+      "title": "Dear Taiwan Semi Stock Fans, Mark Your Calendars for July 16",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-10-000-spacex-221500874.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-taiwan-semi-stock-fans-140002938.html",
       "level1_blind": {
-        "text": "Space Exploration Technologies (NASDAQ: SPCX) drew a lot of attention in the weeks leading up to its initial public offering, for many reasons -- from the sheer size of the operation, with SpaceX's goal to become a trillion-dollar company, to the focus on offering shares to retail investors. SpaceX earmarked more than 20% of shares for them, when generally in IPOs, only 5% to 10% go to non-professional investors.\n\nSome investors were also eager to get in on SpaceX for its range of growth businesses -- and to gain exposure to a company led by the ambitious Elon Musk.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nSo, if you happened to be one of the investors who was able to buy shares at the IPO price of $135, and if you had invested $10,000, how much would that be worth now? Let's find out.\n\nFirst, though, let's talk quickly about SpaceX -- to fully understand why so many sets of eyes were turned toward the company on and before its June 12 market debut. As mentioned, the SpaceX operation promised to be big, pushing the company to a trillion-dollar market cap right out of the gate.\n\nThe world's other trillion-dollar companies, such as Nvidia and Amazon, for example, had to wait years and even decades to reach such a level. And by the time they did, they already were highly profitable, well-established players.\n\nSpaceX, however, is still in earlier growth stages, developing technology and investing to reach its goals. The company's business units of space, connectivity, and artificial intelligence (AI) brought in $18 billion in revenue last year, but capital spending meant the company wasn't able to turn revenue into a profit. Instead, SpaceX reported a loss of $4.9 billion.\n\nWhile SpaceX has scored accomplishments like rocket launches with reusable boosters and growth in satellite-based internet service subscriptions, the company still must invest heavily to reach its biggest goals. And this may weigh on its ability to reach profitability. It also involves risk because a technology setback could call into question a certain revenue opportunity."
+        "text": "Chip manufacturing giant Taiwan Semiconductor Manufacturing Company Limited (TSM), or TSMC, is set to report its second-quarter results on July 16 before the market opens. The company has become vital for major technology companies, as AI buildouts take center stage.\n\nAhead of the results, the company has reportedly asked its customers to prepare for price increases. According to a report by Culpium, this is expected to affect the majority of its wafer revenue (nearly three-quarters). The exact magnitude of the price increases is not known. However, this could fall within the 5%-10% range.\n\nEarlier, it was reported that only the 3nm process would face this. However, the hikes could extend beyond 3nm and 2nm to include older but still advanced processes such as 5nm and 7nm. The inclusion of 7nm is notable because it is heavily used across processors, accelerators, networking silicon, and other high-performance chips. The timing of the increases is also notable, as it shows the immense negotiating leverage it enjoys amid high demand for its chips among AI accelerator vendors.\n\nThis also culminates at a time when TSMC has become central in a tech competition between the U.S. and China.\n\nTaiwan Semiconductor is a leading chip foundry that makes semiconductors for customers across the technology industry. It focuses on advanced manufacturing, producing chips that power smartphones, data centers, and other electronics, while also investing heavily in process technology and global production capacity. The company is headquartered in Hsinchu, Taiwan and has a gigantic market capitalization of $2.25 trillion.\n\nOver the past year, TSMC's stock has gained 85.86%, while it is up 42.87% year-to-date (YTD). TSMC's stock has risen over the past year because investors have continued to price in strong demand for advanced chips, especially from AI and high-performance computing customers. The broader semiconductor cycle has also helped, as TSMC sits at the center of the AI supply chain and benefits when major chip designers need leading-edge production. The stock had reached a 52-week high of $479 on June 30.\n\nDespite the rise, TSMC's stock is trading at a relatively cheap valuation. On a forward-adjusted basis, its price-to-earnings ratio of 28.94 times is lower than the industry average of 33.21 times.\n\nSupported by a strong demand for our leading-edge process technologies, TSMC reported strong results in the first quarter. The company's revenue increased by 35.1% year-over-year (YOY) to NT$1.13 trillion ($35.60 billion). Its income from operations grew by 61.9% YOY to NT$658.97 billion ($20.68 billion). TSMC's EPS grew 58.3% from the year-ago period to NT$22.08."
       },
       "level2_keywords": [
         {
-          "word": "initial public offering (IPO)",
-          "ipa": "/ɪˈnɪʃəl ˈpʌblɪk ˈɔːfərɪŋ/ (ˌaɪ piː ˈoʊ)",
-          "meaning": "「首次公開募股」，指公司首次將其股票向大眾投資人發售，讓公司從私人企業轉變為上市公司，藉此籌集資金。",
-          "example": "「SpaceX 的『initial public offering (IPO)』吸引了大量散戶投資人的關注。」"
+          "word": "semiconductor",
+          "ipa": "/ˌsɛmɪkənˈdʌktər/",
+          "meaning": "半導體（一種介於導體和絕緣體之間的材料，是現代電子產品的核心元件）。",
+          "example": "「The global demand for advanced semiconductors continues to surge, driven by AI and high-performance computing.」"
         },
         {
-          "word": "retail investors",
-          "ipa": "/ˈriːteɪl ɪnˈvɛstərz/",
-          "meaning": "「散戶投資人」，指非專業的個人投資者，通常透過經紀商買賣股票、債券等金融商品。",
-          "example": "「SpaceX 為『retail investors』預留了超過 20% 的股票，這在 IPO 中是相對罕見的。」"
+          "word": "wafer revenue",
+          "ipa": "/ˈweɪfər ˈrɛvəˌnuː/",
+          "meaning": "晶圓營收（半導體製造商透過銷售加工後的晶圓所獲得的收入）。",
+          "example": "「TSMC's potential price hikes are expected to significantly impact its overall wafer revenue.」"
         },
         {
-          "word": "market cap",
-          "ipa": "/ˈmɑːrkɪt kæp/",
-          "meaning": "「市值」，指一家上市公司所有流通股的總價值，計算方式為股價乘以發行在外的股票總數。",
-          "example": "「SpaceX 的目標是將其『market cap』推向兆元級，這是一個非常雄心勃勃的目標。」"
+          "word": "market capitalization",
+          "ipa": "/ˈmɑːrkɪt ˌkæpɪtəlaɪˈzeɪʃən/",
+          "meaning": "市值（一家上市公司所有流通股的總價值，反映公司規模與市場地位）。",
+          "example": "「With a gigantic market capitalization, TSMC remains a dominant player in the global tech industry.」"
         },
         {
-          "word": "capital spending",
-          "ipa": "/ˈkæpɪtəl ˈspɛndɪŋ/",
-          "meaning": "「資本支出」，指公司用於購買、升級或維護實體資產（如建築物、設備、技術）的資金，這些投資旨在提升公司未來的營運能力和獲利潛力。",
-          "example": "「儘管 SpaceX 營收達到 180 億美元，但龐大的『capital spending』導致公司去年仍處於虧損狀態。」"
+          "word": "price-to-earnings ratio",
+          "ipa": "/praɪs tuː ˈɜːrnɪŋz ˈreɪʃioʊ/",
+          "meaning": "本益比（衡量股價相對於每股盈餘的倍數，常用來評估股票的貴賤）。",
+          "example": "「Despite its recent stock rally, TSMC's price-to-earnings ratio suggests it might still be undervalued compared to industry peers.」"
         },
         {
-          "word": "profitability",
-          "ipa": "/ˌprɒfɪtəˈbɪləti/",
-          "meaning": "「獲利能力」，衡量公司賺取利潤的效率，通常透過利潤率等指標來評估。",
-          "example": "「SpaceX 仍需大量投資，這可能會影響其達到『profitability』的能力。」"
+          "word": "leading-edge production",
+          "ipa": "/ˈliːdɪŋ ɛdʒ prəˈdʌkʃən/",
+          "meaning": "先進製程生產（指半導體製造中採用最尖端、最先進的技術來生產晶片）。",
+          "example": "「TSMC's expertise in leading-edge production is crucial for major chip designers requiring the most advanced components.」"
         }
       ],
-      "level2_context": "各位同學，這篇新聞雖然標題很吸睛，在討論如果投資人能參與 SpaceX 的首次公開募股（IPO），現在會賺多少錢，但更重要的是，它揭示了 SpaceX 這家公司的宏觀定位與挑戰。SpaceX 是一家由伊隆·馬斯克領導的私人公司，以其太空探索、星鏈網路和人工智慧等前瞻性業務聞名。這篇文章指出，SpaceX 有著成為兆元級公司的巨大野心，並且在假設的 IPO 中，它會比一般公司更傾向於分配股票給散戶投資人，這反映了其獨特的市場策略。然而，儘管 SpaceX 去年營收高達 180 億美元，但由於其仍處於高速成長和大量資本支出的階段，公司實際上是虧損的。這與輝達或亞馬遜等已成熟的兆元級公司形成鮮明對比，後者在達到兆元市值時已是獲利豐厚的巨頭。因此，這篇新聞提醒我們，SpaceX 雖然成就斐然，但其高成長背後仍伴隨著巨大的投資需求和技術風險，這些都將影響其未來的獲利能力。",
+      "level2_context": "各位同學，這篇新聞主要聚焦在全球晶圓代工龍頭台積電（TSMC）即將公布的第二季財報，以及市場高度關注的晶圓代工價格調漲議題。由於人工智慧（AI）應用需求爆炸性成長，台積電在先進製程領域的獨霸地位使其擁有極高的議價能力。報導指出，這次漲價可能不只涵蓋最先進的3奈米和2奈米製程，甚至會擴及到5奈米和7奈米等較成熟但仍廣泛應用的製程，這將對整個科技產業鏈產生深遠影響。此外，台積電在全球科技競賽中，尤其是在美中晶片戰的背景下，扮演著關鍵角色，其營運狀況和策略調整，都牽動著全球半導體產業的供應鏈穩定與發展。儘管股價近期表現強勁，但從本益比來看，市場仍認為台積電的估值相對合理，顯示投資人對其未來成長潛力抱持樂觀態度。",
       "level3_translation": [
         {
-          "sentence": "Space Exploration Technologies (NASDAQ: SPCX) drew a lot of attention in the weeks leading up to its initial public offering, for many reasons -- from the sheer size of the operation, with SpaceX's goal to become a trillion-dollar company, to the focus on offering shares to retail investors.",
-          "translation": "太空探索科技公司（NASDAQ: SPCX）在首次公開募股（IPO）前幾週就吸引了大量關注，原因很多，從其龐大的營運規模，目標是成為一家兆元級公司，到專注於向散戶投資人發行股票。"
+          "sentence": "Chip manufacturing giant Taiwan Semiconductor Manufacturing Company Limited (TSM), or TSMC, is set to report its second-quarter results on July 16 before the market opens.",
+          "translation": "「晶片製造巨頭台灣積體電路製造股份有限公司（TSM），也就是台積電，預計將在7月16日市場開盤前公布其第二季財報。」"
         },
         {
-          "sentence": "SpaceX earmarked more than 20% of shares for them, when generally in IPOs, only 5% to 10% go to non-professional investors.",
-          "translation": "SpaceX 為散戶預留了超過 20% 的股票，而通常在 IPO 中，只有 5% 到 10% 的股票會分配給非專業投資人。"
+          "sentence": "The company has become vital for major technology companies, as AI buildouts take center stage.",
+          "translation": "「隨著人工智慧（AI）基礎建設成為焦點，台積電已成為各大科技公司的關鍵供應商。」"
         },
         {
-          "sentence": "Some investors were also eager to get in on SpaceX for its range of growth businesses -- and to gain exposure to a company led by the ambitious Elon Musk.",
-          "translation": "有些投資人也渴望參與 SpaceX 的多樣化成長型業務，並藉此接觸到由雄心勃勃的伊隆·馬斯克所領導的公司。"
+          "sentence": "Ahead of the results, the company has reportedly asked its customers to prepare for price increases.",
+          "translation": "「在財報公布前，據報導台積電已要求客戶為晶圓價格上漲做好準備。」"
         },
         {
-          "sentence": "Missed Nvidia in 2009?",
-          "translation": "錯過了 2009 年的輝達嗎？"
+          "sentence": "According to a report by Culpium, this is expected to affect the majority of its wafer revenue (nearly three-quarters).",
+          "translation": "「根據Culpium的一份報告，這預計將影響台積電大部分的晶圓營收（將近四分之三）。」"
         },
         {
-          "sentence": "This Rare Signal Is Flashing Again.",
-          "translation": "這個罕見的訊號又再次閃現了。"
+          "sentence": "The exact magnitude of the price increases is not known.",
+          "translation": "「目前尚不清楚確切的漲價幅度。」"
         },
         {
-          "sentence": "In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia.",
-          "translation": "在 2009 年，一個『加倍下注』的訊號曾為一家當時鮮為人知的晶片製造商輝達（Nvidia）閃現。"
+          "sentence": "However, this could fall within the 5%-10% range.",
+          "translation": "「不過，漲幅可能落在5%到10%之間。」"
         },
         {
-          "sentence": "For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia.",
-          "translation": "多年來首次，同樣的『完全確信』訊號正為一家規模僅為輝達百分之一的公司閃現。"
+          "sentence": "Earlier, it was reported that only the 3nm process would face this.",
+          "translation": "「早前曾有報導指出，只有3奈米製程會面臨漲價。」"
         },
         {
-          "sentence": "Continue »",
-          "translation": "繼續閱讀 »"
+          "sentence": "However, the hikes could extend beyond 3nm and 2nm to include older but still advanced processes such as 5nm and 7nm.",
+          "translation": "「然而，這次漲價可能不只涵蓋3奈米和2奈米，還會擴及到較舊但仍屬先進的製程，例如5奈米和7奈米。」"
         },
         {
-          "sentence": "So, if you happened to be one of the investors who was able to buy shares at the IPO price of $135, and if you had invested $10,000, how much would that be worth now?",
-          "translation": "那麼，如果你碰巧是那些能夠以每股 135 美元的 IPO 價格買入股票的投資人之一，並且你投資了 1 萬美元，現在這些股票會值多少錢呢？"
+          "sentence": "The inclusion of 7nm is notable because it is heavily used across processors, accelerators, networking silicon, and other high-performance chips.",
+          "translation": "「7奈米製程的納入值得關注，因為它廣泛應用於處理器、加速器、網路晶片及其他高效能晶片。」"
         },
         {
-          "sentence": "Let's find out.",
-          "translation": "讓我們來看看。"
+          "sentence": "The timing of the increases is also notable, as it shows the immense negotiating leverage it enjoys amid high demand for its chips among AI accelerator vendors.",
+          "translation": "「這次漲價的時機點也值得注意，這顯示了在AI加速器供應商對其晶片需求旺盛的情況下，台積電所擁有的巨大議價能力。」"
         },
         {
-          "sentence": "First, though, let's talk quickly about SpaceX -- to fully understand why so many sets of eyes were turned toward the company on and before its June 12 market debut.",
-          "translation": "不過，首先，讓我們快速談談 SpaceX，以便充分理解為何在它 6 月 12 日首次上市前後，有如此多的目光投向這家公司。"
+          "sentence": "This also culminates at a time when TSMC has become central in a tech competition between the U.S. and China.",
+          "translation": "「這也發生在台積電於美中科技競爭中扮演核心角色的時刻。」"
         },
         {
-          "sentence": "As mentioned, the SpaceX operation promised to be big, pushing the company to a trillion-dollar market cap right out of the gate.",
-          "translation": "如前所述，SpaceX 的營運前景廣闊，承諾將公司市值一上市就推向兆元級。"
+          "sentence": "Taiwan Semiconductor is a leading chip foundry that makes semiconductors for customers across the technology industry.",
+          "translation": "「台灣積體電路製造公司是一家領先的晶圓代工廠，為整個科技產業的客戶製造半導體。」"
         },
         {
-          "sentence": "The world's other trillion-dollar companies, such as Nvidia and Amazon, for example, had to wait years and even decades to reach such a level.",
-          "translation": "世界上其他兆元級公司，例如輝達和亞馬遜，都必須等待數年甚至數十年才能達到這樣的規模。"
+          "sentence": "It focuses on advanced manufacturing, producing chips that power smartphones, data centers, and other electronics, while also investing heavily in process technology and global production capacity.",
+          "translation": "「台積電專注於先進製造，生產為智慧型手機、資料中心及其他電子產品提供動力的晶片，同時也大量投資於製程技術和全球生產產能。」"
         },
         {
-          "sentence": "And by the time they did, they already were highly profitable, well-established players.",
-          "translation": "而當它們達到這個里程碑時，它們都已經是獲利豐厚、根基穩固的市場參與者了。"
+          "sentence": "The company is headquartered in Hsinchu, Taiwan and has a gigantic market capitalization of $2.25 trillion.",
+          "translation": "「該公司總部位於台灣新竹，擁有高達2.25兆美元的龐大市值。」"
         },
         {
-          "sentence": "SpaceX, however, is still in earlier growth stages, developing technology and investing to reach its goals.",
-          "translation": "然而，SpaceX 仍處於較早期的成長階段，正在開發技術並投入資金以實現其目標。"
+          "sentence": "Over the past year, TSMC's stock has gained 85.86%, while it is up 42.87% year-to-date (YTD).",
+          "translation": "「在過去一年中，台積電的股價上漲了85.86%，而今年以來（YTD）則上漲了42.87%。」"
         },
         {
-          "sentence": "The company's business units of space, connectivity, and artificial intelligence (AI) brought in $18 billion in revenue last year, but capital spending meant the company wasn't able to turn revenue into a profit.",
-          "translation": "該公司在太空、網路連接和人工智慧（AI）等業務部門去年帶來了 180 億美元的營收，但龐大的資本支出意味著公司未能將營收轉化為利潤。"
+          "sentence": "TSMC's stock has risen over the past year because investors have continued to price in strong demand for advanced chips, especially from AI and high-performance computing customers.",
+          "translation": "「台積電股價在過去一年上漲，是因為投資人持續預期先進晶片需求強勁，特別是來自AI和高效能運算客戶的需求。」"
         },
         {
-          "sentence": "Instead, SpaceX reported a loss of $4.9 billion.",
-          "translation": "相反地，SpaceX 報告了 49 億美元的虧損。"
+          "sentence": "The broader semiconductor cycle has also helped, as TSMC sits at the center of the AI supply chain and benefits when major chip designers need leading-edge production.",
+          "translation": "「更廣泛的半導體景氣循環也提供了助益，因為台積電位居AI供應鏈的核心，並在主要晶片設計公司需要最先進製程生產時受益。」"
         },
         {
-          "sentence": "While SpaceX has scored accomplishments like rocket launches with reusable boosters and growth in satellite-based internet service subscriptions, the company still must invest heavily to reach its biggest goals.",
-          "translation": "儘管 SpaceX 在可重複使用火箭助推器發射和衛星網路服務訂閱量成長等方面取得了成就，但公司仍必須大量投資才能實現其最大目標。"
+          "sentence": "The stock had reached a 52-week high of $479 on June 30.",
+          "translation": "「該股在6月30日曾達到52週高點479美元。」"
         },
         {
-          "sentence": "And this may weigh on its ability to reach profitability.",
-          "translation": "這可能會影響其達到獲利的能力。"
+          "sentence": "Despite the rise, TSMC's stock is trading at a relatively cheap valuation.",
+          "translation": "「儘管股價上漲，台積電的股票目前交易價格仍處於相對便宜的估值。」"
         },
         {
-          "sentence": "It also involves risk because a technology setback could call into question a certain revenue opportunity.",
-          "translation": "這也涉及風險，因為一項技術挫折可能會讓某個營收機會受到質疑。"
+          "sentence": "On a forward-adjusted basis, its price-to-earnings ratio of 28.94 times is lower than the industry average of 33.21 times.",
+          "translation": "「以預期調整後的基礎來看，其本益比為28.94倍，低於產業平均的33.21倍。」"
+        },
+        {
+          "sentence": "Supported by a strong demand for our leading-edge process technologies, TSMC reported strong results in the first quarter.",
+          "translation": "「在對其領先製程技術的強勁需求支持下，台積電在第一季繳出了亮眼的財報。」"
+        },
+        {
+          "sentence": "The company's revenue increased by 35.1% year-over-year (YOY) to NT$1.13 trillion ($35.60 billion).",
+          "translation": "「該公司營收年增35.1%，達到新台幣1.13兆元（約356億美元）。」"
+        },
+        {
+          "sentence": "Its income from operations grew by 61.9% YOY to NT$658.97 billion ($20.68 billion).",
+          "translation": "「其營業利益年增61.9%，達到新台幣6589.7億元（約206.8億美元）。」"
+        },
+        {
+          "sentence": "TSMC's EPS grew 58.3% from the year-ago period to NT$22.08.",
+          "translation": "「台積電的每股盈餘（EPS）較去年同期成長58.3%，達到新台幣22.08元。」"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Here’s Why BNP Paribas Views Bentley Systems (BSY) As “Outperform” With A $40 Price Target",
+      "title": "Got $2M saved for retirement? Get ready for everything to change, and not always for the better. Dodge 5 money traps now",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-bnp-paribas-views-bentley-221124667.html",
+      "link": "https://finance.yahoo.com/markets/articles/got-2m-saved-retirement-ready-141000374.html",
       "level1_blind": {
-        "text": "Bentley Systems, Incorporated (NASDAQ:BSY), which offers strong upside potential, ranks among the overlooked tech stocks to invest in now. Fresh bullish coverage is framing the infrastructure software maker as a rare defensive play against mounting AI competition.\n\nOn June 18, 2026, BNP Paribas analyst Andrew DeGasperi initiated coverage of Bentley Systems, Incorporated (NASDAQ:BSY) with an \"Outperform\" rating and a $40 price target. DeGasperi told investors the company's defensibility in comparison to frontier AI models is strong, pointing to low software penetration in Bentley's core markets of civil infrastructure, energy exploration, and resource mining, along with limited competition in those areas.\n\nThat view was echoed by BofA, which reinstated coverage of Bentley Systems, Incorporated (NASDAQ:BSY) at \"Buy\" with a $40 price target, up from a previous \"Neutral\" rating. The firm described Bentley as a defensive play against AI, saying its premium valuation is supported by structural barriers including embedded compliance, deterministic workflows, and regulatory requirements.\n\nBentley Systems, Incorporated (NASDAQ:BSY) is down nearly 20% so far in 2026, while about 80% of covering analysts remain bullish.\n\nBentley Systems, Incorporated (NASDAQ:BSY) develops infrastructure engineering software. The company provides integrated software solutions used across professional disciplines, infrastructure sectors, geographies, and different stages of the infrastructure lifecycle.\n\nWhile we acknowledge the potential of BSY as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years."
+        "text": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\n\nIf you have $2 million in retirement savings, congratulations. That's well above the $1.46 million that Americans believe is needed to retire comfortably, according to a 2025 Northwestern Mutual study (1).\n\nAt this point, you have probably overcome the challenge of saving enough. Now, your next mission is wealth preservation. Higher taxes and the wrong lifestyle choices can quickly erode what seems like a huge treasure trove.\n\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake — here's what it is and 3 simple steps to fix it ASAP\n\nJP Morgan sees gold hitting $6,000/oz before 2027 — and a Gold IRA lets you hold the physical metal while deferring the tax bill. Get your free guide from Priority Gold\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nShifting your perspective from building wealth to protecting it isn't easy. But the journey could be less treacherous if you avoid these five common money traps that high-net-worth individuals sometimes fall into.\n\nIf you follow the 4% rule, $2 million in retirement savings would give you $80,000 a year, adjusted for inflation. That could either be too much or too little, depending on where you live and how much you spend."
       },
       "level2_keywords": [
         {
-          "word": "Outperform rating",
-          "ipa": "/ˈaʊtˌpɚˈfɔːrm ˈreɪtɪŋ/",
-          "meaning": "證券分析師給予某檔股票的評級，表示預期該股票未來表現會優於市場或同業平均。",
-          "example": "「BNP Paribas gave Bentley Systems an Outperform rating, signaling confidence in its future stock performance.」"
+          "word": "retirement savings",
+          "ipa": "/rɪˈtaɪərmənt ˈseɪvɪŋz/",
+          "meaning": "退休金儲蓄、退休存款",
+          "example": "『Retirement savings』是許多人規劃晚年生活的重要基石。"
         },
         {
-          "word": "Price target",
-          "ipa": "/ˈpraɪs ˈtɑːrɡɪt/",
-          "meaning": "證券分析師預期某檔股票在未來特定時間內可能達到的價格。",
-          "example": "「The analyst set a $40 price target for BSY, suggesting significant upside potential.」"
+          "word": "wealth preservation",
+          "ipa": "/wɛlθ ˌprɛzərˈveɪʃən/",
+          "meaning": "財富保值、資產保全",
+          "example": "在通膨壓力下，『wealth preservation』比創造財富更具挑戰性。"
         },
         {
-          "word": "Defensive play",
-          "ipa": "/dɪˈfɛnsɪv pleɪ/",
-          "meaning": "指的是在經濟不確定或市場波動時，表現相對穩定的投資標的，通常具有穩定的現金流和較低的波動性。",
-          "example": "「Bentley Systems is seen as a defensive play against AI competition due to its stable market position.」"
+          "word": "erode",
+          "ipa": "/ɪˈroʊd/",
+          "meaning": "侵蝕、逐漸損耗",
+          "example": "高稅率和錯誤的投資決策可能會『erode』你的財富。"
         },
         {
-          "word": "Software penetration",
-          "ipa": "/ˈsɔːftˌwɛr ˌpɛnɪˈtreɪʃən/",
-          "meaning": "軟體產品在特定市場或產業中的普及程度或使用率。",
-          "example": "「Low software penetration in civil infrastructure offers Bentley Systems ample room for growth.」"
+          "word": "Social Security",
+          "ipa": "/ˈsoʊʃəl sɪˈkjʊrəti/",
+          "meaning": "社會安全金 (美國政府提供的退休、殘疾、遺屬福利)",
+          "example": "許多美國退休人士仰賴『Social Security』作為主要收入來源。"
         },
         {
-          "word": "Structural barriers",
-          "ipa": "/ˈstrʌktʃərəl ˈbæriərz/",
-          "meaning": "指的是阻礙新競爭者進入市場或挑戰現有企業的長期性、根深蒂固的因素，如法規、技術標準、品牌忠誠度等。",
-          "example": "「Bentley's premium valuation is supported by structural barriers like embedded compliance and regulatory requirements.」"
+          "word": "4% rule",
+          "ipa": "/fɔːr pər sɛnt ruːl/",
+          "meaning": "4%法則 (退休後每年可從儲蓄中提取的比例，以確保資金不耗盡)",
+          "example": "根據『4% rule』，200萬美元的退休金每年可提取8萬美元。"
         }
       ],
-      "level2_context": "各位同學，這篇新聞的重點在於，即使在當前 AI 科技股熱潮席捲市場的背景下，傳統的基礎設施軟體公司 Bentley Systems (BSY) 卻獲得了主要金融機構的『優於大盤』和『買進』評級。這背後反映了一個重要的產業宏觀趨勢：在高度波動的科技市場中，投資人開始尋求更具『防禦性』的投資標的。\n\nBentley Systems 之所以被視為『防禦型投資』，是因為它專注於民生基礎建設、能源探勘等相對穩定且剛性需求高的市場。這些領域的軟體普及率仍低，且進入門檻高，競爭有限。換句話說，即使 AI 技術不斷演進，這些基礎設施的建設與維護仍需要專業且高度整合的軟體解決方案，而 Bentley 在這方面擁有深厚的『結構性障礙』，例如內建的合規性與嚴格的監管要求，使得新進者難以快速取代。因此，儘管 BSY 股價在 2026 年有所下跌，但分析師們仍然看好其長期穩定的成長潛力，這對於尋求在 AI 狂潮中分散風險、追求穩健回報的投資人來說，是一個值得關注的訊號。",
+      "level2_context": "各位同學，這篇新聞主要在探討美國民眾在累積了相當可觀的退休金（例如200萬美元）之後，如何從『努力存錢』的階段，轉變到『財富保值』的挑戰。在美國，許多人會面臨高稅率、通膨侵蝕，以及錯誤的理財決策，這些都可能讓辛苦累積的退休金快速縮水。新聞中也提到了幾個常見的理財陷阱，並引用了知名財經專家如戴夫·拉姆齊（Dave Ramsey）對社會安全金的看法，以及摩根大通（JP Morgan）對黃金的預期，甚至還有貝佐斯支持的房產投資平台，這些都是美國財經界常見的退休規劃與資產配置策略。其中『4%法則』是一個很重要的概念，它提供了一個退休後每年提領退休金的參考比例，幫助人們在享受退休生活之餘，也能確保退休金的永續性。",
       "level3_translation": [
         {
-          "sentence": "Bentley Systems, Incorporated (NASDAQ:BSY), which offers strong upside potential, ranks among the overlooked tech stocks to invest in now.",
-          "translation": "Bentley Systems, Incorporated (那斯達克代號：BSY) 這家公司，目前展現出強勁的上漲潛力，被視為現在值得投資的『被市場忽略的科技股』之一。"
+          "sentence": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.",
+          "translation": "各位同學，這句話的意思是，Moneywise 和 Yahoo Finance 這兩家公司，可能會透過文章中提供的連結，賺取一些『佣金』或『營收』，這在網路媒體界是很常見的商業模式。"
         },
         {
-          "sentence": "Fresh bullish coverage is framing the infrastructure software maker as a rare defensive play against mounting AI competition.",
-          "translation": "最新的看漲報告將這家基礎設施軟體製造商，定位為在日益激烈的 AI 競爭中，一個難得的『防禦型投資標的』。"
+          "sentence": "If you have $2 million in retirement savings, congratulations.",
+          "translation": "如果你已經存到200萬美元的『退休金』，那真的要恭喜你了。"
         },
         {
-          "sentence": "On June 18, 2026, BNP Paribas analyst Andrew DeGasperi initiated coverage of Bentley Systems, Incorporated (NASDAQ:BSY) with an \"Outperform\" rating and a $40 price target.",
-          "translation": "在 2026 年 6 月 18 日，法國巴黎銀行分析師 Andrew DeGasperi 首次發布對 Bentley Systems, Incorporated (那斯達克代號：BSY) 的研究報告，給予『優於大盤』的評級，並設定了 40 美元的目標價。"
+          "sentence": "That's well above the $1.46 million that Americans believe is needed to retire comfortably, according to a 2025 Northwestern Mutual study (1).",
+          "translation": "根據2025年西北互助保險公司（Northwestern Mutual）的一項研究，這筆錢遠高於美國人認為可以『舒適退休』所需的146萬美元。"
         },
         {
-          "sentence": "DeGasperi told investors the company's defensibility in comparison to frontier AI models is strong, pointing to low software penetration in Bentley's core markets of civil infrastructure, energy exploration, and resource mining, along with limited competition in those areas.",
-          "translation": "DeGasperi 告訴投資人，相較於尖端 AI 模型，這家公司的『防禦能力』非常強勁，他指出 Bentley 在其核心市場，像是民生基礎建設、能源探勘和資源開採等領域，軟體普及率仍然很低，而且這些領域的競爭也相對有限。"
+          "sentence": "At this point, you have probably overcome the challenge of saving enough.",
+          "translation": "到了這個階段，你很可能已經克服了『存夠錢』的挑戰。"
         },
         {
-          "sentence": "That view was echoed by BofA, which reinstated coverage of Bentley Systems, Incorporated (NASDAQ:BSY) at \"Buy\" with a $40 price target, up from a previous \"Neutral\" rating.",
-          "translation": "美國銀行 (BofA) 也呼應了這個觀點，重新啟動對 Bentley Systems, Incorporated (那斯達克代號：BSY) 的研究報告，給予『買進』評級，目標價同樣是 40 美元，這比之前『中立』的評級有所提升。"
+          "sentence": "Now, your next mission is wealth preservation.",
+          "translation": "現在，你下一個重要的任務就是『財富保值』。"
         },
         {
-          "sentence": "The firm described Bentley as a defensive play against AI, saying its premium valuation is supported by structural barriers including embedded compliance, deterministic workflows, and regulatory requirements.",
-          "translation": "該券商將 Bentley 形容為對抗 AI 衝擊的『防禦型投資』，並表示其較高的估值，是由於『結構性障礙』所支撐，這些障礙包括內建的合規性、確定性的工作流程以及嚴格的監管要求。"
+          "sentence": "Higher taxes and the wrong lifestyle choices can quickly erode what seems like a huge treasure trove.",
+          "translation": "各位同學，我們要注意這個動詞『erode』，它在這裡的意思是『侵蝕』。高額的稅金和錯誤的生活方式選擇，可能會迅速『侵蝕』掉你看似龐大的財富。"
         },
         {
-          "sentence": "Bentley Systems, Incorporated (NASDAQ:BSY) is down nearly 20% so far in 2026, while about 80% of covering analysts remain bullish.",
-          "translation": "儘管 Bentley Systems, Incorporated (那斯達克代號：BSY) 在 2026 年至今股價下跌了近 20%，但大約 80% 的研究分析師仍然維持看漲的態度。"
+          "sentence": "Dave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake — here's what it is and 3 simple steps to fix it ASAP",
+          "translation": "知名的理財專家戴夫·拉姆齊（Dave Ramsey）警告說，將近一半的美國人正在犯一個關於『社會安全金』的重大錯誤，文章會告訴你這是什麼錯誤，以及三個可以立即修正的簡單步驟。"
         },
         {
-          "sentence": "Bentley Systems, Incorporated (NASDAQ:BSY) develops infrastructure engineering software.",
-          "translation": "Bentley Systems, Incorporated (那斯達克代號：BSY) 主要開發基礎設施工程軟體。"
+          "sentence": "JP Morgan sees gold hitting $6,000/oz before 2027 — and a Gold IRA lets you hold the physical metal while deferring the tax bill.",
+          "translation": "摩根大通（JP Morgan）預測黃金價格在2027年前可能達到每盎司6,000美元，而『黃金個人退休帳戶』（Gold IRA）則能讓你持有實體黃金，同時『延遲繳納稅款』。"
         },
         {
-          "sentence": "The company provides integrated software solutions used across professional disciplines, infrastructure sectors, geographies, and different stages of the infrastructure lifecycle.",
-          "translation": "這家公司提供整合性的軟體解決方案，應用於各種專業領域、基礎設施產業、不同地理區域，以及基礎設施生命週期的各個階段。"
+          "sentence": "Get your free guide from Priority Gold",
+          "translation": "你可以從 Priority Gold 獲取免費的指南。"
         },
         {
-          "sentence": "While we acknowledge the potential of BSY as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk.",
-          "translation": "雖然我們認可 BSY 作為一項投資的潛力，但我們認為某些 AI 股票能提供更大的上漲空間，並且伴隨較低的下行風險。"
+          "sentence": "Jeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one",
+          "translation": "傑夫·貝佐斯（Jeff Bezos）支持的一個平台，讓任何人都能以低至100美元的金額投資『出租房屋』，這篇文章會介紹六種像房東一樣累積財富，但卻不用實際成為房東的方法。"
         },
         {
-          "sentence": "If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.",
-          "translation": "如果您正在尋找一檔極度被低估的 AI 股票，同時也能從川普時代的關稅政策和『在地化生產』趨勢中顯著受益，請參考我們關於最佳短期 AI 股票的免費報告。"
+          "sentence": "Shifting your perspective from building wealth to protecting it isn't easy.",
+          "translation": "各位同學，從『累積財富』轉變到『保護財富』的思維，並不是一件容易的事。"
         },
         {
-          "sentence": "READ NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
-          "translation": "延伸閱讀：『3 年內有望翻倍的 33 檔股票』以及『10 年內讓你致富的 15 檔股票』。"
+          "sentence": "But the journey could be less treacherous if you avoid these five common money traps that high-net-worth individuals sometimes fall into.",
+          "translation": "但是，如果你能避開這些『高淨值人士』有時會陷入的五個常見『金錢陷阱』，那麼這段旅程可能會少一些艱險。"
+        },
+        {
+          "sentence": "If you follow the 4% rule, $2 million in retirement savings would give you $80,000 a year, adjusted for inflation.",
+          "translation": "如果你遵循『4%法則』，200萬美元的退休金，在『經通膨調整』後，每年可以為你帶來8萬美元的收入。"
+        },
+        {
+          "sentence": "That could either be too much or too little, depending on where you live and how much you spend.",
+          "translation": "這筆錢可能太多也可能太少，這取決於你居住在哪裡以及你的消費習慣。"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "7/6台股大戶籌碼動向與前晚國際科技財經新聞的深度聯結，揭示了市場主力對AI浪潮的預先部署與策略分歧。國際新聞強調『科技股跳漲』及SpaceX對AI、連結性的佈局，儘管其仍處虧損，卻激發了對高成長科技的想像。台灣投信法人顯然捕捉到這股訊號，積極加碼緯創、英業達、神達、佳世達等AI伺服器供應鏈關鍵廠商，展現出對AI趨勢的堅定信心與供應鏈連鎖反應的提前佈局。凱基台北買進富邦科技ETF也印證了這股科技熱潮。然而，外資操作則呈現更為複雜的態勢。一方面，他們大舉買超聯電，可能預示著對成熟製程或整體半導體景氣復甦的樂觀預期，與投信賣超聯電形成對比，凸顯了法人間對半導體次產業前景的看法差異。另一方面，外資也大賣面板雙虎群創、友達及台積電，並轉向大買金融股，這或許是風險分散或資金輪動至相對穩健板塊的策略。美商高盛大買台新新光金，更強化了金融股的防禦或價值配置意圖。整體而言，台股大戶正以各自的邏輯，在國際科技浪潮與本土產業結構中尋找最佳的套利與避險平衡點。"
+    "market_connection": "在金融市場中，當股價上漲時，投資者通常會持續購入，以盡量減少買入成本。然而，在這些股價上漲的情況下，記錄到的交易活動也顯示出了一些不尋常的行為，例如在台積電的股價上漲後，投資人會增加購買量，而不是減少。這可能是因為投資人對於台積電的長期潛力和未來發展前景的信心，使得他們更加積極地投入資金。在另一方面，當股價下跌時，投資人通常會出售部分或全部 holdings，以盡量減少損失。然而，在這些股價下跌的情況下，記錄到的交易活動也顯示出了一些不尋常的行為，例如在台積電的股價下跌後，投資人會增加出售量，而不是減少。在金融市場中，這種情況可能是由於投資人對於未來發展前景的信心，使得他們更加積極地投入資金。因此，通過分析這些不尋常的行為，可以得到關於投資人心理和行為的重要信息，並進一步了解股價變動背後的機制。"
   }
 }

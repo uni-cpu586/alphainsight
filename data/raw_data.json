@@ -1,378 +1,378 @@
 {
-  "date": "2026-07-06",
-  "stock_market_date": "2026-07-03",
+  "date": "2026-07-07",
+  "stock_market_date": "2026-07-06",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 47477669
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 117995548
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 35293240
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 90691332
         },
         {
           "rank": 3,
-          "stock_name": "中石化",
-          "ticker": "1314",
-          "net_buy_shares": 34370938
+          "stock_name": "長興",
+          "ticker": "1717",
+          "net_buy_shares": 23669763
         },
         {
           "rank": 4,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 24649041
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 21846843
         },
         {
           "rank": 5,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_buy_shares": 19913948
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_buy_shares": 21469418
         },
         {
           "rank": 6,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 14073484
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_buy_shares": 20450802
         },
         {
           "rank": 7,
-          "stock_name": "長興",
-          "ticker": "1717",
-          "net_buy_shares": 13846061
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 20335651
         },
         {
           "rank": 8,
-          "stock_name": "正新",
-          "ticker": "2105",
-          "net_buy_shares": 13642826
+          "stock_name": "南茂",
+          "ticker": "8150",
+          "net_buy_shares": 17467404
         },
         {
           "rank": 9,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_buy_shares": 13479338
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 16287809
         },
         {
           "rank": 10,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_buy_shares": 12931771
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_buy_shares": 15875277
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -57891954
+          "stock_name": "和桐",
+          "ticker": "1714",
+          "net_sell_shares": -39312675
         },
         {
           "rank": 2,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -22901765
-        },
-        {
-          "rank": 3,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -19986289
-        },
-        {
-          "rank": 4,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_sell_shares": -18337641
-        },
-        {
-          "rank": 5,
-          "stock_name": "台塑",
-          "ticker": "1301",
-          "net_sell_shares": -17406251
-        },
-        {
-          "rank": 6,
           "stock_name": "力積電",
           "ticker": "6770",
-          "net_sell_shares": -15106515
-        },
-        {
-          "rank": 7,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_sell_shares": -15032607
-        },
-        {
-          "rank": 8,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -14987621
-        },
-        {
-          "rank": 9,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_sell_shares": -13961464
-        },
-        {
-          "rank": 10,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -12536525
-        }
-      ],
-      "trust_buy": [
-        {
-          "rank": 1,
-          "stock_name": "佳世達",
-          "ticker": "2352",
-          "net_buy_shares": 5922000
-        },
-        {
-          "rank": 2,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 5576491
+          "net_sell_shares": -34975864
         },
         {
           "rank": 3,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 4735325
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -25653888
         },
         {
           "rank": 4,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 4672449
+          "stock_name": "台化",
+          "ticker": "1326",
+          "net_sell_shares": -15398312
         },
         {
           "rank": 5,
-          "stock_name": "至上",
-          "ticker": "8112",
-          "net_buy_shares": 4579000
+          "stock_name": "晶技",
+          "ticker": "3042",
+          "net_sell_shares": -14791333
         },
         {
           "rank": 6,
-          "stock_name": "台灣大",
-          "ticker": "3045",
-          "net_buy_shares": 4558075
+          "stock_name": "中纖",
+          "ticker": "1718",
+          "net_sell_shares": -14066712
         },
         {
           "rank": 7,
           "stock_name": "緯創",
           "ticker": "3231",
-          "net_buy_shares": 4536916
+          "net_sell_shares": -13773544
         },
         {
           "rank": 8,
-          "stock_name": "神達",
-          "ticker": "3706",
-          "net_buy_shares": 4257000
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_sell_shares": -12564165
         },
         {
           "rank": 9,
-          "stock_name": "聯強",
-          "ticker": "2347",
-          "net_buy_shares": 3997104
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -12552150
         },
         {
           "rank": 10,
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_sell_shares": -10957427
+        }
+      ],
+      "trust_buy": [
+        {
+          "rank": 1,
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 7376129
+        },
+        {
+          "rank": 2,
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_buy_shares": 6410080
+        },
+        {
+          "rank": 3,
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 5039103
+        },
+        {
+          "rank": 4,
           "stock_name": "英業達",
           "ticker": "2356",
-          "net_buy_shares": 3872599
+          "net_buy_shares": 4923000
+        },
+        {
+          "rank": 5,
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 4668025
+        },
+        {
+          "rank": 6,
+          "stock_name": "台灣大",
+          "ticker": "3045",
+          "net_buy_shares": 4612657
+        },
+        {
+          "rank": 7,
+          "stock_name": "神達",
+          "ticker": "3706",
+          "net_buy_shares": 4340000
+        },
+        {
+          "rank": 8,
+          "stock_name": "聯強",
+          "ticker": "2347",
+          "net_buy_shares": 4227105
+        },
+        {
+          "rank": 9,
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 4010722
+        },
+        {
+          "rank": 10,
+          "stock_name": "佳世達",
+          "ticker": "2352",
+          "net_buy_shares": 3778000
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -18105522
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -16822326
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -12952460
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_sell_shares": -8834000
         },
         {
           "rank": 3,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_sell_shares": -9399608
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_sell_shares": -8753000
         },
         {
           "rank": 4,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -8718676
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -3750635
         },
         {
           "rank": 5,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -6390682
+          "stock_name": "群益證",
+          "ticker": "6005",
+          "net_sell_shares": -3261192
         },
         {
           "rank": 6,
           "stock_name": "台新新光金",
           "ticker": "2887",
-          "net_sell_shares": -3892544
+          "net_sell_shares": -3217800
         },
         {
           "rank": 7,
-          "stock_name": "群益證",
-          "ticker": "6005",
-          "net_sell_shares": -3553189
-        },
-        {
-          "rank": 8,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_sell_shares": -3321305
-        },
-        {
-          "rank": 9,
           "stock_name": "和碩",
           "ticker": "4938",
-          "net_sell_shares": -3319096
-        },
-        {
-          "rank": 10,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -3026000
-        }
-      ],
-      "dealer_buy": [
-        {
-          "rank": 1,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_buy_shares": 3194897
-        },
-        {
-          "rank": 2,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 1719321
-        },
-        {
-          "rank": 3,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 1519000
-        },
-        {
-          "rank": 4,
-          "stock_name": "中石化",
-          "ticker": "1314",
-          "net_buy_shares": 1225161
-        },
-        {
-          "rank": 5,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 1044884
-        },
-        {
-          "rank": 6,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 907000
-        },
-        {
-          "rank": 7,
-          "stock_name": "陽明",
-          "ticker": "2609",
-          "net_buy_shares": 872878
-        },
-        {
-          "rank": 8,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 734000
-        },
-        {
-          "rank": 9,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_buy_shares": 631815
-        },
-        {
-          "rank": 10,
-          "stock_name": "聯茂",
-          "ticker": "6213",
-          "net_buy_shares": 571864
-        }
-      ],
-      "dealer_sell": [
-        {
-          "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -1573000
-        },
-        {
-          "rank": 2,
-          "stock_name": "台塑",
-          "ticker": "1301",
-          "net_sell_shares": -647264
-        },
-        {
-          "rank": 3,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -645000
-        },
-        {
-          "rank": 4,
-          "stock_name": "至上",
-          "ticker": "8112",
-          "net_sell_shares": -511931
-        },
-        {
-          "rank": 5,
-          "stock_name": "同欣電",
-          "ticker": "6271",
-          "net_sell_shares": -430320
-        },
-        {
-          "rank": 6,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -402000
-        },
-        {
-          "rank": 7,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_sell_shares": -373000
+          "net_sell_shares": -3177094
         },
         {
           "rank": 8,
           "stock_name": "凱基金",
           "ticker": "2883",
-          "net_sell_shares": -331000
+          "net_sell_shares": -2783264
         },
         {
           "rank": 9,
-          "stock_name": "新唐",
-          "ticker": "4919",
-          "net_sell_shares": -320999
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_sell_shares": -2760925
         },
         {
           "rank": 10,
-          "stock_name": "大聯大",
-          "ticker": "3702",
-          "net_sell_shares": -294000
+          "stock_name": "文曄",
+          "ticker": "3036",
+          "net_sell_shares": -2449000
+        }
+      ],
+      "dealer_buy": [
+        {
+          "rank": 1,
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 5334531
+        },
+        {
+          "rank": 2,
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 2810982
+        },
+        {
+          "rank": 3,
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 1120000
+        },
+        {
+          "rank": 4,
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 992172
+        },
+        {
+          "rank": 5,
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_buy_shares": 756938
+        },
+        {
+          "rank": 6,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 715000
+        },
+        {
+          "rank": 7,
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 686000
+        },
+        {
+          "rank": 8,
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 548000
+        },
+        {
+          "rank": 9,
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_buy_shares": 489043
+        },
+        {
+          "rank": 10,
+          "stock_name": "長興",
+          "ticker": "1717",
+          "net_buy_shares": 456667
+        }
+      ],
+      "dealer_sell": [
+        {
+          "rank": 1,
+          "stock_name": "中纖",
+          "ticker": "1718",
+          "net_sell_shares": -3143456
+        },
+        {
+          "rank": 2,
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -1170800
+        },
+        {
+          "rank": 3,
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -891820
+        },
+        {
+          "rank": 4,
+          "stock_name": "神達",
+          "ticker": "3706",
+          "net_sell_shares": -504000
+        },
+        {
+          "rank": 5,
+          "stock_name": "三芳",
+          "ticker": "1307",
+          "net_sell_shares": -394000
+        },
+        {
+          "rank": 6,
+          "stock_name": "全新",
+          "ticker": "2455",
+          "net_sell_shares": -370391
+        },
+        {
+          "rank": 7,
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -303000
+        },
+        {
+          "rank": 8,
+          "stock_name": "台勝科",
+          "ticker": "3532",
+          "net_sell_shares": -287976
+        },
+        {
+          "rank": 9,
+          "stock_name": "新纖",
+          "ticker": "1409",
+          "net_sell_shares": -264000
+        },
+        {
+          "rank": 10,
+          "stock_name": "金像電",
+          "ticker": "2368",
+          "net_sell_shares": -234000
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "台新新光金",
-        "shares": 16617184
+        "target": "群創",
+        "shares": 41298441
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "富邦科技",
-        "shares": 1277958
+        "target": "群創",
+        "shares": 2133812
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "佳世達",
-        "shares": 2664900
+        "target": "第一金",
+        "shares": 3319258
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "群創",
-        "shares": 17367586
+        "target": "和桐",
+        "shares": 11793802
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Dow Jones Futures: Techs Jump With Apple, SpaceX, Sandisk, Robinhood In Focus",
+      "title": "Best Buy and Apple flag a price shock for shoppers",
       "source": "Yahoo Finance",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo",
-      "summary": "Dow Jones Futures: Techs Jump With Apple, SpaceX, Sandisk, Robinhood In Focus",
-      "full_text": "Dow Jones Futures: Techs Jump With Apple, SpaceX, Sandisk, Robinhood In Focus",
-      "published": "2026-07-05T22:16:49Z"
+      "link": "https://finance.yahoo.com/economy/articles/best-buy-apple-flag-price-203300039.html",
+      "summary": "Best Buy and Apple flag a price shock for shoppers",
+      "full_text": "\"Unfortunately, price increases are unavoidable,\" he told The Wall Street Journal. \"We're doing everything we can to mitigate the huge increases being passed on to us.\"\n\nThe problem is a global shortage of memory chips. These components, known as DRAM (memory) and NAND (storage), are inside nearly every computing device sold today.\n\nIt's a situation that means higher prices, not just for Apple, but for consumers across the board. Normally, that would push consumers to stock up before prices increase, but that's not what's happening, according to Best Buy's outgoing CEO Corie Barry.\n\nTraditionally, when people know that price increases are coming, that leads to at least some consumers buying ahead to meet future needs.\n\n\"In our research around the consumer. We are not seeing any indicators that would say the customer is pulling forward purchases,\" she said during Best Buy's first-quarter earnings call.\n\nBarry noted that the upcoming price increases, something that will hit pretty much any product that uses memory, unless the manufacturer opts to eat higher costs, have not impacted customer purchases.\n\n\"And in fact, very few really are worried about memory, as I say, in air quotes. And we've been keeping a really tight eye on this. So I think, again, I said it, we continue to see very consistent customer behavior, which is a customer that's under a little more pressure, but still resilient, attracted to deals and sales moments, shopping within their budget,\" she added.\n\nA few months ago, I ordered a hot tub because it was being offered at a lower price than I had seen before. We hadn't moved into the house where the spa is located, but spending the money now meant saving close to $1,000 rather than pushing the purchase down the road.",
+      "published": "2026-07-06T20:33:00Z"
     },
     {
       "id": "news_2",
-      "title": "If You'd Invested $10,000 in the SpaceX IPO, Here's How Much You Would Have Now",
+      "title": "Dear Taiwan Semi Stock Fans, Mark Your Calendars for July 16",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-10-000-spacex-221500874.html",
-      "summary": "If You'd Invested $10,000 in the SpaceX IPO, Here's How Much You Would Have Now",
-      "full_text": "Space Exploration Technologies (NASDAQ: SPCX) drew a lot of attention in the weeks leading up to its initial public offering, for many reasons -- from the sheer size of the operation, with SpaceX's goal to become a trillion-dollar company, to the focus on offering shares to retail investors. SpaceX earmarked more than 20% of shares for them, when generally in IPOs, only 5% to 10% go to non-professional investors.\n\nSome investors were also eager to get in on SpaceX for its range of growth businesses -- and to gain exposure to a company led by the ambitious Elon Musk.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nSo, if you happened to be one of the investors who was able to buy shares at the IPO price of $135, and if you had invested $10,000, how much would that be worth now? Let's find out.\n\nFirst, though, let's talk quickly about SpaceX -- to fully understand why so many sets of eyes were turned toward the company on and before its June 12 market debut. As mentioned, the SpaceX operation promised to be big, pushing the company to a trillion-dollar market cap right out of the gate.\n\nThe world's other trillion-dollar companies, such as Nvidia and Amazon, for example, had to wait years and even decades to reach such a level. And by the time they did, they already were highly profitable, well-established players.\n\nSpaceX, however, is still in earlier growth stages, developing technology and investing to reach its goals. The company's business units of space, connectivity, and artificial intelligence (AI) brought in $18 billion in revenue last year, but capital spending meant the company wasn't able to turn revenue into a profit. Instead, SpaceX reported a loss of $4.9 billion.\n\nWhile SpaceX has scored accomplishments like rocket launches with reusable boosters and growth in satellite-based internet service subscriptions, the company still must invest heavily to reach its biggest goals. And this may weigh on its ability to reach profitability. It also involves risk because a technology setback could call into question a certain revenue opportunity.",
-      "published": "2026-07-05T22:15:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-taiwan-semi-stock-fans-140002938.html",
+      "summary": "Dear Taiwan Semi Stock Fans, Mark Your Calendars for July 16",
+      "full_text": "Chip manufacturing giant Taiwan Semiconductor Manufacturing Company Limited (TSM), or TSMC, is set to report its second-quarter results on July 16 before the market opens. The company has become vital for major technology companies, as AI buildouts take center stage.\n\nAhead of the results, the company has reportedly asked its customers to prepare for price increases. According to a report by Culpium, this is expected to affect the majority of its wafer revenue (nearly three-quarters). The exact magnitude of the price increases is not known. However, this could fall within the 5%-10% range.\n\nEarlier, it was reported that only the 3nm process would face this. However, the hikes could extend beyond 3nm and 2nm to include older but still advanced processes such as 5nm and 7nm. The inclusion of 7nm is notable because it is heavily used across processors, accelerators, networking silicon, and other high-performance chips. The timing of the increases is also notable, as it shows the immense negotiating leverage it enjoys amid high demand for its chips among AI accelerator vendors.\n\nThis also culminates at a time when TSMC has become central in a tech competition between the U.S. and China.\n\nTaiwan Semiconductor is a leading chip foundry that makes semiconductors for customers across the technology industry. It focuses on advanced manufacturing, producing chips that power smartphones, data centers, and other electronics, while also investing heavily in process technology and global production capacity. The company is headquartered in Hsinchu, Taiwan and has a gigantic market capitalization of $2.25 trillion.\n\nOver the past year, TSMC's stock has gained 85.86%, while it is up 42.87% year-to-date (YTD). TSMC's stock has risen over the past year because investors have continued to price in strong demand for advanced chips, especially from AI and high-performance computing customers. The broader semiconductor cycle has also helped, as TSMC sits at the center of the AI supply chain and benefits when major chip designers need leading-edge production. The stock had reached a 52-week high of $479 on June 30.\n\nDespite the rise, TSMC's stock is trading at a relatively cheap valuation. On a forward-adjusted basis, its price-to-earnings ratio of 28.94 times is lower than the industry average of 33.21 times.\n\nSupported by a strong demand for our leading-edge process technologies, TSMC reported strong results in the first quarter. The company's revenue increased by 35.1% year-over-year (YOY) to NT$1.13 trillion ($35.60 billion). Its income from operations grew by 61.9% YOY to NT$658.97 billion ($20.68 billion). TSMC's EPS grew 58.3% from the year-ago period to NT$22.08.",
+      "published": "2026-07-05T14:00:02Z"
     },
     {
       "id": "news_3",
-      "title": "Here’s Why BNP Paribas Views Bentley Systems (BSY) As “Outperform” With A $40 Price Target",
+      "title": "Got $2M saved for retirement? Get ready for everything to change, and not always for the better. Dodge 5 money traps now",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-bnp-paribas-views-bentley-221124667.html",
-      "summary": "Here’s Why BNP Paribas Views Bentley Systems (BSY) As “Outperform” With A $40 Price Target",
-      "full_text": "Bentley Systems, Incorporated (NASDAQ:BSY), which offers strong upside potential, ranks among the overlooked tech stocks to invest in now. Fresh bullish coverage is framing the infrastructure software maker as a rare defensive play against mounting AI competition.\n\nOn June 18, 2026, BNP Paribas analyst Andrew DeGasperi initiated coverage of Bentley Systems, Incorporated (NASDAQ:BSY) with an \"Outperform\" rating and a $40 price target. DeGasperi told investors the company's defensibility in comparison to frontier AI models is strong, pointing to low software penetration in Bentley's core markets of civil infrastructure, energy exploration, and resource mining, along with limited competition in those areas.\n\nThat view was echoed by BofA, which reinstated coverage of Bentley Systems, Incorporated (NASDAQ:BSY) at \"Buy\" with a $40 price target, up from a previous \"Neutral\" rating. The firm described Bentley as a defensive play against AI, saying its premium valuation is supported by structural barriers including embedded compliance, deterministic workflows, and regulatory requirements.\n\nBentley Systems, Incorporated (NASDAQ:BSY) is down nearly 20% so far in 2026, while about 80% of covering analysts remain bullish.\n\nBentley Systems, Incorporated (NASDAQ:BSY) develops infrastructure engineering software. The company provides integrated software solutions used across professional disciplines, infrastructure sectors, geographies, and different stages of the infrastructure lifecycle.\n\nWhile we acknowledge the potential of BSY as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
-      "published": "2026-07-05T22:11:24Z"
+      "link": "https://finance.yahoo.com/markets/articles/got-2m-saved-retirement-ready-141000374.html",
+      "summary": "Got $2M saved for retirement? Get ready for everything to change, and not always for the better. Dodge 5 money traps now",
+      "full_text": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\n\nIf you have $2 million in retirement savings, congratulations. That's well above the $1.46 million that Americans believe is needed to retire comfortably, according to a 2025 Northwestern Mutual study (1).\n\nAt this point, you have probably overcome the challenge of saving enough. Now, your next mission is wealth preservation. Higher taxes and the wrong lifestyle choices can quickly erode what seems like a huge treasure trove.\n\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake — here's what it is and 3 simple steps to fix it ASAP\n\nJP Morgan sees gold hitting $6,000/oz before 2027 — and a Gold IRA lets you hold the physical metal while deferring the tax bill. Get your free guide from Priority Gold\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nShifting your perspective from building wealth to protecting it isn't easy. But the journey could be less treacherous if you avoid these five common money traps that high-net-worth individuals sometimes fall into.\n\nIf you follow the 4% rule, $2 million in retirement savings would give you $80,000 a year, adjusted for inflation. That could either be too much or too little, depending on where you live and how much you spend.",
+      "published": "2026-07-05T14:10:00Z"
     }
   ]
 }
