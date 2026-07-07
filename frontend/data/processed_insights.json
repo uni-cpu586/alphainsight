@@ -1,213 +1,129 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "stock_uncle_insight": {
-    "date_header": "7/7 法人與主力大戶主要買超股票",
+    "date_header": "7/8 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃面板雙虎與金融避險",
+        "group_title": "1. 外資大戶：狂掃金融與航空，面板雙虎倒貨不手軟",
         "stocks": [
           {
-            "stock_name": "群創",
-            "ticker": "3481",
-            "description": "肖年仔，外資大戶今天狂掃群創將近11.8萬張，這不是黑白買，擺明就是看好面板報價有機會觸底反彈，或是準備拉高出貨給追高的韭菜們！"
-          },
-          {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "友達也跟著群創被外資大戶買超9.07萬張，面板雙虎聯手出擊，外資這波操作很明顯，就是鎖定低基期、有轉機題材的標的。"
-          },
-          {
-            "stock_name": "長興",
-            "ticker": "1717",
-            "description": "外資買超長興2.37萬張，這檔塑化股被買進，可能是看好原物料後市，或是資金在尋找避風港，肖年仔，這叫低基期卡位。"
-          },
-          {
-            "stock_name": "永豐金",
-            "ticker": "2890",
-            "description": "永豐金被外資買超2.18萬張，金融股向來是避險的好去處，在大盤震盪時，外資會把錢挪到這種穩定的標的，肖年仔，這叫資金避風港。"
-          },
-          {
-            "stock_name": "中石化",
-            "ticker": "1314",
-            "description": "中石化也獲得外資2.15萬張的買超，跟長興一樣，塑化股被外資看上，可能是在賭原物料行情，但肖年仔，這種股票波動大，要小心接刀。"
-          },
-          {
-            "stock_name": "國泰金",
-            "ticker": "2882",
-            "description": "國泰金被外資買超2.05萬張，跟永豐金一樣，外資在佈局金融股，這是在做高檔避險，肖年仔，穩字訣才是王道。"
+            "stock_name": "台新新光金",
+            "ticker": "2887",
+            "description": "肖年仔你看，外資大戶一口氣狂掃台新新光金近 2.96 萬張，擺明就是看好金融股的避險跟高殖利率題材，這不是黑白買的啦！"
           },
           {
             "stock_name": "凱基金",
             "ticker": "2883",
-            "description": "凱基金也被外資買超2.03萬張，金融三雄都被外資掃貨，這不是巧合，是外資在調整部位，把資金從高風險板塊撤出。"
+            "description": "凱基金也被外資買超近 2.60 萬張，跟台新新光金一樣，都是外資在金融股裡頭找安全感，順便卡位下半年行情。"
           },
           {
-            "stock_name": "南茂",
-            "ticker": "8150",
-            "description": "外資買超南茂1.75萬張，雖然大賣記憶體，但對部分半導體封測股還是有興趣，肖年仔，這叫資金輪動，不是整個產業都黑白買。"
-          },
-          {
-            "stock_name": "玉山金",
-            "ticker": "2884",
-            "description": "玉山金被外資買超1.63萬張，但投信卻在賣，這表示外資跟投信對金融股的看法有分歧，肖年仔，這就是市場的眉角。"
-          },
-          {
-            "stock_name": "京元電子",
-            "ticker": "2449",
-            "description": "京元電子被外資買超1.59萬張，跟南茂一樣，半導體封測股有外資青睞，可能是看好AI相關的後段需求，肖年仔，這叫題材點火。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：作帳行情鎖定防禦型與高殖利率",
-        "stocks": [
-          {
-            "stock_name": "第一金",
-            "ticker": "2892",
-            "description": "投信大戶買超第一金0.74萬張，這很明顯是作帳行情，金融股高殖利率又穩，基金經理人年底要交成績單，當然要買這種安全牌來撐場面。"
-          },
-          {
-            "stock_name": "遠傳",
-            "ticker": "4904",
-            "description": "遠傳被投信買超0.64萬張，電信股也是防禦型標的，在大盤震盪時，投信會把資金移到這種抗跌的股票，肖年仔，這叫避險操作。"
+            "stock_name": "國泰金",
+            "ticker": "2882",
+            "description": "國泰金也沒漏掉，外資買超近 1.70 萬張。這些金控股就是外資的資金避風港，肖年仔別傻傻去接刀那些被倒貨的股票。"
           },
           {
             "stock_name": "長榮航",
             "ticker": "2618",
-            "description": "長榮航被投信買超0.50萬張，航空股在解封題材下，投信持續佈局，肖年仔，這叫旺季效應，但也要小心高檔倒貨。"
+            "description": "長榮航被外資買超近 1.48 萬張，這就是解封題材的延續，肖年仔，航空股有夢最美，但也要小心高檔拉高出貨的風險。"
           },
           {
-            "stock_name": "英業達",
-            "ticker": "2356",
-            "description": "英業達被投信買超0.49萬張，雖然部分電子股被結帳，但投信還是有挑選部分電子代工股，肖年仔，這可能是看好AI伺服器相關的訂單。"
-          },
+            "stock_name": "力積電",
+            "ticker": "6770",
+            "description": "力積電外資買超近 1.00 萬張，但自營商卻在賣，這擺明就是法人之間在對作，肖年仔別看到外資買就黑白衝，搞不好是假外資在玩短線。"
+          }
+        ]
+      },
+      {
+        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，防禦性電信也入袋",
+        "stocks": [
           {
             "stock_name": "兆豐金",
             "ticker": "2886",
-            "description": "兆豐金被投信買超0.47萬張，跟第一金一樣，投信在金融股上持續加碼，這就是國家隊的穩健操作，肖年仔，跟著國家隊走，比較不會被割韭菜。"
+            "description": "兆豐金被投信狂買近 1.50 萬張，這就是國家隊在作帳啦！把績優金控股拉起來，讓基金淨值好看，肖年仔，這招你學起來。"
           },
           {
-            "stock_name": "台灣大",
-            "ticker": "3045",
-            "description": "台灣大被投信買超0.46萬張，電信雙雄都被投信買進，這表示投信對防禦型股票的偏好很明顯，肖年仔，這叫資金避風港。"
-          },
-          {
-            "stock_name": "神達",
-            "ticker": "3706",
-            "description": "神達被投信買超0.43萬張，但自營商卻在賣，這兩大法人對這檔股票看法不同調，肖年仔，這種時候就要看誰的拳頭大。"
-          },
-          {
-            "stock_name": "聯強",
-            "ticker": "2347",
-            "description": "聯強被投信買超0.42萬張，電子通路股被投信買進，可能是看好下半年的消費電子需求，肖年仔，這叫提前卡位。"
-          },
-          {
-            "stock_name": "中信金",
-            "ticker": "2891",
-            "description": "中信金被投信買超0.40萬張，金融股持續被投信青睞，這波金融股的買盤很紮實，肖年仔，這不是黑白買，是有計畫的佈局。"
+            "stock_name": "第一金",
+            "ticker": "2892",
+            "description": "第一金也被投信買超近 0.77 萬張，跟兆豐金一樣，都是投信的作帳標的。但肖年仔要注意，投信在其他金控股卻是賣超，這叫換股操作。"
           },
           {
             "stock_name": "佳世達",
             "ticker": "2352",
-            "description": "佳世達被投信買超0.38萬張，這檔股票有醫療題材，投信可能是在尋找新的成長動能，肖年仔，這叫新技術題材點火。"
-          }
-        ]
-      },
-      {
-        "group_title": "3. 內資主力與實戶：跟風面板雙虎與避險操作",
-        "stocks": [
-          {
-            "stock_name": "群創",
-            "ticker": "3481",
-            "description": "自營商也跟著外資買超群創0.53萬張，這表示面板雙虎的買盤有共識，肖年仔，這種集體買超，不是要拉高出貨，就是真的看好後市。"
+            "description": "佳世達被投信買超近 0.71 萬張，這檔電子股在投信的買超榜上算突出，可能是有特定題材或低基期被看上。"
           },
           {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "友達也被自營商買超0.28萬張，自營商跟外資同步買進面板雙虎，這可能是避險盤在權證市場對作，肖年仔，這叫權證大戰。"
+            "stock_name": "遠傳",
+            "ticker": "4904",
+            "description": "遠傳被投信買超近 0.63 萬張，電信股就是防禦性資產，市場不穩的時候，資金就會往這些穩健的標的跑，肖年仔，這叫避險。"
           },
           {
             "stock_name": "長榮航",
             "ticker": "2618",
-            "description": "長榮航被自營商買超0.11萬張，跟投信一樣，自營商也看好航空股的復甦，肖年仔，這叫資金避風港，但也要小心短線獲利了結。"
+            "description": "長榮航投信也買超近 0.63 萬張，跟外資英雄所見略同，解封題材還是有吸引力，但肖年仔，漲多就是最大的利空，要小心隔日沖倒貨。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：短線避險與特定題材點火",
+        "stocks": [
+          {
+            "stock_name": "三商壽",
+            "ticker": "2867",
+            "description": "自營商買超三商壽近 0.24 萬張，這檔壽險股被自營商點火，通常是短線題材或權證避險盤的動作，肖年仔別以為是長線布局。"
           },
           {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "自營商買超華邦電0.10萬張，但外資卻在大賣，這表示自營商可能在做短線價差，或是權證避險，肖年仔，這叫隔日沖。"
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "元大台灣50被自營商買超近 0.13 萬張，但外資卻是大賣，這就是自營商在做避險操作，或是短線對沖，肖年仔，這不是叫你跟著買的。"
           },
           {
-            "stock_name": "中石化",
-            "ticker": "1314",
-            "description": "中石化被自營商買超0.08萬張，跟外資一樣，自營商也佈局塑化股，肖年仔，這叫低基期卡位，但也要小心被套牢。"
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "長榮航自營商也買超近 0.07 萬張，三大法人都買航空股，這股熱潮還在，但肖年仔，追高要小心，主力隨時會拉高出貨。"
           },
           {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "自營商買超聯電0.07萬張，但投信卻大賣，這兩大法人對聯電看法分歧，肖年仔，這種股票就別黑白猜了，容易接刀。"
-          },
-          {
-            "stock_name": "中信金",
-            "ticker": "2891",
-            "description": "中信金被自營商買超0.07萬張，金融股是自營商的避險好標的，肖年仔，這叫高檔避險，穩字訣才是王道。"
-          },
-          {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "兆豐金被自營商買超0.05萬張，金融股被三大法人同步買進，這表示市場對金融股的共識度很高，肖年仔，這叫資金避風港。"
-          },
-          {
-            "stock_name": "京元電子",
-            "ticker": "2449",
-            "description": "京元電子被自營商買超0.05萬張，跟外資一樣，自營商也看好半導體封測，肖年仔，這叫新技術題材點火，但也要小心短線拉高出貨。"
-          },
-          {
-            "stock_name": "長興",
-            "ticker": "1717",
-            "description": "長興被自營商買超0.05萬張，塑化股被外資和自營商同步買進，肖年仔，這可能是看好原物料後市，但也要小心被套牢。"
+            "stock_name": "中磊",
+            "ticker": "5388",
+            "description": "中磊被自營商買超近 0.05 萬張，網通股最近也有些零星買盤，可能是特定題材或小型股輪動，肖年仔，這種小咖的動向要多觀察。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔避險與資金避風港（金融、電信、航空）",
-        "strategy_content": "肖年仔，你看外資、投信、自營商今天同步狂掃金融股，像永豐金、國泰金、第一金、兆豐金、中信金這些，還有投信買進遠傳、台灣大這些電信股，連長榮航都被投信和自營商買進。這擺明了就是大盤在高檔震盪，主力大戶把資金從高風險的電子股撤出來，轉往這些具有防禦性、高殖利率，或是旺季效應的板塊。國際新聞也說記憶體要漲價但消費不買單，TSMC也要漲價，這些都讓市場對電子股的看法更謹慎，所以資金就往這些避風港跑，肖年仔，這叫穩字訣。"
+        "strategy_title": "策略一：資金大挪移，從景氣循環股撤退至防禦性金融與解封概念",
+        "strategy_content": "肖年仔你看，外資跟自營商不約而同地大賣面板雙虎（群創、友達），還有聯電、華邦電這些半導體，這擺明就是對景氣循環股的後市不看好，尤其面板業庫存壓力山大，記憶體晶片雖然說要漲價，但新聞也說消費者不買單，需求疲軟是事實。這些資金跑去哪？全部湧進金融股（台新新光金、凱基金、國泰金、兆豐金）跟航空股（長榮航），這就是大戶在找避風港，金融股有高殖利率跟升息預期撐腰，航空股則有解封題材，肖年仔，這叫高檔避險，別傻傻去接刀。"
       },
       {
-        "strategy_title": "策略二：面板雙虎逆勢點火，外資與自營商同步鎖碼",
-        "strategy_content": "肖年仔，今天最吸睛的就是群創和友達這兩隻面板雙虎，被外資和自營商狂掃，外資光群創就買了將近11.8萬張，友達也買了9.07萬張。這不是黑白買，這是在半導體漲價、消費電子需求不明朗的背景下，主力資金在尋找低基期、有轉機題材的標的。面板報價可能被預期觸底反彈，所以大戶們提前卡位，準備拉高出貨給追高的韭菜們。肖年仔，這種量能不是散戶玩得起的，小心別去接刀。"
+        "strategy_title": "策略二：投信國家隊作帳行情，防禦性電信股卡位",
+        "strategy_content": "投信這幫國家隊，買超兆豐金、第一金，這就是典型的作帳行情，把基金持有的績優股拉抬一下，讓季底或年底的淨值好看。同時也買進遠傳、台灣大這些電信股，肖年仔，電信股就是穩，股性牛皮但抗跌，在市場震盪的時候，就是資金的避風港，這也是一種防禦性布局。但肖年仔要注意，投信在金融股上跟外資有對作，這表示他們內部也在調整持股，不是全面看好。"
       },
       {
-        "strategy_title": "策略三：半導體板塊資金輪動與避險操作",
-        "strategy_content": "肖年仔，半導體板塊今天很熱鬧，外資大賣力積電、華邦電、旺宏這些記憶體股，但卻買進南茂、京元電子這些封測股。自營商則是買進華邦電、聯電、京元電子，但投信卻大賣聯電。這表示半導體產業鏈內部資金在進行調整，外資可能在出清部分記憶體，轉向其他環節或避險。加上國際新聞說TSMC要漲價，這會影響下游廠商的成本，所以主力資金在重新佈局，肖年仔，這叫資金輪動，不是整個產業都黑白買。"
-      },
-      {
-        "strategy_title": "策略四：塑化股的低基期佈局",
-        "strategy_content": "肖年仔，你看外資買超長興、中石化，自營商也跟著買進長興、中石化。這表示主力資金可能在原物料價格低檔徘徊的時候，預期未來有反彈空間，所以提前卡位。這種低基期的股票，一旦有風吹草動，很容易就被拉抬起來，但肖年仔，這種股票波動大，要小心接刀，別傻傻追高。"
+        "strategy_title": "策略三：短線主力與避險盤的權證大戰與隔日沖",
+        "strategy_content": "自營商買超三商壽、元大台灣50，同時賣超群創、聯電、力積電，這就是典型的短線操作跟避險盤。肖年仔，自營商很多時候是為了權證或權利金在做對沖，他們的買賣動作很難說代表對基本面的看法。你看凱基台北這種隔日沖大戶也買三商壽，這就更印證了短線炒作的意圖。肖年仔，這種股票你追進去，隔天可能就被倒貨，小心割韭菜！"
       }
     ],
-    "summary": "肖年仔，今天三大法人操作很明確，外資狂掃面板雙虎，同時與投信、自營商一起佈局金融、電信、航空等防禦型股票，這擺明了就是高檔避險，資金在尋找避風港。半導體板塊則是在進行資金輪動，記憶體被倒貨，但封測股有買盤。肖年仔，大盤震盪時，穩字訣才是王道，別傻傻去追高殺低，小心被割韭菜！",
+    "summary": "肖年仔，今天大戶們的動作很明顯，資金從景氣循環股大撤退，轉進金融、航空、電信這些防禦性或有特定題材的板塊避險兼作帳，面板跟部分半導體被倒貨倒得兇，別傻傻去接刀，追高殺低是韭菜的宿命！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 4.13 萬張",
-        "uncle_logic": "美商高盛今天狂掃群創4.13萬張，這擺明是外資大戶在鎖碼群創，不是看好面板後市，就是準備拉高出貨給追高的韭菜們。肖年仔，這種量能不是散戶玩得起的，別傻傻去當抬轎的。"
+        "action": "買超台新新光金 1.04 萬張",
+        "uncle_logic": "美商高盛這種外資大咖，一口氣買超台新新光金這麼多，這不是避險那麼簡單，擺明就是看好金融股下半年的獲利或有特定題材，準備鎖碼波段，肖年仔，這叫真外資，不是假外資。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 0.21 萬張",
-        "uncle_logic": "凱基台北這分點，大家嘛知道是隔日沖大本營。今天買群創兩千多張，明天八成是要倒貨給追高的韭菜們。肖年仔，別傻傻去接刀啊，小心被割韭菜！"
+        "action": "買超三商壽 0.10 萬張",
+        "uncle_logic": "凱基台北這種著名的短線隔日沖分點，買三商壽這種壽險股，通常是看短線題材或隔日沖套利，隔天高機率會倒貨，肖年仔，這就是標準的割韭菜手法，你追進去就準備被套！"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 0.33 萬張",
-        "uncle_logic": "元大投信買第一金三千多張，這是標準的投信作帳行情啦！金融股高殖利率又穩，基金經理人年底要交成績單，當然要買這種安全牌來撐場面。肖年仔，跟著國家隊走，比較不會被割韭菜。"
+        "action": "買超兆豐金 0.68 萬張",
+        "uncle_logic": "元大投信這種國家隊在買兆豐金，這就是典型的作帳行情，把績優金控股拉起來，讓基金淨值好看，肖年仔，這叫拉抬，但也要注意作帳結束後的賣壓。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 1.18 萬張",
-        "uncle_logic": "摩根大通大賣和桐一萬多張，這外資在倒貨，擺明就是不看好這檔了。肖年仔，這種股票就別去碰了，小心被割韭菜，別傻傻去接刀。"
+        "action": "賣超群創 3.42 萬張",
+        "uncle_logic": "摩根大通這種外資大咖狂倒群創，結合外資整體大賣面板，擺明就是看壞面板後市，準備拉高出貨或直接砍倉，肖年仔，面板雙虎現在就是燙手山芋，別去接刀！"
       }
     ]
   },
@@ -218,49 +134,49 @@
       "source": "Yahoo Finance",
       "link": "https://finance.yahoo.com/economy/articles/best-buy-apple-flag-price-203300039.html",
       "level1_blind": {
-        "text": "\"Unfortunately, price increases are unavoidable,\" he told The Wall Street Journal. \"We're doing everything we can to mitigate the huge increases being passed on to us.\"\n\nThe problem is a global shortage of memory chips. These components, known as DRAM (memory) and NAND (storage), are inside nearly every computing device sold today.\n\nIt's a situation that means higher prices, not just for Apple, but for consumers across the board. Normally, that would push consumers to stock up before prices increase, but that's not what's happening, according to Best Buy's outgoing CEO Corie Barry.\n\nTraditionally, when people know that price increases are coming, that leads to at least some consumers buying ahead to meet future needs.\n\n\"In our research around the consumer. We are not seeing any indicators that would say the customer is pulling forward purchases,\" she said during Best Buy's first-quarter earnings call.\n\nBarry noted that the upcoming price increases, something that will hit pretty much any product that uses memory, unless the manufacturer opts to eat higher costs, have not impacted customer purchases.\n\n\"And in fact, very few really are worried about memory, as I say, in air quotes. And we've been keeping a really tight eye on this. So I think, again, I said it, we continue to see very consistent customer behavior, which is a customer that's under a little more pressure, but still resilient, attracted to deals and sales moments, shopping within their budget,\" she added.\n\nA few months ago, I ordered a hot tub because it was being offered at a lower price than I had seen before. We hadn't moved into the house where the spa is located, but spending the money now meant saving close to $1,000 rather than pushing the purchase down the road."
+        "text": "「Unfortunately, price increases are unavoidable,」 he told The Wall Street Journal. 「We're doing everything we can to mitigate the huge increases being passed on to us.」\nThe problem is a global shortage of memory chips. These components, known as DRAM (memory) and NAND (storage), are inside nearly every computing device sold today.\nIt's a situation that means higher prices, not just for Apple, but for consumers across the board. Normally, that would push consumers to stock up before prices increase, but that's not what's happening, according to Best Buy's outgoing CEO Corie Barry.\nTraditionally, when people know that price increases are coming, that leads to at least some consumers buying ahead to meet future needs.\n「In our research around the consumer. We are not seeing any indicators that would say the customer is pulling forward purchases,」 she said during Best Buy's first-quarter earnings call.\nBarry noted that the upcoming price increases, something that will hit pretty much any product that uses memory, unless the manufacturer opts to eat higher costs, have not impacted customer purchases.\n「And in fact, very few really are worried about 「memory」, as I say, in air quotes. And we've been keeping a really tight eye on this. So I think, again, I said it, we continue to see very consistent customer behavior, which is a customer that's under a little more pressure, but still resilient, attracted to deals and sales moments, shopping within their budget,」 she added.\nA few months ago, I ordered a hot tub because it was being offered at a lower price than I had seen before. We hadn't moved into the house where the spa is located, but spending the money now meant saving close to $1,000 rather than pushing the purchase down the road."
       },
       "level2_keywords": [
         {
           "word": "price increases",
-          "ipa": "[praɪs ˈɪnkrisɪz]",
-          "meaning": "指商品或服務的價格上漲，通常會影響消費者的購買力與企業的成本結構。",
-          "example": "The company announced significant price increases for its new product line due to rising raw material costs."
-        },
-        {
-          "word": "mitigate",
-          "ipa": "[ˈmɪtɪˌɡeɪt]",
-          "meaning": "減輕、緩解，指採取措施來降低某種負面影響或風險。",
-          "example": "We are implementing new strategies to mitigate the impact of the global chip shortage on our production schedule."
+          "ipa": "/praɪs ˈɪnˌkriːsɪz/",
+          "meaning": "價格上漲",
+          "example": "「The company warned of significant price increases due to supply chain disruptions.」"
         },
         {
           "word": "global shortage",
-          "ipa": "[ˈɡloʊbəl ˈʃɔrtɪdʒ]",
-          "meaning": "全球短缺，指某種商品、資源或零組件在全球範圍內供應不足的狀況。",
-          "example": "The global shortage of semiconductors has severely disrupted the automotive and electronics industries."
+          "ipa": "/ˈɡloʊbəl ˈʃɔːrtɪdʒ/",
+          "meaning": "全球短缺",
+          "example": "「A global shortage of semiconductors has impacted various industries.」"
         },
         {
           "word": "memory chips",
-          "ipa": "[ˈmɛməri tʃɪps]",
-          "meaning": "記憶體晶片，泛指用於儲存資料的半導體元件，如 DRAM（動態隨機存取記憶體）和 NAND（儲存型快閃記憶體），是各種電子裝置的核心零組件。",
-          "example": "Smartphones and computers heavily rely on advanced memory chips for their performance and storage capabilities."
+          "ipa": "/ˈmɛməri tʃɪps/",
+          "meaning": "記憶體晶片",
+          "example": "「The production of smartphones relies heavily on a stable supply of memory chips.」"
         },
         {
-          "word": "pulling forward purchases",
-          "ipa": "[ˈpʊlɪŋ ˈfɔrwərd ˈpɜrtʃəsɪz]",
-          "meaning": "提前採購，指消費者或企業預期未來價格上漲或供應短缺，而提前進行購買行為。",
-          "example": "Despite anticipated price hikes, consumers are not pulling forward purchases, indicating cautious spending behavior."
+          "word": "earnings call",
+          "ipa": "/ˈɜːrnɪŋz kɔːl/",
+          "meaning": "財報電話會議",
+          "example": "「During the recent earnings call, the CEO discussed future growth strategies.」"
+        },
+        {
+          "word": "resilient",
+          "ipa": "/rɪˈzɪliənt/",
+          "meaning": "有韌性的、適應力強的",
+          "example": "「Despite economic headwinds, consumer spending remained surprisingly resilient.」"
         }
       ],
-      "level2_context": "各位同學，這篇新聞主要在探討當前科技產業面臨的一個關鍵挑戰：記憶體晶片的全球性短缺。這種短缺導致了包括蘋果在內，所有使用 DRAM 和 NAND 這些核心零組件的運算裝置，都將面臨「價格上漲」的壓力。這對廣大消費者來說，意味著未來購買電子產品可能需要付出更高的成本。有趣的是，儘管傳統上消費者在預期價格上漲時會「提前採購」來囤貨，但百思買（Best Buy）的財報電話會議卻顯示，目前消費者並沒有出現這種行為。這反映出在當前經濟壓力下，消費者雖然仍有購買需求，但他們更傾向於精打細算，在預算內購物，並尋找促銷優惠，而非盲目地提前消費。",
+      "level2_context": "各位同學，這篇新聞主要在探討電子產品價格上漲的議題。起因是全球性的記憶體晶片短缺，包括DRAM和NAND等關鍵零組件供應吃緊，這直接導致了製造成本的增加。像蘋果和百思買（Best Buy）這類科技零售商和品牌商，面臨著不得不將這些成本轉嫁給消費者的壓力。\n\n有趣的是，儘管預期價格會上漲，但百思買的數據顯示，消費者並沒有像傳統預期那樣提前囤貨。這反映出當前消費者可能面臨更大的預算壓力，儘管他們對優惠和促銷活動仍有興趣，但整體消費行為趨於謹慎，更傾向於在預算內購物。這對科技產業來說，意味著即使產品成本上升，廠商在定價和促銷策略上仍需謹慎，以避免進一步抑制消費需求。",
       "level3_translation": [
         {
-          "sentence": "\"Unfortunately, price increases are unavoidable,\" he told The Wall Street Journal.",
+          "sentence": "「Unfortunately, price increases are unavoidable,」 he told The Wall Street Journal.",
           "translation": "「很不幸地，價格上漲是無法避免的，」他向『華爾街日報』表示。"
         },
         {
-          "sentence": "\"We're doing everything we can to mitigate the huge increases being passed on to us.\"",
-          "translation": "「我們正盡一切努力來減輕轉嫁到我們身上的巨大成本增幅。」"
+          "sentence": "「We're doing everything we can to mitigate the huge increases being passed on to us.」",
+          "translation": "「我們正在竭盡所能，來緩解這些轉嫁到我們身上的巨大成本增幅。」"
         },
         {
           "sentence": "The problem is a global shortage of memory chips.",
@@ -268,31 +184,43 @@
         },
         {
           "sentence": "These components, known as DRAM (memory) and NAND (storage), are inside nearly every computing device sold today.",
-          "translation": "這些被稱為 DRAM（記憶體）和 NAND（儲存）的零組件，幾乎存在於今天市面上銷售的每一台運算裝置中。"
+          "translation": "這些零組件，也就是我們熟知的DRAM（記憶體）和NAND（儲存），幾乎存在於現今所有銷售的運算裝置中。"
         },
         {
           "sentence": "It's a situation that means higher prices, not just for Apple, but for consumers across the board.",
-          "translation": "這種情況意味著價格將會上漲，不只對蘋果，而是對廣大消費者都會造成影響。"
+          "translation": "這種情況意味著不僅是蘋果，而是所有消費者都將面臨更高的價格。"
         },
         {
           "sentence": "Normally, that would push consumers to stock up before prices increase, but that's not what's happening, according to Best Buy's outgoing CEO Corie Barry.",
-          "translation": "通常情況下，這會促使消費者在價格上漲前囤貨，但根據百思買（Best Buy）即將卸任的執行長柯里·巴里（Corie Barry）的說法，目前並非如此。"
+          "translation": "通常來說，這會促使消費者在價格上漲前囤貨，但根據百思買即將卸任的執行長Corie Barry的說法，目前情況並非如此。"
         },
         {
           "sentence": "Traditionally, when people know that price increases are coming, that leads to at least some consumers buying ahead to meet future needs.",
-          "translation": "傳統上，當人們知道價格即將上漲時，至少會有一些消費者會提前購買以滿足未來的需求。"
+          "translation": "傳統上，當人們知道價格即將上漲時，至少會有一些消費者提前購買以滿足未來需求。"
         },
         {
-          "sentence": "\"In our research around the consumer. We are not seeing any indicators that would say the customer is pulling forward purchases,\" she said during Best Buy's first-quarter earnings call.",
-          "translation": "她在百思買第一季財報電話會議上表示：「在我們針對消費者的研究中，我們沒有看到任何跡象表明顧客正在提前採購。」"
+          "sentence": "「In our research around the consumer.",
+          "translation": "「在我們針對消費者的研究中，"
+        },
+        {
+          "sentence": "We are not seeing any indicators that would say the customer is pulling forward purchases,」 she said during Best Buy's first-quarter earnings call.",
+          "translation": "我們沒有看到任何跡象表明顧客正在提前購買，」她在百思買的第一季度財報電話會議上表示。"
         },
         {
           "sentence": "Barry noted that the upcoming price increases, something that will hit pretty much any product that uses memory, unless the manufacturer opts to eat higher costs, have not impacted customer purchases.",
-          "translation": "巴里指出，即將到來的價格上漲——這幾乎會影響到所有使用記憶體的產品，除非製造商選擇自行吸收更高的成本——並未影響到顧客的購買行為。"
+          "translation": "Barry指出，即將到來的價格上漲——這幾乎會影響所有使用記憶體的產品，除非製造商選擇自行吸收更高的成本——並未影響顧客的購買行為。"
         },
         {
-          "sentence": "\"And in fact, very few really are worried about memory, as I say, in air quotes. And we've been keeping a really tight eye on this. So I think, again, I said it, we continue to see very consistent customer behavior, which is a customer that's under a little more pressure, but still resilient, attracted to deals and sales moments, shopping within their budget,\" she added.",
-          "translation": "她補充說：「事實上，很少有人真正『擔心』記憶體，我這麼說時是打引號的。我們一直密切關注這一點。所以我認為，我再說一次，我們持續看到非常一致的顧客行為，那就是顧客雖然承受著更大的壓力，但仍然具有韌性，會被促銷和特價活動吸引，並在預算內購物。」"
+          "sentence": "「And in fact, very few really are worried about 「memory」, as I say, in air quotes.",
+          "translation": "「事實上，很少有人真正『擔心』記憶體（我用引號表示）。"
+        },
+        {
+          "sentence": "And we've been keeping a really tight eye on this.",
+          "translation": "我們一直密切關注著這一點。"
+        },
+        {
+          "sentence": "So I think, again, I said it, we continue to see very consistent customer behavior, which is a customer that's under a little more pressure, but still resilient, attracted to deals and sales moments, shopping within their budget,」 she added.",
+          "translation": "所以我想，我再說一次，我們持續看到非常一致的顧客行為，那就是顧客雖然承受著一些壓力，但仍然具有韌性，會被優惠和促銷活動吸引，並在預算內購物，」她補充道。"
         },
         {
           "sentence": "A few months ago, I ordered a hot tub because it was being offered at a lower price than I had seen before.",
@@ -300,252 +228,222 @@
         },
         {
           "sentence": "We hadn't moved into the house where the spa is located, but spending the money now meant saving close to $1,000 rather than pushing the purchase down the road.",
-          "translation": "我們當時還沒搬進安裝這個水療浴缸的房子，但現在花錢意味著可以省下將近 1,000 美元，而不是將購買延後。"
+          "translation": "我們當時還沒有搬進那個設有水療浴缸的房子，但現在花錢意味著可以省下將近1,000美元，而不是把購買計畫延後。"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Dear Taiwan Semi Stock Fans, Mark Your Calendars for July 16",
+      "title": "Is Costco Wholesale Corporation (COST) a Durable Long-Term Compounder?",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-taiwan-semi-stock-fans-140002938.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-corporation-cost-durable-143432797.html",
       "level1_blind": {
-        "text": "Chip manufacturing giant Taiwan Semiconductor Manufacturing Company Limited (TSM), or TSMC, is set to report its second-quarter results on July 16 before the market opens. The company has become vital for major technology companies, as AI buildouts take center stage.\n\nAhead of the results, the company has reportedly asked its customers to prepare for price increases. According to a report by Culpium, this is expected to affect the majority of its wafer revenue (nearly three-quarters). The exact magnitude of the price increases is not known. However, this could fall within the 5%-10% range.\n\nEarlier, it was reported that only the 3nm process would face this. However, the hikes could extend beyond 3nm and 2nm to include older but still advanced processes such as 5nm and 7nm. The inclusion of 7nm is notable because it is heavily used across processors, accelerators, networking silicon, and other high-performance chips. The timing of the increases is also notable, as it shows the immense negotiating leverage it enjoys amid high demand for its chips among AI accelerator vendors.\n\nThis also culminates at a time when TSMC has become central in a tech competition between the U.S. and China.\n\nTaiwan Semiconductor is a leading chip foundry that makes semiconductors for customers across the technology industry. It focuses on advanced manufacturing, producing chips that power smartphones, data centers, and other electronics, while also investing heavily in process technology and global production capacity. The company is headquartered in Hsinchu, Taiwan and has a gigantic market capitalization of $2.25 trillion.\n\nOver the past year, TSMC's stock has gained 85.86%, while it is up 42.87% year-to-date (YTD). TSMC's stock has risen over the past year because investors have continued to price in strong demand for advanced chips, especially from AI and high-performance computing customers. The broader semiconductor cycle has also helped, as TSMC sits at the center of the AI supply chain and benefits when major chip designers need leading-edge production. The stock had reached a 52-week high of $479 on June 30.\n\nDespite the rise, TSMC's stock is trading at a relatively cheap valuation. On a forward-adjusted basis, its price-to-earnings ratio of 28.94 times is lower than the industry average of 33.21 times.\n\nSupported by a strong demand for our leading-edge process technologies, TSMC reported strong results in the first quarter. The company's revenue increased by 35.1% year-over-year (YOY) to NT$1.13 trillion ($35.60 billion). Its income from operations grew by 61.9% YOY to NT$658.97 billion ($20.68 billion). TSMC's EPS grew 58.3% from the year-ago period to NT$22.08."
+        "text": "RiverPark Advisors, an investment advisory firm and sponsor of the RiverPark family of mutual funds, released its \"RiverPark Large Growth Fund\" Q1 2026 investor letter. A copy of the letter can be downloaded here. The US stock market declined in the quarter with the S&P 500 index (\"S&P\") and the Russell 1000 Growth index (\"RLG\") falling 4.33% and 9.78%, respectively. Markets started the year positively but became volatile mainly due to increased tensions with Iran. The Federal Reserve kept rates unchanged in January and February. Still, rising energy prices and weaker economic data sparked concerns about stagflation, leading investors to rethink the timing and scale of future rate cuts. Investor sentiment shifted from growth and tech stocks amid inflation, interest rate, and supply chain concerns. Opposing AI-driven rotations heavily influenced investor sentiment, affecting growth stocks—enthusiasm grew for semiconductor firms linked to AI infrastructure spending, while enterprise software companies, viewed as vulnerable to AI disruption, faced pessimism. The Fund's software holdings were sold off heavily, while the underweight in semiconductor companies, which benefited most from AI infrastructure spending, affected the performance. Despite challenges, the firm remains confident in the long-term prospects and valuations of its portfolio companies. Please review the Fund's top five holdings to gain insights into their key selections for 2026.\n\nIn its first-quarter 2026 investor letter, RiverPark Large Growth Fund highlighted Costco Wholesale Corporation (NASDAQ:COST) as a leading contributor. Costco Wholesale Corporation (NASDAQ:COST) is a leading US based multinational retailer specializes in the operation of membership-only warehouses. On July 2, 2026, Costco Wholesale Corporation (NASDAQ:COST) closed at $951.67 per share, reflecting a market capitalization of $422.05 billion. Costco Wholesale Corporation (NASDAQ:COST) posted a one-month return of -2.08%, and its shares lost 3.58% over the past 52 weeks.\n\nRiverPark Large Growth Fund stated the following regarding Costco Wholesale Corporation (NASDAQ:COST) in its Q1 2026 investor letter:\n\n\"Costco Wholesale Corporation (NASDAQ:COST): COST was the third-largest contributor for the quarter, gaining 16% as the company benefited from two distinct tailwinds. In the first two months of the quarter, Costco's consistent, membership-driven business model provided a defensive haven as investors rotated away from high-multiple technology stocks amid capex cycle concerns. Then in March, as the Iran conflict drove consumers toward value-seeking behavior, Costco's warehouse model and unmatched value proposition attracted incremental traffic. Comparable store sales growth remained in the mid-to-high single digits year-over-year, membership renewal rates remained above 90%, and e-commerce penetration continued to accelerate. The company's ability to compound through a variety of macro environments reinforced its status as one of the highest quality retailers globally.\n\nWe continue to view Costco as one of the most resilient and defensible businesses in the consumer sector. Its membership flywheel, strong private-label offering, and disciplined pricing strategy support consistent traffic and recurring revenue across economic cycles. With steady international expansion, industry-leading capital returns, and a loyal membership base that is difficult to disintermediate, Costco remains a durable long-term compounder.\"\n\nCostco Wholesale Corporation (NASDAQ:COST) is not on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026. According to our database, 107 hedge fund portfolios held Costco Wholesale Corporation (NASDAQ:COST) at the end of the first quarter, up from 106 in the previous quarter. While we acknowledge the potential of Costco Wholesale Corporation (NASDAQ:COST) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nIn another article, we covered Costco Wholesale Corporation (NASDAQ:COST) and shared the list of best stocks to buy according to billionaire Richard Chilton. In addition, please check out our hedge fund investor letters Q1 2026 page for more investor letters from hedge funds and other leading investors.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years."
       },
       "level2_keywords": [
         {
-          "word": "semiconductor",
-          "ipa": "/ˌsɛmɪkənˈdʌktər/",
-          "meaning": "半導體（一種介於導體和絕緣體之間的材料，是現代電子產品的核心元件）。",
-          "example": "「The global demand for advanced semiconductors continues to surge, driven by AI and high-performance computing.」"
+          "word": "compounder",
+          "ipa": "/ˈkɒmpaʊndər/",
+          "meaning": "指那些能長期穩定地將獲利再投資，並產生複利成長的公司，是長期投資者青睞的標的。",
+          "example": "『Costco's consistent business model reinforces its status as a durable long-term compounder.』"
         },
         {
-          "word": "wafer revenue",
-          "ipa": "/ˈweɪfər ˈrɛvəˌnuː/",
-          "meaning": "晶圓營收（半導體製造商透過銷售加工後的晶圓所獲得的收入）。",
-          "example": "「TSMC's potential price hikes are expected to significantly impact its overall wafer revenue.」"
+          "word": "tailwinds",
+          "ipa": "/ˈteɪlwɪndz/",
+          "meaning": "指對企業或經濟體有利的外部因素或趨勢，能推動其成長或表現。",
+          "example": "『Costco benefited from two distinct tailwinds, including its membership-driven model and value proposition.』"
         },
         {
-          "word": "market capitalization",
-          "ipa": "/ˈmɑːrkɪt ˌkæpɪtəlaɪˈzeɪʃən/",
-          "meaning": "市值（一家上市公司所有流通股的總價值，反映公司規模與市場地位）。",
-          "example": "「With a gigantic market capitalization, TSMC remains a dominant player in the global tech industry.」"
+          "word": "defensive haven",
+          "ipa": "/dɪˈfɛnsɪv ˈheɪvən/",
+          "meaning": "在市場波動或經濟不確定時，投資者會轉向這類資產或公司，尋求相對穩定的避險標的。",
+          "example": "『Costco's membership-driven business model provided a defensive haven as investors rotated away from high-multiple tech stocks.』"
         },
         {
-          "word": "price-to-earnings ratio",
-          "ipa": "/praɪs tuː ˈɜːrnɪŋz ˈreɪʃioʊ/",
-          "meaning": "本益比（衡量股價相對於每股盈餘的倍數，常用來評估股票的貴賤）。",
-          "example": "「Despite its recent stock rally, TSMC's price-to-earnings ratio suggests it might still be undervalued compared to industry peers.」"
-        },
-        {
-          "word": "leading-edge production",
-          "ipa": "/ˈliːdɪŋ ɛdʒ prəˈdʌkʃən/",
-          "meaning": "先進製程生產（指半導體製造中採用最尖端、最先進的技術來生產晶片）。",
-          "example": "「TSMC's expertise in leading-edge production is crucial for major chip designers requiring the most advanced components.」"
+          "word": "e-commerce penetration",
+          "ipa": "/ˈiːˌkɒmɜːrs ˌpɛnɪˈtreɪʃən/",
+          "meaning": "電子商務在特定市場或產業中被採用的程度，通常以線上銷售佔總銷售的比例來衡量。",
+          "example": "『E-commerce penetration continued to accelerate, showing Costco's adaptability to digital trends.』"
         }
       ],
-      "level2_context": "各位同學，這篇新聞主要聚焦在全球晶圓代工龍頭台積電（TSMC）即將公布的第二季財報，以及市場高度關注的晶圓代工價格調漲議題。由於人工智慧（AI）應用需求爆炸性成長，台積電在先進製程領域的獨霸地位使其擁有極高的議價能力。報導指出，這次漲價可能不只涵蓋最先進的3奈米和2奈米製程，甚至會擴及到5奈米和7奈米等較成熟但仍廣泛應用的製程，這將對整個科技產業鏈產生深遠影響。此外，台積電在全球科技競賽中，尤其是在美中晶片戰的背景下，扮演著關鍵角色，其營運狀況和策略調整，都牽動著全球半導體產業的供應鏈穩定與發展。儘管股價近期表現強勁，但從本益比來看，市場仍認為台積電的估值相對合理，顯示投資人對其未來成長潛力抱持樂觀態度。",
+      "level2_context": "各位同學，這篇新聞來自一家投資顧問公司的季度投資者信函，主要探討了2026年第一季的市場表現與其投資組合。當時美國股市整體下跌，特別是成長股表現不佳，原因包括與伊朗的地緣政治緊張、聯準會利率按兵不動、能源價格上漲導致的停滯性通膨擔憂，以及投資人對AI產業的看法分歧（半導體受惠於AI基礎建設支出而上漲，但企業軟體公司則因AI顛覆性影響而面臨壓力）。在這種市場輪動下，投資人從高估值的科技成長股轉向更具防禦性的價值型股票。好市多（Costco）正是在此背景下被該基金視為一個亮點，因為其會員制商業模式、強大的價值主張以及在各種宏觀環境下仍能穩定成長的能力，使其成為市場波動中的『防禦性避風港』和『長期複利成長型公司』。這篇文章旨在說明，即使在充滿挑戰的市場環境中，某些具備核心競爭力的零售巨頭仍能展現其韌性與投資價值。",
       "level3_translation": [
         {
-          "sentence": "Chip manufacturing giant Taiwan Semiconductor Manufacturing Company Limited (TSM), or TSMC, is set to report its second-quarter results on July 16 before the market opens.",
-          "translation": "「晶片製造巨頭台灣積體電路製造股份有限公司（TSM），也就是台積電，預計將在7月16日市場開盤前公布其第二季財報。」"
+          "sentence": "RiverPark Advisors, an investment advisory firm and sponsor of the RiverPark family of mutual funds, released its \"RiverPark Large Growth Fund\" Q1 2026 investor letter.",
+          "translation": "RiverPark Advisors這家投資顧問公司，同時也是RiverPark系列共同基金的發起人，發布了其『RiverPark大型成長基金』2026年第一季的投資者信函。"
         },
         {
-          "sentence": "The company has become vital for major technology companies, as AI buildouts take center stage.",
-          "translation": "「隨著人工智慧（AI）基礎建設成為焦點，台積電已成為各大科技公司的關鍵供應商。」"
+          "sentence": "A copy of the letter can be downloaded here.",
+          "translation": "這份信函的副本可以在這裡下載。"
         },
         {
-          "sentence": "Ahead of the results, the company has reportedly asked its customers to prepare for price increases.",
-          "translation": "「在財報公布前，據報導台積電已要求客戶為晶圓價格上漲做好準備。」"
+          "sentence": "The US stock market declined in the quarter with the S&P 500 index (\"S&P\") and the Russell 1000 Growth index (\"RLG\") falling 4.33% and 9.78%, respectively.",
+          "translation": "本季度美國股市呈現下跌，其中標準普爾500指數（『S&P』）下跌4.33%，而羅素1000成長指數（『RLG』）則下跌了9.78%。"
         },
         {
-          "sentence": "According to a report by Culpium, this is expected to affect the majority of its wafer revenue (nearly three-quarters).",
-          "translation": "「根據Culpium的一份報告，這預計將影響台積電大部分的晶圓營收（將近四分之三）。」"
+          "sentence": "Markets started the year positively but became volatile mainly due to increased tensions with Iran.",
+          "translation": "市場年初表現積極，但主要因為與伊朗的緊張關係加劇而變得波動不安。"
         },
         {
-          "sentence": "The exact magnitude of the price increases is not known.",
-          "translation": "「目前尚不清楚確切的漲價幅度。」"
+          "sentence": "The Federal Reserve kept rates unchanged in January and February.",
+          "translation": "聯準會在一月和二月維持利率不變。"
         },
         {
-          "sentence": "However, this could fall within the 5%-10% range.",
-          "translation": "「不過，漲幅可能落在5%到10%之間。」"
+          "sentence": "Still, rising energy prices and weaker economic data sparked concerns about stagflation, leading investors to rethink the timing and scale of future rate cuts.",
+          "translation": "然而，能源價格上漲和疲軟的經濟數據引發了對停滯性通膨的擔憂，促使投資者重新評估未來降息的時機和幅度。"
         },
         {
-          "sentence": "Earlier, it was reported that only the 3nm process would face this.",
-          "translation": "「早前曾有報導指出，只有3奈米製程會面臨漲價。」"
+          "sentence": "Investor sentiment shifted from growth and tech stocks amid inflation, interest rate, and supply chain concerns.",
+          "translation": "在通膨、利率和供應鏈問題的影響下，投資者情緒從成長股和科技股轉移。"
         },
         {
-          "sentence": "However, the hikes could extend beyond 3nm and 2nm to include older but still advanced processes such as 5nm and 7nm.",
-          "translation": "「然而，這次漲價可能不只涵蓋3奈米和2奈米，還會擴及到較舊但仍屬先進的製程，例如5奈米和7奈米。」"
+          "sentence": "Opposing AI-driven rotations heavily influenced investor sentiment, affecting growth stocks—enthusiasm grew for semiconductor firms linked to AI infrastructure spending, while enterprise software companies, viewed as vulnerable to AI disruption, faced pessimism.",
+          "translation": "由AI驅動的市場輪動對投資者情緒產生了巨大影響，進而衝擊了成長股——與AI基礎建設支出相關的半導體公司獲得了熱情追捧，而那些被視為容易受到AI顛覆的企業軟體公司則面臨悲觀情緒。"
         },
         {
-          "sentence": "The inclusion of 7nm is notable because it is heavily used across processors, accelerators, networking silicon, and other high-performance chips.",
-          "translation": "「7奈米製程的納入值得關注，因為它廣泛應用於處理器、加速器、網路晶片及其他高效能晶片。」"
+          "sentence": "The Fund's software holdings were sold off heavily, while the underweight in semiconductor companies, which benefited most from AI infrastructure spending, affected the performance.",
+          "translation": "該基金的軟體持股遭到大量拋售，而對半導體公司（這些公司從AI基礎建設支出中獲益最多）的低配則影響了基金的整體表現。"
         },
         {
-          "sentence": "The timing of the increases is also notable, as it shows the immense negotiating leverage it enjoys amid high demand for its chips among AI accelerator vendors.",
-          "translation": "「這次漲價的時機點也值得注意，這顯示了在AI加速器供應商對其晶片需求旺盛的情況下，台積電所擁有的巨大議價能力。」"
+          "sentence": "Despite challenges, the firm remains confident in the long-term prospects and valuations of its portfolio companies.",
+          "translation": "儘管面臨挑戰，該公司對其投資組合中各公司的長期前景和估值仍抱持信心。"
         },
         {
-          "sentence": "This also culminates at a time when TSMC has become central in a tech competition between the U.S. and China.",
-          "translation": "「這也發生在台積電於美中科技競爭中扮演核心角色的時刻。」"
+          "sentence": "Please review the Fund's top five holdings to gain insights into their key selections for 2026.",
+          "translation": "請查閱該基金的前五大持股，以深入了解他們在2026年的主要選擇。"
         },
         {
-          "sentence": "Taiwan Semiconductor is a leading chip foundry that makes semiconductors for customers across the technology industry.",
-          "translation": "「台灣積體電路製造公司是一家領先的晶圓代工廠，為整個科技產業的客戶製造半導體。」"
+          "sentence": "In its first-quarter 2026 investor letter, RiverPark Large Growth Fund highlighted Costco Wholesale Corporation (NASDAQ:COST) as a leading contributor.",
+          "translation": "在其2026年第一季的投資者信函中，RiverPark大型成長基金特別點名好市多（Costco Wholesale Corporation, NASDAQ:COST）為主要的貢獻者。"
         },
         {
-          "sentence": "It focuses on advanced manufacturing, producing chips that power smartphones, data centers, and other electronics, while also investing heavily in process technology and global production capacity.",
-          "translation": "「台積電專注於先進製造，生產為智慧型手機、資料中心及其他電子產品提供動力的晶片，同時也大量投資於製程技術和全球生產產能。」"
+          "sentence": "Costco Wholesale Corporation (NASDAQ:COST) is a leading US based multinational retailer specializes in the operation of membership-only warehouses.",
+          "translation": "好市多（Costco Wholesale Corporation, NASDAQ:COST）是一家領先的美國跨國零售商，專門經營會員制的倉儲式賣場。"
         },
         {
-          "sentence": "The company is headquartered in Hsinchu, Taiwan and has a gigantic market capitalization of $2.25 trillion.",
-          "translation": "「該公司總部位於台灣新竹，擁有高達2.25兆美元的龐大市值。」"
+          "sentence": "On July 2, 2026, Costco Wholesale Corporation (NASDAQ:COST) closed at $951.67 per share, reflecting a market capitalization of $422.05 billion.",
+          "translation": "2026年7月2日，好市多（Costco Wholesale Corporation, NASDAQ:COST）收盤價為每股951.67美元，市值達到4220.5億美元。"
         },
         {
-          "sentence": "Over the past year, TSMC's stock has gained 85.86%, while it is up 42.87% year-to-date (YTD).",
-          "translation": "「在過去一年中，台積電的股價上漲了85.86%，而今年以來（YTD）則上漲了42.87%。」"
+          "sentence": "Costco Wholesale Corporation (NASDAQ:COST) posted a one-month return of -2.08%, and its shares lost 3.58% over the past 52 weeks.",
+          "translation": "好市多（Costco Wholesale Corporation, NASDAQ:COST）的月報酬率為負2.08%，其股價在過去52週內下跌了3.58%。"
         },
         {
-          "sentence": "TSMC's stock has risen over the past year because investors have continued to price in strong demand for advanced chips, especially from AI and high-performance computing customers.",
-          "translation": "「台積電股價在過去一年上漲，是因為投資人持續預期先進晶片需求強勁，特別是來自AI和高效能運算客戶的需求。」"
+          "sentence": "RiverPark Large Growth Fund stated the following regarding Costco Wholesale Corporation (NASDAQ:COST) in its Q1 2026 investor letter:",
+          "translation": "RiverPark大型成長基金在其2026年第一季投資者信函中，針對好市多（Costco Wholesale Corporation, NASDAQ:COST）發表了以下看法："
         },
         {
-          "sentence": "The broader semiconductor cycle has also helped, as TSMC sits at the center of the AI supply chain and benefits when major chip designers need leading-edge production.",
-          "translation": "「更廣泛的半導體景氣循環也提供了助益，因為台積電位居AI供應鏈的核心，並在主要晶片設計公司需要最先進製程生產時受益。」"
+          "sentence": "\"Costco Wholesale Corporation (NASDAQ:COST): COST was the third-largest contributor for the quarter, gaining 16% as the company benefited from two distinct tailwinds.",
+          "translation": "『好市多（Costco Wholesale Corporation, NASDAQ:COST）：好市多是本季度第三大貢獻者，股價上漲16%，主要受惠於兩股明顯的利好因素。』"
         },
         {
-          "sentence": "The stock had reached a 52-week high of $479 on June 30.",
-          "translation": "「該股在6月30日曾達到52週高點479美元。」"
+          "sentence": "In the first two months of the quarter, Costco's consistent, membership-driven business model provided a defensive haven as investors rotated away from high-multiple technology stocks amid capex cycle concerns.",
+          "translation": "『在本季度的前兩個月，好市多穩定且由會員驅動的商業模式，在投資者因資本支出週期擔憂而從高本益比科技股撤離時，提供了一個防禦性的避風港。』"
         },
         {
-          "sentence": "Despite the rise, TSMC's stock is trading at a relatively cheap valuation.",
-          "translation": "「儘管股價上漲，台積電的股票目前交易價格仍處於相對便宜的估值。」"
+          "sentence": "Then in March, as the Iran conflict drove consumers toward value-seeking behavior, Costco's warehouse model and unmatched value proposition attracted incremental traffic.",
+          "translation": "『接著在三月，隨著伊朗衝突促使消費者轉向追求性價比的消費行為，好市多的倉儲式賣場模式及其無與倫比的價值主張，吸引了更多客流量。』"
         },
         {
-          "sentence": "On a forward-adjusted basis, its price-to-earnings ratio of 28.94 times is lower than the industry average of 33.21 times.",
-          "translation": "「以預期調整後的基礎來看，其本益比為28.94倍，低於產業平均的33.21倍。」"
+          "sentence": "Comparable store sales growth remained in the mid-to-high single digits year-over-year, membership renewal rates remained above 90%, and e-commerce penetration continued to accelerate.",
+          "translation": "『同店銷售成長率維持在年增中高個位數，會員續約率保持在90%以上，且電商滲透率持續加速成長。』"
         },
         {
-          "sentence": "Supported by a strong demand for our leading-edge process technologies, TSMC reported strong results in the first quarter.",
-          "translation": "「在對其領先製程技術的強勁需求支持下，台積電在第一季繳出了亮眼的財報。」"
+          "sentence": "The company's ability to compound through a variety of macro environments reinforced its status as one of the highest quality retailers globally.",
+          "translation": "『該公司在各種宏觀經濟環境下仍能實現複利成長的能力，鞏固了其作為全球最高品質零售商之一的地位。』"
         },
         {
-          "sentence": "The company's revenue increased by 35.1% year-over-year (YOY) to NT$1.13 trillion ($35.60 billion).",
-          "translation": "「該公司營收年增35.1%，達到新台幣1.13兆元（約356億美元）。」"
+          "sentence": "We continue to view Costco as one of the most resilient and defensible businesses in the consumer sector.",
+          "translation": "我們持續將好市多視為消費產業中最具韌性且防禦性最強的企業之一。"
         },
         {
-          "sentence": "Its income from operations grew by 61.9% YOY to NT$658.97 billion ($20.68 billion).",
-          "translation": "「其營業利益年增61.9%，達到新台幣6589.7億元（約206.8億美元）。」"
+          "sentence": "Its membership flywheel, strong private-label offering, and disciplined pricing strategy support consistent traffic and recurring revenue across economic cycles.",
+          "translation": "其會員飛輪效應、強大的自有品牌產品，以及嚴謹的定價策略，在各種經濟週期中都能支撐穩定的客流量和經常性收入。"
         },
         {
-          "sentence": "TSMC's EPS grew 58.3% from the year-ago period to NT$22.08.",
-          "translation": "「台積電的每股盈餘（EPS）較去年同期成長58.3%，達到新台幣22.08元。」"
+          "sentence": "With steady international expansion, industry-leading capital returns, and a loyal membership base that is difficult to disintermediate, Costco remains a durable long-term compounder.",
+          "translation": "憑藉穩健的國際擴張、業界領先的資本回報，以及難以被取代的忠實會員基礎，好市多仍是一個具備長期複利成長能力的企業。"
+        },
+        {
+          "sentence": "Costco Wholesale Corporation (NASDAQ:COST) is not on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026.",
+          "translation": "好市多（Costco Wholesale Corporation, NASDAQ:COST）並未列入我們『2026年對沖基金最受歡迎的40檔股票』清單中。"
+        },
+        {
+          "sentence": "According to our database, 107 hedge fund portfolios held Costco Wholesale Corporation (NASDAQ:COST) at the end of the first quarter, up from 106 in the previous quarter.",
+          "translation": "根據我們的資料庫顯示，截至第一季末，共有107個對沖基金投資組合持有好市多（Costco Wholesale Corporation, NASDAQ:COST），較上一季的106個有所增加。"
+        },
+        {
+          "sentence": "While we acknowledge the potential of Costco Wholesale Corporation (NASDAQ:COST) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk.",
+          "translation": "儘管我們認可好市多（Costco Wholesale Corporation, NASDAQ:COST）作為一項投資的潛力，但我們認為某些AI股票能提供更大的上漲空間並承擔較低的下行風險。"
+        },
+        {
+          "sentence": "If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.",
+          "translation": "如果您正在尋找一支極度被低估，且有望從川普時代關稅和產業回流趨勢中顯著受益的AI股票，請參閱我們關於最佳短期AI股票的免費報告。"
+        },
+        {
+          "sentence": "In another article, we covered Costco Wholesale Corporation (NASDAQ:COST) and shared the list of best stocks to buy according to billionaire Richard Chilton.",
+          "translation": "在另一篇文章中，我們報導了好市多（Costco Wholesale Corporation, NASDAQ:COST），並分享了億萬富翁Richard Chilton推薦的最佳買入股票清單。"
+        },
+        {
+          "sentence": "In addition, please check out our hedge fund investor letters Q1 2026 page for more investor letters from hedge funds and other leading investors.",
+          "translation": "此外，請查看我們的『對沖基金投資者信函2026年第一季』頁面，以獲取更多來自對沖基金和其他領先投資者的信函。"
+        },
+        {
+          "sentence": "READ NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
+          "translation": "接下來閱讀：『3年內有望翻倍的33檔股票』以及『10年內讓你致富的15檔股票』。"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Got $2M saved for retirement? Get ready for everything to change, and not always for the better. Dodge 5 money traps now",
+      "title": "Honeywell Spinoff Solstice Inks $14.5 Billion Deal For 'Increased Exposure' To AI Boom",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/articles/got-2m-saved-retirement-ready-141000374.html",
+      "link": "https://www.investors.com/news/honeywell-spinoff-solstice-inks-14-5-billion-deal-element-solutions-ai-boom/?src=A00220&yptr=yahoo",
       "level1_blind": {
-        "text": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\n\nIf you have $2 million in retirement savings, congratulations. That's well above the $1.46 million that Americans believe is needed to retire comfortably, according to a 2025 Northwestern Mutual study (1).\n\nAt this point, you have probably overcome the challenge of saving enough. Now, your next mission is wealth preservation. Higher taxes and the wrong lifestyle choices can quickly erode what seems like a huge treasure trove.\n\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake — here's what it is and 3 simple steps to fix it ASAP\n\nJP Morgan sees gold hitting $6,000/oz before 2027 — and a Gold IRA lets you hold the physical metal while deferring the tax bill. Get your free guide from Priority Gold\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nShifting your perspective from building wealth to protecting it isn't easy. But the journey could be less treacherous if you avoid these five common money traps that high-net-worth individuals sometimes fall into.\n\nIf you follow the 4% rule, $2 million in retirement savings would give you $80,000 a year, adjusted for inflation. That could either be too much or too little, depending on where you live and how much you spend."
+        "text": "Honeywell Spinoff Solstice Inks $14.5 Billion Deal For 'Increased Exposure' To AI Boom"
       },
       "level2_keywords": [
         {
-          "word": "retirement savings",
-          "ipa": "/rɪˈtaɪərmənt ˈseɪvɪŋz/",
-          "meaning": "退休金儲蓄、退休存款",
-          "example": "『Retirement savings』是許多人規劃晚年生活的重要基石。"
+          "word": "Spinoff",
+          "ipa": "ˈspɪnˌɔf",
+          "meaning": "分拆公司、剝離公司。指母公司將其部分業務獨立出來，成立一家新的、獨立的公司。",
+          "example": "The conglomerate announced a spinoff of its semiconductor division to unlock shareholder value."
         },
         {
-          "word": "wealth preservation",
-          "ipa": "/wɛlθ ˌprɛzərˈveɪʃən/",
-          "meaning": "財富保值、資產保全",
-          "example": "在通膨壓力下，『wealth preservation』比創造財富更具挑戰性。"
+          "word": "Inks",
+          "ipa": "ɪŋks",
+          "meaning": "簽訂、簽署（合約或協議）。在商業新聞中常用來表示達成協議。",
+          "example": "The startup inks a multi-year partnership with a leading cloud provider."
         },
         {
-          "word": "erode",
-          "ipa": "/ɪˈroʊd/",
-          "meaning": "侵蝕、逐漸損耗",
-          "example": "高稅率和錯誤的投資決策可能會『erode』你的財富。"
+          "word": "Deal",
+          "ipa": "diːl",
+          "meaning": "交易、協議。指商業上達成的一項買賣、合作或併購等安排。",
+          "example": "The company is close to finalizing a major acquisition deal worth billions."
         },
         {
-          "word": "Social Security",
-          "ipa": "/ˈsoʊʃəl sɪˈkjʊrəti/",
-          "meaning": "社會安全金 (美國政府提供的退休、殘疾、遺屬福利)",
-          "example": "許多美國退休人士仰賴『Social Security』作為主要收入來源。"
+          "word": "Exposure",
+          "ipa": "ɪkˈspoʊʒər",
+          "meaning": "曝險、接觸、參與。在財經領域，通常指投資者或公司在某個市場、資產或產業中的參與程度，可能帶來風險或機會。",
+          "example": "Investors are seeking increased exposure to renewable energy stocks."
         },
         {
-          "word": "4% rule",
-          "ipa": "/fɔːr pər sɛnt ruːl/",
-          "meaning": "4%法則 (退休後每年可從儲蓄中提取的比例，以確保資金不耗盡)",
-          "example": "根據『4% rule』，200萬美元的退休金每年可提取8萬美元。"
+          "word": "AI Boom",
+          "ipa": "ˌeɪ aɪ buːm",
+          "meaning": "AI熱潮、人工智慧榮景。指人工智慧技術快速發展並在各產業廣泛應用，帶動相關產業蓬勃發展的時期。",
+          "example": "The AI boom is driving unprecedented demand for high-performance computing chips."
         }
       ],
-      "level2_context": "各位同學，這篇新聞主要在探討美國民眾在累積了相當可觀的退休金（例如200萬美元）之後，如何從『努力存錢』的階段，轉變到『財富保值』的挑戰。在美國，許多人會面臨高稅率、通膨侵蝕，以及錯誤的理財決策，這些都可能讓辛苦累積的退休金快速縮水。新聞中也提到了幾個常見的理財陷阱，並引用了知名財經專家如戴夫·拉姆齊（Dave Ramsey）對社會安全金的看法，以及摩根大通（JP Morgan）對黃金的預期，甚至還有貝佐斯支持的房產投資平台，這些都是美國財經界常見的退休規劃與資產配置策略。其中『4%法則』是一個很重要的概念，它提供了一個退休後每年提領退休金的參考比例，幫助人們在享受退休生活之餘，也能確保退休金的永續性。",
+      "level2_context": "各位同學，這則新聞談到霍尼韋爾（Honeywell）旗下的分拆公司 Solstice，簽下了一筆非常大的交易，金額高達 145 億美元。這裡的『分拆公司』（spinoff）指的是母公司將其部分業務獨立出來，成立一家新公司。通常這樣做的目的是為了讓新公司能更專注於特定業務，或是釋放其潛在價值。而這筆交易的重點在於『增加對 AI 榮景的參與度』（Increased Exposure to AI Boom）。這反映了當前科技產業的熱門趨勢，也就是人工智慧（AI）的快速發展。許多公司都希望透過投資、併購或策略合作，來搭上這波 AI 浪潮，以期在未來市場中佔據有利位置並實現成長。這筆交易的規模也顯示了市場對 AI 相關投資的巨大胃口。",
       "level3_translation": [
         {
-          "sentence": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.",
-          "translation": "各位同學，這句話的意思是，Moneywise 和 Yahoo Finance 這兩家公司，可能會透過文章中提供的連結，賺取一些『佣金』或『營收』，這在網路媒體界是很常見的商業模式。"
-        },
-        {
-          "sentence": "If you have $2 million in retirement savings, congratulations.",
-          "translation": "如果你已經存到200萬美元的『退休金』，那真的要恭喜你了。"
-        },
-        {
-          "sentence": "That's well above the $1.46 million that Americans believe is needed to retire comfortably, according to a 2025 Northwestern Mutual study (1).",
-          "translation": "根據2025年西北互助保險公司（Northwestern Mutual）的一項研究，這筆錢遠高於美國人認為可以『舒適退休』所需的146萬美元。"
-        },
-        {
-          "sentence": "At this point, you have probably overcome the challenge of saving enough.",
-          "translation": "到了這個階段，你很可能已經克服了『存夠錢』的挑戰。"
-        },
-        {
-          "sentence": "Now, your next mission is wealth preservation.",
-          "translation": "現在，你下一個重要的任務就是『財富保值』。"
-        },
-        {
-          "sentence": "Higher taxes and the wrong lifestyle choices can quickly erode what seems like a huge treasure trove.",
-          "translation": "各位同學，我們要注意這個動詞『erode』，它在這裡的意思是『侵蝕』。高額的稅金和錯誤的生活方式選擇，可能會迅速『侵蝕』掉你看似龐大的財富。"
-        },
-        {
-          "sentence": "Dave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake — here's what it is and 3 simple steps to fix it ASAP",
-          "translation": "知名的理財專家戴夫·拉姆齊（Dave Ramsey）警告說，將近一半的美國人正在犯一個關於『社會安全金』的重大錯誤，文章會告訴你這是什麼錯誤，以及三個可以立即修正的簡單步驟。"
-        },
-        {
-          "sentence": "JP Morgan sees gold hitting $6,000/oz before 2027 — and a Gold IRA lets you hold the physical metal while deferring the tax bill.",
-          "translation": "摩根大通（JP Morgan）預測黃金價格在2027年前可能達到每盎司6,000美元，而『黃金個人退休帳戶』（Gold IRA）則能讓你持有實體黃金，同時『延遲繳納稅款』。"
-        },
-        {
-          "sentence": "Get your free guide from Priority Gold",
-          "translation": "你可以從 Priority Gold 獲取免費的指南。"
-        },
-        {
-          "sentence": "Jeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one",
-          "translation": "傑夫·貝佐斯（Jeff Bezos）支持的一個平台，讓任何人都能以低至100美元的金額投資『出租房屋』，這篇文章會介紹六種像房東一樣累積財富，但卻不用實際成為房東的方法。"
-        },
-        {
-          "sentence": "Shifting your perspective from building wealth to protecting it isn't easy.",
-          "translation": "各位同學，從『累積財富』轉變到『保護財富』的思維，並不是一件容易的事。"
-        },
-        {
-          "sentence": "But the journey could be less treacherous if you avoid these five common money traps that high-net-worth individuals sometimes fall into.",
-          "translation": "但是，如果你能避開這些『高淨值人士』有時會陷入的五個常見『金錢陷阱』，那麼這段旅程可能會少一些艱險。"
-        },
-        {
-          "sentence": "If you follow the 4% rule, $2 million in retirement savings would give you $80,000 a year, adjusted for inflation.",
-          "translation": "如果你遵循『4%法則』，200萬美元的退休金，在『經通膨調整』後，每年可以為你帶來8萬美元的收入。"
-        },
-        {
-          "sentence": "That could either be too much or too little, depending on where you live and how much you spend.",
-          "translation": "這筆錢可能太多也可能太少，這取決於你居住在哪裡以及你的消費習慣。"
+          "sentence": "Honeywell Spinoff Solstice Inks $14.5 Billion Deal For 'Increased Exposure' To AI Boom",
+          "translation": "各位同學，這句話在財經界的意思是：霍尼韋爾（Honeywell）分拆出來的 Solstice 公司，簽下了一筆高達 145 億美元的交易，目的在於『提高對 AI 產業榮景的參與度』。"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "在金融市場中，當股價上漲時，投資者通常會持續購入，以盡量減少買入成本。然而，在這些股價上漲的情況下，記錄到的交易活動也顯示出了一些不尋常的行為，例如在台積電的股價上漲後，投資人會增加購買量，而不是減少。這可能是因為投資人對於台積電的長期潛力和未來發展前景的信心，使得他們更加積極地投入資金。在另一方面，當股價下跌時，投資人通常會出售部分或全部 holdings，以盡量減少損失。然而，在這些股價下跌的情況下，記錄到的交易活動也顯示出了一些不尋常的行為，例如在台積電的股價下跌後，投資人會增加出售量，而不是減少。在金融市場中，這種情況可能是由於投資人對於未來發展前景的信心，使得他們更加積極地投入資金。因此，通過分析這些不尋常的行為，可以得到關於投資人心理和行為的重要信息，並進一步了解股價變動背後的機制。"
+    "market_connection": "在全球資訊技術Industry中，AI和人工智能技術的進展對於最佳購買機會的發現和追蹤具有重要意義。根據最近的國際財經新聞報導，Best Buy和Apple因為全球記憶體短缺而面臨著價格上升，從而影響消費者購買行為。這種情況下，AI技術對於預測和分析消費者行為具有重要意義，可以幫助公司更好地了解消費者需求和偏好，从而做出更明智的購買決策。因此，對於最佳購買機會的發現和追蹤，AI技術的應用將成為未來的關鍵。"
   }
 }
