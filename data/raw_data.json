@@ -1,378 +1,378 @@
 {
-  "date": "2026-07-08",
-  "stock_market_date": "2026-07-07",
+  "date": "2026-07-09",
+  "stock_market_date": "2026-07-08",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 29635403
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 61858425
         },
         {
           "rank": 2,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 25976736
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 23076134
         },
         {
           "rank": 3,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_buy_shares": 17042015
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 21282527
         },
         {
           "rank": 4,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 14825671
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_buy_shares": 16100546
         },
         {
           "rank": 5,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_buy_shares": 14608328
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 14113964
         },
         {
           "rank": 6,
           "stock_name": "玉山金",
           "ticker": "2884",
-          "net_buy_shares": 14524102
+          "net_buy_shares": 13981610
         },
         {
           "rank": 7,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 12146074
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_buy_shares": 13774868
         },
         {
           "rank": 8,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 9979729
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 13507535
         },
         {
           "rank": 9,
-          "stock_name": "中石化",
-          "ticker": "1314",
-          "net_buy_shares": 9572027
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 13077659
         },
         {
           "rank": 10,
-          "stock_name": "晶技",
-          "ticker": "3042",
-          "net_buy_shares": 8458050
+          "stock_name": "三商壽",
+          "ticker": "2867",
+          "net_buy_shares": 12411910
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -113940857
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_sell_shares": -56086697
         },
         {
           "rank": 2,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -73957349
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -28290816
         },
         {
           "rank": 3,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -40069324
+          "stock_name": "至上",
+          "ticker": "8112",
+          "net_sell_shares": -16123517
         },
         {
           "rank": 4,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_sell_shares": -21422034
+          "stock_name": "台化",
+          "ticker": "1326",
+          "net_sell_shares": -15203549
         },
         {
           "rank": 5,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_sell_shares": -18837180
+          "stock_name": "佳世達",
+          "ticker": "2352",
+          "net_sell_shares": -13734930
         },
         {
           "rank": 6,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_sell_shares": -17933596
+          "stock_name": "中華電",
+          "ticker": "2412",
+          "net_sell_shares": -13492725
         },
         {
           "rank": 7,
-          "stock_name": "和桐",
-          "ticker": "1714",
-          "net_sell_shares": -17637475
+          "stock_name": "新纖",
+          "ticker": "1409",
+          "net_sell_shares": -13303180
         },
         {
           "rank": 8,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_sell_shares": -17292023
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_sell_shares": -12141519
         },
         {
           "rank": 9,
-          "stock_name": "長興",
-          "ticker": "1717",
-          "net_sell_shares": -14571758
+          "stock_name": "東元",
+          "ticker": "1504",
+          "net_sell_shares": -10554462
         },
         {
           "rank": 10,
           "stock_name": "京元電子",
           "ticker": "2449",
-          "net_sell_shares": -12117362
+          "net_sell_shares": -10504194
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 15016782
-        },
-        {
-          "rank": 2,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 7696185
-        },
-        {
-          "rank": 3,
-          "stock_name": "佳世達",
-          "ticker": "2352",
-          "net_buy_shares": 7133000
-        },
-        {
-          "rank": 4,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_buy_shares": 6324383
-        },
-        {
-          "rank": 5,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 6320192
-        },
-        {
-          "rank": 6,
-          "stock_name": "英業達",
-          "ticker": "2356",
-          "net_buy_shares": 4825958
-        },
-        {
-          "rank": 7,
-          "stock_name": "台灣大",
-          "ticker": "3045",
-          "net_buy_shares": 4305221
-        },
-        {
-          "rank": 8,
-          "stock_name": "神達",
-          "ticker": "3706",
-          "net_buy_shares": 4291000
-        },
-        {
-          "rank": 9,
-          "stock_name": "聯強",
-          "ticker": "2347",
-          "net_buy_shares": 4241051
-        },
-        {
-          "rank": 10,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_buy_shares": 4058447
-        }
-      ],
-      "trust_sell": [
-        {
-          "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -13841956
-        },
-        {
-          "rank": 2,
           "stock_name": "台新新光金",
           "ticker": "2887",
-          "net_sell_shares": -7035485
-        },
-        {
-          "rank": 3,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_sell_shares": -5752173
-        },
-        {
-          "rank": 4,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -5491500
-        },
-        {
-          "rank": 5,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -4723482
-        },
-        {
-          "rank": 6,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_sell_shares": -3370540
-        },
-        {
-          "rank": 7,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_sell_shares": -3276307
-        },
-        {
-          "rank": 8,
-          "stock_name": "群益證",
-          "ticker": "6005",
-          "net_sell_shares": -3138126
-        },
-        {
-          "rank": 9,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_sell_shares": -3099103
-        },
-        {
-          "rank": 10,
-          "stock_name": "富邦金",
-          "ticker": "2881",
-          "net_sell_shares": -2149178
-        }
-      ],
-      "dealer_buy": [
-        {
-          "rank": 1,
-          "stock_name": "三商壽",
-          "ticker": "2867",
-          "net_buy_shares": 2445000
+          "net_buy_shares": 10636728
         },
         {
           "rank": 2,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_buy_shares": 1279284
+          "net_buy_shares": 7420000
         },
         {
           "rank": 3,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 656000
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 7415937
         },
         {
           "rank": 4,
-          "stock_name": "中磊",
-          "ticker": "5388",
-          "net_buy_shares": 541098
+          "stock_name": "英業達",
+          "ticker": "2356",
+          "net_buy_shares": 5637196
         },
         {
           "rank": 5,
-          "stock_name": "上海商銀",
-          "ticker": "5876",
-          "net_buy_shares": 535000
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_buy_shares": 3568332
         },
         {
           "rank": 6,
-          "stock_name": "強茂",
-          "ticker": "2481",
-          "net_buy_shares": 406991
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 3498049
         },
         {
           "rank": 7,
-          "stock_name": "台灣大",
-          "ticker": "3045",
-          "net_buy_shares": 387000
+          "stock_name": "禾伸堂",
+          "ticker": "3026",
+          "net_buy_shares": 2813000
         },
         {
           "rank": 8,
-          "stock_name": "中石化",
-          "ticker": "1314",
-          "net_buy_shares": 306432
+          "stock_name": "元大高股息",
+          "ticker": "0056",
+          "net_buy_shares": 2700000
         },
         {
           "rank": 9,
-          "stock_name": "中纖",
-          "ticker": "1718",
-          "net_buy_shares": 300000
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_buy_shares": 2448000
+        },
+        {
+          "rank": 10,
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 2314000
+        }
+      ],
+      "trust_sell": [
+        {
+          "rank": 1,
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -15779090
+        },
+        {
+          "rank": 2,
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_sell_shares": -12170744
+        },
+        {
+          "rank": 3,
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -1537165
+        },
+        {
+          "rank": 4,
+          "stock_name": "富世達",
+          "ticker": "6805",
+          "net_sell_shares": -867500
+        },
+        {
+          "rank": 5,
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_sell_shares": -709800
+        },
+        {
+          "rank": 6,
+          "stock_name": "大聯大",
+          "ticker": "3702",
+          "net_sell_shares": -681600
+        },
+        {
+          "rank": 7,
+          "stock_name": "群益證",
+          "ticker": "6005",
+          "net_sell_shares": -618000
+        },
+        {
+          "rank": 8,
+          "stock_name": "定穎投控",
+          "ticker": "3715",
+          "net_sell_shares": -552100
+        },
+        {
+          "rank": 9,
+          "stock_name": "可寧衛*",
+          "ticker": "8422",
+          "net_sell_shares": -542000
+        },
+        {
+          "rank": 10,
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_sell_shares": -520824
+        }
+      ],
+      "dealer_buy": [
+        {
+          "rank": 1,
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 2875000
+        },
+        {
+          "rank": 2,
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 1548980
+        },
+        {
+          "rank": 3,
+          "stock_name": "友訊",
+          "ticker": "2332",
+          "net_buy_shares": 844000
+        },
+        {
+          "rank": 4,
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_buy_shares": 609000
+        },
+        {
+          "rank": 5,
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_buy_shares": 525002
+        },
+        {
+          "rank": 6,
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 523000
+        },
+        {
+          "rank": 7,
+          "stock_name": "至上",
+          "ticker": "8112",
+          "net_buy_shares": 503000
+        },
+        {
+          "rank": 8,
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 502162
+        },
+        {
+          "rank": 9,
+          "stock_name": "上海商銀",
+          "ticker": "5876",
+          "net_buy_shares": 377000
         },
         {
           "rank": 10,
           "stock_name": "遠東新",
           "ticker": "1402",
-          "net_buy_shares": 290000
+          "net_buy_shares": 326000
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -10066500
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_sell_shares": -8537000
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -8946990
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_sell_shares": -7378000
         },
         {
           "rank": 3,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -3968782
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -6645999
         },
         {
           "rank": 4,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -2011000
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_sell_shares": -4610327
         },
         {
           "rank": 5,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -1771000
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_sell_shares": -1274303
         },
         {
           "rank": 6,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -1602838
+          "stock_name": "台灣大",
+          "ticker": "3045",
+          "net_sell_shares": -564132
         },
         {
           "rank": 7,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -1437100
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_sell_shares": -498000
         },
         {
           "rank": 8,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_sell_shares": -1239991
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -385940
         },
         {
           "rank": 9,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_sell_shares": -1138293
+          "stock_name": "新唐",
+          "ticker": "4919",
+          "net_sell_shares": -304000
         },
         {
           "rank": 10,
-          "stock_name": "晶技",
-          "ticker": "3042",
-          "net_sell_shares": -1076000
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_sell_shares": -288000
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "台新新光金",
-        "shares": 10372391
+        "target": "長榮航",
+        "shares": 21650448
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "三商壽",
-        "shares": 978000
+        "target": "元大台灣50",
+        "shares": 1150000
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "兆豐金",
-        "shares": 6757551
+        "target": "台新新光金",
+        "shares": 4786527
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "群創",
-        "shares": 34182257
+        "target": "中石化",
+        "shares": 16826009
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Best Buy and Apple flag a price shock for shoppers",
+      "title": "Bank of America warns America now has 2 economies",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/economy/articles/best-buy-apple-flag-price-203300039.html",
-      "summary": "Best Buy and Apple flag a price shock for shoppers",
-      "full_text": "\"Unfortunately, price increases are unavoidable,\" he told The Wall Street Journal. \"We're doing everything we can to mitigate the huge increases being passed on to us.\"\n\nThe problem is a global shortage of memory chips. These components, known as DRAM (memory) and NAND (storage), are inside nearly every computing device sold today.\n\nIt's a situation that means higher prices, not just for Apple, but for consumers across the board. Normally, that would push consumers to stock up before prices increase, but that's not what's happening, according to Best Buy's outgoing CEO Corie Barry.\n\nTraditionally, when people know that price increases are coming, that leads to at least some consumers buying ahead to meet future needs.\n\n\"In our research around the consumer. We are not seeing any indicators that would say the customer is pulling forward purchases,\" she said during Best Buy's first-quarter earnings call.\n\nBarry noted that the upcoming price increases, something that will hit pretty much any product that uses memory, unless the manufacturer opts to eat higher costs, have not impacted customer purchases.\n\n\"And in fact, very few really are worried about memory, as I say, in air quotes. And we've been keeping a really tight eye on this. So I think, again, I said it, we continue to see very consistent customer behavior, which is a customer that's under a little more pressure, but still resilient, attracted to deals and sales moments, shopping within their budget,\" she added.\n\nA few months ago, I ordered a hot tub because it was being offered at a lower price than I had seen before. We hadn't moved into the house where the spa is located, but spending the money now meant saving close to $1,000 rather than pushing the purchase down the road.",
-      "published": "2026-07-06T20:33:00Z"
+      "link": "https://finance.yahoo.com/economy/articles/bank-america-warns-america-now-202300727.html",
+      "summary": "Bank of America warns America now has 2 economies",
+      "full_text": "Inflation was expected to keep easing, consumers were expected to bend under higher prices, and the next big Fed debate was supposed to be about when rate cuts could begin.\n\nThe bank sees an economy that still has enough momentum to avoid a classic downturn. According to its mid-year outlook shared with me, spending levels held up, the labor market hasn't cracked, and growth remains alive and well.\n\nNevertheless, that resilience is not spreading evenly, and that's the uncomfortable twist.\n\nThe U.S. economy might be strong in the places that matter for inflation but fragile in the places that matter most to households.\n\nThat beckons a harder question: What happens when the economy is too hot for relief, but too uneven to call healthy?\n\nPerhaps BofA's most striking economic call is that the U.S. is essentially running on a couple of different tracks.\n\nIn its midyear outlook, the bank described the economy as K-shaped, calling it \"reflation for higher income, stagflation for lower income.\"\n\nWealthier households continue to spend at a strong pace, led by stronger balance sheets, asset gains, better job security, and exposure to a market that's spearheaded by earnings strength and AI investment.",
+      "published": "2026-07-07T20:23:00Z"
     },
     {
       "id": "news_2",
-      "title": "Is Costco Wholesale Corporation (COST) a Durable Long-Term Compounder?",
+      "title": "Volatility Looks Dead. That Means This ETF Could Be Getting Ready to Soar.",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-corporation-cost-durable-143432797.html",
-      "summary": "Is Costco Wholesale Corporation (COST) a Durable Long-Term Compounder?",
-      "full_text": "RiverPark Advisors, an investment advisory firm and sponsor of the RiverPark family of mutual funds, released its \"RiverPark Large Growth Fund\" Q1 2026 investor letter. A copy of the letter can be downloaded here. The US stock market declined in the quarter with the S&P 500 index (\"S&P\") and the Russell 1000 Growth index (\"RLG\") falling 4.33% and 9.78%, respectively. Markets started the year positively but became volatile mainly due to increased tensions with Iran. The Federal Reserve kept rates unchanged in January and February. Still, rising energy prices and weaker economic data sparked concerns about stagflation, leading investors to rethink the timing and scale of future rate cuts. Investor sentiment shifted from growth and tech stocks amid inflation, interest rate, and supply chain concerns. Opposing AI-driven rotations heavily influenced investor sentiment, affecting growth stocks—enthusiasm grew for semiconductor firms linked to AI infrastructure spending, while enterprise software companies, viewed as vulnerable to AI disruption, faced pessimism. The Fund's software holdings were sold off heavily, while the underweight in semiconductor companies, which benefited most from AI infrastructure spending, affected the performance. Despite challenges, the firm remains confident in the long-term prospects and valuations of its portfolio companies. Please review the Fund's top five holdings to gain insights into their key selections for 2026.\n\nIn its first-quarter 2026 investor letter, RiverPark Large Growth Fund highlighted Costco Wholesale Corporation (NASDAQ:COST) as a leading contributor. Costco Wholesale Corporation (NASDAQ:COST) is a leading US based multinational retailer specializes in the operation of membership-only warehouses. On July 2, 2026, Costco Wholesale Corporation (NASDAQ:COST) closed at $951.67 per share, reflecting a market capitalization of $422.05 billion. Costco Wholesale Corporation (NASDAQ:COST) posted a one-month return of -2.08%, and its shares lost 3.58% over the past 52 weeks.\n\nRiverPark Large Growth Fund stated the following regarding Costco Wholesale Corporation (NASDAQ:COST) in its Q1 2026 investor letter:\n\n\"Costco Wholesale Corporation (NASDAQ:COST): COST was the third-largest contributor for the quarter, gaining 16% as the company benefited from two distinct tailwinds. In the first two months of the quarter, Costco's consistent, membership-driven business model provided a defensive haven as investors rotated away from high-multiple technology stocks amid capex cycle concerns. Then in March, as the Iran conflict drove consumers toward value-seeking behavior, Costco's warehouse model and unmatched value proposition attracted incremental traffic. Comparable store sales growth remained in the mid-to-high single digits year-over-year, membership renewal rates remained above 90%, and e-commerce penetration continued to accelerate. The company's ability to compound through a variety of macro environments reinforced its status as one of the highest quality retailers globally.\n\nWe continue to view Costco as one of the most resilient and defensible businesses in the consumer sector. Its membership flywheel, strong private-label offering, and disciplined pricing strategy support consistent traffic and recurring revenue across economic cycles. With steady international expansion, industry-leading capital returns, and a loyal membership base that is difficult to disintermediate, Costco remains a durable long-term compounder.\"\n\nCostco Wholesale Corporation (NASDAQ:COST) is not on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026. According to our database, 107 hedge fund portfolios held Costco Wholesale Corporation (NASDAQ:COST) at the end of the first quarter, up from 106 in the previous quarter. While we acknowledge the potential of Costco Wholesale Corporation (NASDAQ:COST) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nIn another article, we covered Costco Wholesale Corporation (NASDAQ:COST) and shared the list of best stocks to buy according to billionaire Richard Chilton. In addition, please check out our hedge fund investor letters Q1 2026 page for more investor letters from hedge funds and other leading investors.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
-      "published": "2026-07-06T14:34:32Z"
+      "link": "https://finance.yahoo.com/markets/options/articles/volatility-looks-dead-means-etf-150002930.html",
+      "summary": "Volatility Looks Dead. That Means This ETF Could Be Getting Ready to Soar.",
+      "full_text": "I frequently analyze ETFs whose returns are tied to the movement of volatility, specifically to the Cboe Volatility Index ($VIX). I have tracked and have owned several of them over the years.\n\nTo me, being \"long\" volatility is the key feature of these ETFs. It allows me an alternative to S&P 500 Index ($SPX) put options.\n\nBroadcom's Largest AI Customer Is Fleeing to MediaTek. AVGO Stock Is Still a Buy.\n\nMark Cuban Asks What If You Didn't Need Health Insurance — And Hospitals Just Treated You, Then Took 10% of Your Pay?\n\nNow, though, I'm interested in a different volatility story: the ProShares Short VIX Short-Term Futures ETF (SVXY).\n\nSVXY is a volatility-driven ETF. However, its goal is to profit from a decline in the $VIX. That is typically what happens when the S&P 500 is rising.\n\nFor simplicity, think of it this way. If ETFs like the ProShares VIX Short-Term Futures ETF (VIXY) and ProShares VIX Mid-Term Futures ETF (VIXM) are the ETF world's alternative to owning put options, SVXY is more like using ETFs as S&P 500 call options. As I see it, these types of funds will always be small holdings. They are just too volatile to be larger positions in your portfolio.\n\nThat said, if I allocate 1%, 2% or 3% of a portfolio to SVXY, that's all I can lose. But the upside can be pretty big.",
+      "published": "2026-07-07T15:00:02Z"
     },
     {
       "id": "news_3",
-      "title": "Honeywell Spinoff Solstice Inks $14.5 Billion Deal For 'Increased Exposure' To AI Boom",
+      "title": "Consumers dread rising healthcare, rent costs: New York Fed",
       "source": "Yahoo Finance",
-      "link": "https://www.investors.com/news/honeywell-spinoff-solstice-inks-14-5-billion-deal-element-solutions-ai-boom/?src=A00220&yptr=yahoo",
-      "summary": "Honeywell Spinoff Solstice Inks $14.5 Billion Deal For 'Increased Exposure' To AI Boom",
-      "full_text": "Honeywell Spinoff Solstice Inks $14.5 Billion Deal For 'Increased Exposure' To AI Boom",
-      "published": "2026-07-06T14:33:51Z"
+      "link": "https://finance.yahoo.com/economy/article/consumers-dread-rising-healthcare-rent-costs-new-york-fed-150000217.html",
+      "summary": "Consumers dread rising healthcare, rent costs: New York Fed",
+      "full_text": "Median inflation expectations for the year ahead rose in June to 3.7%,  according to the New York Fed's June survey of consumer expectations. That's the highest since September 2023, when the economy was recovering from a brutal surge in prices the previous year.\n\nExpectations for inflation over the next three years also climbed to 3.3%, the most since June 2022, when inflation peaked at a 40-year high of 9.1%.\n\nAs for where they see those price increases hitting, consumers anticipate big swings coming for healthcare and rent, with medical costs surging 9.4% and rent growing 8.3% in the next year. They were most sanguine about gas costs: Consumers' price change expectations for fuel dipped to the lowest level since August 2022. Respondents also felt smaller price hikes were ahead for food and college education.\n\nWhile the average rental price in the US is currently tracking below last year's levels when looking across all property types, reaching $2,014 as of July 5, according to Zillow, some markets are seeing strain. Average rents are up compared to a year ago in Chicago, for example.\n\nThe price hike story is clearer in healthcare. After pandemic-era enhanced premium tax credits expired at the end of last year, premiums and deductibles were expected to surge, contributing to millions of people dropping coverage.\n\nAmid this price squeeze, workers' pay is currently not keeping pace with inflation. But consumers in the New York Fed's survey did anticipate pay raises in the year ahead: Their median earnings growth expectations rose to 2.8% in June, the highest since March 2025. Unemployment expectations also decreased.\n\nEmma Ockerman is a reporter covering the economy and labor for Yahoo Finance. You can reach her at emma.ockerman@yahooinc.com.\n\nClick here for the latest personal finance news to help you with investing, paying off debt, buying a home, retirement, and more",
+      "published": "2026-07-07T15:00:00Z"
     }
   ]
 }
