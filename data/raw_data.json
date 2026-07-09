@@ -1,68 +1,68 @@
 {
-  "date": "2026-07-09",
-  "stock_market_date": "2026-07-08",
+  "date": "2026-07-10",
+  "stock_market_date": "2026-07-09",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 61858425
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 188929276
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 23076134
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 33990125
         },
         {
           "rank": 3,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 21282527
+          "stock_name": "台灣大",
+          "ticker": "3045",
+          "net_buy_shares": 24916183
         },
         {
           "rank": 4,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_buy_shares": 16100546
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 15430000
         },
         {
           "rank": 5,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_buy_shares": 14113964
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_buy_shares": 14906395
         },
         {
           "rank": 6,
           "stock_name": "玉山金",
           "ticker": "2884",
-          "net_buy_shares": 13981610
+          "net_buy_shares": 11749381
         },
         {
           "rank": 7,
-          "stock_name": "合庫金",
-          "ticker": "5880",
-          "net_buy_shares": 13774868
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_buy_shares": 10471636
         },
         {
           "rank": 8,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 13507535
+          "stock_name": "南茂",
+          "ticker": "8150",
+          "net_buy_shares": 9364709
         },
         {
           "rank": 9,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 13077659
+          "stock_name": "盛群",
+          "ticker": "6202",
+          "net_buy_shares": 8459980
         },
         {
           "rank": 10,
-          "stock_name": "三商壽",
-          "ticker": "2867",
-          "net_buy_shares": 12411910
+          "stock_name": "晶豪科",
+          "ticker": "3006",
+          "net_buy_shares": 8259183
         }
       ],
       "foreign_sell": [
@@ -70,61 +70,61 @@
           "rank": 1,
           "stock_name": "中石化",
           "ticker": "1314",
-          "net_sell_shares": -56086697
+          "net_sell_shares": -43162459
         },
         {
           "rank": 2,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -28290816
+          "stock_name": "台泥",
+          "ticker": "1101",
+          "net_sell_shares": -29874693
         },
         {
           "rank": 3,
-          "stock_name": "至上",
-          "ticker": "8112",
-          "net_sell_shares": -16123517
+          "stock_name": "台化",
+          "ticker": "1326",
+          "net_sell_shares": -23859329
         },
         {
           "rank": 4,
-          "stock_name": "台化",
-          "ticker": "1326",
-          "net_sell_shares": -15203549
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_sell_shares": -17426486
         },
         {
           "rank": 5,
-          "stock_name": "佳世達",
-          "ticker": "2352",
-          "net_sell_shares": -13734930
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_sell_shares": -15563411
         },
         {
           "rank": 6,
-          "stock_name": "中華電",
-          "ticker": "2412",
-          "net_sell_shares": -13492725
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -15378910
         },
         {
           "rank": 7,
-          "stock_name": "新纖",
-          "ticker": "1409",
-          "net_sell_shares": -13303180
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -14793479
         },
         {
           "rank": 8,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_sell_shares": -12141519
+          "stock_name": "新纖",
+          "ticker": "1409",
+          "net_sell_shares": -14440688
         },
         {
           "rank": 9,
-          "stock_name": "東元",
-          "ticker": "1504",
-          "net_sell_shares": -10554462
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_sell_shares": -13386613
         },
         {
           "rank": 10,
-          "stock_name": "京元電子",
-          "ticker": "2449",
-          "net_sell_shares": -10504194
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -12748541
         }
       ],
       "trust_buy": [
@@ -132,247 +132,247 @@
           "rank": 1,
           "stock_name": "台新新光金",
           "ticker": "2887",
-          "net_buy_shares": 10636728
+          "net_buy_shares": 13124355
         },
         {
           "rank": 2,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 7420000
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 8116730
         },
         {
           "rank": 3,
           "stock_name": "中信金",
           "ticker": "2891",
-          "net_buy_shares": 7415937
+          "net_buy_shares": 5761844
         },
         {
           "rank": 4,
-          "stock_name": "英業達",
-          "ticker": "2356",
-          "net_buy_shares": 5637196
-        },
-        {
-          "rank": 5,
           "stock_name": "遠東新",
           "ticker": "1402",
-          "net_buy_shares": 3568332
-        },
-        {
-          "rank": 6,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 3498049
-        },
-        {
-          "rank": 7,
-          "stock_name": "禾伸堂",
-          "ticker": "3026",
-          "net_buy_shares": 2813000
-        },
-        {
-          "rank": 8,
-          "stock_name": "元大高股息",
-          "ticker": "0056",
-          "net_buy_shares": 2700000
-        },
-        {
-          "rank": 9,
-          "stock_name": "華新科",
-          "ticker": "2492",
-          "net_buy_shares": 2448000
-        },
-        {
-          "rank": 10,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 2314000
-        }
-      ],
-      "trust_sell": [
-        {
-          "rank": 1,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -15779090
-        },
-        {
-          "rank": 2,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_sell_shares": -12170744
-        },
-        {
-          "rank": 3,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -1537165
-        },
-        {
-          "rank": 4,
-          "stock_name": "富世達",
-          "ticker": "6805",
-          "net_sell_shares": -867500
+          "net_buy_shares": 4816398
         },
         {
           "rank": 5,
-          "stock_name": "強茂",
-          "ticker": "2481",
-          "net_sell_shares": -709800
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_buy_shares": 4323810
         },
         {
           "rank": 6,
-          "stock_name": "大聯大",
-          "ticker": "3702",
-          "net_sell_shares": -681600
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 3250000
         },
         {
           "rank": 7,
-          "stock_name": "群益證",
-          "ticker": "6005",
-          "net_sell_shares": -618000
-        },
-        {
-          "rank": 8,
-          "stock_name": "定穎投控",
-          "ticker": "3715",
-          "net_sell_shares": -552100
-        },
-        {
-          "rank": 9,
-          "stock_name": "可寧衛*",
-          "ticker": "8422",
-          "net_sell_shares": -542000
-        },
-        {
-          "rank": 10,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_sell_shares": -520824
-        }
-      ],
-      "dealer_buy": [
-        {
-          "rank": 1,
           "stock_name": "元大台灣50",
           "ticker": "0050",
           "net_buy_shares": 2875000
         },
         {
+          "rank": 8,
+          "stock_name": "南電",
+          "ticker": "8046",
+          "net_buy_shares": 2798000
+        },
+        {
+          "rank": 9,
+          "stock_name": "欣興",
+          "ticker": "3037",
+          "net_buy_shares": 2705259
+        },
+        {
+          "rank": 10,
+          "stock_name": "英業達",
+          "ticker": "2356",
+          "net_buy_shares": 2054120
+        }
+      ],
+      "trust_sell": [
+        {
+          "rank": 1,
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_sell_shares": -2882522
+        },
+        {
           "rank": 2,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 1548980
+          "stock_name": "金像電",
+          "ticker": "2368",
+          "net_sell_shares": -2377721
         },
         {
           "rank": 3,
-          "stock_name": "友訊",
-          "ticker": "2332",
-          "net_buy_shares": 844000
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_sell_shares": -1902792
         },
         {
           "rank": 4,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_buy_shares": 609000
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_sell_shares": -1073841
         },
         {
           "rank": 5,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_buy_shares": 525002
+          "stock_name": "群益證",
+          "ticker": "6005",
+          "net_sell_shares": -692118
         },
         {
           "rank": 6,
           "stock_name": "力積電",
           "ticker": "6770",
-          "net_buy_shares": 523000
+          "net_sell_shares": -621000
         },
         {
           "rank": 7,
-          "stock_name": "至上",
-          "ticker": "8112",
-          "net_buy_shares": 503000
+          "stock_name": "漢唐",
+          "ticker": "2404",
+          "net_sell_shares": -564000
         },
         {
           "rank": 8,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 502162
+          "stock_name": "可寧衛*",
+          "ticker": "8422",
+          "net_sell_shares": -554000
         },
         {
           "rank": 9,
-          "stock_name": "上海商銀",
-          "ticker": "5876",
-          "net_buy_shares": 377000
+          "stock_name": "富世達",
+          "ticker": "6805",
+          "net_sell_shares": -553000
         },
         {
           "rank": 10,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_buy_shares": 326000
+          "stock_name": "帆宣",
+          "ticker": "6196",
+          "net_sell_shares": -553000
+        }
+      ],
+      "dealer_buy": [
+        {
+          "rank": 1,
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 4646000
+        },
+        {
+          "rank": 2,
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 1620701
+        },
+        {
+          "rank": 3,
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 1393007
+        },
+        {
+          "rank": 4,
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 1060901
+        },
+        {
+          "rank": 5,
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 907241
+        },
+        {
+          "rank": 6,
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_buy_shares": 609286
+        },
+        {
+          "rank": 7,
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 528559
+        },
+        {
+          "rank": 8,
+          "stock_name": "上海商銀",
+          "ticker": "5876",
+          "net_buy_shares": 389000
+        },
+        {
+          "rank": 9,
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_buy_shares": 380473
+        },
+        {
+          "rank": 10,
+          "stock_name": "英業達",
+          "ticker": "2356",
+          "net_buy_shares": 326003
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_sell_shares": -8537000
+          "stock_name": "中華電",
+          "ticker": "2412",
+          "net_sell_shares": -10879128
         },
         {
           "rank": 2,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_sell_shares": -7378000
+          "stock_name": "台灣大",
+          "ticker": "3045",
+          "net_sell_shares": -3594948
         },
         {
           "rank": 3,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -6645999
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_sell_shares": -1741388
         },
         {
           "rank": 4,
           "stock_name": "遠傳",
           "ticker": "4904",
-          "net_sell_shares": -4610327
+          "net_sell_shares": -1355575
         },
         {
           "rank": 5,
-          "stock_name": "中石化",
-          "ticker": "1314",
-          "net_sell_shares": -1274303
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -1133130
         },
         {
           "rank": 6,
-          "stock_name": "台灣大",
-          "ticker": "3045",
-          "net_sell_shares": -564132
+          "stock_name": "健鼎",
+          "ticker": "3044",
+          "net_sell_shares": -683424
         },
         {
           "rank": 7,
-          "stock_name": "富邦金",
-          "ticker": "2881",
-          "net_sell_shares": -498000
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -671000
         },
         {
           "rank": 8,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -385940
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_sell_shares": -668000
         },
         {
           "rank": 9,
-          "stock_name": "新唐",
-          "ticker": "4919",
-          "net_sell_shares": -304000
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_sell_shares": -509379
         },
         {
           "rank": 10,
-          "stock_name": "華新科",
-          "ticker": "2492",
-          "net_sell_shares": -288000
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_sell_shares": -459485
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "長榮航",
-        "shares": 21650448
+        "target": "友達",
+        "shares": 66125246
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "元大台灣50",
-        "shares": 1150000
+        "target": "友達",
+        "shares": 1858400
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
         "target": "台新新光金",
-        "shares": 4786527
+        "shares": 5905959
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
         "target": "中石化",
-        "shares": 16826009
+        "shares": 12948737
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Bank of America warns America now has 2 economies",
+      "title": "AT&T leaves rivals flat-footed as bankrupt carrier folds",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/economy/articles/bank-america-warns-america-now-202300727.html",
-      "summary": "Bank of America warns America now has 2 economies",
-      "full_text": "Inflation was expected to keep easing, consumers were expected to bend under higher prices, and the next big Fed debate was supposed to be about when rate cuts could begin.\n\nThe bank sees an economy that still has enough momentum to avoid a classic downturn. According to its mid-year outlook shared with me, spending levels held up, the labor market hasn't cracked, and growth remains alive and well.\n\nNevertheless, that resilience is not spreading evenly, and that's the uncomfortable twist.\n\nThe U.S. economy might be strong in the places that matter for inflation but fragile in the places that matter most to households.\n\nThat beckons a harder question: What happens when the economy is too hot for relief, but too uneven to call healthy?\n\nPerhaps BofA's most striking economic call is that the U.S. is essentially running on a couple of different tracks.\n\nIn its midyear outlook, the bank described the economy as K-shaped, calling it \"reflation for higher income, stagflation for lower income.\"\n\nWealthier households continue to spend at a strong pace, led by stronger balance sheets, asset gains, better job security, and exposure to a market that's spearheaded by earnings strength and AI investment.",
-      "published": "2026-07-07T20:23:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/t-leaves-rivals-flat-footed-183300288.html",
+      "summary": "AT&T leaves rivals flat-footed as bankrupt carrier folds",
+      "full_text": "Dish DBS, the satellite TV and wireless subsidiary of EchoStar, filed for prepackaged Chapter 11 bankruptcy on June 30 in federal court in Houston.\n\nThe filing ends months of speculation about the future of the industry's would-be fourth wireless carrier.\n\nMore than 88% of Dish's bondholders backed the filing, which was triggered when the company could not repay $2 billion in senior secured notes carrying a 7.75% interest rate, due July 1.\n\nEchoStar took on roughly $25 billion in debt after merging with Dish in 2024. It had been counting on a cash infusion from AT&T (T) to bridge the gap between its debt payments and its available cash.\n\nBack in August 2025, AT&T agreed to buy about 50 megahertz of nationwide spectrum from EchoStar for $23 billion.\n\nThat includes around 30 MHz of 3.45 GHz mid-band airwaves and 20 MHz of 600 MHz low-band spectrum, spread across more than 400 markets.\n\nThe deal was expected to close by mid 2026, but regulatory delays pushed the timeline back, which left EchoStar short of the cash it needed to make its July 1 payment.\n\nIn plain terms, AT&T's own pending spectrum purchase is the deal whose delay helped push Dish DBS into bankruptcy court.",
+      "published": "2026-07-08T18:33:00Z"
     },
     {
       "id": "news_2",
-      "title": "Volatility Looks Dead. That Means This ETF Could Be Getting Ready to Soar.",
+      "title": "Here's What to Expect From Entergy’s Next Earnings Report",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/options/articles/volatility-looks-dead-means-etf-150002930.html",
-      "summary": "Volatility Looks Dead. That Means This ETF Could Be Getting Ready to Soar.",
-      "full_text": "I frequently analyze ETFs whose returns are tied to the movement of volatility, specifically to the Cboe Volatility Index ($VIX). I have tracked and have owned several of them over the years.\n\nTo me, being \"long\" volatility is the key feature of these ETFs. It allows me an alternative to S&P 500 Index ($SPX) put options.\n\nBroadcom's Largest AI Customer Is Fleeing to MediaTek. AVGO Stock Is Still a Buy.\n\nMark Cuban Asks What If You Didn't Need Health Insurance — And Hospitals Just Treated You, Then Took 10% of Your Pay?\n\nNow, though, I'm interested in a different volatility story: the ProShares Short VIX Short-Term Futures ETF (SVXY).\n\nSVXY is a volatility-driven ETF. However, its goal is to profit from a decline in the $VIX. That is typically what happens when the S&P 500 is rising.\n\nFor simplicity, think of it this way. If ETFs like the ProShares VIX Short-Term Futures ETF (VIXY) and ProShares VIX Mid-Term Futures ETF (VIXM) are the ETF world's alternative to owning put options, SVXY is more like using ETFs as S&P 500 call options. As I see it, these types of funds will always be small holdings. They are just too volatile to be larger positions in your portfolio.\n\nThat said, if I allocate 1%, 2% or 3% of a portfolio to SVXY, that's all I can lose. But the upside can be pretty big.",
-      "published": "2026-07-07T15:00:02Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-entergy-next-earnings-152045946.html",
+      "summary": "Here's What to Expect From Entergy’s Next Earnings Report",
+      "full_text": "Louisiana-based Entergy Corporation (ETR) is an integrated electric utility that generates, transmits, and distributes electricity to more than 3 million customers across Arkansas, Louisiana, Mississippi, and Texas. The company focuses on delivering reliable and affordable power while continuing to modernize its energy infrastructure to meet evolving customer demand. To support long-term growth, Entergy is investing in a more resilient and lower-emission power system, expanding its portfolio of natural gas, nuclear, and renewable energy assets.\n\nBeyond its core utility operations, the company contributes more than $100 million annually in economic benefits to the communities it serves through philanthropic initiatives, employee volunteer programs, and community advocacy efforts. Currently valued at a market capitalization of about $53.74 billion, the utility company plans to lift the curtain on its fiscal 2026 second-quarter earnings report on Wednesday, July 29.\n\nAbbVie vs Eli Lilly: 1 Is Clearly the Better Dividend Stock to Buy and Hold for the Next 10 Years\n\nThe Nasdaq-100 Could Be Forming a Textbook Diamond Top. Here's What to Watch on the QQQ Chart Now.\n\nHeading into its upcoming earnings report, Wall Street expects Entergy to deliver another quarter of steady growth, with earnings projected to rise 2.9% year over year to $1.08 per share. The company has built a fairly consistent earnings track record, either meeting or exceeding analysts' expectations in three of the past four quarters, with just one earnings miss during that period.\n\nLooking beyond the upcoming results, analysts remain optimistic about the company's earnings trajectory. Consensus estimates call for Entergy to generate $4.40 per share in fiscal 2026, representing 12.5% annual growth, followed by another 14.6% increase to $5.04 per share in fiscal 2027, reflecting expectations for continued earnings momentum.\n\nEntergy has rewarded shareholders with a strong run over the past year. The stock has rallied 42.3% over the last 12 months, more than doubling the 20% gain delivered by the broader S&P 500 Index ($SPX) during the same period. It has also significantly outperformed the State Street Utilities Select Sector SPDR Fund (XLU), which returned a more modest 12.5%, underscoring Entergy's strength relative to both the broader market and its utility sector peers.\n\nLooking back at the company's latest earnings performance, Entergy reported mixed first-quarter fiscal 2026 results on April 29. The utility giant easily cleared the top-line hurdle, reporting revenue of $3.19 billion, comfortably ahead of Wall Street's $3 billion estimate. However, the bottom line proved less impressive. Adjusted earnings rose to $0.86 per share from $0.82 in the year-ago quarter, reflecting year-over-year growth, but still fell short of analysts' expectations of $0.89 per share.",
+      "published": "2026-07-08T15:20:45Z"
     },
     {
       "id": "news_3",
-      "title": "Consumers dread rising healthcare, rent costs: New York Fed",
+      "title": "Lucid Motors’ Woes Run Much Deeper. Saudi Money Alone Won’t Solve Them.",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/economy/article/consumers-dread-rising-healthcare-rent-costs-new-york-fed-150000217.html",
-      "summary": "Consumers dread rising healthcare, rent costs: New York Fed",
-      "full_text": "Median inflation expectations for the year ahead rose in June to 3.7%,  according to the New York Fed's June survey of consumer expectations. That's the highest since September 2023, when the economy was recovering from a brutal surge in prices the previous year.\n\nExpectations for inflation over the next three years also climbed to 3.3%, the most since June 2022, when inflation peaked at a 40-year high of 9.1%.\n\nAs for where they see those price increases hitting, consumers anticipate big swings coming for healthcare and rent, with medical costs surging 9.4% and rent growing 8.3% in the next year. They were most sanguine about gas costs: Consumers' price change expectations for fuel dipped to the lowest level since August 2022. Respondents also felt smaller price hikes were ahead for food and college education.\n\nWhile the average rental price in the US is currently tracking below last year's levels when looking across all property types, reaching $2,014 as of July 5, according to Zillow, some markets are seeing strain. Average rents are up compared to a year ago in Chicago, for example.\n\nThe price hike story is clearer in healthcare. After pandemic-era enhanced premium tax credits expired at the end of last year, premiums and deductibles were expected to surge, contributing to millions of people dropping coverage.\n\nAmid this price squeeze, workers' pay is currently not keeping pace with inflation. But consumers in the New York Fed's survey did anticipate pay raises in the year ahead: Their median earnings growth expectations rose to 2.8% in June, the highest since March 2025. Unemployment expectations also decreased.\n\nEmma Ockerman is a reporter covering the economy and labor for Yahoo Finance. You can reach her at emma.ockerman@yahooinc.com.\n\nClick here for the latest personal finance news to help you with investing, paying off debt, buying a home, retirement, and more",
-      "published": "2026-07-07T15:00:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-motors-woes-run-much-152131993.html",
+      "summary": "Lucid Motors’ Woes Run Much Deeper. Saudi Money Alone Won’t Solve Them.",
+      "full_text": "The electric vehicle (EV) industry has been going through turmoil, and barring market leader Tesla (TSLA), no other player has been able to make money in the U.S. market. Legacy automakers, which announced ambitious vehicle electrification plans, have lately been licking their wounds and booking massive losses.\n\nThe quantum of losses the Detroit Big 3 have announced is gigantic. Ford (F) announced a $19.5 billion write-down in its EV business in December 2025. General Motors (GM), which had once declared that it wouldn't sell gasoline cars after 2035, has written down $7.6 billion. Stellantis (STLA), meanwhile, leads the pack with a charge of $26.5 billion.\n\nAbbVie vs Eli Lilly: 1 Is Clearly the Better Dividend Stock to Buy and Hold for the Next 10 Years\n\nThe Nasdaq-100 Could Be Forming a Textbook Diamond Top. Here's What to Watch on the QQQ Chart Now.\n\nStartup EV players also continue to struggle, to say the least, and are saddled with continued losses and cash burn. Legacy automakers have the luxury of profitable internal combustion engine (ICE) operations, which offset the EV losses and leave them with billions of dollars in free cash to splurge on dividends and buybacks.\n\nStartup EV players have had to resort to frequent capital raises to make up for the perennial cash burn. Earlier this week, Rivian (RIVN) announced a $1.5 billion capital raise. The stock expectedly fell after the announcement. Lucid Group (LCID) has raised capital even more frequently. It is backed by Saudi Arabia's Public Investment Fund (PIF), which first invested $1 billion into the company in 2018.\n\nIncidentally, that was the year when Tesla CEO Elon Musk made his infamous remark about \"taking Tesla private.\" Musk, who became the world's first trillionaire following SpaceX's (SPCX) listing, claimed that the PIF approached him to take the company private and that he was banking on them while asserting \"funding secured\" for the transaction.\n\nMeanwhile, the PIF also participated in the private investment in public equity (PIPE) transaction during Lucid's 2021 merger, buying the shares at $15 apiece. It was an aberration from the general convention then as PIPE transactions happened at $10 a share, which was the IPO price of the special purpose acquisition companies (SPACs)—remember those shell companies that \"helped\" many startups go public? Many of which have since either gone bankrupt or have slipped into oblivion.",
+      "published": "2026-07-08T15:21:31Z"
     }
   ]
 }
