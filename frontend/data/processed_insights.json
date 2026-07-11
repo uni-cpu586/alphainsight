@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-12",
   "stock_uncle_insight": {
     "date_header": "7/10 法人與主力大戶主要買超股票",
     "buyer_groups": [
@@ -139,326 +139,254 @@
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "AT&T leaves rivals flat-footed as bankrupt carrier folds",
+      "title": "Big fast-food burger chain franchisee files Chapter 11 bankruptcy",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/t-leaves-rivals-flat-footed-183300288.html",
+      "link": "https://finance.yahoo.com/small-business/articles/big-fast-food-burger-chain-164700124.html",
       "level1_blind": {
-        "text": "Dish DBS, the satellite TV and wireless subsidiary of EchoStar, filed for prepackaged Chapter 11 bankruptcy on June 30 in federal court in Houston.\n\nThe filing ends months of speculation about the future of the industry's would-be fourth wireless carrier.\n\nMore than 88% of Dish's bondholders backed the filing, which was triggered when the company could not repay $2 billion in senior secured notes carrying a 7.75% interest rate, due July 1.\n\nEchoStar took on roughly $25 billion in debt after merging with Dish in 2024. It had been counting on a cash infusion from AT&T (T) to bridge the gap between its debt payments and its available cash.\n\nBack in August 2025, AT&T agreed to buy about 50 megahertz of nationwide spectrum from EchoStar for $23 billion.\n\nThat includes around 30 MHz of 3.45 GHz mid-band airwaves and 20 MHz of 600 MHz low-band spectrum, spread across more than 400 markets.\n\nThe deal was expected to close by mid 2026, but regulatory delays pushed the timeline back, which left EchoStar short of the cash it needed to make its July 1 payment.\n\nIn plain terms, AT&T's own pending spectrum purchase is the deal whose delay helped push Dish DBS into bankruptcy court."
+        "text": "A lender dispute over millions of dollars has led a Hardee's restaurant franchisee to file for bankruptcy to invoke an automatic stay of all legal actions against the debtor.\n\nHardee's restaurant franchisee Superior Star LLC filed for Chapter 11 bankruptcy protection, facing an alleged seller financing dispute, according to court papers.\n\nThe Phoenix-based franchisee filed its petition in the U.S. Bankruptcy Court for the Western District of Kentucky on July 9, listing $10 million to $50 million in assets and liabilities, according to PacerMonitor.\n\nThe debtor's largest creditors include Starcorp LLC, owed $7.04 million in a disputed seller note subject to setoff; Lionsgate Investment, owed over $184,000 in terminated leases; Kosmides Family Trust, owed over $147,000 in a settlement; FJ Enterprises LLC, owed over $144,000 in a settlement agreement; McLane Company Inc., owed over $138,000 for food products; and MB2K LLC, owed over $123,000 in rent, according to court papers.\n\nSuperior Star, which purchased 93 Hardee's locations in 10 states from Starcorp in 2023, currently operates 59 locations in Midwestern states. The company closed about 12 locations in 2025, according to Nation's Restaurant News.\n\nThe debtor and Starcorp are entangled in a financing dispute over a $7.04 million seller note.\n\n\"We are aware that Hardee's franchisee Superior Star, which independently owns and operates certain Hardee's restaurants primarily in the Midwest region, has filed a voluntary petition for relief under Chapter 11 of the U.S. bankruptcy code,\" franchisor Hardee's said in a statement.\n\n\"Superior Star's decision to file is based on its own specific financial and business circumstances. We remain focused on continuing to strengthen the Hardee's system and deliver quality experiences for our guests,\" Hardee's said."
       },
       "level2_keywords": [
         {
+          "word": "franchisee",
+          "ipa": "/ˌfrænʧaɪˈziː/",
+          "meaning": "指獲得特許經營權，並在特定區域內經營品牌業務的個人或公司，也就是「加盟商」。",
+          "example": "The fast-food franchisee struggled with rising operational costs and declining sales."
+        },
+        {
           "word": "Chapter 11 bankruptcy",
-          "ipa": "/ˈtʃæptər ɪˈlɛvən ˈbæŋkrəptsi/",
-          "meaning": "各位同學，『美國破產法第十一章』允許公司在重組債務的同時繼續營運，避免立即清算。",
-          "example": "Many struggling companies file for Chapter 11 bankruptcy to reorganize their finances."
+          "ipa": "/ˈʧæptər ɪˈlɛvən ˈbæŋkrʌptsi/",
+          "meaning": "美國破產法第十一章，允許企業在債務重組期間繼續營運，以期能擺脫困境，而非立即清算資產。在台灣，我們常說「聲請破產重整」。",
+          "example": "Many companies file for Chapter 11 bankruptcy to reorganize their finances and avoid liquidation."
         },
         {
-          "word": "senior secured notes",
-          "ipa": "/ˈsiːnjər sɪˈkjʊərd noʊts/",
-          "meaning": "這句話在財經界的意思是『優先擔保債券』，在公司破產時，這些債券的持有人有優先受償權，風險相對較低。",
-          "example": "Investors holding senior secured notes typically have a lower risk profile."
+          "word": "automatic stay",
+          "ipa": "/ˌɔːtəˈmætɪk steɪ/",
+          "meaning": "在美國破產法中，一旦債務人聲請破產，法律會自動生效，暫停所有針對債務人的債務追討、訴訟或資產扣押行為，給予債務人喘息和重組的空間。我們稱之為「自動中止令」。",
+          "example": "The automatic stay prevented creditors from pursuing further legal actions against the bankrupt company."
         },
         {
-          "word": "cash infusion",
-          "ipa": "/kæʃ ɪnˈfjuːʒən/",
-          "meaning": "我們要注意這個詞，『資金注入』指的是為公司提供額外資金，以維持營運、償還債務或進行擴張。",
-          "example": "The startup desperately needed a cash infusion to fund its expansion plans."
+          "word": "debtor",
+          "ipa": "/ˈdɛtər/",
+          "meaning": "指欠他人金錢或服務的個人或實體，也就是「債務人」。",
+          "example": "The debtor sought protection from its creditors by filing for bankruptcy."
         },
         {
-          "word": "spectrum",
-          "ipa": "/ˈspɛktrəm/",
-          "meaning": "在電信產業，『無線電頻譜』是指用於無線通訊的頻率資源，是電信公司提供服務的關鍵資產。",
-          "example": "Governments often auction off valuable spectrum licenses to telecom providers."
-        },
-        {
-          "word": "regulatory delays",
-          "ipa": "/ˈrɛɡjələˌtɔːri dɪˈleɪz/",
-          "meaning": "各位同學，『監管延遲』是指因政府或監管機構的審批流程導致的專案或交易延期，這在大型併購案中很常見。",
-          "example": "The merger faced significant regulatory delays due to antitrust concerns."
+          "word": "creditors",
+          "ipa": "/ˈkrɛdɪtərz/",
+          "meaning": "指借錢給他人或被他人欠錢的個人或實體，也就是「債權人」。",
+          "example": "The company's largest creditors will have a significant say in its Chapter 11 reorganization plan."
         }
       ],
-      "level2_context": "各位同學，這則新聞在講美國電信業的一個重要發展。EchoStar旗下的Dish DBS，這個本來被視為美國第四大無線電信商的潛力股，因為無法償還一筆20億美元的債務，最終聲請了破產保護。這裡的關鍵在於，Dish DBS原本指望AT&T會完成一筆高達230億美元的頻譜收購案，這筆錢對EchoStar來說是救命的『資金活水』。然而，由於監管機構的審查延遲，這筆交易未能及時完成，導致EchoStar無法獲得足夠現金來支付到期債務，最終把Dish DBS推向了破產。這對整個美國電信市場的競爭格局會產生影響，特別是對於那些期待有更多競爭者加入的消費者來說，這是一個不樂見的結果。同時，這也凸顯了大型併購案中『監管審批』的重要性，以及其可能帶來的連鎖效應。",
+      "level2_context": "各位同學，這則新聞講的是美國一家知名速食漢堡連鎖店「Hardee's」的加盟商「Superior Star LLC」聲請了「美國破產法第十一章」的保護。這在財經界是個很重要的概念，因為它不像一般破產是直接清算關門，而是允許企業在法庭監督下進行「債務重組」，同時可以繼續營運，希望能夠浴火重生。這家加盟商會走到這一步，主要是因為與放款方之間有數百萬美元的「借貸糾紛」，以及與賣方在「融資」方面存在爭議。聲請破產後，它就能啟動「自動中止令」，暫停所有針對它的法律行動，爭取時間處理債務。這對整個速食產業來說，雖然是單一加盟商的事件，但也反映出餐飲業在經營上可能面臨的挑戰，例如成本上升、市場競爭激烈，以及潛在的經營權或融資糾紛，都可能導致企業陷入財務困境。對於品牌方Hardee's來說，他們會強調這是加盟商的獨立決定，並試圖穩定市場信心，確保品牌形象不受太大影響。",
       "level3_translation": [
         {
-          "sentence": "Dish DBS, the satellite TV and wireless subsidiary of EchoStar, filed for prepackaged Chapter 11 bankruptcy on June 30 in federal court in Houston.",
-          "translation": "EchoStar旗下的衛星電視與無線通訊子公司Dish DBS，已於6月30日在休士頓聯邦法院聲請了預先包裝的『美國破產法第十一章』破產保護。"
+          "sentence": "A lender dispute over millions of dollars has led a Hardee's restaurant franchisee to file for bankruptcy to invoke an automatic stay of all legal actions against the debtor.",
+          "translation": "一場涉及數百萬美元的放款方糾紛，導致一家Hardee's餐廳的加盟商聲請破產，以啟動針對該債務人所有法律行動的「自動中止令」。"
         },
         {
-          "sentence": "The filing ends months of speculation about the future of the industry's would-be fourth wireless carrier.",
-          "translation": "這項聲請終結了數月以來，關於這家業界潛在的第四大無線電信商未來走向的各種揣測。"
+          "sentence": "Hardee's restaurant franchisee Superior Star LLC filed for Chapter 11 bankruptcy protection, facing an alleged seller financing dispute, according to court papers.",
+          "translation": "根據法庭文件，Hardee's餐廳加盟商Superior Star LLC已聲請美國破產法第十一章的保護，因為它面臨一場據稱是「賣方融資糾紛」的問題。"
         },
         {
-          "sentence": "More than 88% of Dish's bondholders backed the filing, which was triggered when the company could not repay $2 billion in senior secured notes carrying a 7.75% interest rate, due July 1.",
-          "translation": "超過88%的Dish債券持有人支持這項聲請，其導火線是該公司無法償還一筆於7月1日到期、利率為7.75%的20億美元『優先擔保債券』。"
+          "sentence": "The Phoenix-based franchisee filed its petition in the U.S. Bankruptcy Court for the Western District of Kentucky on July 9, listing $10 million to $50 million in assets and liabilities, according to PacerMonitor.",
+          "translation": "這家總部位於鳳凰城的加盟商於7月9日在美國肯塔基州西區破產法院提交了聲請，根據PacerMonitor的資料，其資產和負債均列在1000萬至5000萬美元之間。"
         },
         {
-          "sentence": "EchoStar took on roughly $25 billion in debt after merging with Dish in 2024.",
-          "translation": "EchoStar在2024年與Dish合併後，承擔了約250億美元的債務。"
+          "sentence": "The debtor's largest creditors include Starcorp LLC, owed $7.04 million in a disputed seller note subject to setoff; Lionsgate Investment, owed over $184,000 in terminated leases; Kosmides Family Trust, owed over $147,000 in a settlement; FJ Enterprises LLC, owed over $144,000 in a settlement agreement; McLane Company Inc., owed over $138,000 for food products; and MB2K LLC, owed over $123,000 in rent, according to court papers.",
+          "translation": "根據法庭文件，該債務人最大的債權人包括：Starcorp LLC，因一筆有爭議且可抵銷的「賣方本票」被欠704萬美元；Lionsgate Investment，因「終止租賃」被欠超過18.4萬美元；Kosmides Family Trust，因「和解金」被欠超過14.7萬美元；FJ Enterprises LLC，因「和解協議」被欠超過14.4萬美元；McLane Company Inc.，因「食品供應」被欠超過13.8萬美元；以及MB2K LLC，因「租金」被欠超過12.3萬美元。"
         },
         {
-          "sentence": "It had been counting on a cash infusion from AT&T (T) to bridge the gap between its debt payments and its available cash.",
-          "translation": "它原本指望能從AT&T（股票代號：T）獲得一筆『資金注入』，以彌補其債務支付與可用現金之間的缺口。"
+          "sentence": "Superior Star, which purchased 93 Hardee's locations in 10 states from Starcorp in 2023, currently operates 59 locations in Midwestern states.",
+          "translation": "Superior Star在2023年從Starcorp手中購買了10個州的93家Hardee's分店，目前在中西部各州經營著59家分店。"
         },
         {
-          "sentence": "Back in August 2025, AT&T agreed to buy about 50 megahertz of nationwide spectrum from EchoStar for $23 billion.",
-          "translation": "回溯到2025年8月，AT&T曾同意以230億美元向EchoStar收購約50兆赫茲的全國性『無線電頻譜』。"
+          "sentence": "The company closed about 12 locations in 2025, according to Nation's Restaurant News.",
+          "translation": "根據《國家餐飲新聞》報導，該公司在2025年關閉了大約12家分店。"
         },
         {
-          "sentence": "That includes around 30 MHz of 3.45 GHz mid-band airwaves and 20 MHz of 600 MHz low-band spectrum, spread across more than 400 markets.",
-          "translation": "這其中包括約30兆赫茲的3.45 GHz中頻段無線電波，以及20兆赫茲的600 MHz低頻段頻譜，分佈在超過400個市場。"
+          "sentence": "The debtor and Starcorp are entangled in a financing dispute over a $7.04 million seller note.",
+          "translation": "該債務人與Starcorp正因一筆704萬美元的「賣方本票」而陷入融資糾紛。"
         },
         {
-          "sentence": "The deal was expected to close by mid 2026, but regulatory delays pushed the timeline back, which left EchoStar short of the cash it needed to make its July 1 payment.",
-          "translation": "這筆交易原預計在2026年中旬完成，但由於『監管延遲』導致時程推遲，使得EchoStar缺乏支付7月1日款項所需的現金。"
+          "sentence": "\"We are aware that Hardee's franchisee Superior Star, which independently owns and operates certain Hardee's restaurants primarily in the Midwest region, has filed a voluntary petition for relief under Chapter 11 of the U.S. bankruptcy code,\" franchisor Hardee's said in a statement.",
+          "translation": "特許經營權授予方Hardee's在一份聲明中表示：「我們知悉Hardee's加盟商Superior Star，主要在中西部地區獨立擁有並經營部分Hardee's餐廳，已根據美國破產法第十一章聲請了『自願破產保護』。」"
         },
         {
-          "sentence": "In plain terms, AT&T's own pending spectrum purchase is the deal whose delay helped push Dish DBS into bankruptcy court.",
-          "translation": "簡單來說，AT&T自身那筆懸而未決的頻譜收購案，其延遲正是將Dish DBS推向破產法庭的關鍵因素。"
+          "sentence": "\"Superior Star's decision to file is based on its own specific financial and business circumstances. We remain focused on continuing to strengthen the Hardee's system and deliver quality experiences for our guests,\" Hardee's said.",
+          "translation": "Hardee's表示：「Superior Star聲請破產的決定是基於其自身的特定財務和業務狀況。我們仍將專注於持續強化Hardee's的營運體系，並為我們的顧客提供優質的用餐體驗。」"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Here's What to Expect From Entergy’s Next Earnings Report",
+      "title": "Florida man paid off his house 2 months before Hurricane Milton tore off his roof — and he had no home insurance",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-entergy-next-earnings-152045946.html",
+      "link": "https://finance.yahoo.com/real-estate/articles/florida-man-paid-off-house-214000740.html",
       "level1_blind": {
-        "text": "Louisiana-based Entergy Corporation (ETR) is an integrated electric utility that generates, transmits, and distributes electricity to more than 3 million customers across Arkansas, Louisiana, Mississippi, and Texas. The company focuses on delivering reliable and affordable power while continuing to modernize its energy infrastructure to meet evolving customer demand. To support long-term growth, Entergy is investing in a more resilient and lower-emission power system, expanding its portfolio of natural gas, nuclear, and renewable energy assets.\n\nBeyond its core utility operations, the company contributes more than $100 million annually in economic benefits to the communities it serves through philanthropic initiatives, employee volunteer programs, and community advocacy efforts. Currently valued at a market capitalization of about $53.74 billion, the utility company plans to lift the curtain on its fiscal 2026 second-quarter earnings report on Wednesday, July 29.\n\nAbbVie vs Eli Lilly: 1 Is Clearly the Better Dividend Stock to Buy and Hold for the Next 10 Years\n\nThe Nasdaq-100 Could Be Forming a Textbook Diamond Top. Here's What to Watch on the QQQ Chart Now.\n\nHeading into its upcoming earnings report, Wall Street expects Entergy to deliver another quarter of steady growth, with earnings projected to rise 2.9% year over year to $1.08 per share. The company has built a fairly consistent earnings track record, either meeting or exceeding analysts' expectations in three of the past four quarters, with just one earnings miss during that period.\n\nLooking beyond the upcoming results, analysts remain optimistic about the company's earnings trajectory. Consensus estimates call for Entergy to generate $4.40 per share in fiscal 2026, representing 12.5% annual growth, followed by another 14.6% increase to $5.04 per share in fiscal 2027, reflecting expectations for continued earnings momentum.\n\nEntergy has rewarded shareholders with a strong run over the past year. The stock has rallied 42.3% over the last 12 months, more than doubling the 20% gain delivered by the broader S&P 500 Index ($SPX) during the same period. It has also significantly outperformed the State Street Utilities Select Sector SPDR Fund (XLU), which returned a more modest 12.5%, underscoring Entergy's strength relative to both the broader market and its utility sector peers.\n\nLooking back at the company's latest earnings performance, Entergy reported mixed first-quarter fiscal 2026 results on April 29. The utility giant easily cleared the top-line hurdle, reporting revenue of $3.19 billion, comfortably ahead of Wall Street's $3 billion estimate. However, the bottom line proved less impressive. Adjusted earnings rose to $0.86 per share from $0.82 in the year-ago quarter, reflecting year-over-year growth, but still fell short of analysts' expectations of $0.89 per share."
+        "text": "It might sound like the fate of a character in a fable, or a line from Alanis Morissette's famous 1990s hit \"Ironic\": Man pays off his house, then the roof blows off.\n\nInstead, it's the unfortunate reality for one Florida man, who, on top of having the bad luck of seeing his house suffer severe damage from a hurricane, was also on the hook for the costs, since he had recently paid off his home and skipped on paying for homeowner's insurance.\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake — here's what it is and 3 simple steps to fix it ASAP\n\nMillionaires under 43 hold only 25% of their wealth in stocks. Here's where their money is actually going\n\nMike Parrot told Tampa Bay's WFLA News that he and his wife had just paid off their home about two months prior to Hurricane Milton (1). The category 5 storm (2) that hit Florida in October 2024 ripped the roof right off their home in Bradenton.\n\nThe couple's home was officially condemned, WFLA reported, and they had to live in their backyard studio while their home was repaired.\n\nAccording to WFLA reporter Shannon Behnken, it's a situation she often encounters: homeowners typically have insurance while they have a mortgage, but once their loans are paid off, they don't renew their insurance to save money."
       },
       "level2_keywords": [
         {
-          "word": "integrated electric utility",
-          "ipa": "/ˌɪntɪɡreɪtɪd ɪˈlɛktrɪk juːˈtɪlɪti/",
-          "meaning": "整合型電力公用事業",
-          "example": "「Entergy 是一家整合型電力公用事業公司，負責發電、輸電和配電。」"
+          "word": "paid off",
+          "ipa": "/peɪd ɔːf/",
+          "meaning": "指將一筆貸款或債務完全償還完畢。",
+          "example": "「Many homeowners dream of the day they can finally say they have 『paid off』 their mortgage.」"
         },
         {
-          "word": "market capitalization",
-          "ipa": "/ˈmɑːrkɪt ˌkæpɪtəlaɪˈzeɪʃən/",
-          "meaning": "市值",
-          "example": "「這家科技巨頭的市值已突破一兆美元大關。」"
+          "word": "homeowner's insurance",
+          "ipa": "/ˈhoʊmˌoʊnərz ɪnˈʃʊrəns/",
+          "meaning": "一種保障房屋及其財產免受損害（如火災、竊盜、自然災害）的保險。",
+          "example": "「Without 『homeowner's insurance』, the financial burden of repairing hurricane damage can be devastating.」"
         },
         {
-          "word": "earnings report",
-          "ipa": "/ˈɜːrnɪŋz rɪˈpɔːrt/",
-          "meaning": "財報",
-          "example": "「投資人正密切關注蘋果即將發布的最新財報。」"
+          "word": "on the hook for",
+          "ipa": "/ɒn ðə hʊk fɔːr/",
+          "meaning": "指某人必須為某事負責，通常是承擔費用或後果。",
+          "example": "「If you don't have proper coverage, you could be 『on the hook for』 thousands in repair costs.」"
         },
         {
-          "word": "earnings trajectory",
-          "ipa": "/ˈɜːrnɪŋz trəˈdʒɛktəri/",
-          "meaning": "獲利軌跡/獲利趨勢",
-          "example": "「儘管面臨經濟逆風，該公司的獲利軌跡依然強勁。」"
+          "word": "condemned",
+          "ipa": "/kənˈdɛmd/",
+          "meaning": "指建築物因損壞嚴重或不符合安全標準，被官方宣告不適合居住或使用。",
+          "example": "「After the earthquake, many buildings were 『condemned』 and had to be demolished.」"
         },
         {
-          "word": "rallied",
-          "ipa": "/ˈrælid/",
-          "meaning": "反彈/上漲",
-          "example": "「在利好消息的刺激下，這檔股票今天大幅反彈。」"
+          "word": "mortgage",
+          "ipa": "/ˈmɔːrɡɪdʒ/",
+          "meaning": "向銀行或其他金融機構借款，以房屋作為抵押品來購買房屋。",
+          "example": "「Paying off your 『mortgage』 is a significant financial milestone for many families.」"
         }
       ],
-      "level2_context": "各位同學，這篇新聞主要在談美國一家大型電力公用事業公司 Entergy 的財報展望。對於公用事業公司來說，財報不僅是數字，更是反映其營運穩定性、基礎設施投資效益以及未來成長潛力的重要指標。由於電力是民生必需品，這類公司通常被視為防禦型股票，但它們也面臨著能源轉型、基礎設施現代化以及監管環境變化的挑戰。這份財報將揭示 Entergy 在這些方面的表現，以及華爾街對其未來獲利能力的預期，這對投資人評估其長期價值非常關鍵。",
+      "level2_context": "各位同學，這則新聞雖然看似是個人不幸的案例，但在國際財經與個人理財規劃上，卻給了我們一個非常重要的啟示。許多屋主在還清房屋貸款（mortgage）後，為了省下每年的保費，會選擇不再續保房屋保險（homeowner's insurance）。他們可能認為，既然房子已經完全屬於自己，就沒有必要再為它投保了。然而，這正是這則新聞中佛羅里達男子所犯的錯誤，也是許多人容易忽略的風險。\n\n從宏觀角度來看，這反映了個人風險管理（personal risk management）的重要性。即使沒有了房貸的壓力，房屋作為一項重大資產，仍然面臨著自然災害（如颶風、地震）、火災、竊盜等風險。一旦發生這些意外，若沒有保險的保障，屋主將必須自行承擔鉅額的修復費用，甚至可能導致資產全毀，從而陷入嚴重的財務困境。這對個人財富累積和家庭穩定性都會造成毀滅性的打擊。\n\n對於保險產業而言，這類事件也提醒了保險公司，在推廣產品時，除了強調貸款期間的保障，也應加強宣導屋主在還清貸款後，持續購買保險的重要性，尤其是在氣候變遷導致極端天氣事件頻繁發生的當下。這不僅是保障個人資產，也是維持社會經濟穩定的一環。因此，各位同學在規劃個人財務時，務必將風險管理納入考量，切勿因小失大。",
       "level3_translation": [
         {
-          "sentence": "Louisiana-based Entergy Corporation (ETR) is an integrated electric utility that generates, transmits, and distributes electricity to more than 3 million customers across Arkansas, Louisiana, Mississippi, and Texas.",
-          "translation": "「總部位於路易斯安那州的 Entergy 公司（股票代碼：ETR）是一家整合型電力公用事業公司，負責為阿肯色州、路易斯安那州、密西西比州和德州的逾 300 萬客戶發電、輸電和配電。」"
+          "sentence": "It might sound like the fate of a character in a fable, or a line from Alanis Morissette's famous 1990s hit \"Ironic\": Man pays off his house, then the roof blows off.",
+          "translation": "這聽起來可能像是寓言故事裡的角色命運，或是艾拉妮絲．莫莉塞特（Alanis Morissette）1990年代名曲『諷刺』（Ironic）中的一句歌詞：「男人付清了房貸，然後屋頂就被吹走了。」"
         },
         {
-          "sentence": "The company focuses on delivering reliable and affordable power while continuing to modernize its energy infrastructure to meet evolving customer demand.",
-          "translation": "「該公司致力於提供可靠且負擔得起的電力，同時持續現代化其能源基礎設施，以滿足不斷變化的客戶需求。」"
+          "sentence": "Instead, it's the unfortunate reality for one Florida man, who, on top of having the bad luck of seeing his house suffer severe damage from a hurricane, was also on the hook for the costs, since he had recently paid off his home and skipped on paying for homeowner's insurance.",
+          "translation": "然而，這卻是一位佛羅里達男子的不幸現實，他不僅倒楣地眼睜睜看著房子在颶風中嚴重受損，還得自行承擔所有費用，因為他最近才剛付清房貸，並因此省下了房屋保險的費用。"
         },
         {
-          "sentence": "To support long-term growth, Entergy is investing in a more resilient and lower-emission power system, expanding its portfolio of natural gas, nuclear, and renewable energy assets.",
-          "translation": "「為了支持長期成長，Entergy 正在投資一個更具韌性且低排放的電力系統，並擴大其天然氣、核能和再生能源資產組合。」"
+          "sentence": "Jeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one",
+          "translation": "傑夫．貝佐斯（Jeff Bezos）支持一個平台，讓任何人都能以低至100美元的金額投資出租房屋——這有6種方法，讓你無需實際成為房東，也能像房東一樣累積財富。"
         },
         {
-          "sentence": "Beyond its core utility operations, the company contributes more than $100 million annually in economic benefits to the communities it serves through philanthropic initiatives, employee volunteer programs, and community advocacy efforts.",
-          "translation": "「除了核心的公用事業營運外，該公司每年透過慈善計畫、員工志工活動和社區倡議，為其服務的社區貢獻超過 1 億美元的經濟效益。」"
+          "sentence": "Dave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake — here's what it is and 3 simple steps to fix it ASAP",
+          "translation": "戴夫．拉姆齊（Dave Ramsey）警告，近50%的美國人正在犯一個重大的社會安全福利錯誤——這篇文章將解釋這個錯誤是什麼，以及三個簡單的步驟可以立即修正。"
         },
         {
-          "sentence": "Currently valued at a market capitalization of about $53.74 billion, the utility company plans to lift the curtain on its fiscal 2026 second-quarter earnings report on Wednesday, July 29.",
-          "translation": "「目前市值約為 537.4 億美元的這家公用事業公司，計畫在 7 月 29 日（週三）公布其 2026 會計年度第二季財報。」"
+          "sentence": "Millionaires under 43 hold only 25% of their wealth in stocks. Here's where their money is actually going",
+          "translation": "43歲以下的百萬富翁，僅將25%的財富投資於股票。這篇文章將揭示他們的錢實際流向何處。"
         },
         {
-          "sentence": "AbbVie vs Eli Lilly: 1 Is Clearly the Better Dividend Stock to Buy and Hold for the Next 10 Years",
-          "translation": "「AbbVie 對決 Eli Lilly：其中一檔顯然是未來十年更值得買入並持有的股息股。」"
+          "sentence": "Mike Parrot told Tampa Bay's WFLA News that he and his wife had just paid off their home about two months prior to Hurricane Milton (1).",
+          "translation": "麥克．派洛特（Mike Parrot）告訴坦帕灣WFLA新聞，他和妻子在米爾頓颶風（Hurricane Milton）來襲前約兩個月，才剛付清了房貸。"
         },
         {
-          "sentence": "The Nasdaq-100 Could Be Forming a Textbook Diamond Top. Here's What to Watch on the QQQ Chart Now.",
-          "translation": "「那斯達克 100 指數可能正在形成一個教科書般的鑽石頂部型態。現在就來看看 QQQ 圖表上有哪些值得關注的。」"
+          "sentence": "The category 5 storm (2) that hit Florida in October 2024 ripped the roof right off their home in Bradenton.",
+          "translation": "這場在2024年10月襲擊佛羅里達州的五級颶風，直接將他們位於布雷登頓（Bradenton）的屋頂掀翻。"
         },
         {
-          "sentence": "Heading into its upcoming earnings report, Wall Street expects Entergy to deliver another quarter of steady growth, with earnings projected to rise 2.9% year over year to $1.08 per share.",
-          "translation": "「在即將公布的財報前，華爾街預期 Entergy 將再實現一季的穩定成長，預計獲利將年增 2.9% 至每股 1.08 美元。」"
+          "sentence": "The couple's home was officially condemned, WFLA reported, and they had to live in their backyard studio while their home was repaired.",
+          "translation": "WFLA報導，這對夫婦的房屋被官方判定為危樓，他們不得不暫住在後院的工作室，等待房屋修復。"
         },
         {
-          "sentence": "The company has built a fairly consistent earnings track record, either meeting or exceeding analysts' expectations in three of the past four quarters, with just one earnings miss during that period.",
-          "translation": "「該公司已建立相當穩定的獲利紀錄，在過去四個季度中有三個季度達到或超越分析師預期，期間僅有一次獲利不如預期。」"
-        },
-        {
-          "sentence": "Looking beyond the upcoming results, analysts remain optimistic about the company's earnings trajectory.",
-          "translation": "「展望即將公布的財報之後，分析師們對該公司的獲利軌跡仍持樂觀態度。」"
-        },
-        {
-          "sentence": "Consensus estimates call for Entergy to generate $4.40 per share in fiscal 2026, representing 12.5% annual growth, followed by another 14.6% increase to $5.04 per share in fiscal 2027, reflecting expectations for continued earnings momentum.",
-          "translation": "「市場共識預期 Entergy 在 2026 會計年度將實現每股 4.40 美元的獲利，代表年成長 12.5%，隨後在 2027 會計年度將再成長 14.6% 至每股 5.04 美元，這反映了市場對其獲利動能持續的預期。」"
-        },
-        {
-          "sentence": "Entergy has rewarded shareholders with a strong run over the past year.",
-          "translation": "「Entergy 在過去一年中以強勁的表現回報了股東。」"
-        },
-        {
-          "sentence": "The stock has rallied 42.3% over the last 12 months, more than doubling the 20% gain delivered by the broader S&P 500 Index ($SPX) during the same period.",
-          "translation": "「該股票在過去 12 個月內反彈了 42.3%，漲幅是同期標普 500 指數（$SPX）20% 漲幅的兩倍多。」"
-        },
-        {
-          "sentence": "It has also significantly outperformed the State Street Utilities Select Sector SPDR Fund (XLU), which returned a more modest 12.5%, underscoring Entergy's strength relative to both the broader market and its utility sector peers.",
-          "translation": "「它也顯著優於道富公用事業精選產業 SPDR 基金（XLU）僅 12.5% 的回報率，這突顯了 Entergy 相對於整體市場及其公用事業同業的強勁實力。」"
-        },
-        {
-          "sentence": "Looking back at the company's latest earnings performance, Entergy reported mixed first-quarter fiscal 2026 results on April 29.",
-          "translation": "「回顧該公司最新的獲利表現，Entergy 在 4 月 29 日公布了 2026 會計年度第一季的喜憂參半財報。」"
-        },
-        {
-          "sentence": "The utility giant easily cleared the top-line hurdle, reporting revenue of $3.19 billion, comfortably ahead of Wall Street's $3 billion estimate.",
-          "translation": "「這家公用事業巨頭輕鬆跨越了營收門檻，報告營收達 31.9 億美元，遠高於華爾街預估的 30 億美元。」"
-        },
-        {
-          "sentence": "However, the bottom line proved less impressive.",
-          "translation": "「然而，淨利表現則不那麼令人印象深刻。」"
-        },
-        {
-          "sentence": "Adjusted earnings rose to $0.86 per share from $0.82 in the year-ago quarter, reflecting year-over-year growth, but still fell short of analysts' expectations of $0.89 per share.",
-          "translation": "「調整後獲利從去年同期的每股 0.82 美元增至每股 0.86 美元，反映了年增長，但仍未達到分析師每股 0.89 美元的預期。」"
+          "sentence": "According to WFLA reporter Shannon Behnken, it's a situation she often encounters: homeowners typically have insurance while they have a mortgage, but once their loans are paid off, they don't renew their insurance to save money.",
+          "translation": "根據WFLA記者香農．貝肯（Shannon Behnken）的說法，這是一種她經常遇到的情況：屋主通常在有房貸的時候會購買保險，但一旦貸款還清，他們為了省錢就不會再續保了。"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Lucid Motors’ Woes Run Much Deeper. Saudi Money Alone Won’t Solve Them.",
+      "title": "TTM Technologies (TTMI): Best Large Cap Stocks to Buy According to Analysts",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-motors-woes-run-much-152131993.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-ttmi-best-large-142324571.html",
       "level1_blind": {
-        "text": "The electric vehicle (EV) industry has been going through turmoil, and barring market leader Tesla (TSLA), no other player has been able to make money in the U.S. market. Legacy automakers, which announced ambitious vehicle electrification plans, have lately been licking their wounds and booking massive losses.\n\nThe quantum of losses the Detroit Big 3 have announced is gigantic. Ford (F) announced a $19.5 billion write-down in its EV business in December 2025. General Motors (GM), which had once declared that it wouldn't sell gasoline cars after 2035, has written down $7.6 billion. Stellantis (STLA), meanwhile, leads the pack with a charge of $26.5 billion.\n\nAbbVie vs Eli Lilly: 1 Is Clearly the Better Dividend Stock to Buy and Hold for the Next 10 Years\n\nThe Nasdaq-100 Could Be Forming a Textbook Diamond Top. Here's What to Watch on the QQQ Chart Now.\n\nStartup EV players also continue to struggle, to say the least, and are saddled with continued losses and cash burn. Legacy automakers have the luxury of profitable internal combustion engine (ICE) operations, which offset the EV losses and leave them with billions of dollars in free cash to splurge on dividends and buybacks.\n\nStartup EV players have had to resort to frequent capital raises to make up for the perennial cash burn. Earlier this week, Rivian (RIVN) announced a $1.5 billion capital raise. The stock expectedly fell after the announcement. Lucid Group (LCID) has raised capital even more frequently. It is backed by Saudi Arabia's Public Investment Fund (PIF), which first invested $1 billion into the company in 2018.\n\nIncidentally, that was the year when Tesla CEO Elon Musk made his infamous remark about \"taking Tesla private.\" Musk, who became the world's first trillionaire following SpaceX's (SPCX) listing, claimed that the PIF approached him to take the company private and that he was banking on them while asserting \"funding secured\" for the transaction.\n\nMeanwhile, the PIF also participated in the private investment in public equity (PIPE) transaction during Lucid's 2021 merger, buying the shares at $15 apiece. It was an aberration from the general convention then as PIPE transactions happened at $10 a share, which was the IPO price of the special purpose acquisition companies (SPACs)—remember those shell companies that \"helped\" many startups go public? Many of which have since either gone bankrupt or have slipped into oblivion."
+        "text": "TTM Technologies Inc. (NASDAQ:TTMI) is one of the best large cap stocks to buy according to analysts. On June 17, TTM Technologies announced that its Mini-Xinger RF product portfolio has achieved AEC-Q200 qualification. This milestone validates the product line's conformance to the highest industry standards for passive component reliability, specifically tailored for automotive and high-reliability applications.\n\nThe AEC-Q200 accreditation confirms that these components meet rigorous requirements for stress testing, including temperature cycling, mechanical shock, vibration, and humidity. By passing these tests, the Mini-Xinger series demonstrates consistent, long-term performance necessary for operating in the most demanding environments.\n\nLong recognized for its role in satellite navigation and automotive telecommunications, the Xinger brand is increasingly utilized in commercial space applications where thermal stability is essential. This qualification provides customers in these critical markets with assurance regarding the performance and durability of TTM Technologies Inc.'s (NASDAQ:TTMI) specialized RF components.\n\nTTM Technologies Inc. (NASDAQ:TTMI) is a US-based global manufacturer of advanced printed circuit boards (PCBs), RF components, and microelectronic assemblies serving aerospace, defense, automotive, data center, medical, and industrial markets.\n\nWhile we acknowledge the risk and potential of TTMI as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns and doing so within a shorter time frame. If you are looking for an AI stock that is more promising than TTMI and that has 10,000% upside potential, check out our report about the cheapest AI stock.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and Cathie Wood 2026 Portfolio: 10 Best Stocks to Buy."
       },
       "level2_keywords": [
         {
-          "word": "turmoil",
-          "ipa": "/ˈtɜːrmɔɪl/",
-          "meaning": "指的是混亂、騷動或動盪不安的狀態，常用來形容市場、產業或經濟環境的不穩定。",
-          "example": "The global economy is facing significant turmoil due to geopolitical tensions."
+          "word": "large cap stocks",
+          "ipa": "/lɑːrdʒ kæp stɑːks/",
+          "meaning": "指市值較大的公司股票，通常被認為是市場上較為穩定和成熟的投資標的。",
+          "example": "各位同學，這句話在財經界的意思是，『大型股』通常是指那些市值超過100億美元的公司股票，它們的股價波動相對較小，適合穩健型投資人。"
         },
         {
-          "word": "legacy automakers",
-          "ipa": "/ˈlɛɡəsi ˈɔːtoʊˌmeɪkərz/",
-          "meaning": "指的是那些歷史悠久、以傳統燃油車製造為主的汽車公司，與新興的電動車廠相對。",
-          "example": "Legacy automakers are investing heavily in EV technology to compete with Tesla."
+          "word": "AEC-Q200 qualification",
+          "ipa": "/ˌeɪ.iː.siː ˌkjuː.tuːˈhʌn.drəd ˌkwɑː.lə.fɪˈkeɪ.ʃən/",
+          "meaning": "車用電子元件委員會（AEC）制定的被動元件可靠性標準，通過此認證代表產品符合汽車產業的嚴苛要求。",
+          "example": "我們要注意這個動詞，『AEC-Q200認證』對於車用電子供應商來說至關重要，它確保了產品在極端環境下的可靠性與安全性。"
         },
         {
-          "word": "write-down",
-          "ipa": "/ˈraɪtˌdaʊn/",
-          "meaning": "會計術語，指資產價值因市場變化或預期收益下降而減少，公司在財報上將其帳面價值調低，認列為損失。",
-          "example": "The company announced a significant write-down of its outdated inventory."
+          "word": "RF components",
+          "ipa": "/ɑːr ɛf kəmˈpoʊ.nənts/",
+          "meaning": "射頻元件，用於無線通訊系統中，負責訊號的發射、接收與處理，例如天線、濾波器等。",
+          "example": "這句話在科技界的意思是，『射頻元件』是現代通訊技術的基石，從手機到衛星通訊都離不開它。"
         },
         {
-          "word": "cash burn",
-          "ipa": "/ˈkæʃ bɜːrn/",
-          "meaning": "指新創公司或快速成長的公司在營運初期，由於投入大量資金擴張或研發，導致現金快速消耗的現象。",
-          "example": "Many tech startups experience high cash burn rates before achieving profitability."
+          "word": "printed circuit boards (PCBs)",
+          "ipa": "/ˌprɪn.tɪd ˈsɜːr.kɪt bɔːrdz/",
+          "meaning": "印刷電路板，是電子產品中用來支撐和連接電子元件的基板，被譽為「電子產品之母」。",
+          "example": "各位同學，『印刷電路板』是所有電子設備的核心，沒有它，晶片和其他元件就無法正常運作。"
         },
         {
-          "word": "capital raises",
-          "ipa": "/ˈkæpɪtəl ˈreɪzɪz/",
-          "meaning": "指公司透過發行股票、債券或向投資者募集資金等方式，來增加其營運資本或投資資金的行為，通常用於擴張或彌補虧損。",
-          "example": "The biotech firm announced a series of capital raises to fund its clinical trials."
+          "word": "microelectronic assemblies",
+          "ipa": "/ˌmaɪ.kroʊ.ɪˌlɛkˈtrɑː.nɪk əˈsɛm.bliz/",
+          "meaning": "微電子組件，指將多個微型電子元件整合在一起的模組，通常用於高密度、小型化的電子產品中。",
+          "example": "我們要注意這個名詞，『微電子組件』是實現電子產品小型化與高效能的關鍵技術，廣泛應用於航太和醫療設備。"
         }
       ],
-      "level2_context": "各位同學，這篇新聞主要探討了電動車（EV）產業的現況，特別是除了特斯拉之外，其他電動車製造商，無論是傳統大廠還是新創公司，都面臨著嚴峻的虧損挑戰。我們可以看到，像福特、通用和Stellantis這些傳統車廠，雖然也投入了大量資源發展電動車，但其電動車業務仍處於「燒錢」階段，甚至認列了巨額的資產減記。幸好，他們還有獲利的燃油車業務可以作為「靠山」，來彌補電動車的虧損。\n\n然而，對於像Lucid和Rivian這類新創電動車公司來說，情況就更為艱難了。他們沒有傳統燃油車業務的現金流支持，只能頻繁地透過「募資」來維持營運，這也導致股價波動劇烈。新聞中特別提到了沙烏地阿拉伯公共投資基金（PIF）對Lucid的投資，甚至回溯到馬斯克當年「將特斯拉私有化」的傳聞，這都凸顯了資本市場對於電動車產業的巨大投入與期待，但同時也暗示了新創公司在燒錢模式下，即使有大筆資金挹注，要真正實現獲利仍是一條漫長且充滿挑戰的道路。這也提醒我們，在評估新興產業時，除了看技術前景，更要關注其商業模式與財務體質。",
+      "level2_context": "各位同學，這篇新聞主要在講一家名為TTM Technologies的公司，他們生產的Mini-Xinger射頻產品線，最近通過了非常重要的『AEC-Q200車規認證』。這在財經科技界是個大消息，因為這代表他們的產品品質和可靠性，已經達到汽車產業最嚴苛的標準。為什麼這很重要呢？因為汽車電子系統需要在極端溫度、震動和濕度下穩定運作，一旦通過這個認證，就等於拿到進入車用市場的門票，對於TTM Technologies來說，這能大幅提升他們在汽車和高可靠性應用市場的競爭力與市佔率。這不僅能鞏固他們在衛星導航和車用通訊領域的地位，也讓他們在商業太空等新興市場有更大的發展空間。雖然文章最後提到了AI股票的投資潛力，但核心還是圍繞在TTM的產品技術突破與市場拓展上。",
       "level3_translation": [
         {
-          "sentence": "The electric vehicle (EV) industry has been going through turmoil, and barring market leader Tesla (TSLA), no other player has been able to make money in the U.S. market.",
-          "translation": "各位同學，電動車（EV）產業目前正經歷一場混亂，除了市場龍頭特斯拉（TSLA）之外，沒有其他業者能在美國市場賺錢。"
+          "sentence": "TTM Technologies Inc. (NASDAQ:TTMI) is one of the best large cap stocks to buy according to analysts.",
+          "translation": "根據分析師的說法，TTM Technologies 公司（那斯達克代碼：TTMI）是目前最值得買進的『大型股』之一。"
         },
         {
-          "sentence": "Legacy automakers, which announced ambitious vehicle electrification plans, have lately been licking their wounds and booking massive losses.",
-          "translation": "那些曾宣布雄心勃勃電動車計畫的傳統車廠，最近都只能「舔舐傷口」，認列巨額虧損。"
+          "sentence": "On June 17, TTM Technologies announced that its Mini-Xinger RF product portfolio has achieved AEC-Q200 qualification.",
+          "translation": "在6月17日，TTM Technologies 宣布，旗下的 Mini-Xinger 射頻產品組合已成功取得『AEC-Q200車規認證』。"
         },
         {
-          "sentence": "The quantum of losses the Detroit Big 3 have announced is gigantic.",
-          "translation": "底特律三大車廠所公布的虧損金額可說是天文數字。"
+          "sentence": "This milestone validates the product line's conformance to the highest industry standards for passive component reliability, specifically tailored for automotive and high-reliability applications.",
+          "translation": "這個里程碑證明了該產品線符合被動元件可靠性的最高產業標準，特別是針對汽車和高可靠性應用所設計的。"
         },
         {
-          "sentence": "Ford (F) announced a $19.5 billion write-down in its EV business in December 2025.",
-          "translation": "福特（F）在2025年12月宣布，其電動車業務將認列195億美元的資產減記。"
+          "sentence": "The AEC-Q200 accreditation confirms that these components meet rigorous requirements for stress testing, including temperature cycling, mechanical shock, vibration, and humidity.",
+          "translation": "『AEC-Q200認證』確認這些元件符合嚴格的壓力測試要求，包括溫度循環、機械衝擊、震動和濕度測試。"
         },
         {
-          "sentence": "General Motors (GM), which had once declared that it wouldn't sell gasoline cars after 2035, has written down $7.6 billion.",
-          "translation": "通用汽車（GM）曾一度宣稱在2035年後將不再銷售汽油車，但現在也已減記了76億美元。"
+          "sentence": "By passing these tests, the Mini-Xinger series demonstrates consistent, long-term performance necessary for operating in the most demanding environments.",
+          "translation": "通過這些測試，Mini-Xinger 系列展現了在最嚴苛環境下運作所需的穩定且『長期效能』。"
         },
         {
-          "sentence": "Stellantis (STLA), meanwhile, leads the pack with a charge of $26.5 billion.",
-          "translation": "同時，Stellantis（STLA）則以高達265億美元的費用領跑虧損榜。"
+          "sentence": "Long recognized for its role in satellite navigation and automotive telecommunications, the Xinger brand is increasingly utilized in commercial space applications where thermal stability is essential.",
+          "translation": "Xinger 品牌長期以來在衛星導航和汽車電信領域扮演重要角色，現在也越來越多地應用於需要『熱穩定性』的商業太空領域。"
         },
         {
-          "sentence": "AbbVie vs Eli Lilly: 1 Is Clearly the Better Dividend Stock to Buy and Hold for the Next 10 Years",
-          "translation": "艾伯維（AbbVie）與禮來（Eli Lilly）之爭：其中一檔顯然是未來十年更值得買進並持有的優質股息股。"
+          "sentence": "This qualification provides customers in these critical markets with assurance regarding the performance and durability of TTM Technologies Inc.'s (NASDAQ:TTMI) specialized RF components.",
+          "translation": "這項認證為這些關鍵市場的客戶，提供了對 TTM Technologies 公司（那斯達克代碼：TTMI）專業『射頻元件』性能和耐用度的保證。"
         },
         {
-          "sentence": "The Nasdaq-100 Could Be Forming a Textbook Diamond Top. Here's What to Watch on the QQQ Chart Now.",
-          "translation": "那斯達克100指數可能正在形成教科書般的「鑽石頂」型態。現在就來看看QQQ圖表上需要關注的重點。"
+          "sentence": "TTM Technologies Inc. (NASDAQ:TTMI) is a US-based global manufacturer of advanced printed circuit boards (PCBs), RF components, and microelectronic assemblies serving aerospace, defense, automotive, data center, medical, and industrial markets.",
+          "translation": "TTM Technologies 公司（那斯達克代碼：TTMI）是一家總部位於美國的全球性製造商，專門生產先進的『印刷電路板』（PCBs）、『射頻元件』和『微電子組件』，服務於航太、國防、汽車、資料中心、醫療和工業等市場。"
         },
         {
-          "sentence": "Startup EV players also continue to struggle, to say the least, and are saddled with continued losses and cash burn.",
-          "translation": "各位同學，新創電動車業者至少可以說仍在苦苦掙扎，他們背負著持續的虧損和大量的「燒錢」。"
+          "sentence": "While we acknowledge the risk and potential of TTMI as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns and doing so within a shorter time frame.",
+          "translation": "雖然我們承認投資 TTMI 存在風險和潛力，但我們堅信某些 AI 股票更有潛力帶來更高的報酬，而且能在更短的時間內實現。"
         },
         {
-          "sentence": "Legacy automakers have the luxury of profitable internal combustion engine (ICE) operations, which offset the EV losses and leave them with billions of dollars in free cash to splurge on dividends and buybacks.",
-          "translation": "傳統車廠則享有獲利的燃油車（ICE）業務這個「奢侈品」，這能抵銷電動車的虧損，並讓他們有數十億美元的自由現金流可以大方用於發放股利和實施庫藏股。"
+          "sentence": "If you are looking for an AI stock that is more promising than TTMI and that has 10,000% upside potential, check out our report about the cheapest AI stock.",
+          "translation": "如果您正在尋找比 TTMI 更具前景，並且擁有高達10,000%『上漲潛力』的 AI 股票，請參考我們關於最便宜 AI 股票的報告。"
         },
         {
-          "sentence": "Startup EV players have had to resort to frequent capital raises to make up for the perennial cash burn.",
-          "translation": "新創電動車業者為了彌補長期以來的「燒錢」狀況，不得不頻繁地進行「募資」。"
-        },
-        {
-          "sentence": "Earlier this week, Rivian (RIVN) announced a $1.5 billion capital raise.",
-          "translation": "本週稍早，Rivian（RIVN）宣布了一項15億美元的募資計畫。"
-        },
-        {
-          "sentence": "The stock expectedly fell after the announcement.",
-          "translation": "消息公布後，該公司股價如預期般下跌。"
-        },
-        {
-          "sentence": "Lucid Group (LCID) has raised capital even more frequently.",
-          "translation": "Lucid Group（LCID）募資的頻率甚至更高。"
-        },
-        {
-          "sentence": "It is backed by Saudi Arabia's Public Investment Fund (PIF), which first invested $1 billion into the company in 2018.",
-          "translation": "它是由沙烏地阿拉伯的公共投資基金（PIF）所支持，該基金在2018年首次向該公司投資了10億美元。"
-        },
-        {
-          "sentence": "Incidentally, that was the year when Tesla CEO Elon Musk made his infamous remark about \"taking Tesla private.\"",
-          "translation": "巧合的是，那一年正是特斯拉執行長伊隆·馬斯克發表他那句臭名昭著的「將特斯拉私有化」言論的時候。"
-        },
-        {
-          "sentence": "Musk, who became the world's first trillionaire following SpaceX's (SPCX) listing, claimed that the PIF approached him to take the company private and that he was banking on them while asserting \"funding secured\" for the transaction.",
-          "translation": "馬斯克在SpaceX（SPCX）上市後成為全球首位兆萬富翁，他聲稱PIF曾接觸他，希望將特斯拉私有化，並且他當時聲稱「資金已到位」，表示這筆交易有著落了。"
-        },
-        {
-          "sentence": "Meanwhile, the PIF also participated in the private investment in public equity (PIPE) transaction during Lucid's 2021 merger, buying the shares at $15 apiece.",
-          "translation": "同時，PIF也參與了Lucid在2021年合併期間的「私募股權公開投資」（PIPE）交易，當時以每股15美元的價格買進了股票。"
-        },
-        {
-          "sentence": "It was an aberration from the general convention then as PIPE transactions happened at $10 a share, which was the IPO price of the special purpose acquisition companies (SPACs)—remember those shell companies that \"helped\" many startups go public?",
-          "translation": "這在當時是偏離常規的做法，因為PIPE交易通常是以每股10美元進行，這也是「特殊目的收購公司」（SPACs）的首次公開募股（IPO）價格——各位同學，還記得那些「幫助」許多新創公司上市的空殼公司嗎？"
-        },
-        {
-          "sentence": "Many of which have since either gone bankrupt or have slipped into oblivion.",
-          "translation": "其中許多公司此後要麼破產，要麼就已銷聲匿跡了。"
+          "sentence": "READ NEXT: 33 Stocks That Should Double in 3 Years and Cathie Wood 2026 Portfolio: 10 Best Stocks to Buy.",
+          "translation": "延伸閱讀：『33檔有望在三年內翻倍的股票』以及『凱西·伍德2026年投資組合：10檔最佳買進股票』。"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "今日台股大戶籌碼動向揭示了外資一場精密的產業板塊輪動與風險規避策略。在國際財經新聞揭露電動車產業深陷泥淖，Lucid Motors等新創公司面臨嚴重虧損與現金流壓力，甚至連傳統車廠福特、通用也認列巨額EV業務虧損之際，台股市場已見主力資金的提前部署。外資大舉賣超台積電、聯電、力積電等晶圓代工巨頭，並非單純的獲利了結，更像是對未來高階晶片需求可能受電動車市場疲軟影響的預警性撤出。與此同時，外資與自營商卻大買友達、群創等面板雙雄，以及南亞科、華邦電等記憶體廠。這股資金流向，暗示著大戶可能預見了傳統消費性電子（如PC、顯示器）市場的觸底反彈，或是將資金轉向估值相對較低、且與當前高風險科技領域關聯度較小的板塊。這種「棄高階晶圓、擁成熟面板與記憶體」的策略，恰好與國際電動車產業的利空消息形成微妙的對應。大戶的動作似乎在美股新聞見報前，已嗅到科技產業內部結構性調整的氣息，提前進行了避險與套利佈局，展現了其對全球供應鏈脈動的深度洞察力。"
+    "market_connection": "今日台股大戶籌碼動向與國際科技財經新聞之間，浮現了清晰的跨市場佈局邏輯。7月12日台股盤中，外資與自營商不約而同地對面板雙雄友達（2409）與群創（3481）展現巨額買超，其中美商高盛對友達的買盤尤其顯眼。同時，三大法人也同步加碼記憶體廠南亞科（2408）與華邦電（2344），投信更積極佈局PCB大廠南電（8046）、欣興（3037）以及封測龍頭日月光投控（3711）。這些資金流向，與台灣時間7月11日晚間發布的國際新聞形成巧妙呼應。儘管國際新聞並未直接提及面板或記憶體，但TTM Technologies（TTMI）獲分析師推薦，並強調其先進PCB、RF元件在汽車、資料中心、醫療及工業市場的應用，特別是其Mini-Xinger RF產品通過車規級AEC-Q200認證，暗示了全球對高可靠性電子元件需求的強勁趨勢。此一訊息，恰好為台股大戶對PCB、封測及記憶體的加碼提供了產業基本面支撐。大戶們顯然正提前卡位，預期終端應用（如車用電子、AI伺服器、消費性電子復甦）將帶動上游關鍵零組件的需求回溫。外資與自營商對面板股的瘋狂掃貨，更可能是對消費性電子市場觸底反彈的預期，或看好新興應用如車載顯示器的成長潛力。綜合來看，台股主力資金正從傳統產業及部分成熟製程晶圓代工（如聯電、力積電）撤出，轉而集中火力部署於具備週期性復甦潛力且與先進科技應用緊密相關的面板、記憶體及關鍵電子零組件供應鏈。這不僅是單純的產業輪動，更是一場對全球科技景氣拐點的精準押注。"
   }
 }
