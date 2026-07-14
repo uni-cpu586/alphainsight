@@ -1,378 +1,378 @@
 {
-  "date": "2026-07-13",
-  "stock_market_date": "2026-07-09",
+  "date": "2026-07-15",
+  "stock_market_date": "2026-07-14",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 188929276
-        },
-        {
-          "rank": 2,
           "stock_name": "長榮航",
           "ticker": "2618",
-          "net_buy_shares": 33990125
-        },
-        {
-          "rank": 3,
-          "stock_name": "台灣大",
-          "ticker": "3045",
-          "net_buy_shares": 24916183
-        },
-        {
-          "rank": 4,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 15430000
-        },
-        {
-          "rank": 5,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_buy_shares": 14906395
-        },
-        {
-          "rank": 6,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 11749381
-        },
-        {
-          "rank": 7,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_buy_shares": 10471636
-        },
-        {
-          "rank": 8,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_buy_shares": 9364709
-        },
-        {
-          "rank": 9,
-          "stock_name": "盛群",
-          "ticker": "6202",
-          "net_buy_shares": 8459980
-        },
-        {
-          "rank": 10,
-          "stock_name": "晶豪科",
-          "ticker": "3006",
-          "net_buy_shares": 8259183
-        }
-      ],
-      "foreign_sell": [
-        {
-          "rank": 1,
-          "stock_name": "中石化",
-          "ticker": "1314",
-          "net_sell_shares": -43162459
+          "net_buy_shares": 45290931
         },
         {
           "rank": 2,
-          "stock_name": "台泥",
-          "ticker": "1101",
-          "net_sell_shares": -29874693
-        },
-        {
-          "rank": 3,
-          "stock_name": "台化",
-          "ticker": "1326",
-          "net_sell_shares": -23859329
-        },
-        {
-          "rank": 4,
           "stock_name": "台塑",
           "ticker": "1301",
-          "net_sell_shares": -17426486
-        },
-        {
-          "rank": 5,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_sell_shares": -15563411
-        },
-        {
-          "rank": 6,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -15378910
-        },
-        {
-          "rank": 7,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -14793479
-        },
-        {
-          "rank": 8,
-          "stock_name": "新纖",
-          "ticker": "1409",
-          "net_sell_shares": -14440688
-        },
-        {
-          "rank": 9,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_sell_shares": -13386613
-        },
-        {
-          "rank": 10,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -12748541
-        }
-      ],
-      "trust_buy": [
-        {
-          "rank": 1,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 13124355
-        },
-        {
-          "rank": 2,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 8116730
+          "net_buy_shares": 37604287
         },
         {
           "rank": 3,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 5761844
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 37538088
         },
         {
           "rank": 4,
           "stock_name": "遠東新",
           "ticker": "1402",
-          "net_buy_shares": 4816398
+          "net_buy_shares": 22684364
         },
         {
           "rank": 5,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_buy_shares": 4323810
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 18799077
         },
         {
           "rank": 6,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 3250000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 15733355
         },
         {
           "rank": 7,
+          "stock_name": "台化",
+          "ticker": "1326",
+          "net_buy_shares": 13945417
+        },
+        {
+          "rank": 8,
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_buy_shares": 11284340
+        },
+        {
+          "rank": 9,
+          "stock_name": "聯合再生",
+          "ticker": "3576",
+          "net_buy_shares": 11112728
+        },
+        {
+          "rank": 10,
+          "stock_name": "台虹",
+          "ticker": "8039",
+          "net_buy_shares": 10613132
+        }
+      ],
+      "foreign_sell": [
+        {
+          "rank": 1,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_buy_shares": 2875000
-        },
-        {
-          "rank": 8,
-          "stock_name": "南電",
-          "ticker": "8046",
-          "net_buy_shares": 2798000
-        },
-        {
-          "rank": 9,
-          "stock_name": "欣興",
-          "ticker": "3037",
-          "net_buy_shares": 2705259
-        },
-        {
-          "rank": 10,
-          "stock_name": "英業達",
-          "ticker": "2356",
-          "net_buy_shares": 2054120
-        }
-      ],
-      "trust_sell": [
-        {
-          "rank": 1,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_sell_shares": -2882522
+          "net_sell_shares": -92602009
         },
         {
           "rank": 2,
-          "stock_name": "金像電",
-          "ticker": "2368",
-          "net_sell_shares": -2377721
-        },
-        {
-          "rank": 3,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_sell_shares": -1902792
-        },
-        {
-          "rank": 4,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_sell_shares": -1073841
-        },
-        {
-          "rank": 5,
-          "stock_name": "群益證",
-          "ticker": "6005",
-          "net_sell_shares": -692118
-        },
-        {
-          "rank": 6,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -621000
-        },
-        {
-          "rank": 7,
-          "stock_name": "漢唐",
-          "ticker": "2404",
-          "net_sell_shares": -564000
-        },
-        {
-          "rank": 8,
-          "stock_name": "可寧衛*",
-          "ticker": "8422",
-          "net_sell_shares": -554000
-        },
-        {
-          "rank": 9,
-          "stock_name": "富世達",
-          "ticker": "6805",
-          "net_sell_shares": -553000
-        },
-        {
-          "rank": 10,
-          "stock_name": "帆宣",
-          "ticker": "6196",
-          "net_sell_shares": -553000
-        }
-      ],
-      "dealer_buy": [
-        {
-          "rank": 1,
           "stock_name": "友達",
           "ticker": "2409",
-          "net_buy_shares": 4646000
-        },
-        {
-          "rank": 2,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 1620701
+          "net_sell_shares": -24381639
         },
         {
           "rank": 3,
           "stock_name": "南亞",
           "ticker": "1303",
-          "net_buy_shares": 1393007
+          "net_sell_shares": -22778115
         },
         {
           "rank": 4,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 1060901
+          "stock_name": "南茂",
+          "ticker": "8150",
+          "net_sell_shares": -20430643
         },
         {
           "rank": 5,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 907241
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_sell_shares": -17376335
         },
         {
           "rank": 6,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_buy_shares": 609286
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_sell_shares": -16788166
         },
         {
           "rank": 7,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 528559
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_sell_shares": -16215017
         },
         {
           "rank": 8,
-          "stock_name": "上海商銀",
-          "ticker": "5876",
-          "net_buy_shares": 389000
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -12416209
         },
         {
           "rank": 9,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_buy_shares": 380473
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -11710678
         },
         {
           "rank": 10,
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_sell_shares": -11473831
+        }
+      ],
+      "trust_buy": [
+        {
+          "rank": 1,
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 11984480
+        },
+        {
+          "rank": 2,
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 11563015
+        },
+        {
+          "rank": 3,
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_buy_shares": 6650000
+        },
+        {
+          "rank": 4,
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 5804000
+        },
+        {
+          "rank": 5,
           "stock_name": "英業達",
           "ticker": "2356",
-          "net_buy_shares": 326003
+          "net_buy_shares": 4303736
+        },
+        {
+          "rank": 6,
+          "stock_name": "台勝科",
+          "ticker": "3532",
+          "net_buy_shares": 4056000
+        },
+        {
+          "rank": 7,
+          "stock_name": "廣達",
+          "ticker": "2382",
+          "net_buy_shares": 3549395
+        },
+        {
+          "rank": 8,
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 3201567
+        },
+        {
+          "rank": 9,
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_buy_shares": 2361907
+        },
+        {
+          "rank": 10,
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 2345338
+        }
+      ],
+      "trust_sell": [
+        {
+          "rank": 1,
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_sell_shares": -14555000
+        },
+        {
+          "rank": 2,
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -6181230
+        },
+        {
+          "rank": 3,
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -5710397
+        },
+        {
+          "rank": 4,
+          "stock_name": "日電貿",
+          "ticker": "3090",
+          "net_sell_shares": -4124000
+        },
+        {
+          "rank": 5,
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_sell_shares": -2756000
+        },
+        {
+          "rank": 6,
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_sell_shares": -2472000
+        },
+        {
+          "rank": 7,
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_sell_shares": -2289819
+        },
+        {
+          "rank": 8,
+          "stock_name": "禾伸堂",
+          "ticker": "3026",
+          "net_sell_shares": -1457000
+        },
+        {
+          "rank": 9,
+          "stock_name": "台表科",
+          "ticker": "6278",
+          "net_sell_shares": -1249000
+        },
+        {
+          "rank": 10,
+          "stock_name": "矽力*-KY",
+          "ticker": "6415",
+          "net_sell_shares": -1109000
+        }
+      ],
+      "dealer_buy": [
+        {
+          "rank": 1,
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 4047801
+        },
+        {
+          "rank": 2,
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 2275396
+        },
+        {
+          "rank": 3,
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_buy_shares": 901000
+        },
+        {
+          "rank": 4,
+          "stock_name": "三商壽",
+          "ticker": "2867",
+          "net_buy_shares": 767000
+        },
+        {
+          "rank": 5,
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_buy_shares": 692522
+        },
+        {
+          "rank": 6,
+          "stock_name": "台橡",
+          "ticker": "2103",
+          "net_buy_shares": 653000
+        },
+        {
+          "rank": 7,
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 617975
+        },
+        {
+          "rank": 8,
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 562260
+        },
+        {
+          "rank": 9,
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 553853
+        },
+        {
+          "rank": 10,
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_buy_shares": 492771
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "中華電",
-          "ticker": "2412",
-          "net_sell_shares": -10879128
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -7127000
         },
         {
           "rank": 2,
-          "stock_name": "台灣大",
-          "ticker": "3045",
-          "net_sell_shares": -3594948
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -2759000
         },
         {
           "rank": 3,
-          "stock_name": "中石化",
-          "ticker": "1314",
-          "net_sell_shares": -1741388
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_sell_shares": -1993201
         },
         {
           "rank": 4,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_sell_shares": -1355575
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_sell_shares": -1290000
         },
         {
           "rank": 5,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -1133130
+          "stock_name": "承啟",
+          "ticker": "2425",
+          "net_sell_shares": -1259000
         },
         {
           "rank": 6,
-          "stock_name": "健鼎",
-          "ticker": "3044",
-          "net_sell_shares": -683424
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -1094000
         },
         {
           "rank": 7,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -671000
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_sell_shares": -977645
         },
         {
           "rank": 8,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_sell_shares": -668000
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_sell_shares": -749000
         },
         {
           "rank": 9,
-          "stock_name": "華新科",
-          "ticker": "2492",
-          "net_sell_shares": -509379
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -607285
         },
         {
           "rank": 10,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_sell_shares": -459485
+          "stock_name": "聯發科",
+          "ticker": "2454",
+          "net_sell_shares": -531699
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "友達",
-        "shares": 66125246
+        "target": "長榮航",
+        "shares": 15851825
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "友達",
-        "shares": 1858400
+        "target": "元大台灣50",
+        "shares": 1619120
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "台新新光金",
-        "shares": 5905959
+        "target": "南亞",
+        "shares": 5393016
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "中石化",
-        "shares": 12948737
+        "target": "元大台灣50",
+        "shares": 27780602
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Big fast-food burger chain franchisee files Chapter 11 bankruptcy",
+      "title": "Target's problems aren't what you think they are",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/big-fast-food-burger-chain-164700124.html",
-      "summary": "Big fast-food burger chain franchisee files Chapter 11 bankruptcy",
-      "full_text": "A lender dispute over millions of dollars has led a Hardee's restaurant franchisee to file for bankruptcy to invoke an automatic stay of all legal actions against the debtor.\n\nHardee's restaurant franchisee Superior Star LLC filed for Chapter 11 bankruptcy protection, facing an alleged seller financing dispute, according to court papers.\n\nThe Phoenix-based franchisee filed its petition in the U.S. Bankruptcy Court for the Western District of Kentucky on July 9, listing $10 million to $50 million in assets and liabilities, according to PacerMonitor.\n\nThe debtor's largest creditors include Starcorp LLC, owed $7.04 million in a disputed seller note subject to setoff; Lionsgate Investment, owed over $184,000 in terminated leases; Kosmides Family Trust, owed over $147,000 in a settlement; FJ Enterprises LLC, owed over $144,000 in a settlement agreement; McLane Company Inc., owed over $138,000 for food products; and MB2K LLC, owed over $123,000 in rent, according to court papers.\n\nSuperior Star, which purchased 93 Hardee's locations in 10 states from Starcorp in 2023, currently operates 59 locations in Midwestern states. The company closed about 12 locations in 2025, according to Nation's Restaurant News.\n\nThe debtor and Starcorp are entangled in a financing dispute over a $7.04 million seller note.\n\n\"We are aware that Hardee's franchisee Superior Star, which independently owns and operates certain Hardee's restaurants primarily in the Midwest region, has filed a voluntary petition for relief under Chapter 11 of the U.S. bankruptcy code,\" franchisor Hardee's said in a statement.\n\n\"Superior Star's decision to file is based on its own specific financial and business circumstances. We remain focused on continuing to strengthen the Hardee's system and deliver quality experiences for our guests,\" Hardee's said.",
-      "published": "2026-07-11T16:47:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/targets-problems-arent-think-201058966.html",
+      "summary": "Target's problems aren't what you think they are",
+      "full_text": "When Target CEO Michael Fiddelke took over the struggling company in February, he faced a daunting task. Not only did he have to reverse a sales slide, but the new boss also had to change how consumers saw the brand.\n\nConservative shoppers viewed the brand as \"woke\" because of its DEI policies, bathroom rules, and Pride merchandise. Liberal shoppers watched Target abandon some of those things, leaving the company to anger customers on both ends of the political spectrum.\n\nThat wasn't the chain's biggest problem, according to GlobalData Managing Director Neil Saunders. He believes Target's lackluster sales had more to do with failing on execution than being caught up in cultural issues like DEI.\n\n\"As important as that matter is, and as much as it does have some impact, it has never been the main issue,\" Saunders wrote, according to the Associated Press.\n\nSujeet Naik, an analyst at Coresight, did an interview with TheStreet looking at the changes Target has made and where the company stands now.\n\nSujeet Naik: I would say no. Headlines were exaggerated, but Target is not facing any existential crisis. It just lost momentum over the past few years while Walmart and Amazon kept widening their advantages.\n\nSales slowed, traffic weakened, shoppers questioned its value proposition, and the company became caught up in political debates that distracted from the business. At the same time, execution slipped as many customers increasingly complained about out-of-stocks, messy stores and inconsistent shopping experiences.\n\nThe encouraging part is that consumers haven't abandoned Target. In our Back-to-School survey, it remains the second most popular destination after Walmart, narrowly ahead of Amazon.",
+      "published": "2026-07-13T20:10:58Z"
     },
     {
       "id": "news_2",
-      "title": "Dow Jones Futures Fall, Oil Prices Rise Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
+      "title": "Market Favored Fortune Brands Innovations (FBIN) Despite Soft Earnings",
       "source": "Yahoo Finance",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/?src=A00220&yptr=yahoo",
-      "summary": "Dow Jones Futures Fall, Oil Prices Rise Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
-      "full_text": "Dow Jones Futures Fall, Oil Prices Rise Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
-      "published": "2026-07-12T22:19:24Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-favored-fortune-brands-innovations-142702248.html",
+      "summary": "Market Favored Fortune Brands Innovations (FBIN) Despite Soft Earnings",
+      "full_text": "Longleaf Partners, managed by Southeastern Asset Management, released its second-quarter 2026 investor letter for its \"Partners Fund\". A copy of the letter can be downloaded here. The letter states that the portfolio holdings are attractive now based on both P/V and P/FCF metrics. However, the Fund returned 3.87% in the quarter, significantly lagging the S&P 500's 15.20% return and the Russell 1000 Value Index's 13.87% gain. An underweight in Information Technology (IT) primarily contributed to the underperformance.  The market's preference for overvalued stocks in Industrials and other sectors led to inflated multiples, overshadowing real earnings power. The Firm's investment approach focuses on median, unweighted multiples, prioritizing growth in free cash flow per share, the potential for multiple expansion, and strategic initiatives. In addition, please check the Fund's top five holdings to know its best picks in 2026.\n\nIn its Q2 2026 investor letter, Longleaf Partners Fund highlighted Fortune Brands Innovations, Inc. (NYSE:FBIN). Headquartered in Deerfield, Illinois, Fortune Brands Innovations, Inc. (NYSE:FBIN) is a leading provider of home, security products and outdoor products for repair, remodeling, new construction, and security applications. On July 10, 2026, Fortune Brands Innovations, Inc. (NYSE:FBIN) closed at $51.61 per share. One-month return of Fortune Brands Innovations, Inc. (NYSE:FBIN) was 18.67%, and its shares lost 6.02% over the past 52 weeks. Fortune Brands Innovations, Inc. (NYSE:FBIN) has a market capitalization of $6.15 billion.\n\nLongleaf Partners Fund stated the following regarding Fortune Brands Innovations, Inc. (NYSE:FBIN) in its Q2 2026 investor update:\n\n\"Fortune Brands Innovations, Inc. (NYSE:FBIN) – Building products company Fortune Brands contributed for the quarter. While the company reported relatively underwhelming results, these were ultimately overshadowed by two factors. First, the company announced it was exploring strategic alternatives for its Fiberon business, which we think is a wise move. Second and later in the quarter, the company, led by new board member Ed Garden and Chair Susan Kilsby, successfully recruited Jesse Singh, former AZEK CEO, to lead Fortune Brands. Singh's tenure at AZEK resulted in strong organic growth, improved margins, share repurchases and ultimately a sale to James Hardie at 20x EBITDA. Fortune Brands has also retained Dave Berry (interim CEO) as COO. Dave has served as both CFO and in operational roles at FBIN, and his continuity and partnership with Jesse should produce a very capable team.\"\n\nFortune Brands Innovations, Inc. (NYSE:FBIN) is not on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026. According to our database, 43 hedge fund portfolios held Fortune Brands Innovations, Inc. (NYSE:FBIN) at the end of the first quarter, compared to 35 in the previous quarter. In Q1 2026, Fortune Brands Innovations, Inc. (NYSE:FBIN) reported sales of $1 billion, down 2% year-over-year. While we acknowledge the potential of Fortune Brands Innovations, Inc. (NYSE:FBIN) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nIn another article, we covered Fortune Brands Innovations, Inc. (NYSE:FBIN) and shared Schafer Cullen Capital Small Cap Value Equity Strategy's views on the company. In addition, please check out our hedge fund investor letters Q2 2026 page for more investor letters from hedge funds and other leading investors.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
+      "published": "2026-07-13T14:27:02Z"
     },
     {
       "id": "news_3",
-      "title": "Elon Musk roasts OpenAI's Apple lawsuit — but Altman hits back: 'You're the one selling investors on space datacenters'",
+      "title": "Thanks to Escalating Iran Tensions, Delta Air Lines Stock Could Face Turbulence. How to Trade It Here.",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-roasts-openais-apple-191500316.html",
-      "summary": "Elon Musk roasts OpenAI's Apple lawsuit — but Altman hits back: 'You're the one selling investors on space datacenters'",
-      "full_text": "When Apple sued OpenAI on July 10 for allegedly stealing its hardware secrets, it handed Elon Musk a fresh reason to go after Sam Altman — and this time the two billionaires' feud is playing out over companies that everyday investors can now actually own.\n\nMusk, an OpenAI co-founder-turned-rival who runs the newly public SpaceX and its xAI unit, pounced almost immediately. He resurfaced a post branding Altman \"Scam Altman\" (1) and added that Altman takes scamming to a whole new level. In a separate jab tied to Apple's complaint, Musk accused Altman of graduating from \"stealing an open source AI charity\" (2) to trying to steal all of Apple's phone technology.\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake — here's what it is and 3 simple steps to fix it ASAP\n\nMillionaires under 43 hold only 25% of their wealth in stocks. Here's where their money is actually going\n\nAltman fired back at Musk directly, posting: (3)\"homeboy you're the one selling public market investors on short-term space datacenters\" — a shot at the orbital data centers Musk has pitched as a fix for AI's massive energy demands. He also worked in a boast about OpenAI's latest model, writing that (4) \"there are a lot of benchmarks that suggest 5.6 sol is the best model in the world right now, but the most reliable way to tell is that elon is obsessed with me again.\"\n\nMusk's dig at Altman is aimed at a company racing toward its own IPO. OpenAI confirmed in June (5) that it had confidentially filed draft paperwork, and reports point to a listing that could value it above $1 trillion, though the company's finance chief has signaled the timing may slip to late 2026 or 2027. Altman's dig at Musk is aimed at a company investors can buy right now. SpaceX went public (6) on June 12 in the largest IPO in history, pricing at $135 a share and closing its first full trading day worth roughly $2 trillion.\n\nUnlike most blockbuster offerings, SpaceX handed a big slice to regular people. It targeted about 30% (7) — against the 5% to 10% typical of major listings — and ended up allocating roughly 20% (8) to individual investors globally, distributed through retail brokerages including Robinhood, Fidelity, Charles Schwab, SoFi and E*TRADE.",
-      "published": "2026-07-12T19:15:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/thanks-escalating-iran-tensions-delta-142103671.html",
+      "summary": "Thanks to Escalating Iran Tensions, Delta Air Lines Stock Could Face Turbulence. How to Trade It Here.",
+      "full_text": "Following a much-needed but tenuous Iran peace deal, tensions are again rising in the region. Over the weekend, the New York Times reported that the Iranian navy attacked a container ship in the Strait of Hormuz while also threatening to close the critical waterway. With U.S. forces launching a strike in response, the situation for Delta Air Lines (DAL) appears unfavorable.\n\nYes, DAL stock currently carries an 88% Strong Buy rating from Barchart's Technical Opinion indicator. However, there may be early signs that the positive inertia of the security may be fading. For example, it's true that Delta has gained nearly 26% on a year-to-date basis. It's also true, though, that it's down more than 6% in the trailing five sessions.\n\nNvidia Stock Has Been Flat, But NVDA Price Targets are Higher - Shorting Puts Works\n\nNow, there's a risk in overplaying this hand — it's certainly possible that the Trump administration backs down from this escalating conflict, which is deeply unpopular with the American people. At the same time, the Iranians have little reason to trust the White House, making this circumstance incredibly difficult to play.\n\nFor what it's worth, DAL stock — if we're going to talk about technical analysis — does appear to be in the middle of charting a head-and-shoulders pattern. Per the experts of the discipline, such a signal carries a greater probability of a downward move. Essentially, the \"mountain peak\" formation represents the exhaustion of the bulls, leading to a corrective phase.\n\nWhile the head-and-shoulders pattern might be intriguing, it's difficult to verify the implied probability of the signal because of a lack of standardized definition. And since we don't have objective quantifications available, we don't know the base rate to determine the odds. One solution, then, is to condition data on quantitative structures.\n\nFor example, DAL stock is currently in a state of transition. While the longer-term framework appears bullish, recent sessions appear bearish. In the last 10 weeks, six of these units were up weeks, thereby leading to an overall upward slope. While this 6-4-U sequence — which has materialized 59 times on a rolling basis since January 2019 — appears optimistic, the resultant distribution of outcomes tends to be disappointing.\n\nOver the next 10 weeks, traders may expect a forward median distribution landing between $82.50 and $92.40 (assuming a starting price of $87.39), with probability density peaking at around $87. That means debit-side speculators are statistically prone to incur a slight loss over a 10-week hold.",
+      "published": "2026-07-13T14:21:03Z"
     }
   ]
 }
