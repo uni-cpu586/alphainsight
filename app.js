@@ -402,6 +402,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const quizFinalScoreEl = document.getElementById("quiz-final-score");
 
     // Load Vocabulary Bank
+    let editingIndex = null;
     let vocabBank = [];
     try {
         const storedVocab = localStorage.getItem("alphainsight_vocab_bank");
@@ -423,19 +424,87 @@ document.addEventListener("DOMContentLoaded", () => {
                 vocabListContainer.innerHTML = '<p class="vocab-empty-msg">單字庫目前是空的。請在「筆記編輯」中寫下單字後歸檔，或點選匯入。</p>';
             } else {
                 vocabListContainer.innerHTML = "";
-                // Sort alphabetically by word
-                const sortedVocab = [...vocabBank].sort((a, b) => a.word.localeCompare(b.word));
-                sortedVocab.forEach(item => {
+                
+                // Render from newest to oldest (chronological order)
+                for (let i = vocabBank.length - 1; i >= 0; i--) {
+                    const item = vocabBank[i];
                     const chip = document.createElement("div");
-                    chip.className = "vocab-chip";
-                    chip.innerHTML = `
-                        <span class="vocab-chip-word">${item.word}</span>
-                        <span class="vocab-chip-meaning">${item.meaning}</span>
-                    `;
+                    
+                    if (editingIndex === i) {
+                        chip.className = "vocab-chip editing";
+                        chip.innerHTML = `
+                            <input type="text" class="vocab-edit-input word-input" value="${item.word}" placeholder="單字" />
+                            <input type="text" class="vocab-edit-input meaning-input" value="${item.meaning}" placeholder="中文意思" />
+                            <div class="vocab-edit-actions">
+                                <button class="vocab-edit-btn save-btn" data-index="${i}" title="儲存"><i class="fa-solid fa-check"></i> 儲存</button>
+                                <button class="vocab-edit-btn cancel-btn" data-index="${i}" title="取消"><i class="fa-solid fa-xmark"></i> 取消</button>
+                            </div>
+                        `;
+                    } else {
+                        chip.className = "vocab-chip";
+                        chip.innerHTML = `
+                            <span class="vocab-chip-word">${item.word}</span>
+                            <span class="vocab-chip-meaning">${item.meaning}</span>
+                            <div class="vocab-actions">
+                                <button class="vocab-action-btn edit-btn" data-index="${i}" title="修改"><i class="fa-solid fa-pen"></i></button>
+                                <button class="vocab-action-btn delete-btn" data-index="${i}" title="刪除"><i class="fa-solid fa-trash"></i></button>
+                            </div>
+                        `;
+                    }
                     vocabListContainer.appendChild(chip);
-                });
+                }
             }
         }
+    }
+
+    // Vocabulary List Event Delegation (Edit, Delete, Save, Cancel)
+    if (vocabListContainer) {
+        vocabListContainer.addEventListener("click", (e) => {
+            const editBtn = e.target.closest(".edit-btn");
+            const deleteBtn = e.target.closest(".delete-btn");
+            const saveBtn = e.target.closest(".save-btn");
+            const cancelBtn = e.target.closest(".cancel-btn");
+            
+            if (editBtn) {
+                const index = parseInt(editBtn.getAttribute("data-index"), 10);
+                editingIndex = index;
+                renderVocabBank();
+            } else if (deleteBtn) {
+                const index = parseInt(deleteBtn.getAttribute("data-index"), 10);
+                const item = vocabBank[index];
+                if (confirm(`您確定要刪除單字「${item.word}」嗎？`)) {
+                    vocabBank.splice(index, 1);
+                    if (editingIndex === index) {
+                        editingIndex = null;
+                    } else if (editingIndex > index) {
+                        editingIndex--;
+                    }
+                    saveVocabBank();
+                }
+            } else if (saveBtn) {
+                const index = parseInt(saveBtn.getAttribute("data-index"), 10);
+                const chipEl = saveBtn.closest(".vocab-chip");
+                const wordInput = chipEl.querySelector(".word-input");
+                const meaningInput = chipEl.querySelector(".meaning-input");
+                
+                const newWord = wordInput.value.trim();
+                const newMeaning = meaningInput.value.trim();
+                
+                if (!newWord || !newMeaning) {
+                    alert("單字與中文意思皆不能為空！");
+                    return;
+                }
+                
+                vocabBank[index].word = newWord;
+                vocabBank[index].meaning = newMeaning;
+                
+                editingIndex = null;
+                saveVocabBank();
+            } else if (cancelBtn) {
+                editingIndex = null;
+                renderVocabBank();
+            }
+        });
     }
 
     // Parser for Sandbox Notes
@@ -661,6 +730,9 @@ document.addEventListener("DOMContentLoaded", () => {
     if (sandboxTabBtns) {
         sandboxTabBtns.forEach(btn => {
             btn.addEventListener("click", () => {
+                // Reset editing state when switching sub-tabs
+                editingIndex = null;
+
                 const targetTab = btn.getAttribute("data-sandbox-tab");
                 
                 // Toggle active tab class
@@ -871,6 +943,9 @@ document.addEventListener("DOMContentLoaded", () => {
         const applyView = (view) => {
             // Stop speech when view changes
             stopSpeech();
+
+            // Reset editing state when view changes
+            editingIndex = null;
 
             // Remove all view classes from appMainEl
             appMainEl.classList.remove("view-morning", "view-english", "view-night", "view-sandbox");
