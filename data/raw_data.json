@@ -1,130 +1,130 @@
 {
-  "date": "2026-07-15",
-  "stock_market_date": "2026-07-14",
+  "date": "2026-07-16",
+  "stock_market_date": "2026-07-15",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 45290931
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 54266490
         },
         {
           "rank": 2,
-          "stock_name": "台塑",
-          "ticker": "1301",
-          "net_buy_shares": 37604287
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 34254143
         },
         {
           "rank": 3,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 37538088
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 24136667
         },
         {
           "rank": 4,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_buy_shares": 22684364
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 23355193
         },
         {
           "rank": 5,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 18799077
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 21951009
         },
         {
           "rank": 6,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 15733355
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_buy_shares": 18822218
         },
         {
           "rank": 7,
-          "stock_name": "台化",
-          "ticker": "1326",
-          "net_buy_shares": 13945417
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 18332769
         },
         {
           "rank": 8,
-          "stock_name": "台塑化",
-          "ticker": "6505",
-          "net_buy_shares": 11284340
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_buy_shares": 17116229
         },
         {
           "rank": 9,
-          "stock_name": "聯合再生",
-          "ticker": "3576",
-          "net_buy_shares": 11112728
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 14945884
         },
         {
           "rank": 10,
-          "stock_name": "台虹",
-          "ticker": "8039",
-          "net_buy_shares": 10613132
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_buy_shares": 13345335
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -92602009
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -33890584
         },
         {
           "rank": 2,
           "stock_name": "友達",
           "ticker": "2409",
-          "net_sell_shares": -24381639
+          "net_sell_shares": -26910392
         },
         {
           "rank": 3,
           "stock_name": "南亞",
           "ticker": "1303",
-          "net_sell_shares": -22778115
+          "net_sell_shares": -24013718
         },
         {
           "rank": 4,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_sell_shares": -20430643
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_sell_shares": -13228242
         },
         {
           "rank": 5,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_sell_shares": -17376335
+          "stock_name": "友訊",
+          "ticker": "2332",
+          "net_sell_shares": -10339553
         },
         {
           "rank": 6,
-          "stock_name": "亞泥",
-          "ticker": "1102",
-          "net_sell_shares": -16788166
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_sell_shares": -9538900
         },
         {
           "rank": 7,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_sell_shares": -16215017
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -8696838
         },
         {
           "rank": 8,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -12416209
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_sell_shares": -8603460
         },
         {
           "rank": 9,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -11710678
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -7986604
         },
         {
           "rank": 10,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_sell_shares": -11473831
+          "stock_name": "新纖",
+          "ticker": "1409",
+          "net_sell_shares": -7617225
         }
       ],
       "trust_buy": [
@@ -132,61 +132,61 @@
           "rank": 1,
           "stock_name": "南亞",
           "ticker": "1303",
-          "net_buy_shares": 11984480
+          "net_buy_shares": 18605187
         },
         {
           "rank": 2,
           "stock_name": "台新新光金",
           "ticker": "2887",
-          "net_buy_shares": 11563015
+          "net_buy_shares": 8023938
         },
         {
           "rank": 3,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_buy_shares": 6650000
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 5422340
         },
         {
           "rank": 4,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_buy_shares": 5804000
+          "net_buy_shares": 4925000
         },
         {
           "rank": 5,
-          "stock_name": "英業達",
-          "ticker": "2356",
-          "net_buy_shares": 4303736
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 3027423
         },
         {
           "rank": 6,
-          "stock_name": "台勝科",
-          "ticker": "3532",
-          "net_buy_shares": 4056000
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_buy_shares": 2675000
         },
         {
           "rank": 7,
-          "stock_name": "廣達",
-          "ticker": "2382",
-          "net_buy_shares": 3549395
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_buy_shares": 2574262
         },
         {
           "rank": 8,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 3201567
+          "stock_name": "欣興",
+          "ticker": "3037",
+          "net_buy_shares": 2539189
         },
         {
           "rank": 9,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_buy_shares": 2361907
+          "stock_name": "廣達",
+          "ticker": "2382",
+          "net_buy_shares": 2527256
         },
         {
           "rank": 10,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 2345338
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_buy_shares": 2390000
         }
       ],
       "trust_sell": [
@@ -194,185 +194,185 @@
           "rank": 1,
           "stock_name": "華航",
           "ticker": "2610",
-          "net_sell_shares": -14555000
+          "net_sell_shares": -14862450
         },
         {
           "rank": 2,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -6181230
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_sell_shares": -8705929
         },
         {
           "rank": 3,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -5710397
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_sell_shares": -3007000
         },
         {
           "rank": 4,
-          "stock_name": "日電貿",
-          "ticker": "3090",
-          "net_sell_shares": -4124000
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_sell_shares": -2955009
         },
         {
           "rank": 5,
-          "stock_name": "強茂",
-          "ticker": "2481",
-          "net_sell_shares": -2756000
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_sell_shares": -2695428
         },
         {
           "rank": 6,
-          "stock_name": "華新科",
-          "ticker": "2492",
-          "net_sell_shares": -2472000
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -2237479
         },
         {
           "rank": 7,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_sell_shares": -2289819
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_sell_shares": -1528536
         },
         {
           "rank": 8,
-          "stock_name": "禾伸堂",
-          "ticker": "3026",
-          "net_sell_shares": -1457000
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_sell_shares": -1321959
         },
         {
           "rank": 9,
-          "stock_name": "台表科",
-          "ticker": "6278",
-          "net_sell_shares": -1249000
+          "stock_name": "金像電",
+          "ticker": "2368",
+          "net_sell_shares": -1170706
         },
         {
           "rank": 10,
-          "stock_name": "矽力*-KY",
-          "ticker": "6415",
-          "net_sell_shares": -1109000
+          "stock_name": "台表科",
+          "ticker": "6278",
+          "net_sell_shares": -1136000
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 4047801
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_buy_shares": 7961000
         },
         {
           "rank": 2,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 2275396
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 5874305
         },
         {
           "rank": 3,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_buy_shares": 901000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 5570237
         },
         {
           "rank": 4,
-          "stock_name": "三商壽",
-          "ticker": "2867",
-          "net_buy_shares": 767000
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 2777890
         },
         {
           "rank": 5,
-          "stock_name": "華新科",
-          "ticker": "2492",
-          "net_buy_shares": 692522
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 2195302
         },
         {
           "rank": 6,
-          "stock_name": "台橡",
-          "ticker": "2103",
-          "net_buy_shares": 653000
+          "stock_name": "三商壽",
+          "ticker": "2867",
+          "net_buy_shares": 1540000
         },
         {
           "rank": 7,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 617975
+          "stock_name": "新唐",
+          "ticker": "4919",
+          "net_buy_shares": 1347000
         },
         {
           "rank": 8,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 562260
+          "stock_name": "微星",
+          "ticker": "2377",
+          "net_buy_shares": 1081000
         },
         {
           "rank": 9,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 553853
+          "stock_name": "金寶",
+          "ticker": "2312",
+          "net_buy_shares": 1055000
         },
         {
           "rank": 10,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_buy_shares": 492771
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 1032159
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -7127000
+          "stock_name": "英業達",
+          "ticker": "2356",
+          "net_sell_shares": -3527980
         },
         {
           "rank": 2,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -2759000
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_sell_shares": -1800366
         },
         {
           "rank": 3,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_sell_shares": -1993201
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -1623480
         },
         {
           "rank": 4,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_sell_shares": -1290000
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -1395000
         },
         {
           "rank": 5,
-          "stock_name": "承啟",
-          "ticker": "2425",
-          "net_sell_shares": -1259000
+          "stock_name": "晶技",
+          "ticker": "3042",
+          "net_sell_shares": -1090666
         },
         {
           "rank": 6,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -1094000
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -931167
         },
         {
           "rank": 7,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_sell_shares": -977645
+          "stock_name": "文曄",
+          "ticker": "3036",
+          "net_sell_shares": -850415
         },
         {
           "rank": 8,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_sell_shares": -749000
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_sell_shares": -793993
         },
         {
           "rank": 9,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -607285
+          "stock_name": "聯茂",
+          "ticker": "6213",
+          "net_sell_shares": -651935
         },
         {
           "rank": 10,
-          "stock_name": "聯發科",
-          "ticker": "2454",
-          "net_sell_shares": -531699
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_sell_shares": -584000
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "長榮航",
-        "shares": 15851825
+        "target": "力積電",
+        "shares": 18993271
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "元大台灣50",
-        "shares": 1619120
+        "target": "台玻",
+        "shares": 3184400
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
         "target": "南亞",
-        "shares": 5393016
+        "shares": 8372334
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "元大台灣50",
-        "shares": 27780602
+        "target": "群創",
+        "shares": 10167175
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Target's problems aren't what you think they are",
+      "title": "Microsoft CEO adds fuel to Palantir CEO’s AI warning",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/targets-problems-arent-think-201058966.html",
-      "summary": "Target's problems aren't what you think they are",
-      "full_text": "When Target CEO Michael Fiddelke took over the struggling company in February, he faced a daunting task. Not only did he have to reverse a sales slide, but the new boss also had to change how consumers saw the brand.\n\nConservative shoppers viewed the brand as \"woke\" because of its DEI policies, bathroom rules, and Pride merchandise. Liberal shoppers watched Target abandon some of those things, leaving the company to anger customers on both ends of the political spectrum.\n\nThat wasn't the chain's biggest problem, according to GlobalData Managing Director Neil Saunders. He believes Target's lackluster sales had more to do with failing on execution than being caught up in cultural issues like DEI.\n\n\"As important as that matter is, and as much as it does have some impact, it has never been the main issue,\" Saunders wrote, according to the Associated Press.\n\nSujeet Naik, an analyst at Coresight, did an interview with TheStreet looking at the changes Target has made and where the company stands now.\n\nSujeet Naik: I would say no. Headlines were exaggerated, but Target is not facing any existential crisis. It just lost momentum over the past few years while Walmart and Amazon kept widening their advantages.\n\nSales slowed, traffic weakened, shoppers questioned its value proposition, and the company became caught up in political debates that distracted from the business. At the same time, execution slipped as many customers increasingly complained about out-of-stocks, messy stores and inconsistent shopping experiences.\n\nThe encouraging part is that consumers haven't abandoned Target. In our Back-to-School survey, it remains the second most popular destination after Walmart, narrowly ahead of Amazon.",
-      "published": "2026-07-13T20:10:58Z"
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-adds-fuel-palantir-030700396.html",
+      "summary": "Microsoft CEO adds fuel to Palantir CEO’s AI warning",
+      "full_text": "It turns out that Palantir (PLTR) CEO Alex Karp's thunderous warning about the AI industry wasn't a one-off rant.\n\nOver the past couple of years, the word \"AI\" has become like a broken record, heard at least once almost every day, often followed by a wave of anxiety.\n\nWhat has happened amid all the FOMO and paranoia is that users have begun sharing virtually everything deemed \"confidential\" under the sun in search of answers.\n\nMicrosoft (MSFT) CEO Satya Nadella has now raised a strikingly similar concern in a recent blog post on Sn Scratchpad.\n\nBusinesses pay for intelligence, but for that to be useful, you need to present the AI model companies with proprietary data, workflows, and corrections that give them a competitive edge.\n\nIt's actually the reverse of what Nobel Prize-winning economist Kenneth Arrow described as the information paradox.\n\nThe buyer is essentially giving up their knowledge simply to make use of what they have purchased.\n\nNadella's concern is that companies ultimately pay twice, once in cash and again with institutional know-how over time.",
+      "published": "2026-07-15T03:07:00Z"
     },
     {
       "id": "news_2",
-      "title": "Hubbell Incorporated’s Earnings Preview: What to Expect",
+      "title": "Intercontinental Exchange (ICE) Stock May Have a Favorable 20-Percentage-Point Disconnect",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hubbell-incorporated-earnings-preview-expect-123602800.html",
-      "summary": "Hubbell Incorporated’s Earnings Preview: What to Expect",
-      "full_text": "Shelton, Connecticut-based Hubbell Incorporated (HUBB) is a leading manufacturer of utility and electrical infrastructure solutions. With a market capitalization of approximately $26.9 billion, the company develops high-quality products that help customers operate critical infrastructure safely, reliably, and efficiently while supporting grid modernization, energy efficiency, and renewable energy initiatives.\n\nHUBB is set to report its Q2 earnings soon. Ahead of the release, analysts expect the company to report a diluted EPS of $5.32, up 7.9% from $4.93 in the year-ago quarter. HUBB has exceeded Wall Street's EPS estimates in each of the last four quarters, which is impressive.\n\nTaiwan Semi Stock Is Approaching Fair Value Ahead of July 16. How to Play TSM Here.\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nFor fiscal 2026, analysts expect the company to report EPS of $19.83, reflecting an 8.9% increase from $18.21 in fiscal 2025. Likewise, its EPS is projected to increase 9.6% year over year to $21.73 in fiscal 2027.\n\nHUBB stock has gained 16.3% over the past 52 weeks, slightly underperforming both the S&P 500 Index ($SPX), which returned 20.6%, and the State Street Industrial Select Sector SPDR ETF (XLI), which gained 20.7% over the same period.\n\nOn June 9, 2026, HUBB completed its $3 billion acquisition of NSI Industries, expanding its portfolio with over 15,000 electrical products and well-known brands. The deal strengthens Hubbell's distribution network, broadens its presence in infrastructure and electrification markets, including data centers and utilities, and supports the company's long-term growth strategy.\n\nAnalysts remain cautiously optimistic on HUBB, with the stock carrying a consensus \"Moderate Buy\" rating. Among the 14 analysts covering the stock, seven recommend a \"Strong Buy,\" while the other seven rate it a \"Hold.\" Meanwhile, the average analyst price target of $557 implies a 13.5% upside from the current share price.",
-      "published": "2026-07-13T12:36:02Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-ice-stock-may-143950681.html",
+      "summary": "Intercontinental Exchange (ICE) Stock May Have a Favorable 20-Percentage-Point Disconnect",
+      "full_text": "By itself, Intercontinental Exchange (ICE) isn't exactly what you would call a household name nor is ICE stock particularly regarded as a consensus upside opportunity (if the Barchart Technical Opinion rating of 88% Strong Sell is anything to go by). Heck, even the ticker has an unfortunate association among some partisan players. Nevertheless, it's a name that deserves close attention, especially because it could be favorably mispriced.\n\nFundamentally, Intercontinental Exchange is an American Fortune 500 company that builds, owns and operates global financial exchanges, clearing houses and data services. Its most popular entity is the New York Stock Exchange, which it acquired in late 2013. Thanks to equities participation enjoying record volume milestones following the paradigm shift of COVID-19, ICE stock would seem to enjoy tremendous relevance.\n\nWhen we talk about selling tickets to the game rather than betting on a certain outcome, it's difficult to ignore an enterprise like Intercontinental Exchange. Let's face it — it's a massive challenge to predict future price discovery. However, given the explosion in popularity of investing and options trading, there's a reasonable expectation that ICE stock may march higher over the long run.\n\nThat said, the near-term picture is equally as fascinating. On a technical level, ICE stock is enjoying a resurgence, with the ticker rising almost 12% since the end of last month. But on a year-to-date basis, the performance has been poor, as Intercontinental Exchange has lost 15% of market value. Despite the red ink, there's good reason to be optimistic.\n\nIn finance terms, experts call it mean reversion. Essentially, ICE stock may have been excessively beaten down. Since the crimson wave likely would have shaken out the weak hands of the market, ICE sits in an exhaustive state. Subsequently, any bit of good news may have a disproportionately positive impact on the security.\n\nMean reversion isn't a new concept but with modern technology, we can empirically measure expected outcomes.\n\nWhile it's not controversial to mention mean reversion, the theory deserves more than an assertion by fiat. My presupposed framework is that the balance of order flow — specifically the balance of up/down weeks over a 10-week time period — influences the potential outcome of distributions.\n\nHow do I know this? Well, frankly, I don't know it as an absolute fact. But because modern equity markets are dominated by algorithmic, rules-based trading, I believe it's more than plausible that when order-flow balance is skewed toward bullishness, the distribution of near-term outcomes would be different from a neutral or bearish balance.",
+      "published": "2026-07-14T14:39:50Z"
     },
     {
       "id": "news_3",
-      "title": "Meta Scales Up Louisiana Mega AI Data Center To $50 Billion",
+      "title": "Here’s What Lifted Atlanta Braves Holdings (BATRK) in Q2",
       "source": "Yahoo Finance",
-      "link": "https://www.investors.com/news/technology/meta-stock-hyperion-50-billion-ai-data-center-louisiana/?src=A00220&yptr=yahoo",
-      "summary": "Meta Scales Up Louisiana Mega AI Data Center To $50 Billion",
-      "full_text": "Meta Scales Up Louisiana Mega AI Data Center To $50 Billion",
-      "published": "2026-07-13T12:39:49Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lifted-atlanta-braves-holdings-batrk-143824854.html",
+      "summary": "Here’s What Lifted Atlanta Braves Holdings (BATRK) in Q2",
+      "full_text": "Longleaf Partners, managed by Southeastern Asset Management, released its second-quarter 2026 investor letter for its \"Small-Cap Fund\". A copy of the letter can be downloaded here. The letter states that the portfolio holdings are attractive now based on both P/V and P/FCF metrics; however, market winners have gone far higher than fair value. The Fund returned -2.47% in the quarter, underperforming the 21.49% return for the Russell 2000 Index and the 17.19% gain for the Russell 2000 Value Index. The underperformance in the quarter was driven by unexpected moves primarily in the IT and industrials sectors and market favor for speculative stocks. The Firm's investment approach focuses on median, unweighted multiples, prioritizing growth in free cash flow per share, the potential for multiple expansion, and strategic initiatives. In addition, please check the Fund's top five holdings to know its best picks in 2026.\n\nIn its Q2 2026 investor letter, Longleaf Partners Small-Cap Fund highlighted Atlanta Braves Holdings, Inc. (NASDAQ:BATRK). Atlanta Braves Holdings, Inc. (NASDAQ:BATRK) owns and operates the Atlanta Braves Major League Baseball Club in the United States. On July 13, 2026, Atlanta Braves Holdings, Inc. (NASDAQ:BATRK) closed at $52.56 per share, reflecting a market capitalization of $3.37 billion. Atlanta Braves Holdings, Inc. (NASDAQ:BATRK) posted a one-month return of 1.03%, while its shares gained 13.74% over the past 52 weeks.\n\nLongleaf Partners Small-Cap Fund stated the following regarding Atlanta Braves Holdings, Inc. (NASDAQ:BATRK) in its Q2 2026 investor update:\n\n\"Atlanta Braves Holdings, Inc. (NASDAQ:BATRK) – The owner of the Atlanta Braves baseball team and surrounding real estate was a contributor during the quarter. The highlight during the quarter was the sale of the Padres baseball team for a revenue multiple that implies a much higher value than what the market is ascribing to the Braves, and that is before considering the characteristics that we think make the Braves a better asset. Former Braves owner Ted Turner passed away during the quarter. The market reacted positively to this news as Braves controlling owner John Malone had previously said he would not sell the team while Ted was alive. Operations at \"The Battery,\" their real estate development, remain strong, and the team is off to a good start this season with one of the best records in the league.\"\n\nAtlanta Braves Holdings, Inc. (NASDAQ:BATRK) is not on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026. According to our database, 45 hedge fund portfolios held Atlanta Braves Holdings, Inc. (NASDAQ:BATRK) at the end of the first quarter, the same as in the previous quarter. In Q1 2026, Atlanta Braves Holdings, Inc. (NASDAQ:BATRK) reported revenue of $72 million, up from $47.2 million in the first quarter of 2025. While we acknowledge the potential of Atlanta Braves Holdings, Inc. (NASDAQ:BATRK) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nIn addition, please check out our hedge fund investor letters Q2 2026 page for more investor letters from hedge funds and other leading investors.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
+      "published": "2026-07-14T14:38:24Z"
     }
   ]
 }
