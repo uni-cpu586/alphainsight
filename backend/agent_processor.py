@@ -115,7 +115,7 @@ def call_gemini(system_prompt, user_prompt, api_key):
     return None
 
 def call_ollama(system_prompt, user_prompt, model="llama3.2"):
-    hosts = ["http://localhost:11434", "http://127.0.0.1:11435", "http://localhost:11435"]
+    hosts = ["http://127.0.0.1:11434", "http://localhost:11434", "http://127.0.0.1:11435", "http://localhost:11435"]
     env_host = os.getenv("OLLAMA_HOST")
     if env_host:
         if not env_host.startswith("http"):
@@ -139,7 +139,7 @@ def call_ollama(system_prompt, user_prompt, model="llama3.2"):
     for host in hosts:
         url = f"{host.rstrip('/')}/api/chat"
         try:
-            response = requests.post(url, json=payload, timeout=120)
+            response = requests.post(url, json=payload, timeout=600)
             if response.status_code == 200:
                 content = response.json().get("message", {}).get("content", "")
                 
@@ -161,6 +161,7 @@ def call_ollama(system_prompt, user_prompt, model="llama3.2"):
             else:
                 print(f"Ollama host {host} returned status: {response.status_code}")
         except Exception as e:
+            print(f"Warning: Failed to call Ollama on host {host}: {e}")
             last_err = e
             continue
             
@@ -309,8 +310,9 @@ def run_processor(mode, ollama_model):
             result = call_gemini(prof_sys, prof_user, api_key)
         else: # hybrid mode -> run other with local ollama
             result = call_ollama(prof_sys, prof_user, ollama_model)
-            if not result:
-                print("Warning: Ollama call failed. Falling back to Gemini API...")
+            is_valid = isinstance(result, dict) and "level3_translation" in result and "level2_keywords" in result
+            if not is_valid:
+                print("Warning: Ollama output is invalid or missing required fields. Falling back to Gemini API...")
                 result = call_gemini(prof_sys, prof_user, api_key)
             
         if not result:
@@ -337,8 +339,9 @@ def run_processor(mode, ollama_model):
         market_linker_insight = call_gemini(linker_sys, linker_user, api_key)
     else: # hybrid mode -> run other with local ollama
         market_linker_insight = call_ollama(linker_sys, linker_user, ollama_model)
-        if not market_linker_insight:
-            print("Warning: Ollama call failed. Falling back to Gemini API...")
+        is_valid = isinstance(market_linker_insight, dict) and "market_connection" in market_linker_insight
+        if not is_valid:
+            print("Warning: Ollama output is invalid or missing 'market_connection'. Falling back to Gemini API...")
             market_linker_insight = call_gemini(linker_sys, linker_user, api_key)
         
     if not market_linker_insight:

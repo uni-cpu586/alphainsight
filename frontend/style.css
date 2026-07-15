@@ -1188,6 +1188,7 @@ h1, h2, h3, h4, h5, h6 {
     background: rgba(255, 255, 255, 0.02);
     border: 1px solid var(--border-color);
     padding: 10px 12px;
+    padding-right: 36px;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
@@ -1214,6 +1215,131 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 0.78rem;
     color: var(--text-secondary);
     word-break: break-word;
+}
+
+.vocab-actions {
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    display: flex;
+    gap: 4px;
+    opacity: 0;
+    transition: var(--transition-smooth);
+}
+
+.vocab-chip:hover .vocab-actions {
+    opacity: 1;
+}
+
+.vocab-action-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-muted);
+    cursor: pointer;
+    font-size: 0.75rem;
+    padding: 4px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: var(--transition-smooth);
+}
+
+.vocab-action-btn:hover {
+    color: var(--text-primary);
+}
+
+.vocab-action-btn.edit-btn:hover {
+    color: var(--neon-blue);
+    filter: drop-shadow(0 0 4px var(--neon-blue-glow));
+}
+
+.vocab-action-btn.delete-btn:hover {
+    color: var(--neon-red);
+    filter: drop-shadow(0 0 4px var(--neon-red-glow));
+}
+
+/* Editing State */
+.vocab-chip.editing {
+    grid-column: span 2;
+    background: rgba(10, 15, 30, 0.95);
+    border-color: var(--neon-blue);
+    box-shadow: 0 0 15px rgba(59, 130, 246, 0.2);
+    padding: 12px;
+    padding-right: 12px;
+    gap: 8px;
+    transform: none !important;
+}
+
+.vocab-edit-input {
+    background: rgba(0, 0, 0, 0.3);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    color: #ffffff;
+    font-size: 0.82rem;
+    padding: 5px 8px;
+    width: 100%;
+    outline: none;
+    font-family: inherit;
+    transition: var(--transition-smooth);
+}
+
+.vocab-edit-input:focus {
+    border-color: var(--neon-blue);
+    background: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 8px rgba(59, 130, 246, 0.2);
+}
+
+.vocab-edit-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    margin-top: 2px;
+}
+
+.vocab-edit-btn {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    color: var(--text-secondary);
+    cursor: pointer;
+    font-size: 0.78rem;
+    padding: 4px 10px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    transition: var(--transition-smooth);
+}
+
+.vocab-edit-btn:hover {
+    background: rgba(255, 255, 255, 0.08);
+    color: var(--text-primary);
+}
+
+.vocab-edit-btn.save-btn {
+    background: rgba(16, 185, 129, 0.08);
+    border-color: rgba(16, 185, 129, 0.2);
+    color: var(--neon-green);
+}
+
+.vocab-edit-btn.save-btn:hover {
+    background: rgba(16, 185, 129, 0.2);
+    border-color: var(--neon-green);
+    color: #ffffff;
+    box-shadow: 0 0 10px rgba(16, 185, 129, 0.2);
+}
+
+.vocab-edit-btn.cancel-btn {
+    background: rgba(239, 68, 68, 0.08);
+    border-color: rgba(239, 68, 68, 0.2);
+    color: var(--neon-red);
+}
+
+.vocab-edit-btn.cancel-btn:hover {
+    background: rgba(239, 68, 68, 0.2);
+    border-color: var(--neon-red);
+    color: #ffffff;
+    box-shadow: 0 0 10px rgba(239, 68, 68, 0.2);
 }
 
 /* Quiz Styles */
