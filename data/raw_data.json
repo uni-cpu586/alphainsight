@@ -1,192 +1,192 @@
 {
-  "date": "2026-07-21",
-  "stock_market_date": "2026-07-20",
+  "date": "2026-07-22",
+  "stock_market_date": "2026-07-21",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 34660612
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_buy_shares": 23763184
         },
         {
           "rank": 2,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 24102093
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_buy_shares": 22635286
         },
         {
           "rank": 3,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 16469466
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 22050561
         },
         {
           "rank": 4,
           "stock_name": "長榮航",
           "ticker": "2618",
-          "net_buy_shares": 13269522
+          "net_buy_shares": 19824202
         },
         {
           "rank": 5,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 11142193
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 19355221
         },
         {
           "rank": 6,
-          "stock_name": "台塑化",
-          "ticker": "6505",
-          "net_buy_shares": 11002422
+          "stock_name": "台中銀",
+          "ticker": "2812",
+          "net_buy_shares": 18115924
         },
         {
           "rank": 7,
-          "stock_name": "中華電",
-          "ticker": "2412",
-          "net_buy_shares": 8462435
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_buy_shares": 14423408
         },
         {
           "rank": 8,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_buy_shares": 8311903
+          "stock_name": "萬海",
+          "ticker": "2615",
+          "net_buy_shares": 13922398
         },
         {
           "rank": 9,
-          "stock_name": "英業達",
-          "ticker": "2356",
-          "net_buy_shares": 7341949
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_buy_shares": 12926429
         },
         {
           "rank": 10,
-          "stock_name": "台泥",
-          "ticker": "1101",
-          "net_buy_shares": 7053712
+          "stock_name": "陽明",
+          "ticker": "2609",
+          "net_buy_shares": 12481902
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -97368426
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -62999176
         },
         {
           "rank": 2,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_sell_shares": -63153407
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -23551563
         },
         {
           "rank": 3,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -24369309
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -23202407
         },
         {
           "rank": 4,
-          "stock_name": "元大高股息",
-          "ticker": "0056",
-          "net_sell_shares": -23175636
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_sell_shares": -21391157
         },
         {
           "rank": 5,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_sell_shares": -21031702
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -20195909
         },
         {
           "rank": 6,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_sell_shares": -15752639
+          "stock_name": "南茂",
+          "ticker": "8150",
+          "net_sell_shares": -15725068
         },
         {
           "rank": 7,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_sell_shares": -14852515
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -11396333
         },
         {
           "rank": 8,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_sell_shares": -14012731
+          "stock_name": "興富發",
+          "ticker": "2542",
+          "net_sell_shares": -7894417
         },
         {
           "rank": 9,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_sell_shares": -13241442
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_sell_shares": -7796181
         },
         {
           "rank": 10,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -11581031
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_sell_shares": -7225992
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 54328430
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_buy_shares": 12929000
         },
         {
           "rank": 2,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 12696484
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 11868473
         },
         {
           "rank": 3,
           "stock_name": "永豐金",
           "ticker": "2890",
-          "net_buy_shares": 12085510
+          "net_buy_shares": 11795360
         },
         {
           "rank": 4,
           "stock_name": "第一金",
           "ticker": "2892",
-          "net_buy_shares": 10269153
+          "net_buy_shares": 8637313
         },
         {
           "rank": 5,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_buy_shares": 9803000
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 8414000
         },
         {
           "rank": 6,
           "stock_name": "南亞",
           "ticker": "1303",
-          "net_buy_shares": 8675803
+          "net_buy_shares": 8190039
         },
         {
           "rank": 7,
-          "stock_name": "興富發",
-          "ticker": "2542",
-          "net_buy_shares": 7357000
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 7391549
         },
         {
           "rank": 8,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 7047179
+          "stock_name": "興富發",
+          "ticker": "2542",
+          "net_buy_shares": 7055000
         },
         {
           "rank": 9,
           "stock_name": "統一",
           "ticker": "1216",
-          "net_buy_shares": 6533298
+          "net_buy_shares": 4706058
         },
         {
           "rank": 10,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 6340001
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 3248000
         }
       ],
       "trust_sell": [
@@ -194,61 +194,61 @@
           "rank": 1,
           "stock_name": "群創",
           "ticker": "3481",
-          "net_sell_shares": -22851947
+          "net_sell_shares": -20771159
         },
         {
           "rank": 2,
           "stock_name": "聯電",
           "ticker": "2303",
-          "net_sell_shares": -13501846
+          "net_sell_shares": -6127119
         },
         {
           "rank": 3,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_sell_shares": -6457925
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -5553385
         },
         {
           "rank": 4,
           "stock_name": "群益證",
           "ticker": "6005",
-          "net_sell_shares": -5018000
+          "net_sell_shares": -5080000
         },
         {
           "rank": 5,
-          "stock_name": "英業達",
-          "ticker": "2356",
-          "net_sell_shares": -3992504
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_sell_shares": -4978000
         },
         {
           "rank": 6,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_sell_shares": -3816520
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -4568815
         },
         {
           "rank": 7,
-          "stock_name": "正新",
-          "ticker": "2105",
-          "net_sell_shares": -3163113
+          "stock_name": "英業達",
+          "ticker": "2356",
+          "net_sell_shares": -4141725
         },
         {
           "rank": 8,
-          "stock_name": "寶成",
-          "ticker": "9904",
-          "net_sell_shares": -3091869
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_sell_shares": -3509910
         },
         {
           "rank": 9,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_sell_shares": -2505887
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_sell_shares": -3504142
         },
         {
           "rank": 10,
-          "stock_name": "和碩",
-          "ticker": "4938",
-          "net_sell_shares": -2490663
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -3410000
         }
       ],
       "dealer_buy": [
@@ -256,123 +256,123 @@
           "rank": 1,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_buy_shares": 8308911
+          "net_buy_shares": 10282288
         },
         {
           "rank": 2,
-          "stock_name": "三商壽",
-          "ticker": "2867",
-          "net_buy_shares": 2296000
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_buy_shares": 8495473
         },
         {
           "rank": 3,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_buy_shares": 1971985
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 2185000
         },
         {
           "rank": 4,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 1643995
+          "stock_name": "興富發",
+          "ticker": "2542",
+          "net_buy_shares": 1464000
         },
         {
           "rank": 5,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 1320207
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 1321723
         },
         {
           "rank": 6,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 1245000
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 1009000
         },
         {
           "rank": 7,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 938000
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_buy_shares": 751739
         },
         {
           "rank": 8,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 890176
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 751243
         },
         {
           "rank": 9,
-          "stock_name": "上海商銀",
-          "ticker": "5876",
-          "net_buy_shares": 833000
+          "stock_name": "億光",
+          "ticker": "2393",
+          "net_buy_shares": 672000
         },
         {
           "rank": 10,
-          "stock_name": "康舒",
-          "ticker": "6282",
-          "net_buy_shares": 813000
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_buy_shares": 665955
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -7851891
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -5055983
         },
         {
           "rank": 2,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -1895996
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -3456353
         },
         {
           "rank": 3,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_sell_shares": -808490
+          "stock_name": "寶成",
+          "ticker": "9904",
+          "net_sell_shares": -889000
         },
         {
           "rank": 4,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_sell_shares": -687182
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_sell_shares": -587350
         },
         {
           "rank": 5,
-          "stock_name": "景碩",
-          "ticker": "3189",
-          "net_sell_shares": -479000
+          "stock_name": "台勝科",
+          "ticker": "3532",
+          "net_sell_shares": -584000
         },
         {
           "rank": 6,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -478157
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_sell_shares": -571245
         },
         {
           "rank": 7,
-          "stock_name": "台航",
-          "ticker": "2617",
-          "net_sell_shares": -372334
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -482369
         },
         {
           "rank": 8,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_sell_shares": -225456
+          "stock_name": "東陽",
+          "ticker": "1319",
+          "net_sell_shares": -453000
         },
         {
           "rank": 9,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -208869
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -357966
         },
         {
           "rank": 10,
-          "stock_name": "文曄",
-          "ticker": "3036",
-          "net_sell_shares": -206725
+          "stock_name": "三商壽",
+          "ticker": "2867",
+          "net_sell_shares": -345000
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "群創",
-        "shares": 12131214
+        "target": "元大金",
+        "shares": 8317114
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
         "target": "元大台灣50",
-        "shares": 3323564
+        "shares": 4112915
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "台新新光金",
-        "shares": 24447793
+        "target": "彰銀",
+        "shares": 5818050
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "元大台灣50",
-        "shares": 29210527
+        "target": "群創",
+        "shares": 18899752
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Major car dealer cuts 40% of its locations, issues serious warning",
+      "title": "Spain just opened a door America slammed shut",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/major-car-dealer-cuts-40-014700349.html",
-      "summary": "Major car dealer cuts 40% of its locations, issues serious warning",
-      "full_text": "Sure, plenty buy them, but suffocating monthly loan payments mean the \"affording\" part isn't exactly met.\n\nFor decades, we shrugged off the warning that a new car loses 10% of its value the second it leaves the lot. The counter-argument was simple: You paid for peace of mind and the guarantee you wouldn't end up stranded on the road.\n\nAccording to Edmunds, the average monthly new-car payment has hit a record $777, and 20.3% of buyers pay $1,000 or more monthly. To cope, many stretch loans over six or seven years. Edmunds' Ivan Drury calls this a \"mathematical trap,\" warning that pairing a 7.0% APR with an 84-month loan means handing over nearly $10,000 in interest alone, leaving buyers \"highly vulnerable to falling underwater.\"\n\nUsed-car buyers are squeezed just as hard, financing an average of $30,414 at 10.5% interest. For subprime buyers, Experian data show interest rates averaging a staggering 19.4% to 21.7%.\n\nThat pressure isn't just hurting buyers. It is also hitting the dealerships that specialize in financing customers with weaker credit. Now, one of the largest chains in the country has dramatically reduced its footprint.\n\nA major automotive retailer that operates a chain of used-car dealerships, America's Car-Mart reported on July 14, 2026, its fourth-quarter and full-year results for the period ended April 30, 2026.\n\nThe car dealer, which specializes in the \"buy here, pay here\" (integrated auto sales and financing) market, reported total revenue of $1.281 billion, down by 7.9% from fiscal 2025.\n\nNet loss per share was $16.79, compared to earnings per share of $2.38.Source: America's Car-Mart official press release",
-      "published": "2026-07-19T16:54:17Z"
+      "link": "https://finance.yahoo.com/economy/policy/articles/spain-just-opened-door-america-021700849.html",
+      "summary": "Spain just opened a door America slammed shut",
+      "full_text": "Every country that builds things eventually faces the same question about a cheaper foreign rival, and there are only two honest answers to it.\n\nYou can wall the rival out and buy yourself time, or you can let the rival in and try to learn something before it eats you.\n\nThe United States picked the wall, and picked it hard. A 100% import duty on Chinese electric vehicles took effect in September 2024, according to the Office of the U.S. Trade Representative.\n\nA separate Commerce Department rule bars Chinese-linked vehicle software starting with model year 2027 cars and Chinese-linked connectivity hardware from model year 2030, according to the Bureau of Industry and Security.\n\nThe practical result is that almost no Chinese passenger car reaches an American driveway, and almost none will.\n\nEurope went a different direction, and one country went furthest of all. A Spanish government report obtained by Bloomberg now spells out how far Madrid will go to keep its factories running, and the answer involves flying in Chinese workers to build the plants.\n\nSpain is not a bystander in the auto business. It is the second-largest vehicle producer in Europe behind Germany, and the sector accounts for roughly 10% of Spanish gross domestic product and 9% of national employment, according to Invest in Spain, the government's foreign investment agency.\n\nThat is the context most American coverage skips. When a Spanish plant goes idle, the damage is not sector news. It is a national economic event.",
+      "published": "2026-07-21T02:17:00Z"
     },
     {
       "id": "news_2",
-      "title": "Apple Intelligence Just Got the Green Light in China. What That Means for AAPL Stock.",
+      "title": "Alphabet Reports Q2 Earnings on July 22. Here’s Why Analysts Remain Bullish.",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/apple-intelligence-just-got-green-140002408.html",
-      "summary": "Apple Intelligence Just Got the Green Light in China. What That Means for AAPL Stock.",
-      "full_text": "Apple (AAPL) has cleared one of the biggest obstacles to its artificial intelligence (AI) strategy. After months of regulatory delays, China's cyberspace regulator has approved Apple Intelligence for launch in the country, allowing Apple to bring its AI features to the world's largest smartphone market through a partnership with Alibaba Group Holding Limited (BABA). The Chinese version of Apple Intelligence will integrate Alibaba's Qwen large language model, while Baidu (BIDU) will also support certain localized AI capabilities to comply with China's strict AI regulations.\n\nThe approval could be far more significant than a routine product rollout. China remains one of Apple's most important markets, but intensifying competition from domestic smartphone makers offering advanced AI features has weighed on iPhone demand in recent years.\n\nAlibaba Stock Just Got Apple's Biggest AI Endorsement. This Could Be a Game Changer for BABA.\n\nElon Musk Says If SpaceX Accomplishes Its Goals, 'It Will Be Worth More Than The Rest of Earth' — Though He's Also Said 'Money Will Stop Being Relevant'\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nBringing Apple Intelligence to Chinese users could strengthen the iPhone upgrade cycle, improve Apple's competitive position against rivals such as Huawei and Xiaomi, and provide a new catalyst for hardware sales and services growth. While the timing of the commercial rollout remains uncertain, the regulatory green light marks a meaningful step toward expanding Apple's AI ecosystem and could become an important long-term growth driver for AAPL stock.\n\nCalifornia-based Apple stands as a forward-looking company and a worldwide leader in hardware, software, and services. Its portfolio spans iconic devices like the iPhone, iPad, Mac, and Apple Watch, alongside widely used platforms such as the App Store, iCloud, Apple Music, and Apple TV+. The company currently boasts a market cap of $4.8 trillion and a Magnificent Seven status.\n\nApple stock has delivered significant returns, gaining 58.6% over the past 52 weeks while advancing 22.6% year-to-date (YTD), reflecting investor optimism around the company's AI strategy and resilient earnings outlook.",
-      "published": "2026-07-19T14:00:02Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-reports-q2-earnings-july-141921232.html",
+      "summary": "Alphabet Reports Q2 Earnings on July 22. Here’s Why Analysts Remain Bullish.",
+      "full_text": "Alphabet (GOOG) (GOOGL) will report its second-quarter earnings on July 22. Although GOOGL stock has retreated 12% from its recent highs, analysts remain constructive on the long-term outlook owing to the resilience of Alphabet's advertising business and the growing contribution from Google Cloud.\n\nA key reason behind the bullish sentiment is Alphabet's rapid integration of artificial intelligence (AI) across its core businesses. In Google Search, AI-powered features are helping improve user engagement while making advertising more relevant and effective, supporting continued strength in the company's largest revenue segment.\n\nAlibaba Stock Just Got Apple's Biggest AI Endorsement. This Could Be a Game Changer for BABA.\n\nElon Musk Says If SpaceX Accomplishes Its Goals, 'It Will Be Worth More Than The Rest of Earth' — Though He's Also Said 'Money Will Stop Being Relevant'\n\nGoogle Cloud is another key area of focus heading into the earnings release. Demand for AI infrastructure, large language models, and enterprise AI applications continues to accelerate, positioning Google Cloud to benefit from higher customer spending. Analysts expect cloud growth to remain robust as enterprises increasingly deploy AI workloads.\n\nIn addition, Google's subscription revenue is growing fast, supporting its investment case.\n\nAlphabet is strengthening its AI ecosystem through its custom-designed Tensor Processing Units (TPUs). These in-house AI chips are becoming increasingly important as enterprises seek high-performance computing solutions, giving Alphabet another long-term growth opportunity.\n\nWith leadership in Search, expanding momentum in Cloud, and growing AI infrastructure capabilities, Alphabet enters its second-quarter earnings report with multiple catalysts supporting GOOGL stock's long-term outlook.",
+      "published": "2026-07-20T14:19:21Z"
     },
     {
       "id": "news_3",
-      "title": "A financial planner explains why splitting your partner's $2,100 mortgage will leave you with nothing. And it's okay",
+      "title": "74% of Americans with an advisor feel ready to retire — here's the boring 3-step plan that starts there",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/real-estate/articles/financial-planner-explains-why-splitting-143000499.html",
-      "summary": "A financial planner explains why splitting your partner's $2,100 mortgage will leave you with nothing. And it's okay",
-      "full_text": "Living together before marriage was once a cultural taboo, but cohabitation has grown in popularity and it's reshaped relationships, families and finances.\n\nIn 2024, approximately 20.4 million (1) Americans were living with their unmarried partner. And between 2020 and 2022, roughly 80% (2) of recent marriages were preceded by cohabitation.\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake — here's what it is and 3 simple steps to fix it ASAP\n\nMillionaires under 43 hold only 25% of their wealth in stocks. Here's where their money is actually going\n\nThe trend means more couples are entering into living situations where the traditional financial protection of marriage or co-ownership isn't afforded — and this could raise possible financial questions couples must work through.\n\nLet's take the example of Emily and David, who have been in a relationship for four years. They're looking to take the next step in their partnership and finally move in together. But Emily has already bought her own home and is locked into a mortgage.\n\nEmily wants David to just move in and begin splitting her monthly mortgage payments, which are just over $2,100 a month. David, who is currently paying around $1,200 a month for rent, figures this arrangement could actually save him money since his split of the monthly mortgage payments would be lower than what he currently spends on housing.",
-      "published": "2026-07-19T14:30:00Z"
+      "link": "https://finance.yahoo.com/markets/articles/74-americans-advisor-feel-ready-142131064.html",
+      "summary": "74% of Americans with an advisor feel ready to retire — here's the boring 3-step plan that starts there",
+      "full_text": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\n\nMuch of the investing advice you see online or on social media is designed to grab attention. But if you're serious about securing a comfortable retirement, buying Dogecoin or a risky bet on prediction markets probably isn't what you need.\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nJPMorgan still sees gold hitting $5,000/oz by Q4 — and savvy investors are protecting their wealth with a tax-advantaged Gold IRA. Learn more with a free guide from Priority Gold\n\nThe tax breaks in Trump's 'big beautiful bill' expire after 2028 — and experts say most people won't act in time. What to do before the window closes\n\nYou'd probably be better off with an investment strategy that was as boring and mundane as grocery shopping — just as legendary investor Warren Buffett once suggested, per CNBC (1). And just like your grocery list, your investment plan could prove most successful if you simply focus on what's predictable, cheap and, most importantly, necessary.\n\nWith that in mind, here's a relatively boring three-step strategy to improve your chances of having a stable financial position in retirement.\n\nYou can probably summarize most retirement planning with this simple statement: It's an attempt to create passive and reliable cash flows that match your basic necessities. So, if you have stable income that covers the bare essentials, you're probably on track for a comfortable retirement.",
+      "published": "2026-07-20T14:21:31Z"
     }
   ]
 }
