@@ -1,115 +1,95 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "stock_uncle_insight": {
-    "date_header": "7/22 法人與主力大戶主要買超股票",
+    "date_header": "7/23 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃金融、傳產與航空航運，大砍面板與半導體",
+        "group_title": "1. 外資大戶：狂掃金融ETF與傳產，避險意味濃",
         "stocks": [
+          {
+            "stock_name": "凱基金",
+            "ticker": "2883",
+            "description": "肖年仔，你看這凱基金，外資大戶直接狂掃 3.76 萬張！這擺明就是把金融股當避風港，大盤震盪，錢往哪裡跑？當然是跑去這些穩定的地方，殖利率又不錯，外資在找安全感啦！"
+          },
+          {
+            "stock_name": "元大高股息",
+            "ticker": "0056",
+            "description": "0056這種高股息ETF，外資也買了 2.50 萬張，這不是在跟你開玩笑，這是標準的「存股」思維，或者說，在大盤高檔，先買進這些有配息保護的標的，進可攻退可守，很聰明啦！"
+          },
           {
             "stock_name": "元大金",
             "ticker": "2885",
-            "description": "肖年仔，你看外資這天直接掃了 2.37 萬張元大金，擺明了就是把資金從高風險的電子股抽出來，轉進這種穩定的金融股避險，順便卡位下半年的配息行情啦！"
+            "description": "元大金也被外資買了 2.50 萬張，跟凱基金一樣，金融股就是外資的「定存股」概念，尤其在市場不確定性高的時候，這些金控公司就是資金的避風港，穩穩賺配息，多好！"
           },
           {
-            "stock_name": "鴻海",
-            "ticker": "2317",
-            "description": "鴻海這檔，外資也買了 2.26 萬張，這就是看好蘋果新機題材，或是AI伺服器組裝的長線布局，老外不是傻瓜，不會黑白買。"
+            "stock_name": "緯創",
+            "ticker": "3231",
+            "description": "緯創這檔AI概念股，外資還是持續買超 2.42 萬張，雖然市場對AI股有些雜音，但外資還是看好長線趨勢，可能是在等拉回找買點，或是看好後續的訂單動能，肖年仔，這就是所謂的「鎖碼」啦！"
           },
           {
-            "stock_name": "玉山金",
-            "ticker": "2884",
-            "description": "外資再買玉山金 2.2 萬張，跟元大金一樣，金融股就是資金的避風港，大盤震盪時，這種穩定的標的才有人敢抱。"
-          },
-          {
-            "stock_name": "長榮航",
-            "ticker": "2618",
-            "description": "航空雙雄之一，外資買超 1.98 萬張，暑假旺季效應，加上油價相對穩定，老外賭的就是解封後的旅遊潮會帶來獲利，這叫作「旺季卡位」。"
-          },
-          {
-            "stock_name": "中鋼",
-            "ticker": "2002",
-            "description": "連中鋼這種傳產龍頭外資都買了 1.93 萬張，這代表資金開始往低基期、有基本面的傳產股移動，電子股漲多修正，傳產就成了香餑餑。"
-          },
-          {
-            "stock_name": "萬海",
-            "ticker": "2615",
-            "description": "航運股萬海外資也買了 1.39 萬張，這波航運股跌深反彈，加上紅海危機的潛在利多，外資在賭一個反彈行情，但肖年仔你可別亂接刀啊！"
-          },
-          {
-            "stock_name": "陽明",
-            "ticker": "2609",
-            "description": "陽明外資也買了 1.24 萬張，跟萬海一樣，都是在航運股低檔時進場卡位，但這種股票波動大，沒兩把刷子別亂碰。"
+            "stock_name": "大成鋼",
+            "ticker": "2027",
+            "description": "大成鋼這種傳產股，外資也買了 2.39 萬張，這代表外資也在做資產配置，不只看科技股，傳產的低基期、景氣復甦題材，也是他們布局的重點，這叫「雞蛋不要放在同一個籃子裡」！"
           }
         ]
       },
       {
-        "group_title": "2. 投信大戶（本土國家隊）：狂掃金融股作帳，順便買0050避險",
+        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，金融股是首選",
         "stocks": [
+          {
+            "stock_name": "華南金",
+            "ticker": "2880",
+            "description": "投信狂買華南金 1.02 萬張，肖年仔，這就是標準的「作帳行情」啦！季底、年底，投信為了績效，一定會拉抬自己持有的股票，金融股權重高、股性穩，是他們最愛拿來作帳的標的之一。"
+          },
           {
             "stock_name": "彰銀",
             "ticker": "2801",
-            "description": "投信這天狂掃彰銀 1.29 萬張，這擺明了就是投信在作帳，年底要拼績效，這種官股金控穩健又便宜，是他們的最愛。"
-          },
-          {
-            "stock_name": "台新新光金",
-            "ticker": "2887",
-            "description": "投信買超 1.18 萬張台新新光金，但外資卻大賣，這就是內外資對同一檔股票看法分歧，投信可能看上合併題材或低估值。"
-          },
-          {
-            "stock_name": "永豐金",
-            "ticker": "2890",
-            "description": "投信買超永豐金 1.17 萬張，一樣是金融股，投信就是要抱這種穩定的標的，避免大盤震盪影響績效。"
+            "description": "彰銀也被投信買了 9570 張，跟華南金一樣，都是金控類股，投信這波就是鎖定金融股，一來避險，二來作帳，三來這些股票殖利率也不錯，進可攻退可守，本土國家隊的思維就是這樣啦！"
           },
           {
             "stock_name": "第一金",
             "ticker": "2892",
-            "description": "投信買超第一金 8637 張，這幾檔金融股都是投信的口袋名單，穩健配息，適合長期持有。"
+            "description": "第一金也榜上有名，投信買超 8602 張。你看，前幾名都是金融股，這很明顯就是投信在「抱團取暖」，大家一起買，股價比較容易拉抬，也比較不容易被「倒貨」啦！"
           },
           {
-            "stock_name": "華南金",
-            "ticker": "2880",
-            "description": "投信買超華南金 8414 張，本土國家隊就是愛金控，這沒什麼好意外的。"
+            "stock_name": "興富發",
+            "ticker": "2542",
+            "description": "興富發這檔營建股，投信也買了 6520 張，這可能跟近期房市回溫，或者有特定的建案題材有關。投信有時候也會去挖這種有特定利基的傳產股，當作是短線的「點火」標的。"
           },
           {
-            "stock_name": "南亞",
-            "ticker": "1303",
-            "description": "投信買超南亞 8190 張，但外資卻大賣，這又是內外資對作，投信可能看好塑化景氣復甦，或是南亞的低基期。"
-          },
-          {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "投信買超 3248 張 0050，這就是標準的「避險」動作，大盤不確定性高，買ETF跟著大盤走，風險最低。"
+            "stock_name": "統一",
+            "ticker": "1216",
+            "description": "統一這檔食品龍頭，投信買了 4687 張，但外資卻在賣。這就是內外資看法不同調的狀況，投信可能看好內需消費復甦，或是統一集團的多元佈局，但外資可能覺得漲多了，先「獲利了結」啦。"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：買ETF避險，部分電子股隔日沖",
+        "group_title": "3. 內資主力與實戶：短線操作，面板與半導體成焦點",
         "stocks": [
           {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "自營商買超 1.02 萬張 0050，這擺明了就是避險盤，大盤震盪，他們不敢亂追高，買ETF是最保險的作法。"
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "自營商買超聯電 3213 張，肖年仔，這就是標準的「短線操作」啦！聯電這種大型半導體股，有時候會被自營商拿來做避險，或是看好短線的技術性反彈，但通常不會抱太久，隔日沖的機率很高。"
+          },
+          {
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "群創也被自營商買了 2833 張，面板股最近有點題材，自營商看到機會就進去「搶短」，這種股票波動大，很適合他們做價差，但肖年仔你可別「黑白買」，這種股票很容易被「割韭菜」的！"
           },
           {
             "stock_name": "富邦科技",
             "ticker": "0052",
-            "description": "自營商買超 8495 張 0052，跟0050一樣，都是在避險，不想把資金曝露在單一個股的風險中。"
+            "description": "富邦科技ETF也被自營商買了 2413 張，這代表自營商在做指數型商品的避險或套利，有時候是為了對沖手上的權證部位，或是單純看好科技股的短線表現，但他們不會傻傻地長期持有啦。"
           },
           {
-            "stock_name": "力積電",
-            "ticker": "6770",
-            "description": "自營商買超 2185 張力積電，但外資和投信都大賣，這很可能是自營商的「隔日沖」或「權證避險」盤，今天買進，明天可能就倒貨了。"
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "華邦電也被自營商買了 700 張，這檔記憶體股，自營商可能看好記憶體產業的谷底翻揚，或是單純做短線的技術面操作。但肖年仔，這種股票要小心，有時候只是「拉高出貨」的煙霧彈！"
           },
           {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "自營商買超 1321 張聯電，跟力積電類似，外資投信都在賣，自營商逆勢買進，這種通常都是短線操作，肖年仔別傻傻地去接刀。"
-          },
-          {
-            "stock_name": "漢翔",
-            "ticker": "2634",
-            "description": "自營商買超 751 張漢翔，軍工題材持續發酵，自營商也來湊一腳，但張數不多，可能是短線跟風。"
+            "stock_name": "興富發",
+            "ticker": "2542",
+            "description": "興富發這檔營建股，自營商也買了 642 張，跟投信一樣，可能也是看好短線題材。自營商的動作通常比較靈活，哪裡有肉就往哪裡鑽，但跑得也快，你可別傻傻地去「接刀」！"
           }
         ]
       }
@@ -117,288 +97,385 @@
     "strategies": [
       {
         "strategy_title": "策略一：高檔避險與資金避風港（金融、ETF）",
-        "strategy_content": "肖年仔，你看外資、投信、自營商三大法人，不約而同地狂掃金融股，特別是金控股，還有自營商跟投信都買進0050這種ETF，這很明顯就是在大盤高檔震盪時，把資金從高風險的電子股撤出，轉往具有防禦性、殖利率高、評價面低的金融股避險。這波資金流向，就是告訴你「穩」字訣，別再追高那些漲翻天的電子股了，小心被割韭菜！"
+        "strategy_content": "肖年仔，你看外資跟投信，不約而同地狂掃金融股和高股息ETF，這擺明就是在大盤高檔震盪的時候，把資金撤出高風險板塊，移往這些具有防禦性、波動度較低的標的。國際上加密貨幣市場有公司破產，雖然跟台股直接關係不大，但這種消息會讓大戶更傾向保守，把錢放在金融這種「穩」的資產上，賺配息、求穩定，這就是他們的避險策略啦！"
       },
       {
-        "strategy_title": "策略二：傳產與軍工題材點火（航空、航運、鋼鐵、軍工）",
-        "strategy_content": "外資這次大買長榮航、萬海、陽明，還有中鋼、遠東新，連漢翔這種軍工股都進榜，這代表資金開始尋找新的題材。航空股有暑假旺季效應，航運股有跌深反彈跟紅海危機的潛在利多，傳產股則是低基期、有基本面。漢翔則是搭上國防自主的列車。這就是主力在點火，把資金從電子股抽出來，轉進這些有故事、有題材的傳產與軍工股，準備拉高出貨。"
+        "strategy_title": "策略二：傳產低基期與景氣復甦卡位（鋼鐵、塑化、營建）",
+        "strategy_content": "除了金融，外資也買大成鋼、中鋼、台化這些傳產股，投信也買了興富發、南亞。這代表大戶們在找那些跌無可跌、評價面相對低的標的。在科技股漲多之後，資金會輪動到這些有景氣復甦題材、或是低基期的傳產股，當作是下一波的布局重點。這不是亂買，這是看好產業循環，提前「卡位」啦！"
       },
       {
-        "strategy_title": "策略三：AI概念股的資金輪動與短線對作",
-        "strategy_content": "雖然國際新聞提到Alphabet在AI領域的強勁表現，但你看台股這邊，外資和投信卻是大砍群創、友達這些面板股，還有力積電、聯電這些半導體股。這說明資金正在從部分電子股撤出，可能是獲利了結，也可能是對未來展望有疑慮。但自營商卻逆勢買進力積電、聯電，這很可能是他們的「避險盤」或是「隔日沖」操作，利用權證或期貨進行對沖，並非看好長線。肖年仔，這種內外資對作的股票，你可要小心，別傻傻地去接刀！"
+        "strategy_title": "策略三：短線題材點火與權證對沖（半導體、面板）",
+        "strategy_content": "自營商買超聯電、群創、華邦電這些半導體和面板股，這很明顯是短線操作。這些股票有時候會因為產業消息、技術面反彈，成為自營商「點火」的標的。他們可能看好短線的價差，或是為了對沖手上的權證部位。肖年仔，這種股票波動大，主力進出快，你可別傻傻地跟著追高，很容易被「隔日沖」倒貨的！"
       }
     ],
-    "summary": "肖年仔，這盤面很清楚了，大戶們都在「高檔避險」，資金從電子股「倒貨」出來，轉進「金融、傳產」這些低基期、有防禦性的標的，順便卡位「旺季題材」跟「作帳行情」。那些漲多的電子股，小心被「割韭菜」，別當主力「拉高出貨」的墊腳石啊！",
+    "summary": "肖年仔，今天大戶們的動作很清楚，外資投信抱團取暖，狂掃金融避險兼作帳，傳產低基期也偷偷卡位。自營商則是短線進出，哪裡有肉就往哪裡鑽。總之，市場資金還是偏向保守，但也不放棄找機會，你可別「黑白買」，看清楚主力動向，才不會被「割韭菜」啦！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超元大金 831.7 萬張",
-        "uncle_logic": "肖年仔，高盛這種外資大戶，一次掃了這麼多元大金，這不是「假外資」在對沖，這是真金白銀在「長線布局」金融股，看好金融股的穩定性跟配息，擺明了就是把金融股當成資金的「避風港」啦！"
+        "action": "買超 1.31 萬張",
+        "uncle_logic": "高盛這種外資大咖狂買凱基金，這不是在跟你開玩笑，這是真外資的長線布局，看好金融股的穩定性跟殖利率，把錢放在這裡避險，穩穩賺，不求暴衝，只求穩健啦！"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超元大台灣50 411.2 萬張",
-        "uncle_logic": "凱基台北這種「隔日沖」大戶，竟然買了這麼多0050，這很明顯就是他們在大盤不確定性高的時候，不敢亂追個股，只好買ETF來「避險」，跟著大盤走，風險最低，但這種短線客，明天可能就「倒貨」了，肖年仔你可別傻傻地跟單。"
+        "action": "買超 1285 張",
+        "uncle_logic": "凱基台北買聯電，肖年仔，這分點就是著名的「隔日沖」大本營！今天買，明天高機率就「倒貨」給你，他們就是看準短線題材或技術面反彈，賺個價差就跑，你可別傻傻地去追高，小心被套牢！"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超彰銀 581.8 萬張",
-        "uncle_logic": "元大投信狂掃彰銀，這就是「本土國家隊」在「作帳」，金融股穩健、殖利率高，是他們年底衝績效的最好選擇，這種股票通常會抱一段時間，但肖年仔你也要注意，作帳行情結束後，可能就會有「結帳」賣壓。"
+        "action": "買超 4591 張",
+        "uncle_logic": "元大投信買華南金，這就是本土國家隊在「作帳」啦！投信為了美化帳面，會集中火力拉抬自己持有的金融股，這也是為什麼金融股最近這麼強勢的原因之一，他們要讓基金績效好看啦！"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超群創 1889.9 萬張",
-        "uncle_logic": "摩根大通這種大外資，一次砍了快 1.9 萬張群創，這擺明了就是看壞面板產業的後市，或是之前賺飽了，現在「獲利了結」準備「拉高出貨」，肖年仔你可別去「接刀」，小心被套牢！"
+        "action": "賣超 8273 張",
+        "uncle_logic": "摩根大通狂賣漢翔，這就是外資在「獲利了結」或是「避險」啦！漢翔之前漲了一波，現在外資覺得差不多了，先跑為上，把錢抽出來，轉去更穩定的標的，這叫「見好就收」！"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "Spain just opened a door America slammed shut",
+      "title": "Popular crypto firm files for Chapter 11 after token collapse",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/economy/policy/articles/spain-just-opened-door-america-021700849.html",
-      "level1_blind": "",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/popular-crypto-firm-files-chapter-213833642.html",
+      "level1_blind": {
+        "text": "Movement Labs, the developer behind the Movement blockchain, has filed for Chapter 11 bankruptcy protection in the U.S. after months of turmoil triggered by its controversial token launch and a failed effort to revive the project.\n\nCourt filings show MVMT Labs filed for Chapter 11 protection in the U.S. Bankruptcy Court for the District of Delaware on July 15.\n\nThe company is seeking to restructure under court supervision while continuing operations. Initial hearings have already been held, with creditors required to file claims by Sept. 14.\n\nThe bankruptcy follows a turbulent year for the project, which was rocked by allegations surrounding its market-making arrangements during the launch of its MOVE token.\n\nIn May 2025, Movement Labs suspended co-founder Rushi Manche after announcing an independent investigation into a market-maker agreement linked to Rentech and Web3Port.\n\nBinance later said the market maker rapidly sold 66 million MOVE tokens, or about 5% of the total supply, contributing to a sharp decline in the token's price. Coinbase also suspended MOVE trading after saying the token no longer met its listing standards.\n\nIn June 2026, the project rebranded around a new strategy focused on cross-border payments, stablecoin settlement and financial infrastructure for emerging markets, shifting away from its original Ethereum scaling ambitions. The project also announced token buybacks and investor realignment efforts as part of the overhaul.\n\nThose measures, however, failed to prevent the bankruptcy filing. MOVE has continued to trade near record lows despite the strategic pivot."
+      },
       "level2_keywords": [
         {
-          "word": "wall",
-          "ipa": "/wɔːl/",
-          "meaning": "堵塞",
-          "example": "你可以堵住外國的競爭者，買個時間"
+          "word": "Chapter",
+          "ipa": "/tʃæpər/",
+          "meaning": "財務法規章"
         },
         {
-          "word": "rival",
-          "ipa": "/ˈriːvəl/",
-          "meaning": "對手",
-          "example": "每個國家都會遇到 cheaper foreign rival"
+          "word": "bankruptcy",
+          "ipa": "/bæŋkˈræptsi/",
+          "meaning": "財務破產"
         },
         {
-          "word": "import duty",
-          "ipa": "/ɪmˈpɔːrt ˈdʊti/",
-          "meaning": "進口稅",
-          "example": "100% import duty on Chinese electric vehicles"
+          "word": "token",
+          "ipa": "/təʊkn/",
+          "meaning": "數位貨幣"
         },
         {
-          "word": "software",
-          "ipa": "/ˈsoʊfərweɪ/",
-          "meaning": "軟體",
-          "example": "Chinese-linked vehicle software"
+          "word": "market-making",
+          "ipa": "/mɑrˈkeɪt ˈmækɪŋ/",
+          "meaning": "市場創造"
         },
         {
-          "word": "connectivity",
-          "ipa": "/kənˈek.tiv.i.ti/",
-          "meaning": "連接性",
-          "example": "Chinese-linked connectivity hardware"
+          "word": "cross-border",
+          "ipa": "/krəʊs bɔrdər/",
+          "meaning": "跨國界"
         }
       ],
-      "level2_context": "",
+      "level2_context": "\n這篇文章描述了一家 cryptocurrency 公司（數位貨幣公司）因為其 token 的崩潰而宣布破產。該公司的破產是由於其 token 的市場創造 arrangements 失敗所導致。\n該公司最初的目標是通過 Ethereum 的 scalping 來實現其 vision，但最終該計畫也 failed。\n該公司現在正在嘗試重新架構，希望能夠在未來恢復穩定。\n\n這個事件對 cryptocurrency 市場有著重要的影響，表明了 token market 的不穩定性。\n",
       "level3_translation": [
         {
-          "sentence": "Every country that builds things eventually faces the same question about a cheaper foreign rival, and there are only two honest answers to it.",
-          "translation": ""
+          "sentence": "Movement Labs, the developer behind the Movement blockchain, has filed for Chapter 11 bankruptcy protection in the U.S. after months of turmoil triggered by its controversial token launch and a failed effort to revive the project.",
+          "translation": "運動labs，移動鏈的開發者，已於美國宣布破產，並要求法院進行財務重組。\n"
         },
         {
-          "sentence": "You can wall the rival out and buy yourself time, or you can let the rival in and try to learn something before it eats you.",
-          "translation": ""
+          "sentence": "Court filings show MVMT Labs filed for Chapter 11 protection in the U.S. Bankruptcy Court for the District of Delaware on July 15.",
+          "translation": "法庭文件顯示，運動labs於7月15日在美國第十二巡回法院宣布破產。\n"
         },
         {
-          "sentence": "The United States picked the wall, and picked it hard. A 100% import duty on Chinese electric vehicles took effect in September 2024, according to the Office of the U.S. Trade Representative.",
-          "translation": ""
+          "sentence": "The company is seeking to restructure under court supervision while continuing operations.",
+          "translation": "公司正在尋求在法院的監管下進行財務重組，並且 continue 进行營業活動。\n"
         },
         {
-          "sentence": "A separate Commerce Department rule bars Chinese-linked vehicle software starting with model year 2027 cars and Chinese-linked connectivity hardware from model year 2030, according to the Bureau of Industry and Security.",
-          "translation": ""
+          "sentence": "Initial hearings have already been held, with creditors required to file claims by Sept. 14.",
+          "translation": "初步聽證會已經完成，creditors 需要在9月14日之前提交申請。\n"
         },
         {
-          "sentence": "The practical result is that almost no Chinese passenger car reaches an American driveway, and almost none will.",
-          "translation": ""
+          "sentence": "The bankruptcy follows a turbulent year for the project, which was rocked by allegations surrounding its market-making arrangements during the launch of its MOVE token.",
+          "translation": "破產是由於該項目在一年的 turbulence 中受到影響，該項目的市場創造安排在其 MOVE Token 的發行中被指出存在問題。\n"
         },
         {
-          "sentence": "Europe went a different direction, and one country went furthest of all. A Spanish government report obtained by Bloomberg now spells out how far Madrid will go to keep its factories running, and the answer involves flying in Chinese workers to build the plants.",
-          "translation": ""
+          "sentence": "In May 2025, Movement Labs suspended co-founder Rushi Manche after announcing an independent investigation into a market-maker agreement linked to Rentech and Web3Port.",
+          "translation": "2025年5月，運動labs暫停了其共同創始人Rushi Manche 的工作，並宣布進行了一項獨立調查，關於與Rentech和Web3Port的市場創造安排。\n"
         },
         {
-          "sentence": "Spain is not a bystander in the auto business. It is the second-largest vehicle producer in Europe behind Germany, and the sector accounts for roughly 10% of Spanish gross domestic product and 9% of national employment, according to Invest in Spain, the government's foreign investment agency.",
-          "translation": ""
+          "sentence": "Binance later said the market maker rapidly sold 66 million MOVE tokens, or about 5% of the total supply, contributing to a sharp decline in the token's price.",
+          "translation": "Binance後來表示，市場創造 arrangements Rapidly出售了約6.6億枚MOVE Token，占總供應量的5%，導致該Token的價格急劇下跌。\n"
         },
         {
-          "sentence": "That is the context most American coverage skips. When a Spanish plant goes idle, the damage is not sector news. It is a national economic event.",
-          "translation": ""
+          "sentence": "Coinbase also suspended MOVE trading after saying the token no longer met its listing standards.",
+          "translation": "Coinbase也暫停了MOVE Token 的交易，表示該Token不再符合其上市標準。\n"
+        },
+        {
+          "sentence": "In June 2026, the project rebranded around a new strategy focused on cross-border payments, stablecoin settlement and financial infrastructure for emerging markets, shifting away from its original Ethereum scaling ambitions.",
+          "translation": "2026年6月，該項目重新定位，關注於跨國界的付款、穩定幣的結算和新興市場的金融基礎設施，從而轉移了其原有的以乙太鏈擴大為目的。\n"
+        },
+        {
+          "sentence": "The project also announced token buybacks and investor realignment efforts as part of the overhaul.",
+          "translation": "該項目還宣布進行了token 回購和投資人重新配對的工作，作為重組的部分。\n"
+        },
+        {
+          "sentence": "Those measures, however, failed to prevent the bankruptcy filing.",
+          "translation": "雖然這些措施 failed 但不能阻止破產的申請。\n"
+        },
+        {
+          "sentence": "MOVE has continued to trade near record lows despite the strategic pivot.",
+          "translation": " MOVE Token 尽管進行了戰略轉變，但仍在交易價格低至新紀錄水平。\n"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Alphabet Reports Q2 Earnings on July 22. Here’s Why Analysts Remain Bullish.",
+      "title": "Bitdeer Bitcoin Output Jumps 388% as AI Cloud Utilization Hits 95%",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-reports-q2-earnings-july-141921232.html",
-      "level1_blind": {
-        "text": "Alphabet (GOOG) (GOOGL) will report its second-quarter earnings on July 22. Although GOOGL stock has retreated 12% from its recent highs, analysts remain constructive on the long-term outlook owing to the resilience of Alphabet’s advertising business and the growing contribution from Google Cloud.\n\nA key reason behind the bullish sentiment is Alphabet’s rapid integration of artificial intelligence (AI) across its core businesses. In Google Search, AI-powered features are helping improve user engagement while making advertising more relevant and effective, supporting continued strength in the company’s largest revenue segment.\n\nAlibaba Stock Just Got Apple’s Biggest AI Endorsement. This Could Be a Game Changer for BABA.\n\nElon Musk Says If SpaceX Accomplishes Its Goals, “It Will Be Worth More Than The Rest of Earth” — Though He’s Also Said “Money Will Stop Being Relevant”\n\nGoogle Cloud is another key area of focus heading into the earnings release. Demand for AI infrastructure, large language models, and enterprise AI applications continues to accelerate, positioning Google Cloud to benefit from higher customer spending. Analysts expect cloud growth to remain robust as enterprises increasingly deploy AI workloads.\n\nIn addition, Google’s subscription revenue is growing fast, supporting its investment case.\n\nAlphabet is strengthening its AI ecosystem through its custom-designed Tensor Processing Units (TPUs). These in-house AI chips are becoming increasingly important as enterprises seek high-performance computing solutions, giving Alphabet another long-term growth opportunity.\n\nWith leadership in Search, expanding momentum in Cloud, and growing AI infrastructure capabilities, Alphabet enters its second-quarter earnings report with multiple catalysts supporting GOOGL stock’s long-term outlook."
-      },
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitdeer-bitcoin-output-jumps-388-144500365.html",
+      "level1_blind": "Bitdeer Technologies Group (NASDAQ: $BTDR) mined 990 bitcoin in June, extending a sharp production rebound while higher GPU utilization pushed its AI Cloud annualized recurring revenue to approximately $76 million.\n\nBitcoin (CRYPTO: $BTC) output rose 388% from 203 BTC a year earlier and increased from 921 BTC in May. Self-mining hashrate reached 73.0 EH/s, up from 70.2 EH/s a month earlier, while co-mining capacity climbed to 15.9 EH/s. Total hashrate under management finished June at 86.1 EH/s.\n\nBitdeer's bitcoin balance moved lower despite the production gain. The company held 150 BTC at month-end, down from 171 in May and 1,502 in June 2025, keeping capital allocation in view as it funds a wider buildout across mining, AI Cloud and colocation infrastructure.\n\nMEXC Reports 7.1 Billion USDT in SpaceX Futures Volume as Q2 Closes the Gap to Wall Street\n\nSBI Group, DigiFT, and Startale Group Advance Tokenized Capital Markets with JPYSC-Powered Settlement and Onchain Dividend Distribution\n\nMEXC Adds Five Ondo Tokenized Stocks Spanning Semiconductors to Power Infrastructure\n\nAI Cloud utilization rose to 95% from 90% in May, with 3,517 of 4,248 deployed GPUs under external subscription. Annualized recurring revenue increased from roughly $69 million, while customer deliveries were completed under a five-year GPU cloud contract following the launch of two NVIDIA (NASDAQ: $NVDA) GB300 NVL72 clusters.\n\nChief Financial Officer Michael G. Potter said June reflected continued execution across Bitdeer's AI infrastructure platform, pointing to the higher cloud run rate, GB300 deliveries and continued strength across the mining fleet.",
       "level2_keywords": [
         {
-          "word": "artificial",
-          "ipa": "/ˈɑrtɪfɪəl/",
-          "meaning": "人工智能",
-          "example": "我市你綻管一个你綻管一个你綻一个你綻一个"
+          "word": "GPU",
+          "ipa": "",
+          "meaning": "",
+          "example": ""
         },
         {
           "word": "cloud",
-          "ipa": "/kloud/",
-          "meaning": "四帬",
-          "example": "我主不管一个你綻管一个万为一个四帬"
+          "ipa": "",
+          "meaning": "",
+          "example": ""
         },
         {
-          "word": "integration",
-          "ipa": "/ɪntɪˈgreɪʃən/",
-          "meaning": "管不",
-          "example": "我主不綻一个你綻管一个万为一个管不"
+          "word": "Bitcoin",
+          "ipa": "",
+          "meaning": "",
+          "example": ""
         },
         {
-          "word": "Tensor",
-          "ipa": "/tɛnˈsɔr/",
-          "meaning": "强書",
-          "example": "我主管不四帬一个你綻管一个万为一个强書"
+          "word": "utilization",
+          "ipa": "",
+          "meaning": "",
+          "example": ""
         },
         {
-          "word": "artificial",
-          "ipa": "/ˈɑrtɪfɪəl/",
-          "meaning": "我市你綻管一个你綻管一个你綻一个你綻",
-          "example": "我市你綻管一个你綻管一个你綻一个我市你綻管一个"
+          "word": "mining",
+          "ipa": "",
+          "meaning": "",
+          "example": ""
         }
       ],
-      "level2_context": "趃发不管不一个你綻管一个四帬一个我主不管不一个你綻管一个四帬一个我主不管不一个你綻管一个四帬一个我主不管不一个我主不管不一个四帬",
+      "level2_context": "",
       "level3_translation": [
         {
-          "sentence": "Alphabet (GOOG) (GOOGL) will report its second-quarter earnings on July 22.",
-          "translation": "我主不(公四)(公四) 彿 父日 有叩本 个 2022年有 22平"
+          "sentence": "Bitdeer Technologies Group (NASDAQ: $BTDR) mined 990 bitcoin in June, extending a sharp production rebound while higher GPU utilization pushed its AI Cloud annualized recurring revenue to approximately $76 million.",
+          "translation": ""
         },
         {
-          "sentence": "Although GOOGL stock has retreated 12% from its recent highs, analysts remain constructive on the long-term outlook owing to the resilience of Alphabet’s advertising business and the growing contribution from Google Cloud.",
-          "translation": "我主(公四) 父日 输王 12% 加为 给果的 中四 一个 我主不(公四) 父日 输王 一个 中四 管不一个 四帬 一个 我主不(公四) 父日"
+          "sentence": "Bitcoin (CRYPTO: $BTC) output rose 388% from 203 BTC a year earlier and increased from 921 BTC in May.",
+          "translation": ""
         },
         {
-          "sentence": "A key reason behind the bullish sentiment is Alphabet’s rapid integration of artificial intelligence across its core businesses.",
-          "translation": "我主不管不一个 我市你綻管一个 中四 输王 我主(公四) 父日"
+          "sentence": "Self-mining hashrate reached 73.0 EH/s, up from 70.2 EH/s a month earlier, while co-mining capacity climbed to 15.9 EH/s.",
+          "translation": ""
         },
         {
-          "sentence": "In Google Search, AI-powered features are helping improve user engagement while making advertising more relevant and effective, supporting continued strength in the company’s largest revenue segment.",
-          "translation": "我主四 输王 我市你綻管一个 中四 输王 我主(公四) 父日"
+          "sentence": "Bitdeer's bitcoin balance moved lower despite the production gain.",
+          "translation": ""
         },
         {
-          "sentence": "Google Cloud is another key area of focus heading into the earnings release.",
-          "translation": "我主四 输王 载带一个 有叩本 个 2022年有"
+          "sentence": "The company held 150 BTC at month-end, down from 171 in May and 1,502 in June 2025, keeping capital allocation in view as it funds a wider buildout across mining, AI Cloud and colocation infrastructure.",
+          "translation": ""
         },
         {
-          "sentence": "Demand for AI infrastructure, large language models, and enterprise AI applications continues to accelerate, positioning Google Cloud to benefit from higher customer spending.",
-          "translation": "我主(公四) 彿 中四 四帬 跰吃一个 我主不管不一个 我主(公四) 父日"
+          "sentence": "MEXC Reports 7.1 Billion USDT in SpaceX Futures Volume as Q2 Closes the Gap to Wall Street",
+          "translation": ""
         },
         {
-          "sentence": "Analysts expect cloud growth to remain robust as enterprises increasingly deploy AI workloads.",
-          "translation": "我主不管不载吃 载吃"
+          "sentence": "SBI Group, DigiFT, and Startale Group Advance Tokenized Capital Markets with JPYSC-Powered Settlement and Onchain Dividend Distribution",
+          "translation": ""
         },
         {
-          "sentence": "In addition, Google’s subscription revenue is growing fast, supporting its investment case.",
-          "translation": "我主(公四) 父日 载吃 跰吃"
+          "sentence": "MEXC Adds Five Ondo Tokenized Stocks Spanning Semiconductors to Power Infrastructure",
+          "translation": ""
         },
         {
-          "sentence": "Alphabet’s advertising business is expected to continue growing, driven by the increasing demand for digital advertising.",
-          "translation": "我主(公四) 父日 载吃 跰吃"
+          "sentence": "AI Cloud utilization rose to 95% from 90% in May, with 3,517 of 4,248 deployed GPUs under external subscription.",
+          "translation": ""
+        },
+        {
+          "sentence": "Annualized recurring revenue increased from roughly $69 million, while customer deliveries were completed under a five-year GPU cloud contract following the launch of two NVIDIA (NASDAQ: $NVDA) GB300 NVL72 clusters.",
+          "translation": ""
+        },
+        {
+          "sentence": "Chief Financial Officer Michael G. Potter said June reflected continued execution across Bitdeer's AI infrastructure platform, pointing to the higher cloud run rate, GB300 deliveries and continued strength across the mining fleet.",
+          "translation": ""
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "74% of Americans with an advisor feel ready to retire — here's the boring 3-step plan that starts there",
+      "title": "Is The Charles Schwab Corporation (SCHW) Trading at a Discount?",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/articles/74-americans-advisor-feel-ready-142131064.html",
-      "level1_blind": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\n\nMuch of the investing advice you see online or on social media is designed to grab attention. But if you're serious about securing a comfortable retirement, buying Dogecoin or a risky bet on prediction markets probably isn't what you need.\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nJPMorgan still sees gold hitting $5,000/oz by Q4 — and savvy investors are protecting their wealth with a tax-advantaged Gold IRA. Learn more with a free guide from Priority Gold\n\nThe tax breaks in Trump's 'big beautiful bill' expire after 2028 — and experts say most people won't act in time. What to do before the window closes\n\nYou'd probably be better off with an investment strategy that was as boring and mundane as grocery shopping — just as legendary investor Warren Buffett once suggested, per CNBC (1). And just like your grocery list, your investment plan could prove most successful if you simply focus on what's predictable, cheap and, most importantly, necessary.\n\nWith that in mind, here's a relatively boring three-step strategy to improve your chances of having a stable financial position in retirement.\n\nYou can probably summarize most retirement planning with this simple statement: It's an attempt to create passive and reliable cash flows that match your basic necessities. So, if you have stable income that covers the bare essentials, you're probably on track for a comfortable retirement.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-corporation-schw-trading-143944218.html",
+      "level1_blind": {
+        "text": "Giverny Capital Asset Management, LLC, an investment management company, recently published its second-quarter 2026 investor letter. A copy of the letter can be downloaded here. The model portfolio returned 13.70% this quarter, compared to the S&P 500's 15.20% return. YTD, the portfolio gained 5.89%, while the index increased by 10.21%. The long-term link between stock appreciation and earnings growth is strong; Benjamin Graham described the market as a \"voting machine\" in the short term and a \"weighing machine\" in the long term. Despite the S&P 500's 10.2% rise in the first half of the year, 210 stocks lost value, indicating market anomalies. High-quality earnings compounders that benefit from AI capabilities are likely to maintain their competitive edge. Recently, the market has increasingly chased momentum. Tech giants are taking advantage of the optimism of investors amid fears of an AI bubble. Despite strong profit margins, reliance on \"moonshot\" investments raises sustainability concerns. The author recommends investing in both emerging tech leaders and established firms. In addition, please check the Strategy's top five holdings to know its best picks in 2026.\n\nIn its Q2 2026 investor letter, Giverny Capital Asset Management highlighted The Charles Schwab Corporation (NYSE:SCHW). The Charles Schwab Corporation (NYSE:SCHW) is a multinational financial services company that provides wealth management, securities brokerage, banking, asset management, custody, and financial advisory services. On July 20, 2026, The Charles Schwab Corporation (NYSE:SCHW) closed at $102.54 per share, reflecting a market capitalization of $178.33 billion. The Charles Schwab Corporation (NYSE:SCHW) posted a one-month return of 10.06%, while its shares gained 7.50% over the past 52 weeks.\n\nGiverny Capital Asset Management stated the following regarding The Charles Schwab Corporation (NYSE:SCHW) in its Q2 2026 investor update:\n\n\"Roughly 40% of the Index outperforming the average and 60% underperforming is not so unusual, but two-thirds of that lagging group underperforming by more than 10 percentage points seems like a lot. Even this level of dispersion might make sense if most of the earnings growth in the Index was concentrated in the 200 stocks that were up double digits. This is not the case. We own Index constituents such as The Charles Schwab Corporation (NYSE:SCHW), JP Morgan, Mastercard and Progressive Corp. that continue to grow their earnings per share at healthy rates and in some cases at higher rates than usual, but whose stock prices are lagging.\n\nSchwab, for example, earned $4.87 per share in 2025 and the consensus of Wall Street analysts calls for earnings per share, or EPS, of $7.62 in 2027. That would represent a two year growth rate of 56%, or 25% per year. As of June 30th, the shares were down 8% for the year and trading at $92.27, or 12 times the 2027 EPS estimate. The Index trades for more than 20 times the forward estimate. We added to Schwab during the quarter, making it our third-largest position.\n\nThe Charles Schwab Corporation (NYSE:SCHW) is not on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026. According to our database, 101 hedge fund portfolios held The Charles Schwab Corporation (NYSE:SCHW) at the end of the first quarter, compared to 104 in the previous quarter. While we acknowledge the potential of The Charles Schwab Corporation (NYSE:SCHW) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nIn another article, we covered The Charles Schwab Corporation (NYSE:SCHW) and shared the list of top large-cap stocks to invest in at 52-week lows. In addition, please check out our hedge fund investor letters Q2 2026 page for more investor letters from hedge funds and other leading investors.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years."
+      },
       "level2_keywords": [
         {
-          "word": "rental",
-          "ipa": "/rɛn.təl/",
-          "meaning": "租金",
-          "example": "你可以透過租金來投資"
+          "word": "Schwab",
+          "ipa": "",
+          "meaning": "Charles Schwab Corporation",
+          "example": "The Charles Schwab Corporation (NYSE:SCHW) is a multinational financial services company"
         },
         {
-          "word": "investing",
-          "ipa": "/ɪnˈtɛstɪŋ/",
-          "meaning": "投資",
-          "example": "投資是為了獲得長期收益的方法"
+          "word": "portfolio",
+          "ipa": "",
+          "meaning": "投資組合",
+          "example": "Giverny Capital Asset Management highlighted The Charles Schwab Corporation (NYSE:SCHW) in its Q2 2026 investor update:"
         },
         {
-          "word": "gold",
-          "ipa": "/ɡoʊld/",
-          "meaning": "金屬，特別是黃金",
-          "example": "黃金價格會因市場情況而波動"
+          "word": "earnings",
+          "ipa": "",
+          "meaning": "利益",
+          "example": "Schwab, for example, earned $4.87 per share in 2025 and the consensus of Wall Street analysts calls for earnings per share, or EPS, of $7.62 in 2027."
         },
         {
-          "word": "retirement",
-          "ipa": "/rɛtɪˈreɪ.tiŋ/",
-          "meaning": "退休",
-          "example": "你可以透過退休計畫來節省金額"
+          "word": "growth",
+          "ipa": "",
+          "meaning": "生長",
+          "example": "The long-term link between stock appreciation and earnings growth is strong;"
         },
         {
-          "word": "Buffett",
-          "ipa": "/ˈbʌfət/",
-          "meaning": "布法特， Warren Buffett 的名字",
-          "example": "Warren Buffett 是一位成功的投資家"
+          "word": "AI",
+          "ipa": "",
+          "meaning": "人工智能",
+          "example": "High-quality earnings compounders that benefit from AI capabilities are likely to maintain their competitive edge."
         }
       ],
-      "level2_context": "這篇文章討論了如何透過投資策略來達到穩定的退休生活。它提到了 Warren Buffett 的投資原則，強調需要選擇可預測、便宜且必要的投資方式。",
+      "level2_context": "\n\nThe Charles Schwab Corporation (NYSE:SCHW) is a multinational financial services company that provides wealth management, securities brokerage, banking, asset management, custody, and financial advisory services. On July 20, 2026, The Charles Schwab Corporation (NYSE:SCHW) closed at $102.54 per share, reflecting a market capitalization of $178.33 billion. The company's strong profit margins and competitive edge are driven by its ability to benefit from AI capabilities.\n\nDespite the S&P 500's 10.2% rise in the first half of the year, 210 stocks lost value, indicating market anomalies. High-quality earnings compounders that benefit from AI capabilities are likely to maintain their competitive edge. Recently, the market has increasingly chased momentum. Tech giants are taking advantage of the optimism of investors amid fears of an AI bubble.\n\nThe author recommends investing in both emerging tech leaders and established firms. In addition, please check the Strategy's top five holdings to know its best picks in 2026.",
       "level3_translation": [
         {
-          "sentence": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.",
-          "translation": "_moneywise 和 Yahoo Finance LLC 可能會因文章中的連結而獲得收入或利息"
+          "sentence": "Giverny Capital Asset Management, LLC, an investment management company, recently published its second-quarter 2026 investor letter.",
+          "translation": ""
         },
         {
-          "sentence": "Much of the investing advice you see online or on social media is designed to grab attention.",
-          "translation": "大多數投資諮詢在線或社交媒體上都是為了吸引注意而設計的"
+          "sentence": "The model portfolio returned 13.70% this quarter, compared to the S&P 500's 15.20% return.",
+          "translation": ""
         },
         {
-          "sentence": "But if you're serious about securing a comfortable retirement, buying Dogecoin or a risky bet on prediction markets probably isn't what you need.",
-          "translation": "但如果你serious地想要確保一個舒適的退休生活，那麼購買Dogecoin或預測市場的風險投資很可能不是最佳選擇"
+          "sentence": "YTD, the portfolio gained 5.89%, while the index increased by 10.21%.",
+          "translation": ""
         },
         {
-          "sentence": "Jeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one.",
-          "translation": "杰夫·贝佐支持了一個平台，讓任何人可以透過租金投資房子，只需$100元起步—六個方法可以幫你建造富裕如房東的 fortunes"
+          "sentence": "The long-term link between stock appreciation and earnings growth is strong; Benjamin Graham described the market as a \"voting machine\" in the short term and a \"weighing machine\" in the long term.",
+          "translation": ""
         },
         {
-          "sentence": "JPMorgan still sees gold hitting $5,000/oz by Q4 — and savvy investors are protecting their wealth with a tax-advantaged Gold IRA.",
-          "translation": "JPMorgan仍認為黃金價格將在第四季度達到$5000/盎司—而有經驗的投資者正在保護自己的財富通過稅務優惠的黃金IRA"
+          "sentence": "Despite the S&P 500's 10.2% rise in the first half of the year, 210 stocks lost value, indicating market anomalies.",
+          "translation": ""
         },
         {
-          "sentence": "Learn more with a free guide from Priority Gold.",
-          "translation": "你可以透過Priority Gold 的免費指南來學習更多"
+          "sentence": "High-quality earnings compounders that benefit from AI capabilities are likely to maintain their competitive edge.",
+          "translation": ""
         },
         {
-          "sentence": "The tax breaks in Trump's 'big beautiful bill' expire after 2028 — and experts say most people won't act in time.",
-          "translation": "特朗普的「大美麗法案」的稅務優惠在2028年後就會หมด了—專家們認為大多數人都會在時間內行動"
+          "sentence": "Recently, the market has increasingly chased momentum.",
+          "translation": ""
         },
         {
-          "sentence": "You'd probably be better off with an investment strategy that was as boring and mundane as grocery shopping — just as legendary investor Warren Buffett once suggested, per CNBC (1).",
-          "translation": "你可能更好地選擇一個投資策略，像購物店一樣平凡而無趣—正如名人投資家 Warren Buffett 曾經建議的，根據 CNN (1)"
+          "sentence": "Tech giants are taking advantage of the optimism of investors amid fears of an AI bubble.",
+          "translation": ""
         },
         {
-          "sentence": "And just like your grocery list, your investment plan could prove most successful if you simply focus on what's predictable, cheap and, most importantly, necessary.",
-          "translation": "就像你的購物清單一樣，你的投資計畫可以最成功地運行，只需要你集中注意力於那些可預測、便宜且必要的投資方式"
+          "sentence": "Despite strong profit margins, reliance on \"moonshot\" investments raises sustainability concerns.",
+          "translation": ""
         },
         {
-          "sentence": "With that in mind, here's a relatively boring three-step strategy to improve your chances of having a stable financial position in retirement.",
-          "translation": "因此，以下是一個相對平凡的三步策略，可以幫你提高退休生活中的穩定性"
+          "sentence": "The author recommends investing in both emerging tech leaders and established firms.",
+          "translation": ""
         },
         {
-          "sentence": "You can probably summarize most retirement planning with this simple statement: It's an attempt to create passive and reliable cash flows that match your basic necessities.",
-          "translation": "大多數退休計畫可以簡單地概述為：它是一個嘗試創建穩定的passive和可靠的收入流程，匹配你的基本需求"
+          "sentence": "In its Q2 2026 investor letter, Giverny Capital Asset Management highlighted The Charles Schwab Corporation (NYSE:SCHW).",
+          "translation": ""
         },
         {
-          "sentence": "So, if you have stable income that covers the bare essentials, you're probably on track for a comfortable retirement.",
-          "translation": "如果你有穩定的收入可以滿足基本需求，你很可能正處於 comfortably 的退休狀態"
+          "sentence": "The Charles Schwab Corporation (NYSE:SCHW) is a multinational financial services company that provides wealth management, securities brokerage, banking, asset management, custody, and financial advisory services.",
+          "translation": ""
+        },
+        {
+          "sentence": "On July 20, 2026, The Charles Schwab Corporation (NYSE:SCHW) closed at $102.54 per share, reflecting a market capitalization of $178.33 billion.",
+          "translation": ""
+        },
+        {
+          "sentence": "The Charles Schwab Corporation (NYSE:SCHW) posted a one-month return of 10.06%, while its shares gained 7.50% over the past 52 weeks.",
+          "translation": ""
+        },
+        {
+          "sentence": "Giverny Capital Asset Management stated the following regarding The Charles Schwab Corporation (NYSE:SCHW) in its Q2 2026 investor update:",
+          "translation": ""
+        },
+        {
+          "sentence": "\"Roughly 40% of the Index outperforming the average and 60% underperforming is not so unusual, but two-thirds of that lagging group underperforming by more than 10 percentage points seems like a lot.",
+          "translation": ""
+        },
+        {
+          "sentence": "Even this level of dispersion might make sense if most of the earnings growth in the Index was concentrated in the 200 stocks that were up double digits.",
+          "translation": ""
+        },
+        {
+          "sentence": "This is not the case.",
+          "translation": ""
+        },
+        {
+          "sentence": "We own Index constituents such as The Charles Schwab Corporation (NYSE:SCHW), JP Morgan, Mastercard and Progressive Corp. that continue to grow their earnings per share at healthy rates and in some cases at higher rates than usual, but whose stock prices are lagging.",
+          "translation": ""
+        },
+        {
+          "sentence": "Schwab, for example, earned $4.87 per share in 2025 and the consensus of Wall Street analysts calls for earnings per share, or EPS, of $7.62 in 2027.",
+          "translation": ""
+        },
+        {
+          "sentence": "That would represent a two year growth rate of 56%, or 25% per year.",
+          "translation": ""
+        },
+        {
+          "sentence": "As of June 30th, the shares were down 8% for the year and trading at $92.27, or 12 times the 2027 EPS estimate.",
+          "translation": ""
+        },
+        {
+          "sentence": "The Index trades for more than 20 times the forward estimate.",
+          "translation": ""
+        },
+        {
+          "sentence": "We added to Schwab during the quarter, making it our third-largest position.",
+          "translation": ""
+        },
+        {
+          "sentence": "The Charles Schwab Corporation (NYSE:SCHW) is not on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026.",
+          "translation": ""
+        },
+        {
+          "sentence": "According to our database, 101 hedge fund portfolios held The Charles Schwab Corporation (NYSE:SCHW) at the end of the first quarter, compared to 104 in the previous quarter.",
+          "translation": ""
+        },
+        {
+          "sentence": "While we acknowledge the potential of The Charles Schwab Corporation (NYSE:SCHW) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk.",
+          "translation": ""
+        },
+        {
+          "sentence": "If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.",
+          "translation": ""
+        },
+        {
+          "sentence": "In another article, we covered The Charles Schwab Corporation (NYSE:SCHW) and shared the list of top large-cap stocks to invest in at 52-week lows.",
+          "translation": ""
+        },
+        {
+          "sentence": "In addition, please check out our hedge fund investor letters Q2 2026 page for more investor letters from hedge funds and other leading investors.",
+          "translation": ""
+        },
+        {
+          "sentence": "READ NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years",
+          "translation": ""
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "今日台股大戶對於元大金的超買，與美國政府對中國電車產生100%進口關税的決定有著密切的因果關係。這項措施將使得幾乎沒有中華人民共和國製造的電車能夠進入美洲市場，而此時， Spain government report 表示 Madrid將會通過飛機運送中國工人來維持其工廠的運行。這一決定不僅影響了中國電車產生商，但也對於全球自動車業產生了深遠的影響。因此，當我們觀察到今日台股大戶對於元大金的超買時，我們不能不思考，這可能與美國政府對中國電車產生進口關税的決定有著密切的因果關係，而這一決定將會對全球自動車業產生深遠的影響。"
+    "market_connection": "在 cryptocurrency 和 finance 的市場中，Movement Labs 的 Chapter 11 bankruptcy protection filing 和 Bitdeer Bitcoin Output 的大幅增加都表明了對於 AI Cloud 和 mining 的強烈需求。這些事件可能與 The Charles Schwab Corporation 的股價下跌有關，因為兩者都涉及到技術和金融的變革，需要適應新的市場情勢和技術趨勢。然而，Giverny Capital Asset Management 的觀點表明，The Charles Schwab Corporation 的股價可能會在短期內受影響，但其長期成長潛力仍然存在。因此，對於這些事件的分析需要考慮到市場的整體趨勢和各個公司的特定情況。"
   }
 }
