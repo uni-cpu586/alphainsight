@@ -1,378 +1,378 @@
 {
-  "date": "2026-07-23",
-  "stock_market_date": "2026-07-22",
+  "date": "2026-07-24",
+  "stock_market_date": "2026-07-23",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 37650846
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_buy_shares": 79016661
         },
         {
           "rank": 2,
-          "stock_name": "元大高股息",
-          "ticker": "0056",
-          "net_buy_shares": 25061073
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 42718010
         },
         {
           "rank": 3,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_buy_shares": 25000620
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_buy_shares": 28618349
         },
         {
           "rank": 4,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 24210608
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_buy_shares": 23754651
         },
         {
           "rank": 5,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_buy_shares": 23949074
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_buy_shares": 22958131
         },
         {
           "rank": 6,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 23625381
+          "stock_name": "台化",
+          "ticker": "1326",
+          "net_buy_shares": 19835389
         },
         {
           "rank": 7,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_buy_shares": 22821566
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 18491991
         },
         {
           "rank": 8,
-          "stock_name": "台化",
-          "ticker": "1326",
-          "net_buy_shares": 21829435
+          "stock_name": "中纖",
+          "ticker": "1718",
+          "net_buy_shares": 17362217
         },
         {
           "rank": 9,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_buy_shares": 17679862
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 15553273
         },
         {
           "rank": 10,
-          "stock_name": "至上",
-          "ticker": "8112",
-          "net_buy_shares": 15324342
+          "stock_name": "和碩",
+          "ticker": "4938",
+          "net_buy_shares": 12446696
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_sell_shares": -27578912
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_sell_shares": -24451920
         },
         {
           "rank": 2,
-          "stock_name": "中纖",
-          "ticker": "1718",
-          "net_sell_shares": -22087651
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_sell_shares": -23145643
         },
         {
           "rank": 3,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_sell_shares": -15132458
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_sell_shares": -20604305
         },
         {
           "rank": 4,
-          "stock_name": "統一",
-          "ticker": "1216",
-          "net_sell_shares": -13799365
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -19336325
         },
         {
           "rank": 5,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_sell_shares": -10805003
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_sell_shares": -19301728
         },
         {
           "rank": 6,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -8589887
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_sell_shares": -16597306
         },
         {
           "rank": 7,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -8152551
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_sell_shares": -14627039
         },
         {
           "rank": 8,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -7758281
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -13975027
         },
         {
           "rank": 9,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_sell_shares": -7109913
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_sell_shares": -12531338
         },
         {
           "rank": 10,
-          "stock_name": "中石化",
-          "ticker": "1314",
-          "net_sell_shares": -6855450
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_sell_shares": -12396417
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 10202259
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 14471828
         },
         {
           "rank": 2,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_buy_shares": 9570182
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 10946315
         },
         {
           "rank": 3,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 8602944
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_buy_shares": 9595294
         },
         {
           "rank": 4,
-          "stock_name": "興富發",
-          "ticker": "2542",
-          "net_buy_shares": 6520000
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 8666842
         },
         {
           "rank": 5,
           "stock_name": "永豐金",
           "ticker": "2890",
-          "net_buy_shares": 6462233
-        },
-        {
-          "rank": 6,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 5901621
-        },
-        {
-          "rank": 7,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 5484626
-        },
-        {
-          "rank": 8,
-          "stock_name": "統一",
-          "ticker": "1216",
-          "net_buy_shares": 4687376
-        },
-        {
-          "rank": 9,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_buy_shares": 4112319
-        },
-        {
-          "rank": 10,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 3266388
-        }
-      ],
-      "trust_sell": [
-        {
-          "rank": 1,
-          "stock_name": "英業達",
-          "ticker": "2356",
-          "net_sell_shares": -8270863
-        },
-        {
-          "rank": 2,
-          "stock_name": "群益證",
-          "ticker": "6005",
-          "net_sell_shares": -4896773
-        },
-        {
-          "rank": 3,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_sell_shares": -3773090
-        },
-        {
-          "rank": 4,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_sell_shares": -3372846
-        },
-        {
-          "rank": 5,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_sell_shares": -3150027
-        },
-        {
-          "rank": 6,
-          "stock_name": "寶成",
-          "ticker": "9904",
-          "net_sell_shares": -3103399
-        },
-        {
-          "rank": 7,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_sell_shares": -2762337
-        },
-        {
-          "rank": 8,
-          "stock_name": "正新",
-          "ticker": "2105",
-          "net_sell_shares": -2523336
-        },
-        {
-          "rank": 9,
-          "stock_name": "和碩",
-          "ticker": "4938",
-          "net_sell_shares": -2325638
-        },
-        {
-          "rank": 10,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_sell_shares": -2158403
-        }
-      ],
-      "dealer_buy": [
-        {
-          "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 3213121
-        },
-        {
-          "rank": 2,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 2833000
-        },
-        {
-          "rank": 3,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_buy_shares": 2413619
-        },
-        {
-          "rank": 4,
-          "stock_name": "友訊",
-          "ticker": "2332",
-          "net_buy_shares": 920552
-        },
-        {
-          "rank": 5,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 700279
+          "net_buy_shares": 6667503
         },
         {
           "rank": 6,
           "stock_name": "興富發",
           "ticker": "2542",
-          "net_buy_shares": 642000
+          "net_buy_shares": 6574000
         },
         {
           "rank": 7,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_buy_shares": 558006
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 6183644
         },
         {
           "rank": 8,
-          "stock_name": "元大高股息",
-          "ticker": "0056",
-          "net_buy_shares": 544000
+          "stock_name": "統一",
+          "ticker": "1216",
+          "net_buy_shares": 4998094
         },
         {
           "rank": 9,
-          "stock_name": "微星",
-          "ticker": "2377",
-          "net_buy_shares": 535619
+          "stock_name": "中租-KY",
+          "ticker": "5871",
+          "net_buy_shares": 3017000
         },
         {
           "rank": 10,
-          "stock_name": "大聯大",
-          "ticker": "3702",
-          "net_buy_shares": 518000
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 3010844
+        }
+      ],
+      "trust_sell": [
+        {
+          "rank": 1,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -9809720
+        },
+        {
+          "rank": 2,
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_sell_shares": -6401000
+        },
+        {
+          "rank": 3,
+          "stock_name": "群益證",
+          "ticker": "6005",
+          "net_sell_shares": -4859896
+        },
+        {
+          "rank": 4,
+          "stock_name": "英業達",
+          "ticker": "2356",
+          "net_sell_shares": -3726032
+        },
+        {
+          "rank": 5,
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_sell_shares": -3666646
+        },
+        {
+          "rank": 6,
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_sell_shares": -3166569
+        },
+        {
+          "rank": 7,
+          "stock_name": "寶成",
+          "ticker": "9904",
+          "net_sell_shares": -3033261
+        },
+        {
+          "rank": 8,
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_sell_shares": -2826390
+        },
+        {
+          "rank": 9,
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_sell_shares": -2483339
+        },
+        {
+          "rank": 10,
+          "stock_name": "正新",
+          "ticker": "2105",
+          "net_sell_shares": -2483219
+        }
+      ],
+      "dealer_buy": [
+        {
+          "rank": 1,
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 4020932
+        },
+        {
+          "rank": 2,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 2024683
+        },
+        {
+          "rank": 3,
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 1148334
+        },
+        {
+          "rank": 4,
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_buy_shares": 1079000
+        },
+        {
+          "rank": 5,
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_buy_shares": 1047000
+        },
+        {
+          "rank": 6,
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 981001
+        },
+        {
+          "rank": 7,
+          "stock_name": "中華電",
+          "ticker": "2412",
+          "net_buy_shares": 762000
+        },
+        {
+          "rank": 8,
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_buy_shares": 739289
+        },
+        {
+          "rank": 9,
+          "stock_name": "興富發",
+          "ticker": "2542",
+          "net_buy_shares": 665798
+        },
+        {
+          "rank": 10,
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_buy_shares": 630328
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -2779517
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_sell_shares": -7435263
         },
         {
           "rank": 2,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_sell_shares": -1227001
+          "stock_name": "友訊",
+          "ticker": "2332",
+          "net_sell_shares": -1213999
         },
         {
           "rank": 3,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_sell_shares": -925000
+          "stock_name": "國喬",
+          "ticker": "1312",
+          "net_sell_shares": -1080000
         },
         {
           "rank": 4,
-          "stock_name": "三商壽",
-          "ticker": "2867",
-          "net_sell_shares": -901000
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_sell_shares": -825032
         },
         {
           "rank": 5,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_sell_shares": -836893
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_sell_shares": -439596
         },
         {
           "rank": 6,
-          "stock_name": "中纖",
-          "ticker": "1718",
-          "net_sell_shares": -714600
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -402000
         },
         {
           "rank": 7,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -684300
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -307400
         },
         {
           "rank": 8,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_sell_shares": -638249
+          "stock_name": "聯茂",
+          "ticker": "6213",
+          "net_sell_shares": -232056
         },
         {
           "rank": 9,
-          "stock_name": "廣達",
-          "ticker": "2382",
-          "net_sell_shares": -592819
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_sell_shares": -210139
         },
         {
           "rank": 10,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_sell_shares": -583700
+          "stock_name": "聯嘉投控",
+          "ticker": "3717",
+          "net_sell_shares": -199000
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "凱基金",
-        "shares": 13177796
+        "target": "緯創",
+        "shares": 27655831
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "聯電",
-        "shares": 1285248
+        "target": "元大台灣50",
+        "shares": 1608372
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "華南金",
-        "shares": 4591016
+        "target": "台新新光金",
+        "shares": 6512322
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "漢翔",
-        "shares": 8273673
+        "target": "彰銀",
+        "shares": 7335576
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Popular crypto firm files for Chapter 11 after token collapse",
+      "title": "The oil spike everyone feared never showed up",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/popular-crypto-firm-files-chapter-213833642.html",
-      "summary": "Popular crypto firm files for Chapter 11 after token collapse",
-      "full_text": "Movement Labs, the developer behind the Movement blockchain, has filed for Chapter 11 bankruptcy protection in the U.S. after months of turmoil triggered by its controversial token launch and a failed effort to revive the project.\n\nCourt filings show MVMT Labs filed for Chapter 11 protection in the U.S. Bankruptcy Court for the District of Delaware on July 15.\n\nThe company is seeking to restructure under court supervision while continuing operations. Initial hearings have already been held, with creditors required to file claims by Sept. 14.\n\nThe bankruptcy follows a turbulent year for the project, which was rocked by allegations surrounding its market-making arrangements during the launch of its MOVE token.\n\nIn May 2025, Movement Labs suspended co-founder Rushi Manche after announcing an independent investigation into a market-maker agreement linked to Rentech and Web3Port.\n\nBinance later said the market maker rapidly sold 66 million MOVE tokens, or about 5% of the total supply, contributing to a sharp decline in the token's price. Coinbase also suspended MOVE trading after saying the token no longer met its listing standards.\n\nIn June 2026, the project rebranded around a new strategy focused on cross-border payments, stablecoin settlement and financial infrastructure for emerging markets, shifting away from its original Ethereum scaling ambitions. The project also announced token buybacks and investor realignment efforts as part of the overhaul.\n\nThose measures, however, failed to prevent the bankruptcy filing. MOVE has continued to trade near record lows despite the strategic pivot.",
-      "published": "2026-07-21T21:38:33Z"
+      "link": "https://finance.yahoo.com/energy/articles/oil-spike-everyone-feared-never-020300378.html",
+      "summary": "The oil spike everyone feared never showed up",
+      "full_text": "Forecasting is mostly a way of buying peace of mind. You want a number for the worst case so you can decide how frightened to be, and once you have that number, you quietly stop thinking and start bracing for it.\n\nThat instinct is not irrational. It is how you decide whether to refinance, whether to take the job across town, whether the August road trip is still on.\n\nWhen the United States and Israel struck Iran on Feb. 28, Tehran shut the Strait of Hormuz, the narrow channel that carries roughly a fifth of the world's oil and refined products. The forecasts that followed were not subtle. Trading desks talked about crude at $150 a barrel. Some of them talked about $200.\n\nYou ran that math in your head. Most drivers did. One tank, times 52 weeks, times two cars in the driveway.\n\nFive months later, that number still has not shown up. Brent crude futures peaked around $126 a barrel, comfortably below the 2008 record of $147, and averaged roughly $101 between the start of the war and June 11, before briefly retreating to prewar levels near $70 in early July, according to Reuters.\n\nThe distance between that forecast and your actual receipt is one of the most underrated personal finance stories of the year. It is also worth real money to you.\n\nStart with what a closed Hormuz is supposed to mean. About 20% of the world's oil and refined products move through it, and before the war, 100 to 130 ships passed through the waterway daily, according to AAA. Traffic has been a fraction of that for most of the year.\n\nThat is the textbook definition of a supply shock. The textbook says prices go vertical and stay there.",
+      "published": "2026-07-23T02:03:00Z"
     },
     {
       "id": "news_2",
-      "title": "Bitdeer Bitcoin Output Jumps 388% as AI Cloud Utilization Hits 95%",
+      "title": "GE Vernova stock drops despite surging AI-driven orders as wind segment drags",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitdeer-bitcoin-output-jumps-388-144500365.html",
-      "summary": "Bitdeer Bitcoin Output Jumps 388% as AI Cloud Utilization Hits 95%",
-      "full_text": "Bitdeer Technologies Group (NASDAQ: $BTDR) mined 990 bitcoin in June, extending a sharp production rebound while higher GPU utilization pushed its AI Cloud annualized recurring revenue to approximately $76 million.\n\nBitcoin (CRYPTO: $BTC) output rose 388% from 203 BTC a year earlier and increased from 921 BTC in May. Self-mining hashrate reached 73.0 EH/s, up from 70.2 EH/s a month earlier, while co-mining capacity climbed to 15.9 EH/s. Total hashrate under management finished June at 86.1 EH/s.\n\nBitdeer's bitcoin balance moved lower despite the production gain. The company held 150 BTC at month-end, down from 171 in May and 1,502 in June 2025, keeping capital allocation in view as it funds a wider buildout across mining, AI Cloud and colocation infrastructure.\n\nMEXC Reports 7.1 Billion USDT in SpaceX Futures Volume as Q2 Closes the Gap to Wall Street\n\nSBI Group, DigiFT, and Startale Group Advance Tokenized Capital Markets with JPYSC-Powered Settlement and Onchain Dividend Distribution\n\nMEXC Adds Five Ondo Tokenized Stocks Spanning Semiconductors to Power Infrastructure\n\nAI Cloud utilization rose to 95% from 90% in May, with 3,517 of 4,248 deployed GPUs under external subscription. Annualized recurring revenue increased from roughly $69 million, while customer deliveries were completed under a five-year GPU cloud contract following the launch of two NVIDIA (NASDAQ: $NVDA) GB300 NVL72 clusters.\n\nChief Financial Officer Michael G. Potter said June reflected continued execution across Bitdeer's AI infrastructure platform, pointing to the higher cloud run rate, GB300 deliveries and continued strength across the mining fleet.",
-      "published": "2026-07-21T14:45:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/article/ge-vernova-stock-drops-despite-surging-ai-driven-orders-as-wind-segment-drags-131509298.html",
+      "summary": "GE Vernova stock drops despite surging AI-driven orders as wind segment drags",
+      "full_text": "Why the stock is moving: The gas turbine maker's quarterly results failed to impress investors with earnings missing expectations. Quarterly revenue beat estimates while the company saw a jump in orders for power and electrification equipment.\n\n\"With a backlog of $176 billion, continued revenue growth and margin expansion, and significant free cash flow generation, GE Vernova's momentum is building, and we are raising our 2026 financial guidance,\" CEO Scott Strazik said.\n\nThe company now sees revenue of $45.5 billion to $46.5 billion for the year, versus a previous forecast of $44.5 billion to $45.5 billion.\n\nGE Vernova's total company orders surged 88% to $24.2 billion, driven by massive demand in its Power and Electrification segment.\n\nThe company's wind unit, however, dragged on earnings, with a 40% drop in new orders and higher offshore project costs.\n\nWhat else you should know: Gas turbines have emerged as one of the hottest segments in the industrial market, powering the booming artificial intelligence infrastructure build-out and the onshoring of manufacturing.\n\nThe company has been dubbed the \"supermarket\" for the electric power industry, offering everything from natural gas turbines for generating electricity to power plant and grid modernization services.\n\nSince the beginning of 2026, the stock has rallied more than 65%, hitting an all-time high in April.",
+      "published": "2026-07-22T13:15:09Z"
     },
     {
       "id": "news_3",
-      "title": "Is The Charles Schwab Corporation (SCHW) Trading at a Discount?",
+      "title": "What Makes KLA Corporation (KLAC) an Attractive Bet?",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-corporation-schw-trading-143944218.html",
-      "summary": "Is The Charles Schwab Corporation (SCHW) Trading at a Discount?",
-      "full_text": "Giverny Capital Asset Management, LLC, an investment management company, recently published its second-quarter 2026 investor letter. A copy of the letter can be downloaded here. The model portfolio returned 13.70% this quarter, compared to the S&P 500's 15.20% return. YTD, the portfolio gained 5.89%, while the index increased by 10.21%. The long-term link between stock appreciation and earnings growth is strong; Benjamin Graham described the market as a \"voting machine\" in the short term and a \"weighing machine\" in the long term. Despite the S&P 500's 10.2% rise in the first half of the year, 210 stocks lost value, indicating market anomalies. High-quality earnings compounders that benefit from AI capabilities are likely to maintain their competitive edge. Recently, the market has increasingly chased momentum. Tech giants are taking advantage of the optimism of investors amid fears of an AI bubble. Despite strong profit margins, reliance on \"moonshot\" investments raises sustainability concerns. The author recommends investing in both emerging tech leaders and established firms. In addition, please check the Strategy's top five holdings to know its best picks in 2026.\n\nIn its Q2 2026 investor letter, Giverny Capital Asset Management highlighted The Charles Schwab Corporation (NYSE:SCHW). The Charles Schwab Corporation (NYSE:SCHW) is a multinational financial services company that provides wealth management, securities brokerage, banking, asset management, custody, and financial advisory services. On July 20, 2026, The Charles Schwab Corporation (NYSE:SCHW) closed at $102.54 per share, reflecting a market capitalization of $178.33 billion. The Charles Schwab Corporation (NYSE:SCHW) posted a one-month return of 10.06%, while its shares gained 7.50% over the past 52 weeks.\n\nGiverny Capital Asset Management stated the following regarding The Charles Schwab Corporation (NYSE:SCHW) in its Q2 2026 investor update:\n\n\"Roughly 40% of the Index outperforming the average and 60% underperforming is not so unusual, but two-thirds of that lagging group underperforming by more than 10 percentage points seems like a lot. Even this level of dispersion might make sense if most of the earnings growth in the Index was concentrated in the 200 stocks that were up double digits. This is not the case. We own Index constituents such as The Charles Schwab Corporation (NYSE:SCHW), JP Morgan, Mastercard and Progressive Corp. that continue to grow their earnings per share at healthy rates and in some cases at higher rates than usual, but whose stock prices are lagging.\n\nSchwab, for example, earned $4.87 per share in 2025 and the consensus of Wall Street analysts calls for earnings per share, or EPS, of $7.62 in 2027. That would represent a two year growth rate of 56%, or 25% per year. As of June 30th, the shares were down 8% for the year and trading at $92.27, or 12 times the 2027 EPS estimate. The Index trades for more than 20 times the forward estimate. We added to Schwab during the quarter, making it our third-largest position.\"\n\nThe Charles Schwab Corporation (NYSE:SCHW) is not on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026. According to our database, 101 hedge fund portfolios held The Charles Schwab Corporation (NYSE:SCHW) at the end of the first quarter, compared to 104 in the previous quarter. While we acknowledge the potential of The Charles Schwab Corporation (NYSE:SCHW) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nIn another article, we covered The Charles Schwab Corporation (NYSE:SCHW) and shared the list of top large-cap stocks to invest in at 52-week lows. In addition, please check out our hedge fund investor letters Q2 2026 page for more investor letters from hedge funds and other leading investors.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
-      "published": "2026-07-21T14:39:44Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/makes-kla-corporation-klac-attractive-150228462.html",
+      "summary": "What Makes KLA Corporation (KLAC) an Attractive Bet?",
+      "full_text": "Bristol Gate Capital Partners, an investment management company, published its Q4 2025 investor letter for the \"US Equity Strategy\". A copy of the letter can be downloaded here. The Strategy lagged the S&P 500 Total Return Index in the quarter in terms of returns, but outperformed in dividend growth. Despite debate over capital cycle returns, AI remained the dominant market theme, expanding from early adoption to broader enterprise adoption. The firm continues to focus on high-dividend-growth companies while maintaining discipline around valuation and earnings durability. In addition, please check the Fund's top five holdings to know its best picks in 2026.\n\nIn its Q2 2026 investor letter, Bristol US Equity Strategy highlighted KLA Corporation (NASDAQ:KLAC) as a newly added position. KLA Corporation (NASDAQ:KLAC) is a global manufacturer and distributor of process control, process-enabling, and yield management solutions for the semiconductor and electronics industries. On July 21, 2026, KLA Corporation (NASDAQ:KLAC) closed at $217.56 per share, reflecting a market capitalization of $284.19 billion. KLA Corporation (NASDAQ:KLAC) posted a one-month return of -9.53%, while its shares gained 142.52% over the past 52 weeks.\n\nBristol US Equity Strategy stated the following regarding KLA Corporation (NASDAQ:KLAC) in its Q2 2026 investor update:\n\nKLA Corporation (NASDAQ:KLAC) is a dominant provider of process-control and metrology equipment to the semiconductor industry, with a high market share that becomes more entrenched at each node transition. Metrology is the precision measurement and evaluation of nanoscale features; as chip-making and architecture grow more complex, the economic cost of yield loss rises sharply, which makes KLA's tools effectively non-discretionary for leading-edge manufacturers. Those tailwinds, combined with prudent management, support strong dividend growth.\n\nKLA Corporation (NASDAQ:KLAC) is not on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026. According to our database, 71 hedge fund portfolios held KLA Corporation (NASDAQ:KLAC) at the end of the first quarter, up from 67 in the previous quarter. While we acknowledge the potential of KLA Corporation (NASDAQ:KLAC) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nIn another article, we covered KLA Corporation (NASDAQ:KLAC) and shared the list of best NASDAQ 100 stocks to buy other than SpaceX. Vltava Fund sold its position in KLA Corporation (NASDAQ:KLAC) during Q2 2026, due to valuation concerns. In addition, please check out our hedge fund investor letters Q2 2026 page for more investor letters from hedge funds and other leading investors.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
+      "published": "2026-07-22T15:02:28Z"
     }
   ]
 }
