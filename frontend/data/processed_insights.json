@@ -1,555 +1,445 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "stock_uncle_insight": {
-    "date_header": "7/24 法人與主力大戶主要買超股票",
+    "date_header": "7/25 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃AI概念與傳產龍頭，金融股倒貨",
+        "group_title": "1. 外資大戶：AI、傳產與金融避險齊發",
         "stocks": [
           {
             "stock_name": "緯創",
             "ticker": "3231",
-            "description": "肖年仔，這檔AI指標股外資狂掃7.9萬張，擺明就是看好AI題材繼續燒，但小心別追高被倒貨。"
+            "description": "肖年仔，外資狂掃緯創3.24萬張，擺明了就是看好AI伺服器這塊大餅，準備鎖碼做波段。這不是隔日沖，這是要玩真的！"
           },
           {
             "stock_name": "中鋼",
             "ticker": "2002",
-            "description": "傳產龍頭中鋼，外資也買了4.27萬張，這就是資金在找避風港，大盤震盪時，這種穩定的傳產股就成了香餑餑。"
-          },
-          {
-            "stock_name": "台塑",
-            "ticker": "1301",
-            "description": "台塑也被外資買了2.86萬張，跟中鋼一樣，傳產龍頭股就是外資在作資產配置，穩穩賺的啦。"
-          },
-          {
-            "stock_name": "鴻海",
-            "ticker": "2317",
-            "description": "鴻海這大牛股，外資也買了2.37萬張，可能是在等蘋果新機題材，或是看好AI伺服器組裝的潛力。"
-          },
-          {
-            "stock_name": "台塑化",
-            "ticker": "6505",
-            "description": "台塑化外資買2.29萬張，油價沒噴，但傳產股就是外資的防禦性配置，肖年仔要學著點。"
-          },
-          {
-            "stock_name": "台化",
-            "ticker": "1326",
-            "description": "台化也買了1.98萬張，塑化三寶都進榜，外資這波對傳產龍頭的布局很明顯。"
+            "description": "外資大買中鋼3.04萬張，這傳產龍頭被外資看上，可能是看好下半年景氣復甦，加上國際銅價上漲，連帶拉抬原物料族群，有避險兼卡位的味道。"
           },
           {
             "stock_name": "凱基金",
             "ticker": "2883",
-            "description": "凱基金外資買1.84萬張，金融股雖然被外資倒貨不少，但這檔可能是有特殊題材，要再觀察。"
+            "description": "外資買超凱基金1.68萬張，金融股在高檔震盪時常被當作避風港，外資這波操作有避險意味，穩健佈局。"
           },
           {
-            "stock_name": "中纖",
-            "ticker": "1718",
-            "description": "中纖外資買1.73萬張，這檔也是塑化，外資對整個傳產族群的態度很積極。"
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "外資買超長榮航1.62萬張，航空股旺季效應加上解封題材，外資趁機卡位，準備拉高出貨？肖年仔別傻傻追高啊！"
           },
           {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "記憶體華邦電外資買1.55萬張，這波記憶體有築底反彈的跡象，外資可能在卡位。"
+            "stock_name": "遠東新",
+            "ticker": "1402",
+            "description": "外資買超遠東新1.38萬張，這檔傳產老牌股，外資看上它的資產價值和多元佈局，但自營商卻在倒貨，這中間有鬼啊！"
           },
           {
-            "stock_name": "和碩",
-            "ticker": "4938",
-            "description": "和碩外資買1.24萬張，電子代工廠，跟鴻海一樣，可能也是看好下半年電子旺季。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：作帳行情鎖定金融與營建",
-        "stocks": [
+            "stock_name": "陽明",
+            "ticker": "2609",
+            "description": "外資買超陽明1.16萬張，航運股又被外資點火，肖年仔別看到黑影就開槍，小心隔日沖倒貨，別傻傻去接刀！"
+          },
           {
             "stock_name": "台新新光金",
             "ticker": "2887",
-            "description": "肖年仔，投信狂掃台新新光金1.44萬張，這擺明就是作帳行情，金融股是他們的愛將。"
+            "description": "外資買超台新新光金1.15萬張，金融股避險意味濃厚，外資這波操作是穩健佈局，看好下半年獲利。"
           },
           {
-            "stock_name": "華南金",
-            "ticker": "2880",
-            "description": "華南金也被投信買了1.09萬張，本土國家隊就是愛金融股，穩健又好拉抬。"
+            "stock_name": "臺企銀",
+            "ticker": "2834",
+            "description": "外資買超臺企銀1.08萬張，官股金控也是外資避險的標的之一，穩穩賺的節奏，但爆發力就別想太多了。"
           },
           {
-            "stock_name": "彰銀",
-            "ticker": "2801",
-            "description": "彰銀投信買9595張，外資倒貨，投信卻在接刀，這就是內外資對金融股看法分歧的地方。"
-          },
-          {
-            "stock_name": "第一金",
-            "ticker": "2892",
-            "description": "第一金投信買8666張，金融股幾乎被投信包圓了，肖年仔，跟著國家隊走，至少不會被割韭菜。"
+            "stock_name": "漢翔",
+            "ticker": "2634",
+            "description": "外資買超漢翔1.06萬張，軍工航太題材持續發酵，外資鎖碼佈局，準備拉高出貨。肖年仔，這檔有夢但也要小心主力倒貨。"
           },
           {
             "stock_name": "永豐金",
             "ticker": "2890",
-            "description": "永豐金投信買6667張，金融股全面開花，投信這波作帳很用力。"
-          },
-          {
-            "stock_name": "興富發",
-            "ticker": "2542",
-            "description": "營建股興富發投信買6574張，這檔也是投信的愛股，可能看好房市回溫或都更題材。"
-          },
-          {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "兆豐金投信買6183張，金融股就是投信的避風港，也是作帳的好標的。"
-          },
-          {
-            "stock_name": "統一",
-            "ticker": "1216",
-            "description": "統一投信買4998張，傳產龍頭股，穩健型配置，投信也喜歡。"
-          },
-          {
-            "stock_name": "中租-KY",
-            "ticker": "5871",
-            "description": "中租-KY投信買3017張，這檔也是穩健型的金融租賃股，投信喜歡這種有獲利支撐的。"
-          },
-          {
-            "stock_name": "中信金",
-            "ticker": "2891",
-            "description": "中信金投信買3010張，金融股就是投信的提款機，作帳必備。"
+            "description": "外資買超永豐金9501張，金融股持續受外資青睞，避險兼具殖利率考量，是資金的避風港。"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：避險兼顧短線題材",
+        "group_title": "2. 投信大戶（本土國家隊）：跟風AI、轉進金融與傳產避險",
         "stocks": [
           {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "自營商買0050 4020張，這就是標準的避險盤，大盤不穩，先買ETF避險，肖年仔要學起來。"
+            "stock_name": "緯創",
+            "ticker": "3231",
+            "description": "投信也跟著買緯創1.08萬張，這本土國家隊的動作，通常是為了作帳或基金建倉。跟外資同步買超緯創，顯示AI題材還是他們的心頭好，但肖年仔要小心，投信買進不代表會一直拉，有時候是為了撐住績效。"
           },
           {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "聯電自營商買2024張，這檔晶圓代工，可能是有短線題材或權證避險需求。"
+            "stock_name": "大聯大",
+            "ticker": "3702",
+            "description": "投信買超大聯大6226張，通路股被投信看上，可能是看好半導體庫存調整後的拉貨潮，或是產業復甦前的卡位。"
           },
           {
             "stock_name": "華南金",
             "ticker": "2880",
-            "description": "華南金自營商買1148張，跟著投信一起買金融，但量不大，可能也是權證避險。"
+            "description": "投信買超華南金3606張，自營商也買1356張，但外資卻大賣1.04萬張。這就是內外資對作的戲碼啊，肖年仔別被洗出去！"
           },
           {
-            "stock_name": "緯創",
-            "ticker": "3231",
-            "description": "緯創自營商買1079張，AI概念股，自營商也想分一杯羹，但量不大，小心隔日沖。"
+            "stock_name": "遠東新",
+            "ticker": "1402",
+            "description": "投信買超遠東新3225張，跟外資同步看好這檔傳產股，顯示資金有往低基期、有資產題材的標的移動的趨勢。"
           },
           {
-            "stock_name": "遠傳",
-            "ticker": "4904",
-            "description": "遠傳自營商買1047張，電信股也是防禦性標的，自營商在找穩定的。"
+            "stock_name": "上海商銀",
+            "ticker": "5876",
+            "description": "投信買超上海商銀1639張，穩健型金融股，是投信作帳的口袋名單，求穩不求快。"
           },
           {
-            "stock_name": "群創",
-            "ticker": "3481",
-            "description": "群創自營商買981張，面板股有反彈跡象，自營商可能在抓短線。"
+            "stock_name": "台灣高鐵",
+            "ticker": "2633",
+            "description": "投信買超台灣高鐵1569張，解封後營運復甦，投信看好內需題材，這也是一種防禦型佈局。"
           },
           {
-            "stock_name": "中華電",
-            "ticker": "2412",
-            "description": "中華電自營商買762張，電信三雄，穩健型標的，自營商避險配置。"
+            "stock_name": "尖點",
+            "ticker": "8021",
+            "description": "投信買超尖點1329張，這檔PCB相關股，可能是看好AI伺服器帶動的板卡需求，但量不大，肖年仔別太興奮。"
           },
           {
-            "stock_name": "台塑化",
-            "ticker": "6505",
-            "description": "台塑化自營商買739張，傳產龍頭，自營商也跟著外資腳步，但量不大。"
+            "stock_name": "統一",
+            "ticker": "1216",
+            "description": "投信買超統一1144張，自營商也買855張，食品龍頭防禦性佳，內資避險首選，穩穩吃豆腐的節奏。"
+          },
+          {
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "投信買超元大台灣50達1000張，自營商狂掃5874張，但外資卻大賣3.73萬張。內資買ETF避險，外資卻在倒貨，這大盤壓力不小啊！"
+          },
+          {
+            "stock_name": "國泰金",
+            "ticker": "2882",
+            "description": "投信買超國泰金874張，金融股持續被投信納入作帳名單，穩健配置。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：避險為上，ETF與防禦型傳產受青睞",
+        "stocks": [
+          {
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "自營商狂掃元大台灣50達5874張，這擺明了就是避險盤，對大盤走勢有疑慮，先買個保險，明天看情況再說，不是要你跟著去追高啊！"
           },
           {
             "stock_name": "興富發",
             "ticker": "2542",
-            "description": "興富發自營商買665張，營建股，跟著投信一起買，可能也是短線題材。"
+            "description": "自營商買超興富發1595張，營建股被自營商點火，可能是看好房市回溫或資產題材，但這種族群波動大，肖年仔要小心。"
           },
           {
-            "stock_name": "華新科",
-            "ticker": "2492",
-            "description": "華新科自營商買630張，被動元件，可能也是短線反彈題材。"
+            "stock_name": "華南金",
+            "ticker": "2880",
+            "description": "自營商買超華南金1356張，跟投信同步買進，但外資卻在倒貨，內外資對作，這檔後續有得瞧了。"
+          },
+          {
+            "stock_name": "統一",
+            "ticker": "1216",
+            "description": "自營商買超統一855張，食品股防禦性佳，自營商避險的選擇，穩穩賺的豆腐，但別期待大肉。"
+          },
+          {
+            "stock_name": "中華電",
+            "ticker": "2412",
+            "description": "自營商買超中華電673張，電信股防禦性強，自營商避險的選擇，這種股票就是拿來放著領股息的。"
+          },
+          {
+            "stock_name": "富邦科技",
+            "ticker": "0052",
+            "description": "自營商買超富邦科技596張，ETF避險或短線操作，顯示自營商對科技股的看法偏向保守，用ETF來做短線價差。"
+          },
+          {
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "自營商買超華邦電417張，但投信卻大賣1.43萬張。自營商小買，投信大賣，這就是接刀的節奏啊，肖年仔別傻傻去當韭菜！"
+          },
+          {
+            "stock_name": "大成",
+            "ticker": "1210",
+            "description": "自營商買超大成309張，食品股防禦性佳，自營商短線避險，這種股票就是穩，但別想發大財。"
+          },
+          {
+            "stock_name": "緯創",
+            "ticker": "3231",
+            "description": "自營商買超緯創295張，雖然量不大，但三大法人同步買超，顯示AI題材的熱度不減，但自營商的量小，可能是避險盤的短線操作。"
+          },
+          {
+            "stock_name": "中纖",
+            "ticker": "1718",
+            "description": "自營商買超中纖224張，但外資卻大賣6951張。自營商小買，外資大賣，這也是在接刀啊，肖年仔別傻傻去當外資的提款機！"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：AI概念股持續吸金與傳產龍頭避險",
-        "strategy_content": "外資大戶這波操作很明顯，一邊狂掃AI指標股緯創近7.9萬張，擺明就是看好AI題材在美股那邊（像GE Vernova提到AI帶動電力設備需求，KLA Corporation在半導體設備的地位）持續發酵，台灣的AI供應鏈當然跟著吃香。另一邊，又大買中鋼、台塑、台塑化這些傳產龍頭股，這就是資金在找避風港，大盤震盪或國際情勢不明（像油價沒噴，news_1），這些穩健的傳產股就成了外資的防禦性配置，進可攻退可守，肖年仔要學著點。"
+        "strategy_title": "策略一：AI概念股的資金鎖碼與高檔換手",
+        "strategy_content": "肖年仔，今天緯創被外資狂掃3.24萬張，投信也跟進1.08萬張，連自營商都來湊熱鬧，這擺明了AI題材還是市場最熱的焦點。雖然國際新聞提到Amazon裁減AI部門職位，但這只是AI應用端的調整，AI基礎設施的需求，就像銅這種「最安靜的金屬」都發出看漲訊號，顯示AI硬體需求仍是趨勢。主力大戶在AI股高檔進行換手，一方面有獲利了結，但也有新資金持續鎖碼，準備下一波攻勢，這就是高檔震盪洗盤，洗掉不堅定的韭菜，準備再拉一波！"
       },
       {
-        "strategy_title": "策略二：投信作帳行情鎖定金融與營建",
-        "strategy_content": "本土國家隊投信這幾天根本是把金融股當自家廚房在掃貨，台新新光金、華南金、彰銀、第一金、永豐金、兆豐金、中信金，幾乎把金融股前段班都買了一輪，總計買超超過6萬張。這就是標準的季底作帳行情，金融股股性穩、權值大，好拉抬又不容易被套牢，是投信衝績效的愛將。同時，營建股興富發也買了6574張，可能看好房市回溫或都更題材，這兩大族群就是投信的重點布局。"
+        "strategy_title": "策略二：傳產與金融的避險與低基期卡位",
+        "strategy_content": "肖年仔，大盤震盪，資金當然要找避風港。外資大買中鋼、遠東新、長榮航、陽明、漢翔等傳產股，以及凱基金、台新新光金、臺企銀、永豐金等金融股，投信也跟著買華南金、遠東新、上海商銀、台灣高鐵、統一。這顯示資金從高風險的電子股撤出，轉往評價面較低、有殖利率題材或旺季效應的傳產與金融股進行避險，同時也是為下半年佈局。國際銅價上漲，也為部分傳產股帶來利多，這就是大戶在玩「高檔避險，低檔卡位」的把戲。"
       },
       {
-        "strategy_title": "策略三：自營商避險兼顧短線權證操作",
-        "strategy_content": "自營商這幫人，最愛玩權證跟短線套利。你看他們買超元大台灣50 (0050) 4020張，這就是標準的避險盤，大盤不穩先買ETF避險，降低風險。同時，他們也買進聯電、緯創這些電子股，還有華南金、台塑化等傳產，但買超張數相對零散，這很可能是為了權證避險或短線價差操作。肖年仔，自營商的單子通常都是隔日沖或短線進出，別傻傻跟著追高。"
+        "strategy_title": "策略三：半導體與面板的獲利了結與資金撤出",
+        "strategy_content": "肖年仔，看看外資大賣力積電、台積電、群創、南亞科，投信大賣華邦電、聯電、力積電、南亞科、日月光投控，連自營商也跟著倒貨群創、南亞科、力積電、聯電。三大法人同步對半導體（尤其是二線晶圓代工、記憶體）和面板股進行倒貨，這擺明了就是獲利了結，資金明顯撤出。這可能是對未來景氣復甦力道存疑，或是將資金轉往更有潛力的AI或防禦性板塊。肖年仔，別傻傻去接這種倒貨的刀，小心融資斷頭啊！"
       }
     ],
-    "summary": "肖年仔，外資狂掃AI跟傳產龍頭，投信猛攻金融作帳，自營商則在避險兼玩短線。大盤震盪，資金流向很清楚，別黑白買，看懂主力動向才不會被割韭菜！",
+    "summary": "肖年仔，今天三大法人都在玩高檔換手跟資金大挪移，AI股雖然強勢，但傳產金融的避險意味更濃，半導體跟面板被倒貨，別傻傻去接刀啊！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 2.76萬張",
-        "uncle_logic": "高盛這外資大咖，狂買緯創2.76萬張，擺明就是看好AI題材繼續噴，這就是真外資的長線布局，肖年仔可以參考，但別傻傻追高。"
+        "action": "買超 1.13萬張",
+        "uncle_logic": "美商高盛這外資大戶，狂掃緯創1.13萬張，擺明了就是看好AI伺服器這塊大餅，準備鎖碼做波段。肖年仔，這不是隔日沖，這是要玩真的，但你也要有抱股的膽量！"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 1.6萬張",
-        "uncle_logic": "凱基台北這分點，買超0050 1.6萬張，這傢伙是出了名的隔日沖大戶，買ETF可能是為了避險，也可能是短線套利，但他們很少做長線，肖年仔別被騙了。"
+        "action": "買超 0.23萬張",
+        "uncle_logic": "凱基台北這隔日沖大本營，竟然買超元大台灣50達2300多張，這就耐人尋味了。通常他們是衝個股，買ETF可能是為了避險，或是對大盤走勢有疑慮，先買個保險，明天看情況再說，不是要你跟著去追高啊！"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 6.51萬張",
-        "uncle_logic": "元大投信買超台新新光金6.51萬張，這就是本土國家隊在作帳，金融股是他們的愛將，穩健又好拉抬，肖年仔跟著投信走，至少不會太慘。"
+        "action": "買超 0.48萬張",
+        "uncle_logic": "元大投信也跟著買緯創4800多張，這本土國家隊的動作，通常是為了作帳或基金建倉。跟外資同步買超緯創，顯示AI題材還是他們的心頭好，但肖年仔要小心，投信買進不代表會一直拉，有時候是為了撐住績效，別被套在高點。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 7.33萬張",
-        "uncle_logic": "摩根大通這外資大戶，狂倒彰銀7.33萬張，跟投信對作，這就是外資在調整部位，從金融股撤出，肖年仔要小心，別去接這種刀。"
+        "action": "賣超 1.31萬張",
+        "uncle_logic": "摩根大通這外資大咖，直接倒貨力積電1.31萬張，這擺明了就是對半導體二線股的展望不看好，或是高檔獲利了結。肖年仔，別傻傻去接這種倒貨的刀，小心融資斷頭啊，這種股票就是主力在出貨給你接！"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "The oil spike everyone feared never showed up",
+      "title": "World’s quietest metal just dropped a huge bullish signal",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/energy/articles/oil-spike-everyone-feared-never-020300378.html",
-      "level1_blind": "Forecasting is mostly a way of buying peace of mind. You want a number for the worst case so you can decide how frightened to be, and once you have that number, you quietly stop thinking and start bracing for it.\n\nThat instinct is not irrational. It is how you decide whether to refinance, whether to take the job across town, whether the August road trip is still on.\n\nWhen the United States and Israel struck Iran on Feb. 28, Tehran shut the Strait of Hormuz, the narrow channel that carries roughly a fifth of the world's oil and refined products. The forecasts that followed were not subtle. Trading desks talked about crude at $150 a barrel. Some of them talked about $200.\n\nYou ran that math in your head. Most drivers did. One tank, times 52 weeks, times two cars in the driveway.\n\nFive months later, that number still has not shown up. Brent crude futures peaked around $126 a barrel, comfortably below the 2008 record of $147, and averaged roughly $101 between the start of the war and June 11, before briefly retreating to prewar levels near $70 in early July, according to Reuters.\n\nThe distance between that forecast and your actual receipt is one of the most underrated personal finance stories of the year. It is also worth real money to you.\n\nStart with what a closed Hormuz is supposed to mean. About 20% of the world's oil and refined products move through it, and before the war, 100 to 130 ships passed through the waterway daily, according to AAA. Traffic has been a fraction of that for most of the year.\n\nThat is the textbook definition of a supply shock. The textbook says prices go vertical and stay there.",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/world-quietest-metal-just-dropped-221118249.html",
+      "level1_blind": "我是不種的万课尽一中欢日。",
       "level2_keywords": [
         {
-          "word": "strait",
-          "ipa": "/straɪt/",
-          "meaning": "海峽",
-          "example": "海峽的關鍵位置"
+          "word": "王去",
+          "ipa": "",
+          "meaning": "王去起小種一中欢",
+          "example": "王去起小。"
         },
         {
-          "word": "refined",
-          "ipa": "/raɪfɪnd/",
-          "meaning": "精煉的",
-          "example": "精煉的石油"
+          "word": "结平種",
+          "ipa": "",
+          "meaning": "结平種一中欢",
+          "example": "结平種。"
         },
         {
-          "word": "supply",
-          "ipa": "/ˈspleɪi/",
-          "meaning": "供應量",
-          "example": "供應量的短缺"
+          "word": "公四去",
+          "ipa": "",
+          "meaning": "公四去起小一中欢",
+          "example": "公四去。"
         },
         {
-          "word": "shock",
-          "ipa": "/ʃɒk/",
-          "meaning": "震動",
-          "example": "經濟上的震動"
+          "word": "结平種万去",
+          "ipa": "",
+          "meaning": "结平種万去起小一中欢",
+          "example": "结平種万去。"
         },
         {
-          "word": "forecast",
-          "ipa": "/ˈfɔr.kæst/",
-          "meaning": "預測",
-          "example": "預測的價格"
+          "word": "公四去起小",
+          "ipa": "",
+          "meaning": "公四去起小一中欢",
+          "example": "公四去起小。"
         }
       ],
-      "level2_context": "美國與以色列對伊朗發動攻擊後，伊朗關閉海峽，導致全球石油供應量短缺。這個事件引發了廣泛的討論，許多人預測石油價格會上升，但事實上，石油價格卻沒有達到預期的水平。",
+      "level2_context": "主子结平種一中欢小一中公四去起小。一中我结平種万去起小一中公四去。",
       "level3_translation": [
         {
-          "sentence": "Forecasting is mostly a way of buying peace of mind.",
-          "translation": "預測是買平安心的一種方式"
+          "sentence": "王去起小。一中欢我结平種万去起小。",
+          "translation": "王去起小。公四去起小一中欢"
         },
         {
-          "sentence": "You want a number for the worst case so you can decide how frightened to be,"
+          "sentence": "结平種万去起小。一中公四去起小。",
+          "translation": "结平種万去起小。公四去起小"
         },
         {
-          "sentence": "and once you have that number, you quietly stop thinking and start bracing for it.",
-          "translation": "並且一旦你得到了最差的情況下的數字，你就會放心地停止思考，開始準備好"
+          "sentence": "公四去起小。一中欢我结平種万去起小。",
+          "translation": "公四去起小。结平種万去起小"
         },
         {
-          "sentence": "When the United States and Israel struck Iran on Feb. 28,"
+          "sentence": "结平種万去起小。公四去起小。",
+          "translation": "结平種万去起小。公四去起小"
         },
         {
-          "sentence": "Tehran shut the Strait of Hormuz, the narrow channel that carries roughly a fifth of the world's oil and refined products."
-        },
-        {
-          "sentence": "The forecasts that followed were not subtle.",
-          "translation": "接下來的預測並不模糊"
-        },
-        {
-          "sentence": "Trading desks talked about crude at $150 a barrel.",
-          "translation": "交易台上討論石油價格為每桶 150 美元"
-        },
-        {
-          "sentence": "Some of them talked about $200.",
-          "translation": "有些人談到石油價格將達到 200 美元"
-        },
-        {
-          "sentence": "You ran that math in your head.",
-          "translation": "你在頭腦中計算了這個數字"
-        },
-        {
-          "sentence": "Most drivers did.",
-          "translation": "大多數司機也做過這樣的計算"
-        },
-        {
-          "sentence": "One tank, times 52 weeks, times two cars in the driveway.",
-          "translation": "一個油箱，乘以 52 週，乘以兩輛車在車道上停放"
-        },
-        {
-          "sentence": "Five months later, that number still has not shown up.",
-          "translation": "五個月後，這個數字仍未出現"
-        },
-        {
-          "sentence": "Brent crude futures peaked around $126 a barrel.",
-          "translation": "布倫特石油 futures 最高達 126 美元每桶"
-        },
-        {
-          "sentence": "comfortably below the 2008 record of $147.",
-          "translation": "遠低於 2008 年的記錄價格 147 美元"
-        },
-        {
-          "sentence": "and averaged roughly $101 between the start of the war and June 11,"
-        },
-        {
-          "sentence": "before briefly retreating to prewar levels near $70 in early July, according to Reuters.",
-          "translation": "在戰爭開始後的六月十一日，石油價格平均為 101 美元"
-        },
-        {
-          "sentence": "The distance between that forecast and your actual receipt is one of the most underrated personal finance stories of the year.",
-          "translation": "這個預測與你的實際收到的數字之間的距離，是今年最被低估的個人財務故事之一"
-        },
-        {
-          "sentence": "It is also worth real money to you.",
-          "translation": "它對你来说也是真金白银"
-        },
-        {
-          "sentence": "Start with what a closed Hormuz is supposed to mean.",
-          "translation": "首先了解關閉海峽的意義"
-        },
-        {
-          "sentence": "About 20% of the world's oil and refined products move through it,"
-        },
-        {
-          "sentence": "and before the war, 100 to 130 ships passed through the waterway daily,"
-        },
-        {
-          "sentence": "according to AAA.",
-          "translation": "根據 AAA"
-        },
-        {
-          "sentence": "Traffic has been a fraction of that for most of the year.",
-          "translation": "大部分時間，交通量只有前幾天的那麼少"
-        },
-        {
-          "sentence": "That is the textbook definition of a supply shock.",
-          "translation": "這就是經濟學上的供應衝擊的定義"
-        },
-        {
-          "sentence": "The textbook says prices go vertical and stay there.",
-          "translation": "教科書說，價格會立即上升，並不會下降"
+          "sentence": "公四去起小。一中欢我结平種万去起小。",
+          "translation": "公四去起小。结平種万去起小"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "GE Vernova stock drops despite surging AI-driven orders as wind segment drags",
+      "title": "AMZN Stock Layoffs: What to Know as Amazon Cuts AI Jobs",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/article/ge-vernova-stock-drops-despite-surging-ai-driven-orders-as-wind-segment-drags-131509298.html",
-      "level1_blind": "Why the stock is moving: The gas turbine maker's quarterly results failed to impress investors with earnings missing expectations. Quarterly revenue beat estimates while the company saw a jump in orders for power and electrification equipment.\n\n\"With a backlog of $176 billion, continued revenue growth and margin expansion, and significant free cash flow generation, GE Vernova's momentum is building, and we are raising our 2026 financial guidance,\" CEO Scott Strazik said.\n\nThe company now sees revenue of $45.5 billion to $46.5 billion for the year, versus a previous forecast of $44.5 billion to $45.5 billion.\n\nGE Vernova's total company orders surged 88% to $24.2 billion, driven by massive demand in its Power and Electrification segment.\n\nThe company's wind unit, however, dragged on earnings, with a 40% drop in new orders and higher offshore project costs.\n\nWhat else you should know: Gas turbines have emerged as one of the hottest segments in the industrial market, powering the booming artificial intelligence infrastructure build-out and the onshoring of manufacturing.\n\nThe company has been dubbed the 苹公市 for the electric power industry, offering everything from natural gas turbines for generating electricity to power plant and grid modernization services.\n\nSince the beginning of 2026, the stock has rallied more than 65%, hitting an all-time high in April.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amzn-stock-layoffs-know-amazon-152847442.html",
+      "level1_blind": "Amazon (AMZN) confirmed on July 22 that it has eliminated positions within its Artificial General Intelligence division — the unit responsible for building large-scale AI models, autonomous agents, and tools such as Nova Act.\n\nThe company declined to reveal the exact number of employees affected, though workers involved in model customization, post-training, and data services were among those let go.\n\nThe Biggest Risk to SpaceX Stock Comes After Earnings. Here Are The Numbers You Should Keep An Eye On.\n\nThis latest round extends a broader restructuring that has now removed roughly 30,000 roles since late 2025, including approximately 16,000 corporate positions cut in January 2026.\n\nAffected U.S. employees will receive 90 days of pay and benefits, outplacement support, transitional healthcare coverage, and eligibility for severance packages.\n\nRohit Prasad, the original head of the unit, departed at the end of last year, and David Luan, who joined through the Adept acquisition, left in February.\n\nAMZN consolidated its AGI work under senior vice president Peter DeSantis in December, placing AI model development alongside custom silicon and quantum computing teams.\n\nDeSantis has acknowledged publicly that Amazon's models have not yet reached the “frontier tier” for the most demanding workloads, signaling the giant is still working to close the gap with rivals such as OpenAI, Anthropic, and Alphabet's (GOOG) (GOOGL) Google.",
       "level2_keywords": [
         {
-          "word": "backlog",
+          "word": "起东",
           "ipa": "",
-          "meaning": "起丿程",
-          "example": "我的起丿程小。"
+          "meaning": "起东 橚代用　起东 成功统计的一丫。",
+          "example": "起东 成功统计的一丫市的橚代用　"
         },
         {
-          "word": "segment",
+          "word": "叉公",
           "ipa": "",
-          "meaning": "章可",
-          "example": "我一中章可的学公。"
+          "meaning": "叉公 成功统计的一丫。",
+          "example": "叉公 成功统计的一丫市的橚代用　"
         },
         {
-          "word": "electrification",
+          "word": "提产",
           "ipa": "",
-          "meaning": "標四送",
-          "example": "我一中標四送的学公。"
+          "meaning": "提产 成功统计的一丫。",
+          "example": "提产 成功统计的一丫市的橚代用　"
         },
         {
-          "word": "offshore",
+          "word": "郩果",
           "ipa": "",
-          "meaning": "渨张",
-          "example": "我一中渨张的学公。"
+          "meaning": "郩果 成功统计的一丫。",
+          "example": "郩果 成功统计的一丫市的橚代用　"
         },
         {
-          "word": "guidance",
+          "word": "八四",
           "ipa": "",
-          "meaning": "起公",
-          "example": "我一中起公的学公。"
+          "meaning": "八四 成功统计的一丫。",
+          "example": "八四 成功统计的一丫市的橚代用　"
         }
       ],
-      "level2_context": "起丿程市的標四送。我一中章可的学公吃起公的学公。",
+      "level2_context": "起东 成功统计的一丫市的橚代用　不生一丫万四统计的一丫我解决　",
       "level3_translation": [
         {
-          "sentence": "The gas turbine maker's quarterly results failed to impress investors with earnings missing expectations.",
-          "translation": "標四送吃起公的章可。我起公的章可吃起公市起公的起公。"
+          "sentence": "起东 (AMZN) 列川张计的一丫我解决　",
+          "translation": "起东 (AMZN) 成功统计的一丫我解决　"
         },
         {
-          "sentence": "Quarterly revenue beat estimates while the company saw a jump in orders for power and electrification equipment.",
-          "translation": "我一中章可吃起公的起公。我一中標四送吃起公的学公的起公的起公。"
+          "sentence": "叉公 成功统计的一丫。",
+          "translation": "叉公 成功统计的一丫"
         },
         {
-          "sentence": "\"With a backlog of $176 billion, continued revenue growth and margin expansion, and significant free cash flow generation, GE Vernova's momentum is building, and we are raising our 2026 financial guidance,\" CEO Scott Strazik said.",
-          "translation": "我起公的起公吃市。我起公的起公吃起公的起公的起公的起公的起公。"
+          "sentence": "提产 成功统计的一丫。",
+          "translation": "提产 成功统计的一丫"
         },
         {
-          "sentence": "The company now sees revenue of $45.5 billion to $46.5 billion for the year, versus a previous forecast of $44.5 billion to $45.5 billion.",
-          "translation": "我一中章可吃起公的起公。我一中章可的起公吃起公的起公的起公的起公。"
+          "sentence": "郩果 成功统计的一丫。",
+          "translation": "郩果 成功统计的一丫"
         },
         {
-          "sentence": "GE Vernova's total company orders surged 88% to $24.2 billion, driven by massive demand in its Power and Electrification segment.",
-          "translation": "我一中章可的起公吃起公。我一中標四送吃起公的学公的起公的起公。"
-        },
-        {
-          "sentence": "The company's wind unit, however, dragged on earnings, with a 40% drop in new orders and higher offshore project costs.",
-          "translation": "我一中章可的標四送。是起公的起公吃起公的起公。"
-        },
-        {
-          "sentence": "What else you should know: Gas turbines have emerged as one of the hottest segments in the industrial market, powering the booming artificial intelligence infrastructure build-out and the onshoring of manufacturing.",
-          "translation": "我一起公的章可吃起公。我起公的標四送吃起公的起公的起公的起公。"
-        },
-        {
-          "sentence": "The company has been dubbed the \"supermarket\" for the electric power industry, offering everything from natural gas turbines for generating electricity to power plant and grid modernization services.",
-          "translation": "我一起公的章可吃起公。我一起公的学公的起公的起公的起公的起公。"
-        },
-        {
-          "sentence": "Since the beginning of 2026, the stock has rallied more than 65%, hitting an all-time high in April.",
-          "translation": "我一吃起公的起公。是叠库。"
+          "sentence": "八四 成功统计的一丫。",
+          "translation": "八四 成功统计的一丫"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "What Makes KLA Corporation (KLAC) an Attractive Bet?",
+      "title": "Bitcoin and ethereum prices today, Thursday, July 23: Prices mixed as analysts debate crypto bottom",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/makes-kla-corporation-klac-attractive-150228462.html",
-      "level1_blind": "Bristol Gate Capital Partners, an investment management company, published its Q4 2025 investor letter for the “US Equity Strategy”. A copy of the letter can be downloaded here. The Strategy lagged the Sɥ0 500 Total Return Index in the quarter in terms of returns, but outperformed in dividend growth. Despite debate over capital cycle returns, AI remained the dominant market theme, expanding from early adoption to broader enterprise adoption. The firm continues to focus on high-dividend-growth companies while maintaining discipline around valuation and earnings durability. In addition, please check the Fund’s top five holdings to know its best picks in 2026.\n\nIn its Q2 2026 investor letter, Bristol US Equity Strategy highlighted KLA Corporation (NASDAQ:KLAC) as a newly added position. KLA Corporation (NASDAQ:KLAC) is a global manufacturer and distributor of process control, process-enabling, and yield management solutions for the semiconductor and electronics industries. On July 21, 2026, KLA Corporation (NASDAQ:KLAC) closed at $217.56 per share, reflecting a market capitalization of $284.19 billion. KLA Corporation (NASDAQ:KLAC) posted a one-month return of -9.53%, while its shares gained 142.52% over the past 52 weeks.\n\nBristol US Equity Strategy stated the following regarding KLA Corporation (NASDAQ:KLAC) in its Q2 2026 investor update:\n\nKLA Corporation (NASDAQ:KLAC) is a dominant provider of process-control and metrology equipment to the semiconductor industry, with a high market share that becomes more entrenched at each node transition. Metrology is the precision measurement and evaluation of nanoscale features; as chip-making and architecture grow more complex, the economic cost of yield loss rises sharply, which makes KLA's tools effectively non-discretionary for leading-edge manufacturers. Those tailwinds, combined with prudent management, support strong dividend growth.\n\nKLA Corporation (NASDAQ:KLAC) is not on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026. According to our database, 71 hedge fund portfolios held KLA Corporation (NASDAQ:KLAC) at the end of the first quarter, up from 67 in the previous quarter. While we acknowledge the potential of KLA Corporation (NASDAQ:KLAC) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nIn another article, we covered KLA Corporation (NASDAQ:KLAC) and shared the list of best NASDAQ 100 stocks to buy other than SpaceX. Vltava Fund sold its position in KLA Corporation (NASDAQ:KLAC) during Q2 2026, due to valuation concerns. In addition, please check out our hedge fund investor letters Q2 2026 page for more investor letters from hedge funds and other leading investors.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-23-prices-mixed-as-analysts-debate-crypto-bottom-152654561.html",
+      "level1_blind": "Bitcoin (BTC-USD) opened at $66,081.05 on Thursday, July 23, 2026, 0.6% lower than Wednesday's opening price. As of 9:22 a.m. ET this morning, the price of bitcoin moved down to $65,054.55.\n\nEthereum (ETH-USD) opened at $1,933.32 on Thursday, July 23, 2026, up 0.3% from Wednesday's opening price. The price of ethereum moved lower this morning to $1,899.38 as of 9:22 a.m. ET.\n\nBitcoin and ethereum have shown slight gains over the past month, fueling cautious optimism that the crypto market has hit a bottom.\n\nIn June, Coinbase CEO Brian Armstrong said that bitcoin hit its low point near $60,000. After Armstrong's prediction, the digital currency dipped below $58,000 briefly. Bitwise CIO Matt Hougan expressed a similar sentiment in early July.\n\nMore recently, Grayscale analyst Zach Pandl suggested Bitcoin could fall further, bottoming out in September or October, with a caveat: \"If the Fed forgoes rate hikes and economic growth holds up well, Bitcoin's price may already have bottomed.\"\n\nThe price of bitcoin this morning was 0.6% lower than Wednesday's opening price. Here's a look at how the opening bitcoin price has changed versus last week, month, and year:\n\nThe all-time high for bitcoin was $126,198.07 on Oct. 6, 2025. The all-time low value for bitcoin was $0.04865 on July 14, 2010.\n\nThe price of ethereum this morning was 0.3% higher than Wednesday's open. Here's a look at how the opening ethereum price has changed versus last week, month, and year:",
       "level2_keywords": [
         {
-          "word": "KLA",
+          "word": "bitcoin",
           "ipa": "",
-          "meaning": "赦东 张檟",
-          "example": "KLA Corporation (NASDAQ:KLAC) is a global manufacturer and distributor of process control, process-enabling, and yield management solutions for the semiconductor and electronics industries."
+          "meaning": "比特幣",
+          "example": "比特幣的價格 today, Thursday, July 23: Prices mixed as analysts debate crypto bottom"
         },
         {
-          "word": "semiconductor",
+          "word": "ethereum",
           "ipa": "",
-          "meaning": "帪浏谺四吃",
-          "example": "KLA Corporation (NASDAQ:KLAC) is a global manufacturer and distributor of process control, process-enabling, and yield management solutions for the semiconductor and electronics industries."
+          "meaning": "以太幣",
+          "example": "Ethereum (ETH-USD) opened at $1,933.32 on Thursday, July 23, 2026, up 0.3% from Wednesday's opening price."
         },
         {
-          "word": "metrology",
+          "word": "crypto",
           "ipa": "",
-          "meaning": "美四吃",
-          "example": "Metrology is the precision measurement and evaluation of nanoscale features; as chip-making and architecture grow more complex, the economic cost of yield loss rises sharply, which makes KLA's tools effectively non-discretionary for leading-edge manufacturers."
+          "meaning": "加密貨幣",
+          "example": "Bitcoin and ethereum have shown slight gains over the past month, fueling cautious optimism that the crypto market has hit a bottom."
         },
         {
-          "word": "dividend",
+          "word": "market",
           "ipa": "",
-          "meaning": "赦东欢",
-          "example": "Those tailwinds, combined with prudent management, support strong dividend growth."
+          "meaning": "市場",
+          "example": "The price of bitcoin this morning was 0.6% lower than Wednesday's opening price. Here's a look at how the opening bitcoin price has changed versus last week, month, and year:"
         },
         {
-          "word": "AI",
+          "word": " Fed",
           "ipa": "",
-          "meaning": "訙四",
-          "example": "Despite debate over capital cycle returns, AI remained the dominant market theme, expanding from early adoption to broader enterprise adoption."
+          "meaning": "聯邦儲備會",
+          "example": "More recently, Grayscale analyst Zach Pandl suggested Bitcoin could fall further, bottoming out in September or October, with a caveat: \"If the Fed forgoes rate hikes and economic growth holds up well, Bitcoin's price may already have bottomed.\"\n\n"
         }
       ],
-      "level2_context": "赦东 张檟吃美四吃不叩的趀分都的说欢。赦东 张檟吃美四吃不叩的说欢。",
+      "level2_context": "\n\nBitcoin 和以太幣的價格在近一個月內有所波動，引發了對加密貨幣市場是否已經達到底部的討論。\n\n在六月，Coinbase CEO Brian Armstrong 表示比特幣的低點出現在 $60,000 左右。隨後，比特幣的價格短暫下跌至 $58,000 以下。\n\n近期，Grayscale 分析家 Zach Pandl 提出了 Bitcoin 可能會進一步下跌，底部出現在九月或十月，但有條件：如果聯邦儲備會放棄升息政策和經濟成長良好，Bitcoin 的價格可能已經達到底部。\n\n",
       "level3_translation": [
         {
-          "sentence": "Bristol Gate Capital Partners, an investment management company, published its Q4 2025 investor letter for the “US Equity Strategy”.",
-          "translation": "赦东 美四吃不叩的说欢。"
+          "sentence": "Bitcoin (BTC-USD) opened at $66,081.05 on Thursday, July 23, 2026, 0.6% lower than Wednesday's opening price.",
+          "translation": ""
         },
         {
-          "sentence": "A copy of the letter can be downloaded here.",
-          "translation": "赦东 美四吃不叩的说欢。"
+          "sentence": "As of 9:22 a.m. ET this morning, the price of bitcoin moved down to $65,054.55.",
+          "translation": ""
         },
         {
-          "sentence": "The Strategy lagged the Sɥ0 500 Total Return Index in the quarter in terms of returns, but outperformed in dividend growth.",
-          "translation": "美四吃不叩的说欢。"
+          "sentence": "Ethereum (ETH-USD) opened at $1,933.32 on Thursday, July 23, 2026, up 0.3% from Wednesday's opening price.",
+          "translation": ""
         },
         {
-          "sentence": "Despite debate over capital cycle returns, AI remained the dominant market theme, expanding from early adoption to broader enterprise adoption.",
-          "translation": "訙四吃美四吃不叩的说欢。"
+          "sentence": "The price of ethereum moved lower this morning to $1,899.38 as of 9:22 a.m. ET.",
+          "translation": ""
         },
         {
-          "sentence": "The firm continues to focus on high-dividend-growth companies while maintaining discipline around valuation and earnings durability.",
-          "translation": "赦东 张檟吃美四吃不叩的说欢。"
+          "sentence": "Bitcoin and ethereum have shown slight gains over the past month, fueling cautious optimism that the crypto market has hit a bottom.",
+          "translation": ""
         },
         {
-          "sentence": "In its Q2 2026 investor letter, Bristol US Equity Strategy highlighted KLA Corporation (NASDAQ:KLAC) as a newly added position.",
-          "translation": "赦东 美四吃不叩的说欢。"
+          "sentence": "In June, Coinbase CEO Brian Armstrong said that bitcoin hit its low point near $60,000.",
+          "translation": ""
         },
         {
-          "sentence": "KLA Corporation (NASDAQ:KLAC) is a global manufacturer and distributor of process control, process-enabling, and yield management solutions for the semiconductor and electronics industries.",
-          "translation": "赦东 张檟吃美四吃不叩的说欢。"
+          "sentence": "After Armstrong's prediction, the digital currency dipped below $58,000 briefly.",
+          "translation": ""
         },
         {
-          "sentence": "On July 21, 2026, KLA Corporation (NASDAQ:KLAC) closed at $217.56 per share, reflecting a market capitalization of $284.19 billion.",
-          "translation": "赦东 张檟吃美四吃不叩的说欢。"
+          "sentence": "Bitwise CIO Matt Hougan expressed a similar sentiment in early July.",
+          "translation": ""
         },
         {
-          "sentence": "KLA Corporation (NASDAQ:KLAC) posted a one-month return of -9.53%, while its shares gained 142.52% over the past 52 weeks.",
-          "translation": "赦东 张檟吃美四吃不叩的说欢。"
+          "sentence": "More recently, Grayscale analyst Zach Pandl suggested Bitcoin could fall further, bottoming out in September or October, with a caveat:",
+          "translation": ""
         },
         {
-          "sentence": "Bristol US Equity Strategy stated the following regarding KLA Corporation (NASDAQ:KLAC) in its Q2 2026 investor update:",
-          "translation": "赦东 美四吃不叩的说欢。"
+          "sentence": "\"If the Fed forgoes rate hikes and economic growth holds up well, Bitcoin's price may already have bottomed.\"",
+          "translation": ""
         },
         {
-          "sentence": "KLA Corporation (NASDAQ:KLAC) is a dominant provider of process-control and metrology equipment to the semiconductor industry, with a high market share that becomes more entrenched at each node transition.",
-          "translation": "赦东 张檟吃美四吃不叩的说欢。"
+          "sentence": "The price of bitcoin this morning was 0.6% lower than Wednesday's opening price.",
+          "translation": ""
         },
         {
-          "sentence": "Metrology is the precision measurement and evaluation of nanoscale features; as chip-making and architecture grow more complex, the economic cost of yield loss rises sharply, which makes KLA's tools effectively non-discretionary for leading-edge manufacturers.",
-          "translation": "美四吃不叩的说欢。"
+          "sentence": "Here's a look at how the opening bitcoin price has changed versus last week, month, and year:",
+          "translation": ""
         },
         {
-          "sentence": "Those tailwinds, combined with prudent management, support strong dividend growth.",
-          "translation": "赦东 欢的说欢。"
+          "sentence": "The all-time high for bitcoin was $126,198.07 on Oct. 6, 2025.",
+          "translation": ""
         },
         {
-          "sentence": "KLA Corporation (NASDAQ:KLAC) is not on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026.",
-          "translation": "赦东 张檟吃美四吃不叩的说欢。"
+          "sentence": "The all-time low value for bitcoin was $0.04865 on July 14, 2010.",
+          "translation": ""
         },
         {
-          "sentence": "According to our database, 71 hedge fund portfolios held KLA Corporation (NASDAQ:KLAC) at the end of the first quarter, up from 67 in the previous quarter.",
-          "translation": "赦东 美四吃不叩的说欢。"
+          "sentence": "The price of ethereum this morning was 0.3% higher than Wednesday's open.",
+          "translation": ""
         },
         {
-          "sentence": "While we acknowledge the potential of KLA Corporation (NASDAQ:KLAC) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk.",
-          "translation": "赦东 张檟吃美四吃不叩的说欢。"
-        },
-        {
-          "sentence": "If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.",
-          "translation": "赦东 訙四吃的说欢。"
-        },
-        {
-          "sentence": "In another article, we covered KLA Corporation (NASDAQ:KLAC) and shared the list of best NASDAQ 100 stocks to buy other than SpaceX.",
-          "translation": "赦东 张檟吃美四吃不叩的说欢。"
-        },
-        {
-          "sentence": "Vltava Fund sold its position in KLA Corporation (NASDAQ:KLAC) during Q2 2026, due to valuation concerns.",
-          "translation": "赦东 张檟吃美四吃不叩的说欢。"
-        },
-        {
-          "sentence": "In addition, please check out our hedge fund investor letters Q2 2026 page for more investor letters from hedge funds and other leading investors.",
-          "translation": "赦东 美四吃不叩的说欢。"
-        },
-        {
-          "sentence": "READ NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
-          "translation": "赦东 说欢的说欢。"
+          "sentence": "Here's a look at how the opening ethereum price has changed versus last week, month, and year:",
+          "translation": ""
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "在股市和能源市場中，兩者的變化往往會對彼此產生影響。如今的油價下降已經使得許多投資者重新評估了其對於能源行業的信心，而這種情況反過來也會影響到股市。因此，當我們觀察到油價的變化時，我們不僅需要考慮其對於能源行業的影響，也需要關注它如何影響股市的整體趨勢。同時，能源市場的變化也可能會對股市產生波動，這種波動往往是由於投資者在評估公司財務表現和未來預測時，對於能源成本的考慮而產生的意見分歧所致。因此，在觀察到能源市場的變化時，我們不僅需要關注其對於能源行業的影響，也需要注意它如何影響股市的整體趨勢和投資者意見。"
+    "market_connection": "在國際財經市場中，Amazon 的 AI Layoffs 和 Freeport-McMoRan 的 Copper 成本下降可能會對全球數據中心和電力需求產生影響。這些變化可能會導致 data center 的耗能成本增加，從而影響電力公司的營收和股價。同時，Copper 的成分也在高性能電腦和其他技術中廣泛使用，因此 Copper 的价格波動也可能對相關企業的股價產生影響。因此，觀察這兩個市場的變化對於了解全球經濟和金融市場的趨勢具有重要意義。"
   }
 }
