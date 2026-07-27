@@ -1,425 +1,477 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "stock_uncle_insight": {
-    "date_header": "7/25 法人與主力大戶主要買超股票",
+    "date_header": "7/28 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：AI、傳產與金融避險齊發",
+        "group_title": "1. 外資大戶：狂掃面板、金融與傳產，避險兼卡位",
         "stocks": [
           {
-            "stock_name": "緯創",
-            "ticker": "3231",
-            "description": "肖年仔，外資狂掃緯創3.24萬張，擺明了就是看好AI伺服器這塊大餅，準備鎖碼做波段。這不是隔日沖，這是要玩真的！"
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "肖年仔，外資這次狂掃群創 5.6 萬張，這擺明了是在賭面板股跌深反彈的轉機，但也要小心，外資是不是準備拉高出貨給散戶？"
           },
           {
-            "stock_name": "中鋼",
-            "ticker": "2002",
-            "description": "外資大買中鋼3.04萬張，這傳產龍頭被外資看上，可能是看好下半年景氣復甦，加上國際銅價上漲，連帶拉抬原物料族群，有避險兼卡位的味道。"
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "外資買超聯電 4.3 萬張，但你看投信跟自營商都在倒貨，這外資是真看好晶圓代工谷底翻身，還是想跟內資對作？小心別接刀！"
           },
           {
-            "stock_name": "凱基金",
-            "ticker": "2883",
-            "description": "外資買超凱基金1.68萬張，金融股在高檔震盪時常被當作避風港，外資這波操作有避險意味，穩健佈局。"
-          },
-          {
-            "stock_name": "長榮航",
-            "ticker": "2618",
-            "description": "外資買超長榮航1.62萬張，航空股旺季效應加上解封題材，外資趁機卡位，準備拉高出貨？肖年仔別傻傻追高啊！"
-          },
-          {
-            "stock_name": "遠東新",
-            "ticker": "1402",
-            "description": "外資買超遠東新1.38萬張，這檔傳產老牌股，外資看上它的資產價值和多元佈局，但自營商卻在倒貨，這中間有鬼啊！"
-          },
-          {
-            "stock_name": "陽明",
-            "ticker": "2609",
-            "description": "外資買超陽明1.16萬張，航運股又被外資點火，肖年仔別看到黑影就開槍，小心隔日沖倒貨，別傻傻去接刀！"
-          },
-          {
-            "stock_name": "台新新光金",
-            "ticker": "2887",
-            "description": "外資買超台新新光金1.15萬張，金融股避險意味濃厚，外資這波操作是穩健佈局，看好下半年獲利。"
+            "stock_name": "台中銀",
+            "ticker": "2812",
+            "description": "外資買超台中銀 2.4 萬張，金融股這種防禦型標的，外資大戶在大盤高檔找避風港，穩穩賺的邏輯。"
           },
           {
             "stock_name": "臺企銀",
             "ticker": "2834",
-            "description": "外資買超臺企銀1.08萬張，官股金控也是外資避險的標的之一，穩穩賺的節奏，但爆發力就別想太多了。"
+            "description": "跟台中銀一樣，外資買超臺企銀 2.1 萬張，金融股持續被外資青睞，顯示資金流向保守。"
           },
           {
-            "stock_name": "漢翔",
-            "ticker": "2634",
-            "description": "外資買超漢翔1.06萬張，軍工航太題材持續發酵，外資鎖碼佈局，準備拉高出貨。肖年仔，這檔有夢但也要小心主力倒貨。"
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "外資買超長榮航 1.9 萬張，航空雙雄持續被外資關注，解封題材還沒玩完，但也要小心高檔震盪。"
           },
           {
-            "stock_name": "永豐金",
-            "ticker": "2890",
-            "description": "外資買超永豐金9501張，金融股持續受外資青睞，避險兼具殖利率考量，是資金的避風港。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：跟風AI、轉進金融與傳產避險",
-        "stocks": [
-          {
-            "stock_name": "緯創",
-            "ticker": "3231",
-            "description": "投信也跟著買緯創1.08萬張，這本土國家隊的動作，通常是為了作帳或基金建倉。跟外資同步買超緯創，顯示AI題材還是他們的心頭好，但肖年仔要小心，投信買進不代表會一直拉，有時候是為了撐住績效。"
+            "stock_name": "南亞",
+            "ticker": "1303",
+            "description": "外資買超南亞 1.8 萬張，傳產龍頭股，外資也開始撿這種低基期的貨，準備等待景氣復甦。"
           },
           {
-            "stock_name": "大聯大",
-            "ticker": "3702",
-            "description": "投信買超大聯大6226張，通路股被投信看上，可能是看好半導體庫存調整後的拉貨潮，或是產業復甦前的卡位。"
+            "stock_name": "中鋼",
+            "ticker": "2002",
+            "description": "外資買超中鋼 1.7 萬張，鋼鐵股也進外資法眼，是不是景氣要復甦了？還是只是短線反彈？"
           },
           {
-            "stock_name": "華南金",
-            "ticker": "2880",
-            "description": "投信買超華南金3606張，自營商也買1356張，但外資卻大賣1.04萬張。這就是內外資對作的戲碼啊，肖年仔別被洗出去！"
+            "stock_name": "台泥",
+            "ticker": "1101",
+            "description": "外資買超台泥 1.7 萬張，水泥股這種老牌傳產，外資也來卡位，顯示資金在找穩定的標的。"
           },
           {
-            "stock_name": "遠東新",
-            "ticker": "1402",
-            "description": "投信買超遠東新3225張，跟外資同步看好這檔傳產股，顯示資金有往低基期、有資產題材的標的移動的趨勢。"
-          },
-          {
-            "stock_name": "上海商銀",
-            "ticker": "5876",
-            "description": "投信買超上海商銀1639張，穩健型金融股，是投信作帳的口袋名單，求穩不求快。"
-          },
-          {
-            "stock_name": "台灣高鐵",
-            "ticker": "2633",
-            "description": "投信買超台灣高鐵1569張，解封後營運復甦，投信看好內需題材，這也是一種防禦型佈局。"
-          },
-          {
-            "stock_name": "尖點",
-            "ticker": "8021",
-            "description": "投信買超尖點1329張，這檔PCB相關股，可能是看好AI伺服器帶動的板卡需求，但量不大，肖年仔別太興奮。"
-          },
-          {
-            "stock_name": "統一",
-            "ticker": "1216",
-            "description": "投信買超統一1144張，自營商也買855張，食品龍頭防禦性佳，內資避險首選，穩穩吃豆腐的節奏。"
-          },
-          {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "投信買超元大台灣50達1000張，自營商狂掃5874張，但外資卻大賣3.73萬張。內資買ETF避險，外資卻在倒貨，這大盤壓力不小啊！"
-          },
-          {
-            "stock_name": "國泰金",
-            "ticker": "2882",
-            "description": "投信買超國泰金874張，金融股持續被投信納入作帳名單，穩健配置。"
-          }
-        ]
-      },
-      {
-        "group_title": "3. 內資主力與實戶：避險為上，ETF與防禦型傳產受青睞",
-        "stocks": [
-          {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "自營商狂掃元大台灣50達5874張，這擺明了就是避險盤，對大盤走勢有疑慮，先買個保險，明天看情況再說，不是要你跟著去追高啊！"
-          },
-          {
-            "stock_name": "興富發",
-            "ticker": "2542",
-            "description": "自營商買超興富發1595張，營建股被自營商點火，可能是看好房市回溫或資產題材，但這種族群波動大，肖年仔要小心。"
-          },
-          {
-            "stock_name": "華南金",
-            "ticker": "2880",
-            "description": "自營商買超華南金1356張，跟投信同步買進，但外資卻在倒貨，內外資對作，這檔後續有得瞧了。"
-          },
-          {
-            "stock_name": "統一",
-            "ticker": "1216",
-            "description": "自營商買超統一855張，食品股防禦性佳，自營商避險的選擇，穩穩賺的豆腐，但別期待大肉。"
-          },
-          {
-            "stock_name": "中華電",
-            "ticker": "2412",
-            "description": "自營商買超中華電673張，電信股防禦性強，自營商避險的選擇，這種股票就是拿來放著領股息的。"
-          },
-          {
-            "stock_name": "富邦科技",
-            "ticker": "0052",
-            "description": "自營商買超富邦科技596張，ETF避險或短線操作，顯示自營商對科技股的看法偏向保守，用ETF來做短線價差。"
-          },
-          {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "自營商買超華邦電417張，但投信卻大賣1.43萬張。自營商小買，投信大賣，這就是接刀的節奏啊，肖年仔別傻傻去當韭菜！"
-          },
-          {
-            "stock_name": "大成",
-            "ticker": "1210",
-            "description": "自營商買超大成309張，食品股防禦性佳，自營商短線避險，這種股票就是穩，但別想發大財。"
-          },
-          {
-            "stock_name": "緯創",
-            "ticker": "3231",
-            "description": "自營商買超緯創295張，雖然量不大，但三大法人同步買超，顯示AI題材的熱度不減，但自營商的量小，可能是避險盤的短線操作。"
+            "stock_name": "合庫金",
+            "ticker": "5880",
+            "description": "外資買超合庫金 1.6 萬張，金融股避險潮持續，外資買不停，肖年仔你懂這邏輯嗎？"
           },
           {
             "stock_name": "中纖",
             "ticker": "1718",
-            "description": "自營商買超中纖224張，但外資卻大賣6951張。自營商小買，外資大賣，這也是在接刀啊，肖年仔別傻傻去當外資的提款機！"
+            "description": "外資買超中纖 1.5 萬張，塑化股也動起來，外資在佈局傳產，可能是看好原物料行情。"
+          }
+        ]
+      },
+      {
+        "group_title": "2. 投信大戶（本土國家隊）：金融作帳、航空續燒、AI 點火",
+        "stocks": [
+          {
+            "stock_name": "元大金",
+            "ticker": "2885",
+            "description": "投信狂掃元大金 6500 張，自家金控，作帳行情很明顯，肖年仔別傻傻追高，小心被倒貨。"
+          },
+          {
+            "stock_name": "華航",
+            "ticker": "2610",
+            "description": "投信買超華航 4459 張，跟外資一樣看好航空，解封題材繼續炒，但也要注意風險。"
+          },
+          {
+            "stock_name": "華南金",
+            "ticker": "2880",
+            "description": "投信買超華南金 3955 張，金融股作帳，穩穩的，但這種標的通常漲幅有限。"
+          },
+          {
+            "stock_name": "緯創",
+            "ticker": "3231",
+            "description": "投信買超緯創 3219 張，AI 概念股還在燒，投信繼續點火，但張數沒之前那麼猛了，小心高檔震盪。"
+          },
+          {
+            "stock_name": "廣達",
+            "ticker": "2382",
+            "description": "投信買超廣達 2551 張，AI 雙雄，投信還是愛，但也要小心主力拉高出貨，別當韭菜。"
+          },
+          {
+            "stock_name": "遠東新",
+            "ticker": "1402",
+            "description": "投信買超遠東新 2184 張，傳產股也進投信作帳名單，顯示資金流向多元。"
+          },
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "投信買超兆豐金 1865 張，金融股作帳，持續加碼，穩健型操作。"
+          },
+          {
+            "stock_name": "上海商銀",
+            "ticker": "5876",
+            "description": "投信買超上海商銀 1777 張，金融股避險兼作帳，一魚兩吃，但也要看大盤臉色。"
+          },
+          {
+            "stock_name": "統一",
+            "ticker": "1216",
+            "description": "投信買超統一 1575 張，食品股這種防禦型，投信也來了，顯示市場對未來景氣有疑慮。"
+          },
+          {
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "投信買超長榮航 1347 張，航空雙雄，投信外資聯手拉抬？但也要看有沒有續航力。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：避險為上，跟風面板與金融",
+        "stocks": [
+          {
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "肖年仔，自營商買超 0050 達 3112 張，這是標準的避險盤，是不是覺得大盤要修正了？別黑白買，先看清楚風向。"
+          },
+          {
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "自營商買超群創 2233 張，跟外資一樣看好面板，但這量能，是跟風還是真有戲？小心別被套牢。"
+          },
+          {
+            "stock_name": "華南金",
+            "ticker": "2880",
+            "description": "自營商買超華南金 2137 張，金融股避險兼作帳，內資也來湊一腳，穩健操作為主。"
+          },
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "自營商買超兆豐金 679 張，金融股還是穩，內資也來分一杯羹。"
+          },
+          {
+            "stock_name": "三商壽",
+            "ticker": "2867",
+            "description": "自營商買超三商壽 672 張，壽險股也進避險名單，顯示內資對市場的謹慎態度。"
+          },
+          {
+            "stock_name": "華通",
+            "ticker": "2313",
+            "description": "自營商買超華通 522 張，PCB 概念股，內資小量佈局，可能是在等電子股回溫。"
+          },
+          {
+            "stock_name": "力積電",
+            "ticker": "6770",
+            "description": "自營商買超力積電 401 張，晶圓代工，內資也來撿便宜？但量能不大，觀望為主。"
+          },
+          {
+            "stock_name": "第一金",
+            "ticker": "2892",
+            "description": "自營商買超第一金 392 張，金融股持續被買，內資也看好其防禦性。"
+          },
+          {
+            "stock_name": "力成",
+            "ticker": "6239",
+            "description": "自營商買超力成 386 張，封測股，內資小量佈局，可能是看好半導體產業鏈。"
+          },
+          {
+            "stock_name": "富邦科技",
+            "ticker": "0052",
+            "description": "自營商買超富邦科技 376 張，跟 0050 類似，都是 ETF 避險，內資對大盤看法偏保守。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：AI概念股的資金鎖碼與高檔換手",
-        "strategy_content": "肖年仔，今天緯創被外資狂掃3.24萬張，投信也跟進1.08萬張，連自營商都來湊熱鬧，這擺明了AI題材還是市場最熱的焦點。雖然國際新聞提到Amazon裁減AI部門職位，但這只是AI應用端的調整，AI基礎設施的需求，就像銅這種「最安靜的金屬」都發出看漲訊號，顯示AI硬體需求仍是趨勢。主力大戶在AI股高檔進行換手，一方面有獲利了結，但也有新資金持續鎖碼，準備下一波攻勢，這就是高檔震盪洗盤，洗掉不堅定的韭菜，準備再拉一波！"
+        "strategy_title": "策略一：高檔避險與資金避風港（金融、航空）",
+        "strategy_content": "肖年仔，你看外資、投信、自營商三大法人不約而同地狂掃金融股，像是台中銀、臺企銀、元大金、華南金、兆豐金等，這擺明就是在大盤高檔震盪時，把資金撤出高風險板塊，轉往防禦性強、殖利率穩定的金融股避險。同時，航空雙雄長榮航、華航也持續被外資和投信加碼，這除了是解封題材的延續，也可能是在全球經濟不確定性（你看國際新聞那些餐飲、零售業關店潮）下，資金尋找相對穩定的避風港。"
       },
       {
-        "strategy_title": "策略二：傳產與金融的避險與低基期卡位",
-        "strategy_content": "肖年仔，大盤震盪，資金當然要找避風港。外資大買中鋼、遠東新、長榮航、陽明、漢翔等傳產股，以及凱基金、台新新光金、臺企銀、永豐金等金融股，投信也跟著買華南金、遠東新、上海商銀、台灣高鐵、統一。這顯示資金從高風險的電子股撤出，轉往評價面較低、有殖利率題材或旺季效應的傳產與金融股進行避險，同時也是為下半年佈局。國際銅價上漲，也為部分傳產股帶來利多，這就是大戶在玩「高檔避險，低檔卡位」的把戲。"
+        "strategy_title": "策略二：低基期與轉機題材卡位（面板、傳產）",
+        "strategy_content": "外資這次對群創狂掃 5.6 萬張，自營商也跟進，這很明顯是在賭面板股跌深反彈的轉機題材。聯電雖然外資買超 4.3 萬張，但投信和自營商卻在倒貨，這說明主力對晶圓代工的看法分歧，外資可能是在低檔卡位，賭它谷底翻身。另外，外資也大買南亞、中鋼、台泥、中纖這些傳產龍頭，這些都是低基期、評價面相對低的標的，在大盤修正時，大戶會挑這種跌無可跌的股票來卡位，等待景氣復甦。"
       },
       {
-        "strategy_title": "策略三：半導體與面板的獲利了結與資金撤出",
-        "strategy_content": "肖年仔，看看外資大賣力積電、台積電、群創、南亞科，投信大賣華邦電、聯電、力積電、南亞科、日月光投控，連自營商也跟著倒貨群創、南亞科、力積電、聯電。三大法人同步對半導體（尤其是二線晶圓代工、記憶體）和面板股進行倒貨，這擺明了就是獲利了結，資金明顯撤出。這可能是對未來景氣復甦力道存疑，或是將資金轉往更有潛力的AI或防禦性板塊。肖年仔，別傻傻去接這種倒貨的刀，小心融資斷頭啊！"
+        "strategy_title": "策略三：AI 概念股的投信作帳行情與主力分歧",
+        "strategy_content": "投信持續買進緯創、廣達這些 AI 概念股，雖然張數沒有之前那麼驚人，但這很可能是投信在季底或月底的作帳行情，想拉抬基金績效。但肖年仔要注意，外資對電子股的態度就沒那麼一致了，你看他們大賣至上、華邦電，甚至對聯電也是外資買、內資賣，這顯示主力對電子股的看法已經出現分歧，高檔震盪下，追高風險可不小，小心被主力拉高出貨！"
       }
     ],
-    "summary": "肖年仔，今天三大法人都在玩高檔換手跟資金大挪移，AI股雖然強勢，但傳產金融的避險意味更濃，半導體跟面板被倒貨，別傻傻去接刀啊！",
+    "summary": "肖年仔，今天三大法人動作很明顯，外資、投信都在金融、航空找避風港，同時也開始撿低基期的面板跟傳產股。AI 股投信還在作帳，但主力已經開始分歧，高檔追高小心被割韭菜！自營商買 0050 避險，大盤可能要震盪了，別黑白買！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 1.13萬張",
-        "uncle_logic": "美商高盛這外資大戶，狂掃緯創1.13萬張，擺明了就是看好AI伺服器這塊大餅，準備鎖碼做波段。肖年仔，這不是隔日沖，這是要玩真的，但你也要有抱股的膽量！"
+        "action": "買超 1.97 萬張",
+        "uncle_logic": "肖年仔，美商高盛這種外資大戶狂掃群創 1.97 萬張，這不是看好面板股的轉機，就是準備短線拉抬，隔日沖倒貨給散戶，你可別傻傻去接刀！"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 0.23萬張",
-        "uncle_logic": "凱基台北這隔日沖大本營，竟然買超元大台灣50達2300多張，這就耐人尋味了。通常他們是衝個股，買ETF可能是為了避險，或是對大盤走勢有疑慮，先買個保險，明天看情況再說，不是要你跟著去追高啊！"
+        "action": "買超 1244 張",
+        "uncle_logic": "凱基台北這種著名的短線隔日沖分點，竟然買超 0050 這種大盤 ETF，這擺明了是看壞大盤，在做避險操作，肖年仔，大盤可能要震盪了，別黑白衝。"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 0.48萬張",
-        "uncle_logic": "元大投信也跟著買緯創4800多張，這本土國家隊的動作，通常是為了作帳或基金建倉。跟外資同步買超緯創，顯示AI題材還是他們的心頭好，但肖年仔要小心，投信買進不代表會一直拉，有時候是為了撐住績效，別被套在高點。"
+        "action": "買超 2927 張",
+        "uncle_logic": "元大投信買自家金控元大金 2927 張，這就是投信作帳的經典手法，拉抬自家基金持股，衝績效，但這種通常漲勢有限，小心追高。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 1.31萬張",
-        "uncle_logic": "摩根大通這外資大咖，直接倒貨力積電1.31萬張，這擺明了就是對半導體二線股的展望不看好，或是高檔獲利了結。肖年仔，別傻傻去接這種倒貨的刀，小心融資斷頭啊，這種股票就是主力在出貨給你接！"
+        "action": "賣超 3372 張",
+        "uncle_logic": "摩根大通這種外資大戶大賣至上 3372 張，這很明顯是電子股漲多後的獲利了結，或是對後市看法保守，肖年仔，別以為外資只會買，倒貨起來也是不手軟的！"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "After 80 stores close, 63-year-old chain gives Chapter 11 warning",
+      "title": "52-year-old international restaurant chain closing all locations",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/80-stores-close-63-old-150700367.html",
-      "level1_blind": {
-        "text": "When a retailer sells a product people no longer want or need at the same level they once did, it becomes challenging for that retailer to operate.\n\nYes, you can cut expenses and close stores, but if customers aren't buying, no amount of frugality will keep the doors open.\n\nThat's a challenge facing any chain serving the luxury market, as Americans have cut back on discretionary spending. Luxury shoppers' optimism about the economy continues to decline, driven by global financial uncertainty and market volatility, according to the latest Saks Global Luxury Pulse survey.\n\n「The survey, conducted between April 24 and April 28, found that only 28% of respondents reported feeling optimistic about the economy. That represents a 13 percentage point decline since the prior survey fielded in January, and a decline of 17 percentage points compared to last year,」 according to the report.\n\nIt's bad news for Leslie's Pool Supply. The company closed 80 locations in March, but it hasn't been enough to stem the bleeding. Now, the retailer faces a possible Chapter 11 filing, according to a report from Bloomberg.\n\nWhen Leslie's reported second-quarter earnings in May, the company seemed to have turned the corner.\n\n「Compared to last year, in the second quarter, we delivered overall revenue growth of 4.3%, a comparable sales increase of 6.6%, improved year-over-year adjusted EBITDA by 26% and registered total customer count growth of 8%,」 shared CEO Jason McDonell.\n\nThose numbers followed the chain making a number of cuts during the first quarter."
-      },
+      "link": "https://finance.yahoo.com/small-business/articles/52-old-international-restaurant-chain-145707525.html",
+      "level1_blind": "While markets data shows that the global market for dining out is projected to grow from $1.9 trillion now to more than $3 trillion by 2030, many individual chains that were popular in another era are struggling to survive amid changing consumer trends.\n\nU.S. chains like Smokey Bones, Peet's Coffee, and Joe's Crab Shack have collectively closed dozens of locations this year. Meanwhile, over in the United Kingdom, Leon and The Real Greek both nearly halved their store locations in 2026 despite once going through a period of rapid expansion that made them well-recognized chains in the country's major cities.\n\nWith the first location opening in the Greater London borough of Enfield in 1974, the restaurant chain Beefeater has, over several generations, earned a reputation for being a family-friendly steakhouse chain serving grilled steak cuts, burgers, and fish and chips at more accessible prices.\n\nAt its peak, the chain had approximately 140 standalone and Brewers Fayre brewery-attached locations in the United Kingdom and Ireland. But amid soaring operating costs the hotel and dining company Whitbread confirmed plans to shutter all remaining 106 restaurants by September.\n\nEarlier in the year, Whitbread announced a restructuring plan that aims to bring down annual costs down costs by £250 million ($333 million USD).\n\nThe company's largest holding is the hotel chain Premier Inn. The current strategy is to convert some locations into hotel rooms and others into integrated unbranded hotel restaurants. Still other locations will be sold for what the company estimates will free up £1.5 billion ($2 billion USD).\n\n\"As you may have seen, we have recently announced changes to our business, which is resulting in the closure of our Branded Restaurants,\" Whitbread said in a statement on the location closures. \"This means that on Thursday 10 September 2026 your local Beefeater and all other UK Beefeaters will close.\"\n\nFor customers who collected points through repeated visits, the Beefeater loyalty scheme will be shut down by Aug. 31.",
       "level2_keywords": [
         {
-          "word": "retailer",
-          "ipa": "/ˌriːˈteɪlər/",
-          "meaning": "零售商，指直接向消費者銷售商品或服務的企業。",
-          "example": "The struggling retailer announced plans to close several underperforming stores."
+          "word": "restaurant",
+          "ipa": "/rɛstəˈrant/",
+          "meaning": "餐廳",
+          "example": "這家餐廳的評價很好"
         },
         {
-          "word": "discretionary spending",
-          "ipa": "/dɪˈskrɛʃəˌnɛri ˈspɛndɪŋ/",
-          "meaning": "非必要性支出，指消費者在滿足基本需求後，用於奢侈品、娛樂或旅遊等非必需品的開銷。",
-          "example": "High inflation often leads consumers to cut back on discretionary spending."
+          "word": "chain",
+          "ipa": "/tʃeɪn/",
+          "meaning": "連鎖企業",
+          "example": "這家連鎖店的商品都是一樣"
         },
         {
-          "word": "Chapter 11 filing",
-          "ipa": "/ˈtʃæptər ɪˈlɛvən ˈfaɪlɪŋ/",
-          "meaning": "破產保護申請，依據美國破產法第十一章，允許企業在重組債務的同時繼續營運，而非立即清算。",
-          "example": "The airline avoided liquidation by successfully completing its Chapter 11 filing."
+          "word": "global",
+          "ipa": "/ˈɡlobəl/",
+          "meaning": "全球性的",
+          "example": "這個公司在全球都有分支"
         },
         {
-          "word": "earnings",
-          "ipa": "/ˈɜːrnɪŋz/",
-          "meaning": "財報或獲利，指公司在特定期間內的淨利潤或財務表現。",
-          "example": "Investors closely watched the company's quarterly earnings report for signs of growth."
+          "word": "market",
+          "ipa": "/ˈmɑrkɪt/",
+          "meaning": "市場",
+          "example": "這個產品在市場上很受歡迎"
         },
         {
-          "word": "adjusted EBITDA",
-          "ipa": "/əˈdʒʌstɪd ˌiːbɪtˈdɑː/",
-          "meaning": "調整後稅息折舊攤銷前利潤，是一種衡量公司核心營運獲利能力的指標，排除了非經常性項目和非現金費用。",
-          "example": "Despite revenue challenges, the firm reported a strong adjusted EBITDA, indicating operational efficiency."
+          "word": "restructuring",
+          "ipa": "/rɛˈstrʌktʃən/",
+          "meaning": "重組",
+          "example": "公司正在進行重組計畫"
         }
       ],
-      "level2_context": "各位同學，這篇新聞主要在講述美國零售業面臨的挑戰，特別是在非必要性消費品（luxury market）領域。由於全球經濟不確定性增加，消費者信心下滑，大家開始縮減「非必要性支出」。這導致許多零售商銷售額下降，即使透過關店、削減成本也難以止血。Leslie's Pool Supply 這家公司就是一個例子，雖然曾發布看似不錯的財報，但最終仍因營運困難面臨聲請「破產保護」的危機。這反映出當前高通膨與經濟前景不明朗對消費者行為和企業營運的深遠影響。",
+      "level2_context": "這篇文章關於 restaurants 的閉店問題，與全球市場趨勢有關。 Restaurants 的閉店可能是由於 changing consumer trends 引起的，而不是單純地因為營業成本上升。這個事件也反映了酒店公司 Whitbread 的重組計畫，將一些restaurant 轉換成 hotel 或出售給其他公司。",
       "level3_translation": [
         {
-          "sentence": "When a retailer sells a product people no longer want or need at the same level they once did, it becomes challenging for that retailer to operate.",
-          "translation": "當零售商銷售的產品，消費者不再像過去那樣有強烈需求或必要性時，這家零售商的營運就會面臨挑戰。"
+          "sentence": "While markets data shows that the global market for dining out is projected to grow from $1.9 trillion now to more than $3 trillion by 2030, many individual chains that were popular in another era are struggling to survive amid changing consumer trends.",
+          "translation": "全球餐飲市場預計將在2023年至2030年的間隔內從19萬億美元增長到30萬億美元，然而許多個體連鎖店因為消費者趨勢的變化而難以生存"
         },
         {
-          "sentence": "Yes, you can cut expenses and close stores, but if customers aren't buying, no amount of frugality will keep the doors open.",
-          "translation": "沒錯，你可以削減開支、關閉門市，但如果顧客不買單，再怎麼節省也無法讓店面繼續經營下去。"
+          "sentence": "U.S. chains like Smokey Bones, Peet's Coffee, and Joe's Crab Shack have collectively closed dozens of locations this year.",
+          "translation": "美國一些連鎖店如Smokey Bones、Peet's Coffee和Joe's Crab Shack今年已合計關閉數十間分店"
         },
         {
-          "sentence": "That's a challenge facing any chain serving the luxury market, as Americans have cut back on discretionary spending.",
-          "translation": "這正是所有服務於精品市場的連鎖業者所面臨的挑戰，因為美國消費者已經開始縮減他們的「非必要性支出」。"
+          "sentence": "Meanwhile, over in the United Kingdom, Leon and The Real Greek both nearly halved their store locations in 2026 despite once going through a period of rapid expansion that made them well-recognized chains in the country's major cities.",
+          "translation": "另一方面，英國的Leon和The Real Greek兩家店都在2026年大幅縮小了門店數量，儘管曾經在過去的一段時間內快速擴張，使得這些品牌在英國主要城市中非常受歡迎"
         },
         {
-          "sentence": "Luxury shoppers' optimism about the economy continues to decline, driven by global financial uncertainty and market volatility, according to the latest Saks Global Luxury Pulse survey.",
-          "translation": "根據最新的 Saks 全球精品脈動調查，精品消費者的經濟樂觀情緒持續下滑，主要受到全球金融不確定性和市場波動的影響。"
+          "sentence": "With the first location opening in the Greater London borough of Enfield in 1974, the restaurant chain Beefeater has, over several generations, earned a reputation for being a family-friendly steakhouse chain serving grilled steak cuts, burgers, and fish and chips at more accessible prices.",
+          "translation": "Beefeater餐廳從1974年在英國倫敦大區的恩菲爾開業，經過多個世代的發展，這家餐廳已經建立了家庭友善的評價，提供便宜的高質量牛肉、burger和fish and chips"
         },
         {
-          "sentence": "「The survey, conducted between April 24 and April 28, found that only 28% of respondents reported feeling optimistic about the economy.」",
-          "translation": "「這項在 4 月 24 日至 4 月 28 日進行的調查發現，只有 28% 的受訪者表示對經濟感到樂觀。」"
+          "sentence": "At its peak, the chain had approximately 140 standalone and Brewers Fayre brewery-attached locations in the United Kingdom and Ireland.",
+          "translation": "在它的峰值時期，這家連鎖店有大約140間獨立和Brewers Fayre breweries附屬店，分佈在英國和愛爾蘭"
         },
         {
-          "sentence": "「That represents a 13 percentage point decline since the prior survey fielded in January, and a decline of 17 percentage points compared to last year,」 according to the report.",
-          "translation": "「報告指出，這比一月份的前一次調查下降了 13 個百分點，與去年相比則下降了 17 個百分點。」"
+          "sentence": "But amid soaring operating costs the hotel and dining company Whitbread confirmed plans to shutter all remaining 106 restaurants by September.",
+          "translation": "然而，由於營運成本的急劇上升，酒店和餐飲公司Whitbread確認將所有剩下的106間餐廳在9月關閉"
         },
         {
-          "sentence": "It's bad news for Leslie's Pool Supply.",
-          "translation": "這對 Leslie's Pool Supply 公司來說是個壞消息。"
+          "sentence": "Earlier in the year, Whitbread announced a restructuring plan that aims to bring down annual costs down costs by £250 million ($333 million USD).",
+          "translation": "今年早些時候，Whitbread宣布了一個重組計畫，旨在降低每年的營運成本"
         },
         {
-          "sentence": "The company closed 80 locations in March, but it hasn't been enough to stem the bleeding.",
-          "translation": "該公司在三月份關閉了 80 家門市，但這仍不足以止住虧損。"
+          "sentence": "The company's largest holding is the hotel chain Premier Inn.",
+          "translation": "該公司的主要持有企業是酒店鏈Premier Inn"
         },
         {
-          "sentence": "Now, the retailer faces a possible Chapter 11 filing, according to a report from Bloomberg.",
-          "translation": "根據彭博社的報導，這家零售商現在可能面臨聲請「破產保護」（Chapter 11）的命運。"
+          "sentence": "The current strategy is to convert some locations into hotel rooms and others into integrated unbranded hotel restaurants.",
+          "translation": "目前的戰略是將一些店面轉換為酒店房間，其他則轉化為整合無標誌酒店餐廳"
         },
         {
-          "sentence": "When Leslie's reported second-quarter earnings in May, the company seemed to have turned the corner.",
-          "translation": "當 Leslie's 在五月份公布第二季「財報」時，該公司似乎一度出現轉機。"
+          "sentence": "Still other locations will be sold for what the company estimates will free up £1.5 billion ($2 billion USD).",
+          "translation": "另外一些店面將會出售，以估計公司能夠獲得£1.5億美元（約2億美元）"
         },
         {
-          "sentence": "「Compared to last year, in the second quarter, we delivered overall revenue growth of 4.3%, a comparable sales increase of 6.6%, improved year-over-year adjusted EBITDA by 26% and registered total customer count growth of 8%,」 shared CEO Jason McDonell.",
-          "translation": "執行長 Jason McDonell 表示：「與去年同期相比，我們第二季的總「營收成長」了 4.3%，「同店銷售」增加了 6.6%，「調整後稅息折舊攤銷前利潤」（Adjusted EBITDA）年增 26%，且總客戶數成長了 8%。」"
+          "sentence": "\"As you may have seen, we have recently announced changes to our business, which is resulting in the closure of our Branded Restaurants,\" Whitbread said in a statement on the location closures.",
+          "translation": "\"您可能已經看到我們最近宣布的商業變革，這是導致我們關閉所有品牌餐廳的原因\",\"Whitbread\"在關閉店面時發表的一份聲明中說了這些"
         },
         {
-          "sentence": "Those numbers followed the chain making a number of cuts during the first quarter.",
-          "translation": "這些數字是在該連鎖店第一季進行了一系列削減措施之後才出現的。"
+          "sentence": "\"This means that on Thursday 10 September 2026 your local Beefeater and all other UK Beefeaters will close.\"",
+          "translation": "\"這意味著，2026年9月10日，您的當地Beefeater和所有其他英國Beefeater店將關閉.\""
+        },
+        {
+          "sentence": "For customers who collected points through repeated visits, the Beefeater loyalty scheme will be shut down by Aug. 31.",
+          "translation": "對於那些通過多次訪問收集了點數的客戶，Beefeater忠誠方案將在8月底關閉"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
+      "title": "After 80 stores close, 63-year-old chain gives Chapter 11 warning",
       "source": "Yahoo Finance",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
-      "level1_blind": {
-        "text": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead"
-      },
+      "link": "https://finance.yahoo.com/markets/stocks/articles/80-stores-close-63-old-150700367.html",
+      "level1_blind": "我是 一为帪民爱发部, 七帪爱一为万为传一为万为你到部タ一中一为万为你子不为万为传一为万为仲东一中一为万为你到部タ一中一为仲东一中一为仲东一中一为你到部タ一中一为仲东一中一为仲东一中一为你到部タ一中一为仲东一中一为仲东",
       "level2_keywords": [
         {
-          "word": "Oil Prices",
-          "ipa": "/ɔɪl ˈpraɪsɪz/",
-          "meaning": "油價（原油等石油產品在國際市場上的交易價格，受供需、地緣政治等多重因素影響）",
-          "example": "『Geopolitical events can significantly impact global oil prices.』"
+          "word": "张主",
+          "ipa": "/sækz/",
+          "meaning": "这是张主程四爱一为仲东一中一为仲东",
+          "example": "这是张主程四爱一为仲东一中一为仲东"
         },
         {
-          "word": "Iran Hopes",
-          "ipa": "/ɪˈrɑːn hoʊps/",
-          "meaning": "伊朗相關的樂觀預期（通常指市場對伊朗石油供應增加或核協議進展的正面期待）",
-          "example": "『Renewed Iran hopes for a nuclear deal could lead to an increase in global oil supply.』"
+          "word": "公三",
+          "ipa": "/sɛmɪkər/",
+          "meaning": "这是公三程四爱一为仲东一中一为仲东",
+          "example": "这是公三程四爱一为仲东一中一为仲东"
         },
         {
-          "word": "Earnings Wave",
-          "ipa": "/ˈɜːrnɪŋz weɪv/",
-          "meaning": "財報潮/財報季（指大量上市公司集中公布季度或年度財務報告的時期）",
-          "example": "『Apple is leading the current earnings wave, setting the tone for the tech sector.』"
+          "word": "车子",
+          "ipa": "/ɛsʿtλ/",
+          "meaning": "这是车子程四爱一为仲东一中一为仲东",
+          "example": "这是车子程四爱一为仲东一中一为仲东"
         },
         {
-          "word": "Fed Meeting",
-          "ipa": "/fɛd ˈmiːtɪŋ/",
-          "meaning": "聯準會會議（美國聯邦準備理事會召開的貨幣政策會議，討論利率、量化寬鬆等重要決策）",
-          "example": "『Investors are keenly awaiting the outcome of the upcoming Fed meeting for interest rate clues.』"
+          "word": "车子",
+          "ipa": "/ɛsʿtλ/",
+          "meaning": "这是车子程四爱一为仲东一中一为仲东",
+          "example": "这是车子程四爱一为仲东一中一为仲东"
+        },
+        {
+          "word": "车子",
+          "ipa": "/ɛsʿtλ/",
+          "meaning": "这是车子程四爱一为仲东一中一为仲东",
+          "example": "这是车子程四爱一为仲东一中一为仲东"
         }
       ],
-      "level2_context": "各位同學，這篇新聞簡要地描繪了當前金融市場的幾個關鍵動態。首先，『道瓊期貨』上漲，通常預示著投資人對未來股市表現持樂觀態度。其次，『油價』下跌，這很可能與市場對『伊朗』可能增加石油供應的預期有關，例如核協議談判進展順利，這會緩解全球能源供應緊張，進而壓低油價。同時，科技巨頭『蘋果』正引領著新一波的『財報潮』，其業績表現將對整個科技板塊乃至大盤產生重要影響。最後，市場也正屏息以待『聯準會』即將召開的會議，因為聯準會的利率決策將直接影響企業借貸成本、消費者支出以及整體經濟的走向。這些因素共同塑造了當前的市場情緒和投資策略。",
+      "level2_context": "这是公三程四爱一为仲东一中一为仲东张主程四爱一为仲东车子程四爱一为仲东",
       "level3_translation": [
         {
-          "sentence": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
-          "translation": "『道瓊期貨上漲，油價因市場對伊朗的樂觀預期而下跌；蘋果公司引領著這一波財報潮，而聯準會會議也即將登場。』"
+          "sentence": "我是 一为万为传一为仲东一中一为仲东",
+          "translation": "这是张主程四爱一为仲东一中一为仲东"
+        },
+        {
+          "sentence": "这是 公三程四爱一为仲东一中一为仲东",
+          "translation": "这是公三程四爱一为仲东一中一为仲东"
+        },
+        {
+          "sentence": "这是 车子程四爱一为仲东一中一为仲东",
+          "translation": "这是车子程四爱一为仲东一中一为仲东"
+        },
+        {
+          "sentence": "这是 车子程四爱一为仲东一中一为仲东",
+          "translation": "这是车子程四爱一为仲东一中一为仲东"
+        },
+        {
+          "sentence": "这是 车子程四爱一为仲东一中一为仲东",
+          "translation": "这是车子程四爱一为仲东一中一为仲东"
+        },
+        {
+          "sentence": "这是 车子程四爱一为仲东一中一为仲东",
+          "translation": "这是车子程四爱一为仲东一中一为仲东"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again",
+      "title": "Mobileye Stock Is Down Despite Strong Results as Its Founder Steps Down. View the CEO Switch as a Reset, Not a Red Flag.",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/energy/articles/u-s-jet-fuel-costs-soar-210000933.html",
-      "level1_blind": {
-        "text": "U.S. airlines are grappling with soaring jet fuel costs again after the return of hostilities in the Middle East shattered the three-week-long U.S.-Iran 'deal to make a deal' and sent Brent crude oil prices soaring past $100 per barrel again.\n\nThe U.S. jet fuel market has been tightening since March, although there haven't been concerns about any shortages in America, unlike in Europe, which in April was supposed to run out of stockpiles within six weeks.\n\nEurope didn't see shortages, but the global markets tightened, and prices spiked amid peak seasonal demand during the summer holiday travel.\n\nU.S. jet fuel exports, and exports of all other fuels including gasoline and diesel, hit record highs this month as refining margins soared with crude supply still constrained at the Strait of Hormuz.\n\nThe result is spiking fuel costs that depress airline earnings and raise air fares for consumers.\n\nJet fuel stocks at the U.S. West Coast were most under stress in the spring as the region relies more on imports than the other PADDs.\n\nTherefore, in a first, Southwest Airlines chartered a vessel to ship jet fuel from Houston to Los Angeles via the Panama Canal.\n\n\"It brought like a week's supply to the West Coast at a time when supply was most constricted ... when it was most at risk,\" Southwest Airlines chief financial officer Tom Doxey told CNBC this week."
-      },
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mobileye-stock-down-despite-strong-140002566.html",
+      "level1_blind": "Mobileye Global (MBLY) just delivered a solid second-quarter beat, yet the stock got crushed.\n\nOn July 23, 2026, the autonomous-driving pioneer posted second-quarter 2026 revenue of $508 million and $0.19 in adjusted EPS, both comfortably ahead of Wall Street expectations. Management even raised full-year guidance. On paper, it looked like a clean win. Then the shoe dropped.\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nFounder and long-time CEO Amnon Shashua, the man who built Mobileye from a 1999 Israeli startup into the world's leading supplier of advanced driver-assistance systems, steered it through a $15.3 billion sale to Intel (INTC), and brought it back public in 2022, announced he is stepping down as CEO after 27 years once a successor is named. At the same time, the company guided for a 5% to 6% sequential revenue decline in the third quarter.\n\nInvestors didn't wait for the full story. Shares plunged roughly 15% in a single session, their steepest drop in nearly two years.\n\nSo here we are: a company printing stronger profits, raising its outlook, and still getting punished. Does Amnon Shashua's exit point to deeper trouble, or is the sell-off just giving investors a cheaper way into a company that just beat expectations?\n\nMobileye makes driver-assistance and self-driving systems for automakers, so its business moves on the slower pace of car programs, not quick consumer sales.\n\nThe stock has been weak, down 46.8% over the past 52 weeks and 21.4% year-to-date (YTD).",
       "level2_keywords": [
         {
-          "word": "hostilities",
-          "ipa": "/hɑːˈstɪlətiz/",
-          "meaning": "指國家或團體之間的敵對行動或衝突，在財經新聞中常與地緣政治風險相關。",
-          "example": "The return of hostilities in the region immediately impacted global oil prices."
+          "word": "semiconductor",
+          "ipa": "/sɛmɪˈkʌndər/",
+          "meaning": "半導體",
+          "example": "Intel 的新一代 CPU 使用高性能半導體"
         },
         {
-          "word": "Brent crude oil",
-          "ipa": "/brɛnt kruːd ɔɪl/",
-          "meaning": "一種國際上廣泛交易的輕質低硫原油，常作為全球油價的基準指標。",
-          "example": "Brent crude oil prices soaring past $100 per barrel again signals significant market volatility."
+          "word": "export",
+          "ipa": "/ɛksˈpɔrt/",
+          "meaning": "出口",
+          "example": "美國對於 AI 晶片的出口受到限制"
         },
         {
-          "word": "tightening",
-          "ipa": "/ˈtaɪtənɪŋ/",
-          "meaning": "在市場中指供應量減少或需求增加，導致商品或服務變得稀缺且價格上漲的狀況，常用於描述貨幣政策或商品市場。",
-          "example": "The U.S. jet fuel market has been tightening since March, pushing prices higher."
+          "word": "guidance",
+          "ipa": "/ˈɡaɪdəns/",
+          "meaning": "指引",
+          "example": "公司提供的財務指引"
         },
         {
-          "word": "refining margins",
-          "ipa": "/rɪˈfaɪnɪŋ ˈmɑːrdʒɪnz/",
-          "meaning": "煉油廠將原油加工成汽油、柴油或航空燃油等產品後，其產品售價與原油成本之間的價差，代表煉油廠的獲利能力。",
-          "example": "U.S. jet fuel exports hit record highs as refining margins soared."
+          "word": "autonomous",
+          "ipa": "/ɔːtənəməs/",
+          "meaning": "自動化",
+          "example": "自駛系統"
         },
         {
-          "word": "stockpiles",
-          "ipa": "/ˈstɑːkpaɪlz/",
-          "meaning": "指大量儲存的物資或商品，通常是為了應對未來需求或供應中斷，在能源或戰略物資領域尤其重要。",
-          "example": "Europe was supposed to run out of stockpiles within six weeks, raising concerns about energy security."
+          "word": "revenue",
+          "ipa": "/rɪˈvuːni/",
+          "meaning": "收入",
+          "example": "公司的收入增加了 20% "
         }
       ],
-      "level2_context": "各位同學，這篇新聞主要在探討中東地區地緣政治緊張，特別是美國與伊朗之間關係惡化，如何再次衝擊全球能源市場，進而導致美國航空燃油成本飆升。我們可以看到，當布蘭特原油價格再次突破每桶 100 美元大關時，航空業的營運成本就面臨巨大壓力。這不僅會壓縮航空公司的獲利空間，最終也會轉嫁到消費者身上，讓機票價格上漲。新聞中也提到，美國的航空燃油市場供應吃緊，特別是西岸地區，因為他們更依賴進口。這也解釋了為什麼西南航空會破天荒地包租一艘船，從休士頓運送燃油到洛杉磯，這在產業中是非常罕見且值得關注的現象，反映出供應鏈的脆弱性與企業為確保營運所做的應變。",
+      "level2_context": "自駛系統和自動化技術在車企中逐漸重要，Mobileye 的 Exit 可能是產業發展趨勢的反映。美國政府對於 AI 晶片出口的限制也使得 Mobileye 面臨著新的挑戰。",
       "level3_translation": [
         {
-          "sentence": "U.S. airlines are grappling with soaring jet fuel costs again after the return of hostilities in the Middle East shattered the three-week-long U.S.-Iran 'deal to make a deal' and sent Brent crude oil prices soaring past $100 per barrel again.",
-          "translation": "美國航空公司再次面臨航空燃油成本飆升的困境，因為中東地區敵對行動的再次爆發，粉碎了為期三週的美國與伊朗『達成協議的協議』，並再次將布蘭特原油價格推升至每桶 100 美元以上。"
+          "sentence": "Mobileye Global (MBLY) just delivered a solid second-quarter beat, yet the stock got crushed.",
+          "translation": ""
         },
         {
-          "sentence": "The U.S. jet fuel market has been tightening since March, although there haven't been concerns about any shortages in America, unlike in Europe, which in April was supposed to run out of stockpiles within six weeks.",
-          "translation": "美國航空燃油市場自三月以來供應持續吃緊，儘管美國境內尚未出現短缺的擔憂，這與歐洲不同，歐洲在四月時曾預計六週內庫存將耗盡。"
+          "sentence": "On July 23, 2026, the autonomous-driving pioneer posted second-quarter 2026 revenue of $508 million and $0.19 in adjusted EPS, both comfortably ahead of Wall Street expectations.",
+          "translation": ""
         },
         {
-          "sentence": "Europe didn't see shortages, but the global markets tightened, and prices spiked amid peak seasonal demand during the summer holiday travel.",
-          "translation": "歐洲最終並未出現短缺，但全球市場供應吃緊，且在夏季旅遊旺季的季節性需求高峰期，價格隨之飆升。"
+          "sentence": "Management even raised full-year guidance.",
+          "translation": ""
         },
         {
-          "sentence": "U.S. jet fuel exports, and exports of all other fuels including gasoline and diesel, hit record highs this month as refining margins soared with crude supply still constrained at the Strait of Hormuz.",
-          "translation": "由於煉油毛利率飆升，加上荷姆茲海峽的原油供應仍受限制，美國本月的航空燃油出口以及包括汽油和柴油在內的所有其他燃料出口，均創下歷史新高。"
+          "sentence": "On paper, it looked like a clean win.",
+          "translation": ""
         },
         {
-          "sentence": "The result is spiking fuel costs that depress airline earnings and raise air fares for consumers.",
-          "translation": "其結果是燃油成本飆升，這將壓低航空公司的獲利，並提高消費者的機票價格。"
+          "sentence": "Then the shoe dropped.",
+          "translation": ""
         },
         {
-          "sentence": "Jet fuel stocks at the U.S. West Coast were most under stress in the spring as the region relies more on imports than the other PADDs.",
-          "translation": "美國西岸的航空燃油庫存在庫存春季承受最大壓力，因為該地區比其他 PADDs（美國石油管理局防衛區）更依賴進口。"
+          "sentence": "Markets move fast.",
+          "translation": ""
         },
         {
-          "sentence": "Therefore, in a first, Southwest Airlines chartered a vessel to ship jet fuel from Houston to Los Angeles via the Panama Canal.",
-          "translation": "因此，西南航空首次採取行動，包租了一艘船，透過巴拿馬運河將航空燃油從休士頓運往洛杉磯。"
+          "sentence": "Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.",
+          "translation": ""
         },
         {
-          "sentence": "\"It brought like a week's supply to the West Coast at a time when supply was most constricted ... when it was most at risk,\" Southwest Airlines chief financial officer Tom Doxey told CNBC this week.",
-          "translation": "西南航空財務長 Tom Doxey 本週向 CNBC 表示：「這為西岸帶來了大約一週的供應量，當時供應最為緊繃……風險也最高。」"
+          "sentence": "Founder and long-time CEO Amnon Shashua, the man who built Mobileye from a 1999 Israeli startup into the world's leading supplier of advanced driver-assistance systems, steered it through a $15.3 billion sale to Intel (INTC), and brought it back public in 2022, announced he is stepping down as CEO after 27 years once a successor is named.",
+          "translation": ""
+        },
+        {
+          "sentence": "At the same time, the company guided for a 5% to 6% sequential revenue decline in the third quarter.",
+          "translation": ""
+        },
+        {
+          "sentence": "Investors didn't wait for the full story.",
+          "translation": ""
+        },
+        {
+          "sentence": "Shares plunged roughly 15% in a single session, their steepest drop in nearly two years.",
+          "translation": ""
+        },
+        {
+          "sentence": "So here we are: a company printing stronger profits, raising its outlook, and still getting punished.",
+          "translation": ""
+        },
+        {
+          "sentence": "Does Amnon Shashua's exit point to deeper trouble, or is the sell-off just giving investors a cheaper way into a company that just beat expectations?",
+          "translation": ""
+        },
+        {
+          "sentence": "Mobileye makes driver-assistance and self-driving systems for automakers, so its business moves on the slower pace of car programs, not quick consumer sales.",
+          "translation": ""
+        },
+        {
+          "sentence": "The stock has been weak, down 46.8% over the past 52 weeks and 21.4% year-to-date (YTD).",
+          "translation": ""
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "今日台股大戶籌碼動向與國際財經新聞之間，浮現了清晰的「AI伺服器」與「非AI半導體」的資金板塊挪移現象，並伴隨對特定產業的逆勢操作。首先，外資、投信及美商高盛、元大投信等主力券商對緯創（3231）的大舉買超，顯示市場對AI伺服器供應鏈的強烈信心與預先部署。儘管國際新聞中未直接提及AI利多，但美股道瓊期貨上漲、蘋果財報季將至的背景，暗示科技股整體氛圍偏暖，大戶顯然已提前掌握AI需求成長的趨勢，將資金集中於此一高成長領域。\n\n與此同時，半導體產業則面臨顯著的賣壓。外資、投信與自營商對力積電（6770）、南亞科（2408）、聯電（2303）、華邦電（2344）甚至台積電（2330）等記憶體與晶圓代工廠的廣泛賣出，尤其摩根大通對力積電的大幅出脫，與國際新聞中奢侈品市場萎縮、消費支出緊縮的警訊形成呼應。這可能反映大戶預期全球經濟放緩將衝擊非AI相關的消費性電子產品需求，進而影響這些半導體公司的訂單與獲利，因此進行風險規避或資金轉移。\n\n值得注意的是，在外資買超榜上，長榮航（2618）赫然在列，然而國際財經新聞卻傳出「伊朗戰事再起，美國噴射燃油成本飆升」，這對航空業無疑是利空。此一反向操作，可能暗示外資對長榮航有更深層的利多資訊，例如對疫後旅遊復甦的強勁預期、有效的燃油避險策略，或是預判油價飆升僅為短期現象，選擇在利空消息見報前或見報時逢低布局，展現了高度的市場洞察力與逆向思維。"
+    "market_connection": "在金融市場中，兩個 news 的事件可能會引發對於股市和投資品項的波動。例如，Mobileye 的 CEO 轉職可能會影響公司的股價，而 Beefeater 的關閉可能會影響酒店和餐飲業的整體趨勢。這些事件可能會在全球金融市場中產生ripple 效應，從而影響其他公司和投資品項的價格。因此，為了保持投資品項的價格穩定性，投資者需要關注這些事件的可能性以及其對股市的影響。"
   }
 }

@@ -1,254 +1,254 @@
 {
-  "date": "2026-07-27",
-  "stock_market_date": "2026-07-24",
+  "date": "2026-07-28",
+  "stock_market_date": "2026-07-27",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 32435090
-        },
-        {
-          "rank": 2,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_buy_shares": 30430942
-        },
-        {
-          "rank": 3,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 16826009
-        },
-        {
-          "rank": 4,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 16212814
-        },
-        {
-          "rank": 5,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_buy_shares": 13889300
-        },
-        {
-          "rank": 6,
-          "stock_name": "陽明",
-          "ticker": "2609",
-          "net_buy_shares": 11649098
-        },
-        {
-          "rank": 7,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 11564565
-        },
-        {
-          "rank": 8,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_buy_shares": 10819933
-        },
-        {
-          "rank": 9,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_buy_shares": 10622609
-        },
-        {
-          "rank": 10,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_buy_shares": 9501039
-        }
-      ],
-      "foreign_sell": [
-        {
-          "rank": 1,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -43857303
-        },
-        {
-          "rank": 2,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -37393633
-        },
-        {
-          "rank": 3,
-          "stock_name": "台塑",
-          "ticker": "1301",
-          "net_sell_shares": -21084470
-        },
-        {
-          "rank": 4,
-          "stock_name": "台化",
-          "ticker": "1326",
-          "net_sell_shares": -18678057
-        },
-        {
-          "rank": 5,
           "stock_name": "群創",
           "ticker": "3481",
-          "net_sell_shares": -18087438
-        },
-        {
-          "rank": 6,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -13346143
-        },
-        {
-          "rank": 7,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_sell_shares": -10481843
-        },
-        {
-          "rank": 8,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -9636606
-        },
-        {
-          "rank": 9,
-          "stock_name": "台塑化",
-          "ticker": "6505",
-          "net_sell_shares": -7418700
-        },
-        {
-          "rank": 10,
-          "stock_name": "中纖",
-          "ticker": "1718",
-          "net_sell_shares": -6951429
-        }
-      ],
-      "trust_buy": [
-        {
-          "rank": 1,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 10842925
-        },
-        {
-          "rank": 2,
-          "stock_name": "大聯大",
-          "ticker": "3702",
-          "net_buy_shares": 6226000
-        },
-        {
-          "rank": 3,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 3606000
-        },
-        {
-          "rank": 4,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_buy_shares": 3225591
-        },
-        {
-          "rank": 5,
-          "stock_name": "上海商銀",
-          "ticker": "5876",
-          "net_buy_shares": 1639000
-        },
-        {
-          "rank": 6,
-          "stock_name": "台灣高鐵",
-          "ticker": "2633",
-          "net_buy_shares": 1569000
-        },
-        {
-          "rank": 7,
-          "stock_name": "尖點",
-          "ticker": "8021",
-          "net_buy_shares": 1329000
-        },
-        {
-          "rank": 8,
-          "stock_name": "統一",
-          "ticker": "1216",
-          "net_buy_shares": 1144363
-        },
-        {
-          "rank": 9,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 1000000
-        },
-        {
-          "rank": 10,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_buy_shares": 874696
-        }
-      ],
-      "trust_sell": [
-        {
-          "rank": 1,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -14364073
+          "net_buy_shares": 56496170
         },
         {
           "rank": 2,
           "stock_name": "聯電",
           "ticker": "2303",
-          "net_sell_shares": -11282732
+          "net_buy_shares": 43123860
         },
         {
           "rank": 3,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -6806000
+          "stock_name": "台中銀",
+          "ticker": "2812",
+          "net_buy_shares": 24494000
         },
         {
           "rank": 4,
-          "stock_name": "強茂",
-          "ticker": "2481",
-          "net_sell_shares": -2985000
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_buy_shares": 21094712
         },
         {
           "rank": 5,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_sell_shares": -2886000
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 19049159
         },
         {
           "rank": 6,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -1841068
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 18913064
         },
         {
           "rank": 7,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_sell_shares": -1543891
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 17467170
         },
         {
           "rank": 8,
-          "stock_name": "台勝科",
-          "ticker": "3532",
-          "net_sell_shares": -1123000
+          "stock_name": "台泥",
+          "ticker": "1101",
+          "net_buy_shares": 17345494
         },
         {
           "rank": 9,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -969184
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_buy_shares": 16541083
         },
         {
           "rank": 10,
-          "stock_name": "景碩",
-          "ticker": "3189",
-          "net_sell_shares": -968982
+          "stock_name": "中纖",
+          "ticker": "1718",
+          "net_buy_shares": 15561259
+        }
+      ],
+      "foreign_sell": [
+        {
+          "rank": 1,
+          "stock_name": "至上",
+          "ticker": "8112",
+          "net_sell_shares": -11243042
+        },
+        {
+          "rank": 2,
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -10620356
+        },
+        {
+          "rank": 3,
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_sell_shares": -10323869
+        },
+        {
+          "rank": 4,
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_sell_shares": -9711900
+        },
+        {
+          "rank": 5,
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -7943636
+        },
+        {
+          "rank": 6,
+          "stock_name": "國喬",
+          "ticker": "1312",
+          "net_sell_shares": -6806953
+        },
+        {
+          "rank": 7,
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_sell_shares": -6243665
+        },
+        {
+          "rank": 8,
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_sell_shares": -5066133
+        },
+        {
+          "rank": 9,
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -4722183
+        },
+        {
+          "rank": 10,
+          "stock_name": "中工",
+          "ticker": "2515",
+          "net_sell_shares": -4485440
+        }
+      ],
+      "trust_buy": [
+        {
+          "rank": 1,
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_buy_shares": 6506404
+        },
+        {
+          "rank": 2,
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 4459000
+        },
+        {
+          "rank": 3,
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 3955000
+        },
+        {
+          "rank": 4,
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_buy_shares": 3219878
+        },
+        {
+          "rank": 5,
+          "stock_name": "廣達",
+          "ticker": "2382",
+          "net_buy_shares": 2551443
+        },
+        {
+          "rank": 6,
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_buy_shares": 2184080
+        },
+        {
+          "rank": 7,
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 1865125
+        },
+        {
+          "rank": 8,
+          "stock_name": "上海商銀",
+          "ticker": "5876",
+          "net_buy_shares": 1777000
+        },
+        {
+          "rank": 9,
+          "stock_name": "統一",
+          "ticker": "1216",
+          "net_buy_shares": 1575000
+        },
+        {
+          "rank": 10,
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 1347045
+        }
+      ],
+      "trust_sell": [
+        {
+          "rank": 1,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -10084822
+        },
+        {
+          "rank": 2,
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_sell_shares": -5624000
+        },
+        {
+          "rank": 3,
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_sell_shares": -4391000
+        },
+        {
+          "rank": 4,
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -3988294
+        },
+        {
+          "rank": 5,
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -3403000
+        },
+        {
+          "rank": 6,
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_sell_shares": -2905000
+        },
+        {
+          "rank": 7,
+          "stock_name": "瑞軒",
+          "ticker": "2489",
+          "net_sell_shares": -2000000
+        },
+        {
+          "rank": 8,
+          "stock_name": "台虹",
+          "ticker": "8039",
+          "net_sell_shares": -1946000
+        },
+        {
+          "rank": 9,
+          "stock_name": "同欣電",
+          "ticker": "6271",
+          "net_sell_shares": -1285000
+        },
+        {
+          "rank": 10,
+          "stock_name": "晶技",
+          "ticker": "3042",
+          "net_sell_shares": -1187000
         }
       ],
       "dealer_buy": [
@@ -256,123 +256,123 @@
           "rank": 1,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_buy_shares": 5874426
+          "net_buy_shares": 3112000
         },
         {
           "rank": 2,
-          "stock_name": "興富發",
-          "ticker": "2542",
-          "net_buy_shares": 1595000
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 2233000
         },
         {
           "rank": 3,
           "stock_name": "華南金",
           "ticker": "2880",
-          "net_buy_shares": 1356000
+          "net_buy_shares": 2137422
         },
         {
           "rank": 4,
-          "stock_name": "統一",
-          "ticker": "1216",
-          "net_buy_shares": 855000
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 679807
         },
         {
           "rank": 5,
-          "stock_name": "中華電",
-          "ticker": "2412",
-          "net_buy_shares": 673000
+          "stock_name": "三商壽",
+          "ticker": "2867",
+          "net_buy_shares": 672000
         },
         {
           "rank": 6,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_buy_shares": 596379
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_buy_shares": 522533
         },
         {
           "rank": 7,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 417531
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 401000
         },
         {
           "rank": 8,
-          "stock_name": "大成",
-          "ticker": "1210",
-          "net_buy_shares": 309000
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 392593
         },
         {
           "rank": 9,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 295508
+          "stock_name": "力成",
+          "ticker": "6239",
+          "net_buy_shares": 386292
         },
         {
           "rank": 10,
-          "stock_name": "中纖",
-          "ticker": "1718",
-          "net_buy_shares": 224152
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_buy_shares": 376000
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -2026000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -2644000
         },
         {
           "rank": 2,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_sell_shares": -1851000
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_sell_shares": -794362
         },
         {
           "rank": 3,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -1730291
+          "stock_name": "元大高股息",
+          "ticker": "0056",
+          "net_sell_shares": -698000
         },
         {
           "rank": 4,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -1651000
+          "stock_name": "寶成",
+          "ticker": "9904",
+          "net_sell_shares": -457420
         },
         {
           "rank": 5,
-          "stock_name": "友訊",
-          "ticker": "2332",
-          "net_sell_shares": -931665
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_sell_shares": -376181
         },
         {
           "rank": 6,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -892619
+          "stock_name": "景碩",
+          "ticker": "3189",
+          "net_sell_shares": -311300
         },
         {
           "rank": 7,
-          "stock_name": "台塑",
-          "ticker": "1301",
-          "net_sell_shares": -536205
+          "stock_name": "文曄",
+          "ticker": "3036",
+          "net_sell_shares": -271274
         },
         {
           "rank": 8,
-          "stock_name": "華新",
-          "ticker": "1605",
-          "net_sell_shares": -513000
+          "stock_name": "友訊",
+          "ticker": "2332",
+          "net_sell_shares": -269000
         },
         {
           "rank": 9,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_sell_shares": -501000
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_sell_shares": -252259
         },
         {
           "rank": 10,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_sell_shares": -395000
+          "stock_name": "新興",
+          "ticker": "2605",
+          "net_sell_shares": -230000
         }
       ]
     },
@@ -380,32 +380,41 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "緯創",
-        "shares": 11352281
+        "target": "群創",
+        "shares": 19773659
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
         "target": "元大台灣50",
-        "shares": 2349770
+        "shares": 1244800
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "緯創",
-        "shares": 4879316
+        "target": "元大金",
+        "shares": 2927881
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "力積電",
-        "shares": 13157190
+        "target": "至上",
+        "shares": 3372912
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
+      "title": "52-year-old international restaurant chain closing all locations",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/small-business/articles/52-old-international-restaurant-chain-145707525.html",
+      "summary": "52-year-old international restaurant chain closing all locations",
+      "full_text": "While markets data shows that the global market for dining out is projected to grow from $1.9 trillion now to more than $3 trillion by 2030, many individual chains that were popular in another era are struggling to survive amid changing consumer trends.\n\nU.S. chains like Smokey Bones, Peet's Coffee, and Joe's Crab Shack have collectively closed dozens of locations this year. Meanwhile, over in the United Kingdom, Leon and The Real Greek both nearly halved their store locations in 2026 despite once going through a period of rapid expansion that made them well-recognized chains in the country's major cities.\n\nWith the first location opening in the Greater London borough of Enfield in 1974, the restaurant chain Beefeater has, over several generations, earned a reputation for being a family-friendly steakhouse chain serving grilled steak cuts, burgers, and fish and chips at more accessible prices.\n\nAt its peak, the chain had approximately 140 standalone and Brewers Fayre brewery-attached locations in the United Kingdom and Ireland. But amid soaring operating costs the hotel and dining company Whitbread confirmed plans to shutter all remaining 106 restaurants by September.\n\nEarlier in the year, Whitbread announced a restructuring plan that aims to bring down annual costs down costs by £250 million ($333 million USD).\n\nThe company's largest holding is the hotel chain Premier Inn. The current strategy is to convert some locations into hotel rooms and others into integrated unbranded hotel restaurants. Still other locations will be sold for what the company estimates will free up £1.5 billion ($2 billion USD).\n\n\"As you may have seen, we have recently announced changes to our business, which is resulting in the closure of our Branded Restaurants,\" Whitbread said in a statement on the location closures. \"This means that on Thursday 10 September 2026 your local Beefeater and all other UK Beefeaters will close.\"\n\nFor customers who collected points through repeated visits, the Beefeater loyalty scheme will be shut down by Aug. 31.",
+      "published": "2026-07-27T14:57:07Z"
+    },
+    {
+      "id": "news_2",
       "title": "After 80 stores close, 63-year-old chain gives Chapter 11 warning",
       "source": "Yahoo Finance",
       "link": "https://finance.yahoo.com/markets/stocks/articles/80-stores-close-63-old-150700367.html",
@@ -414,22 +423,13 @@
       "published": "2026-07-26T15:07:00Z"
     },
     {
-      "id": "news_2",
-      "title": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
-      "source": "Yahoo Finance",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
-      "summary": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
-      "full_text": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
-      "published": "2026-07-26T22:18:05Z"
-    },
-    {
       "id": "news_3",
-      "title": "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again",
+      "title": "Mobileye Stock Is Down Despite Strong Results as Its Founder Steps Down. View the CEO Switch as a Reset, Not a Red Flag.",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/energy/articles/u-jet-fuel-costs-soar-210000933.html",
-      "summary": "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again",
-      "full_text": "U.S. airlines are grappling with soaring jet fuel costs again after the return of hostilities in the Middle East shattered the three-week-long U.S.-Iran 'deal to make a deal' and sent Brent crude oil prices soaring past $100 per barrel again.\n\nThe U.S. jet fuel market has been tightening since March, although there haven't been concerns about any shortages in America, unlike in Europe, which in April was supposed to run out of stockpiles within six weeks.\n\nEurope didn't see shortages, but the global markets tightened, and prices spiked amid peak seasonal demand during the summer holiday travel.\n\nU.S. jet fuel exports, and exports of all other fuels including gasoline and diesel, hit record highs this month as refining margins soared with crude supply still constrained at the Strait of Hormuz.\n\nThe result is spiking fuel costs that depress airline earnings and raise air fares for consumers.\n\nJet fuel stocks at the U.S. West Coast were most under stress in the spring as the region relies more on imports than the other PADDs.\n\nTherefore, in a first, Southwest Airlines chartered a vessel to ship jet fuel from Houston to Los Angeles via the Panama Canal.\n\n\"It brought like a week's supply to the West Coast at a time when supply was most constricted ... when it was most at risk,\" Southwest Airlines chief financial officer Tom Doxey told CNBC this week.",
-      "published": "2026-07-26T21:00:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mobileye-stock-down-despite-strong-140002566.html",
+      "summary": "Mobileye Stock Is Down Despite Strong Results as Its Founder Steps Down. View the CEO Switch as a Reset, Not a Red Flag.",
+      "full_text": "Mobileye Global (MBLY) just delivered a solid second-quarter beat, yet the stock got crushed.\n\nOn July 23, 2026, the autonomous-driving pioneer posted second-quarter 2026 revenue of $508 million and $0.19 in adjusted EPS, both comfortably ahead of Wall Street expectations. Management even raised full-year guidance. On paper, it looked like a clean win. Then the shoe dropped.\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nFounder and long-time CEO Amnon Shashua, the man who built Mobileye from a 1999 Israeli startup into the world's leading supplier of advanced driver-assistance systems, steered it through a $15.3 billion sale to Intel (INTC), and brought it back public in 2022, announced he is stepping down as CEO after 27 years once a successor is named. At the same time, the company guided for a 5% to 6% sequential revenue decline in the third quarter.\n\nInvestors didn't wait for the full story. Shares plunged roughly 15% in a single session, their steepest drop in nearly two years.\n\nSo here we are: a company printing stronger profits, raising its outlook, and still getting punished. Does Amnon Shashua's exit point to deeper trouble, or is the sell-off just giving investors a cheaper way into a company that just beat expectations?\n\nMobileye makes driver-assistance and self-driving systems for automakers, so its business moves on the slower pace of car programs, not quick consumer sales.\n\nThe stock has been weak, down 46.8% over the past 52 weeks and 21.4% year-to-date (YTD).",
+      "published": "2026-07-26T14:00:02Z"
     }
   ]
 }
