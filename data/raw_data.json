@@ -1,254 +1,254 @@
 {
-  "date": "2026-07-28",
-  "stock_market_date": "2026-07-27",
+  "date": "2026-07-29",
+  "stock_market_date": "2026-07-28",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 56496170
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 52784372
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 43123860
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 42096430
         },
         {
           "rank": 3,
-          "stock_name": "台中銀",
-          "ticker": "2812",
-          "net_buy_shares": 24494000
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 39607620
         },
         {
           "rank": 4,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_buy_shares": 21094712
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 34341534
         },
         {
           "rank": 5,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 19049159
+          "stock_name": "台泥",
+          "ticker": "1101",
+          "net_buy_shares": 17795221
         },
         {
           "rank": 6,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 18913064
+          "stock_name": "中華電",
+          "ticker": "2412",
+          "net_buy_shares": 9689548
         },
         {
           "rank": 7,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_buy_shares": 17467170
+          "stock_name": "彩晶",
+          "ticker": "6116",
+          "net_buy_shares": 7971482
         },
         {
           "rank": 8,
-          "stock_name": "台泥",
-          "ticker": "1101",
-          "net_buy_shares": 17345494
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_buy_shares": 7221991
         },
         {
           "rank": 9,
-          "stock_name": "合庫金",
-          "ticker": "5880",
-          "net_buy_shares": 16541083
+          "stock_name": "上海商銀",
+          "ticker": "5876",
+          "net_buy_shares": 7220018
         },
         {
           "rank": 10,
-          "stock_name": "中纖",
-          "ticker": "1718",
-          "net_buy_shares": 15561259
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 7059431
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "至上",
-          "ticker": "8112",
-          "net_sell_shares": -11243042
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -148153654
         },
         {
           "rank": 2,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -10620356
+          "stock_name": "元大高股息",
+          "ticker": "0056",
+          "net_sell_shares": -31857966
         },
         {
           "rank": 3,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_sell_shares": -10323869
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -27468084
         },
         {
           "rank": 4,
-          "stock_name": "中石化",
-          "ticker": "1314",
-          "net_sell_shares": -9711900
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_sell_shares": -24385139
         },
         {
           "rank": 5,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -7943636
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_sell_shares": -20996314
         },
         {
           "rank": 6,
-          "stock_name": "國喬",
-          "ticker": "1312",
-          "net_sell_shares": -6806953
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_sell_shares": -20086427
         },
         {
           "rank": 7,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_sell_shares": -6243665
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -18011340
         },
         {
           "rank": 8,
-          "stock_name": "台塑",
-          "ticker": "1301",
-          "net_sell_shares": -5066133
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -14659332
         },
         {
           "rank": 9,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -4722183
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_sell_shares": -12248782
         },
         {
           "rank": 10,
-          "stock_name": "中工",
-          "ticker": "2515",
-          "net_sell_shares": -4485440
+          "stock_name": "華新",
+          "ticker": "1605",
+          "net_sell_shares": -11401758
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_buy_shares": 6506404
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_buy_shares": 4658554
         },
         {
           "rank": 2,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 4459000
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 4265686
         },
         {
           "rank": 3,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 3955000
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_buy_shares": 4030022
         },
         {
           "rank": 4,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 3219878
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_buy_shares": 3850749
         },
         {
           "rank": 5,
-          "stock_name": "廣達",
-          "ticker": "2382",
-          "net_buy_shares": 2551443
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 3806297
         },
         {
           "rank": 6,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_buy_shares": 2184080
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 3600000
         },
         {
           "rank": 7,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 1865125
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 3341139
         },
         {
           "rank": 8,
-          "stock_name": "上海商銀",
-          "ticker": "5876",
-          "net_buy_shares": 1777000
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 2887402
         },
         {
           "rank": 9,
-          "stock_name": "統一",
-          "ticker": "1216",
-          "net_buy_shares": 1575000
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 2687167
         },
         {
           "rank": 10,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 1347045
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_buy_shares": 2533530
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -10084822
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -2760433
         },
         {
           "rank": 2,
-          "stock_name": "強茂",
-          "ticker": "2481",
-          "net_sell_shares": -5624000
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_sell_shares": -2678860
         },
         {
           "rank": 3,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_sell_shares": -4391000
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -2376711
         },
         {
           "rank": 4,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -3988294
+          "stock_name": "南茂",
+          "ticker": "8150",
+          "net_sell_shares": -2279000
         },
         {
           "rank": 5,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -3403000
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_sell_shares": -1864000
         },
         {
           "rank": 6,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_sell_shares": -2905000
+          "stock_name": "瑞軒",
+          "ticker": "2489",
+          "net_sell_shares": -1809000
         },
         {
           "rank": 7,
-          "stock_name": "瑞軒",
-          "ticker": "2489",
-          "net_sell_shares": -2000000
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_sell_shares": -1806000
         },
         {
           "rank": 8,
-          "stock_name": "台虹",
-          "ticker": "8039",
-          "net_sell_shares": -1946000
+          "stock_name": "技嘉",
+          "ticker": "2376",
+          "net_sell_shares": -1761000
         },
         {
           "rank": 9,
-          "stock_name": "同欣電",
-          "ticker": "6271",
-          "net_sell_shares": -1285000
+          "stock_name": "景碩",
+          "ticker": "3189",
+          "net_sell_shares": -1690000
         },
         {
           "rank": 10,
-          "stock_name": "晶技",
-          "ticker": "3042",
-          "net_sell_shares": -1187000
+          "stock_name": "金像電",
+          "ticker": "2368",
+          "net_sell_shares": -1657937
         }
       ],
       "dealer_buy": [
@@ -256,123 +256,123 @@
           "rank": 1,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_buy_shares": 3112000
+          "net_buy_shares": 3712540
         },
         {
           "rank": 2,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 2233000
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 552341
         },
         {
           "rank": 3,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 2137422
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 432755
         },
         {
           "rank": 4,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 679807
+          "stock_name": "康舒",
+          "ticker": "6282",
+          "net_buy_shares": 425000
         },
         {
           "rank": 5,
-          "stock_name": "三商壽",
-          "ticker": "2867",
-          "net_buy_shares": 672000
+          "stock_name": "愛山林",
+          "ticker": "2540",
+          "net_buy_shares": 367000
         },
         {
           "rank": 6,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_buy_shares": 522533
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 308465
         },
         {
           "rank": 7,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 401000
+          "stock_name": "銘旺科",
+          "ticker": "2429",
+          "net_buy_shares": 297000
         },
         {
           "rank": 8,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 392593
+          "stock_name": "燁輝",
+          "ticker": "2023",
+          "net_buy_shares": 295000
         },
         {
           "rank": 9,
-          "stock_name": "力成",
-          "ticker": "6239",
-          "net_buy_shares": 386292
+          "stock_name": "統一實",
+          "ticker": "9907",
+          "net_buy_shares": 218000
         },
         {
           "rank": 10,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_buy_shares": 376000
+          "stock_name": "百和",
+          "ticker": "9938",
+          "net_buy_shares": 194000
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -2644000
+          "stock_name": "上海商銀",
+          "ticker": "5876",
+          "net_sell_shares": -3527056
         },
         {
           "rank": 2,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_sell_shares": -794362
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_sell_shares": -2186474
         },
         {
           "rank": 3,
-          "stock_name": "元大高股息",
-          "ticker": "0056",
-          "net_sell_shares": -698000
+          "stock_name": "台橡",
+          "ticker": "2103",
+          "net_sell_shares": -1015000
         },
         {
           "rank": 4,
-          "stock_name": "寶成",
-          "ticker": "9904",
-          "net_sell_shares": -457420
+          "stock_name": "國喬",
+          "ticker": "1312",
+          "net_sell_shares": -799000
         },
         {
           "rank": 5,
           "stock_name": "台塑化",
           "ticker": "6505",
-          "net_sell_shares": -376181
+          "net_sell_shares": -626492
         },
         {
           "rank": 6,
-          "stock_name": "景碩",
-          "ticker": "3189",
-          "net_sell_shares": -311300
+          "stock_name": "友訊",
+          "ticker": "2332",
+          "net_sell_shares": -582759
         },
         {
           "rank": 7,
-          "stock_name": "文曄",
-          "ticker": "3036",
-          "net_sell_shares": -271274
+          "stock_name": "廣達",
+          "ticker": "2382",
+          "net_sell_shares": -563813
         },
         {
           "rank": 8,
-          "stock_name": "友訊",
-          "ticker": "2332",
-          "net_sell_shares": -269000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -548988
         },
         {
           "rank": 9,
-          "stock_name": "台塑",
-          "ticker": "1301",
-          "net_sell_shares": -252259
+          "stock_name": "超豐",
+          "ticker": "2441",
+          "net_sell_shares": -524355
         },
         {
           "rank": 10,
-          "stock_name": "新興",
-          "ticker": "2605",
-          "net_sell_shares": -230000
+          "stock_name": "彩晶",
+          "ticker": "6116",
+          "net_sell_shares": -486998
         }
       ]
     },
@@ -380,26 +380,26 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "群創",
-        "shares": 19773659
+        "target": "華航",
+        "shares": 18474530
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
         "target": "元大台灣50",
-        "shares": 1244800
+        "shares": 1485016
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "元大金",
-        "shares": 2927881
+        "target": "緯創",
+        "shares": 2096349
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "至上",
-        "shares": 3372912
+        "target": "元大台灣50",
+        "shares": 44446096
       }
     ]
   },
@@ -415,21 +415,21 @@
     },
     {
       "id": "news_2",
-      "title": "After 80 stores close, 63-year-old chain gives Chapter 11 warning",
+      "title": "Influencer sells 2 Ferraris to buy Bitcoin dip",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/80-stores-close-63-old-150700367.html",
-      "summary": "After 80 stores close, 63-year-old chain gives Chapter 11 warning",
-      "full_text": "When a retailer sells a product people no longer want or need at the same level they once did, it becomes challenging for that retailer to operate.\n\nYes, you can cut expenses and close stores, but if customers aren't buying, no amount of frugality will keep the doors open.\n\nThat's a challenge facing any chain serving the luxury market, as Americans have cut back on discretionary spending. Luxury shoppers' optimism about the economy continues to decline, driven by global financial uncertainty and market volatility, according to the latest Saks Global Luxury Pulse survey.\n\n\"The survey, conducted between April 24 and April 28, found that only 28% of respondents reported feeling optimistic about the economy. That represents a 13 percentage point decline since the prior survey fielded in January, and a decline of 17 percentage points compared to last year,\" according to the report.\n\nIt's bad news for Leslie's Pool Supply. The company closed 80 locations in March, but it hasn't been enough to stem the bleeding. Now, the retailer faces a possible Chapter 11 filing, according to a report from Bloomberg.\n\nWhen Leslie's reported second-quarter earnings in May, the company seemed to have turned the corner.\n\n\"Compared to last year, in the second quarter, we delivered overall revenue growth of 4.3%, a comparable sales increase of 6.6%, improved year-over-year adjusted EBITDA by 26% and registered total customer count growth of 8%,\" shared CEO Jason McDonell.\n\nThose numbers followed the chain making a number of cuts during the first quarter.",
-      "published": "2026-07-26T15:07:00Z"
+      "link": "https://finance.yahoo.com/markets/crypto/articles/influencer-sells-2-ferraris-buy-183000659.html",
+      "summary": "Influencer sells 2 Ferraris to buy Bitcoin dip",
+      "full_text": "Social media influencer and investor Carl Runefelt is best known on the internet for posting crypto-focused content and showcasing his lavish lifestyle.\n\nKnown online as \"The Moon,\" he claims he dropped out of high school and worked as a supermarket cashier in Sweden before investing in Bitcoin (BTC). He attributes much of his wealth to crypto investments and other business ventures.\n\nRelated: Exclusive: Tether co-founder says Bitcoin volatility proves why stablecoins have already won\n\nOn July 24, Runefelt revealed on his The Moon Show podcast that he sold two Ferraris worth a total of $2.5 million to buy Bitcoin. The crypto influencer said the leading cryptocurrency is entering the \"most reliable\" signal in the cycle.\n\nPointing to Bitcoin's 200-week moving average (MA), he said the current dip offers an opportunity to accumulate more Bitcoin. He gave several previous instances when Bitcoin traded around the 200-week MA before its price surged significantly.\n\nFor instance, Bitcoin fell below $4,000 during the coronavirus pandemic panic selling in March 2020, but it reached $64,860 more than a year later in April 2021.\n\nWhile several traders buy a large position at once, the investor said he has placed multiple limit orders throughout the support zone to build an average entry to buy Bitcoin.\n\nAt the same time, Runefelt warned against taking highly leveraged Bitcoin positions around such long-term indicators as the cryptocurrency can very well decline below the support level before its price action reverses.",
+      "published": "2026-07-27T18:30:00Z"
     },
     {
       "id": "news_3",
-      "title": "Mobileye Stock Is Down Despite Strong Results as Its Founder Steps Down. View the CEO Switch as a Reset, Not a Red Flag.",
+      "title": "Data Centre Cooling Demand Boosted AAON (AAON)",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mobileye-stock-down-despite-strong-140002566.html",
-      "summary": "Mobileye Stock Is Down Despite Strong Results as Its Founder Steps Down. View the CEO Switch as a Reset, Not a Red Flag.",
-      "full_text": "Mobileye Global (MBLY) just delivered a solid second-quarter beat, yet the stock got crushed.\n\nOn July 23, 2026, the autonomous-driving pioneer posted second-quarter 2026 revenue of $508 million and $0.19 in adjusted EPS, both comfortably ahead of Wall Street expectations. Management even raised full-year guidance. On paper, it looked like a clean win. Then the shoe dropped.\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nFounder and long-time CEO Amnon Shashua, the man who built Mobileye from a 1999 Israeli startup into the world's leading supplier of advanced driver-assistance systems, steered it through a $15.3 billion sale to Intel (INTC), and brought it back public in 2022, announced he is stepping down as CEO after 27 years once a successor is named. At the same time, the company guided for a 5% to 6% sequential revenue decline in the third quarter.\n\nInvestors didn't wait for the full story. Shares plunged roughly 15% in a single session, their steepest drop in nearly two years.\n\nSo here we are: a company printing stronger profits, raising its outlook, and still getting punished. Does Amnon Shashua's exit point to deeper trouble, or is the sell-off just giving investors a cheaper way into a company that just beat expectations?\n\nMobileye makes driver-assistance and self-driving systems for automakers, so its business moves on the slower pace of car programs, not quick consumer sales.\n\nThe stock has been weak, down 46.8% over the past 52 weeks and 21.4% year-to-date (YTD).",
-      "published": "2026-07-26T14:00:02Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/data-centre-cooling-demand-boosted-142442906.html",
+      "summary": "Data Centre Cooling Demand Boosted AAON (AAON)",
+      "full_text": "Wasatch Global Investors, an asset management company, released its \"Small Cap Growth Strategy\" Q2 2026 investor letter. A copy of the letter can be downloaded here. Small-cap equities experienced strong gains in the second quarter, primarily driven by companies associated with artificial intelligence (AI). However, the leadership within this sector remains narrow. Unprofitable companies and those benefiting from rapid AI-driven demand performed well. As a result, the strategy underperformed compared to the Russell 2000® Growth Index, which gained 25.71%. The strategy's disciplined focus on higher-quality businesses caused it to trail the benchmark, though several AI-related holdings contributed positively. The strategy prioritizes companies with sustainable growth potential, emphasizing the importance of quality investments. Overall, the strategy seeks to balance the transformative potential of AI with a commitment to long-term, quality investments. In addition, please check the Strategy's top five holdings to know its best picks in 2026.\n\nIn its Q2 2026 investor letter, the Wasatch Small Cap Growth Strategy highlighted AAON, Inc. (NASDAQ:AAON) as a material contributor. AAON, Inc. (NASDAQ:AAON) designs and manufactures high-efficiency air conditioning and heating equipment. On July 24, 2026, AAON, Inc. (NASDAQ:AAON) closed at $102.67 per share, reflecting a market capitalization of $8.41 billion. AAON, Inc. (NASDAQ:AAON) posted a one-month return of -19.75%, while its shares gained 20.22% over the past 52 weeks.\n\nWasatch Small Cap Growth Strategy stated the following regarding AAON, Inc. (NASDAQ:AAON) in its Q2 2026 investor update:\n\n\"AAON, Inc. (NASDAQ:AAON) also contributed. The company is a leading manufacturer of heating, ventilation and air conditioning (HVAC) systems for commercial and industrial environments. Data-center cooling demand amid the AI infrastructure build-out has led to accelerated growth for the company, whose commercial HVAC business had already experienced steady growth before the advent of AI. But AI has been a demand accelerant. In AAON's latest quarterly results, year-over-year net sales grew more than 50% and the company's total backlog increased 107.4% to a record $2.1 billion.\"\n\nAAON, Inc. (NASDAQ:AAON) is not on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026. According to our database, 30 hedge fund portfolios held AAON, Inc. (NASDAQ:AAON) at the end of the first quarter, compared to 36 in the previous quarter.  While we acknowledge the potential of AAON, Inc. (NASDAQ:AAON) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nIn another article, we covered AAON, Inc. (NASDAQ:AAON) and shared Giverny Capital Asset Management's views on the company. In addition, please check out our hedge fund investor letters Q2 2026 page for more investor letters from hedge funds and other leading investors.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
+      "published": "2026-07-27T14:24:42Z"
     }
   ]
 }

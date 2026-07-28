@@ -1,209 +1,144 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "stock_uncle_insight": {
-    "date_header": "7/28 法人與主力大戶主要買超股票",
+    "date_header": "[7/29] 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃面板、金融與傳產，避險兼卡位",
+        "group_title": "1. 外資大戶：狂掃航空與面板，大賣權值股ETF",
         "stocks": [
+          {
+            "stock_name": "華航",
+            "ticker": "2610",
+            "description": "肖年仔，外資今天狂掃華航 5.28 萬張，這擺明是看好解封商機跟暑假旺季，準備拉高出貨給後面追高的韭菜們，別傻傻去接刀啊！"
+          },
           {
             "stock_name": "群創",
             "ticker": "3481",
-            "description": "肖年仔，外資這次狂掃群創 5.6 萬張，這擺明了是在賭面板股跌深反彈的轉機，但也要小心，外資是不是準備拉高出貨給散戶？"
+            "description": "外資大買群創 4.21 萬張，面板雙虎之一，這波資金輪動到低基期、有轉機題材的股票，外資在偷偷卡位，但也要小心短線的倒貨壓力。"
           },
           {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "外資買超聯電 4.3 萬張，但你看投信跟自營商都在倒貨，這外資是真看好晶圓代工谷底翻身，還是想跟內資對作？小心別接刀！"
-          },
-          {
-            "stock_name": "台中銀",
-            "ticker": "2812",
-            "description": "外資買超台中銀 2.4 萬張，金融股這種防禦型標的，外資大戶在大盤高檔找避風港，穩穩賺的邏輯。"
-          },
-          {
-            "stock_name": "臺企銀",
-            "ticker": "2834",
-            "description": "跟台中銀一樣，外資買超臺企銀 2.1 萬張，金融股持續被外資青睞，顯示資金流向保守。"
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "友達也被外資買了 3.96 萬張，跟群創一樣，面板股被外資點火，但這種股票波動大，肖年仔們別黑白追高，小心被割韭菜。"
           },
           {
             "stock_name": "長榮航",
             "ticker": "2618",
-            "description": "外資買超長榮航 1.9 萬張，航空雙雄持續被外資關注，解封題材還沒玩完，但也要小心高檔震盪。"
-          },
-          {
-            "stock_name": "南亞",
-            "ticker": "1303",
-            "description": "外資買超南亞 1.8 萬張，傳產龍頭股，外資也開始撿這種低基期的貨，準備等待景氣復甦。"
-          },
-          {
-            "stock_name": "中鋼",
-            "ticker": "2002",
-            "description": "外資買超中鋼 1.7 萬張，鋼鐵股也進外資法眼，是不是景氣要復甦了？還是只是短線反彈？"
+            "description": "外資買超長榮航 3.43 萬張，跟華航一樣，航空雙雄被外資鎖碼，但這種熱門股，隔日沖的也很多，要小心隔天被倒貨。"
           },
           {
             "stock_name": "台泥",
             "ticker": "1101",
-            "description": "外資買超台泥 1.7 萬張，水泥股這種老牌傳產，外資也來卡位，顯示資金在找穩定的標的。"
+            "description": "外資買超台泥 1.78 萬張，傳產龍頭，可能是資金避風港，或是看好基礎建設題材，相對穩健，但爆發力就沒那麼強了。"
           },
           {
-            "stock_name": "合庫金",
-            "ticker": "5880",
-            "description": "外資買超合庫金 1.6 萬張，金融股避險潮持續，外資買不停，肖年仔你懂這邏輯嗎？"
-          },
-          {
-            "stock_name": "中纖",
-            "ticker": "1718",
-            "description": "外資買超中纖 1.5 萬張，塑化股也動起來，外資在佈局傳產，可能是看好原物料行情。"
+            "stock_name": "中華電",
+            "ticker": "2412",
+            "description": "外資買超中華電 0.97 萬張，電信股是標準的防禦型股票，大盤震盪時，外資會把錢往這裡塞，求個安穩，但別期待它會噴出。"
           }
         ]
       },
       {
-        "group_title": "2. 投信大戶（本土國家隊）：金融作帳、航空續燒、AI 點火",
+        "group_title": "2. 投信大戶（本土國家隊）：作帳行情點火AI與金融",
         "stocks": [
           {
-            "stock_name": "元大金",
-            "ticker": "2885",
-            "description": "投信狂掃元大金 6500 張，自家金控，作帳行情很明顯，肖年仔別傻傻追高，小心被倒貨。"
-          },
-          {
-            "stock_name": "華航",
-            "ticker": "2610",
-            "description": "投信買超華航 4459 張，跟外資一樣看好航空，解封題材繼續炒，但也要注意風險。"
+            "stock_name": "緯創",
+            "ticker": "3231",
+            "description": "投信大買緯創 0.47 萬張，AI伺服器題材還在燒，本土國家隊進場，擺明是作帳行情，要拉抬績效，肖年仔們可以觀察，但別追高被套牢。"
           },
           {
             "stock_name": "華南金",
             "ticker": "2880",
-            "description": "投信買超華南金 3955 張，金融股作帳，穩穩的，但這種標的通常漲幅有限。"
+            "description": "投信買超華南金 0.43 萬張，金融股是投信作帳的常客，穩定又具防禦性，尤其在市場震盪時更受青睞，這就是穩穩賺的策略。"
           },
           {
-            "stock_name": "緯創",
-            "ticker": "3231",
-            "description": "投信買超緯創 3219 張，AI 概念股還在燒，投信繼續點火，但張數沒之前那麼猛了，小心高檔震盪。"
+            "stock_name": "元大金",
+            "ticker": "2885",
+            "description": "投信買超元大金 0.40 萬張，跟華南金一樣，金融股是投信的避風港，也是年底作帳的重點，這些股票比較不會讓你融資斷頭啦。"
           },
           {
-            "stock_name": "廣達",
-            "ticker": "2382",
-            "description": "投信買超廣達 2551 張，AI 雙雄，投信還是愛，但也要小心主力拉高出貨，別當韭菜。"
+            "stock_name": "國泰金",
+            "ticker": "2882",
+            "description": "投信買超國泰金 0.39 萬張，外資雖然賣，但投信卻在買，這就是內外資對金融股看法分歧的地方，投信看的是長期穩定性，外資可能只是短線避險。"
           },
           {
-            "stock_name": "遠東新",
-            "ticker": "1402",
-            "description": "投信買超遠東新 2184 張，傳產股也進投信作帳名單，顯示資金流向多元。"
+            "stock_name": "台新新光金",
+            "ticker": "2887",
+            "description": "投信買超台新新光金 0.38 萬張，金融股全面開花，投信在低檔默默吃貨，這就是本土國家隊的實力，肖年仔們可以學著點。"
           },
           {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "投信買超兆豐金 1865 張，金融股作帳，持續加碼，穩健型操作。"
-          },
-          {
-            "stock_name": "上海商銀",
-            "ticker": "5876",
-            "description": "投信買超上海商銀 1777 張，金融股避險兼作帳，一魚兩吃，但也要看大盤臉色。"
-          },
-          {
-            "stock_name": "統一",
-            "ticker": "1216",
-            "description": "投信買超統一 1575 張，食品股這種防禦型，投信也來了，顯示市場對未來景氣有疑慮。"
-          },
-          {
-            "stock_name": "長榮航",
-            "ticker": "2618",
-            "description": "投信買超長榮航 1347 張，航空雙雄，投信外資聯手拉抬？但也要看有沒有續航力。"
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "投信買超聯電 0.33 萬張，晶圓代工二哥，在台積電被外資倒貨時，投信轉向買進相對低價的聯電，可能是看好半導體產業的長期復甦，或是資金輪動到二線股。"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：避險為上，跟風面板與金融",
+        "group_title": "3. 內資主力與實戶：避險兼卡位傳產與記憶體",
         "stocks": [
           {
             "stock_name": "元大台灣50",
             "ticker": "0050",
-            "description": "肖年仔，自營商買超 0050 達 3112 張，這是標準的避險盤，是不是覺得大盤要修正了？別黑白買，先看清楚風向。"
+            "description": "自營商買超 0050 0.37 萬張，這很明顯是避險盤，大盤不穩，先買ETF避險，或是做價差套利，肖年仔們別以為他們是看好大盤才買。"
           },
           {
-            "stock_name": "群創",
-            "ticker": "3481",
-            "description": "自營商買超群創 2233 張，跟外資一樣看好面板，但這量能，是跟風還是真有戲？小心別被套牢。"
+            "stock_name": "南亞",
+            "ticker": "1303",
+            "description": "自營商買超南亞 0.055 萬張，塑化龍頭，傳產股在資金輪動下，有機會被點火，內資主力就是喜歡這種低調的股票，偷偷吃貨。"
           },
           {
-            "stock_name": "華南金",
-            "ticker": "2880",
-            "description": "自營商買超華南金 2137 張，金融股避險兼作帳，內資也來湊一腳，穩健操作為主。"
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "自營商買超華邦電 0.043 萬張，記憶體族群，外資跟投信都在賣，自營商卻在買，這可能是短線的搶反彈，或是避險盤的對沖，肖年仔們別黑白買。"
           },
           {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "自營商買超兆豐金 679 張，金融股還是穩，內資也來分一杯羹。"
+            "stock_name": "康舒",
+            "ticker": "6282",
+            "description": "自營商買超康舒 0.042 萬張，電源供應器廠，可能跟AI伺服器題材有間接關聯，內資在偷偷卡位，這種股票有時候會突然噴出。"
           },
           {
-            "stock_name": "三商壽",
-            "ticker": "2867",
-            "description": "自營商買超三商壽 672 張，壽險股也進避險名單，顯示內資對市場的謹慎態度。"
-          },
-          {
-            "stock_name": "華通",
-            "ticker": "2313",
-            "description": "自營商買超華通 522 張，PCB 概念股，內資小量佈局，可能是在等電子股回溫。"
-          },
-          {
-            "stock_name": "力積電",
-            "ticker": "6770",
-            "description": "自營商買超力積電 401 張，晶圓代工，內資也來撿便宜？但量能不大，觀望為主。"
-          },
-          {
-            "stock_name": "第一金",
-            "ticker": "2892",
-            "description": "自營商買超第一金 392 張，金融股持續被買，內資也看好其防禦性。"
-          },
-          {
-            "stock_name": "力成",
-            "ticker": "6239",
-            "description": "自營商買超力成 386 張，封測股，內資小量佈局，可能是看好半導體產業鏈。"
-          },
-          {
-            "stock_name": "富邦科技",
-            "ticker": "0052",
-            "description": "自營商買超富邦科技 376 張，跟 0050 類似，都是 ETF 避險，內資對大盤看法偏保守。"
+            "stock_name": "南亞科",
+            "ticker": "2408",
+            "description": "自營商買超南亞科 0.030 萬張，記憶體族群，跟華邦電一樣，內資在低檔撿便宜，但這種股票要很有耐心，不然很容易被洗出去。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔避險與資金避風港（金融、航空）",
-        "strategy_content": "肖年仔，你看外資、投信、自營商三大法人不約而同地狂掃金融股，像是台中銀、臺企銀、元大金、華南金、兆豐金等，這擺明就是在大盤高檔震盪時，把資金撤出高風險板塊，轉往防禦性強、殖利率穩定的金融股避險。同時，航空雙雄長榮航、華航也持續被外資和投信加碼，這除了是解封題材的延續，也可能是在全球經濟不確定性（你看國際新聞那些餐飲、零售業關店潮）下，資金尋找相對穩定的避風港。"
+        "strategy_title": "策略一：高檔避險與資金避風港（航空、面板、金融、電信）",
+        "strategy_content": "肖年仔，你看外資狂倒0050、0056這些大盤ETF，還有台積電、鴻海這些權值股，這擺明就是對大盤短線看法保守，資金在高檔撤出。但錢總要找地方去，所以他們轉往航空雙雄（華航、長榮航）這種解封受惠股，還有低基期的面板雙虎（群創、友達、彩晶），這些都是有題材又相對安全的標的。同時，中華電這種防禦型電信股，還有投信狂掃的金融股，也成了資金的避風港。這就是大戶在玩「高檔避險，低檔卡位」的把戲，肖年仔們要學會看懂這種資金輪動。"
       },
       {
-        "strategy_title": "策略二：低基期與轉機題材卡位（面板、傳產）",
-        "strategy_content": "外資這次對群創狂掃 5.6 萬張，自營商也跟進，這很明顯是在賭面板股跌深反彈的轉機題材。聯電雖然外資買超 4.3 萬張，但投信和自營商卻在倒貨，這說明主力對晶圓代工的看法分歧，外資可能是在低檔卡位，賭它谷底翻身。另外，外資也大買南亞、中鋼、台泥、中纖這些傳產龍頭，這些都是低基期、評價面相對低的標的，在大盤修正時，大戶會挑這種跌無可跌的股票來卡位，等待景氣復甦。"
+        "strategy_title": "策略二：AI題材持續點火與作帳行情（緯創、聯電）",
+        "strategy_content": "雖然外資在賣台積電，但你看投信卻在買緯創，這很明顯是本土國家隊在作帳。AI伺服器題材燒得正旺，緯創這種指標股當然是投信拉抬績效的重點。國際新聞也提到資料中心散熱需求因AI而增長，這表示AI的產業趨勢還沒結束，相關供應鏈還是有機會。投信同時也買進聯電，可能是看好半導體產業的長期復甦，或是資金從高價股轉向二線晶圓代工。這就是「新技術題材點火」的典型操作，肖年仔們要跟緊趨勢。"
       },
       {
-        "strategy_title": "策略三：AI 概念股的投信作帳行情與主力分歧",
-        "strategy_content": "投信持續買進緯創、廣達這些 AI 概念股，雖然張數沒有之前那麼驚人，但這很可能是投信在季底或月底的作帳行情，想拉抬基金績效。但肖年仔要注意，外資對電子股的態度就沒那麼一致了，你看他們大賣至上、華邦電，甚至對聯電也是外資買、內資賣，這顯示主力對電子股的看法已經出現分歧，高檔震盪下，追高風險可不小，小心被主力拉高出貨！"
+        "strategy_title": "策略三：內外資對作與短線套利（金融、記憶體、ETF）",
+        "strategy_content": "肖年仔，你看到沒，外資狂賣金融股，但投信卻在狂買，這就是內外資對作的經典戲碼。外資可能在避險或獲利了結，但投信卻看準金融股的穩定性跟作帳需求。自營商更絕，一邊買0050避險，一邊又在記憶體族群（華邦電、南亞科）這種被外資和投信倒貨的股票上撿便宜，這很可能是短線的「接刀」搶反彈，或是利用權證、權利金做避險套利。這就是市場上「黑白猜」的資金流向，考驗你的判斷力，別傻傻地跟著別人黑白買。"
       }
     ],
-    "summary": "肖年仔，今天三大法人動作很明顯，外資、投信都在金融、航空找避風港，同時也開始撿低基期的面板跟傳產股。AI 股投信還在作帳，但主力已經開始分歧，高檔追高小心被割韭菜！自營商買 0050 避險，大盤可能要震盪了，別黑白買！",
+    "summary": "肖年仔，今天大盤就是外資在倒貨權值股跟ETF，資金轉往航空、面板這些低基期有題材的股票避險。本土投信則是在AI跟金融股上作帳，內資自營商則是在ETF跟記憶體上玩短線套利跟避險。市場資金輪動快速，別傻傻追高，小心被割韭菜！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 1.97 萬張",
-        "uncle_logic": "肖年仔，美商高盛這種外資大戶狂掃群創 1.97 萬張，這不是看好面板股的轉機，就是準備短線拉抬，隔日沖倒貨給散戶，你可別傻傻去接刀！"
+        "action": "買超 華航 1.85 萬張",
+        "uncle_logic": "高盛這外資大咖狂掃華航，擺明是看好解封題材跟暑假旺季，準備拉高出貨給後面追高的韭菜們，這就是典型的「鎖碼」後「拉高出貨」的節奏，肖年仔們別傻傻去抬轎。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 1244 張",
-        "uncle_logic": "凱基台北這種著名的短線隔日沖分點，竟然買超 0050 這種大盤 ETF，這擺明了是看壞大盤，在做避險操作，肖年仔，大盤可能要震盪了，別黑白衝。"
+        "action": "買超 元大台灣50 0.15 萬張",
+        "uncle_logic": "凱基台北這隔日沖大戶，平常專搞妖股，今天竟然買0050？這不是他們平常的風格。可能是為了避險，或是看準大盤短線有反彈機會，先卡位ETF，明天再看狀況「倒貨」給散戶，肖年仔們要小心。"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 2927 張",
-        "uncle_logic": "元大投信買自家金控元大金 2927 張，這就是投信作帳的經典手法，拉抬自家基金持股，衝績效，但這種通常漲勢有限，小心追高。"
+        "action": "買超 緯創 0.21 萬張",
+        "uncle_logic": "投信自家分點買緯創，這很明顯是作帳行情，AI題材還在燒，投信要拉抬績效，緯創這種指標股當然是首選，準備在季底或年底「作帳」給基金經理人好看，肖年仔們可以觀察，但別追高。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 3372 張",
-        "uncle_logic": "摩根大通這種外資大戶大賣至上 3372 張，這很明顯是電子股漲多後的獲利了結，或是對後市看法保守，肖年仔，別以為外資只會買，倒貨起來也是不手軟的！"
+        "action": "賣超 元大台灣50 4.44 萬張",
+        "uncle_logic": "摩根大通這種外資大咖狂倒0050，跟外資整體賣超ETF的趨勢一致，這不是單純的「避險」，更像是對台股大盤短線看法保守，資金正在撤出權值股，準備「割韭菜」後轉往其他特定產業，肖年仔們要看清楚大戶的意圖。"
       }
     ]
   },
@@ -217,261 +152,297 @@
       "level2_keywords": [
         {
           "word": "restaurant",
-          "ipa": "/rɛstəˈrant/",
+          "ipa": "/rɛstəˈrænt/",
           "meaning": "餐廳",
-          "example": "這家餐廳的評價很好"
-        },
-        {
-          "word": "chain",
-          "ipa": "/tʃeɪn/",
-          "meaning": "連鎖企業",
-          "example": "這家連鎖店的商品都是一樣"
+          "example": "Beefeater是一家餐廳鏈"
         },
         {
           "word": "global",
-          "ipa": "/ˈɡlobəl/",
-          "meaning": "全球性的",
-          "example": "這個公司在全球都有分支"
+          "ipa": "/ɡləʊbəl/",
+          "meaning": "全球性",
+          "example": "全球市場預測會持續成長"
         },
         {
-          "word": "market",
-          "ipa": "/ˈmɑrkɪt/",
-          "meaning": "市場",
-          "example": "這個產品在市場上很受歡迎"
+          "word": "expansion",
+          "ipa": "/ɛksˈpɔːzən/",
+          "meaning": "擴張",
+          "example": "該餐廳鏈在英國經歷了快速的擴張"
+        },
+        {
+          "word": "operating",
+          "ipa": "/ɒpərɪtɪŋ/",
+          "meaning": "運營",
+          "example": "餐廳鏈的營業成本上升"
         },
         {
           "word": "restructuring",
-          "ipa": "/rɛˈstrʌktʃən/",
+          "ipa": "/rɛkˈstrʌktʃən/",
           "meaning": "重組",
-          "example": "公司正在進行重組計畫"
+          "example": "公司進行了重組計畫"
         }
       ],
-      "level2_context": "這篇文章關於 restaurants 的閉店問題，與全球市場趨勢有關。 Restaurants 的閉店可能是由於 changing consumer trends 引起的，而不是單純地因為營業成本上升。這個事件也反映了酒店公司 Whitbread 的重組計畫，將一些restaurant 轉換成 hotel 或出售給其他公司。",
+      "level2_context": "該餐廳鏈的關閉與全球市場趨勢有關，同時也反映出英國消費者對餐廳經濟的變化。Whitbread的重組計畫將影響該公司的營業成本和經營策略。",
       "level3_translation": [
         {
-          "sentence": "While markets data shows that the global market for dining out is projected to grow from $1.9 trillion now to more than $3 trillion by 2030, many individual chains that were popular in another era are struggling to survive amid changing consumer trends.",
-          "translation": "全球餐飲市場預計將在2023年至2030年的間隔內從19萬億美元增長到30萬億美元，然而許多個體連鎖店因為消費者趨勢的變化而難以生存"
+          "sentence": "While markets data shows that the global market for dining out is projected to grow from $1.9 trillion now to more than $3 trillion by 2030",
+          "translation": "全球餐飲市場預測將在2025年前後達到3,000多億美元"
         },
         {
-          "sentence": "U.S. chains like Smokey Bones, Peet's Coffee, and Joe's Crab Shack have collectively closed dozens of locations this year.",
-          "translation": "美國一些連鎖店如Smokey Bones、Peet's Coffee和Joe's Crab Shack今年已合計關閉數十間分店"
+          "sentence": "U.S. chains like Smokey Bones, Peet's Coffee, and Joe's Crab Shack have collectively closed dozens of locations this year",
+          "translation": "美國餐廳鏈如Smoky Bones、Peet's Coffee和Joe's Crab Shack今年已經合計關閉數十家店"
         },
         {
-          "sentence": "Meanwhile, over in the United Kingdom, Leon and The Real Greek both nearly halved their store locations in 2026 despite once going through a period of rapid expansion that made them well-recognized chains in the country's major cities.",
-          "translation": "另一方面，英國的Leon和The Real Greek兩家店都在2026年大幅縮小了門店數量，儘管曾經在過去的一段時間內快速擴張，使得這些品牌在英國主要城市中非常受歡迎"
+          "sentence": "Meanwhile, over in the United Kingdom, Leon and The Real Greek both nearly halved their store locations in 2026",
+          "translation": "在英國，Leon和The Real Greek兩家餐廳鏈都將在2026年大約減少一半的店數"
         },
         {
-          "sentence": "With the first location opening in the Greater London borough of Enfield in 1974, the restaurant chain Beefeater has, over several generations, earned a reputation for being a family-friendly steakhouse chain serving grilled steak cuts, burgers, and fish and chips at more accessible prices.",
-          "translation": "Beefeater餐廳從1974年在英國倫敦大區的恩菲爾開業，經過多個世代的發展，這家餐廳已經建立了家庭友善的評價，提供便宜的高質量牛肉、burger和fish and chips"
+          "sentence": "With the first location opening in the Greater London borough of Enfield in 1974",
+          "translation": "該餐廳鏈在1974年首間店開業於英國格雷特倫敦區恩菲爾德"
         },
         {
-          "sentence": "At its peak, the chain had approximately 140 standalone and Brewers Fayre brewery-attached locations in the United Kingdom and Ireland.",
-          "translation": "在它的峰值時期，這家連鎖店有大約140間獨立和Brewers Fayre breweries附屬店，分佈在英國和愛爾蘭"
+          "sentence": "the restaurant chain Beefeater has, over several generations, earned a reputation for being a family-friendly steakhouse chain",
+          "translation": "Beefeater餐廳鏈在多個世代中建立了「家庭友善」 Steakhouse 連鎖店的評價"
         },
         {
-          "sentence": "But amid soaring operating costs the hotel and dining company Whitbread confirmed plans to shutter all remaining 106 restaurants by September.",
-          "translation": "然而，由於營運成本的急劇上升，酒店和餐飲公司Whitbread確認將所有剩下的106間餐廳在9月關閉"
+          "sentence": "At its peak, the chain had approximately 140 standalone and Brewers Fayre brewery-attached locations in the United Kingdom and Ireland",
+          "translation": "該餐廳鏈在峰值時期，共有約140間獨立和Brewers Fayre連鎖店"
         },
         {
-          "sentence": "Earlier in the year, Whitbread announced a restructuring plan that aims to bring down annual costs down costs by £250 million ($333 million USD).",
-          "translation": "今年早些時候，Whitbread宣布了一個重組計畫，旨在降低每年的營運成本"
+          "sentence": "But amid soaring operating costs the hotel and dining company Whitbread confirmed plans to shutter all remaining 106 restaurants by September",
+          "translation": "但由於營業成本的上升，酒店與餐飲公司Whitbread確認將在9月關閉剩下的所有106間餐廳"
         },
         {
-          "sentence": "The company's largest holding is the hotel chain Premier Inn.",
-          "translation": "該公司的主要持有企業是酒店鏈Premier Inn"
+          "sentence": "Earlier in the year, Whitbread announced a restructuring plan that aims to bring down annual costs down costs by £250 million ($333 million USD)",
+          "translation": "今年早些時候，Whitbread宣布了一個重組計畫，旨在降低每年的營業成本"
         },
         {
-          "sentence": "The current strategy is to convert some locations into hotel rooms and others into integrated unbranded hotel restaurants.",
-          "translation": "目前的戰略是將一些店面轉換為酒店房間，其他則轉化為整合無標誌酒店餐廳"
+          "sentence": "The company's largest holding is the hotel chain Premier Inn",
+          "translation": "該公司最大的持有企業是酒店鏈Premier Inn"
         },
         {
-          "sentence": "Still other locations will be sold for what the company estimates will free up £1.5 billion ($2 billion USD).",
-          "translation": "另外一些店面將會出售，以估計公司能夠獲得£1.5億美元（約2億美元）"
+          "sentence": "The current strategy is to convert some locations into hotel rooms and others into integrated unbranded hotel restaurants",
+          "translation": "目前的策略是將一些店面轉型為酒店房間，其他則轉型為整合無品牌酒店餐廳"
         },
         {
-          "sentence": "\"As you may have seen, we have recently announced changes to our business, which is resulting in the closure of our Branded Restaurants,\" Whitbread said in a statement on the location closures.",
-          "translation": "\"您可能已經看到我們最近宣布的商業變革，這是導致我們關閉所有品牌餐廳的原因\",\"Whitbread\"在關閉店面時發表的一份聲明中說了這些"
+          "sentence": "Still other locations will be sold for what the company estimates will free up £1.5 billion ($2 billion USD)",
+          "translation": "還有其他店面將被出售，以估計該公司能夠釋放出10億英鎖、20億美元的資源"
+        },
+        {
+          "sentence": "\"As you may have seen, we have recently announced changes to our business, which is resulting in the closure of our Branded Restaurants,\"",
+          "translation": "\"您可能已經看到我們最近宣布的公司改變，這是導致我們關閉品牌餐廳的原因\""
         },
         {
           "sentence": "\"This means that on Thursday 10 September 2026 your local Beefeater and all other UK Beefeaters will close.\"",
-          "translation": "\"這意味著，2026年9月10日，您的當地Beefeater和所有其他英國Beefeater店將關閉.\""
+          "translation": "\"這意味著在2026年9月10日，您的當地Beefeater和所有其他英國Beefeater餐廳將關閉\""
         },
         {
-          "sentence": "For customers who collected points through repeated visits, the Beefeater loyalty scheme will be shut down by Aug. 31.",
-          "translation": "對於那些通過多次訪問收集了點數的客戶，Beefeater忠誠方案將在8月底關閉"
+          "sentence": "For customers who collected points through repeated visits, the Beefeater loyalty scheme will be shut down by Aug. 31",
+          "translation": "對於重複訪問的客戶，Beefeater忠誠程式將在8月底關閉"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "After 80 stores close, 63-year-old chain gives Chapter 11 warning",
+      "title": "Influencer sells 2 Ferraris to buy Bitcoin dip",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/80-stores-close-63-old-150700367.html",
-      "level1_blind": "我是 一为帪民爱发部, 七帪爱一为万为传一为万为你到部タ一中一为万为你子不为万为传一为万为仲东一中一为万为你到部タ一中一为仲东一中一为仲东一中一为你到部タ一中一为仲东一中一为仲东一中一为你到部タ一中一为仲东一中一为仲东",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/influencer-sells-2-ferraris-buy-183000659.html",
+      "level1_blind": "Social media influencer and investor Carl Runefelt is best known on the internet for posting crypto-focused content and showcasing his lavish lifestyle.\n\nKnown online as “The Moon,„ he claims he dropped out of high school and worked as a supermarket cashier in Sweden before investing in Bitcoin (BTC).  “influencer sells 2 Ferraris to buy Bitcoin dip”",
       "level2_keywords": [
         {
-          "word": "张主",
-          "ipa": "/sækz/",
-          "meaning": "这是张主程四爱一为仲东一中一为仲东",
-          "example": "这是张主程四爱一为仲东一中一为仲东"
+          "word": "Bitcoin",
+          "ipa": "",
+          "meaning": "这是叁生四。",
+          "example": "一为 Bitcoin 这是不子。"
         },
         {
-          "word": "公三",
-          "ipa": "/sɛmɪkər/",
-          "meaning": "这是公三程四爱一为仲东一中一为仲东",
-          "example": "这是公三程四爱一为仲东一中一为仲东"
+          "word": "Ferrari",
+          "ipa": "",
+          "meaning": "叁生混四。",
+          "example": "一为 Ferrari 叁生混四。"
         },
         {
-          "word": "车子",
-          "ipa": "/ɛsʿtλ/",
-          "meaning": "这是车子程四爱一为仲东一中一为仲东",
-          "example": "这是车子程四爱一为仲东一中一为仲东"
+          "word": "crypto",
+          "ipa": "",
+          "meaning": "这是子件。",
+          "example": "一为 crypto 这是子件。"
         },
         {
-          "word": "车子",
-          "ipa": "/ɛsʿtλ/",
-          "meaning": "这是车子程四爱一为仲东一中一为仲东",
-          "example": "这是车子程四爱一为仲东一中一为仲东"
+          "word": "investor",
+          "ipa": "",
+          "meaning": "公园人。",
+          "example": "一为 investor 公园人。"
         },
         {
-          "word": "车子",
-          "ipa": "/ɛsʿtλ/",
-          "meaning": "这是车子程四爱一为仲东一中一为仲东",
-          "example": "这是车子程四爱一为仲东一中一为仲东"
+          "word": "Bitcoin",
+          "ipa": "",
+          "meaning": "这是叁生四。",
+          "example": "一为 Bitcoin 这是叁生四。"
         }
       ],
-      "level2_context": "这是公三程四爱一为仲东一中一为仲东张主程四爱一为仲东车子程四爱一为仲东",
+      "level2_context": "章平人的今公园人海的这是一为 Bitcoin 这是叁生四。子件今公园人的今公园人海的这是一为 Bitcoin 叁生四。",
       "level3_translation": [
         {
-          "sentence": "我是 一为万为传一为仲东一中一为仲东",
-          "translation": "这是张主程四爱一为仲东一中一为仲东"
+          "sentence": "一为 Bitcoin 这是叁生四。",
+          "translation": "这是叁生四"
         },
         {
-          "sentence": "这是 公三程四爱一为仲东一中一为仲东",
-          "translation": "这是公三程四爱一为仲东一中一为仲东"
+          "sentence": "公园人的今公园人海的这是一为 Bitcoin 叁生四。",
+          "translation": "公园人的今公园人海的这是叁生四"
         },
         {
-          "sentence": "这是 车子程四爱一为仲东一中一为仲东",
-          "translation": "这是车子程四爱一为仲东一中一为仲东"
+          "sentence": "这是子件今公园人的今公园人海的这是一为 Bitcoin 叁生四。",
+          "translation": "这是子件今公园人的今公园人海的这是叁生四"
         },
         {
-          "sentence": "这是 车子程四爱一为仲东一中一为仲东",
-          "translation": "这是车子程四爱一为仲东一中一为仲东"
+          "sentence": "公园人的今公园人海的这是一为 Bitcoin 叁生四。",
+          "translation": "公园人的今公园人海的这是叁生四"
         },
         {
-          "sentence": "这是 车子程四爱一为仲东一中一为仲东",
-          "translation": "这是车子程四爱一为仲东一中一为仲东"
-        },
-        {
-          "sentence": "这是 车子程四爱一为仲东一中一为仲东",
-          "translation": "这是车子程四爱一为仲东一中一为仲东"
+          "sentence": "一为 Bitcoin 这是叁生四。",
+          "translation": "这是叁生四"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Mobileye Stock Is Down Despite Strong Results as Its Founder Steps Down. View the CEO Switch as a Reset, Not a Red Flag.",
+      "title": "Data Centre Cooling Demand Boosted AAON (AAON)",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mobileye-stock-down-despite-strong-140002566.html",
-      "level1_blind": "Mobileye Global (MBLY) just delivered a solid second-quarter beat, yet the stock got crushed.\n\nOn July 23, 2026, the autonomous-driving pioneer posted second-quarter 2026 revenue of $508 million and $0.19 in adjusted EPS, both comfortably ahead of Wall Street expectations. Management even raised full-year guidance. On paper, it looked like a clean win. Then the shoe dropped.\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nFounder and long-time CEO Amnon Shashua, the man who built Mobileye from a 1999 Israeli startup into the world's leading supplier of advanced driver-assistance systems, steered it through a $15.3 billion sale to Intel (INTC), and brought it back public in 2022, announced he is stepping down as CEO after 27 years once a successor is named. At the same time, the company guided for a 5% to 6% sequential revenue decline in the third quarter.\n\nInvestors didn't wait for the full story. Shares plunged roughly 15% in a single session, their steepest drop in nearly two years.\n\nSo here we are: a company printing stronger profits, raising its outlook, and still getting punished. Does Amnon Shashua's exit point to deeper trouble, or is the sell-off just giving investors a cheaper way into a company that just beat expectations?\n\nMobileye makes driver-assistance and self-driving systems for automakers, so its business moves on the slower pace of car programs, not quick consumer sales.\n\nThe stock has been weak, down 46.8% over the past 52 weeks and 21.4% year-to-date (YTD).",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/data-centre-cooling-demand-boosted-142442906.html",
+      "level1_blind": "Wasatch Global Investors, an asset management company, released its \"Small Cap Growth Strategy\" Q2 2026 investor letter. A copy of the letter can be downloaded here. Small-cap equities experienced strong gains in the second quarter, primarily driven by companies associated with artificial intelligence (AI). However, the leadership within this sector remains narrow. Unprofitable companies and those benefiting from rapid AI-driven demand performed well. As a result, the strategy underperformed compared to the Russell 2000° Growth Index, which gained 25.71%. The strategy's disciplined focus on higher-quality businesses caused it to trail the benchmark, though several AI-related holdings contributed positively. The strategy prioritizes companies with sustainable growth potential, emphasizing the importance of quality investments. Overall, the strategy seeks to balance the transformative potential of AI with a commitment to long-term, quality investments. In addition, please check the Strategy's top five holdings to know its best picks in 2026.\n\nIn its Q2 2026 investor letter, the Wasatch Small Cap Growth Strategy highlighted AAON, Inc. (NASDAQ:AAON) as a material contributor. AAON, Inc. (NASDAQ:AAON) designs and manufactures high-efficiency air conditioning and heating equipment. On July 24, 2026, AAON, Inc. (NASDAQ:AAON) closed at $102.67 per share, reflecting a market capitalization of $8.41 billion. AAON, Inc. (NASDAQ:AAON) posted a one-month return of -19.75%, while its shares gained 20.22% over the past 52 weeks.\n\nWasatch Small Cap Growth Strategy stated the following regarding AAON, Inc. (NASDAQ:AAON) in its Q2 2026 investor update:\n\n\"AAON, Inc. (NASDAQ:AAON) also contributed. The company is a leading manufacturer of heating, ventilation and air conditioning (HVAC) systems for commercial and industrial environments. Data-center cooling demand amid the AI infrastructure build-out has led to accelerated growth for the company, whose commercial HVAC business had already experienced steady growth before the advent of AI. But AI has been a demand accelerant. In AAON's latest quarterly results, year-over-year net sales grew more than 50% and the company's total backlog increased 107.4% to a record $2.1 billion.\"\n\nAAON, Inc. (NASDAQ:AAON) is not on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026. According to our database, 30 hedge fund portfolios held AAON, Inc. (NASDAQ:AAON) at the end of the first quarter, compared to 36 in the previous quarter.  While we acknowledge the potential of AAON, Inc. (NASDAQ:AAON) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nIn another article, we covered AAON, Inc. (NASDAQ:AAON) and shared Giverny Capital Asset Management's views on the company. In addition, please check out our hedge fund investor letters Q2 2026 page for more investor letters from hedge funds and other leading investors.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
       "level2_keywords": [
         {
-          "word": "semiconductor",
-          "ipa": "/sɛmɪˈkʌndər/",
-          "meaning": "半導體",
-          "example": "Intel 的新一代 CPU 使用高性能半導體"
+          "word": "Artificial",
+          "ipa": "/ɑːrtɪfɪʃəl/",
+          "meaning": "人工智慧",
+          "example": "人工智慧的應用在各個領域"
         },
         {
-          "word": "export",
+          "word": "Semiconductor",
+          "ipa": "/sɛmɪdʊˈkɒndʌər/",
+          "meaning": "半導體",
+          "example": "新一代的高性能半導體"
+        },
+        {
+          "word": "Export",
           "ipa": "/ɛksˈpɔrt/",
           "meaning": "出口",
-          "example": "美國對於 AI 晶片的出口受到限制"
+          "example": "公司的出口收入增加了20% "
         },
         {
-          "word": "guidance",
-          "ipa": "/ˈɡaɪdəns/",
-          "meaning": "指引",
-          "example": "公司提供的財務指引"
+          "word": "Accelerant",
+          "ipa": "/əsəlˈeɪrənt/",
+          "meaning": "加速因素",
+          "example": "AI 的出現對企業帶來了新的機會"
         },
         {
-          "word": "autonomous",
-          "ipa": "/ɔːtənəməs/",
-          "meaning": "自動化",
-          "example": "自駛系統"
-        },
-        {
-          "word": "revenue",
-          "ipa": "/rɪˈvuːni/",
-          "meaning": "收入",
-          "example": "公司的收入增加了 20% "
+          "word": "Backlog",
+          "ipa": "/bækˈlɒk/",
+          "meaning": "未完成的工作",
+          "example": "公司的未完成 Orders 升至 10 億美元 "
         }
       ],
-      "level2_context": "自駛系統和自動化技術在車企中逐漸重要，Mobileye 的 Exit 可能是產業發展趨勢的反映。美國政府對於 AI 晶片出口的限制也使得 Mobileye 面臨著新的挑戰。",
+      "level2_context": "這篇文章主要是關於 AAON, Inc. 的投資分析，提到了 AI 的影響力如何在企業中產生。AAON, Inc. 是一家設計和製造高效空調系統的公司，其商業 HVAC 业务已經在 AI 出現之前取得了穩定的成長，但 AI 的出現確實帶來了新的機會和挑戰。",
       "level3_translation": [
         {
-          "sentence": "Mobileye Global (MBLY) just delivered a solid second-quarter beat, yet the stock got crushed.",
+          "sentence": "Wasatch Global Investors, an asset management company, released its \"Small Cap Growth Strategy\" Q2 2026 investor letter.",
           "translation": ""
         },
         {
-          "sentence": "On July 23, 2026, the autonomous-driving pioneer posted second-quarter 2026 revenue of $508 million and $0.19 in adjusted EPS, both comfortably ahead of Wall Street expectations.",
+          "sentence": "Small-cap equities experienced strong gains in the second quarter, primarily driven by companies associated with artificial intelligence (AI).",
           "translation": ""
         },
         {
-          "sentence": "Management even raised full-year guidance.",
+          "sentence": "However, the leadership within this sector remains narrow.",
           "translation": ""
         },
         {
-          "sentence": "On paper, it looked like a clean win.",
+          "sentence": "Unprofitable companies and those benefiting from rapid AI-driven demand performed well.",
           "translation": ""
         },
         {
-          "sentence": "Then the shoe dropped.",
+          "sentence": "As a result, the strategy underperformed compared to the Russell 2000° Growth Index, which gained 25.71%.",
           "translation": ""
         },
         {
-          "sentence": "Markets move fast.",
+          "sentence": "The strategy's disciplined focus on higher-quality businesses caused it to trail the benchmark, though several AI-related holdings contributed positively.",
           "translation": ""
         },
         {
-          "sentence": "Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.",
+          "sentence": "The strategy prioritizes companies with sustainable growth potential, emphasizing the importance of quality investments.",
           "translation": ""
         },
         {
-          "sentence": "Founder and long-time CEO Amnon Shashua, the man who built Mobileye from a 1999 Israeli startup into the world's leading supplier of advanced driver-assistance systems, steered it through a $15.3 billion sale to Intel (INTC), and brought it back public in 2022, announced he is stepping down as CEO after 27 years once a successor is named.",
+          "sentence": "Overall, the strategy seeks to balance the transformative potential of AI with a commitment to long-term, quality investments.",
           "translation": ""
         },
         {
-          "sentence": "At the same time, the company guided for a 5% to 6% sequential revenue decline in the third quarter.",
+          "sentence": "In its Q2 2026 investor letter, the Wasatch Small Cap Growth Strategy highlighted AAON, Inc. (NASDAQ:AAON) as a material contributor.",
           "translation": ""
         },
         {
-          "sentence": "Investors didn't wait for the full story.",
+          "sentence": "AAON, Inc. (NASDAQ:AAON) designs and manufactures high-efficiency air conditioning and heating equipment.",
           "translation": ""
         },
         {
-          "sentence": "Shares plunged roughly 15% in a single session, their steepest drop in nearly two years.",
+          "sentence": "On July 24, 2026, AAON, Inc. (NASDAQ:AAON) closed at $102.67 per share, reflecting a market capitalization of $8.41 billion.",
           "translation": ""
         },
         {
-          "sentence": "So here we are: a company printing stronger profits, raising its outlook, and still getting punished.",
+          "sentence": "AAON, Inc. (NASDAQ:AAON) posted a one-month return of -19.75%, while its shares gained 20.22% over the past 52 weeks.",
           "translation": ""
         },
         {
-          "sentence": "Does Amnon Shashua's exit point to deeper trouble, or is the sell-off just giving investors a cheaper way into a company that just beat expectations?",
+          "sentence": "Wasatch Small Cap Growth Strategy stated the following regarding AAON, Inc. (NASDAQ:AAON) in its Q2 2026 investor update:",
           "translation": ""
         },
         {
-          "sentence": "Mobileye makes driver-assistance and self-driving systems for automakers, so its business moves on the slower pace of car programs, not quick consumer sales.",
+          "sentence": "\"AAON, Inc. (NASDAQ:AAON) also contributed. The company is a leading manufacturer of heating, ventilation and air conditioning (HVAC) systems for commercial and industrial environments.",
           "translation": ""
         },
         {
-          "sentence": "The stock has been weak, down 46.8% over the past 52 weeks and 21.4% year-to-date (YTD).",
+          "sentence": "Data-center cooling demand amid the AI infrastructure build-out has led to accelerated growth for the company, whose commercial HVAC business had already experienced steady growth before the advent of AI.",
+          "translation": ""
+        },
+        {
+          "sentence": "But AI has been a demand accelerant.",
+          "translation": ""
+        },
+        {
+          "sentence": "In AAON's latest quarterly results, year-over-year net sales grew more than 50% and the company's total backlog increased 107.4% to a record $2.1 billion.",
+          "translation": ""
+        },
+        {
+          "sentence": "AAON, Inc. (NASDAQ:AAON) is not on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026.",
+          "translation": ""
+        },
+        {
+          "sentence": "According to our database, 30 hedge fund portfolios held AAON, Inc. (NASDAQ:AAON) at the end of the first quarter, compared to 36 in the previous quarter.",
+          "translation": ""
+        },
+        {
+          "sentence": "While we acknowledge the potential of AAON, Inc. (NASDAQ:AAON) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk.",
+          "translation": ""
+        },
+        {
+          "sentence": "If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.",
+          "translation": ""
+        },
+        {
+          "sentence": "In another article, we covered AAON, Inc. (NASDAQ:AAON) and shared Giverny Capital Asset Management's views on the company.",
+          "translation": ""
+        },
+        {
+          "sentence": "In addition, please check out our hedge fund investor letters Q2 2026 page for more investor letters from hedge funds and other leading investors.",
+          "translation": ""
+        },
+        {
+          "sentence": "READ NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
           "translation": ""
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "在金融市場中，兩個 news 的事件可能會引發對於股市和投資品項的波動。例如，Mobileye 的 CEO 轉職可能會影響公司的股價，而 Beefeater 的關閉可能會影響酒店和餐飲業的整體趨勢。這些事件可能會在全球金融市場中產生ripple 效應，從而影響其他公司和投資品項的價格。因此，為了保持投資品項的價格穩定性，投資者需要關注這些事件的可能性以及其對股市的影響。"
+    "market_connection": "在金融市場中，當一家公司的股價下跌時，投資人通常會擔心其未來發展的可能性。然而，在這個案例中，AAON, Inc. 的股價下跌主要是由於其商業 HVAC 业务面臨的挑戰，而不是因為其 AI 业务的問題。AAON, Inc. 的 AI 业务其實正在經歷快速成長，尤其是在 data centre Cooling Demand Boosted AAON (AAON) 的文章中提到。這表明，公司的 AI 业务具有強大的潛力和成長性。因此，投資人不應該過度擔心股價下跌，而是應該關注公司未來發展的可能性和潛力。"
   }
 }
