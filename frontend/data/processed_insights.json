@@ -1,448 +1,355 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "stock_uncle_insight": {
-    "date_header": "[7/29] 法人與主力大戶主要買超股票",
+    "date_header": "7/30 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃航空與面板，大賣權值股ETF",
+        "group_title": "1. 外資大戶：撤出權值，轉戰傳產、金融與航空",
         "stocks": [
-          {
-            "stock_name": "華航",
-            "ticker": "2610",
-            "description": "肖年仔，外資今天狂掃華航 5.28 萬張，這擺明是看好解封商機跟暑假旺季，準備拉高出貨給後面追高的韭菜們，別傻傻去接刀啊！"
-          },
-          {
-            "stock_name": "群創",
-            "ticker": "3481",
-            "description": "外資大買群創 4.21 萬張，面板雙虎之一，這波資金輪動到低基期、有轉機題材的股票，外資在偷偷卡位，但也要小心短線的倒貨壓力。"
-          },
-          {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "友達也被外資買了 3.96 萬張，跟群創一樣，面板股被外資點火，但這種股票波動大，肖年仔們別黑白追高，小心被割韭菜。"
-          },
-          {
-            "stock_name": "長榮航",
-            "ticker": "2618",
-            "description": "外資買超長榮航 3.43 萬張，跟華航一樣，航空雙雄被外資鎖碼，但這種熱門股，隔日沖的也很多，要小心隔天被倒貨。"
-          },
-          {
-            "stock_name": "台泥",
-            "ticker": "1101",
-            "description": "外資買超台泥 1.78 萬張，傳產龍頭，可能是資金避風港，或是看好基礎建設題材，相對穩健，但爆發力就沒那麼強了。"
-          },
-          {
-            "stock_name": "中華電",
-            "ticker": "2412",
-            "description": "外資買超中華電 0.97 萬張，電信股是標準的防禦型股票，大盤震盪時，外資會把錢往這裡塞，求個安穩，但別期待它會噴出。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：作帳行情點火AI與金融",
-        "stocks": [
-          {
-            "stock_name": "緯創",
-            "ticker": "3231",
-            "description": "投信大買緯創 0.47 萬張，AI伺服器題材還在燒，本土國家隊進場，擺明是作帳行情，要拉抬績效，肖年仔們可以觀察，但別追高被套牢。"
-          },
-          {
-            "stock_name": "華南金",
-            "ticker": "2880",
-            "description": "投信買超華南金 0.43 萬張，金融股是投信作帳的常客，穩定又具防禦性，尤其在市場震盪時更受青睞，這就是穩穩賺的策略。"
-          },
-          {
-            "stock_name": "元大金",
-            "ticker": "2885",
-            "description": "投信買超元大金 0.40 萬張，跟華南金一樣，金融股是投信的避風港，也是年底作帳的重點，這些股票比較不會讓你融資斷頭啦。"
-          },
-          {
-            "stock_name": "國泰金",
-            "ticker": "2882",
-            "description": "投信買超國泰金 0.39 萬張，外資雖然賣，但投信卻在買，這就是內外資對金融股看法分歧的地方，投信看的是長期穩定性，外資可能只是短線避險。"
-          },
-          {
-            "stock_name": "台新新光金",
-            "ticker": "2887",
-            "description": "投信買超台新新光金 0.38 萬張，金融股全面開花，投信在低檔默默吃貨，這就是本土國家隊的實力，肖年仔們可以學著點。"
-          },
           {
             "stock_name": "聯電",
             "ticker": "2303",
-            "description": "投信買超聯電 0.33 萬張，晶圓代工二哥，在台積電被外資倒貨時，投信轉向買進相對低價的聯電，可能是看好半導體產業的長期復甦，或是資金輪動到二線股。"
-          }
-        ]
-      },
-      {
-        "group_title": "3. 內資主力與實戶：避險兼卡位傳產與記憶體",
-        "stocks": [
-          {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "自營商買超 0050 0.37 萬張，這很明顯是避險盤，大盤不穩，先買ETF避險，或是做價差套利，肖年仔們別以為他們是看好大盤才買。"
+            "description": "肖年仔，外資狂掃聯電近3.96萬張，這擺明是看好成熟製程的訂單能見度，雖然投信跟自營商在倒貨，但外資大咖就是硬要買，這其中必有蹊蹺，搞不好是看好下半年景氣復甦，提前卡位。"
           },
           {
             "stock_name": "南亞",
             "ticker": "1303",
-            "description": "自營商買超南亞 0.055 萬張，塑化龍頭，傳產股在資金輪動下，有機會被點火，內資主力就是喜歡這種低調的股票，偷偷吃貨。"
+            "description": "外資買超南亞近2.55萬張，但投信跟自營商卻在賣，這就是典型的籌碼對作。外資可能覺得塑化股跌深了，或是看好原物料價格反彈，準備來個波段操作。"
           },
           {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "自營商買超華邦電 0.043 萬張，記憶體族群，外資跟投信都在賣，自營商卻在買，這可能是短線的搶反彈，或是避險盤的對沖，肖年仔們別黑白買。"
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "面板股友達，外資也買了近1.76萬張。這波面板報價有回溫跡象，外資大戶嗅到味道，開始進場卡位，肖年仔別傻傻地去接刀，要看清楚是真買還是假買。"
           },
           {
-            "stock_name": "康舒",
-            "ticker": "6282",
-            "description": "自營商買超康舒 0.042 萬張，電源供應器廠，可能跟AI伺服器題材有間接關聯，內資在偷偷卡位，這種股票有時候會突然噴出。"
+            "stock_name": "合庫金",
+            "ticker": "5880",
+            "description": "外資買超合庫金近1.75萬張，金融股向來是外資的避風港，尤其在大盤震盪時，高殖利率的金融股更是首選，這就是穩健布局的策略。"
           },
           {
-            "stock_name": "南亞科",
-            "ticker": "2408",
-            "description": "自營商買超南亞科 0.030 萬張，記憶體族群，跟華邦電一樣，內資在低檔撿便宜，但這種股票要很有耐心，不然很容易被洗出去。"
+            "stock_name": "華航",
+            "ticker": "2610",
+            "description": "航空雙雄之一的華航，外資買超近1.41萬張。解封題材持續發酵，客運復甦的預期讓外資持續加碼，但肖年仔要注意，這類股票容易被拉高出貨，別追高。"
+          },
+          {
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "長榮航外資也買了近1.28萬張，跟華航一樣，都是看好航空業的復甦。不過投信卻在賣，這表示內外資對航空股的看法有分歧，籌碼交換激烈。"
+          }
+        ]
+      },
+      {
+        "group_title": "2. 投信大戶（本土國家隊）：狂掃金融，作帳行情啟動",
+        "stocks": [
+          {
+            "stock_name": "中信金",
+            "ticker": "2891",
+            "description": "投信狂買中信金近1.18萬張，這就是標準的作帳行情！基金經理人為了年底績效，把資金集中在金融股，準備拉抬結帳，肖年仔跟著喝湯可以，但別當最後一隻老鼠。"
+          },
+          {
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "外資大賣0050，結果投信卻買了近0.64萬張，這擺明是投信在逢低承接，或是為了調整基金部位，跟外資對作，想在市場震盪中撿便宜。"
+          },
+          {
+            "stock_name": "大成鋼",
+            "ticker": "2027",
+            "description": "投信買超大成鋼近0.63萬張，鋼鐵股最近表現不錯，投信可能看好原物料行情，或是將其視為低基期傳產股，納入作帳標的。"
+          },
+          {
+            "stock_name": "凱基金",
+            "ticker": "2883",
+            "description": "凱基金被投信買超近0.54萬張，金融股是投信作帳的熱門標的，這波幾乎把所有金控股都掃了一輪，肖年仔要看清楚，這是短線操作還是長線布局。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：避險兼卡位，金融與科技ETF兩手策略",
+        "stocks": [
+          {
+            "stock_name": "富邦科技",
+            "ticker": "0052",
+            "description": "自營商買超富邦科技ETF近0.54萬張，這很明顯是避險盤在操作，市場震盪大，買科技ETF可以分散風險，又不錯過科技股的潛在漲幅，一魚兩吃。"
+          },
+          {
+            "stock_name": "彰銀",
+            "ticker": "2801",
+            "description": "自營商買超彰銀近0.50萬張，跟投信一樣，內資也看好金融股的穩健性，尤其在市場不確定性高的時候，金融股就是資金的避風港。"
+          },
+          {
+            "stock_name": "三商壽",
+            "ticker": "2867",
+            "description": "自營商買超三商壽近0.23萬張，壽險股受惠於升息環境，利差擴大，自營商可能看好其獲利改善的潛力，提前卡位。"
+          },
+          {
+            "stock_name": "第一金",
+            "ticker": "2892",
+            "description": "自營商買超第一金近0.22萬張，這波金融股被內資法人鎖定，幾乎是全面性地買進，肖年仔別黑白買，要挑有量有價的。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔避險與資金避風港（航空、面板、金融、電信）",
-        "strategy_content": "肖年仔，你看外資狂倒0050、0056這些大盤ETF，還有台積電、鴻海這些權值股，這擺明就是對大盤短線看法保守，資金在高檔撤出。但錢總要找地方去，所以他們轉往航空雙雄（華航、長榮航）這種解封受惠股，還有低基期的面板雙虎（群創、友達、彩晶），這些都是有題材又相對安全的標的。同時，中華電這種防禦型電信股，還有投信狂掃的金融股，也成了資金的避風港。這就是大戶在玩「高檔避險，低檔卡位」的把戲，肖年仔們要學會看懂這種資金輪動。"
+        "strategy_title": "策略一：外資資金大挪移，從權值股轉向價值與防禦型標的",
+        "strategy_content": "肖年仔，你看看外資這次的動作，大賣元大台灣50（0050）超過10.49萬張，連台積電都倒貨1.12萬張，這擺明是把資金從高檔權值股撤出來。但他們不是不玩了，而是轉進聯電、南亞、友達這些跌深或具景氣循環題材的個股，還有合庫金、中華電、華航、長榮航這些具備防禦性或復甦題材的股票。這代表外資認為大盤短期有壓力，但個別產業的機會還是存在，所以把資金從「大盤指數」轉向「個別產業龍頭」，尋求相對穩定的報酬。"
       },
       {
-        "strategy_title": "策略二：AI題材持續點火與作帳行情（緯創、聯電）",
-        "strategy_content": "雖然外資在賣台積電，但你看投信卻在買緯創，這很明顯是本土國家隊在作帳。AI伺服器題材燒得正旺，緯創這種指標股當然是投信拉抬績效的重點。國際新聞也提到資料中心散熱需求因AI而增長，這表示AI的產業趨勢還沒結束，相關供應鏈還是有機會。投信同時也買進聯電，可能是看好半導體產業的長期復甦，或是資金從高價股轉向二線晶圓代工。這就是「新技術題材點火」的典型操作，肖年仔們要跟緊趨勢。"
+        "strategy_title": "策略二：本土投信作帳行情啟動，金融股成國家隊主戰場",
+        "strategy_content": "本土投信這次的買超名單，幾乎被金融股給佔滿了，中信金、凱基金、兆豐金、國泰金、華南金、富邦金，幾乎所有金控股都被掃了一輪。這很明顯就是投信的作帳行情，為了衝刺基金績效，把資金集中在相對穩健、評價偏低的金融股。肖年仔，這種時候金融股容易被拉抬，但也要小心，作帳結束後，這些股票可能就會被倒貨，別傻傻地去接刀。"
       },
       {
-        "strategy_title": "策略三：內外資對作與短線套利（金融、記憶體、ETF）",
-        "strategy_content": "肖年仔，你看到沒，外資狂賣金融股，但投信卻在狂買，這就是內外資對作的經典戲碼。外資可能在避險或獲利了結，但投信卻看準金融股的穩定性跟作帳需求。自營商更絕，一邊買0050避險，一邊又在記憶體族群（華邦電、南亞科）這種被外資和投信倒貨的股票上撿便宜，這很可能是短線的「接刀」搶反彈，或是利用權證、權利金做避險套利。這就是市場上「黑白猜」的資金流向，考驗你的判斷力，別傻傻地跟著別人黑白買。"
+        "strategy_title": "策略三：內外資對作，籌碼換手激烈，短線震盪加劇",
+        "strategy_content": "你仔細看聯電、南亞、長榮航、遠傳這些股票，外資大買，但投信或自營商卻在賣超。這代表內外資對這些股票的看法有明顯分歧，籌碼正在激烈換手。這種對作的狀況，通常會讓股價短線波動加劇，對於肖年仔這種散戶來說，很容易被洗出場。沒有兩把刷子，最好別輕易介入這種籌碼混亂的股票，不然很容易被割韭菜。"
       }
     ],
-    "summary": "肖年仔，今天大盤就是外資在倒貨權值股跟ETF，資金轉往航空、面板這些低基期有題材的股票避險。本土投信則是在AI跟金融股上作帳，內資自營商則是在ETF跟記憶體上玩短線套利跟避險。市場資金輪動快速，別傻傻追高，小心被割韭菜！",
+    "summary": "肖年仔，今天盤面就是外資在做資金大挪移，從權值股撤出轉進價值與防禦型標的，而本土投信則卯起來作帳狂掃金融股，內外資對作的個股籌碼混亂，短線操作風險高，穩健為上！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 華航 1.85 萬張",
-        "uncle_logic": "高盛這外資大咖狂掃華航，擺明是看好解封題材跟暑假旺季，準備拉高出貨給後面追高的韭菜們，這就是典型的「鎖碼」後「拉高出貨」的節奏，肖年仔們別傻傻去抬轎。"
+        "action": "買超 1.39 萬張",
+        "uncle_logic": "美商高盛這種外資大咖，狂掃聯電，這擺明是看好成熟製程的訂單能見度，或是跟著大部隊在做避險配置。肖年仔，這種大戶進場，通常不會只玩一天，但也要小心他們隔天反手倒貨。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 元大台灣50 0.15 萬張",
-        "uncle_logic": "凱基台北這隔日沖大戶，平常專搞妖股，今天竟然買0050？這不是他們平常的風格。可能是為了避險，或是看準大盤短線有反彈機會，先卡位ETF，明天再看狀況「倒貨」給散戶，肖年仔們要小心。"
+        "action": "買超 0.21 萬張",
+        "uncle_logic": "凱基台北這短線大戶，買進富邦科技ETF，這不是在隔日沖，就是在做指數型避險，肖年仔要小心，這種買法通常是市場震盪時的權宜之計，別以為是看好科技股就傻傻跟進。"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 緯創 0.21 萬張",
-        "uncle_logic": "投信自家分點買緯創，這很明顯是作帳行情，AI題材還在燒，投信要拉抬績效，緯創這種指標股當然是首選，準備在季底或年底「作帳」給基金經理人好看，肖年仔們可以觀察，但別追高。"
+        "action": "買超 0.53 萬張",
+        "uncle_logic": "投信自家分點大買中信金，這就是標準的作帳行情，基金經理人為了績效，把資金灌進自家看好的金融股，準備拉抬結帳。肖年仔，這種股票短線有機會，但也要提防結帳後的賣壓。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 元大台灣50 4.44 萬張",
-        "uncle_logic": "摩根大通這種外資大咖狂倒0050，跟外資整體賣超ETF的趨勢一致，這不是單純的「避險」，更像是對台股大盤短線看法保守，資金正在撤出權值股，準備「割韭菜」後轉往其他特定產業，肖年仔們要看清楚大戶的意圖。"
+        "action": "賣超 3.15 萬張",
+        "uncle_logic": "摩根大通這種大咖外資，狂倒0050，這很明顯是在撤出大盤權值股，把資金轉往其他更有潛力的個股，或是直接抽離避險。肖年仔，當大戶開始賣ETF，代表他們對大盤的看法沒那麼樂觀了。"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "52-year-old international restaurant chain closing all locations",
+      "title": "National beer and wine distributor files Chapter 11 bankruptcy",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/52-old-international-restaurant-chain-145707525.html",
-      "level1_blind": "While markets data shows that the global market for dining out is projected to grow from $1.9 trillion now to more than $3 trillion by 2030, many individual chains that were popular in another era are struggling to survive amid changing consumer trends.\n\nU.S. chains like Smokey Bones, Peet's Coffee, and Joe's Crab Shack have collectively closed dozens of locations this year. Meanwhile, over in the United Kingdom, Leon and The Real Greek both nearly halved their store locations in 2026 despite once going through a period of rapid expansion that made them well-recognized chains in the country's major cities.\n\nWith the first location opening in the Greater London borough of Enfield in 1974, the restaurant chain Beefeater has, over several generations, earned a reputation for being a family-friendly steakhouse chain serving grilled steak cuts, burgers, and fish and chips at more accessible prices.\n\nAt its peak, the chain had approximately 140 standalone and Brewers Fayre brewery-attached locations in the United Kingdom and Ireland. But amid soaring operating costs the hotel and dining company Whitbread confirmed plans to shutter all remaining 106 restaurants by September.\n\nEarlier in the year, Whitbread announced a restructuring plan that aims to bring down annual costs down costs by £250 million ($333 million USD).\n\nThe company's largest holding is the hotel chain Premier Inn. The current strategy is to convert some locations into hotel rooms and others into integrated unbranded hotel restaurants. Still other locations will be sold for what the company estimates will free up £1.5 billion ($2 billion USD).\n\n\"As you may have seen, we have recently announced changes to our business, which is resulting in the closure of our Branded Restaurants,\" Whitbread said in a statement on the location closures. \"This means that on Thursday 10 September 2026 your local Beefeater and all other UK Beefeaters will close.\"\n\nFor customers who collected points through repeated visits, the Beefeater loyalty scheme will be shut down by Aug. 31.",
+      "link": "https://finance.yahoo.com/small-business/articles/giant-wine-spirits-brand-files-170700174.html",
+      "level1_blind": "A decline in public consumption of alcoholic drinks has been a major factor in declining revenue in the beer, wine, and spirits sectors, leading certain companies to file for bankruptcy protection.\n\n128-year-old beer, wine, and spirits distributor, Republic National Distributing Company, was a major company affected as it filed for Chapter 11 bankruptcy protection, seeking going-concern sales of its remaining assets, a wind down of operations, completion of transition services agreements, and approval of its equity holder settlement.\n\nNational Distributing Company Inc. is not a part of the Chapter 11 filing, the company said in a statement on its website.\n\nRepublic National Distributing Company filed its petition as its business's financial position deteriorated after the Covid-19 pandemic subsided in late 2022 and demand for off-premises alcohol consumption plummeted.\n\nThe company and other distributors had accumulated a significant amount of alcohol product during the pandemic and were left with excess inventory as alcohol demand returned to pre-pandemic levels.\n\nMacroeconomic and industry headwinds, such as high interest rates and rising inflation, contributed to the economic issues. Distributors also faced an unexpected shift in consumer alcohol drinking, as adults either curtailed drinking alcohol or stopped altogether, according to court papers.\n\nSince 2022, alcohol consumption plummeted and the percentage of adults in the U.S. that report themselves as regular consumers of alcohol reached its lowest level in nearly 90 years, according to court papers.\n\nThe downturn impacted alcohol distributors' revenue, as spirits supplier sales decreased by 2.2% to $36.4 billion in 2025, according to the Distilled Spirits Council of the United States.",
       "level2_keywords": [
         {
-          "word": "restaurant",
-          "ipa": "/rɛstəˈrænt/",
-          "meaning": "餐廳",
-          "example": "Beefeater是一家餐廳鏈"
+          "word": "bankruptcy",
+          "ipa": "/bæŋˈkætər/",
+          "meaning": "財務破產",
+          "example": "公司因為財務問題而宣告破產"
         },
         {
-          "word": "global",
-          "ipa": "/ɡləʊbəl/",
-          "meaning": "全球性",
-          "example": "全球市場預測會持續成長"
+          "word": "spirits",
+          "ipa": "/spɪˈriːts/",
+          "meaning": "酒精類品項",
+          "example": "酒精類品項的銷售額下降了 2.2% "
         },
         {
-          "word": "expansion",
-          "ipa": "/ɛksˈpɔːzən/",
-          "meaning": "擴張",
-          "example": "該餐廳鏈在英國經歷了快速的擴張"
+          "word": "distributor",
+          "ipa": "/dɪsˈtʌbərər/",
+          "meaning": "分配商",
+          "example": "公司是酒精類品項的主要分配商"
         },
         {
-          "word": "operating",
-          "ipa": "/ɒpərɪtɪŋ/",
-          "meaning": "運營",
-          "example": "餐廳鏈的營業成本上升"
+          "word": "consumption",
+          "ipa": "/kənˈzʌməsən/",
+          "meaning": "消費量",
+          "example": "酒精類品項的消費量下降了 2.2% "
         },
         {
-          "word": "restructuring",
-          "ipa": "/rɛkˈstrʌktʃən/",
-          "meaning": "重組",
-          "example": "公司進行了重組計畫"
+          "word": "demand",
+          "ipa": "/dɪˈmeɪnd/",
+          "meaning": "需求",
+          "example": "消費者對酒精類品項的需求下降"
         }
       ],
-      "level2_context": "該餐廳鏈的關閉與全球市場趨勢有關，同時也反映出英國消費者對餐廳經濟的變化。Whitbread的重組計畫將影響該公司的營業成本和經營策略。",
+      "level2_context": "2022 年後，COVID-19 病毒傳染率下降，消費者飲酒習慣也出現了大幅變化。酒精類品項的銷售額下降了 2.2% ，而美國酒精消費者的比例也達到近 90 年來最低的水平。這使得酒精類品項的分配商面臨著嚴重的財務問題。",
       "level3_translation": [
         {
-          "sentence": "While markets data shows that the global market for dining out is projected to grow from $1.9 trillion now to more than $3 trillion by 2030",
-          "translation": "全球餐飲市場預測將在2025年前後達到3,000多億美元"
+          "sentence": "A decline in public consumption of alcoholic drinks has been a major factor in declining revenue in the beer, wine, and spirits sectors",
+          "translation": "酒精類品項消費量下降是導致啤酒、葡萄酒和酒精類品項業績下滑的主要原因"
         },
         {
-          "sentence": "U.S. chains like Smokey Bones, Peet's Coffee, and Joe's Crab Shack have collectively closed dozens of locations this year",
-          "translation": "美國餐廳鏈如Smoky Bones、Peet's Coffee和Joe's Crab Shack今年已經合計關閉數十家店"
+          "sentence": "128-year-old beer, wine, and spirits distributor, Republic National Distributing Company, was a major company affected",
+          "translation": "128 年的啤酒、葡萄酒和酒精類品項分配商，共和國國內公司，是受到影響的主要企業"
         },
         {
-          "sentence": "Meanwhile, over in the United Kingdom, Leon and The Real Greek both nearly halved their store locations in 2026",
-          "translation": "在英國，Leon和The Real Greek兩家餐廳鏈都將在2026年大約減少一半的店數"
+          "sentence": "The company and other distributors had accumulated a significant amount of alcohol product during the pandemic",
+          "translation": "該公司和其他分配商在疫情期間積累了大量酒精類品項的庫存"
         },
         {
-          "sentence": "With the first location opening in the Greater London borough of Enfield in 1974",
-          "translation": "該餐廳鏈在1974年首間店開業於英國格雷特倫敦區恩菲爾德"
+          "sentence": "Distributors also faced an unexpected shift in consumer alcohol drinking, as adults either curtailed drinking alcohol or stopped altogether",
+          "translation": "分配商還面臨著消費者對酒精類品項飲酒習慣的突然變化，成年人要么減少喝酒，要么完全停止"
         },
         {
-          "sentence": "the restaurant chain Beefeater has, over several generations, earned a reputation for being a family-friendly steakhouse chain",
-          "translation": "Beefeater餐廳鏈在多個世代中建立了「家庭友善」 Steakhouse 連鎖店的評價"
+          "sentence": "Since 2022, alcohol consumption plummeted and the percentage of adults in the U.S. that report themselves as regular consumers of alcohol reached its lowest level in nearly 90 years",
+          "translation": "自 2022 年起，酒精類品項消費量大幅下降，美國成年人中對酒精類品項的常規消費者比例達到近 90 年來最低"
         },
         {
-          "sentence": "At its peak, the chain had approximately 140 standalone and Brewers Fayre brewery-attached locations in the United Kingdom and Ireland",
-          "translation": "該餐廳鏈在峰值時期，共有約140間獨立和Brewers Fayre連鎖店"
+          "sentence": "The downturn impacted alcohol distributors' revenue, as spirits supplier sales decreased by 2.2% to $36.4 billion in 2025",
+          "translation": "這個下滑對酒精類品項分配商的收入產生了影響，酒精類品項供應商的銷售額下降了 2.2% ，達到 36.4 億美元"
         },
         {
-          "sentence": "But amid soaring operating costs the hotel and dining company Whitbread confirmed plans to shutter all remaining 106 restaurants by September",
-          "translation": "但由於營業成本的上升，酒店與餐飲公司Whitbread確認將在9月關閉剩下的所有106間餐廳"
-        },
-        {
-          "sentence": "Earlier in the year, Whitbread announced a restructuring plan that aims to bring down annual costs down costs by £250 million ($333 million USD)",
-          "translation": "今年早些時候，Whitbread宣布了一個重組計畫，旨在降低每年的營業成本"
-        },
-        {
-          "sentence": "The company's largest holding is the hotel chain Premier Inn",
-          "translation": "該公司最大的持有企業是酒店鏈Premier Inn"
-        },
-        {
-          "sentence": "The current strategy is to convert some locations into hotel rooms and others into integrated unbranded hotel restaurants",
-          "translation": "目前的策略是將一些店面轉型為酒店房間，其他則轉型為整合無品牌酒店餐廳"
-        },
-        {
-          "sentence": "Still other locations will be sold for what the company estimates will free up £1.5 billion ($2 billion USD)",
-          "translation": "還有其他店面將被出售，以估計該公司能夠釋放出10億英鎖、20億美元的資源"
-        },
-        {
-          "sentence": "\"As you may have seen, we have recently announced changes to our business, which is resulting in the closure of our Branded Restaurants,\"",
-          "translation": "\"您可能已經看到我們最近宣布的公司改變，這是導致我們關閉品牌餐廳的原因\""
-        },
-        {
-          "sentence": "\"This means that on Thursday 10 September 2026 your local Beefeater and all other UK Beefeaters will close.\"",
-          "translation": "\"這意味著在2026年9月10日，您的當地Beefeater和所有其他英國Beefeater餐廳將關閉\""
-        },
-        {
-          "sentence": "For customers who collected points through repeated visits, the Beefeater loyalty scheme will be shut down by Aug. 31",
-          "translation": "對於重複訪問的客戶，Beefeater忠誠程式將在8月底關閉"
+          "sentence": "According to court papers",
+          "translation": "根據法院文件"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Influencer sells 2 Ferraris to buy Bitcoin dip",
+      "title": "Binance’s CZ Promotes ‘Crypto Passport’",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/influencer-sells-2-ferraris-buy-183000659.html",
-      "level1_blind": "Social media influencer and investor Carl Runefelt is best known on the internet for posting crypto-focused content and showcasing his lavish lifestyle.\n\nKnown online as “The Moon,„ he claims he dropped out of high school and worked as a supermarket cashier in Sweden before investing in Bitcoin (BTC).  “influencer sells 2 Ferraris to buy Bitcoin dip”",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/binance-cz-promotes-crypto-passport-144400133.html",
+      "level1_blind": {
+        "text": "Binance co-founder and Canadian entrepreneur Changpeng “CZ” Zhao is promoting a new crypto passport for use across Asia.\n\nCZ discussed the crypto passport and how it would work during a discussion at the ASEAN Tech Summit Manila 2026 held in the Philippines.\n\nThe session covered digital assets, stablecoins and the future of regional finance.\n\nMEXC Adds Five Ondo Tokenized Stocks Spanning Semiconductors to Power Infrastructure\n\nTokenInsight Q2 2026 Report: TradFi Momentum Lifts MEXC to No. 2 in Commodity Perpetuals\n\nMEXC Expands Ondo Tokenized Stock Offerings with AI Infrastructure and Mining Assets\n\nCZ, who is from Vancouver, said he supported a proposal to grant crypto companies licensed in one Asian nation a “passport” that would simplify regulatory approvals elsewhere in the region.\n\nThe passports would effectively allow crypto companies to operate in every Asian market."
+      },
       "level2_keywords": [
         {
-          "word": "Bitcoin",
+          "word": "passport",
           "ipa": "",
-          "meaning": "这是叁生四。",
-          "example": "一为 Bitcoin 这是不子。"
-        },
-        {
-          "word": "Ferrari",
-          "ipa": "",
-          "meaning": "叁生混四。",
-          "example": "一为 Ferrari 叁生混四。"
+          "meaning": "赦东管主",
+          "example": "赦东管主 中张上证一的赦东管主"
         },
         {
           "word": "crypto",
           "ipa": "",
-          "meaning": "这是子件。",
-          "example": "一为 crypto 这是子件。"
+          "meaning": "趀中张",
+          "example": "趀中张 上证一的赦东管主"
         },
         {
-          "word": "investor",
+          "word": "digital",
           "ipa": "",
-          "meaning": "公园人。",
-          "example": "一为 investor 公园人。"
+          "meaning": "中法张",
+          "example": "中法张 上证一的赦东管主"
         },
         {
-          "word": "Bitcoin",
+          "word": "semiconductors",
           "ipa": "",
-          "meaning": "这是叁生四。",
-          "example": "一为 Bitcoin 这是叁生四。"
+          "meaning": "法说去",
+          "example": "法说去 上证一的赦东管主"
+        },
+        {
+          "word": "regional",
+          "ipa": "",
+          "meaning": "市法",
+          "example": "市法 上证一的赦东管主"
         }
       ],
-      "level2_context": "章平人的今公园人海的这是一为 Bitcoin 这是叁生四。子件今公园人的今公园人海的这是一为 Bitcoin 叁生四。",
+      "level2_context": "趀中张上证一的赦东管主 上证一的赦东管主 市法中国上证一的赦东管主",
       "level3_translation": [
         {
-          "sentence": "一为 Bitcoin 这是叁生四。",
-          "translation": "这是叁生四"
+          "sentence": "Binance co-founder and Canadian entrepreneur Changpeng “CZ” Zhao is promoting a new crypto passport for use across Asia.",
+          "translation": "趀中张上证一的赦东管主 上证一的赦东管主 市法中国上证一的赦东管主"
         },
         {
-          "sentence": "公园人的今公园人海的这是一为 Bitcoin 叁生四。",
-          "translation": "公园人的今公园人海的这是叁生四"
+          "sentence": "CZ discussed the crypto passport and how it would work during a discussion at the ASEAN Tech Summit Manila 2026 held in the Philippines.",
+          "translation": "趀中张上证一的赦东管主 上证一的赦东管主 市法中国上证一的赦东管主"
         },
         {
-          "sentence": "这是子件今公园人的今公园人海的这是一为 Bitcoin 叁生四。",
-          "translation": "这是子件今公园人的今公园人海的这是叁生四"
+          "sentence": "趀中张 上证一的赦东管主 上证一的赦东管主 市法中国上证一的赦东管主",
+          "translation": "趀中张 上证一的赦东管主 上证一的赦东管主 市法中国上证一的赦东管主"
         },
         {
-          "sentence": "公园人的今公园人海的这是一为 Bitcoin 叁生四。",
-          "translation": "公园人的今公园人海的这是叁生四"
+          "sentence": "上证一的赦东管主 市法中国上证一的赦东管主",
+          "translation": "上证一的赦东管主 市法中国上证一的赦东管主"
         },
         {
-          "sentence": "一为 Bitcoin 这是叁生四。",
-          "translation": "这是叁生四"
+          "sentence": "趀中张上证一的赦东管主 市法中国上证一的赦东管主",
+          "translation": "趀中张上证一的赦东管主 市法中国上证一的赦东管主"
+        },
+        {
+          "sentence": "趀中张上证一的赦东管主 上证一的赦东管主 市法中国上证一的赦东管主",
+          "translation": "趀中张上证一的赦东管主 上证一的赦东管主 市法中国上证一的赦东管主"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Data Centre Cooling Demand Boosted AAON (AAON)",
+      "title": "SpaceX stock keeps sliding. What to do if you own shares.",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/data-centre-cooling-demand-boosted-142442906.html",
-      "level1_blind": "Wasatch Global Investors, an asset management company, released its \"Small Cap Growth Strategy\" Q2 2026 investor letter. A copy of the letter can be downloaded here. Small-cap equities experienced strong gains in the second quarter, primarily driven by companies associated with artificial intelligence (AI). However, the leadership within this sector remains narrow. Unprofitable companies and those benefiting from rapid AI-driven demand performed well. As a result, the strategy underperformed compared to the Russell 2000° Growth Index, which gained 25.71%. The strategy's disciplined focus on higher-quality businesses caused it to trail the benchmark, though several AI-related holdings contributed positively. The strategy prioritizes companies with sustainable growth potential, emphasizing the importance of quality investments. Overall, the strategy seeks to balance the transformative potential of AI with a commitment to long-term, quality investments. In addition, please check the Strategy's top five holdings to know its best picks in 2026.\n\nIn its Q2 2026 investor letter, the Wasatch Small Cap Growth Strategy highlighted AAON, Inc. (NASDAQ:AAON) as a material contributor. AAON, Inc. (NASDAQ:AAON) designs and manufactures high-efficiency air conditioning and heating equipment. On July 24, 2026, AAON, Inc. (NASDAQ:AAON) closed at $102.67 per share, reflecting a market capitalization of $8.41 billion. AAON, Inc. (NASDAQ:AAON) posted a one-month return of -19.75%, while its shares gained 20.22% over the past 52 weeks.\n\nWasatch Small Cap Growth Strategy stated the following regarding AAON, Inc. (NASDAQ:AAON) in its Q2 2026 investor update:\n\n\"AAON, Inc. (NASDAQ:AAON) also contributed. The company is a leading manufacturer of heating, ventilation and air conditioning (HVAC) systems for commercial and industrial environments. Data-center cooling demand amid the AI infrastructure build-out has led to accelerated growth for the company, whose commercial HVAC business had already experienced steady growth before the advent of AI. But AI has been a demand accelerant. In AAON's latest quarterly results, year-over-year net sales grew more than 50% and the company's total backlog increased 107.4% to a record $2.1 billion.\"\n\nAAON, Inc. (NASDAQ:AAON) is not on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026. According to our database, 30 hedge fund portfolios held AAON, Inc. (NASDAQ:AAON) at the end of the first quarter, compared to 36 in the previous quarter.  While we acknowledge the potential of AAON, Inc. (NASDAQ:AAON) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nIn another article, we covered AAON, Inc. (NASDAQ:AAON) and shared Giverny Capital Asset Management's views on the company. In addition, please check out our hedge fund investor letters Q2 2026 page for more investor letters from hedge funds and other leading investors.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/spacex-stock-keeps-sliding-what-to-do-if-you-own-shares-141704338.html",
+      "level1_blind": "On IPO day, SpaceX stock (SPCX) opened at $150 and climbed past $160. Another near-20% gain the following Monday saw Elon Musk's spaceflight, satellite communications, and AI company achieve a high orbit of $192.50. By its third trading day, SpaceX surpassed Amazon to become the fifth-largest publicly traded company by market value.\n\nYet, as any savvy investor knows, things can get ugly fast: The stock quickly returned to Earth and has bounced below its market debut price more than once.\n\nSpaceX stock is now down roughly 30% from its market debut in June and down over 50% from its all-time high of $225.64.\n\nWealth advisory Alliance Bernstein has tracked the performance of IPOs that raised $50 million or more over the past 10 years. Six months following the lockup, the median return was a 10% decline.\n\n\"While most stocks began to recover, they typically failed to revisit their initial IPO heights,\" the Bernstein analysis reported. While investors are often urged to remain calm and hang on, \"in the six months following traditional lock-up expirations, one in 10 IPO stocks dropped by at least 62%\"\n\nWhether SpaceX's trajectory is high, low, or just bouncing on and off the atmosphere, investors will want a strategy in place.\n\nEvery investor's dream: The stock soars while they're along for the ride. Still, there are strategies to consider:\n\nEnsure your SPCX doesn't overwhelm your overall investment portfolio. Consider rebalancing holdings regularly to maintain a comfortable SpaceX exposure.",
       "level2_keywords": [
         {
-          "word": "Artificial",
-          "ipa": "/ɑːrtɪfɪʃəl/",
-          "meaning": "人工智慧",
-          "example": "人工智慧的應用在各個領域"
+          "word": "spaceflight",
+          "ipa": "/spɛsflaɪt/",
+          "meaning": "太空飛行",
+          "example": "Elon Musk's spaceflight, satellite communications, and AI company"
         },
         {
-          "word": "Semiconductor",
-          "ipa": "/sɛmɪdʊˈkɒndʌər/",
-          "meaning": "半導體",
-          "example": "新一代的高性能半導體"
+          "word": "satellite",
+          "ipa": "/sætəˈlaɪt/",
+          "meaning": "衛星",
+          "example": "satellite communications"
         },
         {
-          "word": "Export",
-          "ipa": "/ɛksˈpɔrt/",
-          "meaning": "出口",
-          "example": "公司的出口收入增加了20% "
+          "word": "communications",
+          "ipa": "/kämjuːˈneɪʃənz/",
+          "meaning": "傳播",
+          "example": "satellite communications"
         },
         {
-          "word": "Accelerant",
-          "ipa": "/əsəlˈeɪrənt/",
-          "meaning": "加速因素",
-          "example": "AI 的出現對企業帶來了新的機會"
+          "word": "AI",
+          "ipa": "/eɪi/",
+          "meaning": "人工智能",
+          "example": "Elon Musk's spaceflight, satellite communications, and AI company"
         },
         {
-          "word": "Backlog",
-          "ipa": "/bækˈlɒk/",
-          "meaning": "未完成的工作",
-          "example": "公司的未完成 Orders 升至 10 億美元 "
+          "word": "market",
+          "ipa": "/ˈmärkət/",
+          "meaning": "市場",
+          "example": "the fifth-largest publicly traded company by market value"
         }
       ],
-      "level2_context": "這篇文章主要是關於 AAON, Inc. 的投資分析，提到了 AI 的影響力如何在企業中產生。AAON, Inc. 是一家設計和製造高效空調系統的公司，其商業 HVAC 业务已經在 AI 出現之前取得了穩定的成長，但 AI 的出現確實帶來了新的機會和挑戰。",
+      "level2_context": "\n\nSpaceX 的行業經歷了許多波動，從 IPO 日的開盤價格 $150 到目前下跌近 30%。這些變化使得投資者需要適應和調整其投資策略。\n\n",
       "level3_translation": [
         {
-          "sentence": "Wasatch Global Investors, an asset management company, released its \"Small Cap Growth Strategy\" Q2 2026 investor letter.",
+          "sentence": "On IPO day, SpaceX stock (SPCX) opened at $150 and climbed past $160.",
           "translation": ""
         },
         {
-          "sentence": "Small-cap equities experienced strong gains in the second quarter, primarily driven by companies associated with artificial intelligence (AI).",
+          "sentence": "Another near-20% gain the following Monday saw Elon Musk's spaceflight, satellite communications, and AI company achieve a high orbit of $192.50."
+        },
+        {
+          "sentence": "By its third trading day, SpaceX surpassed Amazon to become the fifth-largest publicly traded company by market value.",
           "translation": ""
         },
         {
-          "sentence": "However, the leadership within this sector remains narrow.",
+          "sentence": "Yet, as any savvy investor knows, things can get ugly fast: The stock quickly returned to Earth and has bounced below its market debut price more than once."
+        },
+        {
+          "sentence": "SpaceX stock is now down roughly 30% from its market debut in June and down over 50% from its all-time high of $225.64.",
           "translation": ""
         },
         {
-          "sentence": "Unprofitable companies and those benefiting from rapid AI-driven demand performed well.",
+          "sentence": "Wealth advisory Alliance Bernstein has tracked the performance of IPOs that raised $50 million or more over the past 10 years."
+        },
+        {
+          "sentence": "Six months following the lockup, the median return was a 10% decline.",
           "translation": ""
         },
         {
-          "sentence": "As a result, the strategy underperformed compared to the Russell 2000° Growth Index, which gained 25.71%.",
-          "translation": ""
+          "sentence": "\"While most stocks began to recover, they typically failed to revisit their initial IPO heights,\" the Bernstein analysis reported."
         },
         {
-          "sentence": "The strategy's disciplined focus on higher-quality businesses caused it to trail the benchmark, though several AI-related holdings contributed positively.",
-          "translation": ""
+          "sentence": "While investors are often urged to remain calm and hang on, \"in the six months following traditional lock-up expirations, one in 10 IPO stocks dropped by at least 62%\""
         },
         {
-          "sentence": "The strategy prioritizes companies with sustainable growth potential, emphasizing the importance of quality investments.",
-          "translation": ""
+          "sentence": "Whether SpaceX's trajectory is high, low, or just bouncing on and off the atmosphere, investors will want a strategy in place."
         },
         {
-          "sentence": "Overall, the strategy seeks to balance the transformative potential of AI with a commitment to long-term, quality investments.",
-          "translation": ""
+          "sentence": "Every investor's dream: The stock soars while they're along for the ride. Still, there are strategies to consider:"
         },
         {
-          "sentence": "In its Q2 2026 investor letter, the Wasatch Small Cap Growth Strategy highlighted AAON, Inc. (NASDAQ:AAON) as a material contributor.",
-          "translation": ""
-        },
-        {
-          "sentence": "AAON, Inc. (NASDAQ:AAON) designs and manufactures high-efficiency air conditioning and heating equipment.",
-          "translation": ""
-        },
-        {
-          "sentence": "On July 24, 2026, AAON, Inc. (NASDAQ:AAON) closed at $102.67 per share, reflecting a market capitalization of $8.41 billion.",
-          "translation": ""
-        },
-        {
-          "sentence": "AAON, Inc. (NASDAQ:AAON) posted a one-month return of -19.75%, while its shares gained 20.22% over the past 52 weeks.",
-          "translation": ""
-        },
-        {
-          "sentence": "Wasatch Small Cap Growth Strategy stated the following regarding AAON, Inc. (NASDAQ:AAON) in its Q2 2026 investor update:",
-          "translation": ""
-        },
-        {
-          "sentence": "\"AAON, Inc. (NASDAQ:AAON) also contributed. The company is a leading manufacturer of heating, ventilation and air conditioning (HVAC) systems for commercial and industrial environments.",
-          "translation": ""
-        },
-        {
-          "sentence": "Data-center cooling demand amid the AI infrastructure build-out has led to accelerated growth for the company, whose commercial HVAC business had already experienced steady growth before the advent of AI.",
-          "translation": ""
-        },
-        {
-          "sentence": "But AI has been a demand accelerant.",
-          "translation": ""
-        },
-        {
-          "sentence": "In AAON's latest quarterly results, year-over-year net sales grew more than 50% and the company's total backlog increased 107.4% to a record $2.1 billion.",
-          "translation": ""
-        },
-        {
-          "sentence": "AAON, Inc. (NASDAQ:AAON) is not on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026.",
-          "translation": ""
-        },
-        {
-          "sentence": "According to our database, 30 hedge fund portfolios held AAON, Inc. (NASDAQ:AAON) at the end of the first quarter, compared to 36 in the previous quarter.",
-          "translation": ""
-        },
-        {
-          "sentence": "While we acknowledge the potential of AAON, Inc. (NASDAQ:AAON) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk.",
-          "translation": ""
-        },
-        {
-          "sentence": "If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.",
-          "translation": ""
-        },
-        {
-          "sentence": "In another article, we covered AAON, Inc. (NASDAQ:AAON) and shared Giverny Capital Asset Management's views on the company.",
-          "translation": ""
-        },
-        {
-          "sentence": "In addition, please check out our hedge fund investor letters Q2 2026 page for more investor letters from hedge funds and other leading investors.",
-          "translation": ""
-        },
-        {
-          "sentence": "READ NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
-          "translation": ""
+          "sentence": "Ensure your SPCX doesn't overwhelm your overall investment portfolio. Consider rebalancing holdings regularly to maintain a comfortable SpaceX exposure."
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "在金融市場中，當一家公司的股價下跌時，投資人通常會擔心其未來發展的可能性。然而，在這個案例中，AAON, Inc. 的股價下跌主要是由於其商業 HVAC 业务面臨的挑戰，而不是因為其 AI 业务的問題。AAON, Inc. 的 AI 业务其實正在經歷快速成長，尤其是在 data centre Cooling Demand Boosted AAON (AAON) 的文章中提到。這表明，公司的 AI 业务具有強大的潛力和成長性。因此，投資人不應該過度擔心股價下跌，而是應該關注公司未來發展的可能性和潛力。"
+    "market_connection": "今日台股大戶籌碼動向與國際財經新聞之間存在著密切的連結。如今的台股數據顯示，外資大買聯電、凱基台北大賣聯電等股票，可能與美國限制AI晶片出口及美股科技股大漲有關。這些 news 中提到的「Crypto Passport」和「SpaceX stock sliding」的新聞，也可能對台股產生影響。例如，如果 Binance 的 CZ 支持「Crypto Passport」，它可能會促進亞太區的 crypto 公司在不同市場的運營，從而影響到台股相關公司的籌碼動向。另一方面，SpaceX 的stock sliding也可能導致投資者重新評估其投資策略，從而對台股產生影響。因此，今日台股大戶籌碼動向與國際財經新聞之間存在著密切的因果關係，需要密切監測和分析，以確保 investors 的投資策略能夠適應這種變化的市場環境"
   }
 }

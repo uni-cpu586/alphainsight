@@ -1,68 +1,68 @@
 {
-  "date": "2026-07-29",
-  "stock_market_date": "2026-07-28",
+  "date": "2026-07-30",
+  "stock_market_date": "2026-07-29",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 52784372
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 39628432
         },
         {
           "rank": 2,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 42096430
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 25498257
         },
         {
           "rank": 3,
           "stock_name": "友達",
           "ticker": "2409",
-          "net_buy_shares": 39607620
+          "net_buy_shares": 17554027
         },
         {
           "rank": 4,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 34341534
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_buy_shares": 17505156
         },
         {
           "rank": 5,
-          "stock_name": "台泥",
-          "ticker": "1101",
-          "net_buy_shares": 17795221
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 14106422
         },
         {
           "rank": 6,
           "stock_name": "中華電",
           "ticker": "2412",
-          "net_buy_shares": 9689548
+          "net_buy_shares": 12934049
         },
         {
           "rank": 7,
-          "stock_name": "彩晶",
-          "ticker": "6116",
-          "net_buy_shares": 7971482
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 12757838
         },
         {
           "rank": 8,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_buy_shares": 7221991
+          "stock_name": "上海商銀",
+          "ticker": "5876",
+          "net_buy_shares": 10265805
         },
         {
           "rank": 9,
-          "stock_name": "上海商銀",
-          "ticker": "5876",
-          "net_buy_shares": 7220018
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 9457236
         },
         {
           "rank": 10,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_buy_shares": 7059431
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_buy_shares": 9030747
         }
       ],
       "foreign_sell": [
@@ -70,309 +70,309 @@
           "rank": 1,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_sell_shares": -148153654
+          "net_sell_shares": -104923092
         },
         {
           "rank": 2,
           "stock_name": "元大高股息",
           "ticker": "0056",
-          "net_sell_shares": -31857966
+          "net_sell_shares": -15884046
         },
         {
           "rank": 3,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -27468084
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -15329863
         },
         {
           "rank": 4,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_sell_shares": -24385139
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_sell_shares": -12790005
         },
         {
           "rank": 5,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_sell_shares": -20996314
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_sell_shares": -11618916
         },
         {
           "rank": 6,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_sell_shares": -20086427
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -11210895
         },
         {
           "rank": 7,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -18011340
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_sell_shares": -11111594
         },
         {
           "rank": 8,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -14659332
+          "stock_name": "華新",
+          "ticker": "1605",
+          "net_sell_shares": -8010452
         },
         {
           "rank": 9,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_sell_shares": -12248782
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -7747523
         },
         {
           "rank": 10,
-          "stock_name": "華新",
-          "ticker": "1605",
-          "net_sell_shares": -11401758
+          "stock_name": "中環",
+          "ticker": "2323",
+          "net_sell_shares": -5933806
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 4658554
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 11833583
         },
         {
           "rank": 2,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 4265686
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 6350000
         },
         {
           "rank": 3,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_buy_shares": 4030022
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_buy_shares": 6250000
         },
         {
           "rank": 4,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_buy_shares": 3850749
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 5449029
         },
         {
           "rank": 5,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 3806297
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 5321870
         },
         {
           "rank": 6,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 3600000
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_buy_shares": 3211224
         },
         {
           "rank": 7,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 3341139
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 3181685
         },
         {
           "rank": 8,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_buy_shares": 2887402
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_buy_shares": 3093485
         },
         {
           "rank": 9,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 2687167
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 2420353
         },
         {
           "rank": 10,
-          "stock_name": "富邦金",
-          "ticker": "2881",
-          "net_buy_shares": 2533530
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_buy_shares": 2410960
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -2760433
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -19728097
         },
         {
           "rank": 2,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_sell_shares": -2678860
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -15489849
         },
         {
           "rank": 3,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -2376711
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_sell_shares": -3730000
         },
         {
           "rank": 4,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_sell_shares": -2279000
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_sell_shares": -2887721
         },
         {
           "rank": 5,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_sell_shares": -1864000
+          "stock_name": "力成",
+          "ticker": "6239",
+          "net_sell_shares": -2146000
         },
         {
           "rank": 6,
-          "stock_name": "瑞軒",
-          "ticker": "2489",
-          "net_sell_shares": -1809000
+          "stock_name": "南茂",
+          "ticker": "8150",
+          "net_sell_shares": -1960000
         },
         {
           "rank": 7,
-          "stock_name": "強茂",
-          "ticker": "2481",
-          "net_sell_shares": -1806000
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_sell_shares": -1833905
         },
         {
           "rank": 8,
-          "stock_name": "技嘉",
-          "ticker": "2376",
-          "net_sell_shares": -1761000
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_sell_shares": -1684152
         },
         {
           "rank": 9,
-          "stock_name": "景碩",
-          "ticker": "3189",
-          "net_sell_shares": -1690000
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_sell_shares": -1313000
         },
         {
           "rank": 10,
-          "stock_name": "金像電",
-          "ticker": "2368",
-          "net_sell_shares": -1657937
+          "stock_name": "矽力*-KY",
+          "ticker": "6415",
+          "net_sell_shares": -1144000
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 3712540
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_buy_shares": 5361959
         },
         {
           "rank": 2,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 552341
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_buy_shares": 5025000
         },
         {
           "rank": 3,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 432755
+          "stock_name": "三商壽",
+          "ticker": "2867",
+          "net_buy_shares": 2319000
         },
         {
           "rank": 4,
-          "stock_name": "康舒",
-          "ticker": "6282",
-          "net_buy_shares": 425000
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 2198200
         },
         {
           "rank": 5,
-          "stock_name": "愛山林",
-          "ticker": "2540",
-          "net_buy_shares": 367000
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 1098971
         },
         {
           "rank": 6,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 308465
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 928000
         },
         {
           "rank": 7,
-          "stock_name": "銘旺科",
-          "ticker": "2429",
-          "net_buy_shares": 297000
+          "stock_name": "愛山林",
+          "ticker": "2540",
+          "net_buy_shares": 590000
         },
         {
           "rank": 8,
-          "stock_name": "燁輝",
-          "ticker": "2023",
-          "net_buy_shares": 295000
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_buy_shares": 572207
         },
         {
           "rank": 9,
-          "stock_name": "統一實",
-          "ticker": "9907",
-          "net_buy_shares": 218000
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 531869
         },
         {
           "rank": 10,
-          "stock_name": "百和",
-          "ticker": "9938",
-          "net_buy_shares": 194000
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 511706
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "上海商銀",
-          "ticker": "5876",
-          "net_sell_shares": -3527056
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -2906646
         },
         {
           "rank": 2,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_sell_shares": -2186474
+          "stock_name": "廣達",
+          "ticker": "2382",
+          "net_sell_shares": -1460036
         },
         {
           "rank": 3,
-          "stock_name": "台橡",
-          "ticker": "2103",
-          "net_sell_shares": -1015000
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -1066989
         },
         {
           "rank": 4,
-          "stock_name": "國喬",
-          "ticker": "1312",
-          "net_sell_shares": -799000
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -961000
         },
         {
           "rank": 5,
-          "stock_name": "台塑化",
-          "ticker": "6505",
-          "net_sell_shares": -626492
+          "stock_name": "長興",
+          "ticker": "1717",
+          "net_sell_shares": -911760
         },
         {
           "rank": 6,
-          "stock_name": "友訊",
-          "ticker": "2332",
-          "net_sell_shares": -582759
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_sell_shares": -773492
         },
         {
           "rank": 7,
-          "stock_name": "廣達",
-          "ticker": "2382",
-          "net_sell_shares": -563813
+          "stock_name": "中磊",
+          "ticker": "5388",
+          "net_sell_shares": -569121
         },
         {
           "rank": 8,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -548988
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_sell_shares": -552549
         },
         {
           "rank": 9,
-          "stock_name": "超豐",
-          "ticker": "2441",
-          "net_sell_shares": -524355
+          "stock_name": "中租-KY",
+          "ticker": "5871",
+          "net_sell_shares": -479422
         },
         {
           "rank": 10,
-          "stock_name": "彩晶",
-          "ticker": "6116",
-          "net_sell_shares": -486998
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -428562
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "華航",
-        "shares": 18474530
+        "target": "聯電",
+        "shares": 13869951
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "元大台灣50",
-        "shares": 1485016
+        "target": "富邦科技",
+        "shares": 2144783
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "緯創",
-        "shares": 2096349
+        "target": "中信金",
+        "shares": 5325112
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
         "target": "元大台灣50",
-        "shares": 44446096
+        "shares": 31476927
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "52-year-old international restaurant chain closing all locations",
+      "title": "National beer and wine distributor files Chapter 11 bankruptcy",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/52-old-international-restaurant-chain-145707525.html",
-      "summary": "52-year-old international restaurant chain closing all locations",
-      "full_text": "While markets data shows that the global market for dining out is projected to grow from $1.9 trillion now to more than $3 trillion by 2030, many individual chains that were popular in another era are struggling to survive amid changing consumer trends.\n\nU.S. chains like Smokey Bones, Peet's Coffee, and Joe's Crab Shack have collectively closed dozens of locations this year. Meanwhile, over in the United Kingdom, Leon and The Real Greek both nearly halved their store locations in 2026 despite once going through a period of rapid expansion that made them well-recognized chains in the country's major cities.\n\nWith the first location opening in the Greater London borough of Enfield in 1974, the restaurant chain Beefeater has, over several generations, earned a reputation for being a family-friendly steakhouse chain serving grilled steak cuts, burgers, and fish and chips at more accessible prices.\n\nAt its peak, the chain had approximately 140 standalone and Brewers Fayre brewery-attached locations in the United Kingdom and Ireland. But amid soaring operating costs the hotel and dining company Whitbread confirmed plans to shutter all remaining 106 restaurants by September.\n\nEarlier in the year, Whitbread announced a restructuring plan that aims to bring down annual costs down costs by £250 million ($333 million USD).\n\nThe company's largest holding is the hotel chain Premier Inn. The current strategy is to convert some locations into hotel rooms and others into integrated unbranded hotel restaurants. Still other locations will be sold for what the company estimates will free up £1.5 billion ($2 billion USD).\n\n\"As you may have seen, we have recently announced changes to our business, which is resulting in the closure of our Branded Restaurants,\" Whitbread said in a statement on the location closures. \"This means that on Thursday 10 September 2026 your local Beefeater and all other UK Beefeaters will close.\"\n\nFor customers who collected points through repeated visits, the Beefeater loyalty scheme will be shut down by Aug. 31.",
-      "published": "2026-07-27T14:57:07Z"
+      "link": "https://finance.yahoo.com/small-business/articles/giant-wine-spirits-brand-files-170700174.html",
+      "summary": "National beer and wine distributor files Chapter 11 bankruptcy",
+      "full_text": "A decline in public consumption of alcoholic drinks has been a major factor in declining revenue in the beer, wine, and spirits sectors, leading certain companies to file for bankruptcy protection.\n\n128-year-old beer, wine, and spirits distributor, Republic National Distributing Company, was a major company affected as it filed for Chapter 11 bankruptcy protection, seeking going-concern sales of its remaining assets, a wind down of operations, completion of transition services agreements, and approval of its equity holder settlement.\n\nNational Distributing Company Inc. is not a part of the Chapter 11 filing, the company said in a statement on its website.\n\nRepublic National Distributing Company filed its petition as its business's financial position deteriorated after the Covid-19 pandemic subsided in late 2022 and demand for off-premises alcohol consumption plummeted.\n\nThe company and other distributors had accumulated a significant amount of alcohol product during the pandemic and were left with excess inventory as alcohol demand returned to pre-pandemic levels.\n\nMacroeconomic and industry headwinds, such as high interest rates and rising inflation, contributed to the economic issues. Distributors also faced an unexpected shift in consumer alcohol drinking, as adults either curtailed drinking alcohol or stopped altogether, according to court papers.\n\nSince 2022, alcohol consumption plummeted and the percentage of adults in the U.S. that report themselves as regular consumers of alcohol reached its lowest level in nearly 90 years, according to court papers.\n\nThe downturn impacted alcohol distributors' revenue, as spirits supplier sales decreased by 2.2% to $36.4 billion in 2025, according to the Distilled Spirits Council of the United States.",
+      "published": "2026-07-29T00:09:53Z"
     },
     {
       "id": "news_2",
-      "title": "Influencer sells 2 Ferraris to buy Bitcoin dip",
+      "title": "Binance’s CZ Promotes ‘Crypto Passport’",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/influencer-sells-2-ferraris-buy-183000659.html",
-      "summary": "Influencer sells 2 Ferraris to buy Bitcoin dip",
-      "full_text": "Social media influencer and investor Carl Runefelt is best known on the internet for posting crypto-focused content and showcasing his lavish lifestyle.\n\nKnown online as \"The Moon,\" he claims he dropped out of high school and worked as a supermarket cashier in Sweden before investing in Bitcoin (BTC). He attributes much of his wealth to crypto investments and other business ventures.\n\nRelated: Exclusive: Tether co-founder says Bitcoin volatility proves why stablecoins have already won\n\nOn July 24, Runefelt revealed on his The Moon Show podcast that he sold two Ferraris worth a total of $2.5 million to buy Bitcoin. The crypto influencer said the leading cryptocurrency is entering the \"most reliable\" signal in the cycle.\n\nPointing to Bitcoin's 200-week moving average (MA), he said the current dip offers an opportunity to accumulate more Bitcoin. He gave several previous instances when Bitcoin traded around the 200-week MA before its price surged significantly.\n\nFor instance, Bitcoin fell below $4,000 during the coronavirus pandemic panic selling in March 2020, but it reached $64,860 more than a year later in April 2021.\n\nWhile several traders buy a large position at once, the investor said he has placed multiple limit orders throughout the support zone to build an average entry to buy Bitcoin.\n\nAt the same time, Runefelt warned against taking highly leveraged Bitcoin positions around such long-term indicators as the cryptocurrency can very well decline below the support level before its price action reverses.",
-      "published": "2026-07-27T18:30:00Z"
+      "link": "https://finance.yahoo.com/markets/crypto/articles/binance-cz-promotes-crypto-passport-144400133.html",
+      "summary": "Binance’s CZ Promotes ‘Crypto Passport’",
+      "full_text": "Binance co-founder and Canadian entrepreneur Changpeng \"CZ\" Zhao is promoting a new crypto passport for use across Asia.\n\nCZ discussed the crypto passport and how it would work during a discussion at the ASEAN Tech Summit Manila 2026 held in the Philippines.\n\nThe session covered digital assets, stablecoins and the future of regional finance.\n\nMEXC Adds Five Ondo Tokenized Stocks Spanning Semiconductors to Power Infrastructure\n\nTokenInsight Q2 2026 Report: TradFi Momentum Lifts MEXC to No. 2 in Commodity Perpetuals\n\nMEXC Expands Ondo Tokenized Stock Offerings with AI Infrastructure and Mining Assets\n\nCZ, who is from Vancouver, said he supported a proposal to grant crypto companies licensed in one Asian nation a \"passport\" that would simplify regulatory approvals elsewhere in the region.\n\nThe passports would effectively allow crypto companies to operate in every Asian market.",
+      "published": "2026-07-28T14:44:00Z"
     },
     {
       "id": "news_3",
-      "title": "Data Centre Cooling Demand Boosted AAON (AAON)",
+      "title": "SpaceX stock keeps sliding. What to do if you own shares.",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/data-centre-cooling-demand-boosted-142442906.html",
-      "summary": "Data Centre Cooling Demand Boosted AAON (AAON)",
-      "full_text": "Wasatch Global Investors, an asset management company, released its \"Small Cap Growth Strategy\" Q2 2026 investor letter. A copy of the letter can be downloaded here. Small-cap equities experienced strong gains in the second quarter, primarily driven by companies associated with artificial intelligence (AI). However, the leadership within this sector remains narrow. Unprofitable companies and those benefiting from rapid AI-driven demand performed well. As a result, the strategy underperformed compared to the Russell 2000® Growth Index, which gained 25.71%. The strategy's disciplined focus on higher-quality businesses caused it to trail the benchmark, though several AI-related holdings contributed positively. The strategy prioritizes companies with sustainable growth potential, emphasizing the importance of quality investments. Overall, the strategy seeks to balance the transformative potential of AI with a commitment to long-term, quality investments. In addition, please check the Strategy's top five holdings to know its best picks in 2026.\n\nIn its Q2 2026 investor letter, the Wasatch Small Cap Growth Strategy highlighted AAON, Inc. (NASDAQ:AAON) as a material contributor. AAON, Inc. (NASDAQ:AAON) designs and manufactures high-efficiency air conditioning and heating equipment. On July 24, 2026, AAON, Inc. (NASDAQ:AAON) closed at $102.67 per share, reflecting a market capitalization of $8.41 billion. AAON, Inc. (NASDAQ:AAON) posted a one-month return of -19.75%, while its shares gained 20.22% over the past 52 weeks.\n\nWasatch Small Cap Growth Strategy stated the following regarding AAON, Inc. (NASDAQ:AAON) in its Q2 2026 investor update:\n\n\"AAON, Inc. (NASDAQ:AAON) also contributed. The company is a leading manufacturer of heating, ventilation and air conditioning (HVAC) systems for commercial and industrial environments. Data-center cooling demand amid the AI infrastructure build-out has led to accelerated growth for the company, whose commercial HVAC business had already experienced steady growth before the advent of AI. But AI has been a demand accelerant. In AAON's latest quarterly results, year-over-year net sales grew more than 50% and the company's total backlog increased 107.4% to a record $2.1 billion.\"\n\nAAON, Inc. (NASDAQ:AAON) is not on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026. According to our database, 30 hedge fund portfolios held AAON, Inc. (NASDAQ:AAON) at the end of the first quarter, compared to 36 in the previous quarter.  While we acknowledge the potential of AAON, Inc. (NASDAQ:AAON) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nIn another article, we covered AAON, Inc. (NASDAQ:AAON) and shared Giverny Capital Asset Management's views on the company. In addition, please check out our hedge fund investor letters Q2 2026 page for more investor letters from hedge funds and other leading investors.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
-      "published": "2026-07-27T14:24:42Z"
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/spacex-stock-keeps-sliding-what-to-do-if-you-own-shares-141704338.html",
+      "summary": "SpaceX stock keeps sliding. What to do if you own shares.",
+      "full_text": "On IPO day, SpaceX stock (SPCX) opened at $150 and climbed past $160. Another near-20% gain the following Monday saw Elon Musk's spaceflight, satellite communications, and AI company achieve a high orbit of $192.50. By its third trading day, SpaceX surpassed Amazon to become the fifth-largest publicly traded company by market value.\n\nYet, as any savvy investor knows, things can get ugly fast: The stock quickly returned to Earth and has bounced below its market debut price more than once.\n\nSpaceX stock is now down roughly 30% from its market debut in June and down over 50% from its all-time high of $225.64.\n\nWealth advisory Alliance Bernstein has tracked the performance of IPOs that raised $50 million or more over the past 10 years. Six months following the lockup, the median return was a 10% decline.\n\n\"While most stocks began to recover, they typically failed to revisit their initial IPO heights,\" the Bernstein analysis reported. While investors are often urged to remain calm and hang on, \"in the six months following traditional lock-up expirations, one in 10 IPO stocks dropped by at least 62%.\"\n\nWhether SpaceX's trajectory is high, low, or just bouncing on and off the atmosphere, investors will want a strategy in place.\n\nEvery investor's dream: The stock soars while they're along for the ride. Still, there are strategies to consider:\n\nEnsure your SPCX doesn't overwhelm your overall investment portfolio. Consider rebalancing holdings regularly to maintain a comfortable SpaceX exposure.",
+      "published": "2026-06-17T14:17:04Z"
     }
   ]
 }
