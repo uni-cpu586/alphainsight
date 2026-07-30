@@ -1,68 +1,68 @@
 {
-  "date": "2026-07-30",
-  "stock_market_date": "2026-07-29",
+  "date": "2026-07-31",
+  "stock_market_date": "2026-07-30",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 39628432
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_buy_shares": 42650495
         },
         {
           "rank": 2,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 25498257
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 36320840
         },
         {
           "rank": 3,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 17554027
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 30788518
         },
         {
           "rank": 4,
-          "stock_name": "合庫金",
-          "ticker": "5880",
-          "net_buy_shares": 17505156
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 28515494
         },
         {
           "rank": 5,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 14106422
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_buy_shares": 27497714
         },
         {
           "rank": 6,
-          "stock_name": "中華電",
-          "ticker": "2412",
-          "net_buy_shares": 12934049
+          "stock_name": "統一",
+          "ticker": "1216",
+          "net_buy_shares": 25435437
         },
         {
           "rank": 7,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 12757838
+          "stock_name": "三商壽",
+          "ticker": "2867",
+          "net_buy_shares": 19092512
         },
         {
           "rank": 8,
-          "stock_name": "上海商銀",
-          "ticker": "5876",
-          "net_buy_shares": 10265805
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 14858671
         },
         {
           "rank": 9,
           "stock_name": "中鋼",
           "ticker": "2002",
-          "net_buy_shares": 9457236
+          "net_buy_shares": 13814222
         },
         {
           "rank": 10,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_buy_shares": 9030747
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 10702247
         }
       ],
       "foreign_sell": [
@@ -70,309 +70,309 @@
           "rank": 1,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_sell_shares": -104923092
+          "net_sell_shares": -60529603
         },
         {
           "rank": 2,
-          "stock_name": "元大高股息",
-          "ticker": "0056",
-          "net_sell_shares": -15884046
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -35485588
         },
         {
           "rank": 3,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -15329863
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_sell_shares": -33608017
         },
         {
           "rank": 4,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_sell_shares": -12790005
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -32703722
         },
         {
           "rank": 5,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -11618916
+          "stock_name": "廣達",
+          "ticker": "2382",
+          "net_sell_shares": -27311038
         },
         {
           "rank": 6,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -11210895
+          "stock_name": "友訊",
+          "ticker": "2332",
+          "net_sell_shares": -11160864
         },
         {
           "rank": 7,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_sell_shares": -11111594
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_sell_shares": -10175291
         },
         {
           "rank": 8,
-          "stock_name": "華新",
-          "ticker": "1605",
-          "net_sell_shares": -8010452
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_sell_shares": -9009928
         },
         {
           "rank": 9,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -7747523
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_sell_shares": -8647108
         },
         {
           "rank": 10,
-          "stock_name": "中環",
-          "ticker": "2323",
-          "net_sell_shares": -5933806
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -8245339
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 11833583
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 5793000
         },
         {
           "rank": 2,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 6350000
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_buy_shares": 4958850
         },
         {
           "rank": 3,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_buy_shares": 6250000
+          "stock_name": "力成",
+          "ticker": "6239",
+          "net_buy_shares": 3685834
         },
         {
           "rank": 4,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 5449029
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_buy_shares": 3525028
         },
         {
           "rank": 5,
           "stock_name": "兆豐金",
           "ticker": "2886",
-          "net_buy_shares": 5321870
+          "net_buy_shares": 3502863
         },
         {
           "rank": 6,
           "stock_name": "國泰金",
           "ticker": "2882",
-          "net_buy_shares": 3211224
+          "net_buy_shares": 2752377
         },
         {
           "rank": 7,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 3181685
+          "stock_name": "欣興",
+          "ticker": "3037",
+          "net_buy_shares": 2515389
         },
         {
           "rank": 8,
-          "stock_name": "富邦金",
-          "ticker": "2881",
-          "net_buy_shares": 3093485
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 2422000
         },
         {
           "rank": 9,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 2420353
+          "stock_name": "致茂",
+          "ticker": "2360",
+          "net_buy_shares": 1518157
         },
         {
           "rank": 10,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_buy_shares": 2410960
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 1342560
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -19728097
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -9683203
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -15489849
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -5718291
         },
         {
           "rank": 3,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -3730000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -3115482
         },
         {
           "rank": 4,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_sell_shares": -2887721
+          "stock_name": "南茂",
+          "ticker": "8150",
+          "net_sell_shares": -2359000
         },
         {
           "rank": 5,
-          "stock_name": "力成",
-          "ticker": "6239",
-          "net_sell_shares": -2146000
+          "stock_name": "台勝科",
+          "ticker": "3532",
+          "net_sell_shares": -1495000
         },
         {
           "rank": 6,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_sell_shares": -1960000
+          "stock_name": "禾伸堂",
+          "ticker": "3026",
+          "net_sell_shares": -1324000
         },
         {
           "rank": 7,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_sell_shares": -1833905
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_sell_shares": -1205219
         },
         {
           "rank": 8,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -1684152
+          "stock_name": "立隆電",
+          "ticker": "2472",
+          "net_sell_shares": -974000
         },
         {
           "rank": 9,
-          "stock_name": "強茂",
-          "ticker": "2481",
-          "net_sell_shares": -1313000
+          "stock_name": "矽力*-KY",
+          "ticker": "6415",
+          "net_sell_shares": -927000
         },
         {
           "rank": 10,
-          "stock_name": "矽力*-KY",
-          "ticker": "6415",
-          "net_sell_shares": -1144000
+          "stock_name": "金像電",
+          "ticker": "2368",
+          "net_sell_shares": -862087
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_buy_shares": 5361959
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_buy_shares": 3375000
         },
         {
           "rank": 2,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_buy_shares": 5025000
+          "stock_name": "三商壽",
+          "ticker": "2867",
+          "net_buy_shares": 3136000
         },
         {
           "rank": 3,
-          "stock_name": "三商壽",
-          "ticker": "2867",
-          "net_buy_shares": 2319000
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 3052000
         },
         {
           "rank": 4,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 2198200
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 1223213
         },
         {
           "rank": 5,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 1098971
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 926475
         },
         {
           "rank": 6,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 928000
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 648000
         },
         {
           "rank": 7,
-          "stock_name": "愛山林",
-          "ticker": "2540",
-          "net_buy_shares": 590000
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_buy_shares": 594523
         },
         {
           "rank": 8,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_buy_shares": 572207
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_buy_shares": 555643
         },
         {
           "rank": 9,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 531869
+          "stock_name": "威健",
+          "ticker": "3033",
+          "net_buy_shares": 489985
         },
         {
           "rank": 10,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 511706
+          "stock_name": "愛山林",
+          "ticker": "2540",
+          "net_buy_shares": 425000
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -2906646
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -2071970
         },
         {
           "rank": 2,
-          "stock_name": "廣達",
-          "ticker": "2382",
-          "net_sell_shares": -1460036
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -2014286
         },
         {
           "rank": 3,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -1066989
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_sell_shares": -1603216
         },
         {
           "rank": 4,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -961000
+          "stock_name": "統一",
+          "ticker": "1216",
+          "net_sell_shares": -1481460
         },
         {
           "rank": 5,
-          "stock_name": "長興",
-          "ticker": "1717",
-          "net_sell_shares": -911760
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -1335591
         },
         {
           "rank": 6,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_sell_shares": -773492
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -935251
         },
         {
           "rank": 7,
-          "stock_name": "中磊",
-          "ticker": "5388",
-          "net_sell_shares": -569121
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -805429
         },
         {
           "rank": 8,
-          "stock_name": "華新科",
-          "ticker": "2492",
-          "net_sell_shares": -552549
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -702032
         },
         {
           "rank": 9,
-          "stock_name": "中租-KY",
-          "ticker": "5871",
-          "net_sell_shares": -479422
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -597000
         },
         {
           "rank": 10,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_sell_shares": -428562
+          "stock_name": "一詮",
+          "ticker": "2486",
+          "net_sell_shares": -547584
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "聯電",
-        "shares": 13869951
+        "target": "合庫金",
+        "shares": 14927673
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "富邦科技",
-        "shares": 2144783
+        "target": "彰銀",
+        "shares": 1350000
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "中信金",
-        "shares": 5325112
+        "target": "元大台灣50",
+        "shares": 2606850
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
         "target": "元大台灣50",
-        "shares": 31476927
+        "shares": 18158880
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "National beer and wine distributor files Chapter 11 bankruptcy",
+      "title": "Markets react to Fed's July interest rate decision",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/giant-wine-spirits-brand-files-170700174.html",
-      "summary": "National beer and wine distributor files Chapter 11 bankruptcy",
-      "full_text": "A decline in public consumption of alcoholic drinks has been a major factor in declining revenue in the beer, wine, and spirits sectors, leading certain companies to file for bankruptcy protection.\n\n128-year-old beer, wine, and spirits distributor, Republic National Distributing Company, was a major company affected as it filed for Chapter 11 bankruptcy protection, seeking going-concern sales of its remaining assets, a wind down of operations, completion of transition services agreements, and approval of its equity holder settlement.\n\nNational Distributing Company Inc. is not a part of the Chapter 11 filing, the company said in a statement on its website.\n\nRepublic National Distributing Company filed its petition as its business's financial position deteriorated after the Covid-19 pandemic subsided in late 2022 and demand for off-premises alcohol consumption plummeted.\n\nThe company and other distributors had accumulated a significant amount of alcohol product during the pandemic and were left with excess inventory as alcohol demand returned to pre-pandemic levels.\n\nMacroeconomic and industry headwinds, such as high interest rates and rising inflation, contributed to the economic issues. Distributors also faced an unexpected shift in consumer alcohol drinking, as adults either curtailed drinking alcohol or stopped altogether, according to court papers.\n\nSince 2022, alcohol consumption plummeted and the percentage of adults in the U.S. that report themselves as regular consumers of alcohol reached its lowest level in nearly 90 years, according to court papers.\n\nThe downturn impacted alcohol distributors' revenue, as spirits supplier sales decreased by 2.2% to $36.4 billion in 2025, according to the Distilled Spirits Council of the United States.",
-      "published": "2026-07-29T00:09:53Z"
+      "link": "https://finance.yahoo.com/economy/policy/articles/markets-react-feds-july-interest-210558874.html",
+      "summary": "Markets react to Fed's July interest rate decision",
+      "full_text": "On July 29, the Federal Reserve announced its decision on interest rates following its two-day policy meeting.\n\nAs expected, the central bank decided to keep the benchmark interest rate unchanged in the 3.50%-3.75% range.\n\nThough the Fed's newly appointed chair, Kevin Warsh, has emphasized the goal of lowering inflation to 2%, he hasn't outlined a detailed plan.\n\nEarlier, President Donald Trump called Warsh \"fantastic\" and reiterated that the Fed should lower the rates, \"He wants to do the right thing. I know what he wants to do.\"\n\nBut he sharply criticized other Fed officials as \"very political\" who \"perhaps have bad intentions.\" The president said,\n\n\"We should have the lowest interest rate in the world, like it used to be 30 years ago.\"\n\nHowever, the Warsh-led FOMC committee has decided to keep rates steady this time.\n\nFollowing the Federal Open Market Committee's (FOMC) latest interest rate decision, Bitcoin (BTC) and XRP were trading at $64,268.33 and $1.08 at the time of writing.",
+      "published": "2026-07-29T21:05:58Z"
     },
     {
       "id": "news_2",
-      "title": "Binance’s CZ Promotes ‘Crypto Passport’",
+      "title": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/binance-cz-promotes-crypto-passport-144400133.html",
-      "summary": "Binance’s CZ Promotes ‘Crypto Passport’",
-      "full_text": "Binance co-founder and Canadian entrepreneur Changpeng \"CZ\" Zhao is promoting a new crypto passport for use across Asia.\n\nCZ discussed the crypto passport and how it would work during a discussion at the ASEAN Tech Summit Manila 2026 held in the Philippines.\n\nThe session covered digital assets, stablecoins and the future of regional finance.\n\nMEXC Adds Five Ondo Tokenized Stocks Spanning Semiconductors to Power Infrastructure\n\nTokenInsight Q2 2026 Report: TradFi Momentum Lifts MEXC to No. 2 in Commodity Perpetuals\n\nMEXC Expands Ondo Tokenized Stock Offerings with AI Infrastructure and Mining Assets\n\nCZ, who is from Vancouver, said he supported a proposal to grant crypto companies licensed in one Asian nation a \"passport\" that would simplify regulatory approvals elsewhere in the region.\n\nThe passports would effectively allow crypto companies to operate in every Asian market.",
-      "published": "2026-07-28T14:44:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html",
+      "summary": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
+      "full_text": "Some stock drops look like bad news on the surface. Some are, yes, but some also tell a completely different story underneath.\n\nAnd I think American Express (AXP) investors have been handed the latter. The payments giant beat earnings expectations, raised its full-year revenue guidance, and reported its strongest card member spending growth in three years. The stock fell anyway.\n\nThis kind of reaction can frustrate shareholders and even confuse casual observers. But for \"Mad Money\" host Jim Cramer, it's a pattern he's seen before, and one he thinks is creating a clear opening.\n\nAmerican Express CEO Steve Squeri echoed that confidence in the company's Q2 2026 earnings statement, noting: \"Six months into the year, we're seeing stronger momentum than we expected.\"\n\nCramer's argument comes down to a single distinction. And it is one the market appears to have missed.\n\nAmerican Express beat earnings expectations in Q2 2026 and raised its full-year revenue growth guidance to approximately 10%, according to a company statement. Earnings per share (EPS) came in at $4.53, up 11% year-over-year (YoY). Net income reached $3.11 billion, up 8% from the same period a year earlier.\n\nThe answer lies in what management chose not to do. Instead of accelerating share repurchases, which would have boosted EPS more quickly, Squeri announced the company would reinvest its outperformance into growth initiatives.\n\nJim Cramer's net worth: How much does 'Mad Money's' stock-picking superhost make?",
+      "published": "2026-07-29T22:17:00Z"
     },
     {
       "id": "news_3",
-      "title": "SpaceX stock keeps sliding. What to do if you own shares.",
+      "title": "AI Fears Send Meta Stock To Record Losing Streak Ahead Of Earnings",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/spacex-stock-keeps-sliding-what-to-do-if-you-own-shares-141704338.html",
-      "summary": "SpaceX stock keeps sliding. What to do if you own shares.",
-      "full_text": "On IPO day, SpaceX stock (SPCX) opened at $150 and climbed past $160. Another near-20% gain the following Monday saw Elon Musk's spaceflight, satellite communications, and AI company achieve a high orbit of $192.50. By its third trading day, SpaceX surpassed Amazon to become the fifth-largest publicly traded company by market value.\n\nYet, as any savvy investor knows, things can get ugly fast: The stock quickly returned to Earth and has bounced below its market debut price more than once.\n\nSpaceX stock is now down roughly 30% from its market debut in June and down over 50% from its all-time high of $225.64.\n\nWealth advisory Alliance Bernstein has tracked the performance of IPOs that raised $50 million or more over the past 10 years. Six months following the lockup, the median return was a 10% decline.\n\n\"While most stocks began to recover, they typically failed to revisit their initial IPO heights,\" the Bernstein analysis reported. While investors are often urged to remain calm and hang on, \"in the six months following traditional lock-up expirations, one in 10 IPO stocks dropped by at least 62%.\"\n\nWhether SpaceX's trajectory is high, low, or just bouncing on and off the atmosphere, investors will want a strategy in place.\n\nEvery investor's dream: The stock soars while they're along for the ride. Still, there are strategies to consider:\n\nEnsure your SPCX doesn't overwhelm your overall investment portfolio. Consider rebalancing holdings regularly to maintain a comfortable SpaceX exposure.",
-      "published": "2026-06-17T14:17:04Z"
+      "link": "https://www.investors.com/news/technology/meta-stock-losing-steak-facebook-zuckerberg-ai/?src=A00220&yptr=yahoo",
+      "summary": "AI Fears Send Meta Stock To Record Losing Streak Ahead Of Earnings",
+      "full_text": "AI Fears Send Meta Stock To Record Losing Streak Ahead Of Earnings",
+      "published": "2026-07-29T15:13:24Z"
     }
   ]
 }

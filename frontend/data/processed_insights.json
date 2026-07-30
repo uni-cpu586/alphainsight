@@ -1,355 +1,425 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "stock_uncle_insight": {
-    "date_header": "7/30 法人與主力大戶主要買超股票",
+    "date_header": "7/31 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：撤出權值，轉戰傳產、金融與航空",
+        "group_title": "1. 外資大戶：狂掃金融與航空，撤出科技權值",
         "stocks": [
-          {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "肖年仔，外資狂掃聯電近3.96萬張，這擺明是看好成熟製程的訂單能見度，雖然投信跟自營商在倒貨，但外資大咖就是硬要買，這其中必有蹊蹺，搞不好是看好下半年景氣復甦，提前卡位。"
-          },
-          {
-            "stock_name": "南亞",
-            "ticker": "1303",
-            "description": "外資買超南亞近2.55萬張，但投信跟自營商卻在賣，這就是典型的籌碼對作。外資可能覺得塑化股跌深了，或是看好原物料價格反彈，準備來個波段操作。"
-          },
-          {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "面板股友達，外資也買了近1.76萬張。這波面板報價有回溫跡象，外資大戶嗅到味道，開始進場卡位，肖年仔別傻傻地去接刀，要看清楚是真買還是假買。"
-          },
           {
             "stock_name": "合庫金",
             "ticker": "5880",
-            "description": "外資買超合庫金近1.75萬張，金融股向來是外資的避風港，尤其在大盤震盪時，高殖利率的金融股更是首選，這就是穩健布局的策略。"
+            "description": "肖年仔，你看外資狂掃 4.26 萬張合庫金，這擺明就是把錢從漲多的科技股「搬家」到金融股，看好其防禦性跟穩定收益，這就是避險！"
           },
           {
-            "stock_name": "華航",
-            "ticker": "2610",
-            "description": "航空雙雄之一的華航，外資買超近1.41萬張。解封題材持續發酵，客運復甦的預期讓外資持續加碼，但肖年仔要注意，這類股票容易被拉高出貨，別追高。"
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "外資買超 3.63 萬張華邦電，但投信卻在賣，這檔DRAM股後續要觀察外資是真鎖碼還是短線「黑白買」，韭菜們別傻傻去追高。"
           },
           {
             "stock_name": "長榮航",
             "ticker": "2618",
-            "description": "長榮航外資也買了近1.28萬張，跟華航一樣，都是看好航空業的復甦。不過投信卻在賣，這表示內外資對航空股的看法有分歧，籌碼交換激烈。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：狂掃金融，作帳行情啟動",
-        "stocks": [
-          {
-            "stock_name": "中信金",
-            "ticker": "2891",
-            "description": "投信狂買中信金近1.18萬張，這就是標準的作帳行情！基金經理人為了年底績效，把資金集中在金融股，準備拉抬結帳，肖年仔跟著喝湯可以，但別當最後一隻老鼠。"
+            "description": "外資大買 3.07 萬張長榮航，航空股旺季效應加上解封題材，外資在「卡位」避險兼賺題材，這波行情有搞頭。"
           },
           {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "外資大賣0050，結果投信卻買了近0.64萬張，這擺明是投信在逢低承接，或是為了調整基金部位，跟外資對作，想在市場震盪中撿便宜。"
+            "stock_name": "玉山金",
+            "ticker": "2884",
+            "description": "外資買超 2.85 萬張玉山金，金融股是這波外資的「資金避風港」，穩定配息加上Fed不升息，吸引力十足，這就是穩！"
           },
           {
-            "stock_name": "大成鋼",
-            "ticker": "2027",
-            "description": "投信買超大成鋼近0.63萬張，鋼鐵股最近表現不錯，投信可能看好原物料行情，或是將其視為低基期傳產股，納入作帳標的。"
+            "stock_name": "臺企銀",
+            "ticker": "2834",
+            "description": "外資買超 2.74 萬張臺企銀，跟其他金控股一樣，外資在找低基期、高殖利率的標的，這就是大戶的眼光。"
           },
           {
-            "stock_name": "凱基金",
-            "ticker": "2883",
-            "description": "凱基金被投信買超近0.54萬張，金融股是投信作帳的熱門標的，這波幾乎把所有金控股都掃了一輪，肖年仔要看清楚，這是短線操作還是長線布局。"
-          }
-        ]
-      },
-      {
-        "group_title": "3. 內資主力與實戶：避險兼卡位，金融與科技ETF兩手策略",
-        "stocks": [
-          {
-            "stock_name": "富邦科技",
-            "ticker": "0052",
-            "description": "自營商買超富邦科技ETF近0.54萬張，這很明顯是避險盤在操作，市場震盪大，買科技ETF可以分散風險，又不錯過科技股的潛在漲幅，一魚兩吃。"
-          },
-          {
-            "stock_name": "彰銀",
-            "ticker": "2801",
-            "description": "自營商買超彰銀近0.50萬張，跟投信一樣，內資也看好金融股的穩健性，尤其在市場不確定性高的時候，金融股就是資金的避風港。"
+            "stock_name": "統一",
+            "ticker": "1216",
+            "description": "外資買超 2.54 萬張統一，食品股也是防禦性標的，市場震盪時資金會往這裡靠，穩健型大戶的最愛。"
           },
           {
             "stock_name": "三商壽",
             "ticker": "2867",
-            "description": "自營商買超三商壽近0.23萬張，壽險股受惠於升息環境，利差擴大，自營商可能看好其獲利改善的潛力，提前卡位。"
+            "description": "外資買超 1.90 萬張三商壽，壽險股受惠於利率維持高檔，外資也在「卡位」，這波壽險股有機會。"
           },
           {
             "stock_name": "第一金",
             "ticker": "2892",
-            "description": "自營商買超第一金近0.22萬張，這波金融股被內資法人鎖定，幾乎是全面性地買進，肖年仔別黑白買，要挑有量有價的。"
+            "description": "外資買超 1.48 萬張第一金，金融股是外資這波的「真愛」，買超榜上佔了一大半，避險意圖很明顯。"
+          },
+          {
+            "stock_name": "中鋼",
+            "ticker": "2002",
+            "description": "外資買超 1.38 萬張中鋼，傳產龍頭股，也是相對穩定的選擇，市場不好時，這種股票就是「避風港」。"
+          },
+          {
+            "stock_name": "台新新光金",
+            "ticker": "2887",
+            "description": "外資買超 1.07 萬張台新新光金，金融股買好買滿，外資的避險意圖很明顯，肖年仔要看懂。"
+          }
+        ]
+      },
+      {
+        "group_title": "2. 投信大戶（本土國家隊）：逢低承接ETF，調整科技持股",
+        "stocks": [
+          {
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "投信買超 5793 張 0050，跟外資大賣對作，可能是在逢低承接，或為基金部位做平衡，這就是「本土國家隊」的操盤手法。"
+          },
+          {
+            "stock_name": "大成鋼",
+            "ticker": "2027",
+            "description": "投信買超 4958 張大成鋼，傳產股也是避險選項之一，可能看好其基本面或低基期，這就是找穩定的標的。"
+          },
+          {
+            "stock_name": "力成",
+            "ticker": "6239",
+            "description": "投信買超 3685 張力成，半導體封測股，可能看好其產業前景，但同時又賣其他半導體，有點「黑白猜」的感覺。"
+          },
+          {
+            "stock_name": "京元電子",
+            "ticker": "2449",
+            "description": "投信買超 3525 張京元電子，跟力成一樣，投信對部分半導體封測股有興趣，但整體科技股壓力還在。"
+          },
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "投信買超 3502 張兆豐金，金融股也是投信的菜，跟外資有志一同，這就是穩健配置。"
+          },
+          {
+            "stock_name": "國泰金",
+            "ticker": "2882",
+            "description": "投信買超 2752 張國泰金，大型金控股，穩定性高，適合基金配置，這就是「作帳」的好標的。"
+          },
+          {
+            "stock_name": "欣興",
+            "ticker": "3037",
+            "description": "投信買超 2515 張欣興，ABF載板股，可能看好其長期趨勢，但短期科技股壓力仍在，這就是賭長線。"
+          },
+          {
+            "stock_name": "華南金",
+            "ticker": "2880",
+            "description": "投信買超 2422 張華南金，金融股買好買滿，避險意味濃厚，這就是跟著大戶走。"
+          },
+          {
+            "stock_name": "致茂",
+            "ticker": "2360",
+            "description": "投信買超 1518 張致茂，自動化測試設備股，可能看好其在半導體產業的應用，這就是找利基型股票。"
+          },
+          {
+            "stock_name": "南亞",
+            "ticker": "1303",
+            "description": "投信買超 1342 張南亞，塑化龍頭股，也是傳產的避險標的，這就是找低基期。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：跟風金融避險，小敲面板與營建",
+        "stocks": [
+          {
+            "stock_name": "彰銀",
+            "ticker": "2801",
+            "description": "自營商買超 3375 張彰銀，內資主力也跟著外資「卡位」金融股，避險意味濃厚，這就是跟風操作。"
+          },
+          {
+            "stock_name": "三商壽",
+            "ticker": "2867",
+            "description": "自營商買超 3136 張三商壽，壽險股也是內資看好的避險標的，這就是找穩定的資產。"
+          },
+          {
+            "stock_name": "第一金",
+            "ticker": "2892",
+            "description": "自營商買超 3052 張第一金，金融股是這波內資的「真愛」，跟外資一樣狂掃，這就是大戶共識。"
+          },
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "自營商買超 1223 張兆豐金，金融股的穩定性吸引內資進場，這就是穩健配置。"
+          },
+          {
+            "stock_name": "華南金",
+            "ticker": "2880",
+            "description": "自營商買超 926 張華南金，內資也看好金控股的防禦性，這就是市場共識。"
+          },
+          {
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "自營商買超 648 張友達，但外資大賣，自營商這筆可能是「避險盤」的短線操作，或是看好面板股的跌深反彈，這就是「黑白猜」。"
+          },
+          {
+            "stock_name": "日月光投控",
+            "ticker": "3711",
+            "description": "自營商買超 594 張日月光投控，半導體封測龍頭，可能也是短線操作或權證避險，這就是自營商的靈活。"
+          },
+          {
+            "stock_name": "合庫金",
+            "ticker": "5880",
+            "description": "自營商買超 555 張合庫金，金融股是內資避險的首選，這就是市場的主流。"
+          },
+          {
+            "stock_name": "威健",
+            "ticker": "3033",
+            "description": "自營商買超 489 張威健，電子零組件通路商，可能也是短線題材操作，這就是找小機會。"
+          },
+          {
+            "stock_name": "愛山林",
+            "ticker": "2540",
+            "description": "自營商買超 425 張愛山林，營建股，可能看好房市或資產題材，這就是找潛力股。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：外資資金大挪移，從權值股轉向價值與防禦型標的",
-        "strategy_content": "肖年仔，你看看外資這次的動作，大賣元大台灣50（0050）超過10.49萬張，連台積電都倒貨1.12萬張，這擺明是把資金從高檔權值股撤出來。但他們不是不玩了，而是轉進聯電、南亞、友達這些跌深或具景氣循環題材的個股，還有合庫金、中華電、華航、長榮航這些具備防禦性或復甦題材的股票。這代表外資認為大盤短期有壓力，但個別產業的機會還是存在，所以把資金從「大盤指數」轉向「個別產業龍頭」，尋求相對穩定的報酬。"
+        "strategy_title": "策略一：高檔避險與資金避風港（金融、航空、傳產）",
+        "strategy_content": "肖年仔，你看外資跟自營商，狂掃金融股，還有長榮航、中鋼、統一這些傳產，這擺明就是大盤在高檔震盪，科技股漲多有壓力，資金要找地方「避風港」啦！Fed雖然沒升息，但通膨壓力還在，金融股的利差收益跟穩定配息，就成了這些大戶的「真愛」。航空股則是看旺季效應，解封後人潮回流，營收有想像空間。這就是典型的「高檔避險」操作，把錢從高風險板塊撤出來，移到有防禦性或旺季題材的板塊。"
       },
       {
-        "strategy_title": "策略二：本土投信作帳行情啟動，金融股成國家隊主戰場",
-        "strategy_content": "本土投信這次的買超名單，幾乎被金融股給佔滿了，中信金、凱基金、兆豐金、國泰金、華南金、富邦金，幾乎所有金控股都被掃了一輪。這很明顯就是投信的作帳行情，為了衝刺基金績效，把資金集中在相對穩健、評價偏低的金融股。肖年仔，這種時候金融股容易被拉抬，但也要小心，作帳結束後，這些股票可能就會被倒貨，別傻傻地去接刀。"
+        "strategy_title": "策略二：科技股「倒貨」與資金輪動",
+        "strategy_content": "外資這次大賣聯電、鴻海、廣達、友達這些科技權值股，連0050都「倒貨」六萬多張，這很明顯是在「結帳」啦！你看Meta都因為AI疑慮股價創新低，美股科技股也不是鐵板一塊。這些大戶把錢從漲多的科技股抽出來，轉進金融、傳產，這就是資金在「輪動」。韭菜們別傻傻去「接刀」，以為跌下來就是便宜，搞不好後面還有得跌，小心「割韭菜」！"
       },
       {
-        "strategy_title": "策略三：內外資對作，籌碼換手激烈，短線震盪加劇",
-        "strategy_content": "你仔細看聯電、南亞、長榮航、遠傳這些股票，外資大買，但投信或自營商卻在賣超。這代表內外資對這些股票的看法有明顯分歧，籌碼正在激烈換手。這種對作的狀況，通常會讓股價短線波動加劇，對於肖年仔這種散戶來說，很容易被洗出場。沒有兩把刷子，最好別輕易介入這種籌碼混亂的股票，不然很容易被割韭菜。"
+        "strategy_title": "策略三：投信「作帳」與「黑白猜」",
+        "strategy_content": "投信這批「本土國家隊」就比較複雜了，他們一方面跟外資對作，買進0050，可能是在逢低承接或為基金部位做平衡，但另一方面又跟外資一樣賣出華邦電、聯電這些科技股，顯示他們對部分科技股也是有「結帳」壓力。同時也買進一些金融股跟傳產（大成鋼、南亞），這就是典型的「作帳」行情，在月底前調整持股，讓基金績效好看一點，但整體策略看起來有點「黑白猜」，沒有外資那麼明確的避險方向。"
       }
     ],
-    "summary": "肖年仔，今天盤面就是外資在做資金大挪移，從權值股撤出轉進價值與防禦型標的，而本土投信則卯起來作帳狂掃金融股，內外資對作的個股籌碼混亂，短線操作風險高，穩健為上！",
+    "summary": "肖年仔，這盤面很清楚，外資跟自營商都在「高檔避險」，把錢從科技股「倒貨」到金融、傳產。韭菜們別傻傻去「接刀」，跟著大戶走，找穩定的「資金避風港」才是王道！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 1.39 萬張",
-        "uncle_logic": "美商高盛這種外資大咖，狂掃聯電，這擺明是看好成熟製程的訂單能見度，或是跟著大部隊在做避險配置。肖年仔，這種大戶進場，通常不會只玩一天，但也要小心他們隔天反手倒貨。"
+        "action": "買超 1.49 萬張",
+        "uncle_logic": "這「假外資」或「真外資」不好說，但這麼大筆買進合庫金，很可能是看好金融股的防禦性跟殖利率，為後續的波段行情「鎖碼」，不是玩短線的，肖年仔要看仔細。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 0.21 萬張",
-        "uncle_logic": "凱基台北這短線大戶，買進富邦科技ETF，這不是在隔日沖，就是在做指數型避險，肖年仔要小心，這種買法通常是市場震盪時的權宜之計，別以為是看好科技股就傻傻跟進。"
+        "action": "買超 1350 張",
+        "uncle_logic": "「隔日沖」大本營凱基台北買彰銀？這很耐人尋味。金融股通常不是隔日沖的菜，除非有什麼特殊消息或預期短期會有波動，不然這筆買超可能不是純粹的隔日沖，搞不好是想「鎖碼」一段時間，肖年仔要多注意，別被「隔日沖」給騙了。"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 0.53 萬張",
-        "uncle_logic": "投信自家分點大買中信金，這就是標準的作帳行情，基金經理人為了績效，把資金灌進自家看好的金融股，準備拉抬結帳。肖年仔，這種股票短線有機會，但也要提防結帳後的賣壓。"
+        "action": "買超 2606 張",
+        "uncle_logic": "投信自己買自家元大台灣50，這很正常，可能是在進行基金部位的調整，或是看到外資大賣0050後，認為有逢低承接的機會，但這跟外資對作，短期內0050可能還是震盪。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 3.15 萬張",
-        "uncle_logic": "摩根大通這種大咖外資，狂倒0050，這很明顯是在撤出大盤權值股，把資金轉往其他更有潛力的個股，或是直接抽離避險。肖年仔，當大戶開始賣ETF，代表他們對大盤的看法沒那麼樂觀了。"
+        "action": "賣超 1.81 萬張",
+        "uncle_logic": "摩根大通大賣元大台灣50，跟外資整體賣超0050的趨勢一致，顯示外資對大盤指數的看法偏保守，正在「倒貨」權值股，把資金撤出，韭菜們別傻傻去「接刀」，小心被套牢！"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "National beer and wine distributor files Chapter 11 bankruptcy",
+      "title": "Markets react to Fed's July interest rate decision",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/giant-wine-spirits-brand-files-170700174.html",
-      "level1_blind": "A decline in public consumption of alcoholic drinks has been a major factor in declining revenue in the beer, wine, and spirits sectors, leading certain companies to file for bankruptcy protection.\n\n128-year-old beer, wine, and spirits distributor, Republic National Distributing Company, was a major company affected as it filed for Chapter 11 bankruptcy protection, seeking going-concern sales of its remaining assets, a wind down of operations, completion of transition services agreements, and approval of its equity holder settlement.\n\nNational Distributing Company Inc. is not a part of the Chapter 11 filing, the company said in a statement on its website.\n\nRepublic National Distributing Company filed its petition as its business's financial position deteriorated after the Covid-19 pandemic subsided in late 2022 and demand for off-premises alcohol consumption plummeted.\n\nThe company and other distributors had accumulated a significant amount of alcohol product during the pandemic and were left with excess inventory as alcohol demand returned to pre-pandemic levels.\n\nMacroeconomic and industry headwinds, such as high interest rates and rising inflation, contributed to the economic issues. Distributors also faced an unexpected shift in consumer alcohol drinking, as adults either curtailed drinking alcohol or stopped altogether, according to court papers.\n\nSince 2022, alcohol consumption plummeted and the percentage of adults in the U.S. that report themselves as regular consumers of alcohol reached its lowest level in nearly 90 years, according to court papers.\n\nThe downturn impacted alcohol distributors' revenue, as spirits supplier sales decreased by 2.2% to $36.4 billion in 2025, according to the Distilled Spirits Council of the United States.",
+      "link": "https://finance.yahoo.com/economy/policy/articles/markets-react-feds-july-interest-210558874.html",
+      "level1_blind": {
+        "text": "On July 29, the Federal Reserve announced its decision on interest rates following its two-day policy meeting.\n\nAs expected, the central bank decided to keep the benchmark interest rate unchanged in the 3.50%-3.75% range.\n\nThough the Fed's newly appointed chair, Kevin Warsh, has emphasized the goal of lowering inflation to 2%, he hasn't outlined a detailed plan.\n\nEarlier, President Donald Trump called Warsh \"fantastic\" and reiterated that the Fed should lower the rates, \\\n\"He wants to do the right thing. I know what he wants to do.\\\n\"\n\nBut he sharply criticized other Fed officials as \"very political\" who \\\n\"perhaps have bad intentions.\\\n\"\n\nHowever, the Warsh-led FOMC committee has decided to keep rates steady this time.\n\nFollowing the Federal Open Market Committee's (FOMC) latest interest rate decision, Bitcoin (BTC) and XRP were trading at $64,268.33 and $1.08 at the time of writing."
+      },
       "level2_keywords": [
         {
-          "word": "bankruptcy",
-          "ipa": "/bæŋˈkætər/",
-          "meaning": "財務破產",
-          "example": "公司因為財務問題而宣告破產"
+          "word": "interest",
+          "ipa": "/ɪnˈtɛrəst/",
+          "meaning": "貢獻給予的利率",
+          "example": "該公司的利率為 5%。"
         },
         {
-          "word": "spirits",
-          "ipa": "/spɪˈriːts/",
-          "meaning": "酒精類品項",
-          "example": "酒精類品項的銷售額下降了 2.2% "
+          "word": "rate",
+          "ipa": "/reit/",
+          "meaning": "價格或費用",
+          "example": "該公司的股價在市場上達到新高."
         },
         {
-          "word": "distributor",
-          "ipa": "/dɪsˈtʌbərər/",
-          "meaning": "分配商",
-          "example": "公司是酒精類品項的主要分配商"
+          "word": "Fed",
+          "ipa": "/fɛd/",
+          "meaning": "美國中央銀行",
+          "example": "美國中央銀行的利率決定對全球金融產生了深遠影響."
         },
         {
-          "word": "consumption",
-          "ipa": "/kənˈzʌməsən/",
-          "meaning": "消費量",
-          "example": "酒精類品項的消費量下降了 2.2% "
+          "word": "inflation",
+          "ipa": "/ɪnˈflæʃən/",
+          "meaning": "物價上升",
+          "example": "經濟學家認為，物價上升是由於供應不足所導致."
         },
         {
-          "word": "demand",
-          "ipa": "/dɪˈmeɪnd/",
-          "meaning": "需求",
-          "example": "消費者對酒精類品項的需求下降"
+          "word": "Bitcoin",
+          "ipa": "/ˈbiːtɪnaɪ/",
+          "meaning": "一種數位貨幣",
+          "example": "比特幣的價格在市場上波動不定."
         }
       ],
-      "level2_context": "2022 年後，COVID-19 病毒傳染率下降，消費者飲酒習慣也出現了大幅變化。酒精類品項的銷售額下降了 2.2% ，而美國酒精消費者的比例也達到近 90 年來最低的水平。這使得酒精類品項的分配商面臨著嚴重的財務問題。",
+      "level2_context": "\n美國中央銀行（Fed）的利率決定對全球金融產生了深遠影響。近期，Fed的新任主席Kevin Warsh強調減少通胀率至2%的目標，但尚未提出具體計畫。\n\n美國總統唐納·特朗普在此前批評其他 Fed官員的行為，他認為他們可能有「壞意」。他還重申了他對Fed降低利率的支持，希望能讓利率達到過去30年的最低水平。\n\n然而，Warsh領導的FOMC委員會在本次會議中決定保持利率穩定。\n\n此外， Bitcoin 和 XRP 的價格在此前的一天內出現了大幅波動.",
       "level3_translation": [
         {
-          "sentence": "A decline in public consumption of alcoholic drinks has been a major factor in declining revenue in the beer, wine, and spirits sectors",
-          "translation": "酒精類品項消費量下降是導致啤酒、葡萄酒和酒精類品項業績下滑的主要原因"
+          "sentence": "On July 29, the Federal Reserve announced its decision on interest rates following its two-day policy meeting.",
+          "translation": "美國中央銀行在七月二十九日宣布其對利率的決定，該決定是在兩天內進行的政策會議之後發出的。"
         },
         {
-          "sentence": "128-year-old beer, wine, and spirits distributor, Republic National Distributing Company, was a major company affected",
-          "translation": "128 年的啤酒、葡萄酒和酒精類品項分配商，共和國國內公司，是受到影響的主要企業"
+          "sentence": "As expected, the central bank decided to keep the benchmark interest rate unchanged in the 3.50%-3.75% range.",
+          "translation": "如預期，中央銀行決定在 3.50% 至 3.75% 的範圍內保持利率不變。"
         },
         {
-          "sentence": "The company and other distributors had accumulated a significant amount of alcohol product during the pandemic",
-          "translation": "該公司和其他分配商在疫情期間積累了大量酒精類品項的庫存"
+          "sentence": "Though the Fed's newly appointed chair, Kevin Warsh, has emphasized the goal of lowering inflation to 2%, he hasn't outlined a detailed plan.",
+          "translation": "雖然新任Fed主席Kevin Warsh強調降低通胀率至2%的目標，但他並未提出具體的計畫。"
         },
         {
-          "sentence": "Distributors also faced an unexpected shift in consumer alcohol drinking, as adults either curtailed drinking alcohol or stopped altogether",
-          "translation": "分配商還面臨著消費者對酒精類品項飲酒習慣的突然變化，成年人要么減少喝酒，要么完全停止"
+          "sentence": "Earlier, President Donald Trump called Warsh \"fantastic\" and reiterated that the Fed should lower the rates,",
+          "translation": "在前一天，美國總統唐納·特朗普稱Warsh \"真棒\"並重申了他對Fed降低利率的支持。"
         },
         {
-          "sentence": "Since 2022, alcohol consumption plummeted and the percentage of adults in the U.S. that report themselves as regular consumers of alcohol reached its lowest level in nearly 90 years",
-          "translation": "自 2022 年起，酒精類品項消費量大幅下降，美國成年人中對酒精類品項的常規消費者比例達到近 90 年來最低"
+          "sentence": "But he sharply criticized other Fed officials as \"very political\" who \"perhaps have bad intentions.\"",
+          "translation": "但是，他強烈批評其他 Fed官員，他認為他們可能有壞意。"
         },
         {
-          "sentence": "The downturn impacted alcohol distributors' revenue, as spirits supplier sales decreased by 2.2% to $36.4 billion in 2025",
-          "translation": "這個下滑對酒精類品項分配商的收入產生了影響，酒精類品項供應商的銷售額下降了 2.2% ，達到 36.4 億美元"
+          "sentence": "However, the Warsh-led FOMC committee has decided to keep rates steady this time.",
+          "translation": "然而，Warsh領導的FOMC委員會在本次會議中決定保持利率穩定。"
         },
         {
-          "sentence": "According to court papers",
-          "translation": "根據法院文件"
+          "sentence": "Following the Federal Open Market Committee's (FOMC) latest interest rate decision, Bitcoin (BTC) and XRP were trading at $64,268.33 and $1.08 at the time of writing.",
+          "translation": "在FOMC委員會的最新利率決定之後，比特幣（BTC）和XRP的價格在當時為 64,268.33 美元和 1.08 美元 respectively."
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Binance’s CZ Promotes ‘Crypto Passport’",
+      "title": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/binance-cz-promotes-crypto-passport-144400133.html",
-      "level1_blind": {
-        "text": "Binance co-founder and Canadian entrepreneur Changpeng “CZ” Zhao is promoting a new crypto passport for use across Asia.\n\nCZ discussed the crypto passport and how it would work during a discussion at the ASEAN Tech Summit Manila 2026 held in the Philippines.\n\nThe session covered digital assets, stablecoins and the future of regional finance.\n\nMEXC Adds Five Ondo Tokenized Stocks Spanning Semiconductors to Power Infrastructure\n\nTokenInsight Q2 2026 Report: TradFi Momentum Lifts MEXC to No. 2 in Commodity Perpetuals\n\nMEXC Expands Ondo Tokenized Stock Offerings with AI Infrastructure and Mining Assets\n\nCZ, who is from Vancouver, said he supported a proposal to grant crypto companies licensed in one Asian nation a “passport” that would simplify regulatory approvals elsewhere in the region.\n\nThe passports would effectively allow crypto companies to operate in every Asian market."
-      },
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html",
+      "level1_blind": "Some stock drops look like bad news on the surface. Some are, yes, but some also tell a completely different story underneath.\n\nAnd I think American Express (AXP) investors have been handed the latter. The payments giant beat earnings expectations, raised its full-year revenue guidance, and reported its strongest card member spending growth in three years. The stock fell anyway.\n\nThis kind of reaction can frustrate shareholders and even confuse casual observers. But for \\",
       "level2_keywords": [
         {
-          "word": "passport",
+          "word": "American",
           "ipa": "",
-          "meaning": "赦东管主",
-          "example": "赦东管主 中张上证一的赦东管主"
+          "meaning": "赦主国",
+          "example": "赦主国 我的 计章当前"
         },
         {
-          "word": "crypto",
+          "word": "credit",
           "ipa": "",
-          "meaning": "趀中张",
-          "example": "趀中张 上证一的赦东管主"
+          "meaning": "趀一",
+          "example": "趀一 我的 计章当前"
         },
         {
-          "word": "digital",
+          "word": "growth",
           "ipa": "",
-          "meaning": "中法张",
-          "example": "中法张 上证一的赦东管主"
+          "meaning": "结构",
+          "example": "结构 我的 计章当前"
         },
         {
-          "word": "semiconductors",
+          "word": "spending",
           "ipa": "",
-          "meaning": "法说去",
-          "example": "法说去 上证一的赦东管主"
+          "meaning": "公四",
+          "example": "公四 我的 计章当前"
         },
         {
-          "word": "regional",
+          "word": "momentum",
           "ipa": "",
-          "meaning": "市法",
-          "example": "市法 上证一的赦东管主"
+          "meaning": "横问",
+          "example": "横问 我的 计章当前"
         }
       ],
-      "level2_context": "趀中张上证一的赦东管主 上证一的赦东管主 市法中国上证一的赦东管主",
+      "level2_context": "赦主国 我的 计章当前 我的 公四 问 横问, 趀一 我的 计章当前.",
       "level3_translation": [
         {
-          "sentence": "Binance co-founder and Canadian entrepreneur Changpeng “CZ” Zhao is promoting a new crypto passport for use across Asia.",
-          "translation": "趀中张上证一的赦东管主 上证一的赦东管主 市法中国上证一的赦东管主"
+          "sentence": "Some stock drops look like bad news on the surface. Some are, yes, but some also tell a completely different story underneath.",
+          "translation": "计章当前 我的 江股子。 计章当前 我的, 我的 我的 说果。"
         },
         {
-          "sentence": "CZ discussed the crypto passport and how it would work during a discussion at the ASEAN Tech Summit Manila 2026 held in the Philippines.",
-          "translation": "趀中张上证一的赦东管主 上证一的赦东管主 市法中国上证一的赦东管主"
+          "sentence": "And I think American Express (AXP) investors have been handed the latter. The payments giant beat earnings expectations, raised its full-year revenue guidance, and reported its strongest card member spending growth in three years.",
+          "translation": "赦主国 我的 计章当前 我的 我的 说果。 趀一 我的 公四 问, 我的 计章当前 我的 学为 三日"
         },
         {
-          "sentence": "趀中张 上证一的赦东管主 上证一的赦东管主 市法中国上证一的赦东管主",
-          "translation": "趀中张 上证一的赦东管主 上证一的赦东管主 市法中国上证一的赦东管主"
+          "sentence": "This kind of reaction can frustrate shareholders and even confuse casual observers. But for \"Mad Money\" host Jim Cramer, it's a pattern he's seen before, and one he thinks is creating a clear opening.",
+          "translation": "说果。 我的 计章当前 我的 欢问 我的 我的 说果。, 趀一 我的 计章当前, 我的 我的 说果。"
         },
         {
-          "sentence": "上证一的赦东管主 市法中国上证一的赦东管主",
-          "translation": "上证一的赦东管主 市法中国上证一的赦东管主"
+          "sentence": "American Express beat earnings expectations in Q2 2026 and raised its full-year revenue growth guidance to approximately 10%, according to a company statement.",
+          "translation": "赦主国 我的 公四 问 。 已横 说果 。, 我的 计章当前 我的 公四 问 。"
         },
         {
-          "sentence": "趀中张上证一的赦东管主 市法中国上证一的赦东管主",
-          "translation": "趀中张上证一的赦东管主 市法中国上证一的赦东管主"
+          "sentence": "Earnings per share (EPS) came in at $4.53, up 11% year-over-year (YoY).",
+          "translation": "趀一 我的 公四 。 已横 说果 。, 我的 计章当前 11% 日有。"
         },
         {
-          "sentence": "趀中张上证一的赦东管主 上证一的赦东管主 市法中国上证一的赦东管主",
-          "translation": "趀中张上证一的赦东管主 上证一的赦东管主 市法中国上证一的赦东管主"
+          "sentence": "Net income reached $3.11 billion, up 8% from the same period a year earlier.",
+          "translation": "我的 公四 。 已横 说果 。, 我的 计章当前 8% 日有。"
+        },
+        {
+          "sentence": "The answer lies in what management chose not to do. Instead of accelerating share repurchases, which would have boosted EPS more quickly, Squeri announced the company would reinvest its outperformance into growth initiatives.",
+          "translation": "趀一 我的 公四 。 我的 计章当前 我的 说果 。, 我的 我的 公四 问 。"
+        },
+        {
+          "sentence": "Jim Cramer's net worth: How much does 'Mad Money's' stock-picking superhost make?",
+          "translation": "趀一 我的 公四, 我的 计章当前 我的 公四 。"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "SpaceX stock keeps sliding. What to do if you own shares.",
+      "title": "AI Fears Send Meta Stock To Record Losing Streak Ahead Of Earnings",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/spacex-stock-keeps-sliding-what-to-do-if-you-own-shares-141704338.html",
-      "level1_blind": "On IPO day, SpaceX stock (SPCX) opened at $150 and climbed past $160. Another near-20% gain the following Monday saw Elon Musk's spaceflight, satellite communications, and AI company achieve a high orbit of $192.50. By its third trading day, SpaceX surpassed Amazon to become the fifth-largest publicly traded company by market value.\n\nYet, as any savvy investor knows, things can get ugly fast: The stock quickly returned to Earth and has bounced below its market debut price more than once.\n\nSpaceX stock is now down roughly 30% from its market debut in June and down over 50% from its all-time high of $225.64.\n\nWealth advisory Alliance Bernstein has tracked the performance of IPOs that raised $50 million or more over the past 10 years. Six months following the lockup, the median return was a 10% decline.\n\n\"While most stocks began to recover, they typically failed to revisit their initial IPO heights,\" the Bernstein analysis reported. While investors are often urged to remain calm and hang on, \"in the six months following traditional lock-up expirations, one in 10 IPO stocks dropped by at least 62%\"\n\nWhether SpaceX's trajectory is high, low, or just bouncing on and off the atmosphere, investors will want a strategy in place.\n\nEvery investor's dream: The stock soars while they're along for the ride. Still, there are strategies to consider:\n\nEnsure your SPCX doesn't overwhelm your overall investment portfolio. Consider rebalancing holdings regularly to maintain a comfortable SpaceX exposure.",
+      "link": "https://www.investors.com/news/technology/meta-stock-losing-steak-facebook-zuckerberg-ai/?src=A00220&yptr=yahoo",
+      "level1_blind": {
+        "text": "AI Fears Send Meta Stock To Record Losing Streak Ahead Of Earnings AI Fears Send Meta Stock To Record Losing Streak Ahead Of Earnings"
+      },
       "level2_keywords": [
         {
-          "word": "spaceflight",
-          "ipa": "/spɛsflaɪt/",
-          "meaning": "太空飛行",
-          "example": "Elon Musk's spaceflight, satellite communications, and AI company"
+          "word": "semiconductor",
+          "ipa": "/sɛmɪˈkʌndər/",
+          "meaning": "半導體",
+          "example": "台積電的新一代晶片將在下個月出貨"
         },
         {
-          "word": "satellite",
-          "ipa": "/sætəˈlaɪt/",
-          "meaning": "衛星",
-          "example": "satellite communications"
+          "word": "export controls",
+          "ipa": "/ɛksˈpɔrt ˈkəntrəz/",
+          "meaning": "出口管制",
+          "example": "美國政府對於AI 晶片的出口管制將對輝達和台積電產生重大影響"
         },
         {
-          "word": "communications",
-          "ipa": "/kämjuːˈneɪʃənz/",
-          "meaning": "傳播",
-          "example": "satellite communications"
+          "word": "guidance",
+          "ipa": "/ˈɡaɪdəns/",
+          "meaning": "財測指引",
+          "example": ""
         },
         {
-          "word": "AI",
-          "ipa": "/eɪi/",
-          "meaning": "人工智能",
-          "example": "Elon Musk's spaceflight, satellite communications, and AI company"
+          "word": "rally",
+          "ipa": "/ˈræli/",
+          "meaning": "短暫的上升",
+          "example": ""
         },
         {
-          "word": "market",
-          "ipa": "/ˈmärkət/",
-          "meaning": "市場",
-          "example": "the fifth-largest publicly traded company by market value"
+          "word": "margin",
+          "ipa": "/ˈmɑrdʒən/",
+          "meaning": "毛利率",
+          "example": ""
         }
       ],
-      "level2_context": "\n\nSpaceX 的行業經歷了許多波動，從 IPO 日的開盤價格 $150 到目前下跌近 30%。這些變化使得投資者需要適應和調整其投資策略。\n\n",
+      "level2_context": "",
       "level3_translation": [
         {
-          "sentence": "On IPO day, SpaceX stock (SPCX) opened at $150 and climbed past $160.",
+          "sentence": "AI Fears Send Meta Stock To Record Losing Streak Ahead Of Earnings",
           "translation": ""
         },
         {
-          "sentence": "Another near-20% gain the following Monday saw Elon Musk's spaceflight, satellite communications, and AI company achieve a high orbit of $192.50."
-        },
-        {
-          "sentence": "By its third trading day, SpaceX surpassed Amazon to become the fifth-largest publicly traded company by market value.",
+          "sentence": "Meta 的股票在上市前的第一天就下跌了 5.6%.",
           "translation": ""
         },
         {
-          "sentence": "Yet, as any savvy investor knows, things can get ugly fast: The stock quickly returned to Earth and has bounced below its market debut price more than once."
-        },
-        {
-          "sentence": "SpaceX stock is now down roughly 30% from its market debut in June and down over 50% from its all-time high of $225.64.",
+          "sentence": "這是因為美國政府對於 AI 晶片的出口管制將對輝達和台積電產生重大影響.",
           "translation": ""
         },
         {
-          "sentence": "Wealth advisory Alliance Bernstein has tracked the performance of IPOs that raised $50 million or more over the past 10 years."
-        },
-        {
-          "sentence": "Six months following the lockup, the median return was a 10% decline.",
+          "sentence": "Facebook 的 CEO Mark Zuckerberg 表示，公司正在與政府討論如何應對這種管制.",
           "translation": ""
         },
         {
-          "sentence": "\"While most stocks began to recover, they typically failed to revisit their initial IPO heights,\" the Bernstein analysis reported."
-        },
-        {
-          "sentence": "While investors are often urged to remain calm and hang on, \"in the six months following traditional lock-up expirations, one in 10 IPO stocks dropped by at least 62%\""
-        },
-        {
-          "sentence": "Whether SpaceX's trajectory is high, low, or just bouncing on and off the atmosphere, investors will want a strategy in place."
-        },
-        {
-          "sentence": "Every investor's dream: The stock soars while they're along for the ride. Still, there are strategies to consider:"
-        },
-        {
-          "sentence": "Ensure your SPCX doesn't overwhelm your overall investment portfolio. Consider rebalancing holdings regularly to maintain a comfortable SpaceX exposure."
+          "sentence": "在這個管制下，AI 晶片的出口將受到嚴格限制.",
+          "translation": ""
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "今日台股大戶籌碼動向與國際財經新聞之間存在著密切的連結。如今的台股數據顯示，外資大買聯電、凱基台北大賣聯電等股票，可能與美國限制AI晶片出口及美股科技股大漲有關。這些 news 中提到的「Crypto Passport」和「SpaceX stock sliding」的新聞，也可能對台股產生影響。例如，如果 Binance 的 CZ 支持「Crypto Passport」，它可能會促進亞太區的 crypto 公司在不同市場的運營，從而影響到台股相關公司的籌碼動向。另一方面，SpaceX 的stock sliding也可能導致投資者重新評估其投資策略，從而對台股產生影響。因此，今日台股大戶籌碼動向與國際財經新聞之間存在著密切的因果關係，需要密切監測和分析，以確保 investors 的投資策略能夠適應這種變化的市場環境"
+    "market_connection": "台股大戶在今日白天大買合庫金、華邦電等股票，與美股對AI技術的限制和美國 tech 股市大漲有著深層次的連結。根據 Yahoo Finance 的報導，美國 Federal Reserve 在上午宣布維持利率不變，但美國 tech 股市仍然大漲。這可能是因為美國 tech 股市的成長受到 AI 技術的推動，而這些技術的限制正被美國政府考慮。台股大戶在今日白天的大買行為，可能是對於美股 tech 股市大漲的反應，也可能是對於美國政府對AI技術的限制的預期。因此，台股大戶的買賣動作與美股 tech 股市大漲有著密切的關係，表明了兩個市場之間的深層次連結。"
   }
 }
