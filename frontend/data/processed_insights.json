@@ -1,425 +1,366 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "stock_uncle_insight": {
-    "date_header": "7/31 法人與主力大戶主要買超股票",
+    "date_header": "8/1 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃金融與航空，撤出科技權值",
-        "stocks": [
-          {
-            "stock_name": "合庫金",
-            "ticker": "5880",
-            "description": "肖年仔，你看外資狂掃 4.26 萬張合庫金，這擺明就是把錢從漲多的科技股「搬家」到金融股，看好其防禦性跟穩定收益，這就是避險！"
-          },
-          {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "外資買超 3.63 萬張華邦電，但投信卻在賣，這檔DRAM股後續要觀察外資是真鎖碼還是短線「黑白買」，韭菜們別傻傻去追高。"
-          },
-          {
-            "stock_name": "長榮航",
-            "ticker": "2618",
-            "description": "外資大買 3.07 萬張長榮航，航空股旺季效應加上解封題材，外資在「卡位」避險兼賺題材，這波行情有搞頭。"
-          },
-          {
-            "stock_name": "玉山金",
-            "ticker": "2884",
-            "description": "外資買超 2.85 萬張玉山金，金融股是這波外資的「資金避風港」，穩定配息加上Fed不升息，吸引力十足，這就是穩！"
-          },
-          {
-            "stock_name": "臺企銀",
-            "ticker": "2834",
-            "description": "外資買超 2.74 萬張臺企銀，跟其他金控股一樣，外資在找低基期、高殖利率的標的，這就是大戶的眼光。"
-          },
-          {
-            "stock_name": "統一",
-            "ticker": "1216",
-            "description": "外資買超 2.54 萬張統一，食品股也是防禦性標的，市場震盪時資金會往這裡靠，穩健型大戶的最愛。"
-          },
-          {
-            "stock_name": "三商壽",
-            "ticker": "2867",
-            "description": "外資買超 1.90 萬張三商壽，壽險股受惠於利率維持高檔，外資也在「卡位」，這波壽險股有機會。"
-          },
-          {
-            "stock_name": "第一金",
-            "ticker": "2892",
-            "description": "外資買超 1.48 萬張第一金，金融股是外資這波的「真愛」，買超榜上佔了一大半，避險意圖很明顯。"
-          },
-          {
-            "stock_name": "中鋼",
-            "ticker": "2002",
-            "description": "外資買超 1.38 萬張中鋼，傳產龍頭股，也是相對穩定的選擇，市場不好時，這種股票就是「避風港」。"
-          },
-          {
-            "stock_name": "台新新光金",
-            "ticker": "2887",
-            "description": "外資買超 1.07 萬張台新新光金，金融股買好買滿，外資的避險意圖很明顯，肖年仔要看懂。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：逢低承接ETF，調整科技持股",
+        "group_title": "1. 外資大戶：狂掃金融、ETF與航空，倒貨傳產與部分科技",
         "stocks": [
           {
             "stock_name": "元大台灣50",
             "ticker": "0050",
-            "description": "投信買超 5793 張 0050，跟外資大賣對作，可能是在逢低承接，或為基金部位做平衡，這就是「本土國家隊」的操盤手法。"
+            "description": "肖年仔，你看外資狂掃 8.4 萬張 0050，這擺明是資金在找避風港，不想單壓個股，又怕大盤跌太深，先買個大盤指數型 ETF 避險啦！"
           },
           {
-            "stock_name": "大成鋼",
-            "ticker": "2027",
-            "description": "投信買超 4958 張大成鋼，傳產股也是避險選項之一，可能看好其基本面或低基期，這就是找穩定的標的。"
+            "stock_name": "凱基金",
+            "ticker": "2883",
+            "description": "外資大買 5.5 萬張凱基金，還有其他金融股，這就是標準的「高檔避險」操作，升息環境下，金融股相對有撐，資金先躲進去卡位。"
           },
           {
-            "stock_name": "力成",
-            "ticker": "6239",
-            "description": "投信買超 3685 張力成，半導體封測股，可能看好其產業前景，但同時又賣其他半導體，有點「黑白猜」的感覺。"
+            "stock_name": "鴻海",
+            "ticker": "2317",
+            "description": "鴻海被外資買超近 5 萬張，投信也跟著買，這檔權值股是市場的風向球，外資在佈局，可能看好下半年電子旺季，但也要小心是不是拉高出貨的起手式。"
           },
           {
-            "stock_name": "京元電子",
-            "ticker": "2449",
-            "description": "投信買超 3525 張京元電子，跟力成一樣，投信對部分半導體封測股有興趣，但整體科技股壓力還在。"
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "外資買超 4 萬張長榮航，華航也買了 3.7 萬張，這很明顯是賭解封題材，航空股最近有點熱，但肖年仔，追高要小心，別當了隔日沖的「接刀仔」！"
           },
           {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "投信買超 3502 張兆豐金，金融股也是投信的菜，跟外資有志一同，這就是穩健配置。"
-          },
-          {
-            "stock_name": "國泰金",
-            "ticker": "2882",
-            "description": "投信買超 2752 張國泰金，大型金控股，穩定性高，適合基金配置，這就是「作帳」的好標的。"
-          },
-          {
-            "stock_name": "欣興",
-            "ticker": "3037",
-            "description": "投信買超 2515 張欣興，ABF載板股，可能看好其長期趨勢，但短期科技股壓力仍在，這就是賭長線。"
-          },
-          {
-            "stock_name": "華南金",
-            "ticker": "2880",
-            "description": "投信買超 2422 張華南金，金融股買好買滿，避險意味濃厚，這就是跟著大戶走。"
-          },
-          {
-            "stock_name": "致茂",
-            "ticker": "2360",
-            "description": "投信買超 1518 張致茂，自動化測試設備股，可能看好其在半導體產業的應用，這就是找利基型股票。"
-          },
-          {
-            "stock_name": "南亞",
-            "ticker": "1303",
-            "description": "投信買超 1342 張南亞，塑化龍頭股，也是傳產的避險標的，這就是找低基期。"
+            "stock_name": "元大高股息",
+            "ticker": "0056",
+            "description": "外資也買了 3.6 萬張 0056，跟 0050 一樣，都是在找穩定性，高股息 ETF 在市場震盪時，是法人喜歡的「資金避風港」。"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：跟風金融避險，小敲面板與營建",
+        "group_title": "2. 投信大戶（本土國家隊）：鎖碼權值股與金融，為作帳鋪路",
         "stocks": [
           {
-            "stock_name": "彰銀",
-            "ticker": "2801",
-            "description": "自營商買超 3375 張彰銀，內資主力也跟著外資「卡位」金融股，避險意味濃厚，這就是跟風操作。"
-          },
-          {
-            "stock_name": "三商壽",
-            "ticker": "2867",
-            "description": "自營商買超 3136 張三商壽，壽險股也是內資看好的避險標的，這就是找穩定的資產。"
-          },
-          {
-            "stock_name": "第一金",
-            "ticker": "2892",
-            "description": "自營商買超 3052 張第一金，金融股是這波內資的「真愛」，跟外資一樣狂掃，這就是大戶共識。"
-          },
-          {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "自營商買超 1223 張兆豐金，金融股的穩定性吸引內資進場，這就是穩健配置。"
+            "stock_name": "台積電",
+            "ticker": "2330",
+            "description": "投信大買 7 千多張台積電，這就是國家隊的標準操作，護盤兼作帳，台積電穩住，大盤才有底氣，也是基金經理人年底績效的壓艙石。"
           },
           {
             "stock_name": "華南金",
             "ticker": "2880",
-            "description": "自營商買超 926 張華南金，內資也看好金控股的防禦性，這就是市場共識。"
+            "description": "投信狂掃近 6 千張華南金，富邦金、兆豐金、永豐金、元大金、中信金也都在買超名單，本土國家隊跟外資一樣，都把金融股當成現階段的「安全牌」。"
           },
           {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "自營商買超 648 張友達，但外資大賣，自營商這筆可能是「避險盤」的短線操作，或是看好面板股的跌深反彈，這就是「黑白猜」。"
+            "stock_name": "鴻海",
+            "ticker": "2317",
+            "description": "投信也買了 3.5 千張鴻海，跟外資同步買進，顯示對這檔電子權值股的共識度高，可能是看好其在供應鏈中的地位，為下半年電子旺季提前佈局。"
           },
           {
-            "stock_name": "日月光投控",
-            "ticker": "3711",
-            "description": "自營商買超 594 張日月光投控，半導體封測龍頭，可能也是短線操作或權證避險，這就是自營商的靈活。"
+            "stock_name": "緯創",
+            "ticker": "3231",
+            "description": "投信買超 3.1 千張緯創，這檔AI概念股最近很夯，投信買進可能是看好其AI伺服器題材，但也要留意是不是在「拉高出貨」前的最後一波點火。"
           },
           {
-            "stock_name": "合庫金",
-            "ticker": "5880",
-            "description": "自營商買超 555 張合庫金，金融股是內資避險的首選，這就是市場的主流。"
+            "stock_name": "強茂",
+            "ticker": "2481",
+            "description": "投信買超 2.4 千張強茂，但外資卻在賣超，這就是籌碼對作，投信可能看好其二極體產業前景，或是想拉抬股價，但外資不買單，小心被「割韭菜」。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：避險兼短打，面板股有異動",
+        "stocks": [
+          {
+            "stock_name": "富邦科技",
+            "ticker": "0052",
+            "description": "自營商大買 1.1 萬張富邦科技 ETF，跟外資買 0050 類似，都是在做大盤避險，或是看好科技股整體表現，但這種 ETF 買超，很多是避險單，別太高興。"
           },
           {
-            "stock_name": "威健",
-            "ticker": "3033",
-            "description": "自營商買超 489 張威健，電子零組件通路商，可能也是短線題材操作，這就是找小機會。"
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "自營商也買了近 6 千張 0050，跟外資英雄所見略同，市場不確定性高，先買 ETF 降低風險，這就是自營部的「避險盤」啦！"
           },
           {
-            "stock_name": "愛山林",
-            "ticker": "2540",
-            "description": "自營商買超 425 張愛山林，營建股，可能看好房市或資產題材，這就是找潛力股。"
+            "stock_name": "三商壽",
+            "ticker": "2867",
+            "description": "自營商買超 3.4 千張三商壽，第一金也買了 2.2 千張，這跟外資、投信一樣，都看好金融股的防禦性，尤其壽險股在升息環境下有機會受惠。"
+          },
+          {
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "肖年仔，你看這有趣了，外資大賣 1.2 萬張群創，結果自營商卻買了 2.1 千張，友達也買了 7 百張。這很可能是內資主力在「接刀」，賭面板跌深反彈，或是外資倒貨給內資，要小心別被套牢了。"
+          },
+          {
+            "stock_name": "台積電",
+            "ticker": "2330",
+            "description": "自營商也買了 5 百多張台積電，雖然量不大，但三大法人都同步買進台積電，這就是市場的共識，台積電就是穩盤的定海神針。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔避險與資金避風港（金融、航空、傳產）",
-        "strategy_content": "肖年仔，你看外資跟自營商，狂掃金融股，還有長榮航、中鋼、統一這些傳產，這擺明就是大盤在高檔震盪，科技股漲多有壓力，資金要找地方「避風港」啦！Fed雖然沒升息，但通膨壓力還在，金融股的利差收益跟穩定配息，就成了這些大戶的「真愛」。航空股則是看旺季效應，解封後人潮回流，營收有想像空間。這就是典型的「高檔避險」操作，把錢從高風險板塊撤出來，移到有防禦性或旺季題材的板塊。"
+        "strategy_title": "策略一：高檔避險與資金避風港（金融、ETF、航空）",
+        "strategy_content": "肖年仔，你看三大法人，尤其是外資和自營商，狂掃金融股和像 0050、0056 這種大盤型 ETF，這擺明是看到美國聯準會雖然暫停升息，但市場對未來升息的預期還在，華爾街對通膨的擔憂沒解除，資金當然要找地方躲。金融股在升息環境下相對有支撐，ETF 則是分散風險、降低波動的好工具。航空股嘛，長榮航、華航被外資狂買，這就是賭解封題材，但這種題材股，主力常常是「拉高出貨」，肖年仔別傻傻去「接刀」啊！"
       },
       {
-        "strategy_title": "策略二：科技股「倒貨」與資金輪動",
-        "strategy_content": "外資這次大賣聯電、鴻海、廣達、友達這些科技權值股，連0050都「倒貨」六萬多張，這很明顯是在「結帳」啦！你看Meta都因為AI疑慮股價創新低，美股科技股也不是鐵板一塊。這些大戶把錢從漲多的科技股抽出來，轉進金融、傳產，這就是資金在「輪動」。韭菜們別傻傻去「接刀」，以為跌下來就是便宜，搞不好後面還有得跌，小心「割韭菜」！"
+        "strategy_title": "策略二：科技權值股的法人分歧與作帳行情",
+        "strategy_content": "投信大買台積電、鴻海、緯創，這很明顯是本土國家隊在顧盤，也是為年底作帳鋪路。台積電是台灣的護國神山，穩住它大盤就穩一半。鴻海、緯創則搭上 AI 題材，微軟財報亮眼也帶動科技股氣勢。但你看外資卻在賣聯電、華邦電這些半導體股，這顯示法人對科技股的看法有分歧，有些是真看好，有些則是在調整持股結構，把資金從部分半導體撤出，轉往其他防禦性標的。肖年仔，別看到科技股就黑白買，要看清楚主力在玩什麼把戲。"
       },
       {
-        "strategy_title": "策略三：投信「作帳」與「黑白猜」",
-        "strategy_content": "投信這批「本土國家隊」就比較複雜了，他們一方面跟外資對作，買進0050，可能是在逢低承接或為基金部位做平衡，但另一方面又跟外資一樣賣出華邦電、聯電這些科技股，顯示他們對部分科技股也是有「結帳」壓力。同時也買進一些金融股跟傳產（大成鋼、南亞），這就是典型的「作帳」行情，在月底前調整持股，讓基金績效好看一點，但整體策略看起來有點「黑白猜」，沒有外資那麼明確的避險方向。"
+        "strategy_title": "策略三：傳產與面板的籌碼戰與短線對作",
+        "strategy_content": "外資大賣塑化股（台塑、台塑化、台化、中纖、和桐）和面板股（群創、彩晶），這很可能是對這些景氣循環股的後市不看好，或是趁高檔「倒貨」。但有趣的是，自營商卻逆勢買進群創、友達這些面板股。這很可能是內資主力在「接刀」，賭一個跌深反彈，或是外資在跟自營商玩「對敲」，透過避險單來調整部位。肖年仔，這種籌碼對作的股票，波動會很大，沒有三兩三，別輕易去「接刀」，小心被「割韭菜」！"
       }
     ],
-    "summary": "肖年仔，這盤面很清楚，外資跟自營商都在「高檔避險」，把錢從科技股「倒貨」到金融、傳產。韭菜們別傻傻去「接刀」，跟著大戶走，找穩定的「資金避風港」才是王道！",
+    "summary": "肖年仔，今天三大法人操作很明顯，外資、自營商都在找避風港，買金融、ETF，投信則在鎖碼權值股為作帳鋪路。科技股有撐，但傳產和面板籌碼交換激烈，別傻傻追高，小心被主力「倒貨」！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 1.49 萬張",
-        "uncle_logic": "這「假外資」或「真外資」不好說，但這麼大筆買進合庫金，很可能是看好金融股的防禦性跟殖利率，為後續的波段行情「鎖碼」，不是玩短線的，肖年仔要看仔細。"
+        "action": "買超 2.9 萬張",
+        "uncle_logic": "美商高盛狂買 0050，這就是典型的外資大戶操作，不是在做大盤避險，就是對台灣整體市場有信心，但又不想單壓個股，所以買 ETF 分散風險，穩紮穩打。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 1350 張",
-        "uncle_logic": "「隔日沖」大本營凱基台北買彰銀？這很耐人尋味。金融股通常不是隔日沖的菜，除非有什麼特殊消息或預期短期會有波動，不然這筆買超可能不是純粹的隔日沖，搞不好是想「鎖碼」一段時間，肖年仔要多注意，別被「隔日沖」給騙了。"
+        "action": "買超 4.5 千張",
+        "uncle_logic": "凱基台北買富邦科技 ETF，這分點是出了名的「隔日沖」大戶，買 ETF 可能是看好科技股整體氣勢，想賺個短線價差，明天很可能就「倒貨」給你，肖年仔要小心。"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 2606 張",
-        "uncle_logic": "投信自己買自家元大台灣50，這很正常，可能是在進行基金部位的調整，或是看到外資大賣0050後，認為有逢低承接的機會，但這跟外資對作，短期內0050可能還是震盪。"
+        "action": "買超 3.1 千張",
+        "uncle_logic": "元大投信買台積電，這就是國家隊的標準動作，台積電是台灣股市的定海神針，投信買進除了穩定大盤，也是為基金績效「作帳」做準備，穩穩地賺。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 1.81 萬張",
-        "uncle_logic": "摩根大通大賣元大台灣50，跟外資整體賣超0050的趨勢一致，顯示外資對大盤指數的看法偏保守，正在「倒貨」權值股，把資金撤出，韭菜們別傻傻去「接刀」，小心被套牢！"
+        "action": "賣超 6.4 千張",
+        "uncle_logic": "摩根大通大賣聯電，這跟外資整體賣超聯電的趨勢一致，顯示大戶對部分半導體股的看法偏空，或是正在調整其在半導體產業的持股佈局，肖年仔別傻傻去「接刀」啊！"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "Markets react to Fed's July interest rate decision",
+      "title": "Fed interest-rate decision rocks Wall Street's inflation fears",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/economy/policy/articles/markets-react-feds-july-interest-210558874.html",
+      "link": "https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html",
       "level1_blind": {
-        "text": "On July 29, the Federal Reserve announced its decision on interest rates following its two-day policy meeting.\n\nAs expected, the central bank decided to keep the benchmark interest rate unchanged in the 3.50%-3.75% range.\n\nThough the Fed's newly appointed chair, Kevin Warsh, has emphasized the goal of lowering inflation to 2%, he hasn't outlined a detailed plan.\n\nEarlier, President Donald Trump called Warsh \"fantastic\" and reiterated that the Fed should lower the rates, \\\n\"He wants to do the right thing. I know what he wants to do.\\\n\"\n\nBut he sharply criticized other Fed officials as \"very political\" who \\\n\"perhaps have bad intentions.\\\n\"\n\nHowever, the Warsh-led FOMC committee has decided to keep rates steady this time.\n\nFollowing the Federal Open Market Committee's (FOMC) latest interest rate decision, Bitcoin (BTC) and XRP were trading at $64,268.33 and $1.08 at the time of writing."
+        "text": "The Federal Reserve"
       },
       "level2_keywords": [
         {
-          "word": "interest",
-          "ipa": "/ɪnˈtɛrəst/",
-          "meaning": "貢獻給予的利率",
-          "example": "該公司的利率為 5%。"
-        },
-        {
-          "word": "rate",
-          "ipa": "/reit/",
-          "meaning": "價格或費用",
-          "example": "該公司的股價在市場上達到新高."
+          "word": "inflation",
+          "ipa": "",
+          "meaning": "趀主管囶",
+          "example": "趀主管囶 成度一个 2% 管囶"
         },
         {
           "word": "Fed",
-          "ipa": "/fɛd/",
-          "meaning": "美國中央銀行",
-          "example": "美國中央銀行的利率決定對全球金融產生了深遠影響."
+          "ipa": "",
+          "meaning": "管囶",
+          "example": "管囶 趀主管囶"
         },
         {
-          "word": "inflation",
-          "ipa": "/ɪnˈflæʃən/",
-          "meaning": "物價上升",
-          "example": "經濟學家認為，物價上升是由於供應不足所導致."
+          "word": "interest-rate",
+          "ipa": "",
+          "meaning": "私度管囶",
+          "example": "私度管囶 成一个 5.2% 管囶"
         },
         {
-          "word": "Bitcoin",
-          "ipa": "/ˈbiːtɪnaɪ/",
-          "meaning": "一種數位貨幣",
-          "example": "比特幣的價格在市場上波動不定."
+          "word": "policy",
+          "ipa": "",
+          "meaning": "鲊发",
+          "example": "鲊发 成一个 9-3"
+        },
+        {
+          "word": "market",
+          "ipa": "",
+          "meaning": "市欢",
+          "example": "市欢 成一个 1,153.18 管囶"
         }
       ],
-      "level2_context": "\n美國中央銀行（Fed）的利率決定對全球金融產生了深遠影響。近期，Fed的新任主席Kevin Warsh強調減少通胀率至2%的目標，但尚未提出具體計畫。\n\n美國總統唐納·特朗普在此前批評其他 Fed官員的行為，他認為他們可能有「壞意」。他還重申了他對Fed降低利率的支持，希望能讓利率達到過去30年的最低水平。\n\n然而，Warsh領導的FOMC委員會在本次會議中決定保持利率穩定。\n\n此外， Bitcoin 和 XRP 的價格在此前的一天內出現了大幅波動.",
+      "level2_context": "趀主管囶 度个 5庁一个 2% 管囶, 成一个 9-3 管囶 成一个 私度管囶 趀主管囶.",
       "level3_translation": [
         {
-          "sentence": "On July 29, the Federal Reserve announced its decision on interest rates following its two-day policy meeting.",
-          "translation": "美國中央銀行在七月二十九日宣布其對利率的決定，該決定是在兩天內進行的政策會議之後發出的。"
+          "sentence": "The Federal Reserve's July policymaking meeting ended with no interest-rate hikes nor forward guidance but with a boatload of Fed speak and word salad.",
+          "translation": "管囶 市任加有发金的杌小迄果一个 私度管囶 成一个 车子代です。"
         },
         {
-          "sentence": "As expected, the central bank decided to keep the benchmark interest rate unchanged in the 3.50%-3.75% range.",
-          "translation": "如預期，中央銀行決定在 3.50% 至 3.75% 的範圍內保持利率不變。"
+          "sentence": "Kevin Warsh insisted the Fed will still be able to lower inflation to its 2% target — a measure it has missed for five years — but didn't say how.",
+          "translation": "趀主管囶 度个 成一个 2% 管囶, 成一个 5庁一个 私度管囶 趀主管囶"
         },
         {
-          "sentence": "Though the Fed's newly appointed chair, Kevin Warsh, has emphasized the goal of lowering inflation to 2%, he hasn't outlined a detailed plan.",
-          "translation": "雖然新任Fed主席Kevin Warsh強調降低通胀率至2%的目標，但他並未提出具體的計畫。"
+          "sentence": "He also wants U.S. households, businesses and investors to continue to be patient with the central bank.",
+          "translation": "成一个 中园人, 趃叉学一个 我一个 管囶 趀主管囶"
         },
         {
-          "sentence": "Earlier, President Donald Trump called Warsh \"fantastic\" and reiterated that the Fed should lower the rates,",
-          "translation": "在前一天，美國總統唐納·特朗普稱Warsh \"真棒\"並重申了他對Fed降低利率的支持。"
+          "sentence": "The 30-year Treasury yield hit 5.2% and the Dow closed down 1,153.18 points (or -2.19%) signaling Wall Street's concern that the new Fed chair's approach won't be able to beat back inflation much longer thus leading to even higher rate hikes.",
+          "translation": "云发度管囶 趀主 5.2% 趃叉学一个 -2.19% 成一个 管囶 趀主管囶 成一个 私度管囶 趀主管囶"
         },
         {
-          "sentence": "But he sharply criticized other Fed officials as \"very political\" who \"perhaps have bad intentions.\"",
-          "translation": "但是，他強烈批評其他 Fed官員，他認為他們可能有壞意。"
+          "sentence": "Cetera Financial Group Chief Investment Officer Gene Goldman said that the market was not \"shrugging off\" the hold.",
+          "translation": "度任加发金的杌小迄果一个 我一个 私度管囶"
         },
         {
-          "sentence": "However, the Warsh-led FOMC committee has decided to keep rates steady this time.",
-          "translation": "然而，Warsh領導的FOMC委員會在本次會議中決定保持利率穩定。"
-        },
-        {
-          "sentence": "Following the Federal Open Market Committee's (FOMC) latest interest rate decision, Bitcoin (BTC) and XRP were trading at $64,268.33 and $1.08 at the time of writing.",
-          "translation": "在FOMC委員會的最新利率決定之後，比特幣（BTC）和XRP的價格在當時為 64,268.33 美元和 1.08 美元 respectively."
+          "sentence": "“It's a market betting a hike is coming sooner. September, right after Jackson Hole and with a new dot plot in hand, is shaping up to be the meeting that matters,' Goldman told TheStreet in an email.",
+          "translation": "“市欢 成一个 私度管囶 趀主庁一个. 9月, 杌小迄果一个 成一个 管囶 我一个 私度管囶"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
+      "title": "Jersey Mike’s Prices Below What Blackstone Paid For It",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html",
-      "level1_blind": "Some stock drops look like bad news on the surface. Some are, yes, but some also tell a completely different story underneath.\n\nAnd I think American Express (AXP) investors have been handed the latter. The payments giant beat earnings expectations, raised its full-year revenue guidance, and reported its strongest card member spending growth in three years. The stock fell anyway.\n\nThis kind of reaction can frustrate shareholders and even confuse casual observers. But for \\",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jersey-mike-prices-below-blackstone-152344444.html",
+      "level1_blind": "Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.\n\nBlackstone picked quite a week to sell Italian subs to the market, but maybe that's exactly the moment to take a breath, look around, and put some faith (and some capital) in the enduring magic of provolone and Danny DeVito.\n\nJMKE shares are open to the public Thursday, but roughly 86% of the company's voting power stays exactly where it's lived since 2024: tucked inside the world's largest private equity shop.\n\nWe can all agree Jersey Mike's makes a genuinely great sub (What? You got a problem with that take?), but valuing its shares is the harder part.\n\nOne stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here.\n\nCAVA looks like the obvious comp, since it's the last consumer-food IPO anyone bothered to remember, up double digits this year and still trading like the market's favorite grain bowl. Wrong shop to pair with JMKE's cappacuolo, though. CAVA sells build-your-own Mediterranean bowls to people who photograph lunch before they eat it. Jersey Mike's real mirror is standing one food court over, and it's had a considerably rougher year.\n\nJersey Mike's CEO Charlie Morrison spent a decade running Wingstop, from 2012 to 2022, and personally walked that company through its own celebrated 2015 IPO. Same franchise-heavy playbook. Same asset-light math. Same guy, pitching the exact unit-economics story to Wall Street for the second time in one career, which either makes him a savant or a man who's found one presentation he refuses to retire.\n\nAnd Wingstop, right now, is not a flattering mirror to stand next to. The stock is down roughly 40% this year, off more than 60% from its all-time high, dragged there by domestic same-store sales that fell 8.7% in a single quarter and management guidance that flipped from growth to decline. A stock that once commanded 77 to 80 times forward earnings now trades near 34 times, practically a decade low. None of that has anything to do with chicken. It's what happens the moment a beloved, heavily franchised concept runs out of easy new-store math, and the market has to price the actual restaurants instead of the growth story sold via adorable Danny DeVito commercials.",
       "level2_keywords": [
         {
-          "word": "American",
+          "word": "Blackstone",
           "ipa": "",
-          "meaning": "赦主国",
-          "example": "赦主国 我的 计章当前"
+          "meaning": "赦主市",
+          "example": "Blackstone 赦主市 我美一个民的七四"
         },
         {
-          "word": "credit",
+          "word": "provolone",
           "ipa": "",
-          "meaning": "趀一",
-          "example": "趀一 我的 计章当前"
+          "meaning": "王资这",
+          "example": "王资这 我美一个民的七四"
         },
         {
-          "word": "growth",
+          "word": "Danny DeVito",
           "ipa": "",
-          "meaning": "结构",
-          "example": "结构 我的 计章当前"
+          "meaning": "张三代六",
+          "example": "张三代六 我美一个民的七四"
         },
         {
-          "word": "spending",
+          "word": "Wingstop",
           "ipa": "",
-          "meaning": "公四",
-          "example": "公四 我的 计章当前"
+          "meaning": "食可",
+          "example": "食可 我美一个民的七四"
         },
         {
-          "word": "momentum",
+          "word": "IPO",
           "ipa": "",
-          "meaning": "横问",
-          "example": "横问 我的 计章当前"
+          "meaning": "学为爰代六",
+          "example": "学为爰代六 我美一个民的七四"
         }
       ],
-      "level2_context": "赦主国 我的 计章当前 我的 公四 问 横问, 趀一 我的 计章当前.",
+      "level2_context": "赦主市我美一个民的七四张三代六我美一个民的七四食可 我美一个民的七四",
       "level3_translation": [
         {
-          "sentence": "Some stock drops look like bad news on the surface. Some are, yes, but some also tell a completely different story underneath.",
-          "translation": "计章当前 我的 江股子。 计章当前 我的, 我的 我的 说果。"
+          "sentence": "Our analysts just identified a stock with the potential to be the next Nvidia.",
+          "translation": "我美学为爰代六我美一个民的七四"
         },
         {
-          "sentence": "And I think American Express (AXP) investors have been handed the latter. The payments giant beat earnings expectations, raised its full-year revenue guidance, and reported its strongest card member spending growth in three years.",
-          "translation": "赦主国 我的 计章当前 我的 我的 说果。 趀一 我的 公四 问, 我的 计章当前 我的 学为 三日"
+          "sentence": "Blackstone picked quite a week to sell Italian subs to the market, but maybe that's exactly the moment to take a breath, look around, and put some faith (and some capital) in the enduring magic of provolone and Danny DeVito.",
+          "translation": "赦主市 我美吃一个民的七四, 我美吃一个民的七四 我美一个民的七四, 我美吃一个民的七四"
         },
         {
-          "sentence": "This kind of reaction can frustrate shareholders and even confuse casual observers. But for \"Mad Money\" host Jim Cramer, it's a pattern he's seen before, and one he thinks is creating a clear opening.",
-          "translation": "说果。 我的 计章当前 我的 欢问 我的 我的 说果。, 趀一 我的 计章当前, 我的 我的 说果。"
+          "sentence": "Jersey Mike's CEO Charlie Morrison spent a decade running Wingstop, from 2012 to 2022, and personally walked that company through its own celebrated 2015 IPO.",
+          "translation": "食可 我美吃一个民的七四, 我美吃一个民的七四 我美吃一个民的七四, 2015年1一个民的七四"
         },
         {
-          "sentence": "American Express beat earnings expectations in Q2 2026 and raised its full-year revenue growth guidance to approximately 10%, according to a company statement.",
-          "translation": "赦主国 我的 公四 问 。 已横 说果 。, 我的 计章当前 我的 公四 问 。"
-        },
-        {
-          "sentence": "Earnings per share (EPS) came in at $4.53, up 11% year-over-year (YoY).",
-          "translation": "趀一 我的 公四 。 已横 说果 。, 我的 计章当前 11% 日有。"
-        },
-        {
-          "sentence": "Net income reached $3.11 billion, up 8% from the same period a year earlier.",
-          "translation": "我的 公四 。 已横 说果 。, 我的 计章当前 8% 日有。"
-        },
-        {
-          "sentence": "The answer lies in what management chose not to do. Instead of accelerating share repurchases, which would have boosted EPS more quickly, Squeri announced the company would reinvest its outperformance into growth initiatives.",
-          "translation": "趀一 我的 公四 。 我的 计章当前 我的 说果 。, 我的 我的 公四 问 。"
-        },
-        {
-          "sentence": "Jim Cramer's net worth: How much does 'Mad Money's' stock-picking superhost make?",
-          "translation": "趀一 我的 公四, 我的 计章当前 我的 公四 。"
+          "sentence": "A stock that once commanded 77 to 80 times forward earnings now trades near 34 times, practically a decade low.",
+          "translation": "学为爰代六 我美吃一个民的七四, 我美吃一个民的七四 学为爰代六 我美吃一个民的七四"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "AI Fears Send Meta Stock To Record Losing Streak Ahead Of Earnings",
+      "title": "Stocks Rally on Stellar Microsoft Earnings and Chip Stock Strength",
       "source": "Yahoo Finance",
-      "link": "https://www.investors.com/news/technology/meta-stock-losing-steak-facebook-zuckerberg-ai/?src=A00220&yptr=yahoo",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-stellar-microsoft-earnings-152140326.html",
       "level1_blind": {
-        "text": "AI Fears Send Meta Stock To Record Losing Streak Ahead Of Earnings AI Fears Send Meta Stock To Record Losing Streak Ahead Of Earnings"
+        "text": "The S&P 500 Index ($SPX) (SPY) today is up +0.86%, the Dow Jones Industrial Average ($DOWI) (DIA) is up +0.29%, and the Nasdaq 100 Index ($IUXX) (QQQ) is up +2.65%. September E-mini S&P futures (ESU26) are up +0.84%, and September E-mini Nasdaq futures (NQU26) are up +2.69%.\n\nStock indexes are rallying sharply today after strong growth at Microsoft reassured investors that massive spending on artificial intelligence is starting to pay off. Microsoft is up more than +13% after reporting late Wednesday that Q4 Azure and other cloud services revenue ex-forex rose +43%, better than the consensus of +39.3% and the fastest quarterly growth in four years. Microsoft's positive earnings are also fueling a sharp rally in chipmakers and AI-infrastructure stocks, pushing the overall market even higher. The markets will get another look at megacap earnings when Amazon.com and Apple report after today's close.\n\nNebius Stock Gets Another Wall Street Upgrade. Here's Why Investors Are Paying Attention.\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nOn the negative side, Meta Platforms is down more than -8% after a disappointing revenue forecast. Also, bond yields are rising on concerns that Fed Chair Warsh won't manage to curb inflation that has run above target for five straight years after the FOMC kept interest rates unchanged on Wednesday. The 10-year T-note yield is up +2 bp to 4.66%.\n\nToday's US economic news was mixed for stocks, with Q2 GDP growth below expectations despite strong consumer spending, but weekly jobless claims rose less than expected and the core PCE price index eased as expected.\n\nUS weekly initial unemployment claims rose +9,000 to 197,000, showing a stronger labor market than expectations of 200,000.\n\nUS Jun personal spending rose +0.3% m/m, weaker than expectations of +0.4% m/m, although May personal spending was revised upward to +0.9% m/m from the previously reported +0.7% m/m. Jun personal income rose +0.2% m/m, weaker than expectations of +0.3% m/m."
       },
       "level2_keywords": [
         {
-          "word": "semiconductor",
-          "ipa": "/sɛmɪˈkʌndər/",
-          "meaning": "半導體",
-          "example": "台積電的新一代晶片將在下個月出貨"
+          "word": "Microsoft",
+          "ipa": "",
+          "meaning": "微軟",
+          "example": "微軟的正確 forecast 是 +43%，遠超預期 +39.3% 的增長率"
         },
         {
-          "word": "export controls",
-          "ipa": "/ɛksˈpɔrt ˈkəntrəz/",
-          "meaning": "出口管制",
-          "example": "美國政府對於AI 晶片的出口管制將對輝達和台積電產生重大影響"
-        },
-        {
-          "word": "guidance",
-          "ipa": "/ˈɡaɪdəns/",
-          "meaning": "財測指引",
+          "word": "chipstock",
+          "ipa": "",
+          "meaning": "晶片股",
           "example": ""
         },
         {
-          "word": "rally",
-          "ipa": "/ˈræli/",
-          "meaning": "短暫的上升",
+          "word": "artificialintelligence",
+          "ipa": "",
+          "meaning": "人工智能",
           "example": ""
         },
         {
-          "word": "margin",
-          "ipa": "/ˈmɑrdʒən/",
-          "meaning": "毛利率",
+          "word": "cloudservices",
+          "ipa": "",
+          "meaning": "雲服務",
+          "example": ""
+        },
+        {
+          "word": "Nasdaq",
+          "ipa": "",
+          "meaning": "納斯達克",
           "example": ""
         }
       ],
-      "level2_context": "",
+      "level2_context": "\n\n這篇文章的主題是關於微軟（Microsoft）在 Q4 的財務報告中取得了非常出色的成績，尤其是在雲服務部門的增長率。這一成績使得股市大幅上漲，並且對晶片股和人工智能相關產業產生了積極的影響。\n\n然而，除了微軟的強勁成績外，這篇文章還提到了其他一些重要的財經信息，例如 Meta Platforms 的負面消息、 Fed Chair Warsh 的政策問題以及 US 的經濟數據。這些信息表明，目前的財經環境仍然存在許多挑戰和不確定性。\n\n因此，了解這些財經信息對於投資者和金融專業人士來說是非常重要的。\n",
       "level3_translation": [
         {
-          "sentence": "AI Fears Send Meta Stock To Record Losing Streak Ahead Of Earnings",
-          "translation": ""
+          "sentence": "The SµP 500 Index ($SPX) (SPY) today is up +0.86%, the Dow Jones Industrial Average ($DOWI) (DIA) is up +0.29%, and the Nasdaq 100 Index ($IUXX) (QQQ) is up +2.65%.",
+          "translation": "\n\nSµP 500 指數今日上漲 0.86%，道瓊指數今日上漲 0.29%， NASDAQ 100 指數今日上漲 2.65%。\n"
         },
         {
-          "sentence": "Meta 的股票在上市前的第一天就下跌了 5.6%.",
-          "translation": ""
+          "sentence": "Stock indexes are rallying sharply today after strong growth at Microsoft reassured investors that massive spending on artificial intelligence is starting to pay off.",
+          "translation": "\n\n股市大幅上漲，主要是因為微軟的強勁成績，讓投資人相信巨額的人工智能投入正在產生積極效果。\n"
         },
         {
-          "sentence": "這是因為美國政府對於 AI 晶片的出口管制將對輝達和台積電產生重大影響.",
-          "translation": ""
+          "sentence": "Microsoft is up more than +13% after reporting late Wednesday that Q4 Azure and other cloud services revenue ex-forex rose +43%, better than the consensus of +39.3% and the fastest quarterly growth in four years.",
+          "translation": "\n\n微軟今日上漲 13%以上，報導晚間的財務報告中，Q4 的雲服務部門收入外匯後增長率達到 43%，遠超預期 +39.3% 的增長率，並且是四年來最快的季度增長。\n"
         },
         {
-          "sentence": "Facebook 的 CEO Mark Zuckerberg 表示，公司正在與政府討論如何應對這種管制.",
-          "translation": ""
+          "sentence": "Microsoft's positive earnings are also fueling a sharp rally in chipmakers and AI-infrastructure stocks, pushing the overall market even higher.",
+          "translation": "\n\n微軟的正確預測也使得晶片股和人工智能相關產業股大幅上漲，進而推動整體市場的上漲。\n"
         },
         {
-          "sentence": "在這個管制下，AI 晶片的出口將受到嚴格限制.",
-          "translation": ""
+          "sentence": "The markets will get another look at megacap earnings when Amazon.com and Apple report after today's close.",
+          "translation": "\n\n在今天結束後，市場將再次關注大型企業（megacap）的財務報告，包括阿馬遜和蘋果。\n"
+        },
+        {
+          "sentence": "Nebius Stock Gets Another Wall Street Upgrade. Here's Why Investors Are Paying Attention.",
+          "translation": "\n\nNebius 股股在-wall street獲得了另一個升級。這是為什麼投資人關注的原因。\n"
+        },
+        {
+          "sentence": "Markets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.",
+          "translation": "\n\n股市快速變化，請通過我們的免費午餐時間 BarchartBrief 錄錄 Newsletter，獲得獨家圖表、分析和頭條新聞。\n"
+        },
+        {
+          "sentence": "On the negative side, Meta Platforms is down more than -8% after a disappointing revenue forecast.",
+          "translation": "\n\n惡劣的負面消息是，Meta 平台股在今天下跌 8%以上，預測不佳的財務報告。\n"
+        },
+        {
+          "sentence": "Also, bond yields are rising on concerns that Fed Chair Warsh won't manage to curb inflation that has run above target for five straight years after the FOMC kept interest rates unchanged on Wednesday.",
+          "translation": "\n\n此外，債券利率上漲，因為對於 Fed 主席 Warsh unable to curb 5 年連續超標的通胀。\n"
+        },
+        {
+          "sentence": "The 10-year T-note yield is up +2 bp to 4.66%.",
+          "translation": "\n\n10 年 T-債利率上漲 0.02%，達到 4.66%。\n"
+        },
+        {
+          "sentence": "Today's US economic news was mixed for stocks, with Q2 GDP growth below expectations despite strong consumer spending, but weekly jobless claims rose less than expected and the core PCE price index eased as expected.",
+          "translation": "\n\n今天的美國經濟數據對股市有一定的影響，Q2 GDP 增長率低於預期，但消費者支出強勁；雖然週末失業人數不如預期高，但核心 PCE價格指數降低符合預期。\n"
+        },
+        {
+          "sentence": "US weekly initial unemployment claims rose +9,000 to 197,000, showing a stronger labor market than expectations of 200,000.",
+          "translation": "\n\n美國週初失業人數上漲 9000 人，達到 19,700 人，表明勞動市場比預期更強壯。\n"
+        },
+        {
+          "sentence": "US Jun personal spending rose +0.3% m/m, weaker than expectations of +0.4% m/m, although May personal spending was revised upward to +0.9% m/m from the previously reported +0.7% m/m.",
+          "translation": "\n\n美國六月個人消費支出上漲 0.3%，低於預期 +0.4%，但五月的消費支出被修正為 +0.9%，從前報導的 +0.7% 上升。\n"
+        },
+        {
+          "sentence": "Jun personal income rose +0.2% m/m, weaker than expectations of +0.3% m/m.",
+          "translation": "\n\n美國六月個人收入上漲 0.2%，低於預期 +0.3%。\n"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "台股大戶在今日白天大買合庫金、華邦電等股票，與美股對AI技術的限制和美國 tech 股市大漲有著深層次的連結。根據 Yahoo Finance 的報導，美國 Federal Reserve 在上午宣布維持利率不變，但美國 tech 股市仍然大漲。這可能是因為美國 tech 股市的成長受到 AI 技術的推動，而這些技術的限制正被美國政府考慮。台股大戶在今日白天的大買行為，可能是對於美股 tech 股市大漲的反應，也可能是對於美國政府對AI技術的限制的預期。因此，台股大戶的買賣動作與美股 tech 股市大漲有著密切的關係，表明了兩個市場之間的深層次連結。"
+    "market_connection": "美股和台股在上午的國際財經新聞中出現了相似的趨勢，尤其是在Fed interest-rate decision 和 Microsoft 的強大 earnings 中。這可能表明兩者間存在著一個共同的市場動向，例如對於 inflation 的關注或對於 tech 股票的 bullish Sentiment。然而，美股和台股在下午的國際財經新聞中出現了不同的趨勢，尤其是在 Jersey Mike's Prices Below What Blackstone Paid For It 和 Stocks Rally on Stellar Microsoft Earnings and Chip Stock Strength 中。這可能表明兩者間存在著一個共同的市場動向，例如對於 tech 股票的 bullish Sentiment 或對於 inflation 的關注。因此，我們需要進一步分析和調整我們的推理，確保我們能夠準確地捕捉到美股和台股之間的市場動向和趨勢。"
   }
 }

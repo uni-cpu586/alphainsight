@@ -1,378 +1,378 @@
 {
-  "date": "2026-07-31",
-  "stock_market_date": "2026-07-30",
+  "date": "2026-08-01",
+  "stock_market_date": "2026-07-31",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "合庫金",
-          "ticker": "5880",
-          "net_buy_shares": 42650495
-        },
-        {
-          "rank": 2,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 36320840
-        },
-        {
-          "rank": 3,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 30788518
-        },
-        {
-          "rank": 4,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 28515494
-        },
-        {
-          "rank": 5,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_buy_shares": 27497714
-        },
-        {
-          "rank": 6,
-          "stock_name": "統一",
-          "ticker": "1216",
-          "net_buy_shares": 25435437
-        },
-        {
-          "rank": 7,
-          "stock_name": "三商壽",
-          "ticker": "2867",
-          "net_buy_shares": 19092512
-        },
-        {
-          "rank": 8,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 14858671
-        },
-        {
-          "rank": 9,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_buy_shares": 13814222
-        },
-        {
-          "rank": 10,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 10702247
-        }
-      ],
-      "foreign_sell": [
-        {
-          "rank": 1,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_sell_shares": -60529603
+          "net_buy_shares": 84169249
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -35485588
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 55069724
         },
         {
           "rank": 3,
           "stock_name": "鴻海",
           "ticker": "2317",
-          "net_sell_shares": -33608017
+          "net_buy_shares": 49858145
         },
         {
           "rank": 4,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -32703722
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 48157669
         },
         {
           "rank": 5,
-          "stock_name": "廣達",
-          "ticker": "2382",
-          "net_sell_shares": -27311038
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 40012546
         },
         {
           "rank": 6,
-          "stock_name": "友訊",
-          "ticker": "2332",
-          "net_sell_shares": -11160864
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 37781188
         },
         {
           "rank": 7,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -10175291
+          "stock_name": "元大高股息",
+          "ticker": "0056",
+          "net_buy_shares": 36664666
         },
         {
           "rank": 8,
-          "stock_name": "中石化",
-          "ticker": "1314",
-          "net_sell_shares": -9009928
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_buy_shares": 29502066
         },
         {
           "rank": 9,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -8647108
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_buy_shares": 25973950
         },
         {
           "rank": 10,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -8245339
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 22905111
+        }
+      ],
+      "foreign_sell": [
+        {
+          "rank": 1,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -21658403
+        },
+        {
+          "rank": 2,
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_sell_shares": -14589184
+        },
+        {
+          "rank": 3,
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -12504631
+        },
+        {
+          "rank": 4,
+          "stock_name": "中纖",
+          "ticker": "1718",
+          "net_sell_shares": -11379565
+        },
+        {
+          "rank": 5,
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_sell_shares": -9623253
+        },
+        {
+          "rank": 6,
+          "stock_name": "彩晶",
+          "ticker": "6116",
+          "net_sell_shares": -8932857
+        },
+        {
+          "rank": 7,
+          "stock_name": "台化",
+          "ticker": "1326",
+          "net_sell_shares": -8348900
+        },
+        {
+          "rank": 8,
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_sell_shares": -7867231
+        },
+        {
+          "rank": 9,
+          "stock_name": "和桐",
+          "ticker": "1714",
+          "net_sell_shares": -6654725
+        },
+        {
+          "rank": 10,
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -6621673
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 5793000
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_buy_shares": 7063889
         },
         {
           "rank": 2,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_buy_shares": 4958850
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 5814999
         },
         {
           "rank": 3,
-          "stock_name": "力成",
-          "ticker": "6239",
-          "net_buy_shares": 3685834
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_buy_shares": 3505375
         },
         {
           "rank": 4,
-          "stock_name": "京元電子",
-          "ticker": "2449",
-          "net_buy_shares": 3525028
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_buy_shares": 3198306
         },
         {
           "rank": 5,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 3502863
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_buy_shares": 3193621
         },
         {
           "rank": 6,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_buy_shares": 2752377
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 2744738
         },
         {
           "rank": 7,
-          "stock_name": "欣興",
-          "ticker": "3037",
-          "net_buy_shares": 2515389
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_buy_shares": 2486000
         },
         {
           "rank": 8,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 2422000
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 2455364
         },
         {
           "rank": 9,
-          "stock_name": "致茂",
-          "ticker": "2360",
-          "net_buy_shares": 1518157
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_buy_shares": 2329864
         },
         {
           "rank": 10,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 1342560
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 2321476
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -9683203
+          "stock_name": "南茂",
+          "ticker": "8150",
+          "net_sell_shares": -2357000
         },
         {
           "rank": 2,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -5718291
+          "stock_name": "禾伸堂",
+          "ticker": "3026",
+          "net_sell_shares": -1543000
         },
         {
           "rank": 3,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -3115482
+          "stock_name": "台勝科",
+          "ticker": "3532",
+          "net_sell_shares": -1109000
         },
         {
           "rank": 4,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_sell_shares": -2359000
+          "stock_name": "大量",
+          "ticker": "3167",
+          "net_sell_shares": -1020000
         },
         {
           "rank": 5,
-          "stock_name": "台勝科",
-          "ticker": "3532",
-          "net_sell_shares": -1495000
+          "stock_name": "日電貿",
+          "ticker": "3090",
+          "net_sell_shares": -823000
         },
         {
           "rank": 6,
-          "stock_name": "禾伸堂",
-          "ticker": "3026",
-          "net_sell_shares": -1324000
+          "stock_name": "長榮航太",
+          "ticker": "2645",
+          "net_sell_shares": -558000
         },
         {
           "rank": 7,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_sell_shares": -1205219
+          "stock_name": "同欣電",
+          "ticker": "6271",
+          "net_sell_shares": -383000
         },
         {
           "rank": 8,
-          "stock_name": "立隆電",
-          "ticker": "2472",
-          "net_sell_shares": -974000
+          "stock_name": "台表科",
+          "ticker": "6278",
+          "net_sell_shares": -337000
         },
         {
           "rank": 9,
-          "stock_name": "矽力*-KY",
-          "ticker": "6415",
-          "net_sell_shares": -927000
+          "stock_name": "乙盛-KY",
+          "ticker": "5243",
+          "net_sell_shares": -300000
         },
         {
           "rank": 10,
           "stock_name": "金像電",
           "ticker": "2368",
-          "net_sell_shares": -862087
+          "net_sell_shares": -285000
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_buy_shares": 3375000
-        },
-        {
-          "rank": 2,
-          "stock_name": "三商壽",
-          "ticker": "2867",
-          "net_buy_shares": 3136000
-        },
-        {
-          "rank": 3,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 3052000
-        },
-        {
-          "rank": 4,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 1223213
-        },
-        {
-          "rank": 5,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 926475
-        },
-        {
-          "rank": 6,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 648000
-        },
-        {
-          "rank": 7,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_buy_shares": 594523
-        },
-        {
-          "rank": 8,
-          "stock_name": "合庫金",
-          "ticker": "5880",
-          "net_buy_shares": 555643
-        },
-        {
-          "rank": 9,
-          "stock_name": "威健",
-          "ticker": "3033",
-          "net_buy_shares": 489985
-        },
-        {
-          "rank": 10,
-          "stock_name": "愛山林",
-          "ticker": "2540",
-          "net_buy_shares": 425000
-        }
-      ],
-      "dealer_sell": [
-        {
-          "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -2071970
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_buy_shares": 11347685
         },
         {
           "rank": 2,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_sell_shares": -2014286
+          "net_buy_shares": 5942683
         },
         {
           "rank": 3,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_sell_shares": -1603216
+          "stock_name": "三商壽",
+          "ticker": "2867",
+          "net_buy_shares": 3420000
         },
         {
           "rank": 4,
-          "stock_name": "統一",
-          "ticker": "1216",
-          "net_sell_shares": -1481460
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 2234000
         },
         {
           "rank": 5,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -1335591
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 2143000
         },
         {
           "rank": 6,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -935251
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 707000
         },
         {
           "rank": 7,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -805429
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_buy_shares": 556495
         },
         {
           "rank": 8,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_sell_shares": -702032
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 525000
         },
         {
           "rank": 9,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -597000
+          "stock_name": "台達電",
+          "ticker": "2308",
+          "net_buy_shares": 470008
         },
         {
           "rank": 10,
-          "stock_name": "一詮",
-          "ticker": "2486",
-          "net_sell_shares": -547584
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 454000
+        }
+      ],
+      "dealer_sell": [
+        {
+          "rank": 1,
+          "stock_name": "聯強",
+          "ticker": "2347",
+          "net_sell_shares": -1916565
+        },
+        {
+          "rank": 2,
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -787752
+        },
+        {
+          "rank": 3,
+          "stock_name": "友訊",
+          "ticker": "2332",
+          "net_sell_shares": -679000
+        },
+        {
+          "rank": 4,
+          "stock_name": "群光",
+          "ticker": "2385",
+          "net_sell_shares": -678107
+        },
+        {
+          "rank": 5,
+          "stock_name": "元大高股息",
+          "ticker": "0056",
+          "net_sell_shares": -589000
+        },
+        {
+          "rank": 6,
+          "stock_name": "台虹",
+          "ticker": "8039",
+          "net_sell_shares": -528000
+        },
+        {
+          "rank": 7,
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_sell_shares": -408000
+        },
+        {
+          "rank": 8,
+          "stock_name": "智原",
+          "ticker": "3035",
+          "net_sell_shares": -380000
+        },
+        {
+          "rank": 9,
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_sell_shares": -345001
+        },
+        {
+          "rank": 10,
+          "stock_name": "英業達",
+          "ticker": "2356",
+          "net_sell_shares": -299605
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "合庫金",
-        "shares": 14927673
+        "target": "元大台灣50",
+        "shares": 29459237
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "彰銀",
-        "shares": 1350000
+        "target": "富邦科技",
+        "shares": 4539074
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "元大台灣50",
-        "shares": 2606850
+        "target": "台積電",
+        "shares": 3178750
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "元大台灣50",
-        "shares": 18158880
+        "target": "聯電",
+        "shares": 6497520
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Markets react to Fed's July interest rate decision",
+      "title": "Fed interest-rate decision rocks Wall Street's inflation fears",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/economy/policy/articles/markets-react-feds-july-interest-210558874.html",
-      "summary": "Markets react to Fed's July interest rate decision",
-      "full_text": "On July 29, the Federal Reserve announced its decision on interest rates following its two-day policy meeting.\n\nAs expected, the central bank decided to keep the benchmark interest rate unchanged in the 3.50%-3.75% range.\n\nThough the Fed's newly appointed chair, Kevin Warsh, has emphasized the goal of lowering inflation to 2%, he hasn't outlined a detailed plan.\n\nEarlier, President Donald Trump called Warsh \"fantastic\" and reiterated that the Fed should lower the rates, \"He wants to do the right thing. I know what he wants to do.\"\n\nBut he sharply criticized other Fed officials as \"very political\" who \"perhaps have bad intentions.\" The president said,\n\n\"We should have the lowest interest rate in the world, like it used to be 30 years ago.\"\n\nHowever, the Warsh-led FOMC committee has decided to keep rates steady this time.\n\nFollowing the Federal Open Market Committee's (FOMC) latest interest rate decision, Bitcoin (BTC) and XRP were trading at $64,268.33 and $1.08 at the time of writing.",
-      "published": "2026-07-29T21:05:58Z"
+      "link": "https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html",
+      "summary": "Fed interest-rate decision rocks Wall Street's inflation fears",
+      "full_text": "The Federal Reserve's July policymaking meeting ended with no interest-rate hikes nor forward guidance but with a boatload of Fed speak and word salad.\n\nKevin Warsh insisted the Fed will still be able to lower inflation to its 2% target — a measure it has missed for five years — but didn't say how.\n\nHe also wants U.S. households, businesses and investors to continue to be patient with the central bank.\n\nMeanwhile, markets stumbled after the Federal Open Market Committee voted 9-3 to hold benchmark short-term interest rates steady on July 29.\n\nThe 30-year Treasury yield hit 5.2% and the Dow closed down 1,153.18 points (or -2.19%) signaling Wall Street's concern that the new Fed chair's approach won't be able to beat back inflation much longer thus leading to even higher rate hikes.\n\nCetera Financial Group Chief Investment Officer Gene Goldman said that the market was not \"shrugging off\" the hold.\n\n\"It's a market betting a hike is coming sooner. September, right after Jackson Hole and with a new dot plot in hand, is shaping up to be the meeting that matters,'' Goldman told TheStreet in an email.\n\nWarsh is choosing flexibility over clear guidance offered by past Fed chairs on purpose, Goldman said.",
+      "published": "2026-07-30T16:33:00Z"
     },
     {
       "id": "news_2",
-      "title": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
+      "title": "Jersey Mike’s Prices Below What Blackstone Paid For It",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html",
-      "summary": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
-      "full_text": "Some stock drops look like bad news on the surface. Some are, yes, but some also tell a completely different story underneath.\n\nAnd I think American Express (AXP) investors have been handed the latter. The payments giant beat earnings expectations, raised its full-year revenue guidance, and reported its strongest card member spending growth in three years. The stock fell anyway.\n\nThis kind of reaction can frustrate shareholders and even confuse casual observers. But for \"Mad Money\" host Jim Cramer, it's a pattern he's seen before, and one he thinks is creating a clear opening.\n\nAmerican Express CEO Steve Squeri echoed that confidence in the company's Q2 2026 earnings statement, noting: \"Six months into the year, we're seeing stronger momentum than we expected.\"\n\nCramer's argument comes down to a single distinction. And it is one the market appears to have missed.\n\nAmerican Express beat earnings expectations in Q2 2026 and raised its full-year revenue growth guidance to approximately 10%, according to a company statement. Earnings per share (EPS) came in at $4.53, up 11% year-over-year (YoY). Net income reached $3.11 billion, up 8% from the same period a year earlier.\n\nThe answer lies in what management chose not to do. Instead of accelerating share repurchases, which would have boosted EPS more quickly, Squeri announced the company would reinvest its outperformance into growth initiatives.\n\nJim Cramer's net worth: How much does 'Mad Money's' stock-picking superhost make?",
-      "published": "2026-07-29T22:17:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jersey-mike-prices-below-blackstone-152344444.html",
+      "summary": "Jersey Mike’s Prices Below What Blackstone Paid For It",
+      "full_text": "Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.\n\nBlackstone picked quite a week to sell Italian subs to the market, but maybe that's exactly the moment to take a breath, look around, and put some faith (and some capital) in the enduring magic of provolone and Danny DeVito.\n\nJMKE shares are open to the public Thursday, but roughly 86% of the company's voting power stays exactly where it's lived since 2024: tucked inside the world's largest private equity shop.\n\nWe can all agree Jersey Mike's makes a genuinely great sub (What? You got a problem with that take?), but valuing its shares is the harder part.\n\nOne stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here.\n\nCAVA looks like the obvious comp, since it's the last consumer-food IPO anyone bothered to remember, up double digits this year and still trading like the market's favorite grain bowl. Wrong shop to pair with JMKE's cappacuolo, though. CAVA sells build-your-own Mediterranean bowls to people who photograph lunch before they eat it. Jersey Mike's real mirror is standing one food court over, and it's had a considerably rougher year.\n\nJersey Mike's CEO Charlie Morrison spent a decade running Wingstop, from 2012 to 2022, and personally walked that company through its own celebrated 2015 IPO. Same franchise-heavy playbook. Same asset-light math. Same guy, pitching the exact unit-economics story to Wall Street for the second time in one career, which either makes him a savant or a man who's found one presentation he refuses to retire.\n\nAnd Wingstop, right now, is not a flattering mirror to stand next to. The stock is down roughly 40% this year, off more than 60% from its all-time high, dragged there by domestic same-store sales that fell 8.7% in a single quarter and management guidance that flipped from growth to decline. A stock that once commanded 77 to 80 times forward earnings now trades near 34 times, practically a decade low. None of that has anything to do with chicken. It's what happens the moment a beloved, heavily franchised concept runs out of easy new-store math, and the market has to price the actual restaurants instead of the growth story sold via adorable Danny DeVito commercials.",
+      "published": "2026-07-30T15:23:44Z"
     },
     {
       "id": "news_3",
-      "title": "AI Fears Send Meta Stock To Record Losing Streak Ahead Of Earnings",
+      "title": "Stocks Rally on Stellar Microsoft Earnings and Chip Stock Strength",
       "source": "Yahoo Finance",
-      "link": "https://www.investors.com/news/technology/meta-stock-losing-steak-facebook-zuckerberg-ai/?src=A00220&yptr=yahoo",
-      "summary": "AI Fears Send Meta Stock To Record Losing Streak Ahead Of Earnings",
-      "full_text": "AI Fears Send Meta Stock To Record Losing Streak Ahead Of Earnings",
-      "published": "2026-07-29T15:13:24Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-stellar-microsoft-earnings-152140326.html",
+      "summary": "Stocks Rally on Stellar Microsoft Earnings and Chip Stock Strength",
+      "full_text": "The S&P 500 Index ($SPX) (SPY) today is up +0.86%, the Dow Jones Industrial Average ($DOWI) (DIA) is up +0.29%, and the Nasdaq 100 Index ($IUXX) (QQQ) is up +2.65%.  September E-mini S&P futures (ESU26) are up +0.84%, and September E-mini Nasdaq futures (NQU26) are up +2.69%.\n\nStock indexes are rallying sharply today after strong growth at Microsoft reassured investors that massive spending on artificial intelligence is starting to pay off.  Microsoft is up more than +13% after reporting late Wednesday that Q4 Azure and other cloud services revenue ex-forex rose +43%, better than the consensus of +39.3% and the fastest quarterly growth in four years.  Microsoft's positive earnings are also fueling a sharp rally in chipmakers and AI-infrastructure stocks, pushing the overall market even higher. The markets will get another look at megacap earnings when Amazon.com and Apple report after today's close.\n\nNebius Stock Gets Another Wall Street Upgrade. Here's Why Investors Are Paying Attention.\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nOn the negative side, Meta Platforms is down more than -8% after a disappointing revenue forecast.  Also, bond yields are rising on concerns that Fed Chair Warsh won't manage to curb inflation that has run above target for five straight years after the FOMC kept interest rates unchanged on Wednesday.  The 10-year T-note yield is up +2 bp to 4.66%.\n\nToday's US economic news was mixed for stocks, with Q2 GDP growth below expectations despite strong consumer spending, but weekly jobless claims rose less than expected and the core PCE price index eased as expected.\n\nUS weekly initial unemployment claims rose +9,000 to 197,000, showing a stronger labor market than expectations of 200,000.\n\nUS Jun personal spending rose +0.3% m/m, weaker than expectations of +0.4% m/m, although May personal spending was revised upward to +0.9% m/m from the previously reported +0.7% m/m.  Jun personal income rose +0.2% m/m, weaker than expectations of +0.3% m/m.",
+      "published": "2026-07-30T15:21:40Z"
     }
   ]
 }
