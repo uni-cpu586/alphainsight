@@ -1,316 +1,316 @@
 {
-  "date": "2026-08-04",
-  "stock_market_date": "2026-08-03",
+  "date": "2026-08-05",
+  "stock_market_date": "2026-08-04",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 55359860
+          "stock_name": "光寶科",
+          "ticker": "2301",
+          "net_buy_shares": 28743314
         },
         {
           "rank": 2,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 25984321
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 24800057
         },
         {
           "rank": 3,
           "stock_name": "緯創",
           "ticker": "3231",
-          "net_buy_shares": 13991730
+          "net_buy_shares": 18453095
         },
         {
           "rank": 4,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 13613595
+          "stock_name": "統一",
+          "ticker": "1216",
+          "net_buy_shares": 17235518
         },
         {
           "rank": 5,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 12888995
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_buy_shares": 13719705
         },
         {
           "rank": 6,
-          "stock_name": "英業達",
-          "ticker": "2356",
-          "net_buy_shares": 12570486
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 13478964
         },
         {
           "rank": 7,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 11095659
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 12142012
         },
         {
           "rank": 8,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_buy_shares": 10136158
+          "stock_name": "友訊",
+          "ticker": "2332",
+          "net_buy_shares": 11921179
         },
         {
           "rank": 9,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 10116837
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 11232843
         },
         {
           "rank": 10,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_buy_shares": 9901837
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 10987913
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -89164346
-        },
-        {
-          "rank": 2,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -49229560
-        },
-        {
-          "rank": 3,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_sell_shares": -33426420
-        },
-        {
-          "rank": 4,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -32777937
-        },
-        {
-          "rank": 5,
-          "stock_name": "台泥",
-          "ticker": "1101",
-          "net_sell_shares": -23554419
-        },
-        {
-          "rank": 6,
           "stock_name": "彰銀",
           "ticker": "2801",
-          "net_sell_shares": -23335831
-        },
-        {
-          "rank": 7,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_sell_shares": -22190049
-        },
-        {
-          "rank": 8,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -17706581
-        },
-        {
-          "rank": 9,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -15901374
-        },
-        {
-          "rank": 10,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_sell_shares": -10778277
-        }
-      ],
-      "trust_buy": [
-        {
-          "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 14663724
+          "net_sell_shares": -37600382
         },
         {
           "rank": 2,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 13225714
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_sell_shares": -30317151
         },
         {
           "rank": 3,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 10520086
+          "stock_name": "台中銀",
+          "ticker": "2812",
+          "net_sell_shares": -29219854
         },
         {
           "rank": 4,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 9288339
+          "stock_name": "中纖",
+          "ticker": "1718",
+          "net_sell_shares": -25033035
         },
         {
           "rank": 5,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 8526000
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_sell_shares": -20160754
         },
         {
           "rank": 6,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_buy_shares": 6596709
+          "stock_name": "寶成",
+          "ticker": "9904",
+          "net_sell_shares": -17770098
         },
         {
           "rank": 7,
-          "stock_name": "富邦金",
-          "ticker": "2881",
-          "net_buy_shares": 5904525
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_sell_shares": -13160893
         },
         {
           "rank": 8,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_buy_shares": 4742954
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -12429517
         },
         {
           "rank": 9,
           "stock_name": "兆豐金",
           "ticker": "2886",
-          "net_buy_shares": 4646631
+          "net_sell_shares": -12338148
         },
         {
           "rank": 10,
+          "stock_name": "台泥",
+          "ticker": "1101",
+          "net_sell_shares": -12259096
+        }
+      ],
+      "trust_buy": [
+        {
+          "rank": 1,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_buy_shares": 4604000
-        }
-      ],
-      "trust_sell": [
-        {
-          "rank": 1,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_sell_shares": -5243152
+          "net_buy_shares": 8878000
         },
         {
           "rank": 2,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_sell_shares": -3476001
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 7874085
         },
         {
           "rank": 3,
-          "stock_name": "日電貿",
-          "ticker": "3090",
-          "net_sell_shares": -2846000
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_buy_shares": 7088000
         },
         {
           "rank": 4,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_sell_shares": -2094170
-        },
-        {
-          "rank": 5,
-          "stock_name": "亞泥",
-          "ticker": "1102",
-          "net_sell_shares": -2014879
-        },
-        {
-          "rank": 6,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_sell_shares": -2009396
-        },
-        {
-          "rank": 7,
-          "stock_name": "聯鈞",
-          "ticker": "3450",
-          "net_sell_shares": -1886000
-        },
-        {
-          "rank": 8,
-          "stock_name": "台灣高鐵",
-          "ticker": "2633",
-          "net_sell_shares": -1812000
-        },
-        {
-          "rank": 9,
-          "stock_name": "統一",
-          "ticker": "1216",
-          "net_sell_shares": -1567583
-        },
-        {
-          "rank": 10,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_sell_shares": -1521911
-        }
-      ],
-      "dealer_buy": [
-        {
-          "rank": 1,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 1380575
-        },
-        {
-          "rank": 2,
-          "stock_name": "愛山林",
-          "ticker": "2540",
-          "net_buy_shares": 984000
-        },
-        {
-          "rank": 3,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 512169
-        },
-        {
-          "rank": 4,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_buy_shares": 469000
+          "stock_name": "欣興",
+          "ticker": "3037",
+          "net_buy_shares": 5933000
         },
         {
           "rank": 5,
           "stock_name": "緯創",
           "ticker": "3231",
-          "net_buy_shares": 349000
+          "net_buy_shares": 5570000
         },
         {
           "rank": 6,
-          "stock_name": "華新科",
-          "ticker": "2492",
-          "net_buy_shares": 300762
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_buy_shares": 5350341
         },
         {
           "rank": 7,
-          "stock_name": "南電",
-          "ticker": "8046",
-          "net_buy_shares": 270200
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_buy_shares": 4902285
         },
         {
           "rank": 8,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 226264
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_buy_shares": 4519000
         },
         {
           "rank": 9,
-          "stock_name": "康舒",
-          "ticker": "6282",
-          "net_buy_shares": 219000
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 4182245
         },
         {
           "rank": 10,
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_buy_shares": 3306000
+        }
+      ],
+      "trust_sell": [
+        {
+          "rank": 1,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -4974000
+        },
+        {
+          "rank": 2,
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_sell_shares": -3573000
+        },
+        {
+          "rank": 3,
+          "stock_name": "致茂",
+          "ticker": "2360",
+          "net_sell_shares": -2553000
+        },
+        {
+          "rank": 4,
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_sell_shares": -2115000
+        },
+        {
+          "rank": 5,
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_sell_shares": -2052000
+        },
+        {
+          "rank": 6,
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_sell_shares": -1941000
+        },
+        {
+          "rank": 7,
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_sell_shares": -1915000
+        },
+        {
+          "rank": 8,
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_sell_shares": -1890000
+        },
+        {
+          "rank": 9,
+          "stock_name": "台灣高鐵",
+          "ticker": "2633",
+          "net_sell_shares": -1664000
+        },
+        {
+          "rank": 10,
+          "stock_name": "統一",
+          "ticker": "1216",
+          "net_sell_shares": -1643000
+        }
+      ],
+      "dealer_buy": [
+        {
+          "rank": 1,
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_buy_shares": 2978000
+        },
+        {
+          "rank": 2,
+          "stock_name": "興富發",
+          "ticker": "2542",
+          "net_buy_shares": 1547000
+        },
+        {
+          "rank": 3,
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 1467983
+        },
+        {
+          "rank": 4,
+          "stock_name": "友訊",
+          "ticker": "2332",
+          "net_buy_shares": 728416
+        },
+        {
+          "rank": 5,
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 556000
+        },
+        {
+          "rank": 6,
+          "stock_name": "微星",
+          "ticker": "2377",
+          "net_buy_shares": 512553
+        },
+        {
+          "rank": 7,
           "stock_name": "威盛",
           "ticker": "2388",
-          "net_buy_shares": 186000
+          "net_buy_shares": 414080
+        },
+        {
+          "rank": 8,
+          "stock_name": "台虹",
+          "ticker": "8039",
+          "net_buy_shares": 209460
+        },
+        {
+          "rank": 9,
+          "stock_name": "南電",
+          "ticker": "8046",
+          "net_buy_shares": 161000
+        },
+        {
+          "rank": 10,
+          "stock_name": "新日興",
+          "ticker": "3376",
+          "net_buy_shares": 153000
         }
       ],
       "dealer_sell": [
@@ -318,61 +318,61 @@
           "rank": 1,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_sell_shares": -16649498
+          "net_sell_shares": -4617000
         },
         {
           "rank": 2,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -2105832
+          "stock_name": "億光",
+          "ticker": "2393",
+          "net_sell_shares": -2180000
         },
         {
           "rank": 3,
-          "stock_name": "技嘉",
-          "ticker": "2376",
-          "net_sell_shares": -1384656
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -1747000
         },
         {
           "rank": 4,
-          "stock_name": "三商壽",
-          "ticker": "2867",
-          "net_sell_shares": -1236000
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_sell_shares": -1697781
         },
         {
           "rank": 5,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_sell_shares": -866255
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -1387592
         },
         {
           "rank": 6,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_sell_shares": -843700
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_sell_shares": -1349000
         },
         {
           "rank": 7,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_sell_shares": -679367
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -1272963
         },
         {
           "rank": 8,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -655900
+          "stock_name": "技嘉",
+          "ticker": "2376",
+          "net_sell_shares": -1182941
         },
         {
           "rank": 9,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_sell_shares": -596000
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -1081756
         },
         {
           "rank": 10,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_sell_shares": -546349
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_sell_shares": -1054000
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "元大台灣50",
-        "shares": 19375951
+        "target": "光寶科",
+        "shares": 10060159
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "第一金",
-        "shares": 552230
+        "target": "富邦科技",
+        "shares": 1191200
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "聯電",
-        "shares": 6598675
+        "target": "元大台灣50",
+        "shares": 3995100
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "聯電",
-        "shares": 26749303
+        "target": "彰銀",
+        "shares": 11280114
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Warren Buffett keeps pointing at the same ETF for a reason",
+      "title": "If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-keeps-pointing-same-160300409.html",
-      "summary": "Warren Buffett keeps pointing at the same ETF for a reason",
-      "full_text": "Most people assume that the world's most successful investors have some edge that regular people can't access. Better information. Smarter models. A network of insiders who call before the news breaks. Warren Buffett spent 60 years proving that assumption wrong, building one of the greatest fortunes in history through patience and simplicity rather than complexity.\n\nAnd yet when people ask him what they should do with their money, his answer has been the same for decades. It's not a stock tip. It's not a sector call. It's an ETF that anyone can buy for three cents on every hundred dollars invested.\n\nBuffett has made his position clear in shareholder letters, interviews, and annual meetings going back years. In his 2016 shareholder letter, he wrote: \"My regular recommendation has been a low-cost S&P 500index fund.\" At Berkshire's 2021 annual meeting, he said: \"In my view, for most people, I think that the best thing to do is buy an S&P 500 index fund.\"\n\nThe most direct version of the advice came in his 2013 letter to Berkshire Hathaway shareholders, where he described the instructions he had written into his will for the money he would leave to his wife: \"My advice to the trustee could not be more simple: Put 10% of the cash in short-term government bonds and 90% in a very low-cost S&P 500 index fund. (I suggest Vanguard's.) I believe the trust's long-term results from this policy will be superior to those attained by most investors, whether pension funds, institutions or individuals, who employ high-fee managers,\" according to The Motley Fool.\n\nHe wasn't being modest. He was being precise. This is the same man who beat the market by an enormous margin over six decades, and he was saying that for his own wife's trust, a simple index fund would beat most professional managers.\n\nVanguard S&P 500 ETF (VOO) tracks the S&P 500, charges 0.03% a year, and has grown to more than $950 billion in assets. Three cents on every hundred dollars. On a $10,000 investment that's $3 annually in fees. That's it. That's what Buffett means when he says low cost, and that's why he keeps naming Vanguard specifically when people ask which fund.\n\nVOO gives investors exposure to 500 of America's largest companies across all 11 sectors of the economy, from technology and healthcare to energy and consumer staples. The top holdings include Nvidia, Microsoft, Apple, Amazon, and Alphabet. Any component that deteriorates over time gets removed and replaced. The index self-corrects without the investor having to do anything.\n\nVOO has averaged about 15% annual growth over the past decade. Nobody enjoyed the 2020 crash while it was happening. Or any of the other rough patches in between. But the return is what you get if you didn't sell, and most of the people who did sell locked in losses they never recovered.",
-      "published": "2026-08-02T16:03:00Z"
+      "link": "https://finance.yahoo.com/markets/crypto/articles/invested-1-000-gold-bitcoin-150000514.html",
+      "summary": "If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today",
+      "full_text": "Pick any investor who watched Donald Trump walk back into the White House on January 20, 2025 and decided to put money into the three most talked-about assets surrounding that moment.\n\nBitcoin, the asset Trump had openly embraced. Gold, the safe haven that has anchored portfolios for centuries. And the TRUMP memecoin, the token bearing the president's name that had launched three days earlier and was already being called the trade of the inauguration.\n\nBitcoin opened inauguration day at approximately $102,000. A $1,000 investment bought roughly 0.0098 BTC. Today, with Bitcoin trading near $62,000, that position is worth approximately $607, a loss of 40%.\n\nThe irony is hard to miss. Trump entered office as the most openly crypto-friendly president in American history. He signed the GENIUS Act. He signed an Executive Order to establish a Strategic Bitcoin Reserve.\n\nHe called the U.S. the crypto capital of the world. And Bitcoin still lost 40% of its value on his watch.\n\nWhat makes the Bitcoin loss particularly striking is the context surrounding it. This was not a hostile administration. Trump's team established the first ever Strategic Bitcoin Reserve in March 2025, halting all government Bitcoin sales and signaling long-term institutional commitment at the sovereign level.\n\nThe policy environment was the most favorable in Bitcoin's history. And yet the price fell from where it stood on the day that all of that became official. The lesson is not that Bitcoin is broken.\n\nIt is that even the best policy tailwind cannot override a global liquidity squeeze, a hawkish Fed, and overleveraged positions unwinding at scale.",
+      "published": "2026-08-04T15:00:00Z"
     },
     {
       "id": "news_2",
-      "title": "Cathie Wood sells $5.5 million of surging tech stock",
+      "title": "Are Wall Street Analysts Predicting Western Digital Stock Will Climb or Sink?",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-5-5-163300469.html",
-      "summary": "Cathie Wood sells $5.5 million of surging tech stock",
-      "full_text": "Cathie Wood, head of Ark Investment Management, likes to lock in gains when her tech darlings rally.\n\nThat's exactly what she's doing with Snowflake, trimming her position after the cloud software stock surged nearly 10% over the past five trading days ahead of earnings.\n\nIn 2025, the flagship Ark Innovation ETF gained 35.49%, far outpacing the S&P 500's return of 17.88% in the same period. But so far this year, Wood's flagship Ark Innovation ETF (ARKK) is down 8.51% as of July 31, while the S&P 500 surged 9.41%, Yahoo Finance data shows.\n\nWood gained a reputation after the Ark Innovation ETF delivered a 153% return in 2020. But her style also brings painful losses in bearish markets, as seen in 2022, when the Ark Innovation ETF tumbled more than 60%.\n\nThose swings have weighed on Wood's long-term gains. As of July 31, her Ark Innovation ETF has delivered a five-year annualized return of -9.75%, while the S&P 500 has an annualized return of 11.25% over the same period, according to data from Morningstar.\n\nWood usually focuses on high-tech companies across artificial intelligence, blockchain, biomedical technology, and robotics. She believes these businesses have strong growth potential, though their volatility often causes fluctuations in the Ark's funds.\n\nOver the decade ended 2025, the Ark Innovation ETF wiped out nearly $5 billion in investor wealth, according to an analysis by Morningstar's analyst Amy Arnott. That made it the fourth-biggest wealth destroyer among mutual funds and ETFs in the ranking.\n\nWood believes investors have been focusing on the wrong signals as they assess the outlook for inflation, interest rates, and stocks.",
-      "published": "2026-08-02T16:33:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-western-143655241.html",
+      "summary": "Are Wall Street Analysts Predicting Western Digital Stock Will Climb or Sink?",
+      "full_text": "Western Digital Corporation (WDC), headquartered in San Jose, California, develops, manufactures, and sells data storage devices and solutions. With a market cap of $187.8 billion, the company's products include hard drives, solid-state drives, and home entertainment and networking products.\n\nShares of this leading supplier of data storage solutions have substantially outperformed the broader market over the past year. WDC has gained 582% over this time frame, while the broader S&P 500 Index ($SPX) has rallied nearly 17.7%. In 2026, WDC stock is up 203.1%, surpassing the SPX's 9.4% rise on a YTD basis.\n\nPalantir Is Set to Deliver Strong Q2. Analysts See 60% Upside Potential for PLTR Stock.\n\nZooming in further, WDC's outperformance is also apparent compared to the State Street Technology Select Sector SPDR ETF (XLK). The exchange-traded fund has gained about 36% over the past year. Moreover, WDC's triple-digit gains on a YTD basis outshine the ETF's 21.4% returns over the same time frame.\n\nWestern Digital has significantly outperformed over the past year due to soaring hyperscaler demand for high-capacity enterprise hard drives driven by AI data center expansion, massive gross margin expansion fueled by disciplined pricing and production, and strong market enthusiasm surrounding its strategic plan to separate its HDD and Flash memory (NAND) businesses to unlock distinct, pure-play shareholder value.\n\nFor the current fiscal year, ended in June, analysts expect WDC's EPS to grow 112.1% to $9.61 on a diluted basis. The company's earnings surprise history is impressive. It beat the consensus estimates in each of the last four quarters.\n\nAmong the 25 analysts covering WDC stock, the consensus is a \"Strong Buy.\" That's based on 20 \"Strong Buy\" ratings, one \"Moderate Buy,\" and four \"Holds.\"\n\nThis configuration is more bullish than two months ago, with 21 analysts suggesting a \"Strong Buy.\"",
+      "published": "2026-08-03T14:36:55Z"
     },
     {
       "id": "news_3",
-      "title": "CoreWeave Just Scored a Leidos Partnership. What That Means for CRWV Stock Here.",
+      "title": "Dollar Pressured by Strong Stocks and Easing Geopolitical Risks",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-just-scored-leidos-partnership-141239028.html",
-      "summary": "CoreWeave Just Scored a Leidos Partnership. What That Means for CRWV Stock Here.",
-      "full_text": "Neocloud provider CoreWeave (CRWV) saw its stock rise by 21.5% intraday on July 30 as the company announced a partnership with Leidos Holdings (LDOS) to provide artificial intelligence (AI) cloud services to United Stated federal agencies, so that they can deploy and operate AI at mission scale. This extends CoreWeave's reach into addressing U.S. Intelligence Community (IC) and Department of Defense's (DoD) unique requirements.\n\nThis also diversifies CoreWeave's customer base, as government contracts bring stability and are spread across a broad number of agencies, which is important for a company that relies on its top customers for a major portion of its revenue.\n\nPalantir Is Set to Deliver Strong Q2. Analysts See 60% Upside Potential for PLTR Stock.\n\nSeagate Rallies on Strong Q4 Results and Guidance. What Does This Mean for STX Stock Here.\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nMoreover, there's a threat looming of a customer turning into a potential rival. Meta Platforms (META) is reportedly entering the neocloud business, with its massive cash hoard and industry-wide reach. In Q1, CoreWeave executed multiple new agreements with Meta, including a new $21 billion commitment signed in March.\n\nOn the other hand, the neocloud business is thriving, with providers expected to capture 20% of the $267 billion AI cloud market by 2030, as per Gartner. Therefore, established neocloud providers like CoreWeave have significant prospects in the market, and the Leidos partnership is a possible testament to that.\n\nCoreWeave is a cloud infrastructure company focused on providing GPU-powered computing for AI developers and enterprises. It operates data centers across the U.S. and Europe, with a platform designed to support large-scale training and deployment of generative AI workloads.",
-      "published": "2026-08-02T14:12:39Z"
+      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-pressured-strong-stocks-easing-143350947.html",
+      "summary": "Dollar Pressured by Strong Stocks and Easing Geopolitical Risks",
+      "full_text": "The dollar index (DXY00) fell to a 7-week low today and is down by -0.10%.  Easing geopolitical tensions in the Middle East are boosting stocks and reducing safe-haven demand for the dollar.  Also, today's -6% plunge in WTI crude oil prices lowers inflation expectations and could prompt the Fed to loosen monetary policy, a negative factor for the dollar.  The dollar recovered from its worst level after the July ISM manufacturing index rose more than expected to a 4-year high.\n\nDovish comments today from New York Fed President John Williams were negative for the dollar when he said interest rates remain well positioned as inflation should ease during the second half of the year.\n\nThe US July ISM manufacturing index rose +2.3 to 55.6, stronger than expectations of 53.9 and the fastest pace of expansion in four years.\n\nUS June construction spending unexpectedly fell -0.1% m/m, weaker than expectations of a +0.2% m/m increase.\n\nThe markets are discounting a 63% probability of a +25 bp rate hike at the next FOMC meeting on September 15-16.\n\nEUR/USD (^EURUSD) is down by -0.07% today.  The euro fell from a 1.5-month high and is slightly lower after the Eurozone July S&P manufacturing PMI was revised downward and after German June retail fell more than expected, the most in 13 months.\n\nThe euro initially moved higher today on dollar weakness and the -6% plunge in crude oil prices, which is supportive of the Eurozone economy and the euro as Europe imports most of its energy.\n\nThe Eurozone July S&P manufacturing PMI was revised downward by -0.1 to 51.9 from the originally reported 52.0.",
+      "published": "2026-08-03T14:33:50Z"
     }
   ]
 }

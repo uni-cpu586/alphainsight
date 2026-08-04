@@ -1,384 +1,388 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "stock_uncle_insight": {
-    "date_header": "8/4 法人與主力大戶主要買超股票",
+    "date_header": "8/5 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：AI概念股與航空雙主流，ETF避險兼布局",
+        "group_title": "1. 外資大戶：狂掃AI供應鏈與卡位記憶體",
         "stocks": [
           {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "肖年仔，你看外資狂掃 55.3萬張 0050，這不是在跟你開玩笑，這是標準的避險兼布局！大盤震盪，先買ETF穩住陣腳，等風頭過了再說，這就是大戶的智慧，不是你那種黑白買的韭菜思維。"
-          },
-          {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "記憶體族群最近有點動靜，外資買超 2.5萬張 華邦電，這擺明是看好後市，或是跟著AI題材在卡位，肖年仔，這不是讓你去接刀的，是看主力怎麼玩。"
+            "stock_name": "南亞科",
+            "ticker": "2408",
+            "description": "DRAM族群，外資買超近2.5萬張，這是在卡位記憶體景氣復甦啦！AI應用對記憶體需求大增，這波是提前佈局，不是讓你去接刀的。"
           },
           {
             "stock_name": "緯創",
             "ticker": "3231",
-            "description": "AI概念股的指標，外資再買 1.3萬張 緯創，這檔老牌電子股被AI點火後，籌碼還在持續鎖碼中，但漲多就是風險，別傻傻追高被倒貨。"
+            "description": "AI伺服器組裝大咖，外資再敲進1.8萬張，投信也跟著買，這檔是AI概念股的指標，主力還沒出完貨，但肖年仔要小心，漲多就是最大的利空。"
           },
           {
-            "stock_name": "長榮航",
-            "ticker": "2618",
-            "description": "航空雙雄之一，外資買超 1.3萬張 長榮航，解封題材還在燒，但投信卻在賣，這就是外資跟內資的看法分歧，肖年仔，別被兩邊的動作搞糊塗了。"
+            "stock_name": "統一",
+            "ticker": "1216",
+            "description": "食品龍頭，外資買超1.7萬張，這就是典型的資金避風港，大盤震盪時，內需穩定股就成了香餑餑，別以為外資只會玩高科技。"
           },
           {
-            "stock_name": "華航",
-            "ticker": "2610",
-            "description": "跟長榮航一樣，外資也買超 1.0萬張 華航，這波航空股的熱度，外資顯然還想再炒一波，但投信也在出貨，小心隔日沖的賣壓。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：金融股作帳行情，AI概念股持續加碼",
-        "stocks": [
-          {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "外資狂倒 8.9萬張 聯電，結果投信卻逆勢買超 1.4萬張，這擺明是投信在撿便宜，或是看好成熟製程的低基期，肖年仔，這就是籌碼換手，看誰笑到最後。"
+            "stock_name": "仁寶",
+            "ticker": "2324",
+            "description": "PC代工廠，也搭上AI PC題材，外資買超1.3萬張，這波是跟著AI PC的風向在走，但肖年仔要看清楚，這跟純AI伺服器還是有差。"
           },
           {
-            "stock_name": "南亞",
-            "ticker": "1303",
-            "description": "外資大賣 4.9萬張 南亞，投信卻買超 1.3萬張，這跟聯電一樣，都是內外資對傳產股的看法不同調，投信可能在作帳，也可能看好塑化股的谷底翻身。"
+            "stock_name": "台新新光金",
+            "ticker": "2887",
+            "description": "外資買超1.3萬張，但投信跟自營商卻在賣，這檔法人不同調，外資可能是看上特定題材或評價面，但肖年仔別亂追，小心被割韭菜。"
           },
           {
             "stock_name": "凱基金",
             "ticker": "2883",
-            "description": "投信買超 1.0萬張 凱基金，金融股在月底作帳行情中，投信常常會拉抬自家或關係企業的股票，肖年仔，這就是國家隊的玩法。"
+            "description": "外資買超1.2萬張，跟台新新光金一樣，投信跟自營商都在賣，這就很有趣了，外資在買，內資在出，這背後肯定有故事，不是單純的看好。"
           },
           {
-            "stock_name": "緯創",
-            "ticker": "3231",
-            "description": "AI概念股緯創，投信也買超 0.9萬張，跟外資同步加碼，這表示AI題材還是主流，但漲多風險高，別當最後一隻老鼠。"
+            "stock_name": "友訊",
+            "ticker": "2332",
+            "description": "網通股，外資買超1.1萬張，自營商也跟著買，這波網通股有題材，可能是看好基礎建設或特定訂單，但量不大，肖年仔別衝動。"
           },
           {
-            "stock_name": "華南金",
-            "ticker": "2880",
-            "description": "投信買超 0.8萬張 華南金，金融股的作帳行情持續，這也是避險資金的去處，但別期待會有什麼噴出行情。"
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "航空雙雄之一，外資買超1.1萬張，但投信卻在賣，這也是法人不同調，可能外資看好解封後的客運復甦，但投信可能覺得漲夠了要結帳。"
+          },
+          {
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "面板雙虎，外資買超1.09萬張，面板景氣雖然有回溫，但這族群波動大，外資可能是短線操作，肖年仔別傻傻地以為要大漲了。"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：鎖定金融、營建與中小型科技股",
+        "group_title": "2. 投信大戶（本土國家隊）：狂敲金融股作帳與佈局核心電子",
         "stocks": [
           {
-            "stock_name": "第一金",
-            "ticker": "2892",
-            "description": "自營商買超 0.13萬張 第一金，外資卻大賣，這就是內資主力在玩短線，金融股波動小，適合隔日沖或短線進出，肖年仔，別以為有什麼大利多。"
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "投信狂敲近8.9千張0050，這就是標準的「國家隊」在避險啦！大盤不確定性高，買ETF最穩當，進可攻退可守。"
           },
           {
-            "stock_name": "愛山林",
-            "ticker": "2540",
-            "description": "營建股愛山林，自營商買超 0.09萬張，這波營建股有特定題材在炒作，內資主力喜歡這種股性活潑的標的，但風險也高，小心被套牢。"
+            "stock_name": "華南金",
+            "ticker": "2880",
+            "description": "投信買超近7.9千張，金融股是投信作帳的愛股，穩定、殖利率高，這波是本土資金在卡位，肖年仔可以觀察。"
           },
           {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "自營商也買超 0.05萬張 華邦電，跟外資同步，顯示記憶體族群的確有資金在關注，但自營商的動作常常是避險盤，別太認真。"
+            "stock_name": "華通",
+            "ticker": "2313",
+            "description": "PCB大廠，投信買超7千張，這檔是蘋果供應鏈，也是AI相關板卡受惠股，投信在佈局這種有基本面支撐的電子股。"
           },
           {
-            "stock_name": "南茂",
-            "ticker": "8150",
-            "description": "封測股南茂，自營商買超 0.04萬張，這就是內資主力在找低基期或有轉機的中小型科技股，但這種股票籌碼輕，容易被拉高出貨。"
+            "stock_name": "欣興",
+            "ticker": "3037",
+            "description": "ABF載板龍頭，投信買超近6千張，ABF是高階封裝的關鍵材料，AI趨勢下需求只會增不會減，投信這是在鎖碼長線題材。"
           },
           {
             "stock_name": "緯創",
             "ticker": "3231",
-            "description": "AI概念股緯創，自營商也買超 0.03萬張，三大法人都同步買進，但自營商的量不大，可能只是跟單或避險操作。"
+            "description": "投信也買超5.5千張，跟外資一樣看好AI伺服器，但買超張數比外資少，可能是跟著外資的腳步，或是基金配置需求。"
+          },
+          {
+            "stock_name": "元大金",
+            "ticker": "2885",
+            "description": "投信買超5.3千張，又是金融股，這波投信對金融股的熱情很高，擺明了就是要作帳，肖年仔可以觀察這些金控股的表現。"
+          },
+          {
+            "stock_name": "富邦金",
+            "ticker": "2881",
+            "description": "投信買超4.9千張，一樣是金控，投信對大型金控的佈局很積極，這就是本土資金的避風港。"
+          },
+          {
+            "stock_name": "國泰金",
+            "ticker": "2882",
+            "description": "投信買超4.5千張，金控三雄都被投信買爆了，這不是作帳什麼是作帳？肖年仔，跟著國家隊走，至少不會被割太慘。"
+          },
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "投信買超4.1千張，外資卻在賣，這檔也是法人不同調，投信看好，外資在出，肖年仔要小心這種多空交戰的股票。"
+          },
+          {
+            "stock_name": "臺企銀",
+            "ticker": "2834",
+            "description": "投信買超3.3千張，但外資卻狂賣3萬張，這檔是法人對作最明顯的，投信在接刀，外資在倒貨，肖年仔別傻傻地跟著投信衝。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：短線避險與特定題材點火",
+        "stocks": [
+          {
+            "stock_name": "富邦科技",
+            "ticker": "0052",
+            "description": "自營商買超近3千張，跟凱基台北一樣買ETF，這就是避險盤啦！大盤不穩，買ETF鎖住風險，或是做短線價差。"
+          },
+          {
+            "stock_name": "興富發",
+            "ticker": "2542",
+            "description": "營建股，自營商買超1.5千張，這波營建股有都更、房市題材，但自營商通常是短線進出，肖年仔別想抱長。"
+          },
+          {
+            "stock_name": "第一金",
+            "ticker": "2892",
+            "description": "自營商買超1.4千張，外資卻狂賣2萬張，這檔也是法人對作，自營商可能是做權證避險盤，或是短線搶反彈。"
+          },
+          {
+            "stock_name": "友訊",
+            "ticker": "2332",
+            "description": "自營商買超7百多張，跟外資一樣買網通，但量不大，可能是跟風，或是短線操作。"
+          },
+          {
+            "stock_name": "力積電",
+            "ticker": "6770",
+            "description": "DRAM代工，自營商買超5百多張，這也是跟著記憶體題材走，但自營商的量通常不大，肖年仔要小心。"
+          },
+          {
+            "stock_name": "微星",
+            "ticker": "2377",
+            "description": "PC/Gaming品牌，自營商買超5百多張，這檔也是搭上AI PC題材，但自營商的動作通常是短線，肖年仔別追高。"
+          },
+          {
+            "stock_name": "威盛",
+            "ticker": "2388",
+            "description": "IC設計，自營商買超4百多張，這檔是老牌IC設計，有時候會被主力點火，但波動大，肖年仔要小心。"
+          },
+          {
+            "stock_name": "台虹",
+            "ticker": "8039",
+            "description": "軟板廠，自營商買超2百多張，這檔也是電子零組件，自營商的量不大，可能是短線進出，或是避險盤。"
+          },
+          {
+            "stock_name": "南電",
+            "ticker": "8046",
+            "description": "ABF載板，自營商買超1百多張，跟欣興一樣是ABF題材，但自營商的量小，可能是短線操作，肖年仔別跟風。"
+          },
+          {
+            "stock_name": "新日興",
+            "ticker": "3376",
+            "description": "軸承廠，自營商買超1百多張，這檔也是電子零組件，自營商的量小，可能是短線進出，或是避險盤。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔避險與資金避風港（ETF、金融）",
-        "strategy_content": "肖年仔，你看外資狂掃 0050 這麼多，這不是沒有道理的。大盤在高檔震盪，美股那邊巴菲特都說要買S&P 500 ETF了，外資買 0050 就是標準的避險操作，把資金停泊在指數型基金，避免個股波動風險。同時，投信和自營商也同步加碼金融股，這除了有作帳的考量，也是在尋找相對穩定的避風港，畢竟金融股的股性相對溫和，適合在市場不確定時作為防禦性配置。"
+        "strategy_title": "策略一：AI供應鏈深化與記憶體卡位",
+        "strategy_content": "肖年仔，你看看外資大戶狂掃光寶科、緯創、仁寶等AI伺服器相關供應鏈，甚至連南亞科這種記憶體股也大舉敲進，這擺明了就是看好AI資料中心需求持續噴發。你再看看國際新聞Western Digital那檔，股價會噴成那樣，就是因為AI資料中心對高容量硬碟需求爆棚，這股風潮也吹到台灣的AI硬體供應鏈了啦！這不是黑白買，這是主力在鎖碼AI長線題材。"
       },
       {
-        "strategy_title": "策略二：AI概念股持續點火，但籌碼開始換手",
-        "strategy_content": "AI題材還是市場主流，緯創、英業達、華邦電這些AI概念股，外資和投信都還在買超，顯示資金對這個板塊的熱情還沒退燒。但肖年仔，你要注意，像聯電這種，外資大賣，投信卻大買，這就是籌碼在換手。外資可能覺得漲夠了要獲利了結，投信則可能是看好低基期或有轉機的半導體股。這時候就考驗你的眼光了，別傻傻地去接外資倒出來的貨。"
+        "strategy_title": "策略二：金融股的法人分歧戰與作帳行情",
+        "strategy_content": "肖年仔，這波金融股很有趣，投信大戶狂掃華南金、元大金、富邦金、國泰金等一票金控股，擺明了就是「國家隊」在作帳，看重這些股票的穩定性跟殖利率，準備年底結算衝績效。但你再看看外資，雖然有買台新新光金、凱基金，卻又大舉倒貨彰銀、臺企銀、第一金、兆豐金，這就是法人在對作啦！外資可能是獲利了結，或是對特定金控股有疑慮，肖年仔別傻傻地以為金融股全面噴發，小心接刀接到手軟。"
       },
       {
-        "strategy_title": "策略三：內外資對傳產與部分金融看法分歧，小心隔日沖",
-        "strategy_content": "航空雙雄長榮航、華航，外資大買，但投信卻在賣，這就是內外資對解封題材的看法不同調。外資可能想再炒一波，但投信可能覺得漲幅已高，開始獲利了結。另外，像南亞、臺企銀這些傳產和金融股，外資大賣，投信卻有買進，這也顯示了市場資金的拉扯。肖年仔，這種內外資對作的股票，常常是隔日沖的最愛，今天買明天倒，你一不小心就會被割韭菜。"
+        "strategy_title": "策略三：資金避風港與防禦型資產佈局",
+        "strategy_content": "在全球流動性緊縮、聯準會態度不明朗的背景下（看看比特幣新聞就知道了，連Trump都救不了），大戶們也不是傻子。外資買統一這種內需穩定股，投信跟自營商也狂敲0050、富邦科技這種ETF，這就是典型的資金避風港策略啦！肖年仔，大盤震盪時，這些防禦性資產就是主力大戶的保命符，進可攻退可守，至少不會讓你賠到脫褲子。"
       }
     ],
-    "summary": "肖年仔，今天市場就是一個字：亂！外資避險兼布局AI和航空，投信作帳兼撿低基期，內資主力則在金融營建裡玩短線。籌碼換手頻繁，別傻傻追高，小心被主力拉高出貨！",
+    "summary": "肖年仔，今天大戶們的動作很明顯，AI伺服器跟記憶體是外資的長線鎖碼標的，而本土投信則是在金融股作帳兼避險，大盤震盪下，防禦型資產成了資金避風港，但法人對作的股票，你可千萬別傻傻去接刀！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 1.9萬張",
-        "uncle_logic": "高盛狂買 0050，這就是外資大戶的標準避險動作，看好台股長期趨勢，但短期震盪先用ETF穩住，肖年仔，這不是讓你去追個股的訊號。"
+        "action": "買超 1.006 萬張",
+        "uncle_logic": "肖年仔，高盛這大咖出手，買光寶科近1萬張，擺明了就是看好AI電源供應鏈的長線趨勢，這不是隔日沖，這是要鎖碼的節奏。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 0.05萬張",
-        "uncle_logic": "凱基台北買第一金，這分點是出了名的隔日沖大戶，買金融股這種波動小的標的，擺明就是想賺個價差就跑，肖年仔，別傻傻地跟著進去當接刀俠。"
+        "action": "買超 1191 張",
+        "uncle_logic": "凱基台北這分點，大家心知肚明，就是短線大戶的集散地。買ETF，不是避險就是隔日沖，肖年仔別看它買就跟進，小心明天就被倒貨。"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 0.6萬張",
-        "uncle_logic": "元大投信買聯電，這就是本土國家隊在作帳，同時也可能是看好半導體成熟製程的低基期，跟外資對作，看誰的眼光比較準。"
+        "action": "買超 3995 張",
+        "uncle_logic": "這就是「國家隊」在護盤啦！投信買自己的ETF，不是為了作帳，就是為了穩定市場信心，肖年仔，這就是大盤的定海神針。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 2.6萬張",
-        "uncle_logic": "摩根大通大賣聯電，這跟高盛買 0050 形成對比，外資大戶對聯電的看法分歧，可能是獲利了結，也可能是轉往其他AI概念股，肖年仔，這就是大戶的資金挪移，你得看清楚。"
+        "action": "賣超 1.128 萬張",
+        "uncle_logic": "摩根大通這外資大咖，狂倒彰銀1.1萬張，這跟投信狂買金融股形成強烈對比。肖年仔，這就是外資在調整部位，可能是獲利了結，也可能是對特定金控股有疑慮，別傻傻去接刀。"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "Warren Buffett keeps pointing at the same ETF for a reason",
+      "title": "If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-keeps-pointing-same-160300409.html",
-      "level1_blind": {
-        "text": "Most people assume that the world's most successful investors have some edge that regular people can't access. Better information. Smarter models. A network of insiders who call before the news breaks. Warren Buffett spent 60 years proving that assumption wrong, building one of the greatest fortunes in history through patience and simplicity rather than complexity.\n\nAnd yet when people ask him what they should do with their money, his answer has been the same for decades. It's not a stock tip. It's not a sector call. It's an ETF that anyone can buy for three cents on every hundred dollars invested.\n\nBuffett has made his position clear in shareholder letters, interviews, and annual meetings going back years. In his 2016 shareholder letter, he wrote: \"My regular recommendation has been a low-cost S&P 500index fund.\" At Berkshire's 2021 annual meeting, he said: \"In my view, for most people, I think that the best thing to do is buy an S&P 500 index fund.\"\n\nThe most direct version of the advice came in his 2013 letter to Berkshire Hathaway shareholders, where he described the instructions he had written into his will for the money he would leave to his wife: \"My advice to the trustee could not be more simple: Put 10% of the cash in short-term government bonds and 90% in a very low-cost S&P 500 index fund. (I suggest Vanguard's.) I believe the trust's long-term results from this policy will be superior to those attained by most investors, whether pension funds, institutions or individuals, who employ high-fee managers,\" according to The Motley Fool.\n\nHe wasn't being modest. He was being precise. This is the same man who beat the market by an enormous margin over six decades, and he was saying that for his own wife's trust, a simple index fund would beat most professional managers.\n\nVanguard S&P 500 ETF (VOO) tracks the S¼P 500, charges 0.03% a year, and has grown to more than $950 billion in assets. Three cents on every hundred dollars. On a $10,000 investment that's $3 annually in fees. That's it. That's what Buffett means when he says low cost, and that's why he keeps naming Vanguard specifically when people ask which fund.\n\nVOO gives investors exposure to 500 of America's largest companies across all 11 sectors of the economy, from technology and healthcare to energy and consumer staples. The top holdings include Nvidia, Microsoft, Apple, Amazon, and Alphabet. Any component that deteriorates over time gets removed and replaced. The index self-corrects without the investor having to do anything.\n\nVOO has averaged about 15% annual growth over the past decade. Nobody enjoyed the 2020 crash while it was happening. Or any of the other rough patches in between. But the return is what you get if you didn't sell, and most of the people who did sell locked in losses they never recovered."
-      },
+      "link": "https://finance.yahoo.com/markets/crypto/articles/invested-1-000-gold-bitcoin-150000514.html",
+      "level1_blind": "<html><body>Pick any investor who watched Donald Trump walk back into the White House on January 20, 2025 and decided to put money into the three most talked-about assets surrounding that moment.</body></html>",
       "level2_keywords": [
         {
-          "word": "ETF",
+          "word": "Bitcoin",
           "ipa": "",
-          "meaning": "赦四句民",
-          "example": "我一为 ETF 欢张诀名的赦四句民"
+          "meaning": "比特幣",
+          "example": "比特幣開啟 inauguration 日在大約 $102,000"
         },
         {
-          "word": "SüP 500",
+          "word": "gold",
           "ipa": "",
-          "meaning": "赦四句民万十。",
-          "example": "我一为 SüP 500 赦四句民万十。"
+          "meaning": "金",
+          "example": "金已經 anchoring portfolios for centuries"
         },
         {
-          "word": "Vanguard",
+          "word": "TRUMP",
           "ipa": "",
-          "meaning": "八园乼",
-          "example": "我一为 Vanguard 赦四句民"
+          "meaning": "特朗普",
+          "example": "TRUMP memecoin 是一種 token bearing the president的 name"
         },
         {
-          "word": "index fund",
+          "word": "GENIUS Act",
           "ipa": "",
-          "meaning": "赦四句民统额",
-          "example": "我一为 index fund 赦四句民统额"
+          "meaning": "GENIUS 行為",
+          "example": "他 signed the GENIUS Act"
         },
         {
-          "word": "low-cost",
+          "word": "Executive Order",
           "ipa": "",
-          "meaning": "鼨不吃",
-          "example": "我一为 low-cost 赦四句民"
+          "meaning": "行政命令",
+          "example": "他 signed an Executive Order to establish a Strategic Bitcoin Reserve"
         }
       ],
-      "level2_context": "赦四句民的统额同能不课果。我一为 ETF 赦四句民万十。",
+      "level2_context": "這篇文章討論了美國總統特朗普在 inauguration 日的政策選擇，特別是對比特幣的態度。 author 表示，即使在有利於比特幣的政策環境下，價格仍然下跌。這個教訓是什麼？",
       "level3_translation": [
         {
-          "sentence": "Most people assume that the world's most successful investors have some edge that regular people can't access.",
-          "translation": "我一为 ETF 赦四句民的课果同能不课果。"
+          "sentence": "Pick any investor who watched Donald Trump walk back into the White House on January 20, 2025 and decided to put money into the three most talked-about assets surrounding that moment.",
+          "translation": ""
         },
         {
-          "sentence": "Warren Buffett spent 60 years proving that assumption wrong, building one of the greatest fortunes in history through patience and simplicity rather than complexity.",
-          "translation": "我一为 赦四句民的课果同能。一为 60年日生我邮统不同能。"
+          "sentence": "Bitcoin, the asset Trump had openly embraced.",
+          "translation": "比特幣，是特朗普對於的開放支持"
         },
         {
-          "sentence": "And yet when people ask him what they should do with their money, his answer has been the same for decades.",
-          "translation": "我一为 我一为宝例你同能。我一为宝例你的赦四句民的课果同能。"
+          "sentence": "Gold, the safe haven that has anchored portfolios for centuries.",
+          "translation": "金，是一種安全隱藏的資產，已經在 portfolios 中安置了數百年"
         },
         {
-          "sentence": "It's not a stock tip. It's not a sector call.",
-          "translation": "我一为宝例统额。我一为统额同能。"
+          "sentence": "And the TRUMP memecoin, the token bearing the president's name that had launched three days earlier and was already being called the trade of the inauguration.",
+          "translation": "和特朗普的 memecoin ，是一種以總統的名字命名的 token ，已經在三天前推出，並且已經被稱為 inauguration 的交易"
         },
         {
-          "sentence": "It's an ETF that anyone can buy for three cents on every hundred dollars invested.",
-          "translation": "我一为 ETF 赦四句民的课果同能。我一为万八。不课果同能。"
+          "sentence": "Bitcoin opened inauguration day at approximately $102,000.",
+          "translation": "比特幣在 inauguration 日開啟時大約為 $102,000"
         },
         {
-          "sentence": "Buffett has made his position clear in shareholder letters, interviews, and annual meetings going back years.",
-          "translation": "我一为 赦四句民的课果同能。我一为宝例统额同能。"
+          "sentence": "A $1,000 investment bought roughly 0.0098 BTC.",
+          "translation": "一千美元的投資買下了大致 0.0098 BTC"
         },
         {
-          "sentence": "In his 2016 shareholder letter, he wrote: \"My regular recommendation has been a low-cost SüP 500 index fund.\"",
-          "translation": "我一为 赦四句民的课果同能。我一为 2016年统统同能。我一为赦四句民的课果同能。"
+          "sentence": "Today, with Bitcoin trading near $62,000, that position is worth approximately $607.",
+          "translation": "今天，與比特幣交易價格近 $62,000 的情況下，這個位置的價值大約為 $607"
         },
         {
-          "sentence": "At Berkshire's 2021 annual meeting, he said: \"In my view, for most people, I think that the best thing to do is buy an SüP 500 index fund.\"",
-          "translation": "我一为 赦四句民的课果同能。我一为 2021年统统同能。我一为赦四句民的课果同能。"
+          "sentence": "that position is worth approximately 40% less than its original value.",
+          "translation": "這個位置的價值大約是原來價值的 40% 减少"
         },
         {
-          "sentence": "The most direct version of the advice came in his 2013 letter to Berkshire Hathaway shareholders, where he described the instructions he had written into his will for the money he would leave to his wife: \"My advice to the trustee could not be more simple: Put 10% of the cash in short-term government bonds and 90% in a very low-cost SüP 500 index fund. (I suggest Vanguard's.) I believe the trust's long-term results from this policy will be superior to those attained by most investors, whether pension funds, institutions or individuals, who employ high-fee managers,\"",
-          "translation": "我一为 赦四句民的课果同能。我一为 2013年统统同能。我一为赦四句民的课果同能。我一为万八。我一为赦四句民的课果同能。我一为万八。我一为赦四句民的课果同能。"
+          "sentence": "The irony is hard to miss.",
+          "translation": "這種 ironia 很難忽視"
         },
         {
-          "sentence": "He wasn't being modest. He was being precise.",
-          "translation": "我一为宝例价四。我一为价四同能。"
+          "sentence": "Trump entered office as the most openly crypto-friendly president in American history.",
+          "translation": "特朗普上任為美國史上的最開放的加密貨幣友好的總統"
         },
         {
-          "sentence": "This is the same man who beat the market by an enormous margin over six decades, and he was saying that for his own wife's trust, a simple index fund would beat most professional managers.",
-          "translation": "我一为 赦四句民的课果同能。我一为 6年统。我一为宝例的赦四句民的课果同能。我一为价四同能。"
+          "sentence": "He signed the GENIUS Act.",
+          "translation": "他簽署了GENIUS 行為"
         },
         {
-          "sentence": "Vanguard SüP 500 ETF (VOO) tracks the SüP 500, charges 0.03% a year, and has grown to more than $950 billion in assets.",
-          "translation": "我一为 Vanguard 赦四句民的课果同能。我一为 0.03% 统额。我一为 950三八。"
+          "sentence": "He signed an Executive Order to establish a Strategic Bitcoin Reserve.",
+          "translation": "他簽署了一份行政命令，建立了一個戰略性比特幣儲備"
         },
         {
-          "sentence": "Three cents on every hundred dollars invested.",
-          "translation": "万八。"
+          "sentence": "And Bitcoin still lost 40% of its value on his watch.",
+          "translation": "而比特幣仍然在他的觀察下失去 40% 的價值"
         },
         {
-          "sentence": "On a $10,000 investment that's $3 annually in fees.",
-          "translation": "我一为 10000八的赦四同能。我一为 3统额。"
+          "sentence": "What makes the Bitcoin loss particularly striking is the context surrounding it.",
+          "translation": "什麼使得比特幣的損失特別突出？是因為它的背景情況"
         },
         {
-          "sentence": "That's it. That's what Buffett means when he says low cost, and that's why he keeps naming Vanguard specifically when people ask which fund.",
-          "translation": "我一为宝例。我一为赦四句民的课果同能。"
+          "sentence": "This was not a hostile administration.",
+          "translation": "這不是一個敵對的政府"
+        },
+        {
+          "sentence": "Trump's team established the first ever Strategic Bitcoin Reserve in March 2025, halting all government Bitcoin sales and signaling long-term institutional commitment at the sovereign level.",
+          "translation": "特朗普團隊在 2025 年三月建立了第一個戰略性比特幣儲備，停止所有政府比特幣交易，並且 signal long-term institutional commitment at the sovereign level"
+        },
+        {
+          "sentence": "The policy environment was the most favorable in Bitcoin's history.",
+          "translation": "政策環境是比特幣史上最有利的"
+        },
+        {
+          "sentence": "And yet the price fell from where it stood on the day that all of that became official.",
+          "translation": "然而價格仍然從那天開始所有這些變化之後下跌"
+        },
+        {
+          "sentence": "The lesson is not that Bitcoin is broken.",
+          "translation": "教訓不是比特幣是壞的"
+        },
+        {
+          "sentence": "It is that even the best policy tailwind cannot override a global liquidity squeeze, a hawkish Fed, and overleveraged positions unwinding at scale.",
+          "translation": "它是什麼？即使最好的政策風險也不能克服全球流動性窘迫，hawkish Fed 和過度借贖的位置在大規模解鎖"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Cathie Wood sells $5.5 million of surging tech stock",
+      "title": "Are Wall Street Analysts Predicting Western Digital Stock Will Climb or Sink?",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-5-5-163300469.html",
-      "level1_blind": "Cathie Wood, head of Ark Investment Management, likes to lock in gains when her tech darlings rally.\n\nThat's exactly what she's doing with Snowflake, trimming her position after the cloud software stock surged nearly 10% over the past five trading days ahead of earnings.\n\nIn 2025, the flagship Ark Innovation ETF gained 35.49%, far outpacing the S&P 500's return of 17.88% in the same period. But so far this year, Wood's flagship Ark Innovation ETF (ARKK) is down 8.51% as of July 31, while the S&P 500 surged 9.41%, Yahoo Finance data shows.\n\nWood gained a reputation after the Ark Innovation ETF delivered a 153% return in 2020. But her style also brings painful losses in bearish markets, as seen in 2022, when the Ark Innovation ETF tumbled more than 60%.\n\nThose swings have weighed on Wood's long-term gains. As of July 31, her Ark Innovation ETF has delivered a five-year annualized return of -9.75%, while the S&P 500 has an annualized return of 11.25% over the same period, according to data from Morningstar.\n\nWood usually focuses on high-tech companies across artificial intelligence, blockchain, biomedical technology, and robotics. She believes these businesses have strong growth potential, though their volatility often causes fluctuations in the Ark's funds.\n\nOver the decade ended 2025, the Ark Innovation ETF wiped out nearly $5 billion in investor wealth, according to an analysis by Morningstar's analyst Amy Arnott. That made it the fourth-biggest wealth destroyer among mutual funds and ETFs in the ranking.\n\nWood believes investors have been focusing on the wrong signals as they assess the outlook for inflation, interest rates, and stocks.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-western-143655241.html",
+      "level1_blind": "Western Digital Corporation (WDC), headquartered in San Jose, California, develops, manufactures, and sells data storage devices and solutions. With a market cap of $187.8 billion, the company's products include hard drives, solid-state drives, and home entertainment and networking products.\n\nShares of this leading supplier of data storage solutions have substantially outperformed the broader market over the past year. WDC has gained 582% over this time frame, while the broader S&P 500 Index ($SPX) has rallied nearly 17.7%. In 2026, WDC stock is up 203.1%, surpassing the SPX's 9.4% rise on a YTD basis.\n\nPalantir Is Set to Deliver Strong Q2. Analysts See 60% Upside Potential for PLTR Stock.\n\nZooming in further, WDC's outperformance is also apparent compared to the State Street Technology Select Sector SPDR ETF (XLK). The exchange-traded fund has gained about 36% over the past year. Moreover, WDC's triple-digit gains on a YTD basis outshine the ETF's 21.4% returns over the same time frame.\n\nWestern Digital has significantly outperformed over the past year due to soaring hyperscaler demand for high-capacity enterprise hard drives driven by AI data center expansion, massive gross margin expansion fueled by disciplined pricing and production, and strong market enthusiasm surrounding its strategic plan to separate its HDD and Flash memory (NAND) businesses to unlock distinct, pure-play shareholder value.\n\nFor the current fiscal year, ended in June, analysts expect WDC's EPS to grow 112.1% to $9.61 on a diluted basis. The company's earnings surprise history is impressive. It beat the consensus estimates in each of the last four quarters.\n\nAmong the 25 analysts covering WDC stock, the consensus is a \"Strong Buy.\" That's based on 20 \"Strong Buy\" ratings, one \"Moderate Buy,\" and four \"Holds.\">\n\nThis configuration is more bullish than two months ago, with 21 analysts suggesting a \"Strong Buy.\"\n",
       "level2_keywords": [
         {
-          "word": "Snowflake",
+          "word": "Western Digital",
           "ipa": "",
-          "meaning": "雲計算軟體公司",
-          "example": "Snowflake 的 cloud computing solution"
+          "meaning": "西部數據公司",
+          "example": "西部數據公司的股票在過去的一年中出現了顯著的上漲"
         },
         {
-          "word": "artificial intelligence",
+          "word": "hard drives",
           "ipa": "",
-          "meaning": "人工智能",
-          "example": "人工智能技術在 Snowflake 的cloud computing中發揮著重要作用"
+          "meaning": "硬碟",
+          "example": "硬碟是西部數據公司主要生產的產品"
         },
         {
-          "word": "blockchain",
+          "word": "solid-state drives",
           "ipa": "",
-          "meaning": "區塊鏈",
-          "example": "Snowflake 使用 blockchain 技術來增強其 cloud computing 解決方案"
+          "meaning": "固態存儲器",
+          "example": "固態存儲器是西部數據公司另一項重要產品"
         },
         {
-          "word": "biomedical technology",
+          "word": "enterprise",
           "ipa": "",
-          "meaning": "生物醫學技術",
-          "example": "Snowflake 的 biomedical technology 部門正在研究如何應用人工智能和區塊鏈技術"
+          "meaning": "企業級",
+          "example": "企業級硬碟的需求在 AI Data Center 中有著顯著的上漲"
         },
         {
-          "word": "robotics",
+          "word": "gross margin",
           "ipa": "",
-          "meaning": "機械人類學",
-          "example": "Snowflake 的 robotics 部門正在開發自動化的 cloud computing 解決方案"
+          "meaning": "毛利率",
+          "example": "西部數據公司通過 disciplinied pricing and production 才能實現高毛利率"
         }
       ],
-      "level2_context": "這篇文章提到了 Cathie Wood 的投資策略，她主要關注高科技公司，尤其是 Snowflake、人工智能、區塊鏈、生物醫學技術和機械人類學。她的投資風格受到 bearish 市場的影響，但她仍然相信這些公司有強大的成長潛力。",
+      "level2_context": "\n西部數據公司的出performnce主要是由於 hyperscaler 的需求增加、AI Data Center 的擴大以及其優化的 pricing 和 production strategy。\n這些因素使得公司的毛利率有了顯著的上漲，從而導致其股票的上漲。\n\n在財經界中，這種出performnce是由於企業對市場的適應能力和策略選擇所致。西部數據公司通過分離其 HDD 和 Flash memory (NAND) 业务來unlock distinct, pure-play shareholder value，從而提高了其競爭力。\n",
       "level3_translation": [
         {
-          "sentence": "Cathie Wood, head of Ark Investment Management, likes to lock in gains when her tech darlings rally.",
+          "sentence": "Western Digital Corporation (WDC), headquartered in San Jose, California, develops, manufactures, and sells data storage devices and solutions.",
           "translation": ""
         },
         {
-          "sentence": "That's exactly what she's doing with Snowflake, trimming her position after the cloud software stock surged nearly 10% over the past five trading days ahead of earnings.",
+          "sentence": "With a market cap of $187.8 billion, the company's products include hard drives, solid-state drives, and home entertainment and networking products.",
           "translation": ""
         },
         {
-          "sentence": "In 2025, the flagship Ark Innovation ETF gained 35.49%, far outpacing the S&P 500's return of 17.88% in the same period.",
+          "sentence": "Shares of this leading supplier of data storage solutions have substantially outperformed the broader market over the past year.",
           "translation": ""
         },
         {
-          "sentence": "But so far this year, Wood's flagship Ark Innovation ETF (ARKK) is down 8.51% as of July 31, while the S&P 500 surged 9.41%, Yahoo Finance data shows.",
+          "sentence": "WDC has gained 582% over this time frame, while the broader S&P 500 Index ($SPX) has rallied nearly 17.7%.",
           "translation": ""
         },
         {
-          "sentence": "Wood gained a reputation after the Ark Innovation ETF delivered a 153% return in 2020.",
-          "translation": ""
-        },
-        {
-          "sentence": "But her style also brings painful losses in bearish markets, as seen in 2022, when the Ark Innovation ETF tumbled more than 60%.",
-          "translation": ""
-        },
-        {
-          "sentence": "Those swings have weighed on Wood's long-term gains.",
-          "translation": ""
-        },
-        {
-          "sentence": "As of July 31, her Ark Innovation ETF has delivered a five-year annualized return of -9.75%, while the S&P 500 has an annualized return of 11.25% over the same period, according to data from Morningstar.",
-          "translation": ""
-        },
-        {
-          "sentence": "Wood usually focuses on high-tech companies across artificial intelligence, blockchain, biomedical technology, and robotics.",
-          "translation": ""
-        },
-        {
-          "sentence": "She believes these businesses have strong growth potential, though their volatility often causes fluctuations in the Ark's funds.",
-          "translation": ""
-        },
-        {
-          "sentence": "Over the decade ended 2025, the Ark Innovation ETF wiped out nearly $5 billion in investor wealth, according to an analysis by Morningstar's analyst Amy Arnott.",
-          "translation": ""
-        },
-        {
-          "sentence": "That made it the fourth-biggest wealth destroyer among mutual funds and ETFs in the ranking.",
-          "translation": ""
-        },
-        {
-          "sentence": "Wood believes investors have been focusing on the wrong signals as they assess the outlook for inflation, interest rates, and stocks.",
-          "translation": ""
-        }
-      ]
-    },
-    {
-      "news_id": "news_3",
-      "title": "CoreWeave Just Scored a Leidos Partnership. What That Means for CRWV Stock Here.",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-just-scored-leidos-partnership-141239028.html",
-      "level1_blind": {
-        "text": "Neocloud provider CoreWeave (CRWV) saw its stock rise by 21.5% intraday on July 30 as the company announced a partnership with Leidos Holdings (LDOS) to provide artificial intelligence (AI) cloud services to United Stated federal agencies, so that they can deploy and operate AI at mission scale. This extends CoreWeave's reach into addressing U.S. Intelligence Community (IC) and Department of Defense's (DoD) unique requirements.\n\nThis also diversifies CoreWeave's customer base, as government contracts bring stability and are spread across a broad number of agencies, which is important for a company that relies on its top customers for a major portion of its revenue.\n\nPalantir Is Set to Deliver Strong Q2. Analysts See 60% Upside Potential for PLTR Stock.\n\nSeagate Rallies on Strong Q4 Results and Guidance. What Does This Mean for STX Stock Here.\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nMoreover, there's a threat looming of a customer turning into a potential rival. Meta Platforms (META) is reportedly entering the neocloud business, with its massive cash hoard and industry-wide reach. In Q1, CoreWeave executed multiple new agreements with Meta, including a new $21 billion commitment signed in March.\n\nOn the other hand, the neocloud business is thriving, with providers expected to capture 20% of the $267 billion AI cloud market by 2030, as per Gartner. Therefore, established neocloud providers like CoreWeave have significant prospects in the market, and the Leidos partnership is a possible testament to that.\n\nCoreWeave is a cloud infrastructure company focused on providing GPU-powered computing for AI developers and enterprises. It operates data centers across the U.S. and Europe, with a platform designed to support large-scale training and deployment of generative AI workloads."
-      },
-      "level2_keywords": [
-        {
-          "word": "neocloud",
-          "ipa": "",
-          "meaning": "neocloud（新興雲計算），指的是在雲計算領域中使用新興技術，例如AI、深度學習等，以提供更高效的計算能力和存儲能力。",
-          "example": "neocloud提供者CoreWeave的 GPU 環路設計能夠有效地支持大規模 AI 訓練和部署"
-        },
-        {
-          "word": "partnership",
-          "ipa": "",
-          "meaning": "合作伙伴關係，指的是兩家或多家公司之間的商業或技術聯盟",
-          "example": "CoreWeave與 Leidos Holdings 的這個合作伙伴關係將有助於 CoreWeave 在政府合同市場的競爭力"
-        },
-        {
-          "word": "artificial intelligence",
-          "ipa": "",
-          "meaning": "人工智能（AI），指的是通過計算機和軟體實現人類智能能力的技術",
-          "example": "CoreWeave 的 AI 環路設計將有助於政府機構們更有效地部署和運用 AI"
-        },
-        {
-          "word": "cloud",
-          "ipa": "",
-          "meaning": "雲計算，指的是在雲中提供計算資源和存儲能力的服務",
-          "example": "CoreWeave 的雲計算平台將有助於政府機構們更有效地部署和運用 AI"
-        },
-        {
-          "word": "government",
-          "ipa": "",
-          "meaning": "政府，指的是國家或地區的行政機關",
-          "example": "CoreWeave 的這個合作伙伴關係將有助於 CoreWeave 在政府合同市場的競爭力"
-        }
-      ],
-      "level2_context": "\n\n這篇文章描述了 CoreWeave 的新合作伙伴關係，該關係將有助於 CoreWeave 在政府合同市場的競爭力。這也表明了 neocloud 環路設計在政府機構間的重要性。\n\n此外，這篇文章還提到了 AI 和雲計算的趨勢，以及 Meta Platforms 的進入 neocloud 環路設計的影響。\n\n總之，該文章提供了一個關於 CoreWeave 和 Leidos Holdings 的合作伙伴關係的宏觀背景脈絡",
-      "level3_translation": [
-        {
-          "sentence": "Neocloud provider CoreWeave (CRWV) saw its stock rise by 21.5% intraday on July 30 as the company announced a partnership with Leidos Holdings (LDOS) to provide artificial intelligence (AI) cloud services to United Stated federal agencies, so that they can deploy and operate AI at mission scale.",
-          "translation": ""
-        },
-        {
-          "sentence": "This extends CoreWeave's reach into addressing U.S. Intelligence Community (IC) and Department of Defense's (DoD) unique requirements.",
+          "sentence": "In 2026, WDC stock is up 203.1%, surpassing the SPX's 9.4% rise on a YTD basis.",
           "translation": ""
         },
         {
@@ -386,37 +390,143 @@
           "translation": ""
         },
         {
-          "sentence": "Seagate Rallies on Strong Q4 Results and Guidance. What Does This Mean for STX Stock Here.",
+          "sentence": "Zooming in further, WDC's outperformance is also apparent compared to the State Street Technology Select Sector SPDR ETF (XLK).",
           "translation": ""
         },
         {
-          "sentence": "Markets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.",
+          "sentence": "The exchange-traded fund has gained about 36% over the past year.",
           "translation": ""
         },
         {
-          "sentence": "Moreover, there's a threat looming of a customer turning into a potential rival. Meta Platforms (META) is reportedly entering the neocloud business, with its massive cash hoard and industry-wide reach.",
+          "sentence": "Moreover, WDC's triple-digit gains on a YTD basis outshine the ETF's 21.4% returns over the same time frame.",
           "translation": ""
         },
         {
-          "sentence": "On the other hand, the neocloud business is thriving, with providers expected to capture 20% of the $267 billion AI cloud market by 2030, as per Gartner.",
+          "sentence": "Western Digital has significantly outperformed over the past year due to soaring hyperscaler demand for high-capacity enterprise hard drives driven by AI data center expansion, massive gross margin expansion fueled by disciplined pricing and production, and strong market enthusiasm surrounding its strategic plan to separate its HDD and Flash memory (NAND) businesses to unlock distinct, pure-play shareholder value.",
           "translation": ""
         },
         {
-          "sentence": "Therefore, established neocloud providers like CoreWeave have significant prospects in the market, and the Leidos partnership is a possible testament to that.",
+          "sentence": "For the current fiscal year, ended in June, analysts expect WDC's EPS to grow 112.1% to $9.61 on a diluted basis.",
           "translation": ""
         },
         {
-          "sentence": "CoreWeave is a cloud infrastructure company focused on providing GPU-powered computing for AI developers and enterprises.",
+          "sentence": "The company's earnings surprise history is impressive.",
           "translation": ""
         },
         {
-          "sentence": "It operates data centers across the U.S. and Europe, with a platform designed to support large-scale training and deployment of generative AI workloads.",
+          "sentence": "It beat the consensus estimates in each of the last four quarters.",
           "translation": ""
+        },
+        {
+          "sentence": "Among the 25 analysts covering WDC stock, the consensus is a \"Strong Buy.\"",
+          "translation": ""
+        },
+        {
+          "sentence": "That's based on 20 \"Strong Buy\" ratings, one \"Moderate Buy,\" and four \"Holds.\"\n",
+          "translation": ""
+        },
+        {
+          "sentence": "This configuration is more bullish than two months ago, with 21 analysts suggesting a \"Strong Buy.\"\n",
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "news_id": "news_3",
+      "title": "Dollar Pressured by Strong Stocks and Easing Geopolitical Risks",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-pressured-strong-stocks-easing-143350947.html",
+      "level1_blind": "The dollar index (DXY00) fell to a 7-week low today and is down by -0.10%. Easing geopolitical tensions in the Middle East are boosting stocks and reducing safe-haven demand for the dollar. Also, today's -6% plunge in WTI crude oil prices lowers inflation expectations and could prompt the Fed to loosen monetary policy, a negative factor for the dollar. The dollar recovered from its worst level after the July ISM manufacturing index rose more than expected to a 4-year high.\n\nDovish comments today from New York Fed President John Williams were negative for the dollar when he said interest rates remain well positioned as inflation should ease during the second half of the year.\n\nThe US July ISM manufacturing index rose +2.3 to 55.6, stronger than expectations of 53.9 and the fastest pace of expansion in four years.\n\nUS June construction spending unexpectedly fell -0.1% m/m, weaker than expectations of a +0.2% m/m increase.\n\nThe markets are discounting a 63% probability of a +25 bp rate hike at the next FOMC meeting on September 15-16.\n\nEUR/USD (^EURUSD) is down by -0.07% today. The euro fell from a 1.5-month high and is slightly lower after the Eurozone July S&P manufacturing PMI was revised downward and after German June retail fell more than expected, the most in 13 months.\n\nThe euro initially moved higher today on dollar weakness and the -6% plunge in crude oil prices, which is supportive of the Eurozone economy and the euro as Europe imports most of its energy.\n\nThe Eurozone July S&P manufacturing PMI was revised downward by -0.1 to 51.9 from the originally reported 52.0.",
+      "level2_keywords": [
+        {
+          "word": "DXY00",
+          "ipa": "",
+          "meaning": "美元指數",
+          "example": "美元指數下跌，影響美元的價值"
+        },
+        {
+          "word": "WTI crude oil prices",
+          "ipa": "",
+          "meaning": "WTI crude oil價格",
+          "example": "WTI crude oil價格下跌，降低了油氣產業的預期"
+        },
+        {
+          "word": "ISM manufacturing index",
+          "ipa": "",
+          "meaning": "製造業指數",
+          "example": "製造業指數上升，表明經濟活動有所恢復"
+        },
+        {
+          "word": "Eurozone economy",
+          "ipa": "",
+          "meaning": "歐洲聯盟的經濟",
+          "example": "歐洲聯盟的經濟對美元的影響"
+        },
+        {
+          "word": "FOMC meeting",
+          "ipa": "",
+          "meaning": "美聯行會議",
+          "example": "美聯行會議對美元的影響"
+        }
+      ],
+      "level2_context": "\n這篇文章主要是關於美元的價值與美國經濟的相關訊息。美國經濟在上半年有所恢復，製造業指數上升，這對美元的價值產生了正面影響。\n然而，WTI crude oil價格下跌，降低了油氣產業的預期，這對美元的價值產生了負面影響。\n這篇文章也提到了美聯行會議的可能性，美國中央銀行可能會在未來的會議中調整 monetary policy，對美元的價值產生影響。\n",
+      "level3_translation": [
+        {
+          "sentence": "The dollar index (DXY00) fell to a 7-week low today and is down by -0.10%.",
+          "translation": "美元指數下跌到近七週低，降低了美元的價值"
+        },
+        {
+          "sentence": "Easing geopolitical tensions in the Middle East are boosting stocks and reducing safe-haven demand for the dollar.",
+          "translation": "中東地政情勢緩和對股市有正面影響，減少了美元作為safe-haven的需求"
+        },
+        {
+          "sentence": "Also, today's -6% plunge in WTI crude oil prices lowers inflation expectations and could prompt the Fed to loosen monetary policy.",
+          "translation": "今天WTI crude oil價格下跌 6%，降低了通胀預期，可能會促使美聯行會議放鬆 monetary policy"
+        },
+        {
+          "sentence": "The dollar recovered from its worst level after the July ISM manufacturing index rose more than expected to a 4-year high.",
+          "translation": "美元從其最差的水平恢復來，July 的製造業指數上升超預期到四年高峰"
+        },
+        {
+          "sentence": "Dovish comments today from New York Fed President John Williams were negative for the dollar when he said interest rates remain well positioned as inflation should ease during the second half of the year.",
+          "translation": "今日紐約聯邦儲備局主席約翰·威廉姆斯的 dovish 說法對美元有負面影響，他表示利率仍然適合，通胀在第二半年應該會緩和"
+        },
+        {
+          "sentence": "The US July ISM manufacturing index rose +2.3 to 55.6, stronger than expectations of 53.9 and the fastest pace of expansion in four years.",
+          "translation": "美國七月製造業指數上升 2.3%，超預期，達到 55.6，創下四年來最快的擴張速度"
+        },
+        {
+          "sentence": "US June construction spending unexpectedly fell -0.1% m/m, weaker than expectations of a +0.2% m/m increase.",
+          "translation": "美國六月建材投資減少 0.1%，超預期，下跌 0.2% 的增幅"
+        },
+        {
+          "sentence": "The markets are discounting a 63% probability of a +25 bp rate hike at the next FOMC meeting on September 15-16.",
+          "translation": "市場正在假設下一個美聯行會議（September 15-16）中，利率將上升 0.25%，風險達到 63% "
+        },
+        {
+          "sentence": "EUR/USD (^EURUSD) is down by -0.07% today.",
+          "translation": "今日 EUR/USD 下跌 0.07%， euro 的價值下降"
+        },
+        {
+          "sentence": "The euro fell from a 1.5-month high and is slightly lower after the Eurozone July S&P manufacturing PMI was revised downward and after German June retail fell more than expected, the most in 13 months.",
+          "translation": "今日 euro 的價值從近半個月高峰下跌，降低了歐洲聯盟製造業指數的預期，並且德國六月零售市場下跌超預期"
+        },
+        {
+          "sentence": "The euro initially moved higher today on dollar weakness and the -6% plunge in crude oil prices, which is supportive of the Eurozone economy and the euro as Europe imports most of its energy.",
+          "translation": "今日 euro 的價值初起上升，主要是因美元的弱勢和WTI crude oil價格下跌，對於歐洲聯盟經濟和 euro 有正面影響"
+        },
+        {
+          "sentence": "The Eurozone July S&P manufacturing PMI was revised downward by -0.1 to 51.9 from the originally reported 52.0.",
+          "translation": "今日歐洲聯盟七月製造業指數被修正下降 0.1，從原來的 52.0 下跌到 51.9"
+        },
+        {
+          "sentence": "The markets are discounting a 63% probability of a +25 bp rate hike at the next FOMC meeting on September 15-16.",
+          "translation": "市場正在假設下一個美聯行會議（September 15-16）中，利率將上升 0.25%，風險達到 63% "
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "在金融市場中，Warren Buffett 的持續強調低成本 ETF 如 Vanguard S&P 500 ETF (VOO)，與 Cathie Wood 的 tech 股市風險管理策略有著顯著的相似之處。兩者的共同點在於，Focus 在於長期穩定性和低費用，而不是短期風險回歸。這種思維方式可能會導致投資者對 ETF 和 tech 股的評估產生新的認知，進而影響到市場行為。因此，投資者應該考慮ETF的成本效率和tech 股的長期潛力，以實現最佳的投資策略。"
+    "market_connection": "在金融市場中，股市和外匯市場之間存在著複雜的因果關係。當股市上升時，外匯市場中的美元兑其他貨幣可能會下跌，因為美元兑其他貨幣的價格受到股市表現的影響。在此背景下，群創、凱基金、國巨等公司的股價上下波動可能會對美元兑其他貨幣的價格產生影響，从而影響外匯市場。因此，為了充分了解這些市場之間的關係，需要進行進一步的分析和研究。"
   }
 }
