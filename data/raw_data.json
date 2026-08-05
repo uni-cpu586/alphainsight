@@ -1,378 +1,378 @@
 {
-  "date": "2026-08-05",
-  "stock_market_date": "2026-08-04",
+  "date": "2026-08-06",
+  "stock_market_date": "2026-08-05",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "光寶科",
-          "ticker": "2301",
-          "net_buy_shares": 28743314
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 84036810
         },
         {
           "rank": 2,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 24800057
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 39175595
         },
         {
           "rank": 3,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 18453095
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_buy_shares": 36977842
         },
         {
           "rank": 4,
-          "stock_name": "統一",
-          "ticker": "1216",
-          "net_buy_shares": 17235518
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_buy_shares": 35613026
         },
         {
           "rank": 5,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_buy_shares": 13719705
+          "stock_name": "光寶科",
+          "ticker": "2301",
+          "net_buy_shares": 29757994
         },
         {
           "rank": 6,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 13478964
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 23852111
         },
         {
           "rank": 7,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 12142012
+          "stock_name": "華新",
+          "ticker": "1605",
+          "net_buy_shares": 18179511
         },
         {
           "rank": 8,
-          "stock_name": "友訊",
-          "ticker": "2332",
-          "net_buy_shares": 11921179
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 15924568
         },
         {
           "rank": 9,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 11232843
+          "stock_name": "元大高股息",
+          "ticker": "0056",
+          "net_buy_shares": 15036177
         },
         {
           "rank": 10,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 10987913
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 13888815
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_sell_shares": -37600382
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -38794875
         },
         {
           "rank": 2,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_sell_shares": -30317151
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_sell_shares": -35273087
         },
         {
           "rank": 3,
-          "stock_name": "台中銀",
-          "ticker": "2812",
-          "net_sell_shares": -29219854
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -29375079
         },
         {
           "rank": 4,
-          "stock_name": "中纖",
-          "ticker": "1718",
-          "net_sell_shares": -25033035
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -28026230
         },
         {
           "rank": 5,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_sell_shares": -20160754
+          "stock_name": "寶成",
+          "ticker": "9904",
+          "net_sell_shares": -25566204
         },
         {
           "rank": 6,
-          "stock_name": "寶成",
-          "ticker": "9904",
-          "net_sell_shares": -17770098
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_sell_shares": -23329934
         },
         {
           "rank": 7,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_sell_shares": -13160893
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_sell_shares": -15948002
         },
         {
           "rank": 8,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -12429517
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -15672112
         },
         {
           "rank": 9,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_sell_shares": -12338148
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_sell_shares": -11962069
         },
         {
           "rank": 10,
-          "stock_name": "台泥",
-          "ticker": "1101",
-          "net_sell_shares": -12259096
+          "stock_name": "台中銀",
+          "ticker": "2812",
+          "net_sell_shares": -9945415
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 8878000
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_buy_shares": 10582000
         },
         {
           "rank": 2,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 7874085
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 9995104
         },
         {
           "rank": 3,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_buy_shares": 7088000
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 9902000
         },
         {
           "rank": 4,
-          "stock_name": "欣興",
-          "ticker": "3037",
-          "net_buy_shares": 5933000
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 6331000
         },
         {
           "rank": 5,
           "stock_name": "緯創",
           "ticker": "3231",
-          "net_buy_shares": 5570000
+          "net_buy_shares": 5824909
         },
         {
           "rank": 6,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_buy_shares": 5350341
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 5713948
         },
         {
           "rank": 7,
-          "stock_name": "富邦金",
-          "ticker": "2881",
-          "net_buy_shares": 4902285
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 3916935
         },
         {
           "rank": 8,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_buy_shares": 4519000
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 3718872
         },
         {
           "rank": 9,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 4182245
+          "stock_name": "欣興",
+          "ticker": "3037",
+          "net_buy_shares": 1817592
         },
         {
           "rank": 10,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_buy_shares": 3306000
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_buy_shares": 1710465
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -4974000
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -4181000
         },
         {
           "rank": 2,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_sell_shares": -3573000
+          "stock_name": "金像電",
+          "ticker": "2368",
+          "net_sell_shares": -2099011
         },
         {
           "rank": 3,
-          "stock_name": "致茂",
-          "ticker": "2360",
-          "net_sell_shares": -2553000
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -1204507
         },
         {
           "rank": 4,
           "stock_name": "凱基金",
           "ticker": "2883",
-          "net_sell_shares": -2115000
+          "net_sell_shares": -1154883
         },
         {
           "rank": 5,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_sell_shares": -2052000
+          "stock_name": "致茂",
+          "ticker": "2360",
+          "net_sell_shares": -1120922
         },
         {
           "rank": 6,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_sell_shares": -1941000
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_sell_shares": -1107959
         },
         {
           "rank": 7,
-          "stock_name": "亞泥",
-          "ticker": "1102",
-          "net_sell_shares": -1915000
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_sell_shares": -979876
         },
         {
           "rank": 8,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_sell_shares": -1890000
+          "stock_name": "統一實",
+          "ticker": "9907",
+          "net_sell_shares": -898251
         },
         {
           "rank": 9,
-          "stock_name": "台灣高鐵",
-          "ticker": "2633",
-          "net_sell_shares": -1664000
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_sell_shares": -749258
         },
         {
           "rank": 10,
-          "stock_name": "統一",
-          "ticker": "1216",
-          "net_sell_shares": -1643000
+          "stock_name": "中華",
+          "ticker": "2204",
+          "net_sell_shares": -663672
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_buy_shares": 2978000
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 4213931
         },
         {
           "rank": 2,
-          "stock_name": "興富發",
-          "ticker": "2542",
-          "net_buy_shares": 1547000
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 1145903
         },
         {
           "rank": 3,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 1467983
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_buy_shares": 864350
         },
         {
           "rank": 4,
-          "stock_name": "友訊",
-          "ticker": "2332",
-          "net_buy_shares": 728416
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_buy_shares": 574000
         },
         {
           "rank": 5,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 556000
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_buy_shares": 546771
         },
         {
           "rank": 6,
           "stock_name": "微星",
           "ticker": "2377",
-          "net_buy_shares": 512553
+          "net_buy_shares": 462649
         },
         {
           "rank": 7,
-          "stock_name": "威盛",
-          "ticker": "2388",
-          "net_buy_shares": 414080
+          "stock_name": "艾笛森",
+          "ticker": "3591",
+          "net_buy_shares": 442000
         },
         {
           "rank": 8,
-          "stock_name": "台虹",
-          "ticker": "8039",
-          "net_buy_shares": 209460
+          "stock_name": "南茂",
+          "ticker": "8150",
+          "net_buy_shares": 436000
         },
         {
           "rank": 9,
-          "stock_name": "南電",
-          "ticker": "8046",
-          "net_buy_shares": 161000
+          "stock_name": "友訊",
+          "ticker": "2332",
+          "net_buy_shares": 423509
         },
         {
           "rank": 10,
-          "stock_name": "新日興",
-          "ticker": "3376",
-          "net_buy_shares": 153000
+          "stock_name": "台虹",
+          "ticker": "8039",
+          "net_buy_shares": 373000
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -4617000
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_sell_shares": -8438000
         },
         {
           "rank": 2,
-          "stock_name": "億光",
-          "ticker": "2393",
-          "net_sell_shares": -2180000
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -2917989
         },
         {
           "rank": 3,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -1747000
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -2773000
         },
         {
           "rank": 4,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_sell_shares": -1697781
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_sell_shares": -2606587
         },
         {
           "rank": 5,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -1387592
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -2397000
         },
         {
           "rank": 6,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_sell_shares": -1349000
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_sell_shares": -2377225
         },
         {
           "rank": 7,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -1272963
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -1599316
         },
         {
           "rank": 8,
-          "stock_name": "技嘉",
-          "ticker": "2376",
-          "net_sell_shares": -1182941
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_sell_shares": -1305700
         },
         {
           "rank": 9,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -1081756
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_sell_shares": -1250996
         },
         {
           "rank": 10,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_sell_shares": -1054000
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_sell_shares": -839000
         }
       ]
     },
@@ -380,26 +380,26 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "光寶科",
-        "shares": 10060159
+        "target": "元大台灣50",
+        "shares": 29412883
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "富邦科技",
-        "shares": 1191200
+        "target": "第一金",
+        "shares": 1685572
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "元大台灣50",
-        "shares": 3995100
+        "target": "旺宏",
+        "shares": 4761900
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "彰銀",
-        "shares": 11280114
+        "target": "群創",
+        "shares": 11638462
       }
     ]
   },
@@ -415,21 +415,21 @@
     },
     {
       "id": "news_2",
-      "title": "Are Wall Street Analysts Predicting Western Digital Stock Will Climb or Sink?",
+      "title": "Do Wall Street Analysts Like Charles Schwab Corporation Stock?",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-western-143655241.html",
-      "summary": "Are Wall Street Analysts Predicting Western Digital Stock Will Climb or Sink?",
-      "full_text": "Western Digital Corporation (WDC), headquartered in San Jose, California, develops, manufactures, and sells data storage devices and solutions. With a market cap of $187.8 billion, the company's products include hard drives, solid-state drives, and home entertainment and networking products.\n\nShares of this leading supplier of data storage solutions have substantially outperformed the broader market over the past year. WDC has gained 582% over this time frame, while the broader S&P 500 Index ($SPX) has rallied nearly 17.7%. In 2026, WDC stock is up 203.1%, surpassing the SPX's 9.4% rise on a YTD basis.\n\nPalantir Is Set to Deliver Strong Q2. Analysts See 60% Upside Potential for PLTR Stock.\n\nZooming in further, WDC's outperformance is also apparent compared to the State Street Technology Select Sector SPDR ETF (XLK). The exchange-traded fund has gained about 36% over the past year. Moreover, WDC's triple-digit gains on a YTD basis outshine the ETF's 21.4% returns over the same time frame.\n\nWestern Digital has significantly outperformed over the past year due to soaring hyperscaler demand for high-capacity enterprise hard drives driven by AI data center expansion, massive gross margin expansion fueled by disciplined pricing and production, and strong market enthusiasm surrounding its strategic plan to separate its HDD and Flash memory (NAND) businesses to unlock distinct, pure-play shareholder value.\n\nFor the current fiscal year, ended in June, analysts expect WDC's EPS to grow 112.1% to $9.61 on a diluted basis. The company's earnings surprise history is impressive. It beat the consensus estimates in each of the last four quarters.\n\nAmong the 25 analysts covering WDC stock, the consensus is a \"Strong Buy.\" That's based on 20 \"Strong Buy\" ratings, one \"Moderate Buy,\" and four \"Holds.\"\n\nThis configuration is more bullish than two months ago, with 21 analysts suggesting a \"Strong Buy.\"",
-      "published": "2026-08-03T14:36:55Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-charles-schwab-144805788.html",
+      "summary": "Do Wall Street Analysts Like Charles Schwab Corporation Stock?",
+      "full_text": "Westlake, Texas-based The Charles Schwab Corporation (SCHW) operates as a savings and loan holding company that provides wealth management, securities brokerage, banking, asset management, custody, and financial advisory services in the United States and internationally. The company has a market cap of $184.1 billion and operates through the Investor Services and Advisor Services segments.\n\nSCHW stock has lagged behind the broader market over the past year, growing 8.8% compared to the S&P 500 Index's ($SPX) 21.8% surge. Moreover, in 2026, the stock has risen by nearly 5.7%, underperforming the SPX's 11% gain.\n\nBillionaire Ken Griffin Just Saved Situational Awareness, But Here's What a Rescue Call From Citadel Really Sounds Like — 'I… Heard the Grim Reaper's Scythe'\n\nZooming in further, the State Street Financial Select Sector SPDR ETF (XLF) has risen 10.6% over the past year, outpacing the stock. In 2026, XLF has grown 4.8% and has underperformed the stock.\n\nSCHW pays an annual dividend of $1.28, with a dividend yield of 1.21%. The company has a robust history of paying dividends to its shareholders for 36 straight years. Despite looking lucrative from the get-go, this yield falls behind that of XLF, its industry anchor. In comparison, XLF pays a dividend of $0.81, with a yield of 1.41%. Despite being nearly double the share price of XLF, SCHW's yield seems to be lagging behind the industry standard.\n\nFor the current year, which ends in December, analysts expect SCHW's EPS to rise 32.7% to $6.46 on a diluted basis. The company surpassed the consensus estimate in each of the last four quarters.\n\nAmong 24 Wall Street analysts covering SCHW stock, the consensus is a \"Moderate Buy.\" That's based on 14 \"Strong Buy\" ratings, four \"Moderate Buys,\" five \"Holds,\" and one \"Moderate Sell.\"\n\nThe configuration has grown more bullish over the past two months, with the stock now having 14 \"Strong Buy\" ratings compared to 13 two months prior.",
+      "published": "2026-08-04T14:48:05Z"
     },
     {
       "id": "news_3",
-      "title": "Dollar Pressured by Strong Stocks and Easing Geopolitical Risks",
+      "title": "Intel vs. TSMC: Intel Is Winning an AI Battle Against TSMC That Few Investors Are Watching",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-pressured-strong-stocks-easing-143350947.html",
-      "summary": "Dollar Pressured by Strong Stocks and Easing Geopolitical Risks",
-      "full_text": "The dollar index (DXY00) fell to a 7-week low today and is down by -0.10%.  Easing geopolitical tensions in the Middle East are boosting stocks and reducing safe-haven demand for the dollar.  Also, today's -6% plunge in WTI crude oil prices lowers inflation expectations and could prompt the Fed to loosen monetary policy, a negative factor for the dollar.  The dollar recovered from its worst level after the July ISM manufacturing index rose more than expected to a 4-year high.\n\nDovish comments today from New York Fed President John Williams were negative for the dollar when he said interest rates remain well positioned as inflation should ease during the second half of the year.\n\nThe US July ISM manufacturing index rose +2.3 to 55.6, stronger than expectations of 53.9 and the fastest pace of expansion in four years.\n\nUS June construction spending unexpectedly fell -0.1% m/m, weaker than expectations of a +0.2% m/m increase.\n\nThe markets are discounting a 63% probability of a +25 bp rate hike at the next FOMC meeting on September 15-16.\n\nEUR/USD (^EURUSD) is down by -0.07% today.  The euro fell from a 1.5-month high and is slightly lower after the Eurozone July S&P manufacturing PMI was revised downward and after German June retail fell more than expected, the most in 13 months.\n\nThe euro initially moved higher today on dollar weakness and the -6% plunge in crude oil prices, which is supportive of the Eurozone economy and the euro as Europe imports most of its energy.\n\nThe Eurozone July S&P manufacturing PMI was revised downward by -0.1 to 51.9 from the originally reported 52.0.",
-      "published": "2026-08-03T14:33:50Z"
+      "link": "https://finance.yahoo.com/technology/ai/articles/intel-vs-tsmc-intel-winning-144139718.html",
+      "summary": "Intel vs. TSMC: Intel Is Winning an AI Battle Against TSMC That Few Investors Are Watching",
+      "full_text": "It is not often that TSMC (TSM) takes cues from Intel (INTC), but that is undoubtedly what's happening. According to The Information, the world's largest contract chipmaker is quietly building a new packaging technology modeled on Intel's EMIB. TSMC's own engineers are reportedly calling the project \"EMIB-like\" in-house. The company is developing it with a Taiwanese substrate maker, Kinsus Interconnect Technology. Following the report, TSMC's U.S.-listed shares rose about 8%, while Intel climbed roughly 11% on July 30. For a company that usually defines the industry's direction, TSMC borrowing ideas from Intel is worth a closer look.\n\nThe fight is all about how chips get packaged. TSMC's main method, CoWoS, uses a large and expensive silicon layer to link chips together. Intel's EMIB takes a leaner route, embedding tiny silicon bridges only where the chips actually connect. That makes it cheaper and potentially better suited to the increasingly large AI chip designs. The timing makes this sting more for the Taiwanese company. TSMC's CoWoS is sold out into 2027, with some customers waiting well over a year. That backlog is pushing buyers to look for alternate suppliers, and Intel is ready. Its newest version, EMIB-T, recently hit a 98% yield rate, matching CoWoS in that metric, and has already drawn interest from Google (GOOG) (GOOGL), Amazon (AMZN), and Nvidia (NVDA). Every customer who leaves over the wait chips away at TSMC's lead.\n\nBillionaire Ken Griffin Just Saved Situational Awareness, But Here's What a Rescue Call From Citadel Really Sounds Like — 'I… Heard the Grim Reaper's Scythe'\n\nFor Intel, this is a rare moment of strength. Its foundry turnaround has been slow, and outside customers still bring in very little. Intel's foundry earned just $293 million from external clients last quarter, a sliver of the $5.8 billion the unit made overall, with the rest coming from Intel itself. But packaging gives Intel a genuine opening. If big customers come for EMIB, they may stay for Intel's chipmaking too, which is where the real money is. TSMC clearly sees that risk, and its Kinsus project is the answer. It is worth noting that TSMC already uses silicon-bridge technology in one version of CoWoS, so the Kinsus effort may be as much about adding cheaper capacity as copying a rival. Either way, the message is the same. Packaging has become the next big battleground in the AI chip race. TSMC still holds a commanding lead across the board. But for once, Intel is the one setting the pace in a corner of the market that suddenly matters a great deal.\n\nBoth stocks look expensive right now, but for very different reasons. TSMC trades at a forward price-to-earnings (P/E) of 23.95x, a modest 8% above its 5-year average. Its forward price-to-sales (P/S) ratio of 11.62x is much steeper, sitting roughly 46% above its historical average. That premium is defensible, though, with the EPS outlook and the company's balance sheet. Analysts expect a growth of 58% in 2026 and then slowing down but remaining at a healthy 28-30% growth through 2028. The balance sheet shows the company holding around $80 billion in net cash. Investors are paying up for a business that clearly earns it.\n\nIntel is the harder one to judge. Its forward P/E is not meaningful, since the company is barely profitable right now. That leaves the P/S ratio of 7.22x, which sits a striking 145% above its 5-year average. The EPS growth looks enormous on paper, starting with 261% in 2026, though that partly reflects how low Intel's current earnings are. Like TSMC, Intel is expected to slow from there while still posting strong growth. The company's EPS growth is expected to improve each year from 2027 to 2029, going from 34% in 2027 to 44% in 2028 to 66% in 2029. In contrast to TSMC's strong cash pile, Intel carries roughly $21 billion in net debt. In terms of market cap, TSMC is over 4 times larger than Intel.\n\nOverall, TSMC is the safer, sturdier pick, with a premium backed by profits, growth, and a strong balance sheet. Intel offers more upside if its foundry and packaging push pays off, but the stock already assumes plenty of that success. One is priced for proven dominance, the other for a comeback still in progress.\n\nTaiwan Semiconductor Manufacturing Company is the world's largest contract chip manufacturer. It manufactures advanced semiconductors for technology companies around the world. The company's chips are used in smartphones, high-performance computing, AI, IoT devices, automotive systems, and consumer electronics. Taiwan Semiconductor also offers mask manufacturing, engineering support, and invests in emerging technologies.",
+      "published": "2026-08-04T14:41:39Z"
     }
   ]
 }
