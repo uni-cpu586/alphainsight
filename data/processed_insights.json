@@ -1,204 +1,133 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "stock_uncle_insight": {
-    "date_header": "8/5 法人與主力大戶主要買超股票",
+    "date_header": "8/6 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃AI供應鏈與卡位記憶體",
-        "stocks": [
-          {
-            "stock_name": "南亞科",
-            "ticker": "2408",
-            "description": "DRAM族群，外資買超近2.5萬張，這是在卡位記憶體景氣復甦啦！AI應用對記憶體需求大增，這波是提前佈局，不是讓你去接刀的。"
-          },
-          {
-            "stock_name": "緯創",
-            "ticker": "3231",
-            "description": "AI伺服器組裝大咖，外資再敲進1.8萬張，投信也跟著買，這檔是AI概念股的指標，主力還沒出完貨，但肖年仔要小心，漲多就是最大的利空。"
-          },
-          {
-            "stock_name": "統一",
-            "ticker": "1216",
-            "description": "食品龍頭，外資買超1.7萬張，這就是典型的資金避風港，大盤震盪時，內需穩定股就成了香餑餑，別以為外資只會玩高科技。"
-          },
-          {
-            "stock_name": "仁寶",
-            "ticker": "2324",
-            "description": "PC代工廠，也搭上AI PC題材，外資買超1.3萬張，這波是跟著AI PC的風向在走，但肖年仔要看清楚，這跟純AI伺服器還是有差。"
-          },
-          {
-            "stock_name": "台新新光金",
-            "ticker": "2887",
-            "description": "外資買超1.3萬張，但投信跟自營商卻在賣，這檔法人不同調，外資可能是看上特定題材或評價面，但肖年仔別亂追，小心被割韭菜。"
-          },
-          {
-            "stock_name": "凱基金",
-            "ticker": "2883",
-            "description": "外資買超1.2萬張，跟台新新光金一樣，投信跟自營商都在賣，這就很有趣了，外資在買，內資在出，這背後肯定有故事，不是單純的看好。"
-          },
-          {
-            "stock_name": "友訊",
-            "ticker": "2332",
-            "description": "網通股，外資買超1.1萬張，自營商也跟著買，這波網通股有題材，可能是看好基礎建設或特定訂單，但量不大，肖年仔別衝動。"
-          },
-          {
-            "stock_name": "長榮航",
-            "ticker": "2618",
-            "description": "航空雙雄之一，外資買超1.1萬張，但投信卻在賣，這也是法人不同調，可能外資看好解封後的客運復甦，但投信可能覺得漲夠了要結帳。"
-          },
-          {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "面板雙虎，外資買超1.09萬張，面板景氣雖然有回溫，但這族群波動大，外資可能是短線操作，肖年仔別傻傻地以為要大漲了。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：狂敲金融股作帳與佈局核心電子",
+        "group_title": "1. 外資大戶：狂掃ETF與金融，航空股也來嘎一腳",
         "stocks": [
           {
             "stock_name": "元大台灣50",
             "ticker": "0050",
-            "description": "投信狂敲近8.9千張0050，這就是標準的「國家隊」在避險啦！大盤不確定性高，買ETF最穩當，進可攻退可守。"
+            "description": "肖年仔，外資大戶狂掃8.4萬張0050，這不是看好大盤，是避險啦！全球資金緊縮，聯準會又鷹派，把錢放到ETF裡，穩穩的，才不會被割韭菜。"
           },
           {
-            "stock_name": "華南金",
-            "ticker": "2880",
-            "description": "投信買超近7.9千張，金融股是投信作帳的愛股，穩定、殖利率高，這波是本土資金在卡位，肖年仔可以觀察。"
+            "stock_name": "凱基金",
+            "ticker": "2883",
+            "description": "外資大買3.9萬張凱基金，金融股在這種時局下，就是資金的避風港，穩健配息，大戶們愛這味。"
           },
           {
-            "stock_name": "華通",
-            "ticker": "2313",
-            "description": "PCB大廠，投信買超7千張，這檔是蘋果供應鏈，也是AI相關板卡受惠股，投信在佈局這種有基本面支撐的電子股。"
-          },
-          {
-            "stock_name": "欣興",
-            "ticker": "3037",
-            "description": "ABF載板龍頭，投信買超近6千張，ABF是高階封裝的關鍵材料，AI趨勢下需求只會增不會減，投信這是在鎖碼長線題材。"
+            "stock_name": "鴻海",
+            "ticker": "2317",
+            "description": "鴻海被外資買超3.7萬張，這檔權值股，通常是外資在做指數權重調整，或是看好蘋果新機題材，但肖年仔別亂追高。"
           },
           {
             "stock_name": "緯創",
             "ticker": "3231",
-            "description": "投信也買超5.5千張，跟外資一樣看好AI伺服器，但買超張數比外資少，可能是跟著外資的腳步，或是基金配置需求。"
+            "description": "外資買超緯創3.56萬張，AI概念股雖然最近震盪，但大戶還是會挑選有基本面支撐的來布局，不過投信跟自營商卻在倒貨，這檔有內外資對作的跡象，要小心。"
           },
           {
-            "stock_name": "元大金",
-            "ticker": "2885",
-            "description": "投信買超5.3千張，又是金融股，這波投信對金融股的熱情很高，擺明了就是要作帳，肖年仔可以觀察這些金控股的表現。"
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "長榮航被外資買超2.38萬張，航空雙雄都被外資點名，擺明就是看好疫後解封，旅遊復甦的題材，準備拉高出貨給韭菜們。"
           },
           {
-            "stock_name": "富邦金",
-            "ticker": "2881",
-            "description": "投信買超4.9千張，一樣是金控，投信對大型金控的佈局很積極，這就是本土資金的避風港。"
-          },
-          {
-            "stock_name": "國泰金",
-            "ticker": "2882",
-            "description": "投信買超4.5千張，金控三雄都被投信買爆了，這不是作帳什麼是作帳？肖年仔，跟著國家隊走，至少不會被割太慘。"
-          },
-          {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "投信買超4.1千張，外資卻在賣，這檔也是法人不同調，投信看好，外資在出，肖年仔要小心這種多空交戰的股票。"
-          },
-          {
-            "stock_name": "臺企銀",
-            "ticker": "2834",
-            "description": "投信買超3.3千張，但外資卻狂賣3萬張，這檔是法人對作最明顯的，投信在接刀，外資在倒貨，肖年仔別傻傻地跟著投信衝。"
+            "stock_name": "華航",
+            "ticker": "2610",
+            "description": "華航也跟著長榮航被外資買超1.38萬張，這兩檔就是綁在一起的，外資在炒作復甦題材，肖年仔別傻傻追高，小心被倒貨。"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：短線避險與特定題材點火",
+        "group_title": "2. 投信大戶（本土國家隊）：記憶體與半導體封測，作帳行情啟動？",
         "stocks": [
           {
-            "stock_name": "富邦科技",
-            "ticker": "0052",
-            "description": "自營商買超近3千張，跟凱基台北一樣買ETF，這就是避險盤啦！大盤不穩，買ETF鎖住風險，或是做短線價差。"
+            "stock_name": "旺宏",
+            "ticker": "2337",
+            "description": "投信大買1.05萬張旺宏，跟外資對作，外資在狂倒，投信卻在吃貨，這可能是投信在作帳，或是看好記憶體產業的谷底翻身，準備鎖碼波段。"
           },
           {
-            "stock_name": "興富發",
-            "ticker": "2542",
-            "description": "營建股，自營商買超1.5千張，這波營建股有都更、房市題材，但自營商通常是短線進出，肖年仔別想抱長。"
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "華邦電也被投信買超0.99萬張，跟旺宏一樣，記憶體族群被投信鎖定，這本土國家隊的眼光，跟外資很不一樣，肖年仔要看清楚。"
           },
+          {
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "投信買超聯電0.57萬張，外資卻在倒貨2.8萬張，這也是內外資對作的標的，聯電在成熟製程有其地位，投信可能看好其穩定性，但外資不買單，要小心。"
+          },
+          {
+            "stock_name": "日月光投控",
+            "ticker": "3711",
+            "description": "日月光投控被投信買超0.17萬張，自營商也跟著買，半導體封測是AI趨勢下的重要環節，投信可能在布局相關供應鏈，但張數不多，還在觀察期。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：金融避險與特定題材，短線操作痕跡重",
+        "stocks": [
           {
             "stock_name": "第一金",
             "ticker": "2892",
-            "description": "自營商買超1.4千張，外資卻狂賣2萬張，這檔也是法人對作，自營商可能是做權證避險盤，或是短線搶反彈。"
+            "description": "自營商大買第一金0.42萬張，這檔金融股被自營商鎖定，加上凱基台北也進場，短線炒作的意味濃厚，小心隔日沖倒貨。"
           },
           {
-            "stock_name": "友訊",
-            "ticker": "2332",
-            "description": "自營商買超7百多張，跟外資一樣買網通，但量不大，可能是跟風，或是短線操作。"
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "兆豐金也被自營商買超0.11萬張，金融股在市場震盪時，常被自營商拿來做避險或短線套利，但張數不大，肖年仔別黑白買。"
           },
           {
-            "stock_name": "力積電",
-            "ticker": "6770",
-            "description": "DRAM代工，自營商買超5百多張，這也是跟著記憶體題材走，但自營商的量通常不大，肖年仔要小心。"
+            "stock_name": "漢翔",
+            "ticker": "2634",
+            "description": "自營商買超漢翔0.05萬張，這檔軍工概念股，有特定題材支撐，自營商可能看準短線消息面或政策利多，進場搶一波，但量不大，風險高。"
           },
           {
             "stock_name": "微星",
             "ticker": "2377",
-            "description": "PC/Gaming品牌，自營商買超5百多張，這檔也是搭上AI PC題材，但自營商的動作通常是短線，肖年仔別追高。"
-          },
-          {
-            "stock_name": "威盛",
-            "ticker": "2388",
-            "description": "IC設計，自營商買超4百多張，這檔是老牌IC設計，有時候會被主力點火，但波動大，肖年仔要小心。"
-          },
-          {
-            "stock_name": "台虹",
-            "ticker": "8039",
-            "description": "軟板廠，自營商買超2百多張，這檔也是電子零組件，自營商的量不大，可能是短線進出，或是避險盤。"
-          },
-          {
-            "stock_name": "南電",
-            "ticker": "8046",
-            "description": "ABF載板，自營商買超1百多張，跟欣興一樣是ABF題材，但自營商的量小，可能是短線操作，肖年仔別跟風。"
-          },
-          {
-            "stock_name": "新日興",
-            "ticker": "3376",
-            "description": "軸承廠，自營商買超1百多張，這檔也是電子零組件，自營商的量小，可能是短線進出，或是避險盤。"
+            "description": "微星被自營商買超0.04萬張，電競筆電與AI PC題材，自營商可能在測試水溫，但這種量，肖年仔別太認真，很容易被套牢。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：AI供應鏈深化與記憶體卡位",
-        "strategy_content": "肖年仔，你看看外資大戶狂掃光寶科、緯創、仁寶等AI伺服器相關供應鏈，甚至連南亞科這種記憶體股也大舉敲進，這擺明了就是看好AI資料中心需求持續噴發。你再看看國際新聞Western Digital那檔，股價會噴成那樣，就是因為AI資料中心對高容量硬碟需求爆棚，這股風潮也吹到台灣的AI硬體供應鏈了啦！這不是黑白買，這是主力在鎖碼AI長線題材。"
+        "strategy_title": "策略一：高檔避險與資金避風港（ETF、金融）",
+        "strategy_content": "肖年仔，全球市場現在風雨飄搖，聯準會鷹派言論讓資金緊縮，美股比特幣都跌得鼻青臉腫。外資大戶狂掃0050、0056這種ETF，還有凱基金、中信金這種大型金融股，擺明就是把錢從高風險板塊撤出來，找個地方避險。金融股有穩定的股息，ETF則能分散風險，這就是大戶在找避風港，肖年仔別傻傻去追那些高風險的AI概念股，小心融資斷頭。"
       },
       {
-        "strategy_title": "策略二：金融股的法人分歧戰與作帳行情",
-        "strategy_content": "肖年仔，這波金融股很有趣，投信大戶狂掃華南金、元大金、富邦金、國泰金等一票金控股，擺明了就是「國家隊」在作帳，看重這些股票的穩定性跟殖利率，準備年底結算衝績效。但你再看看外資，雖然有買台新新光金、凱基金，卻又大舉倒貨彰銀、臺企銀、第一金、兆豐金，這就是法人在對作啦！外資可能是獲利了結，或是對特定金控股有疑慮，肖年仔別傻傻地以為金融股全面噴發，小心接刀接到手軟。"
+        "strategy_title": "策略二：記憶體與半導體封測的內外資角力",
+        "strategy_content": "這很有趣，外資在狂倒旺宏、聯電、力積電這些半導體股，但本土投信卻在吃貨旺宏、華邦電、聯電，甚至日月光投控。這代表內外資對記憶體和半導體後市看法分歧。國際新聞也提到Intel在AI封裝技術上追趕台積電，顯示封測的重要性。投信可能看好記憶體產業的谷底翻身，或是布局AI相關的封測供應鏈，準備作帳行情。但外資不買單，肖年仔要小心，這種內外資對作的股票，波動會很大，很容易被兩邊割韭菜。"
       },
       {
-        "strategy_title": "策略三：資金避風港與防禦型資產佈局",
-        "strategy_content": "在全球流動性緊縮、聯準會態度不明朗的背景下（看看比特幣新聞就知道了，連Trump都救不了），大戶們也不是傻子。外資買統一這種內需穩定股，投信跟自營商也狂敲0050、富邦科技這種ETF，這就是典型的資金避風港策略啦！肖年仔，大盤震盪時，這些防禦性資產就是主力大戶的保命符，進可攻退可守，至少不會讓你賠到脫褲子。"
+        "strategy_title": "策略三：航空股的疫後復甦與題材炒作",
+        "strategy_content": "長榮航、華航這兩檔航空股，被外資大買，這很明顯就是炒作疫後復甦的題材。雖然國際旅遊逐漸解封，但油價、人力成本都是變數，外資通常是拉高出貨，等韭菜們追進去，他們就準備倒貨了。肖年仔，這種題材股，看看就好，別太認真去接刀。"
+      },
+      {
+        "strategy_title": "策略四：內資主力短線操作與特定題材點火",
+        "strategy_content": "自營商和一些關鍵分點，像凱基台北，他們買超第一金、兆豐金這種金融股，或是漢翔、微星這種有特定題材的股票，通常都是短線操作。金融股拿來避險或套利，漢翔則有軍工題材。這些主力通常是隔日沖，今天買，明天就準備倒貨給你，肖年仔如果不是快手，很容易被套牢。這種股票，看懂主力意圖就好，別跟著黑白買。"
       }
     ],
-    "summary": "肖年仔，今天大戶們的動作很明顯，AI伺服器跟記憶體是外資的長線鎖碼標的，而本土投信則是在金融股作帳兼避險，大盤震盪下，防禦型資產成了資金避風港，但法人對作的股票，你可千萬別傻傻去接刀！",
+    "summary": "肖年仔，今天市場就是一個字：『亂』！外資在避險，投信在作帳，自營商在隔日沖。金融、ETF是避風港，航空是題材炒作，半導體內外資對作。別看新聞說什麼就信什麼，看懂主力在幹嘛，才不會被割韭菜！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 1.006 萬張",
-        "uncle_logic": "肖年仔，高盛這大咖出手，買光寶科近1萬張，擺明了就是看好AI電源供應鏈的長線趨勢，這不是隔日沖，這是要鎖碼的節奏。"
+        "action": "買超 2.94 萬張",
+        "uncle_logic": "肖年仔，美商高盛這外資大戶在買0050，這不是看好大盤，是避險啦！全球資金緊縮，聯準會又鷹派，把錢放到ETF裡，穩穩的，才不會被割韭菜。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 1191 張",
-        "uncle_logic": "凱基台北這分點，大家心知肚明，就是短線大戶的集散地。買ETF，不是避險就是隔日沖，肖年仔別看它買就跟進，小心明天就被倒貨。"
+        "action": "買超 0.16 萬張",
+        "uncle_logic": "凱基台北這分點，你各位韭菜們都知道，就是隔日沖大本營。買第一金？八成是看準金融股短線有搞頭，明天開盤就準備倒貨給你啦！"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 3995 張",
-        "uncle_logic": "這就是「國家隊」在護盤啦！投信買自己的ETF，不是為了作帳，就是為了穩定市場信心，肖年仔，這就是大盤的定海神針。"
+        "action": "買超 0.47 萬張",
+        "uncle_logic": "元大投信這本土國家隊，跟外資對作旺宏，外資在倒貨，他們卻在吃貨。這可能是基金在作帳，或是看好記憶體後市，準備鎖碼波段，但風險肖年仔自己要評估。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 1.128 萬張",
-        "uncle_logic": "摩根大通這外資大咖，狂倒彰銀1.1萬張，這跟投信狂買金融股形成強烈對比。肖年仔，這就是外資在調整部位，可能是獲利了結，也可能是對特定金控股有疑慮，別傻傻去接刀。"
+        "action": "賣超 1.16 萬張",
+        "uncle_logic": "摩根大通這外資大咖，狂倒群創，面板股最近是怎麼了？這擺明是看壞後市，資金要撤出啦！韭菜們別傻傻去接刀啊！"
       }
     ]
   },
@@ -208,40 +137,40 @@
       "title": "If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today",
       "source": "Yahoo Finance",
       "link": "https://finance.yahoo.com/markets/crypto/articles/invested-1-000-gold-bitcoin-150000514.html",
-      "level1_blind": "<html><body>Pick any investor who watched Donald Trump walk back into the White House on January 20, 2025 and decided to put money into the three most talked-about assets surrounding that moment.</body></html>",
+      "level1_blind": "{\"text\": \"Pick any investor who watched Donald Trump walk back into the White House on January 20, 2025 and decided to put money into the three most talked-about assets surrounding that moment.\n\\nBitcoin, the asset Trump had openly embraced. Gold, the safe haven that has anchored portfolios for centuries. And the TRUMP memecoin, the token bearing the president's name that had launched three days earlier and was already being called the trade of the inauguration.\n\\nBitcoin opened inauguration day at approximately $102,000. A $1,000 investment bought roughly 0.0098 BTC. Today, with Bitcoin trading near $62,000, that position is worth approximately $607, a loss of 40%.\n\\nThe irony is hard to miss. Trump entered office as the most openly crypto-friendly president in American history. He signed the GENIUS Act. He signed an Executive Order to establish a Strategic Bitcoin Reserve.\n\\nHe called the U.S. the crypto capital of the world. And Bitcoin still lost 40% of its value on his watch.\n\\nWhat makes the Bitcoin loss particularly striking is the context surrounding it. This was not a hostile administration. Trump's team established the first ever Strategic Bitcoin Reserve in March 2025, halting all government Bitcoin sales and signaling long-term institutional commitment at the sovereign level.\n\\nThe policy environment was the most favorable in Bitcoin's history. And yet the price fell from where it stood on the day that all of that became official. The lesson is not that Bitcoin is broken.\n\\nIt is that even the best policy tailwind cannot override a global liquidity squeeze, a hawkish Fed, and overleveraged positions unwinding at scale.\"\"}",
       "level2_keywords": [
         {
           "word": "Bitcoin",
           "ipa": "",
           "meaning": "比特幣",
-          "example": "比特幣開啟 inauguration 日在大約 $102,000"
-        },
-        {
-          "word": "gold",
-          "ipa": "",
-          "meaning": "金",
-          "example": "金已經 anchoring portfolios for centuries"
+          "example": "比特幣的價格在 Trump 入職後仍然下跌"
         },
         {
           "word": "TRUMP",
           "ipa": "",
-          "meaning": "特朗普",
-          "example": "TRUMP memecoin 是一種 token bearing the president的 name"
+          "meaning": "Trump",
+          "example": "TRUMP memecoin 是一種以 Trump 名稱的 token"
         },
         {
-          "word": "GENIUS Act",
+          "word": "GENIUS",
           "ipa": "",
-          "meaning": "GENIUS 行為",
-          "example": "他 signed the GENIUS Act"
+          "meaning": " GENIUS 行為",
+          "example": ""
         },
         {
-          "word": "Executive Order",
+          "word": "crypto",
           "ipa": "",
-          "meaning": "行政命令",
-          "example": "他 signed an Executive Order to establish a Strategic Bitcoin Reserve"
+          "meaning": "加密貨幣",
+          "example": "Trump signed the GENIUS Act"
+        },
+        {
+          "word": "reserve",
+          "ipa": "",
+          "meaning": "儲備",
+          "example": ""
         }
       ],
-      "level2_context": "這篇文章討論了美國總統特朗普在 inauguration 日的政策選擇，特別是對比特幣的態度。 author 表示，即使在有利於比特幣的政策環境下，價格仍然下跌。這個教訓是什麼？",
+      "level2_context": "\n美國總統 Trump 入職後，對於加密貨幣的政策環境變得更加有利。然而， Bitcoin 的價格仍然下跌。\n這種情況反映了全球資金緊張、hawkish Fed 政策以及過度借贖的情況。\n",
       "level3_translation": [
         {
           "sentence": "Pick any investor who watched Donald Trump walk back into the White House on January 20, 2025 and decided to put money into the three most talked-about assets surrounding that moment.",
@@ -249,284 +178,366 @@
         },
         {
           "sentence": "Bitcoin, the asset Trump had openly embraced.",
-          "translation": "比特幣，是特朗普對於的開放支持"
+          "translation": "比特幣是 Trump 直接支持的資產"
         },
         {
           "sentence": "Gold, the safe haven that has anchored portfolios for centuries.",
-          "translation": "金，是一種安全隱藏的資產，已經在 portfolios 中安置了數百年"
+          "translation": ""
         },
         {
           "sentence": "And the TRUMP memecoin, the token bearing the president's name that had launched three days earlier and was already being called the trade of the inauguration.",
-          "translation": "和特朗普的 memecoin ，是一種以總統的名字命名的 token ，已經在三天前推出，並且已經被稱為 inauguration 的交易"
+          "translation": ""
         },
         {
           "sentence": "Bitcoin opened inauguration day at approximately $102,000.",
-          "translation": "比特幣在 inauguration 日開啟時大約為 $102,000"
+          "translation": ""
         },
         {
           "sentence": "A $1,000 investment bought roughly 0.0098 BTC.",
-          "translation": "一千美元的投資買下了大致 0.0098 BTC"
+          "translation": ""
         },
         {
-          "sentence": "Today, with Bitcoin trading near $62,000, that position is worth approximately $607.",
-          "translation": "今天，與比特幣交易價格近 $62,000 的情況下，這個位置的價值大約為 $607"
+          "sentence": "Today, with Bitcoin trading near $62,000, that position is worth approximately $607, a loss of 40%.",
+          "translation": ""
         },
         {
-          "sentence": "that position is worth approximately 40% less than its original value.",
-          "translation": "這個位置的價值大約是原來價值的 40% 减少"
-        },
-        {
-          "sentence": "The irony is hard to miss.",
-          "translation": "這種 ironia 很難忽視"
-        },
-        {
-          "sentence": "Trump entered office as the most openly crypto-friendly president in American history.",
-          "translation": "特朗普上任為美國史上的最開放的加密貨幣友好的總統"
+          "sentence": "The irony is hard to miss. Trump entered office as the most openly crypto-friendly president in American history.",
+          "translation": ""
         },
         {
           "sentence": "He signed the GENIUS Act.",
-          "translation": "他簽署了GENIUS 行為"
+          "translation": ""
         },
         {
           "sentence": "He signed an Executive Order to establish a Strategic Bitcoin Reserve.",
-          "translation": "他簽署了一份行政命令，建立了一個戰略性比特幣儲備"
+          "translation": ""
+        },
+        {
+          "sentence": "He called the U.S. the crypto capital of the world.",
+          "translation": ""
         },
         {
           "sentence": "And Bitcoin still lost 40% of its value on his watch.",
-          "translation": "而比特幣仍然在他的觀察下失去 40% 的價值"
+          "translation": ""
         },
         {
           "sentence": "What makes the Bitcoin loss particularly striking is the context surrounding it.",
-          "translation": "什麼使得比特幣的損失特別突出？是因為它的背景情況"
+          "translation": ""
         },
         {
-          "sentence": "This was not a hostile administration.",
-          "translation": "這不是一個敵對的政府"
-        },
-        {
-          "sentence": "Trump's team established the first ever Strategic Bitcoin Reserve in March 2025, halting all government Bitcoin sales and signaling long-term institutional commitment at the sovereign level.",
-          "translation": "特朗普團隊在 2025 年三月建立了第一個戰略性比特幣儲備，停止所有政府比特幣交易，並且 signal long-term institutional commitment at the sovereign level"
+          "sentence": "This was not a hostile administration. Trump's team established the first ever Strategic Bitcoin Reserve in March 2025, halting all government Bitcoin sales and signaling long-term institutional commitment at the sovereign level.",
+          "translation": ""
         },
         {
           "sentence": "The policy environment was the most favorable in Bitcoin's history.",
-          "translation": "政策環境是比特幣史上最有利的"
+          "translation": ""
         },
         {
           "sentence": "And yet the price fell from where it stood on the day that all of that became official.",
-          "translation": "然而價格仍然從那天開始所有這些變化之後下跌"
+          "translation": ""
         },
         {
           "sentence": "The lesson is not that Bitcoin is broken.",
-          "translation": "教訓不是比特幣是壞的"
+          "translation": ""
         },
         {
           "sentence": "It is that even the best policy tailwind cannot override a global liquidity squeeze, a hawkish Fed, and overleveraged positions unwinding at scale.",
-          "translation": "它是什麼？即使最好的政策風險也不能克服全球流動性窘迫，hawkish Fed 和過度借贖的位置在大規模解鎖"
+          "translation": ""
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Are Wall Street Analysts Predicting Western Digital Stock Will Climb or Sink?",
+      "title": "Do Wall Street Analysts Like Charles Schwab Corporation Stock?",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-western-143655241.html",
-      "level1_blind": "Western Digital Corporation (WDC), headquartered in San Jose, California, develops, manufactures, and sells data storage devices and solutions. With a market cap of $187.8 billion, the company's products include hard drives, solid-state drives, and home entertainment and networking products.\n\nShares of this leading supplier of data storage solutions have substantially outperformed the broader market over the past year. WDC has gained 582% over this time frame, while the broader S&P 500 Index ($SPX) has rallied nearly 17.7%. In 2026, WDC stock is up 203.1%, surpassing the SPX's 9.4% rise on a YTD basis.\n\nPalantir Is Set to Deliver Strong Q2. Analysts See 60% Upside Potential for PLTR Stock.\n\nZooming in further, WDC's outperformance is also apparent compared to the State Street Technology Select Sector SPDR ETF (XLK). The exchange-traded fund has gained about 36% over the past year. Moreover, WDC's triple-digit gains on a YTD basis outshine the ETF's 21.4% returns over the same time frame.\n\nWestern Digital has significantly outperformed over the past year due to soaring hyperscaler demand for high-capacity enterprise hard drives driven by AI data center expansion, massive gross margin expansion fueled by disciplined pricing and production, and strong market enthusiasm surrounding its strategic plan to separate its HDD and Flash memory (NAND) businesses to unlock distinct, pure-play shareholder value.\n\nFor the current fiscal year, ended in June, analysts expect WDC's EPS to grow 112.1% to $9.61 on a diluted basis. The company's earnings surprise history is impressive. It beat the consensus estimates in each of the last four quarters.\n\nAmong the 25 analysts covering WDC stock, the consensus is a \"Strong Buy.\" That's based on 20 \"Strong Buy\" ratings, one \"Moderate Buy,\" and four \"Holds.\">\n\nThis configuration is more bullish than two months ago, with 21 analysts suggesting a \"Strong Buy.\"\n",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-charles-schwab-144805788.html",
+      "level1_blind": {
+        "text": "Westlake, Texas-based The Charles Schwab Corporation (SCHW) operates as a savings and loan holding company that provides wealth management, securities brokerage, banking, asset management, custody, and financial advisory services in the United States and internationally. The company has a market cap of $184.1 billion and operates through the Investor Services and Advisor Services segments.\n\nSCHW stock has lagged behind the broader market over the past year, growing 8.8% compared to the S&P 500 Index's ($SPX) 21.8% surge. Moreover, in 2026, the stock has risen by nearly 5.7%, underperforming the SPX's 11% gain.\n\nBillionaire Ken Griffin Just Saved Situational Awareness, But Here's What a Rescue Call From Citadel Really Sounds Like — 'I… Heard the Grim Reaper's Scythe'\n\nZooming in further, the State Street Financial Select Sector SPDR ETF (XLF) has risen 10.6% over the past year, outpacing the stock. In 2026, XLF has grown 4.8% and has underperformed the stock.\n\nSCHW pays an annual dividend of $1.28, with a dividend yield of 1.21%. The company has a robust history of paying dividends to its shareholders for 36 straight years. Despite looking lucrative from the get-go, this yield falls behind that of XLF, its industry anchor. In comparison, XLF pays a dividend of $0.81, with a yield of 1.41%. Despite being nearly double the share price of XLF, SCHW's yield seems to be lagging behind the industry standard.\n\nFor the current year, which ends in December, analysts expect SCHW's EPS to rise 32.7% to $6.46 on a diluted basis. The company surpassed the consensus estimate in each of the last four quarters.\n\nAmong 24 Wall Street analysts covering SCHW stock, the consensus is a \"Moderate Buy.\" That's based on 14 \"Strong Buy\" ratings, four \"Moderate Buys,\" five \"Holds,\" and one \"Moderate Sell.\"\n\nThe configuration has grown more bullish over the past two months, with the stock now having 14 \"Strong Buy\" ratings compared to 13 two months prior."
+      },
       "level2_keywords": [
         {
-          "word": "Western Digital",
+          "word": "semiconductor",
           "ipa": "",
-          "meaning": "西部數據公司",
-          "example": "西部數據公司的股票在過去的一年中出現了顯著的上漲"
+          "meaning": "半導體",
+          "example": "半導體產業在全球經濟中扮演著重要角色"
         },
         {
-          "word": "hard drives",
+          "word": "export controls",
           "ipa": "",
-          "meaning": "硬碟",
-          "example": "硬碟是西部數據公司主要生產的產品"
+          "meaning": "出口管制",
+          "example": "美國政府對於AI 晶片的出口管制"
         },
         {
-          "word": "solid-state drives",
+          "word": "dividend",
           "ipa": "",
-          "meaning": "固態存儲器",
-          "example": "固態存儲器是西部數據公司另一項重要產品"
+          "meaning": "股息",
+          "example": "公司 payout 的股息"
         },
         {
-          "word": "enterprise",
+          "word": "consensus",
           "ipa": "",
-          "meaning": "企業級",
-          "example": "企業級硬碟的需求在 AI Data Center 中有著顯著的上漲"
+          "meaning": "共識",
+          "example": " Wall Street 分析員對於 SCHW 股票的預期"
         },
         {
-          "word": "gross margin",
+          "word": "sector",
           "ipa": "",
-          "meaning": "毛利率",
-          "example": "西部數據公司通過 disciplinied pricing and production 才能實現高毛利率"
+          "meaning": "產業",
+          "example": "金融產業"
         }
       ],
-      "level2_context": "\n西部數據公司的出performnce主要是由於 hyperscaler 的需求增加、AI Data Center 的擴大以及其優化的 pricing 和 production strategy。\n這些因素使得公司的毛利率有了顯著的上漲，從而導致其股票的上漲。\n\n在財經界中，這種出performnce是由於企業對市場的適應能力和策略選擇所致。西部數據公司通過分離其 HDD 和 Flash memory (NAND) 业务來unlock distinct, pure-play shareholder value，從而提高了其競爭力。\n",
+      "level2_context": "\n美國股市與金融產業在全球經濟中扮演著重要角色。近期，美國政府對於AI 晶片的出口管制引發了關注，而公司 payout 的股息也成為投資人們的關注點。\n\n這些事件在 Wall Street 分析員中引發了一個共識：SCHW 股票的預期正在逐漸變得 bullish。然而，與其他產業相比，SCHW 的股息仍然落後於Industry Anchor XLF.\n\n我們需要進一步了解這些事件對於 SCHW 的影響，以及它們如何影響金融產業的整體趨勢。\n",
       "level3_translation": [
         {
-          "sentence": "Western Digital Corporation (WDC), headquartered in San Jose, California, develops, manufactures, and sells data storage devices and solutions.",
+          "sentence": "Westlake, Texas-based The Charles Schwab Corporation (SCHW) operates as a savings and loan holding company that provides wealth management, securities brokerage, banking, asset management, custody, and financial advisory services in the United States and internationally.",
           "translation": ""
         },
         {
-          "sentence": "With a market cap of $187.8 billion, the company's products include hard drives, solid-state drives, and home entertainment and networking products.",
+          "sentence": "SCHW stock has lagged behind the broader market over the past year, growing 8.8% compared to the S&P 500 Index's ($SPX) 21.8% surge.",
           "translation": ""
         },
         {
-          "sentence": "Shares of this leading supplier of data storage solutions have substantially outperformed the broader market over the past year.",
+          "sentence": "Billionaire Ken Griffin Just Saved Situational Awareness, But Here's What a Rescue Call From Citadel Really Sounds Like — 'I… Heard the Grim Reaper's Scythe'.",
           "translation": ""
         },
         {
-          "sentence": "WDC has gained 582% over this time frame, while the broader S&P 500 Index ($SPX) has rallied nearly 17.7%.",
+          "sentence": "Zooming in further, the State Street Financial Select Sector SPDR ETF (XLF) has risen 10.6% over the past year, outpacing the stock.",
           "translation": ""
         },
         {
-          "sentence": "In 2026, WDC stock is up 203.1%, surpassing the SPX's 9.4% rise on a YTD basis.",
+          "sentence": "SCHW pays an annual dividend of $1.28, with a dividend yield of 1.21%.",
           "translation": ""
         },
         {
-          "sentence": "Palantir Is Set to Deliver Strong Q2. Analysts See 60% Upside Potential for PLTR Stock.",
+          "sentence": "The company has a robust history of paying dividends to its shareholders for 36 straight years.",
           "translation": ""
         },
         {
-          "sentence": "Zooming in further, WDC's outperformance is also apparent compared to the State Street Technology Select Sector SPDR ETF (XLK).",
+          "sentence": "Despite looking lucrative from the get-go, this yield falls behind that of XLF, its industry anchor.",
           "translation": ""
         },
         {
-          "sentence": "The exchange-traded fund has gained about 36% over the past year.",
+          "sentence": "In comparison, XLF pays a dividend of $0.81, with a yield of 1.41%.",
           "translation": ""
         },
         {
-          "sentence": "Moreover, WDC's triple-digit gains on a YTD basis outshine the ETF's 21.4% returns over the same time frame.",
+          "sentence": "Despite being nearly double the share price of XLF, SCHW's yield seems to be lagging behind the industry standard.",
           "translation": ""
         },
         {
-          "sentence": "Western Digital has significantly outperformed over the past year due to soaring hyperscaler demand for high-capacity enterprise hard drives driven by AI data center expansion, massive gross margin expansion fueled by disciplined pricing and production, and strong market enthusiasm surrounding its strategic plan to separate its HDD and Flash memory (NAND) businesses to unlock distinct, pure-play shareholder value.",
+          "sentence": "For the current year, which ends in December, analysts expect SCHW's EPS to rise 32.7% to $6.46 on a diluted basis.",
           "translation": ""
         },
         {
-          "sentence": "For the current fiscal year, ended in June, analysts expect WDC's EPS to grow 112.1% to $9.61 on a diluted basis.",
+          "sentence": "The company surpassed the consensus estimate in each of the last four quarters.",
           "translation": ""
         },
         {
-          "sentence": "The company's earnings surprise history is impressive.",
+          "sentence": "Among 24 Wall Street analysts covering SCHW stock, the consensus is a \"Moderate Buy.\"",
           "translation": ""
         },
         {
-          "sentence": "It beat the consensus estimates in each of the last four quarters.",
+          "sentence": "That's based on 14 \"Strong Buy\" ratings, four \"Moderate Buys,\" five \"Holds,\" and one \"Moderate Sell.\"",
           "translation": ""
         },
         {
-          "sentence": "Among the 25 analysts covering WDC stock, the consensus is a \"Strong Buy.\"",
-          "translation": ""
-        },
-        {
-          "sentence": "That's based on 20 \"Strong Buy\" ratings, one \"Moderate Buy,\" and four \"Holds.\"\n",
-          "translation": ""
-        },
-        {
-          "sentence": "This configuration is more bullish than two months ago, with 21 analysts suggesting a \"Strong Buy.\"\n",
+          "sentence": "The configuration has grown more bullish over the past two months, with the stock now having 14 \"Strong Buy\" ratings compared to 13 two months prior.",
           "translation": ""
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Dollar Pressured by Strong Stocks and Easing Geopolitical Risks",
+      "title": "Intel vs. TSMC: Intel Is Winning an AI Battle Against TSMC That Few Investors Are Watching",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-pressured-strong-stocks-easing-143350947.html",
-      "level1_blind": "The dollar index (DXY00) fell to a 7-week low today and is down by -0.10%. Easing geopolitical tensions in the Middle East are boosting stocks and reducing safe-haven demand for the dollar. Also, today's -6% plunge in WTI crude oil prices lowers inflation expectations and could prompt the Fed to loosen monetary policy, a negative factor for the dollar. The dollar recovered from its worst level after the July ISM manufacturing index rose more than expected to a 4-year high.\n\nDovish comments today from New York Fed President John Williams were negative for the dollar when he said interest rates remain well positioned as inflation should ease during the second half of the year.\n\nThe US July ISM manufacturing index rose +2.3 to 55.6, stronger than expectations of 53.9 and the fastest pace of expansion in four years.\n\nUS June construction spending unexpectedly fell -0.1% m/m, weaker than expectations of a +0.2% m/m increase.\n\nThe markets are discounting a 63% probability of a +25 bp rate hike at the next FOMC meeting on September 15-16.\n\nEUR/USD (^EURUSD) is down by -0.07% today. The euro fell from a 1.5-month high and is slightly lower after the Eurozone July S&P manufacturing PMI was revised downward and after German June retail fell more than expected, the most in 13 months.\n\nThe euro initially moved higher today on dollar weakness and the -6% plunge in crude oil prices, which is supportive of the Eurozone economy and the euro as Europe imports most of its energy.\n\nThe Eurozone July S&P manufacturing PMI was revised downward by -0.1 to 51.9 from the originally reported 52.0.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/intel-vs-tsmc-intel-winning-144139718.html",
+      "level1_blind": "It is not often that TSMC (TSM) takes cues from Intel (INTC), but that is undoubtedly what's happening. According to The Information, the world's largest contract chipmaker is quietly building a new packaging technology modeled on Intel's EMIB. TSMC's own engineers are reportedly calling the project \\",
       "level2_keywords": [
         {
-          "word": "DXY00",
+          "word": "EMIB",
           "ipa": "",
-          "meaning": "美元指數",
-          "example": "美元指數下跌，影響美元的價值"
+          "meaning": "Intel的EMIB（Embedded Multi-Chip Package）技術",
+          "example": "Intel的新版EMIB-T技術已經達到98%的產生率"
         },
         {
-          "word": "WTI crude oil prices",
+          "word": "CoWoS",
           "ipa": "",
-          "meaning": "WTI crude oil價格",
-          "example": "WTI crude oil價格下跌，降低了油氣產業的預期"
+          "meaning": "TSMC的CoWoS（Chip-on-Wafer System）方法",
+          "example": "TSMC的CoWoS方法需要大量的silicon層來連接芯片"
         },
         {
-          "word": "ISM manufacturing index",
+          "word": "AI",
           "ipa": "",
-          "meaning": "製造業指數",
-          "example": "製造業指數上升，表明經濟活動有所恢復"
+          "meaning": "人工智能",
+          "example": "Intel和TSMC都在發展AI相關的新技術"
         },
         {
-          "word": "Eurozone economy",
+          "word": "Kinsus",
           "ipa": "",
-          "meaning": "歐洲聯盟的經濟",
-          "example": "歐洲聯盟的經濟對美元的影響"
+          "meaning": "台積電的合作伙伴Kinsus Interconnect Technology",
+          "example": "Kinsus Interconnect Technology正在與TSMC合作開發新的包裝技術"
         },
         {
-          "word": "FOMC meeting",
+          "word": "foundry",
           "ipa": "",
-          "meaning": "美聯行會議",
-          "example": "美聯行會議對美元的影響"
+          "meaning": "芯片製造",
+          "example": "Intel的芯片製造業務正在經歷轉型"
         }
       ],
-      "level2_context": "\n這篇文章主要是關於美元的價值與美國經濟的相關訊息。美國經濟在上半年有所恢復，製造業指數上升，這對美元的價值產生了正面影響。\n然而，WTI crude oil價格下跌，降低了油氣產業的預期，這對美元的價值產生了負面影響。\n這篇文章也提到了美聯行會議的可能性，美國中央銀行可能會在未來的會議中調整 monetary policy，對美元的價值產生影響。\n",
+      "level2_context": "這篇文章關於TSMC和Intel之間的包裝技術競爭。TSMC正試圖借鉴Intel的EMIB技術，為其 own CoWoS方法提供替代方案。這一 move 可能對TSMC的競爭優勢產生影響。",
       "level3_translation": [
         {
-          "sentence": "The dollar index (DXY00) fell to a 7-week low today and is down by -0.10%.",
-          "translation": "美元指數下跌到近七週低，降低了美元的價值"
+          "sentence": "It is not often that TSMC (TSM) takes cues from Intel (INTC), but that is undoubtedly what's happening.",
+          "translation": ""
         },
         {
-          "sentence": "Easing geopolitical tensions in the Middle East are boosting stocks and reducing safe-haven demand for the dollar.",
-          "translation": "中東地政情勢緩和對股市有正面影響，減少了美元作為safe-haven的需求"
+          "sentence": "According to The Information, the world's largest contract chipmaker is quietly building a new packaging technology modeled on Intel's EMIB.",
+          "translation": ""
         },
         {
-          "sentence": "Also, today's -6% plunge in WTI crude oil prices lowers inflation expectations and could prompt the Fed to loosen monetary policy.",
-          "translation": "今天WTI crude oil價格下跌 6%，降低了通胀預期，可能會促使美聯行會議放鬆 monetary policy"
+          "sentence": "TSMC's own engineers are reportedly calling the project \\",
+          "translation": ""
         },
         {
-          "sentence": "The dollar recovered from its worst level after the July ISM manufacturing index rose more than expected to a 4-year high.",
-          "translation": "美元從其最差的水平恢復來，July 的製造業指數上升超預期到四年高峰"
+          "sentence": "The company is developing it with a Taiwanese substrate maker, Kinsus Interconnect Technology.",
+          "translation": ""
         },
         {
-          "sentence": "Dovish comments today from New York Fed President John Williams were negative for the dollar when he said interest rates remain well positioned as inflation should ease during the second half of the year.",
-          "translation": "今日紐約聯邦儲備局主席約翰·威廉姆斯的 dovish 說法對美元有負面影響，他表示利率仍然適合，通胀在第二半年應該會緩和"
+          "sentence": "Following the report, TSMC's U.S.-listed shares rose about 8%, while Intel climbed roughly 11% on July 30.",
+          "translation": ""
         },
         {
-          "sentence": "The US July ISM manufacturing index rose +2.3 to 55.6, stronger than expectations of 53.9 and the fastest pace of expansion in four years.",
-          "translation": "美國七月製造業指數上升 2.3%，超預期，達到 55.6，創下四年來最快的擴張速度"
+          "sentence": "The fight is all about how chips get packaged.",
+          "translation": ""
         },
         {
-          "sentence": "US June construction spending unexpectedly fell -0.1% m/m, weaker than expectations of a +0.2% m/m increase.",
-          "translation": "美國六月建材投資減少 0.1%，超預期，下跌 0.2% 的增幅"
+          "sentence": "TSMC's main method, CoWoS, uses a large and expensive silicon layer to link chips together.",
+          "translation": ""
         },
         {
-          "sentence": "The markets are discounting a 63% probability of a +25 bp rate hike at the next FOMC meeting on September 15-16.",
-          "translation": "市場正在假設下一個美聯行會議（September 15-16）中，利率將上升 0.25%，風險達到 63% "
+          "sentence": "Intel's EMIB takes a leaner route, embedding tiny silicon bridges only where the chips actually connect.",
+          "translation": ""
         },
         {
-          "sentence": "EUR/USD (^EURUSD) is down by -0.07% today.",
-          "translation": "今日 EUR/USD 下跌 0.07%， euro 的價值下降"
+          "sentence": "That makes it cheaper and potentially better suited to the increasingly large AI chip designs.",
+          "translation": ""
         },
         {
-          "sentence": "The euro fell from a 1.5-month high and is slightly lower after the Eurozone July S&P manufacturing PMI was revised downward and after German June retail fell more than expected, the most in 13 months.",
-          "translation": "今日 euro 的價值從近半個月高峰下跌，降低了歐洲聯盟製造業指數的預期，並且德國六月零售市場下跌超預期"
+          "sentence": "The timing makes this sting more for the Taiwanese company.",
+          "translation": ""
         },
         {
-          "sentence": "The euro initially moved higher today on dollar weakness and the -6% plunge in crude oil prices, which is supportive of the Eurozone economy and the euro as Europe imports most of its energy.",
-          "translation": "今日 euro 的價值初起上升，主要是因美元的弱勢和WTI crude oil價格下跌，對於歐洲聯盟經濟和 euro 有正面影響"
+          "sentence": "TSMC's CoWoS is sold out into 2027, with some customers waiting well over a year.",
+          "translation": ""
         },
         {
-          "sentence": "The Eurozone July S&P manufacturing PMI was revised downward by -0.1 to 51.9 from the originally reported 52.0.",
-          "translation": "今日歐洲聯盟七月製造業指數被修正下降 0.1，從原來的 52.0 下跌到 51.9"
+          "sentence": "That backlog is pushing buyers to look for alternate suppliers, and Intel is ready.",
+          "translation": ""
         },
         {
-          "sentence": "The markets are discounting a 63% probability of a +25 bp rate hike at the next FOMC meeting on September 15-16.",
-          "translation": "市場正在假設下一個美聯行會議（September 15-16）中，利率將上升 0.25%，風險達到 63% "
+          "sentence": "Its newest version, EMIB-T, recently hit a 98% yield rate, matching CoWoS in that metric, and has already drawn interest from Google (GOOG) (GOOGL), Amazon (AMZN), and Nvidia (NVDA).",
+          "translation": ""
+        },
+        {
+          "sentence": "Every customer who leaves over the wait chips away at TSMC's lead.",
+          "translation": ""
+        },
+        {
+          "sentence": "For Intel, this is a rare moment of strength.",
+          "translation": ""
+        },
+        {
+          "sentence": "Its foundry turnaround has been slow, and outside customers still bring in very little.",
+          "translation": ""
+        },
+        {
+          "sentence": "Intel's foundry earned just $293 million from external clients last quarter, a sliver of the $5.8 billion the unit made overall, with the rest coming from Intel itself.",
+          "translation": ""
+        },
+        {
+          "sentence": "But packaging gives Intel a genuine opening.",
+          "translation": ""
+        },
+        {
+          "sentence": "If big customers come for EMIB, they may stay for Intel's chipmaking too, which is where the real money is.",
+          "translation": ""
+        },
+        {
+          "sentence": "TSMC clearly sees that risk, and its Kinsus project is the answer.",
+          "translation": ""
+        },
+        {
+          "sentence": "It is worth noting that TSMC already uses silicon-bridge technology in one version of CoWoS, so the Kinsus effort may be as much about adding cheaper capacity as copying a rival.",
+          "translation": ""
+        },
+        {
+          "sentence": "Either way, the message is the same.",
+          "translation": ""
+        },
+        {
+          "sentence": "Packaging has become the next big battleground in the AI chip race.",
+          "translation": ""
+        },
+        {
+          "sentence": "TSMC still holds a commanding lead across the board.",
+          "translation": ""
+        },
+        {
+          "sentence": "But for once, Intel is the one setting the pace in a corner of the market that suddenly matters a great deal.",
+          "translation": ""
+        },
+        {
+          "sentence": "Both stocks look expensive right now, but for very different reasons.",
+          "translation": ""
+        },
+        {
+          "sentence": "TSMC trades at a forward price-to-earnings (P/E) of 23.95x, a modest 8% above its 5-year average.",
+          "translation": ""
+        },
+        {
+          "sentence": "Its forward price-to-sales (P/S) ratio of 11.62x is much steeper, sitting roughly 46% above its historical average.",
+          "translation": ""
+        },
+        {
+          "sentence": "That premium is defensible, though, with the EPS outlook and the company's balance sheet.",
+          "translation": ""
+        },
+        {
+          "sentence": "Analysts expect a growth of 58% in 2026 and then slowing down but remaining at a healthy 28-30% growth through 2028.",
+          "translation": ""
+        },
+        {
+          "sentence": "The balance sheet shows the company holding around $80 billion in net cash.",
+          "translation": ""
+        },
+        {
+          "sentence": "Investors are paying up for a business that clearly earns it.",
+          "translation": ""
+        },
+        {
+          "sentence": "Intel is the harder one to judge.",
+          "translation": ""
+        },
+        {
+          "sentence": "Its forward P/E is not meaningful, since the company is barely profitable right now.",
+          "translation": ""
+        },
+        {
+          "sentence": "That leaves the P/S ratio of 7.22x, which sits a striking 145% above its 5-year average.",
+          "translation": ""
+        },
+        {
+          "sentence": "The EPS growth looks enormous on paper, starting with 261% in 2026, though that partly reflects how low Intel's profit margins are.",
+          "translation": ""
+        },
+        {
+          "sentence": "This article關於Intel和TSMC之間的包裝技術競爭。TSMC正試圖借鉴Intel的EMIB技術，為其 own CoWoS方法提供替代方案。這一 move 可能對TSMC的競爭優勢產生影響。",
+          "translation": ""
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "在金融市場中，股市和外匯市場之間存在著複雜的因果關係。當股市上升時，外匯市場中的美元兑其他貨幣可能會下跌，因為美元兑其他貨幣的價格受到股市表現的影響。在此背景下，群創、凱基金、國巨等公司的股價上下波動可能會對美元兑其他貨幣的價格產生影響，从而影響外匯市場。因此，為了充分了解這些市場之間的關係，需要進行進一步的分析和研究。"
+    "market_connection": "Intel's EMIB technology is gaining traction in the AI chip market, with major customers like Google and Amazon showing interest. This could be a game-changer for Intel, as it offers a leaner packaging solution that could attract buyers looking to escape TSMC's CoWoS backlog. Meanwhile, TSMC's decision to borrow ideas from Intel highlights the competitive nature of the AI chip market, where companies are constantly innovating and adapting to stay ahead. As the market continues to evolve, investors should keep a close eye on these two giants as they navigate this new landscape."
   }
 }
