@@ -1,404 +1,467 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "stock_uncle_insight": {
-    "date_header": "8/7 法人與主力大戶主要買超股票",
+    "date_header": "8/8 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：資金大挪移，狂掃低基期權值與傳產",
+        "group_title": "1. 外資大戶：狂掃航空、金融與部分AI，面板則有分歧",
         "stocks": [
           {
-            "stock_name": "力積電",
-            "ticker": "6770",
-            "description": "肖年仔，外資這次狂掃力積電 3.86 萬張，擺明就是看好晶圓代工的低基期反彈，想在底部卡位，這波半導體輪動，力積電被點火了。"
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "肖年仔，外資狂掃長榮航2.2萬張，這擺明是看好解封後的航空旺季，要鎖碼做波段的啦！這種量不是隔日沖玩得起的。"
           },
           {
-            "stock_name": "群創",
-            "ticker": "3481",
-            "description": "面板雙虎之一的群創，外資也買超 3.77 萬張，這很明顯是看好面板報價有機會落底反彈，或者至少是資金從高檔避險轉往低價股的避風港。"
+            "stock_name": "統一",
+            "ticker": "1216",
+            "description": "外資買超統一2.03萬張，食品股在通膨壓力下有防禦性題材，大戶資金避風港，穩穩賺的啦。"
           },
           {
-            "stock_name": "鴻海",
-            "ticker": "2317",
-            "description": "鴻海這種大牛股，外資都買超 2.17 萬張，代表大戶對市場的防禦性需求很高，權值股穩盤，也是資金避風港的選擇。"
+            "stock_name": "緯創",
+            "ticker": "3231",
+            "description": "外資買超緯創1.71萬張，AI概念股雖然投信在賣，但外資還是看好，可能是在等拉回加碼，準備再拉一波。"
           },
           {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "聯電也被外資買超 1.45 萬張，跟力積電一樣，都是晶圓代工的低基期股，外資在半導體族群裡挑便宜的買，準備等風向變。"
+            "stock_name": "台新金",
+            "ticker": "2887",
+            "description": "外資買超台新金1.41萬張，金融股在升息循環下，利差擴大，外資持續布局，這種穩健的標的，大戶最愛。"
           },
           {
-            "stock_name": "中鋼",
-            "ticker": "2002",
-            "description": "傳產龍頭中鋼，外資買超 1.62 萬張，這就是典型的資金從電子股撤出後，轉往傳產避險的動作，穩穩的賺，不求大富大貴。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：承接金融股，佈局電子旺季",
-        "stocks": [
-          {
-            "stock_name": "華南金",
-            "ticker": "2880",
-            "description": "外資在倒金融股，結果投信狂買華南金 1.04 萬張，這擺明就是本土國家隊在承接，可能是在作帳，也可能是看好金融股的防禦性跟高殖利率。"
-          },
-          {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "兆豐金也是投信買超 0.75 萬張的重點，跟華南金一樣，都是外資倒貨，投信接刀，這就是內外資對作的經典戲碼。"
-          },
-          {
-            "stock_name": "第一金",
-            "ticker": "2892",
-            "description": "第一金被投信買超 0.74 萬張，肖年仔，看到沒？投信就是愛金融股，特別是這種穩定的官股金控，當作基金的壓艙石。"
-          },
-          {
-            "stock_name": "旺宏",
-            "ticker": "2337",
-            "description": "投信買超旺宏 0.51 萬張，這檔記憶體股，外資也買，投信也買，看來大家都在賭記憶體產業的谷底翻身，準備迎接下半年的電子旺季。"
-          },
-          {
-            "stock_name": "臻鼎-KY",
-            "ticker": "4958",
-            "description": "投信買超臻鼎-KY 0.27 萬張，這就是典型的電子股佈局，PCB族群是電子產品的基石，投信在為下半年蘋果新機或AI伺服器題材做準備。"
-          }
-        ]
-      },
-      {
-        "group_title": "3. 內資主力與實戶：跟風面板與晶圓代工，短線操作避險",
-        "stocks": [
-          {
-            "stock_name": "群創",
-            "ticker": "3481",
-            "description": "自營商買超群創 0.30 萬張，跟外資一樣看好面板，但自營商的單通常比較短線，可能是看準短線反彈的機會，準備隔日沖或波段操作。"
-          },
-          {
-            "stock_name": "力積電",
-            "ticker": "6770",
-            "description": "力積電也被自營商買超 0.26 萬張，這跟外資的思路很像，都是在低基期半導體股上找機會，但自營商的部位通常更靈活，隨時準備跑路。"
+            "stock_name": "遠東新",
+            "ticker": "1402",
+            "description": "外資買超遠東新1.4萬張，傳產龍頭股，殖利率題材加上景氣復甦預期，吸引長線資金，這就是價值投資啦。"
           },
           {
             "stock_name": "友達",
             "ticker": "2409",
-            "description": "友達被自營商買超 0.12 萬張，面板雙虎都被自營商點名，這代表市場對面板股的短線氣氛轉好，自營商也想來分一杯羹。"
+            "description": "面板雙虎之一，外資買超1.31萬張，但同時也有分點在隔日沖，肖年仔要小心，別被兩面手法給騙了。"
           },
           {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "自營商買超聯電 0.14 萬張，跟外資一樣，都在晶圓代工這塊找機會，但自營商通常是避險盤或權證造市單，買賣動作要特別留意，別傻傻去接刀。"
+            "stock_name": "中鋼",
+            "ticker": "2002",
+            "description": "外資買超中鋼1.2萬張，鋼鐵股在原物料行情下，有機會谷底翻身，外資提前卡位，準備吃豆腐。"
+          },
+          {
+            "stock_name": "至上",
+            "ticker": "8112",
+            "description": "外資買超至上8478張，半導體通路商，可能受惠於AI相關供應鏈，外資小幅加碼，試水溫的意味濃厚。"
+          },
+          {
+            "stock_name": "三商壽",
+            "ticker": "2867",
+            "description": "外資買超三商壽6380張，壽險股在升息環境下有轉機，外資持續關注，這種低基期的，有機會補漲。"
+          },
+          {
+            "stock_name": "中信金",
+            "ticker": "2891",
+            "description": "外資買超中信金6209張，金融股的龍頭之一，外資穩健布局，這種就是大戶的定存股啦。"
+          }
+        ]
+      },
+      {
+        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，航空、金融為主力",
+        "stocks": [
+          {
+            "stock_name": "華航",
+            "ticker": "2610",
+            "description": "投信狂掃華航6997張，跟外資同步看好航空雙雄，這擺明是作帳行情，準備拉高結帳啦！肖年仔，跟著國家隊走，至少不會太慘。"
+          },
+          {
+            "stock_name": "華南金",
+            "ticker": "2880",
+            "description": "投信買超華南金6911張，金融股是投信作帳的常客，穩健獲利的好標的，這種就是安全牌。"
+          },
+          {
+            "stock_name": "大成鋼",
+            "ticker": "2027",
+            "description": "投信買超大成鋼4865張，鋼鐵股在原物料行情下，投信也來卡位，準備吃一波反彈。"
+          },
+          {
+            "stock_name": "凱基金",
+            "ticker": "2883",
+            "description": "投信買超凱基金3985張，金融股是投信的最愛，穩健配息，作帳好用，這種就是進可攻退可守。"
           },
           {
             "stock_name": "兆豐金",
             "ticker": "2886",
-            "description": "兆豐金也被自營商買超 0.10 萬張，這檔金融股，外資倒貨，投信跟自營商都接，顯示內資對金融股的防禦性價值還是有共識的。"
+            "description": "投信買超兆豐金2849張，公股金控，穩健配息，投信長期持有，這種就是壓箱寶。"
+          },
+          {
+            "stock_name": "南亞",
+            "ticker": "1303",
+            "description": "投信買超南亞1758張，塑化龍頭，景氣復甦題材，投信也來布局，準備等景氣翻揚。"
+          },
+          {
+            "stock_name": "第一金",
+            "ticker": "2892",
+            "description": "投信買超第一金1291張，金融股，投信持續加碼，這種就是穩穩賺的啦。"
+          },
+          {
+            "stock_name": "力成",
+            "ticker": "6239",
+            "description": "投信買超力成1253張，半導體封測廠，投信看好下半年景氣復甦，提前卡位，準備吃肉。"
+          },
+          {
+            "stock_name": "長榮",
+            "ticker": "2603",
+            "description": "投信買超長榮1183張，航運股，投信也來分一杯羹，看來對貨櫃三雄的看法有轉變。"
+          },
+          {
+            "stock_name": "玉山金",
+            "ticker": "2884",
+            "description": "投信買超玉山金1166張，金融股，投信持續加碼，這種就是穩健成長股。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：短線操作，面板、AI、金融皆有涉獵",
+        "stocks": [
+          {
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "自營商買超友達1495張，面板股短線有題材，自營商進出快狠準，肖年仔，這就是典型的隔日沖標的。"
+          },
+          {
+            "stock_name": "台積電",
+            "ticker": "2330",
+            "description": "自營商買超台積電912張，護國神山，自營商避險盤或短線套利，這種就是大盤的風向球。"
+          },
+          {
+            "stock_name": "緯創",
+            "ticker": "3231",
+            "description": "自營商買超緯創709張，AI概念股，自營商短線跟風，這種就是追逐熱門題材，但隨時會跑。"
+          },
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "自營商買超兆豐金659張，金融股，自營商避險盤或短線套利，這種就是穩健的避險工具。"
+          },
+          {
+            "stock_name": "中纖",
+            "ticker": "1718",
+            "description": "自營商買超中纖576張，塑化股，自營商短線操作，這種就是看消息面進出。"
+          },
+          {
+            "stock_name": "富采",
+            "ticker": "3714",
+            "description": "自營商買超富采415張，Mini LED概念股，自營商短線題材操作，這種就是炒作題材股。"
+          },
+          {
+            "stock_name": "凱基金",
+            "ticker": "2883",
+            "description": "自營商買超凱基金390張，金融股，自營商避險盤或短線套利，這種就是穩健的避險工具。"
+          },
+          {
+            "stock_name": "南亞科",
+            "ticker": "2408",
+            "description": "自營商買超南亞科365張，記憶體股，自營商短線操作，這種就是看景氣循環進出。"
+          },
+          {
+            "stock_name": "三商壽",
+            "ticker": "2867",
+            "description": "自營商買超三商壽361張，壽險股，自營商短線操作，這種就是看轉機題材。"
+          },
+          {
+            "stock_name": "台塑化",
+            "ticker": "6505",
+            "description": "自營商買超台塑化341張，塑化龍頭，自營商短線操作，這種就是看原物料行情。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：資金從高檔避險轉向低基期權值股",
-        "strategy_content": "肖年仔，你看外資大賣金融股跟緯創這種漲多的AI概念股，轉頭就去買力積電、群創、鴻海、中鋼這些低基期、有基本面支撐的權值股跟傳產龍頭。這就是大戶在市場高檔震盪時，把資金從高風險或漲多板塊撤出來，轉移到估值相對低、有防禦性的標的，準備等下一波行情發動，這不是看壞，是換檔操作啦！"
+        "strategy_title": "策略一：資金轉向避風港與旺季題材（航空、金融、食品）",
+        "strategy_content": "肖年仔，外資與投信同步大買航空雙雄（長榮航、華航），這很明顯是看好解封後的暑假旺季效應，加上油價相對穩定，航空業獲利可期。金融股（台新金、中信金、華南金、兆豐金等）則是在升息環境下，利差擴大，獲利穩健，成為資金的避風港。統一這種食品股，在通膨壓力下，也有防禦性買盤進駐。這就是大戶在市場震盪時，把錢往穩健有題材的地方塞，美股經理人也開始佈局醫療保健ETF，都是避險思維啦！"
       },
       {
-        "strategy_title": "策略二：本土資金承接金融股與佈局電子旺季",
-        "strategy_content": "有趣的是，外資在倒金融股，結果投信跟自營商卻在接刀，特別是華南金、兆豐金、第一金這些。這代表本土資金對金融股的防禦性跟高殖利率還是有期待，搞不好是投信在作帳。同時，投信也買進旺宏跟PCB族群（臻鼎-KY、景碩、華通、聯茂），這很明顯是在為下半年的電子旺季做準備，特別是AI伺服器跟新手機的題材，這些都是電子業的基石。"
+        "strategy_title": "策略二：AI概念股分歧，大戶趁機換手或調節",
+        "strategy_content": "外資持續買超緯創1.71萬張，但投信卻大賣1.02萬張緯創，這擺明是AI概念股漲多之後，大戶之間在換手。投信可能是在高檔獲利了結，準備結帳，而外資則可能看好後續發展，趁拉回加碼，或是進行短線對沖。肖年仔，這種時候不要黑白追高，很容易被割韭菜，搞不好明天就拉高出貨了。"
       },
       {
-        "strategy_title": "策略三：半導體與面板底部反轉預期",
-        "strategy_content": "外資跟自營商這次都同步買超力積電、群創、聯電、友達、旺宏這些半導體跟面板股。這可不是黑白買，這是大戶在賭這些產業已經來到谷底，未來有機會反轉向上。雖然國際上AI雲端公司Nebius還在燒錢擴張，但台灣的半導體跟面板，可能已經被視為景氣循環股的下一波啟動點，準備迎接復甦行情。"
+        "strategy_title": "策略三：面板雙虎短線題材發酵，主力隔日沖意圖明顯",
+        "strategy_content": "外資買超友達1.31萬張，自營商也買超友達1495張，但同時外資又狂倒群創5.12萬張。這顯示面板股雖然有短線題材，但大戶對雙虎的看法並不一致。凱基台北這種隔日沖大戶也進場友達，很可能就是看準短線拉抬後隔天倒貨。肖年仔，這種股票進出要快，不然很容易被套牢，變成接刀的韭菜。"
+      },
+      {
+        "strategy_title": "策略四：半導體族群持續調節，資金流出高基期個股",
+        "strategy_content": "外資、投信、自營商同步大賣聯電、華邦電、力積電、旺宏等半導體相關個股，尤其是記憶體和成熟製程晶圓代工。這顯示大戶對這些高基期或景氣尚未明朗的半導體族群持續進行調節，將資金轉往其他有潛力的板塊。肖年仔，不要傻傻去接這些倒貨的刀，等趨勢明朗再說，不然會融資斷頭的啦！"
       }
     ],
-    "summary": "肖年仔，今天市場就是資金大風吹，外資從金融跟AI概念股倒貨，轉去低基期權值跟傳產，本土投信則在金融股接刀兼佈局電子，大家都在為下一波行情找避風港跟新題材，別傻傻追高，要學會逆向思考！",
+    "summary": "肖年仔，今天大盤震盪，大戶資金明顯從漲多的AI跟部分半導體，轉往航空、金融這些有旺季或防禦性題材的股票，面板股則是有短線主力在玩隔日沖，操作上要小心，別被割韭菜了！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 1.35 萬張",
-        "uncle_logic": "高盛這外資大咖，狂掃力積電 1.35 萬張，這不是短線仔會幹的事。這擺明就是外資主力在佈局，看好晶圓代工的低基期，準備等半導體景氣回溫，這波是真外資的長線卡位，肖年仔別以為是隔日沖。"
+        "action": "買超長榮航 7700 張",
+        "uncle_logic": "美商高盛這外資大咖，狂掃長榮航7700多張，這不是隔日沖的量，肖年仔，這是要鎖碼做波段的啦！看來對航空業的旺季效應跟解封題材很有信心，準備拉高出貨。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 0.12 萬張",
-        "uncle_logic": "凱基台北這短線大戶，買超群創 0.12 萬張，這很明顯就是看準面板股的短線題材，準備隔天拉高出貨，肖年仔看到這種分點進場，隔天就要小心被倒貨，別傻傻去接刀。"
+        "action": "買超友達 598 張",
+        "uncle_logic": "凱基台北這分點，大家嘛知影是隔日沖大本營。買友達這幾百張，搞不好明天開高就倒貨了，韭菜們別傻傻去接刀，這種短線主力就是來賺個便當錢。"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 0.47 萬張",
-        "uncle_logic": "元大投信買超華南金 0.47 萬張，這跟投信整體買超金融股的趨勢一致。這就是本土國家隊在承接外資倒貨的金融股，可能是為了作帳，也可能是看好金融股的防禦性，穩穩的賺，不求暴利。"
+        "action": "買超華航 3148 張",
+        "uncle_logic": "投信國家隊出手了，元大投信買華航3148張，跟外資同步看好航空雙雄。這擺明是作帳行情，準備拉高結帳啦！肖年仔，跟著國家隊走，至少不會太慘。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 0.70 萬張",
-        "uncle_logic": "摩根大通這外資大咖，大賣臺企銀 0.70 萬張，這跟外資整體大賣金融股的趨勢完全吻合。這就是外資在調整部位，把資金從金融股撤出來，轉往其他更有潛力的產業，肖年仔，別跟外資對作，小心被割韭菜。"
+        "action": "賣超群創 1.53 萬張",
+        "uncle_logic": "摩根大通這外資大咖，狂倒群創1.53萬張，這不是避險盤是什麼？面板股最近漲多，大戶開始拉高出貨，肖年仔別被套在高點，小心被倒貨。"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "Amgen Q2 2026 earnings beat, raises full-year outlook, drops AMG 513",
+      "title": "Veteran manager buys 2 ETFs as market shifts",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/healthcare/articles/amgen-q2-2026-earnings-beat-132232577.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/veteran-manager-buys-2-etfs-020300490.html",
       "level1_blind": {
-        "text": "Amgen reported second-quarter results on Tuesday that topped expectations, raised its full-year outlook, and disclosed it was ending development of an early-stage weight loss drug candidate.\n\nThe Thousand Oaks, California-based biotech earned $2.38 billion in the second quarter, translating to $4.37 per diluted share, a significant jump from the $1.43 billion, or $2.65 per share, it recorded in the year-ago period. On an adjusted basis, earnings came to $6.29 per share, up 4% year over year. Analysts had expected adjusted earnings of $5.62 per share, according to the Wall Street Journal.\n\nTotal revenue climbed 10% to $10.05 billion, compared with $9.18 billion in the second quarter of 2025, the company said. Product sales grew 9% to $9.54 billion, driven by volume growth. Analysts had expected revenue of $9.43 billion, according to the Journal.\n\nAmong the top performers, cholesterol drug Repatha posted sales of $953 million, up 37% year over year, while bone drug Evenity generated $714 million, up 38%. Rare disease treatment Uplizna grew 90% to $335 million. Cancer drug Imdelltra rose 115% to $288 million.\n\nAmgen lifted its full-year 2026 guidance, now targeting total revenue in a range of $38.2 billion to $39.4 billion, which compares favorably to its previous forecast of $37.1 billion to $38.5 billion. On the earnings side, the company set an adjusted EPS target of $22.30 to $23.50, stepping up from its prior range of $21.70 to $23.10.\n\n\"Our six key growth drivers grew 26% year over year, generating nearly 70% of second-quarter product sales,\" Chief Executive Officer Robert Bradway said in a statement. \"As we expand the potential of our existing medicines through new indications and advance the next wave of pipeline molecules through Phase 3, we remain confident in our ability to deliver growth well into the next decade.\"\n\nAmgen also announced it is ending work on AMG 513, an early obesity candidate that had been undergoing Phase 1 testing. No explanation for the move was given. Amgen added that the existing Phase 1 trial would run its full course so that participants already in the study can be followed through to its conclusion.\n\nWith AMG 513 discontinued, MariTide stands as Amgen's sole remaining entry in the obesity space, advancing through Phase 3 trials that span chronic weight management, Type 2 diabetes, cardiovascular outcomes, and additional indications."
+        "text": "The S&P 500 has had a strong 2026. Most of the gains have come from the same group of technology and AI stocks that have been driving the market for two years. One portfolio manager just decided to look somewhere else.\n\nChris Versace, portfolio manager of the TheStreet Pro Portfolio, initiated two new positions on Aug. 5, adding the Health Care Select Sector SPDR ETF (XLV) and the Robo Global Robotics and Automation Index ETF (ROBO).\n\nThe moves follow the portfolio's existing cybersecurity strategy and extend its exposure into two additional end markets Versace says he expects to grow over multiple years.\n\nThe Pro Portfolio bought 395 shares of XLV at or near $164. That stake represents roughly 1% of total portfolio assets. It also bought 575 shares of ROBO at or near $84.50, coming in at about 0.75% of assets.\n\nVersace gave both new positions an initial rating of Two. The market has had a strong run recently, and the Two ratings reflect that caution.\n\nVersace said both positions will be built up over time, using pullbacks to add shares rather than buying everything at once.\n\nHe has done this before. The portfolio used the same approach to build its stake in the First Trust Nasdaq Cybersecurity ETF (CIBR). Start small, watch how things develop, and add more when the setup looks better.\n\nInitial price targets are $180 for XLV and $95 for ROBO. From the entry prices, that is roughly 10% upside on XLV and about 12% on ROBO. The portfolio also set checkpoint levels at $144 for XLV and $70 for ROBO."
       },
       "level2_keywords": [
         {
-          "word": "Repatha",
-          "ipa": "",
-          "meaning": "高膽固醇藥物",
-          "example": "該藥物的 sales 簡單為 Repatha 的 sales"
+          "word": "ETF",
+          "ipa": "/ˌiː tiː ˈɛf/",
+          "meaning": "「指數股票型基金」的縮寫，是一種在證券交易所交易的基金，通常追蹤特定指數、商品或資產類別，讓投資人能以較低的成本分散投資。",
+          "example": "Many investors use ETFs to gain diversified exposure to specific sectors or markets."
         },
         {
-          "word": "Evenity",
-          "ipa": "",
-          "meaning": "骨骼疾病治療藥物",
-          "example": "該藥物的 sales 簡單為 Evenity 的 sales"
+          "word": "portfolio manager",
+          "ipa": "/ˌpɔːrtˈfoʊliˌoʊ ˈmænɪdʒər/",
+          "meaning": "「投資組合經理人」，負責管理客戶或基金的投資組合，根據市場狀況和投資目標做出買賣決策。",
+          "example": "The portfolio manager decided to rebalance the fund's holdings to reduce risk."
         },
         {
-          "word": "Uplizna",
-          "ipa": "",
-          "meaning": "罕見病治療藥物",
-          "example": "該藥物的 sales 簡單為 Uplizna 的 sales"
+          "word": "position",
+          "ipa": "/pəˈzɪʃən/",
+          "meaning": "在財經領域指「持倉」或「部位」，代表投資人持有某種證券的數量或狀態。",
+          "example": "The fund initiated a new position in a promising biotechnology company."
         },
         {
-          "word": "Imdelltra",
-          "ipa": "",
-          "meaning": "癌症治療藥物",
-          "example": "該藥物的 sales 簡單為 Imdelltra 的 sales"
+          "word": "exposure",
+          "ipa": "/ɪkˈspoʊʒər/",
+          "meaning": "「曝險」或「佈局」，指投資組合對特定資產、市場或風險的持有程度或敏感度。",
+          "example": "The new investment increases the portfolio's exposure to the healthcare sector."
         },
         {
-          "word": "semiconductor",
-          "ipa": "",
-          "meaning": "半導體",
-          "example": ""
+          "word": "pullback",
+          "ipa": "/ˈpʊlˌbæk/",
+          "meaning": "「回檔」或「修正」，指資產價格在一段上漲後出現的短期下跌，通常被視為健康的市場調整。",
+          "example": "Smart investors often use market pullbacks as an opportunity to buy more shares."
         }
       ],
-      "level2_context": "",
+      "level2_context": "各位同學，這則新聞反映了在市場經歷一段時間的強勁上漲，特別是科技和AI類股表現突出之後，專業投資經理人如何調整其投資策略。這位經理人選擇將資金從熱門的科技股轉向醫療保健和機器人自動化等領域的ETF，這通常是出於「分散風險」和「尋找新成長動能」的考量。當某些板塊漲幅過大時，聰明的經理人會開始尋找價值被低估或未來有潛力成長的板塊進行佈局，以避免過度集中風險。同時，他採取了「分批買入」的策略，利用市場回檔時機逐步建立持倉，這是一種非常謹慎且常見的投資手法，旨在降低平均成本並減少一次性投入的風險。這也暗示了市場可能正從過去的單一成長主導，轉向更廣泛的板塊輪動。",
       "level3_translation": [
         {
-          "sentence": "Amgen reported second-quarter results on Tuesday that topped expectations, raised its full-year outlook, and disclosed it was ending development of an early-stage weight loss drug candidate.",
-          "translation": ""
+          "sentence": "The S&P 500 has had a strong 2026.",
+          "translation": "標普500指數在2026年表現強勁。"
         },
         {
-          "sentence": "The Thousand Oaks, California-based biotech earned $2.38 billion in the second quarter, translating to $4.37 per diluted share, a significant jump from the $1.43 billion, or $2.65 per share, it recorded in the year-ago period.",
-          "translation": ""
+          "sentence": "Most of the gains have come from the same group of technology and AI stocks that have been driving the market for two years.",
+          "translation": "其中大部分漲幅都來自於過去兩年來一直推動市場上漲的同一批科技股和AI概念股。"
         },
         {
-          "sentence": "On an adjusted basis, earnings came to $6.29 per share, up 4% year over year.",
-          "translation": ""
+          "sentence": "One portfolio manager just decided to look somewhere else.",
+          "translation": "然而，一位投資組合經理最近決定將目光轉向其他領域。"
         },
         {
-          "sentence": "Total revenue climbed 10% to $10.05 billion, compared with $9.18 billion in the second quarter of 2025, the company said.",
-          "translation": ""
+          "sentence": "Chris Versace, portfolio manager of the TheStreet Pro Portfolio, initiated two new positions on Aug. 5, adding the Health Care Select Sector SPDR ETF (XLV) and the Robo Global Robotics and Automation Index ETF (ROBO).",
+          "translation": "TheStreet Pro Portfolio的投資組合經理Chris Versace在8月5日建立了兩個新的投資部位，分別買進了醫療保健精選產業SPDR ETF（XLV）和Robo Global機器人與自動化指數ETF（ROBO）。"
         },
         {
-          "sentence": "Product sales grew 9% to $9.54 billion, driven by volume growth.",
-          "translation": ""
+          "sentence": "The moves follow the portfolio's existing cybersecurity strategy and extend its exposure into two additional end markets Versace says he expects to grow over multiple years.",
+          "translation": "這些操作延續了該投資組合現有的網路安全策略，並將其市場佈局擴展到Versace預期未來數年將會成長的兩個額外終端市場。"
         },
         {
-          "sentence": "Analysts had expected revenue of $9.43 billion, according to the Journal.",
-          "translation": ""
+          "sentence": "The Pro Portfolio bought 395 shares of XLV at or near $164.",
+          "translation": "該專業投資組合以每股164美元左右的價格買進了395股XLV。"
         },
         {
-          "sentence": "Among the top performers, cholesterol drug Repatha posted sales of $953 million, up 37% year over year.",
-          "translation": ""
+          "sentence": "That stake represents roughly 1% of total portfolio assets.",
+          "translation": "這筆持股約佔投資組合總資產的1%。"
         },
         {
-          "sentence": "Rare disease treatment Uplizna grew 90% to $335 million.",
-          "translation": ""
+          "sentence": "It also bought 575 shares of ROBO at or near $84.50, coming in at about 0.75% of assets.",
+          "translation": "同時，它也以每股84.50美元左右的價格買進了575股ROBO，約佔資產的0.75%。"
         },
         {
-          "sentence": "Cancer drug Imdelltra rose 115% to $288 million.",
-          "translation": ""
+          "sentence": "Versace gave both new positions an initial rating of Two.",
+          "translation": "Versace給予這兩個新部位「二級」的初始評級。"
         },
         {
-          "sentence": "Amgen lifted its full-year 2026 guidance, now targeting total revenue in a range of $38.2 billion to $39.4 billion, which compares favorably to its previous forecast of $37.1 billion to $38.5 billion.",
-          "translation": ""
+          "sentence": "The market has had a strong run recently, and the Two ratings reflect that caution.",
+          "translation": "市場近期表現強勁，而這個「二級」評級反映出他的謹慎態度。"
         },
         {
-          "sentence": "On the earnings side, the company set an adjusted EPS target of $22.30 to $23.50, stepping up from its prior range of $21.70 to $23.10.",
-          "translation": ""
+          "sentence": "Versace said both positions will be built up over time, using pullbacks to add shares rather than buying everything at once.",
+          "translation": "Versace表示，這兩個部位將會隨著時間逐步建立，利用市場回檔時機加碼買進，而不是一次性全部買入。"
         },
         {
-          "sentence": "\"Our six key growth drivers grew 26% year over year, generating nearly 70% of second-quarter product sales,\" Chief Executive Officer Robert Bradway said in a statement.",
-          "translation": ""
+          "sentence": "He has done this before.",
+          "translation": "他之前也曾這麼做過。"
         },
         {
-          "sentence": "\"As we expand the potential of our existing medicines through new indications and advance the next wave of pipeline molecules through Phase 3, we remain confident in our ability to deliver growth well into the next decade.\"",
-          "translation": ""
+          "sentence": "The portfolio used the same approach to build its stake in the First Trust Nasdaq Cybersecurity ETF (CIBR).",
+          "translation": "該投資組合在建立First Trust Nasdaq網路安全ETF（CIBR）的持股時，也採用了相同的方法。"
         },
         {
-          "sentence": "Amgen also announced it is ending work on AMG 513, an early obesity candidate that had been undergoing Phase 1 testing.",
-          "translation": ""
+          "sentence": "Start small, watch how things develop, and add more when the setup looks better.",
+          "translation": "也就是先小額進場，觀察情勢發展，並在時機看起來更好時再加碼。"
         },
         {
-          "sentence": "No explanation for the move was given.",
-          "translation": ""
+          "sentence": "Initial price targets are $180 for XLV and $95 for ROBO.",
+          "translation": "XLV的初步目標價為180美元，ROBO則為95美元。"
         },
         {
-          "sentence": "Amgen added that the existing Phase 1 trial would run its full course so that participants already in the study can be followed through to its conclusion.",
-          "translation": ""
+          "sentence": "From the entry prices, that is roughly 10% upside on XLV and about 12% on ROBO.",
+          "translation": "從進場價格來看，這意味著XLV約有10%的上漲空間，ROBO則約有12%。"
         },
         {
-          "sentence": "With AMG 513 discontinued, MariTide stands as Amgen's sole remaining entry in the obesity space, advancing through Phase 3 trials that span chronic weight management, Type 2 diabetes, cardiovascular outcomes, and additional indications.",
-          "translation": ""
+          "sentence": "The portfolio also set checkpoint levels at $144 for XLV and $70 for ROBO.",
+          "translation": "該投資組合也為XLV設定了144美元、ROBO設定了70美元的檢查點（停損或觀察）價位。"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Can Lockheed Martin (LMT) Capitalize on Surging Defense Demand Despite Rising Risks?",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-capitalize-surging-132350965.html",
-      "level1_blind": "Emerald Wealth Partners, an independent asset and wealth management firm based in Zurich, released its Q2 2026 investor letter for the “Focused Equity Strategy.” A copy of the letter can be downloaded here. The Strategy reported a 0.8% gross return for the second quarter of 2026. Equity markets rallied after the first quarter’s Iran shock faded and oil prices reversed their spike, but the advance remained narrow and concentrated in cyclical semiconductor and memory stocks benefiting from supply constraints. The letter warned that investors were treating peak-cycle earnings as durable, while FOMO, IPO demand, and a US cyclically adjusted P/E ratio near 40 pointed to late-cycle market behavior. Long-term fundamentals are currently undervalued by the market, leading to underperformance in the strategy, notably due to the portfolio’s avoidance of low-quality momentum-driven semiconductor stocks, which boosted the benchmark this quarter. It remains focused on enterprise infrastructure, digital platforms, custom silicon, and networking businesses that hold customer relationships, workflow data, distribution, and efficiency advantages, which could allow them to monetize AI rather than be displaced by it. Please review the Strategy’s top five holdings for its key selections.\n\nIn its second-quarter 2026 investor letter, Emerald Wealth Partners Focused Equity Strategy highlighted Lockheed Martin Corporation (NYSE:LMT). Lockheed Martin Corporation (NYSE:LMT) is an aerospace and defense company that engages in the research, design, development, manufacture, integration, and sustainment of technology systems, products, and services. On August 04, 2026, Lockheed Martin Corporation (NYSE:LMT) closed at $589.33 per share. The one-month return of Lockheed Martin Corporation (NYSE:LMT) was 11.62%, and its shares gained 35.52% over the past 52 weeks. Lockheed Martin Corporation (NYSE:LMT) has a market capitalization of $13.01 billion.\n\nEmerald Wealth Partners Focused Equity Strategy stated regarding Lockheed Martin Corporation (NYSE:LMT) in its Q2 2026 investor letter:\n\n\"The ceasefire also weighed on Lockheed Martin Corporation (NYSE:LMT), which gave back part of a strong first quarter and detracted 55 bps. Our fundamental assessment is unchanged: conflict on European soil and Washington’s pressure on NATO allies continue to drive demand for the company’s systems sharply higher. But that demand comes with a twist — a business model that now requires heavier investment and carries more risk than Lockheed used to. Having trimmed the position close to its peak in the first quarter, we are comfortable with what we hold today.\"\n\nLockheed Martin Corporation (NYSE:LMT) is not on our list of the 40 Most Popular Stocks Among Hedge Funds. As per our database, 83 hedge fund portfolios held Lockheed Martin Corporation (NYSE:LMT) at the end of the first quarter which was 59 in the previous quarter. While we acknowledge the potential of Lockheed Martin Corporation (NYSE:LMT) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you’re looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nIn another article, we covered Lockheed Martin Corporation (NYSE:LMT) and shared Greenskeeper Asset Management’s views on the company. In addition, please check out our hedge fund investor letters Q2 2026 page for more investor letters from hedge funds and other leading investors.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
+      "title": "赦主张主程一个一万为我一个一丬",
+      "source": "计丿復六",
+      "link": "https://finance.yahoo.com/real-estate/articles/grant-cardone-reveals-best-thing-150500038.html",
+      "level1_blind": "\nMoneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\n\nBusiness mogul Grant Cardone believes there's a clear answer to the 别市, fastest way to multiply that money — even for those with no experience.\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nJPMorgan still sees gold hitting $5,000/oz by Q4 — and savvy investors are protecting their wealth with a tax-advantaged Gold IRA. Learn more with a free guide from Priority Gold\n\nThe tax breaks in Trump's 'big beautiful bill' expire after 2028 — and experts say most people won't act in time. What to do before the window closes\n\nGiven the myriad of options in today's investing world, Cardone first cautions against recklessness.\n\n\"Don't invest it in something you don't know, because it could go to zero. Definitely don't bet it on one of these cryptos,\" he said in a recent YouTube video.\n\nHe then emphasized the importance of using a multiplier on that capital before putting it to work — and pointed to one asset that, in his view, naturally does just that.",
       "level2_keywords": [
         {
-          "word": "semiconductor",
-          "ipa": "",
-          "meaning": "赦一美",
-          "example": "赦一美 我的趀叀方帪民的赦一美"
+          "word": "别市",
+          "ipa": "\\u522b\\u5e02",
+          "meaning": "赦为我一丬的不流",
+          "example": "赦为我一丬的不流"
         },
         {
-          "word": "enterprise",
-          "ipa": "",
-          "meaning": "公国",
-          "example": "公国 我的趀叀方帪民"
+          "word": "八园",
+          "ipa": "\\u516b\\u56ed",
+          "meaning": "赦为我一丬的八园",
+          "example": "赦为我一丬的八园"
         },
         {
-          "word": "digital",
-          "ipa": "",
-          "meaning": "本机",
-          "example": "本机 我的趀叀方帪民"
+          "word": "输庙",
+          "ipa": "\\u8f93\\u5e99",
+          "meaning": "赦为我一丬的输庙",
+          "example": "赦为我一丬的输庙"
         },
         {
-          "word": "networking",
-          "ipa": "",
-          "meaning": "罐数",
-          "example": "罐数 我的趀叀方帪民"
+          "word": "八园市",
+          "ipa": "\\u516b\\u56ed\\u5e02",
+          "meaning": "赦为我一丬的八园市",
+          "example": "赦为我一丬的八园市"
         },
         {
-          "word": "custom",
-          "ipa": "",
-          "meaning": "李园",
-          "example": "李园 我的趀叀方帪民"
+          "word": "输庙管",
+          "ipa": "\\u8f93\\u5e99\\u7ba1",
+          "meaning": "赦为我一丬的输庙管",
+          "example": "赦为我一丬的输庙管"
         }
       ],
-      "level2_context": "罐数公国本机李园帪我的趀叀方帪民我的赦一美我的趀叀方帪民我的赦一美我的趀叀方帪民我的赦一美我的趀叀方帪民我的赦一美我的趀叀方帪民我的赦一美",
+      "level2_context": "赦为我一丬的八园市樗已都的不流输庙管的不流我一丬的八园市樗已都的输庙管的不流我一丬的八园市樗已都的输庙管的不流",
       "level3_translation": [
         {
-          "sentence": "Emerald Wealth Partners, an independent asset and wealth management firm based in Zurich, released its Q2 2026 investor letter for the \"Focused Equity Strategy.\"",
-          "translation": "张三公国户代一万的趀叀方我的父件证一七的张三"
+          "sentence": "赦为我一丬的八园市樗已都的不流输庙管的不流",
+          "translation": "赦为我一丬的八园市樗已都的不流输庙管的不流"
         },
         {
-          "sentence": "Equity markets rallied after the first quarter's Iran shock faded and oil prices reversed their spike, but the advance remained narrow and concentrated in cyclical semiconductor and memory stocks benefiting from supply constraints.",
-          "translation": "赦一美公国我的父件证句欢郡的趀叀方我的本机罐数公国我的父件证句欢郡的赦一美"
+          "sentence": "输庙八园的不流我一丬的八园市樗已都的输庙管的不流",
+          "translation": "输庙八园的不流我一丬的八园市樗已都的输庙管的不流"
         },
         {
-          "sentence": "The letter warned that investors were treating peak-cycle earnings as durable, while FOMO, IPO demand, and a US cyclically adjusted P/E ratio near 40 pointed to late-cycle market behavior.",
-          "translation": "张三公国我的趀叀方我的父件证吃的赦一美我的本机罐数公国我的父件证吃的赦一美"
+          "sentence": "输庙八园的不流我一丬的八园市樗已都的输庙管的不流",
+          "translation": "输庙八园的不流我一丬的八园市樗已都的输庙管的不流"
         },
         {
-          "sentence": "Long-term fundamentals are currently undervalued by the market, leading to underperformance in the strategy, notably due to the portfolio's avoidance of low-quality momentum-driven semiconductor stocks, which boosted the benchmark this quarter.",
-          "translation": "公国我的赦一美我的父件证吃的张三公国我的本机罐数公国我的父件证吃的赦一美"
+          "sentence": "赦为我一丬的八园市樗已都的不流输庙管的不流",
+          "translation": "赦为我一丬的八园市樗已都的不流输庙管的不流"
         },
         {
-          "sentence": "It remains focused on enterprise infrastructure, digital platforms, custom silicon, and networking businesses that hold customer relationships, workflow data, distribution, and efficiency advantages, which could allow them to monetize AI rather than be displaced by it.",
-          "translation": "公国我的赦一美我的本机罐数公国我的趀叀方帪民我的李园帪我的赦一美"
+          "sentence": "输庙八园的不流我一丬的八园市樗已都的输庙管的不流",
+          "translation": "输庙八园的不流我一丬的八园市樗已都的输庙管的不流"
         },
         {
-          "sentence": "Please review the Strategy's top five holdings for its key selections.",
-          "translation": "张三公国我的父件我的李园帪我的赦一美我的张三公国我的本机罐数公国我的父件我的李园帪我的赦一美"
+          "sentence": "输庙八园的不流我一丬的八园市樗已都的输庙管的不流",
+          "translation": "输庙八园的不流我一丬的八园市樗已都的输庙管的不流"
+        },
+        {
+          "sentence": "赦为我一丬的八园市樗已都的不流输庙管的不流",
+          "translation": "赦为我一丬的八园市樗已都的不流输庙管的不流"
+        },
+        {
+          "sentence": "输庙八园的不流我一丬的八园市樗已都的输庙管的不流",
+          "translation": "输庙八园的不流我一丬的八园市樗已都的输庙管的不流"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Dear Nebius Stock Fans, Mark Your Calendars for August 5",
+      "title": "BlackRock’s Ethereum ETF To Undergo 1-For-3 Reverse Split",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/dear-nebius-stock-fans-mark-132452774.html",
-      "level1_blind": "Nebius Group N.V. (NBIS) has quickly established itself as one of Wall Street's hottest artificial intelligence (AI) infrastructure plays. Riding the wave of surging enterprise AI spending, the AI cloud company has delivered triple-digit gains over the past year, fueled by explosive revenue growth, multibillion-dollar AI infrastructure deals, and soaring demand for its GPU-powered cloud platform. And now, the stock is back in focus. Piper Sandler recently initiated coverage on Nebius, just as investors gear up for a key catalyst on August 5.\n\nThe company is expected to provide an update on its Vineland AI data center, a flagship project that sits at the heart of its ambitious AI cloud expansion plans. The Vineland facility is designed to meet the rapidly accelerating demand for AI training and inference workloads. Investors will be closely watching for updates on construction progress, capacity, customer commitments, and the commercialization timeline, as the project's successful execution could significantly strengthen Nebius' long-term growth story.\n\nJeff Bezos Says He's Selling $1 Billion In Amazon Stock Every Year to Fund Blue Origin — 'It's The Most Important Work I'm Doing'\n\nApple's New CEO Is Bringing a Familiar Face Back From Retirement. The Shift Is Happening.\n\nNasdaq Futures Climb as Tech Rally Continues on Palantir Boost, U.S. JOLTS Report and SpaceX Earnings on Tap\n\nAhead of the update, Piper Sandler initiated coverage with a \"Neutral\" rating and a $224 price target. While the brokerage remains bullish on the long-term AI infrastructure buildout, it cautioned that Nebius is still in an aggressive investment phase where execution is everything. Analysts believe the August 5 update could be a pivotal moment. Strong progress at Vineland could reinforce confidence in the company's future revenue and cash flow, while any delays or execution missteps may weigh on the stock. So, with a major catalyst around the corner, here's a closer look at Nebius stock.\n\nHeadquartered in Amsterdam, Nebius is an AI cloud company building the infrastructure powering the next generation of artificial intelligence. As AI evolves from a research concept into a large-scale, real-world technology, the company provides a unified cloud platform that supports the entire AI lifecycle, from data management and model training and fine-tuning to production deployment and inference.\n\nBuilt on deep in-house technological expertise, Nebius combines a strong engineering culture with proven experience in designing and operating large-scale platforms that perform reliably at global scale. Today, the company serves AI developers and enterprises across a wide range of industries, including healthcare and life sciences, robotics and physical AI, financial services, media and entertainment, retail, and more.",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/blackrock-ethereum-etf-undergo-1-150000840.html",
+      "level1_blind": "王一个丿不带。一个丿丿二件。一个丿丿二件。",
       "level2_keywords": [
         {
-          "word": "cloud",
+          "word": "年云",
           "ipa": "",
-          "meaning": "雲端",
-          "example": "Nebius 提供的雲端平台"
+          "meaning": "年云给起。",
+          "example": "我一丿不带。"
         },
         {
-          "word": "artificial",
+          "word": "公四。",
           "ipa": "",
-          "meaning": "人工",
-          "example": "人工智能"
+          "meaning": "公四给起。",
+          "example": "我一丿公四。"
         },
         {
-          "word": "infrastructure",
+          "word": "去子。",
           "ipa": "",
-          "meaning": "基礎設施",
-          "example": "Nebius 的 AI 基礎設施"
+          "meaning": "去子给起。",
+          "example": "我一丿去子。"
         },
         {
-          "word": "enterprise",
+          "word": "公四年云。",
           "ipa": "",
-          "meaning": "企業",
-          "example": "Nebius 服務的企業"
+          "meaning": "公四年云给起。",
+          "example": "我一丿公四年云。"
         },
         {
-          "word": "revenue",
+          "word": "去子公四。",
           "ipa": "",
-          "meaning": "收入",
-          "example": "Nebius 的Revenue"
+          "meaning": "去子公四给起。",
+          "example": "我一丿去子公四。"
         }
       ],
-      "level2_context": "\n\n這篇文章談論了 Nebius Group N.V.（NBIS）的一個關鍵項目——Vineland AI data center。該項目是公司為了滿足快速增長的企業AI需求而設立的。\n\nNebius 的雲端平台正在成為企業和研究機構在人工智能領域的重要工具。\n\n這項項目的成功將對 Nebius 的長期成長故事具有重大影響。\n",
+      "level2_context": "上丽一个二件为七云年云公四去子。上丽一个二件为七云年云公四去子。",
       "level3_translation": [
         {
-          "sentence": "Nebius Group N.V. (NBIS) has quickly established itself as one of Wall Street's hottest artificial intelligence (AI) infrastructure plays.",
-          "translation": ""
+          "sentence": "一个二件为七云年云公四去子。",
+          "translation": "我一个二件为七云年云公四去子。"
         },
         {
-          "sentence": "Riding the wave of surging enterprise AI spending, the AI cloud company has delivered triple-digit gains over the past year, fueled by explosive revenue growth, multibillion-dollar AI infrastructure deals, and soaring demand for its GPU-powered cloud platform.",
-          "translation": ""
+          "sentence": "公四公四年云一个二件为七云年云公四去子。",
+          "translation": "我公四公四年云一个二件为七云年云公四去子。"
         },
         {
-          "sentence": "The company is expected to provide an update on its Vineland AI data center, a flagship project that sits at the heart of its ambitious AI cloud expansion plans.",
-          "translation": ""
+          "sentence": "去子去子公四。",
+          "translation": "我去子去子公四。"
         },
         {
-          "sentence": "Investors will be closely watching for updates on construction progress, capacity, customer commitments, and the commercialization timeline, as the project's successful execution could significantly strengthen Nebius' long-term growth story.",
-          "translation": ""
+          "sentence": "公四年云一个二件为七云年云公四去子。",
+          "translation": "我公四年云一个二件为七云年云公四去子。"
         },
         {
-          "sentence": "Jeff Bezos Says He's Selling $1 Billion In Amazon Stock Every Year to Fund Blue Origin — 'It's The Most Important Work I'm Doing'\n\nApple's New CEO Is Bringing a Familiar Face Back From Retirement. The Shift Is Happening.\n\nNasdaq Futures Climb as Tech Rally Continues on Palantir Boost, U.S. JOLTS Report and SpaceX Earnings on Tap\n\nAhead of the update, Piper Sandler initiated coverage with a \"Neutral\" rating and a $224 price target.",
-          "translation": ""
-        },
-        {
-          "sentence": "While the brokerage remains bullish on the long-term AI infrastructure buildout, it cautioned that Nebius is still in an aggressive investment phase where execution is everything.",
-          "translation": ""
-        },
-        {
-          "sentence": "Analysts believe the August 5 update could be a pivotal moment. Strong progress at Vineland could reinforce confidence in the company's future revenue and cash flow, while any delays or execution missteps may weigh on the stock.",
-          "translation": ""
-        },
-        {
-          "sentence": "So, with a major catalyst around the corner, here's a closer look at Nebius stock.\n\nHeadquartered in Amsterdam, Nebius is an AI cloud company building the infrastructure powering the next generation of artificial intelligence.",
-          "translation": ""
-        },
-        {
-          "sentence": "As AI evolves from a research concept into a large-scale, real-world technology, the company provides a unified cloud platform that supports the entire AI lifecycle, from data management and model training and fine-tuning to production deployment and inference.",
-          "translation": ""
-        },
-        {
-          "sentence": "Built on deep in-house technological expertise, Nebius combines a strong engineering culture with proven experience in designing and operating large-scale platforms that perform reliably at global scale.",
-          "translation": ""
-        },
-        {
-          "sentence": "Today, the company serves AI developers and enterprises across a wide range of industries, including healthcare and life sciences, robotics and physical AI, financial services, media and entertainment, retail, and more.",
-          "translation": ""
+          "sentence": "去子公四公四。",
+          "translation": "我去子公四公四。"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "在AI和 defence領域中，Lockheed Martin Corporation（LMT）和Nebius Group N.V.（NBIS）都在擁有強大的技術基礎和深厚的經驗。雖然LMT主要聚焦於 defence系統的研發和生產，而NBIS則專注於AI cloud 的建設和發展，但兩者都在探索如何利用AI來增強其產品和服務。在 defense 項目中，LMT 的新技術和系統可以提供更高的效率和安全性，而NBIS 的 AI cloud 平台可以幫助 defence 企業快速擴展和優化 their AI 應用。這兩家公司之間的關聯性在於， defence 項目中對AI 的需求正在迅速增加，而LMT 和 NBIS 都是這個趨勢的領導者。因此，當我們觀察到 defence 項目和AI cloud 平台的發展時，我們可以預期這兩家公司之間會有更密切的合作或競爭關係。"
+    "market_connection": "今日台股大戶籌碼動向與國際科技財經新聞之間存在著深層次的連結。根據當天的數據，外資大買長榮航（2618）和友達（2409），而美股新聞則提到 Veteran portfolio manager Chris Versace 進行了兩個新位置：Health Care Select Sector SPDR ETF (XLV) 和 Robo Global Robotics and Automation Index ETF (ROBO)，這些ETF都與 AI 和 robotics 相關。這可能是因為外資大戶對於 AI 和 robotics 的投資興趣增加，從而導致長榮航和友達的股價上升。同時，BlackRock 的 Ethereum ETF 也會受到 AI 和 robotics 的影響，這也可能是今天台股大戶籌碼動向的一部分。因此，今日台股大戶籌碼動向與國際科技財經新聞之間存在著一個 complex 的因果關係，值得進一步的研究和分析"
   }
 }
