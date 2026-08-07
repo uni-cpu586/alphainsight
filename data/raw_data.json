@@ -1,378 +1,378 @@
 {
-  "date": "2026-08-06",
-  "stock_market_date": "2026-08-05",
+  "date": "2026-08-07",
+  "stock_market_date": "2026-08-06",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 84036810
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 38628520
         },
         {
           "rank": 2,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 39175595
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 37748203
         },
         {
           "rank": 3,
           "stock_name": "鴻海",
           "ticker": "2317",
-          "net_buy_shares": 36977842
+          "net_buy_shares": 21743362
         },
         {
           "rank": 4,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 35613026
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 16223402
         },
         {
           "rank": 5,
-          "stock_name": "光寶科",
-          "ticker": "2301",
-          "net_buy_shares": 29757994
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_buy_shares": 14914131
         },
         {
           "rank": 6,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 23852111
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_buy_shares": 14490477
         },
         {
           "rank": 7,
-          "stock_name": "華新",
-          "ticker": "1605",
-          "net_buy_shares": 18179511
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 14462884
         },
         {
           "rank": 8,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 15924568
+          "stock_name": "台泥",
+          "ticker": "1101",
+          "net_buy_shares": 14353331
         },
         {
           "rank": 9,
-          "stock_name": "元大高股息",
-          "ticker": "0056",
-          "net_buy_shares": 15036177
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_buy_shares": 13592952
         },
         {
           "rank": 10,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 13888815
+          "stock_name": "統一",
+          "ticker": "1216",
+          "net_buy_shares": 9684719
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -38794875
-        },
-        {
-          "rank": 2,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -35273087
-        },
-        {
-          "rank": 3,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -29375079
-        },
-        {
-          "rank": 4,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -28026230
-        },
-        {
-          "rank": 5,
-          "stock_name": "寶成",
-          "ticker": "9904",
-          "net_sell_shares": -25566204
-        },
-        {
-          "rank": 6,
           "stock_name": "臺企銀",
           "ticker": "2834",
-          "net_sell_shares": -23329934
+          "net_sell_shares": -23309037
         },
         {
-          "rank": 7,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_sell_shares": -15948002
-        },
-        {
-          "rank": 8,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -15672112
-        },
-        {
-          "rank": 9,
+          "rank": 2,
           "stock_name": "第一金",
           "ticker": "2892",
-          "net_sell_shares": -11962069
+          "net_sell_shares": -21663786
         },
         {
-          "rank": 10,
+          "rank": 3,
           "stock_name": "台中銀",
           "ticker": "2812",
-          "net_sell_shares": -9945415
-        }
-      ],
-      "trust_buy": [
-        {
-          "rank": 1,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_buy_shares": 10582000
-        },
-        {
-          "rank": 2,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 9995104
-        },
-        {
-          "rank": 3,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 9902000
-        },
-        {
-          "rank": 4,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 6331000
-        },
-        {
-          "rank": 5,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 5824909
-        },
-        {
-          "rank": 6,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 5713948
-        },
-        {
-          "rank": 7,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 3916935
-        },
-        {
-          "rank": 8,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 3718872
-        },
-        {
-          "rank": 9,
-          "stock_name": "欣興",
-          "ticker": "3037",
-          "net_buy_shares": 1817592
-        },
-        {
-          "rank": 10,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_buy_shares": 1710465
-        }
-      ],
-      "trust_sell": [
-        {
-          "rank": 1,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -4181000
-        },
-        {
-          "rank": 2,
-          "stock_name": "金像電",
-          "ticker": "2368",
-          "net_sell_shares": -2099011
-        },
-        {
-          "rank": 3,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -1204507
+          "net_sell_shares": -20938492
         },
         {
           "rank": 4,
           "stock_name": "凱基金",
           "ticker": "2883",
-          "net_sell_shares": -1154883
+          "net_sell_shares": -19747940
         },
         {
           "rank": 5,
-          "stock_name": "致茂",
-          "ticker": "2360",
-          "net_sell_shares": -1120922
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -18757025
         },
         {
           "rank": 6,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_sell_shares": -1107959
+          "stock_name": "中纖",
+          "ticker": "1718",
+          "net_sell_shares": -18214779
         },
         {
           "rank": 7,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_sell_shares": -979876
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_sell_shares": -16130823
         },
         {
           "rank": 8,
-          "stock_name": "統一實",
-          "ticker": "9907",
-          "net_sell_shares": -898251
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_sell_shares": -15939384
         },
         {
           "rank": 9,
-          "stock_name": "富邦金",
-          "ticker": "2881",
-          "net_sell_shares": -749258
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_sell_shares": -11103864
         },
         {
           "rank": 10,
-          "stock_name": "中華",
-          "ticker": "2204",
-          "net_sell_shares": -663672
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_sell_shares": -10142679
         }
       ],
-      "dealer_buy": [
+      "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 4213931
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 10426000
         },
         {
           "rank": 2,
           "stock_name": "兆豐金",
           "ticker": "2886",
-          "net_buy_shares": 1145903
+          "net_buy_shares": 7520000
         },
         {
           "rank": 3,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_buy_shares": 864350
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 7361000
         },
         {
           "rank": 4,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_buy_shares": 574000
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 5800000
         },
         {
           "rank": 5,
-          "stock_name": "中石化",
-          "ticker": "1314",
-          "net_buy_shares": 546771
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_buy_shares": 5080000
         },
         {
           "rank": 6,
-          "stock_name": "微星",
-          "ticker": "2377",
-          "net_buy_shares": 462649
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 4112000
         },
         {
           "rank": 7,
-          "stock_name": "艾笛森",
-          "ticker": "3591",
-          "net_buy_shares": 442000
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_buy_shares": 2715000
         },
         {
           "rank": 8,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_buy_shares": 436000
+          "stock_name": "景碩",
+          "ticker": "3189",
+          "net_buy_shares": 2501546
         },
         {
           "rank": 9,
-          "stock_name": "友訊",
-          "ticker": "2332",
-          "net_buy_shares": 423509
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_buy_shares": 2072000
         },
         {
           "rank": 10,
-          "stock_name": "台虹",
-          "ticker": "8039",
-          "net_buy_shares": 373000
+          "stock_name": "聯茂",
+          "ticker": "6213",
+          "net_buy_shares": 1760000
+        }
+      ],
+      "trust_sell": [
+        {
+          "rank": 1,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -6458657
+        },
+        {
+          "rank": 2,
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_sell_shares": -3184232
+        },
+        {
+          "rank": 3,
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_sell_shares": -1879662
+        },
+        {
+          "rank": 4,
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -1821000
+        },
+        {
+          "rank": 5,
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -1647660
+        },
+        {
+          "rank": 6,
+          "stock_name": "上海商銀",
+          "ticker": "5876",
+          "net_sell_shares": -1395000
+        },
+        {
+          "rank": 7,
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_sell_shares": -1311000
+        },
+        {
+          "rank": 8,
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -1205000
+        },
+        {
+          "rank": 9,
+          "stock_name": "中華",
+          "ticker": "2204",
+          "net_sell_shares": -991000
+        },
+        {
+          "rank": 10,
+          "stock_name": "統一",
+          "ticker": "1216",
+          "net_sell_shares": -958000
+        }
+      ],
+      "dealer_buy": [
+        {
+          "rank": 1,
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 3039002
+        },
+        {
+          "rank": 2,
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 2569000
+        },
+        {
+          "rank": 3,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 1435000
+        },
+        {
+          "rank": 4,
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 1213000
+        },
+        {
+          "rank": 5,
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 1037000
+        },
+        {
+          "rank": 6,
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 885000
+        },
+        {
+          "rank": 7,
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 791000
+        },
+        {
+          "rank": 8,
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 369716
+        },
+        {
+          "rank": 9,
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_buy_shares": 337486
+        },
+        {
+          "rank": 10,
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_buy_shares": 334000
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_sell_shares": -8438000
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_sell_shares": -1652000
         },
         {
           "rank": 2,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -2917989
+          "stock_name": "威健",
+          "ticker": "3033",
+          "net_sell_shares": -687000
         },
         {
           "rank": 3,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -2773000
+          "stock_name": "寶成",
+          "ticker": "9904",
+          "net_sell_shares": -558000
         },
         {
           "rank": 4,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -2606587
+          "stock_name": "三商壽",
+          "ticker": "2867",
+          "net_sell_shares": -507000
         },
         {
           "rank": 5,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -2397000
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_sell_shares": -465000
         },
         {
           "rank": 6,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_sell_shares": -2377225
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -449380
         },
         {
           "rank": 7,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -1599316
+          "stock_name": "艾笛森",
+          "ticker": "3591",
+          "net_sell_shares": -444501
         },
         {
           "rank": 8,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_sell_shares": -1305700
+          "stock_name": "台泥",
+          "ticker": "1101",
+          "net_sell_shares": -436000
         },
         {
           "rank": 9,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -1250996
+          "stock_name": "友訊",
+          "ticker": "2332",
+          "net_sell_shares": -350000
         },
         {
           "rank": 10,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_sell_shares": -839000
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_sell_shares": -340374
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "元大台灣50",
-        "shares": 29412883
+        "target": "力積電",
+        "shares": 13519982
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "第一金",
-        "shares": 1685572
+        "target": "群創",
+        "shares": 1215600
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "旺宏",
-        "shares": 4761900
+        "target": "華南金",
+        "shares": 4691700
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "群創",
-        "shares": 11638462
+        "target": "臺企銀",
+        "shares": 6992711
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today",
+      "title": "Amgen Q2 2026 earnings beat, raises full-year outlook, drops AMG 513",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/invested-1-000-gold-bitcoin-150000514.html",
-      "summary": "If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today",
-      "full_text": "Pick any investor who watched Donald Trump walk back into the White House on January 20, 2025 and decided to put money into the three most talked-about assets surrounding that moment.\n\nBitcoin, the asset Trump had openly embraced. Gold, the safe haven that has anchored portfolios for centuries. And the TRUMP memecoin, the token bearing the president's name that had launched three days earlier and was already being called the trade of the inauguration.\n\nBitcoin opened inauguration day at approximately $102,000. A $1,000 investment bought roughly 0.0098 BTC. Today, with Bitcoin trading near $62,000, that position is worth approximately $607, a loss of 40%.\n\nThe irony is hard to miss. Trump entered office as the most openly crypto-friendly president in American history. He signed the GENIUS Act. He signed an Executive Order to establish a Strategic Bitcoin Reserve.\n\nHe called the U.S. the crypto capital of the world. And Bitcoin still lost 40% of its value on his watch.\n\nWhat makes the Bitcoin loss particularly striking is the context surrounding it. This was not a hostile administration. Trump's team established the first ever Strategic Bitcoin Reserve in March 2025, halting all government Bitcoin sales and signaling long-term institutional commitment at the sovereign level.\n\nThe policy environment was the most favorable in Bitcoin's history. And yet the price fell from where it stood on the day that all of that became official. The lesson is not that Bitcoin is broken.\n\nIt is that even the best policy tailwind cannot override a global liquidity squeeze, a hawkish Fed, and overleveraged positions unwinding at scale.",
-      "published": "2026-08-04T15:00:00Z"
+      "link": "https://finance.yahoo.com/healthcare/articles/amgen-q2-2026-earnings-beat-132232577.html",
+      "summary": "Amgen Q2 2026 earnings beat, raises full-year outlook, drops AMG 513",
+      "full_text": "Amgen reported second-quarter results on Tuesday that topped expectations, raised its full-year outlook, and disclosed it was ending development of an early-stage weight loss drug candidate.\n\nThe Thousand Oaks, California-based biotech earned $2.38 billion in the second quarter, translating to $4.37 per diluted share, a significant jump from the $1.43 billion, or $2.65 per share, it recorded in the year-ago period. On an adjusted basis, earnings came to $6.29 per share, up 4% year over year. Analysts had expected adjusted earnings of $5.62 per share, according to the Wall Street Journal.\n\nTotal revenue climbed 10% to $10.05 billion, compared with $9.18 billion in the second quarter of 2025, the company said. Product sales grew 9% to $9.54 billion, driven by volume growth. Analysts had expected revenue of $9.43 billion, according to the Journal.\n\nAmong the top performers, cholesterol drug Repatha posted sales of $953 million, up 37% year over year, while bone drug Evenity generated $714 million, up 38%. Rare disease treatment Uplizna grew 90% to $335 million. Cancer drug Imdelltra rose 115% to $288 million.\n\nAmgen lifted its full-year 2026 guidance, now targeting total revenue in a range of $38.2 billion to $39.4 billion, which compares favorably to its previous forecast of $37.1 billion to $38.5 billion. On the earnings side, the company set an adjusted EPS target of $22.30 to $23.50, stepping up from its prior range of $21.70 to $23.10.\n\n\"Our six key growth drivers grew 26% year over year, generating nearly 70% of second-quarter product sales,\" Chief Executive Officer Robert Bradway said in a statement. \"As we expand the potential of our existing medicines through new indications and advance the next wave of pipeline molecules through Phase 3, we remain confident in our ability to deliver growth well into the next decade.\"\n\nAmgen also announced it is ending work on AMG 513, an early obesity candidate that had been undergoing Phase 1 testing. No explanation for the move was given. Amgen added that the existing Phase 1 trial would run its full course so that participants already in the study can be followed through to its conclusion.\n\nWith AMG 513 discontinued, MariTide stands as Amgen's sole remaining entry in the obesity space, advancing through Phase 3 trials that span chronic weight management, Type 2 diabetes, cardiovascular outcomes, and additional indications.",
+      "published": "2026-08-05T13:22:32Z"
     },
     {
       "id": "news_2",
-      "title": "Do Wall Street Analysts Like Charles Schwab Corporation Stock?",
+      "title": "Can Lockheed Martin (LMT) Capitalize on Surging Defense Demand Despite Rising Risks?",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-charles-schwab-144805788.html",
-      "summary": "Do Wall Street Analysts Like Charles Schwab Corporation Stock?",
-      "full_text": "Westlake, Texas-based The Charles Schwab Corporation (SCHW) operates as a savings and loan holding company that provides wealth management, securities brokerage, banking, asset management, custody, and financial advisory services in the United States and internationally. The company has a market cap of $184.1 billion and operates through the Investor Services and Advisor Services segments.\n\nSCHW stock has lagged behind the broader market over the past year, growing 8.8% compared to the S&P 500 Index's ($SPX) 21.8% surge. Moreover, in 2026, the stock has risen by nearly 5.7%, underperforming the SPX's 11% gain.\n\nBillionaire Ken Griffin Just Saved Situational Awareness, But Here's What a Rescue Call From Citadel Really Sounds Like — 'I… Heard the Grim Reaper's Scythe'\n\nZooming in further, the State Street Financial Select Sector SPDR ETF (XLF) has risen 10.6% over the past year, outpacing the stock. In 2026, XLF has grown 4.8% and has underperformed the stock.\n\nSCHW pays an annual dividend of $1.28, with a dividend yield of 1.21%. The company has a robust history of paying dividends to its shareholders for 36 straight years. Despite looking lucrative from the get-go, this yield falls behind that of XLF, its industry anchor. In comparison, XLF pays a dividend of $0.81, with a yield of 1.41%. Despite being nearly double the share price of XLF, SCHW's yield seems to be lagging behind the industry standard.\n\nFor the current year, which ends in December, analysts expect SCHW's EPS to rise 32.7% to $6.46 on a diluted basis. The company surpassed the consensus estimate in each of the last four quarters.\n\nAmong 24 Wall Street analysts covering SCHW stock, the consensus is a \"Moderate Buy.\" That's based on 14 \"Strong Buy\" ratings, four \"Moderate Buys,\" five \"Holds,\" and one \"Moderate Sell.\"\n\nThe configuration has grown more bullish over the past two months, with the stock now having 14 \"Strong Buy\" ratings compared to 13 two months prior.",
-      "published": "2026-08-04T14:48:05Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-capitalize-surging-132350965.html",
+      "summary": "Can Lockheed Martin (LMT) Capitalize on Surging Defense Demand Despite Rising Risks?",
+      "full_text": "Emerald Wealth Partners, an independent asset and wealth management firm based in Zurich, released its Q2 2026 investor letter for the \"Focused Equity Strategy.\" A copy of the letter can be downloaded here. The Strategy reported a 0.8% gross return for the second quarter of 2026. Equity markets rallied after the first quarter's Iran shock faded and oil prices reversed their spike, but the advance remained narrow and concentrated in cyclical semiconductor and memory stocks benefiting from supply constraints. The letter warned that investors were treating peak-cycle earnings as durable, while FOMO, IPO demand, and a US cyclically adjusted P/E ratio near 40 pointed to late-cycle market behavior. Long-term fundamentals are currently undervalued by the market, leading to underperformance in the strategy, notably due to the portfolio's avoidance of low-quality momentum-driven semiconductor stocks, which boosted the benchmark this quarter. It remains focused on enterprise infrastructure, digital platforms, custom silicon, and networking businesses that hold customer relationships, workflow data, distribution, and efficiency advantages, which could allow them to monetize AI rather than be displaced by it. Please review the Strategy's top five holdings for its key selections.\n\nIn its second-quarter 2026 investor letter, Emerald Wealth Partners Focused Equity Strategy highlighted Lockheed Martin Corporation (NYSE:LMT). Lockheed Martin Corporation (NYSE:LMT) is an aerospace and defense company that engages in the research, design, development, manufacture, integration, and sustainment of technology systems, products, and services. On August 04, 2026, Lockheed Martin Corporation (NYSE:LMT) closed at $589.33 per share. The one-month return of Lockheed Martin Corporation (NYSE:LMT) was 11.62%, and its shares gained 35.52% over the past 52 weeks. Lockheed Martin Corporation (NYSE:LMT) has a market capitalization of $13.01 billion.\n\nEmerald Wealth Partners Focused Equity Strategy stated the following regarding Lockheed Martin Corporation (NYSE:LMT) in its Q2 2026 investor letter:\n\n\"The ceasefire also weighed on Lockheed Martin Corporation (NYSE:LMT), which gave back part of a strong first quarter and detracted 55 bps. Our fundamental assessment is unchanged: conflict on European soil and Washington's pressure on NATO allies continue to drive demand for the company's systems sharply higher. But that demand comes with a twist — a business model that now requires heavier investment and carries more risk than Lockheed used to. Having trimmed the position close to its peak in the first quarter, we are comfortable with what we hold today.\"\n\nLockheed Martin Corporation (NYSE:LMT) is not on our list of the 40 Most Popular Stocks Among Hedge Funds. As per our database, 83 hedge fund portfolios held Lockheed Martin Corporation (NYSE:LMT) at the end of the first quarter which was 59 in the previous quarter. While we acknowledge the potential of Lockheed Martin Corporation (NYSE:LMT) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nIn another article, we covered Lockheed Martin Corporation (NYSE:LMT) and shared Greenskeeper Asset Management's views on the company. In addition, please check out our hedge fund investor letters Q2 2026 page for more investor letters from hedge funds and other leading investors.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
+      "published": "2026-08-05T13:23:50Z"
     },
     {
       "id": "news_3",
-      "title": "Intel vs. TSMC: Intel Is Winning an AI Battle Against TSMC That Few Investors Are Watching",
+      "title": "Dear Nebius Stock Fans, Mark Your Calendars for August 5",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/intel-vs-tsmc-intel-winning-144139718.html",
-      "summary": "Intel vs. TSMC: Intel Is Winning an AI Battle Against TSMC That Few Investors Are Watching",
-      "full_text": "It is not often that TSMC (TSM) takes cues from Intel (INTC), but that is undoubtedly what's happening. According to The Information, the world's largest contract chipmaker is quietly building a new packaging technology modeled on Intel's EMIB. TSMC's own engineers are reportedly calling the project \"EMIB-like\" in-house. The company is developing it with a Taiwanese substrate maker, Kinsus Interconnect Technology. Following the report, TSMC's U.S.-listed shares rose about 8%, while Intel climbed roughly 11% on July 30. For a company that usually defines the industry's direction, TSMC borrowing ideas from Intel is worth a closer look.\n\nThe fight is all about how chips get packaged. TSMC's main method, CoWoS, uses a large and expensive silicon layer to link chips together. Intel's EMIB takes a leaner route, embedding tiny silicon bridges only where the chips actually connect. That makes it cheaper and potentially better suited to the increasingly large AI chip designs. The timing makes this sting more for the Taiwanese company. TSMC's CoWoS is sold out into 2027, with some customers waiting well over a year. That backlog is pushing buyers to look for alternate suppliers, and Intel is ready. Its newest version, EMIB-T, recently hit a 98% yield rate, matching CoWoS in that metric, and has already drawn interest from Google (GOOG) (GOOGL), Amazon (AMZN), and Nvidia (NVDA). Every customer who leaves over the wait chips away at TSMC's lead.\n\nBillionaire Ken Griffin Just Saved Situational Awareness, But Here's What a Rescue Call From Citadel Really Sounds Like — 'I… Heard the Grim Reaper's Scythe'\n\nFor Intel, this is a rare moment of strength. Its foundry turnaround has been slow, and outside customers still bring in very little. Intel's foundry earned just $293 million from external clients last quarter, a sliver of the $5.8 billion the unit made overall, with the rest coming from Intel itself. But packaging gives Intel a genuine opening. If big customers come for EMIB, they may stay for Intel's chipmaking too, which is where the real money is. TSMC clearly sees that risk, and its Kinsus project is the answer. It is worth noting that TSMC already uses silicon-bridge technology in one version of CoWoS, so the Kinsus effort may be as much about adding cheaper capacity as copying a rival. Either way, the message is the same. Packaging has become the next big battleground in the AI chip race. TSMC still holds a commanding lead across the board. But for once, Intel is the one setting the pace in a corner of the market that suddenly matters a great deal.\n\nBoth stocks look expensive right now, but for very different reasons. TSMC trades at a forward price-to-earnings (P/E) of 23.95x, a modest 8% above its 5-year average. Its forward price-to-sales (P/S) ratio of 11.62x is much steeper, sitting roughly 46% above its historical average. That premium is defensible, though, with the EPS outlook and the company's balance sheet. Analysts expect a growth of 58% in 2026 and then slowing down but remaining at a healthy 28-30% growth through 2028. The balance sheet shows the company holding around $80 billion in net cash. Investors are paying up for a business that clearly earns it.\n\nIntel is the harder one to judge. Its forward P/E is not meaningful, since the company is barely profitable right now. That leaves the P/S ratio of 7.22x, which sits a striking 145% above its 5-year average. The EPS growth looks enormous on paper, starting with 261% in 2026, though that partly reflects how low Intel's current earnings are. Like TSMC, Intel is expected to slow from there while still posting strong growth. The company's EPS growth is expected to improve each year from 2027 to 2029, going from 34% in 2027 to 44% in 2028 to 66% in 2029. In contrast to TSMC's strong cash pile, Intel carries roughly $21 billion in net debt. In terms of market cap, TSMC is over 4 times larger than Intel.\n\nOverall, TSMC is the safer, sturdier pick, with a premium backed by profits, growth, and a strong balance sheet. Intel offers more upside if its foundry and packaging push pays off, but the stock already assumes plenty of that success. One is priced for proven dominance, the other for a comeback still in progress.\n\nTaiwan Semiconductor Manufacturing Company is the world's largest contract chip manufacturer. It manufactures advanced semiconductors for technology companies around the world. The company's chips are used in smartphones, high-performance computing, AI, IoT devices, automotive systems, and consumer electronics. Taiwan Semiconductor also offers mask manufacturing, engineering support, and invests in emerging technologies.",
-      "published": "2026-08-04T14:41:39Z"
+      "link": "https://finance.yahoo.com/technology/ai/articles/dear-nebius-stock-fans-mark-132452774.html",
+      "summary": "Dear Nebius Stock Fans, Mark Your Calendars for August 5",
+      "full_text": "Nebius Group N.V. (NBIS) has quickly established itself as one of Wall Street's hottest artificial intelligence (AI) infrastructure plays. Riding the wave of surging enterprise AI spending, the AI cloud company has delivered triple-digit gains over the past year, fueled by explosive revenue growth, multibillion-dollar AI infrastructure deals, and soaring demand for its GPU-powered cloud platform. And now, the stock is back in focus. Piper Sandler recently initiated coverage on Nebius, just as investors gear up for a key catalyst on August 5.\n\nThe company is expected to provide an update on its Vineland AI data center, a flagship project that sits at the heart of its ambitious AI cloud expansion plans. The Vineland facility is designed to meet the rapidly accelerating demand for AI training and inference workloads. Investors will be closely watching for updates on construction progress, capacity, customer commitments, and the commercialization timeline, as the project's successful execution could significantly strengthen Nebius' long-term growth story.\n\nJeff Bezos Says He's Selling $1 Billion In Amazon Stock Every Year to Fund Blue Origin — 'It's The Most Important Work I'm Doing'\n\nApple's New CEO Is Bringing a Familiar Face Back From Retirement. The Shift Is Happening.\n\nNasdaq Futures Climb as Tech Rally Continues on Palantir Boost, U.S. JOLTS Report and SpaceX Earnings on Tap\n\nAhead of the update, Piper Sandler initiated coverage with a \"Neutral\" rating and a $224 price target. While the brokerage remains bullish on the long-term AI infrastructure buildout, it cautioned that Nebius is still in an aggressive investment phase where execution is everything. Analysts believe the August 5 update could be a pivotal moment. Strong progress at Vineland could reinforce confidence in the company's future revenue and cash flow, while any delays or execution missteps may weigh on the stock. So, with a major catalyst around the corner, here's a closer look at Nebius stock.\n\nHeadquartered in Amsterdam, Nebius is an AI cloud company building the infrastructure powering the next generation of artificial intelligence. As AI evolves from a research concept into a large-scale, real-world technology, the company provides a unified cloud platform that supports the entire AI lifecycle, from data management and model training and fine-tuning to production deployment and inference.\n\nBuilt on deep in-house technological expertise, Nebius combines a strong engineering culture with proven experience in designing and operating large-scale platforms that perform reliably at global scale. Today, the company serves AI developers and enterprises across a wide range of industries, including healthcare and life sciences, robotics and physical AI, financial services, media and entertainment, retail, and more.",
+      "published": "2026-08-05T13:24:52Z"
     }
   ]
 }
