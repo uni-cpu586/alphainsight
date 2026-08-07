@@ -1,543 +1,404 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "stock_uncle_insight": {
-    "date_header": "8/6 法人與主力大戶主要買超股票",
+    "date_header": "8/7 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃ETF與金融，航空股也來嘎一腳",
+        "group_title": "1. 外資大戶：資金大挪移，狂掃低基期權值與傳產",
         "stocks": [
           {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "肖年仔，外資大戶狂掃8.4萬張0050，這不是看好大盤，是避險啦！全球資金緊縮，聯準會又鷹派，把錢放到ETF裡，穩穩的，才不會被割韭菜。"
+            "stock_name": "力積電",
+            "ticker": "6770",
+            "description": "肖年仔，外資這次狂掃力積電 3.86 萬張，擺明就是看好晶圓代工的低基期反彈，想在底部卡位，這波半導體輪動，力積電被點火了。"
           },
           {
-            "stock_name": "凱基金",
-            "ticker": "2883",
-            "description": "外資大買3.9萬張凱基金，金融股在這種時局下，就是資金的避風港，穩健配息，大戶們愛這味。"
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "面板雙虎之一的群創，外資也買超 3.77 萬張，這很明顯是看好面板報價有機會落底反彈，或者至少是資金從高檔避險轉往低價股的避風港。"
           },
           {
             "stock_name": "鴻海",
             "ticker": "2317",
-            "description": "鴻海被外資買超3.7萬張，這檔權值股，通常是外資在做指數權重調整，或是看好蘋果新機題材，但肖年仔別亂追高。"
-          },
-          {
-            "stock_name": "緯創",
-            "ticker": "3231",
-            "description": "外資買超緯創3.56萬張，AI概念股雖然最近震盪，但大戶還是會挑選有基本面支撐的來布局，不過投信跟自營商卻在倒貨，這檔有內外資對作的跡象，要小心。"
-          },
-          {
-            "stock_name": "長榮航",
-            "ticker": "2618",
-            "description": "長榮航被外資買超2.38萬張，航空雙雄都被外資點名，擺明就是看好疫後解封，旅遊復甦的題材，準備拉高出貨給韭菜們。"
-          },
-          {
-            "stock_name": "華航",
-            "ticker": "2610",
-            "description": "華航也跟著長榮航被外資買超1.38萬張，這兩檔就是綁在一起的，外資在炒作復甦題材，肖年仔別傻傻追高，小心被倒貨。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：記憶體與半導體封測，作帳行情啟動？",
-        "stocks": [
-          {
-            "stock_name": "旺宏",
-            "ticker": "2337",
-            "description": "投信大買1.05萬張旺宏，跟外資對作，外資在狂倒，投信卻在吃貨，這可能是投信在作帳，或是看好記憶體產業的谷底翻身，準備鎖碼波段。"
-          },
-          {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "華邦電也被投信買超0.99萬張，跟旺宏一樣，記憶體族群被投信鎖定，這本土國家隊的眼光，跟外資很不一樣，肖年仔要看清楚。"
+            "description": "鴻海這種大牛股，外資都買超 2.17 萬張，代表大戶對市場的防禦性需求很高，權值股穩盤，也是資金避風港的選擇。"
           },
           {
             "stock_name": "聯電",
             "ticker": "2303",
-            "description": "投信買超聯電0.57萬張，外資卻在倒貨2.8萬張，這也是內外資對作的標的，聯電在成熟製程有其地位，投信可能看好其穩定性，但外資不買單，要小心。"
+            "description": "聯電也被外資買超 1.45 萬張，跟力積電一樣，都是晶圓代工的低基期股，外資在半導體族群裡挑便宜的買，準備等風向變。"
           },
           {
-            "stock_name": "日月光投控",
-            "ticker": "3711",
-            "description": "日月光投控被投信買超0.17萬張，自營商也跟著買，半導體封測是AI趨勢下的重要環節，投信可能在布局相關供應鏈，但張數不多，還在觀察期。"
+            "stock_name": "中鋼",
+            "ticker": "2002",
+            "description": "傳產龍頭中鋼，外資買超 1.62 萬張，這就是典型的資金從電子股撤出後，轉往傳產避險的動作，穩穩的賺，不求大富大貴。"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：金融避險與特定題材，短線操作痕跡重",
+        "group_title": "2. 投信大戶（本土國家隊）：承接金融股，佈局電子旺季",
         "stocks": [
           {
-            "stock_name": "第一金",
-            "ticker": "2892",
-            "description": "自營商大買第一金0.42萬張，這檔金融股被自營商鎖定，加上凱基台北也進場，短線炒作的意味濃厚，小心隔日沖倒貨。"
+            "stock_name": "華南金",
+            "ticker": "2880",
+            "description": "外資在倒金融股，結果投信狂買華南金 1.04 萬張，這擺明就是本土國家隊在承接，可能是在作帳，也可能是看好金融股的防禦性跟高殖利率。"
           },
           {
             "stock_name": "兆豐金",
             "ticker": "2886",
-            "description": "兆豐金也被自營商買超0.11萬張，金融股在市場震盪時，常被自營商拿來做避險或短線套利，但張數不大，肖年仔別黑白買。"
+            "description": "兆豐金也是投信買超 0.75 萬張的重點，跟華南金一樣，都是外資倒貨，投信接刀，這就是內外資對作的經典戲碼。"
           },
           {
-            "stock_name": "漢翔",
-            "ticker": "2634",
-            "description": "自營商買超漢翔0.05萬張，這檔軍工概念股，有特定題材支撐，自營商可能看準短線消息面或政策利多，進場搶一波，但量不大，風險高。"
+            "stock_name": "第一金",
+            "ticker": "2892",
+            "description": "第一金被投信買超 0.74 萬張，肖年仔，看到沒？投信就是愛金融股，特別是這種穩定的官股金控，當作基金的壓艙石。"
           },
           {
-            "stock_name": "微星",
-            "ticker": "2377",
-            "description": "微星被自營商買超0.04萬張，電競筆電與AI PC題材，自營商可能在測試水溫，但這種量，肖年仔別太認真，很容易被套牢。"
+            "stock_name": "旺宏",
+            "ticker": "2337",
+            "description": "投信買超旺宏 0.51 萬張，這檔記憶體股，外資也買，投信也買，看來大家都在賭記憶體產業的谷底翻身，準備迎接下半年的電子旺季。"
+          },
+          {
+            "stock_name": "臻鼎-KY",
+            "ticker": "4958",
+            "description": "投信買超臻鼎-KY 0.27 萬張，這就是典型的電子股佈局，PCB族群是電子產品的基石，投信在為下半年蘋果新機或AI伺服器題材做準備。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：跟風面板與晶圓代工，短線操作避險",
+        "stocks": [
+          {
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "自營商買超群創 0.30 萬張，跟外資一樣看好面板，但自營商的單通常比較短線，可能是看準短線反彈的機會，準備隔日沖或波段操作。"
+          },
+          {
+            "stock_name": "力積電",
+            "ticker": "6770",
+            "description": "力積電也被自營商買超 0.26 萬張，這跟外資的思路很像，都是在低基期半導體股上找機會，但自營商的部位通常更靈活，隨時準備跑路。"
+          },
+          {
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "友達被自營商買超 0.12 萬張，面板雙虎都被自營商點名，這代表市場對面板股的短線氣氛轉好，自營商也想來分一杯羹。"
+          },
+          {
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "自營商買超聯電 0.14 萬張，跟外資一樣，都在晶圓代工這塊找機會，但自營商通常是避險盤或權證造市單，買賣動作要特別留意，別傻傻去接刀。"
+          },
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "兆豐金也被自營商買超 0.10 萬張，這檔金融股，外資倒貨，投信跟自營商都接，顯示內資對金融股的防禦性價值還是有共識的。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔避險與資金避風港（ETF、金融）",
-        "strategy_content": "肖年仔，全球市場現在風雨飄搖，聯準會鷹派言論讓資金緊縮，美股比特幣都跌得鼻青臉腫。外資大戶狂掃0050、0056這種ETF，還有凱基金、中信金這種大型金融股，擺明就是把錢從高風險板塊撤出來，找個地方避險。金融股有穩定的股息，ETF則能分散風險，這就是大戶在找避風港，肖年仔別傻傻去追那些高風險的AI概念股，小心融資斷頭。"
+        "strategy_title": "策略一：資金從高檔避險轉向低基期權值股",
+        "strategy_content": "肖年仔，你看外資大賣金融股跟緯創這種漲多的AI概念股，轉頭就去買力積電、群創、鴻海、中鋼這些低基期、有基本面支撐的權值股跟傳產龍頭。這就是大戶在市場高檔震盪時，把資金從高風險或漲多板塊撤出來，轉移到估值相對低、有防禦性的標的，準備等下一波行情發動，這不是看壞，是換檔操作啦！"
       },
       {
-        "strategy_title": "策略二：記憶體與半導體封測的內外資角力",
-        "strategy_content": "這很有趣，外資在狂倒旺宏、聯電、力積電這些半導體股，但本土投信卻在吃貨旺宏、華邦電、聯電，甚至日月光投控。這代表內外資對記憶體和半導體後市看法分歧。國際新聞也提到Intel在AI封裝技術上追趕台積電，顯示封測的重要性。投信可能看好記憶體產業的谷底翻身，或是布局AI相關的封測供應鏈，準備作帳行情。但外資不買單，肖年仔要小心，這種內外資對作的股票，波動會很大，很容易被兩邊割韭菜。"
+        "strategy_title": "策略二：本土資金承接金融股與佈局電子旺季",
+        "strategy_content": "有趣的是，外資在倒金融股，結果投信跟自營商卻在接刀，特別是華南金、兆豐金、第一金這些。這代表本土資金對金融股的防禦性跟高殖利率還是有期待，搞不好是投信在作帳。同時，投信也買進旺宏跟PCB族群（臻鼎-KY、景碩、華通、聯茂），這很明顯是在為下半年的電子旺季做準備，特別是AI伺服器跟新手機的題材，這些都是電子業的基石。"
       },
       {
-        "strategy_title": "策略三：航空股的疫後復甦與題材炒作",
-        "strategy_content": "長榮航、華航這兩檔航空股，被外資大買，這很明顯就是炒作疫後復甦的題材。雖然國際旅遊逐漸解封，但油價、人力成本都是變數，外資通常是拉高出貨，等韭菜們追進去，他們就準備倒貨了。肖年仔，這種題材股，看看就好，別太認真去接刀。"
-      },
-      {
-        "strategy_title": "策略四：內資主力短線操作與特定題材點火",
-        "strategy_content": "自營商和一些關鍵分點，像凱基台北，他們買超第一金、兆豐金這種金融股，或是漢翔、微星這種有特定題材的股票，通常都是短線操作。金融股拿來避險或套利，漢翔則有軍工題材。這些主力通常是隔日沖，今天買，明天就準備倒貨給你，肖年仔如果不是快手，很容易被套牢。這種股票，看懂主力意圖就好，別跟著黑白買。"
+        "strategy_title": "策略三：半導體與面板底部反轉預期",
+        "strategy_content": "外資跟自營商這次都同步買超力積電、群創、聯電、友達、旺宏這些半導體跟面板股。這可不是黑白買，這是大戶在賭這些產業已經來到谷底，未來有機會反轉向上。雖然國際上AI雲端公司Nebius還在燒錢擴張，但台灣的半導體跟面板，可能已經被視為景氣循環股的下一波啟動點，準備迎接復甦行情。"
       }
     ],
-    "summary": "肖年仔，今天市場就是一個字：『亂』！外資在避險，投信在作帳，自營商在隔日沖。金融、ETF是避風港，航空是題材炒作，半導體內外資對作。別看新聞說什麼就信什麼，看懂主力在幹嘛，才不會被割韭菜！",
+    "summary": "肖年仔，今天市場就是資金大風吹，外資從金融跟AI概念股倒貨，轉去低基期權值跟傳產，本土投信則在金融股接刀兼佈局電子，大家都在為下一波行情找避風港跟新題材，別傻傻追高，要學會逆向思考！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 2.94 萬張",
-        "uncle_logic": "肖年仔，美商高盛這外資大戶在買0050，這不是看好大盤，是避險啦！全球資金緊縮，聯準會又鷹派，把錢放到ETF裡，穩穩的，才不會被割韭菜。"
+        "action": "買超 1.35 萬張",
+        "uncle_logic": "高盛這外資大咖，狂掃力積電 1.35 萬張，這不是短線仔會幹的事。這擺明就是外資主力在佈局，看好晶圓代工的低基期，準備等半導體景氣回溫，這波是真外資的長線卡位，肖年仔別以為是隔日沖。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 0.16 萬張",
-        "uncle_logic": "凱基台北這分點，你各位韭菜們都知道，就是隔日沖大本營。買第一金？八成是看準金融股短線有搞頭，明天開盤就準備倒貨給你啦！"
+        "action": "買超 0.12 萬張",
+        "uncle_logic": "凱基台北這短線大戶，買超群創 0.12 萬張，這很明顯就是看準面板股的短線題材，準備隔天拉高出貨，肖年仔看到這種分點進場，隔天就要小心被倒貨，別傻傻去接刀。"
       },
       {
         "branch_name": "元大投信",
         "action": "買超 0.47 萬張",
-        "uncle_logic": "元大投信這本土國家隊，跟外資對作旺宏，外資在倒貨，他們卻在吃貨。這可能是基金在作帳，或是看好記憶體後市，準備鎖碼波段，但風險肖年仔自己要評估。"
+        "uncle_logic": "元大投信買超華南金 0.47 萬張，這跟投信整體買超金融股的趨勢一致。這就是本土國家隊在承接外資倒貨的金融股，可能是為了作帳，也可能是看好金融股的防禦性，穩穩的賺，不求暴利。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 1.16 萬張",
-        "uncle_logic": "摩根大通這外資大咖，狂倒群創，面板股最近是怎麼了？這擺明是看壞後市，資金要撤出啦！韭菜們別傻傻去接刀啊！"
+        "action": "賣超 0.70 萬張",
+        "uncle_logic": "摩根大通這外資大咖，大賣臺企銀 0.70 萬張，這跟外資整體大賣金融股的趨勢完全吻合。這就是外資在調整部位，把資金從金融股撤出來，轉往其他更有潛力的產業，肖年仔，別跟外資對作，小心被割韭菜。"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today",
+      "title": "Amgen Q2 2026 earnings beat, raises full-year outlook, drops AMG 513",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/invested-1-000-gold-bitcoin-150000514.html",
-      "level1_blind": "{\"text\": \"Pick any investor who watched Donald Trump walk back into the White House on January 20, 2025 and decided to put money into the three most talked-about assets surrounding that moment.\n\\nBitcoin, the asset Trump had openly embraced. Gold, the safe haven that has anchored portfolios for centuries. And the TRUMP memecoin, the token bearing the president's name that had launched three days earlier and was already being called the trade of the inauguration.\n\\nBitcoin opened inauguration day at approximately $102,000. A $1,000 investment bought roughly 0.0098 BTC. Today, with Bitcoin trading near $62,000, that position is worth approximately $607, a loss of 40%.\n\\nThe irony is hard to miss. Trump entered office as the most openly crypto-friendly president in American history. He signed the GENIUS Act. He signed an Executive Order to establish a Strategic Bitcoin Reserve.\n\\nHe called the U.S. the crypto capital of the world. And Bitcoin still lost 40% of its value on his watch.\n\\nWhat makes the Bitcoin loss particularly striking is the context surrounding it. This was not a hostile administration. Trump's team established the first ever Strategic Bitcoin Reserve in March 2025, halting all government Bitcoin sales and signaling long-term institutional commitment at the sovereign level.\n\\nThe policy environment was the most favorable in Bitcoin's history. And yet the price fell from where it stood on the day that all of that became official. The lesson is not that Bitcoin is broken.\n\\nIt is that even the best policy tailwind cannot override a global liquidity squeeze, a hawkish Fed, and overleveraged positions unwinding at scale.\"\"}",
+      "link": "https://finance.yahoo.com/healthcare/articles/amgen-q2-2026-earnings-beat-132232577.html",
+      "level1_blind": {
+        "text": "Amgen reported second-quarter results on Tuesday that topped expectations, raised its full-year outlook, and disclosed it was ending development of an early-stage weight loss drug candidate.\n\nThe Thousand Oaks, California-based biotech earned $2.38 billion in the second quarter, translating to $4.37 per diluted share, a significant jump from the $1.43 billion, or $2.65 per share, it recorded in the year-ago period. On an adjusted basis, earnings came to $6.29 per share, up 4% year over year. Analysts had expected adjusted earnings of $5.62 per share, according to the Wall Street Journal.\n\nTotal revenue climbed 10% to $10.05 billion, compared with $9.18 billion in the second quarter of 2025, the company said. Product sales grew 9% to $9.54 billion, driven by volume growth. Analysts had expected revenue of $9.43 billion, according to the Journal.\n\nAmong the top performers, cholesterol drug Repatha posted sales of $953 million, up 37% year over year, while bone drug Evenity generated $714 million, up 38%. Rare disease treatment Uplizna grew 90% to $335 million. Cancer drug Imdelltra rose 115% to $288 million.\n\nAmgen lifted its full-year 2026 guidance, now targeting total revenue in a range of $38.2 billion to $39.4 billion, which compares favorably to its previous forecast of $37.1 billion to $38.5 billion. On the earnings side, the company set an adjusted EPS target of $22.30 to $23.50, stepping up from its prior range of $21.70 to $23.10.\n\n\"Our six key growth drivers grew 26% year over year, generating nearly 70% of second-quarter product sales,\" Chief Executive Officer Robert Bradway said in a statement. \"As we expand the potential of our existing medicines through new indications and advance the next wave of pipeline molecules through Phase 3, we remain confident in our ability to deliver growth well into the next decade.\"\n\nAmgen also announced it is ending work on AMG 513, an early obesity candidate that had been undergoing Phase 1 testing. No explanation for the move was given. Amgen added that the existing Phase 1 trial would run its full course so that participants already in the study can be followed through to its conclusion.\n\nWith AMG 513 discontinued, MariTide stands as Amgen's sole remaining entry in the obesity space, advancing through Phase 3 trials that span chronic weight management, Type 2 diabetes, cardiovascular outcomes, and additional indications."
+      },
       "level2_keywords": [
         {
-          "word": "Bitcoin",
+          "word": "Repatha",
           "ipa": "",
-          "meaning": "比特幣",
-          "example": "比特幣的價格在 Trump 入職後仍然下跌"
+          "meaning": "高膽固醇藥物",
+          "example": "該藥物的 sales 簡單為 Repatha 的 sales"
         },
         {
-          "word": "TRUMP",
+          "word": "Evenity",
           "ipa": "",
-          "meaning": "Trump",
-          "example": "TRUMP memecoin 是一種以 Trump 名稱的 token"
+          "meaning": "骨骼疾病治療藥物",
+          "example": "該藥物的 sales 簡單為 Evenity 的 sales"
         },
         {
-          "word": "GENIUS",
+          "word": "Uplizna",
           "ipa": "",
-          "meaning": " GENIUS 行為",
-          "example": ""
+          "meaning": "罕見病治療藥物",
+          "example": "該藥物的 sales 簡單為 Uplizna 的 sales"
         },
         {
-          "word": "crypto",
+          "word": "Imdelltra",
           "ipa": "",
-          "meaning": "加密貨幣",
-          "example": "Trump signed the GENIUS Act"
+          "meaning": "癌症治療藥物",
+          "example": "該藥物的 sales 簡單為 Imdelltra 的 sales"
         },
         {
-          "word": "reserve",
+          "word": "semiconductor",
           "ipa": "",
-          "meaning": "儲備",
+          "meaning": "半導體",
           "example": ""
         }
       ],
-      "level2_context": "\n美國總統 Trump 入職後，對於加密貨幣的政策環境變得更加有利。然而， Bitcoin 的價格仍然下跌。\n這種情況反映了全球資金緊張、hawkish Fed 政策以及過度借贖的情況。\n",
+      "level2_context": "",
       "level3_translation": [
         {
-          "sentence": "Pick any investor who watched Donald Trump walk back into the White House on January 20, 2025 and decided to put money into the three most talked-about assets surrounding that moment.",
+          "sentence": "Amgen reported second-quarter results on Tuesday that topped expectations, raised its full-year outlook, and disclosed it was ending development of an early-stage weight loss drug candidate.",
           "translation": ""
         },
         {
-          "sentence": "Bitcoin, the asset Trump had openly embraced.",
-          "translation": "比特幣是 Trump 直接支持的資產"
-        },
-        {
-          "sentence": "Gold, the safe haven that has anchored portfolios for centuries.",
+          "sentence": "The Thousand Oaks, California-based biotech earned $2.38 billion in the second quarter, translating to $4.37 per diluted share, a significant jump from the $1.43 billion, or $2.65 per share, it recorded in the year-ago period.",
           "translation": ""
         },
         {
-          "sentence": "And the TRUMP memecoin, the token bearing the president's name that had launched three days earlier and was already being called the trade of the inauguration.",
+          "sentence": "On an adjusted basis, earnings came to $6.29 per share, up 4% year over year.",
           "translation": ""
         },
         {
-          "sentence": "Bitcoin opened inauguration day at approximately $102,000.",
+          "sentence": "Total revenue climbed 10% to $10.05 billion, compared with $9.18 billion in the second quarter of 2025, the company said.",
           "translation": ""
         },
         {
-          "sentence": "A $1,000 investment bought roughly 0.0098 BTC.",
+          "sentence": "Product sales grew 9% to $9.54 billion, driven by volume growth.",
           "translation": ""
         },
         {
-          "sentence": "Today, with Bitcoin trading near $62,000, that position is worth approximately $607, a loss of 40%.",
+          "sentence": "Analysts had expected revenue of $9.43 billion, according to the Journal.",
           "translation": ""
         },
         {
-          "sentence": "The irony is hard to miss. Trump entered office as the most openly crypto-friendly president in American history.",
+          "sentence": "Among the top performers, cholesterol drug Repatha posted sales of $953 million, up 37% year over year.",
           "translation": ""
         },
         {
-          "sentence": "He signed the GENIUS Act.",
+          "sentence": "Rare disease treatment Uplizna grew 90% to $335 million.",
           "translation": ""
         },
         {
-          "sentence": "He signed an Executive Order to establish a Strategic Bitcoin Reserve.",
+          "sentence": "Cancer drug Imdelltra rose 115% to $288 million.",
           "translation": ""
         },
         {
-          "sentence": "He called the U.S. the crypto capital of the world.",
+          "sentence": "Amgen lifted its full-year 2026 guidance, now targeting total revenue in a range of $38.2 billion to $39.4 billion, which compares favorably to its previous forecast of $37.1 billion to $38.5 billion.",
           "translation": ""
         },
         {
-          "sentence": "And Bitcoin still lost 40% of its value on his watch.",
+          "sentence": "On the earnings side, the company set an adjusted EPS target of $22.30 to $23.50, stepping up from its prior range of $21.70 to $23.10.",
           "translation": ""
         },
         {
-          "sentence": "What makes the Bitcoin loss particularly striking is the context surrounding it.",
+          "sentence": "\"Our six key growth drivers grew 26% year over year, generating nearly 70% of second-quarter product sales,\" Chief Executive Officer Robert Bradway said in a statement.",
           "translation": ""
         },
         {
-          "sentence": "This was not a hostile administration. Trump's team established the first ever Strategic Bitcoin Reserve in March 2025, halting all government Bitcoin sales and signaling long-term institutional commitment at the sovereign level.",
+          "sentence": "\"As we expand the potential of our existing medicines through new indications and advance the next wave of pipeline molecules through Phase 3, we remain confident in our ability to deliver growth well into the next decade.\"",
           "translation": ""
         },
         {
-          "sentence": "The policy environment was the most favorable in Bitcoin's history.",
+          "sentence": "Amgen also announced it is ending work on AMG 513, an early obesity candidate that had been undergoing Phase 1 testing.",
           "translation": ""
         },
         {
-          "sentence": "And yet the price fell from where it stood on the day that all of that became official.",
+          "sentence": "No explanation for the move was given.",
           "translation": ""
         },
         {
-          "sentence": "The lesson is not that Bitcoin is broken.",
+          "sentence": "Amgen added that the existing Phase 1 trial would run its full course so that participants already in the study can be followed through to its conclusion.",
           "translation": ""
         },
         {
-          "sentence": "It is that even the best policy tailwind cannot override a global liquidity squeeze, a hawkish Fed, and overleveraged positions unwinding at scale.",
+          "sentence": "With AMG 513 discontinued, MariTide stands as Amgen's sole remaining entry in the obesity space, advancing through Phase 3 trials that span chronic weight management, Type 2 diabetes, cardiovascular outcomes, and additional indications.",
           "translation": ""
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Do Wall Street Analysts Like Charles Schwab Corporation Stock?",
+      "title": "Can Lockheed Martin (LMT) Capitalize on Surging Defense Demand Despite Rising Risks?",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-charles-schwab-144805788.html",
-      "level1_blind": {
-        "text": "Westlake, Texas-based The Charles Schwab Corporation (SCHW) operates as a savings and loan holding company that provides wealth management, securities brokerage, banking, asset management, custody, and financial advisory services in the United States and internationally. The company has a market cap of $184.1 billion and operates through the Investor Services and Advisor Services segments.\n\nSCHW stock has lagged behind the broader market over the past year, growing 8.8% compared to the S&P 500 Index's ($SPX) 21.8% surge. Moreover, in 2026, the stock has risen by nearly 5.7%, underperforming the SPX's 11% gain.\n\nBillionaire Ken Griffin Just Saved Situational Awareness, But Here's What a Rescue Call From Citadel Really Sounds Like — 'I… Heard the Grim Reaper's Scythe'\n\nZooming in further, the State Street Financial Select Sector SPDR ETF (XLF) has risen 10.6% over the past year, outpacing the stock. In 2026, XLF has grown 4.8% and has underperformed the stock.\n\nSCHW pays an annual dividend of $1.28, with a dividend yield of 1.21%. The company has a robust history of paying dividends to its shareholders for 36 straight years. Despite looking lucrative from the get-go, this yield falls behind that of XLF, its industry anchor. In comparison, XLF pays a dividend of $0.81, with a yield of 1.41%. Despite being nearly double the share price of XLF, SCHW's yield seems to be lagging behind the industry standard.\n\nFor the current year, which ends in December, analysts expect SCHW's EPS to rise 32.7% to $6.46 on a diluted basis. The company surpassed the consensus estimate in each of the last four quarters.\n\nAmong 24 Wall Street analysts covering SCHW stock, the consensus is a \"Moderate Buy.\" That's based on 14 \"Strong Buy\" ratings, four \"Moderate Buys,\" five \"Holds,\" and one \"Moderate Sell.\"\n\nThe configuration has grown more bullish over the past two months, with the stock now having 14 \"Strong Buy\" ratings compared to 13 two months prior."
-      },
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-capitalize-surging-132350965.html",
+      "level1_blind": "Emerald Wealth Partners, an independent asset and wealth management firm based in Zurich, released its Q2 2026 investor letter for the “Focused Equity Strategy.” A copy of the letter can be downloaded here. The Strategy reported a 0.8% gross return for the second quarter of 2026. Equity markets rallied after the first quarter’s Iran shock faded and oil prices reversed their spike, but the advance remained narrow and concentrated in cyclical semiconductor and memory stocks benefiting from supply constraints. The letter warned that investors were treating peak-cycle earnings as durable, while FOMO, IPO demand, and a US cyclically adjusted P/E ratio near 40 pointed to late-cycle market behavior. Long-term fundamentals are currently undervalued by the market, leading to underperformance in the strategy, notably due to the portfolio’s avoidance of low-quality momentum-driven semiconductor stocks, which boosted the benchmark this quarter. It remains focused on enterprise infrastructure, digital platforms, custom silicon, and networking businesses that hold customer relationships, workflow data, distribution, and efficiency advantages, which could allow them to monetize AI rather than be displaced by it. Please review the Strategy’s top five holdings for its key selections.\n\nIn its second-quarter 2026 investor letter, Emerald Wealth Partners Focused Equity Strategy highlighted Lockheed Martin Corporation (NYSE:LMT). Lockheed Martin Corporation (NYSE:LMT) is an aerospace and defense company that engages in the research, design, development, manufacture, integration, and sustainment of technology systems, products, and services. On August 04, 2026, Lockheed Martin Corporation (NYSE:LMT) closed at $589.33 per share. The one-month return of Lockheed Martin Corporation (NYSE:LMT) was 11.62%, and its shares gained 35.52% over the past 52 weeks. Lockheed Martin Corporation (NYSE:LMT) has a market capitalization of $13.01 billion.\n\nEmerald Wealth Partners Focused Equity Strategy stated regarding Lockheed Martin Corporation (NYSE:LMT) in its Q2 2026 investor letter:\n\n\"The ceasefire also weighed on Lockheed Martin Corporation (NYSE:LMT), which gave back part of a strong first quarter and detracted 55 bps. Our fundamental assessment is unchanged: conflict on European soil and Washington’s pressure on NATO allies continue to drive demand for the company’s systems sharply higher. But that demand comes with a twist — a business model that now requires heavier investment and carries more risk than Lockheed used to. Having trimmed the position close to its peak in the first quarter, we are comfortable with what we hold today.\"\n\nLockheed Martin Corporation (NYSE:LMT) is not on our list of the 40 Most Popular Stocks Among Hedge Funds. As per our database, 83 hedge fund portfolios held Lockheed Martin Corporation (NYSE:LMT) at the end of the first quarter which was 59 in the previous quarter. While we acknowledge the potential of Lockheed Martin Corporation (NYSE:LMT) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you’re looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nIn another article, we covered Lockheed Martin Corporation (NYSE:LMT) and shared Greenskeeper Asset Management’s views on the company. In addition, please check out our hedge fund investor letters Q2 2026 page for more investor letters from hedge funds and other leading investors.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
       "level2_keywords": [
         {
           "word": "semiconductor",
           "ipa": "",
-          "meaning": "半導體",
-          "example": "半導體產業在全球經濟中扮演著重要角色"
+          "meaning": "赦一美",
+          "example": "赦一美 我的趀叀方帪民的赦一美"
         },
         {
-          "word": "export controls",
+          "word": "enterprise",
           "ipa": "",
-          "meaning": "出口管制",
-          "example": "美國政府對於AI 晶片的出口管制"
+          "meaning": "公国",
+          "example": "公国 我的趀叀方帪民"
         },
         {
-          "word": "dividend",
+          "word": "digital",
           "ipa": "",
-          "meaning": "股息",
-          "example": "公司 payout 的股息"
+          "meaning": "本机",
+          "example": "本机 我的趀叀方帪民"
         },
         {
-          "word": "consensus",
+          "word": "networking",
           "ipa": "",
-          "meaning": "共識",
-          "example": " Wall Street 分析員對於 SCHW 股票的預期"
+          "meaning": "罐数",
+          "example": "罐数 我的趀叀方帪民"
         },
         {
-          "word": "sector",
+          "word": "custom",
           "ipa": "",
-          "meaning": "產業",
-          "example": "金融產業"
+          "meaning": "李园",
+          "example": "李园 我的趀叀方帪民"
         }
       ],
-      "level2_context": "\n美國股市與金融產業在全球經濟中扮演著重要角色。近期，美國政府對於AI 晶片的出口管制引發了關注，而公司 payout 的股息也成為投資人們的關注點。\n\n這些事件在 Wall Street 分析員中引發了一個共識：SCHW 股票的預期正在逐漸變得 bullish。然而，與其他產業相比，SCHW 的股息仍然落後於Industry Anchor XLF.\n\n我們需要進一步了解這些事件對於 SCHW 的影響，以及它們如何影響金融產業的整體趨勢。\n",
+      "level2_context": "罐数公国本机李园帪我的趀叀方帪民我的赦一美我的趀叀方帪民我的赦一美我的趀叀方帪民我的赦一美我的趀叀方帪民我的赦一美我的趀叀方帪民我的赦一美",
       "level3_translation": [
         {
-          "sentence": "Westlake, Texas-based The Charles Schwab Corporation (SCHW) operates as a savings and loan holding company that provides wealth management, securities brokerage, banking, asset management, custody, and financial advisory services in the United States and internationally.",
-          "translation": ""
+          "sentence": "Emerald Wealth Partners, an independent asset and wealth management firm based in Zurich, released its Q2 2026 investor letter for the \"Focused Equity Strategy.\"",
+          "translation": "张三公国户代一万的趀叀方我的父件证一七的张三"
         },
         {
-          "sentence": "SCHW stock has lagged behind the broader market over the past year, growing 8.8% compared to the S&P 500 Index's ($SPX) 21.8% surge.",
-          "translation": ""
+          "sentence": "Equity markets rallied after the first quarter's Iran shock faded and oil prices reversed their spike, but the advance remained narrow and concentrated in cyclical semiconductor and memory stocks benefiting from supply constraints.",
+          "translation": "赦一美公国我的父件证句欢郡的趀叀方我的本机罐数公国我的父件证句欢郡的赦一美"
         },
         {
-          "sentence": "Billionaire Ken Griffin Just Saved Situational Awareness, But Here's What a Rescue Call From Citadel Really Sounds Like — 'I… Heard the Grim Reaper's Scythe'.",
-          "translation": ""
+          "sentence": "The letter warned that investors were treating peak-cycle earnings as durable, while FOMO, IPO demand, and a US cyclically adjusted P/E ratio near 40 pointed to late-cycle market behavior.",
+          "translation": "张三公国我的趀叀方我的父件证吃的赦一美我的本机罐数公国我的父件证吃的赦一美"
         },
         {
-          "sentence": "Zooming in further, the State Street Financial Select Sector SPDR ETF (XLF) has risen 10.6% over the past year, outpacing the stock.",
-          "translation": ""
+          "sentence": "Long-term fundamentals are currently undervalued by the market, leading to underperformance in the strategy, notably due to the portfolio's avoidance of low-quality momentum-driven semiconductor stocks, which boosted the benchmark this quarter.",
+          "translation": "公国我的赦一美我的父件证吃的张三公国我的本机罐数公国我的父件证吃的赦一美"
         },
         {
-          "sentence": "SCHW pays an annual dividend of $1.28, with a dividend yield of 1.21%.",
-          "translation": ""
+          "sentence": "It remains focused on enterprise infrastructure, digital platforms, custom silicon, and networking businesses that hold customer relationships, workflow data, distribution, and efficiency advantages, which could allow them to monetize AI rather than be displaced by it.",
+          "translation": "公国我的赦一美我的本机罐数公国我的趀叀方帪民我的李园帪我的赦一美"
         },
         {
-          "sentence": "The company has a robust history of paying dividends to its shareholders for 36 straight years.",
-          "translation": ""
-        },
-        {
-          "sentence": "Despite looking lucrative from the get-go, this yield falls behind that of XLF, its industry anchor.",
-          "translation": ""
-        },
-        {
-          "sentence": "In comparison, XLF pays a dividend of $0.81, with a yield of 1.41%.",
-          "translation": ""
-        },
-        {
-          "sentence": "Despite being nearly double the share price of XLF, SCHW's yield seems to be lagging behind the industry standard.",
-          "translation": ""
-        },
-        {
-          "sentence": "For the current year, which ends in December, analysts expect SCHW's EPS to rise 32.7% to $6.46 on a diluted basis.",
-          "translation": ""
-        },
-        {
-          "sentence": "The company surpassed the consensus estimate in each of the last four quarters.",
-          "translation": ""
-        },
-        {
-          "sentence": "Among 24 Wall Street analysts covering SCHW stock, the consensus is a \"Moderate Buy.\"",
-          "translation": ""
-        },
-        {
-          "sentence": "That's based on 14 \"Strong Buy\" ratings, four \"Moderate Buys,\" five \"Holds,\" and one \"Moderate Sell.\"",
-          "translation": ""
-        },
-        {
-          "sentence": "The configuration has grown more bullish over the past two months, with the stock now having 14 \"Strong Buy\" ratings compared to 13 two months prior.",
-          "translation": ""
+          "sentence": "Please review the Strategy's top five holdings for its key selections.",
+          "translation": "张三公国我的父件我的李园帪我的赦一美我的张三公国我的本机罐数公国我的父件我的李园帪我的赦一美"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Intel vs. TSMC: Intel Is Winning an AI Battle Against TSMC That Few Investors Are Watching",
+      "title": "Dear Nebius Stock Fans, Mark Your Calendars for August 5",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/intel-vs-tsmc-intel-winning-144139718.html",
-      "level1_blind": "It is not often that TSMC (TSM) takes cues from Intel (INTC), but that is undoubtedly what's happening. According to The Information, the world's largest contract chipmaker is quietly building a new packaging technology modeled on Intel's EMIB. TSMC's own engineers are reportedly calling the project \\",
+      "link": "https://finance.yahoo.com/technology/ai/articles/dear-nebius-stock-fans-mark-132452774.html",
+      "level1_blind": "Nebius Group N.V. (NBIS) has quickly established itself as one of Wall Street's hottest artificial intelligence (AI) infrastructure plays. Riding the wave of surging enterprise AI spending, the AI cloud company has delivered triple-digit gains over the past year, fueled by explosive revenue growth, multibillion-dollar AI infrastructure deals, and soaring demand for its GPU-powered cloud platform. And now, the stock is back in focus. Piper Sandler recently initiated coverage on Nebius, just as investors gear up for a key catalyst on August 5.\n\nThe company is expected to provide an update on its Vineland AI data center, a flagship project that sits at the heart of its ambitious AI cloud expansion plans. The Vineland facility is designed to meet the rapidly accelerating demand for AI training and inference workloads. Investors will be closely watching for updates on construction progress, capacity, customer commitments, and the commercialization timeline, as the project's successful execution could significantly strengthen Nebius' long-term growth story.\n\nJeff Bezos Says He's Selling $1 Billion In Amazon Stock Every Year to Fund Blue Origin — 'It's The Most Important Work I'm Doing'\n\nApple's New CEO Is Bringing a Familiar Face Back From Retirement. The Shift Is Happening.\n\nNasdaq Futures Climb as Tech Rally Continues on Palantir Boost, U.S. JOLTS Report and SpaceX Earnings on Tap\n\nAhead of the update, Piper Sandler initiated coverage with a \"Neutral\" rating and a $224 price target. While the brokerage remains bullish on the long-term AI infrastructure buildout, it cautioned that Nebius is still in an aggressive investment phase where execution is everything. Analysts believe the August 5 update could be a pivotal moment. Strong progress at Vineland could reinforce confidence in the company's future revenue and cash flow, while any delays or execution missteps may weigh on the stock. So, with a major catalyst around the corner, here's a closer look at Nebius stock.\n\nHeadquartered in Amsterdam, Nebius is an AI cloud company building the infrastructure powering the next generation of artificial intelligence. As AI evolves from a research concept into a large-scale, real-world technology, the company provides a unified cloud platform that supports the entire AI lifecycle, from data management and model training and fine-tuning to production deployment and inference.\n\nBuilt on deep in-house technological expertise, Nebius combines a strong engineering culture with proven experience in designing and operating large-scale platforms that perform reliably at global scale. Today, the company serves AI developers and enterprises across a wide range of industries, including healthcare and life sciences, robotics and physical AI, financial services, media and entertainment, retail, and more.",
       "level2_keywords": [
         {
-          "word": "EMIB",
+          "word": "cloud",
           "ipa": "",
-          "meaning": "Intel的EMIB（Embedded Multi-Chip Package）技術",
-          "example": "Intel的新版EMIB-T技術已經達到98%的產生率"
+          "meaning": "雲端",
+          "example": "Nebius 提供的雲端平台"
         },
         {
-          "word": "CoWoS",
+          "word": "artificial",
           "ipa": "",
-          "meaning": "TSMC的CoWoS（Chip-on-Wafer System）方法",
-          "example": "TSMC的CoWoS方法需要大量的silicon層來連接芯片"
+          "meaning": "人工",
+          "example": "人工智能"
         },
         {
-          "word": "AI",
+          "word": "infrastructure",
           "ipa": "",
-          "meaning": "人工智能",
-          "example": "Intel和TSMC都在發展AI相關的新技術"
+          "meaning": "基礎設施",
+          "example": "Nebius 的 AI 基礎設施"
         },
         {
-          "word": "Kinsus",
+          "word": "enterprise",
           "ipa": "",
-          "meaning": "台積電的合作伙伴Kinsus Interconnect Technology",
-          "example": "Kinsus Interconnect Technology正在與TSMC合作開發新的包裝技術"
+          "meaning": "企業",
+          "example": "Nebius 服務的企業"
         },
         {
-          "word": "foundry",
+          "word": "revenue",
           "ipa": "",
-          "meaning": "芯片製造",
-          "example": "Intel的芯片製造業務正在經歷轉型"
+          "meaning": "收入",
+          "example": "Nebius 的Revenue"
         }
       ],
-      "level2_context": "這篇文章關於TSMC和Intel之間的包裝技術競爭。TSMC正試圖借鉴Intel的EMIB技術，為其 own CoWoS方法提供替代方案。這一 move 可能對TSMC的競爭優勢產生影響。",
+      "level2_context": "\n\n這篇文章談論了 Nebius Group N.V.（NBIS）的一個關鍵項目——Vineland AI data center。該項目是公司為了滿足快速增長的企業AI需求而設立的。\n\nNebius 的雲端平台正在成為企業和研究機構在人工智能領域的重要工具。\n\n這項項目的成功將對 Nebius 的長期成長故事具有重大影響。\n",
       "level3_translation": [
         {
-          "sentence": "It is not often that TSMC (TSM) takes cues from Intel (INTC), but that is undoubtedly what's happening.",
+          "sentence": "Nebius Group N.V. (NBIS) has quickly established itself as one of Wall Street's hottest artificial intelligence (AI) infrastructure plays.",
           "translation": ""
         },
         {
-          "sentence": "According to The Information, the world's largest contract chipmaker is quietly building a new packaging technology modeled on Intel's EMIB.",
+          "sentence": "Riding the wave of surging enterprise AI spending, the AI cloud company has delivered triple-digit gains over the past year, fueled by explosive revenue growth, multibillion-dollar AI infrastructure deals, and soaring demand for its GPU-powered cloud platform.",
           "translation": ""
         },
         {
-          "sentence": "TSMC's own engineers are reportedly calling the project \\",
+          "sentence": "The company is expected to provide an update on its Vineland AI data center, a flagship project that sits at the heart of its ambitious AI cloud expansion plans.",
           "translation": ""
         },
         {
-          "sentence": "The company is developing it with a Taiwanese substrate maker, Kinsus Interconnect Technology.",
+          "sentence": "Investors will be closely watching for updates on construction progress, capacity, customer commitments, and the commercialization timeline, as the project's successful execution could significantly strengthen Nebius' long-term growth story.",
           "translation": ""
         },
         {
-          "sentence": "Following the report, TSMC's U.S.-listed shares rose about 8%, while Intel climbed roughly 11% on July 30.",
+          "sentence": "Jeff Bezos Says He's Selling $1 Billion In Amazon Stock Every Year to Fund Blue Origin — 'It's The Most Important Work I'm Doing'\n\nApple's New CEO Is Bringing a Familiar Face Back From Retirement. The Shift Is Happening.\n\nNasdaq Futures Climb as Tech Rally Continues on Palantir Boost, U.S. JOLTS Report and SpaceX Earnings on Tap\n\nAhead of the update, Piper Sandler initiated coverage with a \"Neutral\" rating and a $224 price target.",
           "translation": ""
         },
         {
-          "sentence": "The fight is all about how chips get packaged.",
+          "sentence": "While the brokerage remains bullish on the long-term AI infrastructure buildout, it cautioned that Nebius is still in an aggressive investment phase where execution is everything.",
           "translation": ""
         },
         {
-          "sentence": "TSMC's main method, CoWoS, uses a large and expensive silicon layer to link chips together.",
+          "sentence": "Analysts believe the August 5 update could be a pivotal moment. Strong progress at Vineland could reinforce confidence in the company's future revenue and cash flow, while any delays or execution missteps may weigh on the stock.",
           "translation": ""
         },
         {
-          "sentence": "Intel's EMIB takes a leaner route, embedding tiny silicon bridges only where the chips actually connect.",
+          "sentence": "So, with a major catalyst around the corner, here's a closer look at Nebius stock.\n\nHeadquartered in Amsterdam, Nebius is an AI cloud company building the infrastructure powering the next generation of artificial intelligence.",
           "translation": ""
         },
         {
-          "sentence": "That makes it cheaper and potentially better suited to the increasingly large AI chip designs.",
+          "sentence": "As AI evolves from a research concept into a large-scale, real-world technology, the company provides a unified cloud platform that supports the entire AI lifecycle, from data management and model training and fine-tuning to production deployment and inference.",
           "translation": ""
         },
         {
-          "sentence": "The timing makes this sting more for the Taiwanese company.",
+          "sentence": "Built on deep in-house technological expertise, Nebius combines a strong engineering culture with proven experience in designing and operating large-scale platforms that perform reliably at global scale.",
           "translation": ""
         },
         {
-          "sentence": "TSMC's CoWoS is sold out into 2027, with some customers waiting well over a year.",
-          "translation": ""
-        },
-        {
-          "sentence": "That backlog is pushing buyers to look for alternate suppliers, and Intel is ready.",
-          "translation": ""
-        },
-        {
-          "sentence": "Its newest version, EMIB-T, recently hit a 98% yield rate, matching CoWoS in that metric, and has already drawn interest from Google (GOOG) (GOOGL), Amazon (AMZN), and Nvidia (NVDA).",
-          "translation": ""
-        },
-        {
-          "sentence": "Every customer who leaves over the wait chips away at TSMC's lead.",
-          "translation": ""
-        },
-        {
-          "sentence": "For Intel, this is a rare moment of strength.",
-          "translation": ""
-        },
-        {
-          "sentence": "Its foundry turnaround has been slow, and outside customers still bring in very little.",
-          "translation": ""
-        },
-        {
-          "sentence": "Intel's foundry earned just $293 million from external clients last quarter, a sliver of the $5.8 billion the unit made overall, with the rest coming from Intel itself.",
-          "translation": ""
-        },
-        {
-          "sentence": "But packaging gives Intel a genuine opening.",
-          "translation": ""
-        },
-        {
-          "sentence": "If big customers come for EMIB, they may stay for Intel's chipmaking too, which is where the real money is.",
-          "translation": ""
-        },
-        {
-          "sentence": "TSMC clearly sees that risk, and its Kinsus project is the answer.",
-          "translation": ""
-        },
-        {
-          "sentence": "It is worth noting that TSMC already uses silicon-bridge technology in one version of CoWoS, so the Kinsus effort may be as much about adding cheaper capacity as copying a rival.",
-          "translation": ""
-        },
-        {
-          "sentence": "Either way, the message is the same.",
-          "translation": ""
-        },
-        {
-          "sentence": "Packaging has become the next big battleground in the AI chip race.",
-          "translation": ""
-        },
-        {
-          "sentence": "TSMC still holds a commanding lead across the board.",
-          "translation": ""
-        },
-        {
-          "sentence": "But for once, Intel is the one setting the pace in a corner of the market that suddenly matters a great deal.",
-          "translation": ""
-        },
-        {
-          "sentence": "Both stocks look expensive right now, but for very different reasons.",
-          "translation": ""
-        },
-        {
-          "sentence": "TSMC trades at a forward price-to-earnings (P/E) of 23.95x, a modest 8% above its 5-year average.",
-          "translation": ""
-        },
-        {
-          "sentence": "Its forward price-to-sales (P/S) ratio of 11.62x is much steeper, sitting roughly 46% above its historical average.",
-          "translation": ""
-        },
-        {
-          "sentence": "That premium is defensible, though, with the EPS outlook and the company's balance sheet.",
-          "translation": ""
-        },
-        {
-          "sentence": "Analysts expect a growth of 58% in 2026 and then slowing down but remaining at a healthy 28-30% growth through 2028.",
-          "translation": ""
-        },
-        {
-          "sentence": "The balance sheet shows the company holding around $80 billion in net cash.",
-          "translation": ""
-        },
-        {
-          "sentence": "Investors are paying up for a business that clearly earns it.",
-          "translation": ""
-        },
-        {
-          "sentence": "Intel is the harder one to judge.",
-          "translation": ""
-        },
-        {
-          "sentence": "Its forward P/E is not meaningful, since the company is barely profitable right now.",
-          "translation": ""
-        },
-        {
-          "sentence": "That leaves the P/S ratio of 7.22x, which sits a striking 145% above its 5-year average.",
-          "translation": ""
-        },
-        {
-          "sentence": "The EPS growth looks enormous on paper, starting with 261% in 2026, though that partly reflects how low Intel's profit margins are.",
-          "translation": ""
-        },
-        {
-          "sentence": "This article關於Intel和TSMC之間的包裝技術競爭。TSMC正試圖借鉴Intel的EMIB技術，為其 own CoWoS方法提供替代方案。這一 move 可能對TSMC的競爭優勢產生影響。",
+          "sentence": "Today, the company serves AI developers and enterprises across a wide range of industries, including healthcare and life sciences, robotics and physical AI, financial services, media and entertainment, retail, and more.",
           "translation": ""
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "Intel's EMIB technology is gaining traction in the AI chip market, with major customers like Google and Amazon showing interest. This could be a game-changer for Intel, as it offers a leaner packaging solution that could attract buyers looking to escape TSMC's CoWoS backlog. Meanwhile, TSMC's decision to borrow ideas from Intel highlights the competitive nature of the AI chip market, where companies are constantly innovating and adapting to stay ahead. As the market continues to evolve, investors should keep a close eye on these two giants as they navigate this new landscape."
+    "market_connection": "在AI和 defence領域中，Lockheed Martin Corporation（LMT）和Nebius Group N.V.（NBIS）都在擁有強大的技術基礎和深厚的經驗。雖然LMT主要聚焦於 defence系統的研發和生產，而NBIS則專注於AI cloud 的建設和發展，但兩者都在探索如何利用AI來增強其產品和服務。在 defense 項目中，LMT 的新技術和系統可以提供更高的效率和安全性，而NBIS 的 AI cloud 平台可以幫助 defence 企業快速擴展和優化 their AI 應用。這兩家公司之間的關聯性在於， defence 項目中對AI 的需求正在迅速增加，而LMT 和 NBIS 都是這個趨勢的領導者。因此，當我們觀察到 defence 項目和AI cloud 平台的發展時，我們可以預期這兩家公司之間會有更密切的合作或競爭關係。"
   }
 }
