@@ -1,567 +1,400 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "stock_uncle_insight": {
-    "date_header": "8/8 法人與主力大戶主要買超股票",
+    "date_header": "8/11 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃航空、金融與部分AI，面板則有分歧",
+        "group_title": "1. 外資大戶：高檔出貨，低檔卡位景氣循環股",
         "stocks": [
-          {
-            "stock_name": "長榮航",
-            "ticker": "2618",
-            "description": "肖年仔，外資狂掃長榮航2.2萬張，這擺明是看好解封後的航空旺季，要鎖碼做波段的啦！這種量不是隔日沖玩得起的。"
-          },
-          {
-            "stock_name": "統一",
-            "ticker": "1216",
-            "description": "外資買超統一2.03萬張，食品股在通膨壓力下有防禦性題材，大戶資金避風港，穩穩賺的啦。"
-          },
-          {
-            "stock_name": "緯創",
-            "ticker": "3231",
-            "description": "外資買超緯創1.71萬張，AI概念股雖然投信在賣，但外資還是看好，可能是在等拉回加碼，準備再拉一波。"
-          },
-          {
-            "stock_name": "台新金",
-            "ticker": "2887",
-            "description": "外資買超台新金1.41萬張，金融股在升息循環下，利差擴大，外資持續布局，這種穩健的標的，大戶最愛。"
-          },
-          {
-            "stock_name": "遠東新",
-            "ticker": "1402",
-            "description": "外資買超遠東新1.4萬張，傳產龍頭股，殖利率題材加上景氣復甦預期，吸引長線資金，這就是價值投資啦。"
-          },
-          {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "面板雙虎之一，外資買超1.31萬張，但同時也有分點在隔日沖，肖年仔要小心，別被兩面手法給騙了。"
-          },
           {
             "stock_name": "中鋼",
             "ticker": "2002",
-            "description": "外資買超中鋼1.2萬張，鋼鐵股在原物料行情下，有機會谷底翻身，外資提前卡位，準備吃豆腐。"
+            "description": "肖年仔，外資這群大咖，狂掃中鋼超過 6.4 萬張，擺明就是看好原物料底部翻揚，把資金從高檔股抽出來，轉進這種低基期、有基本面支撐的傳產股啦！"
           },
           {
-            "stock_name": "至上",
-            "ticker": "8112",
-            "description": "外資買超至上8478張，半導體通路商，可能受惠於AI相關供應鏈，外資小幅加碼，試水溫的意味濃厚。"
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "面板股群創被外資敲進 4.8 萬張，這很明顯是看好面板產業谷底翻身，準備卡位景氣復甦的行情，肖年仔，這種跌深反彈的機會，外資可不會放過。"
           },
           {
-            "stock_name": "三商壽",
-            "ticker": "2867",
-            "description": "外資買超三商壽6380張，壽險股在升息環境下有轉機，外資持續關注，這種低基期的，有機會補漲。"
-          },
-          {
-            "stock_name": "中信金",
-            "ticker": "2891",
-            "description": "外資買超中信金6209張，金融股的龍頭之一，外資穩健布局，這種就是大戶的定存股啦。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，航空、金融為主力",
-        "stocks": [
-          {
-            "stock_name": "華航",
-            "ticker": "2610",
-            "description": "投信狂掃華航6997張，跟外資同步看好航空雙雄，這擺明是作帳行情，準備拉高結帳啦！肖年仔，跟著國家隊走，至少不會太慘。"
-          },
-          {
-            "stock_name": "華南金",
-            "ticker": "2880",
-            "description": "投信買超華南金6911張，金融股是投信作帳的常客，穩健獲利的好標的，這種就是安全牌。"
-          },
-          {
-            "stock_name": "大成鋼",
-            "ticker": "2027",
-            "description": "投信買超大成鋼4865張，鋼鐵股在原物料行情下，投信也來卡位，準備吃一波反彈。"
-          },
-          {
-            "stock_name": "凱基金",
-            "ticker": "2883",
-            "description": "投信買超凱基金3985張，金融股是投信的最愛，穩健配息，作帳好用，這種就是進可攻退可守。"
-          },
-          {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "投信買超兆豐金2849張，公股金控，穩健配息，投信長期持有，這種就是壓箱寶。"
-          },
-          {
-            "stock_name": "南亞",
-            "ticker": "1303",
-            "description": "投信買超南亞1758張，塑化龍頭，景氣復甦題材，投信也來布局，準備等景氣翻揚。"
-          },
-          {
-            "stock_name": "第一金",
-            "ticker": "2892",
-            "description": "投信買超第一金1291張，金融股，投信持續加碼，這種就是穩穩賺的啦。"
-          },
-          {
-            "stock_name": "力成",
-            "ticker": "6239",
-            "description": "投信買超力成1253張，半導體封測廠，投信看好下半年景氣復甦，提前卡位，準備吃肉。"
-          },
-          {
-            "stock_name": "長榮",
-            "ticker": "2603",
-            "description": "投信買超長榮1183張，航運股，投信也來分一杯羹，看來對貨櫃三雄的看法有轉變。"
-          },
-          {
-            "stock_name": "玉山金",
-            "ticker": "2884",
-            "description": "投信買超玉山金1166張，金融股，投信持續加碼，這種就是穩健成長股。"
-          }
-        ]
-      },
-      {
-        "group_title": "3. 內資主力與實戶：短線操作，面板、AI、金融皆有涉獵",
-        "stocks": [
-          {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "自營商買超友達1495張，面板股短線有題材，自營商進出快狠準，肖年仔，這就是典型的隔日沖標的。"
-          },
-          {
-            "stock_name": "台積電",
-            "ticker": "2330",
-            "description": "自營商買超台積電912張，護國神山，自營商避險盤或短線套利，這種就是大盤的風向球。"
-          },
-          {
-            "stock_name": "緯創",
-            "ticker": "3231",
-            "description": "自營商買超緯創709張，AI概念股，自營商短線跟風，這種就是追逐熱門題材，但隨時會跑。"
-          },
-          {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "自營商買超兆豐金659張，金融股，自營商避險盤或短線套利，這種就是穩健的避險工具。"
-          },
-          {
-            "stock_name": "中纖",
-            "ticker": "1718",
-            "description": "自營商買超中纖576張，塑化股，自營商短線操作，這種就是看消息面進出。"
-          },
-          {
-            "stock_name": "富采",
-            "ticker": "3714",
-            "description": "自營商買超富采415張，Mini LED概念股，自營商短線題材操作，這種就是炒作題材股。"
-          },
-          {
-            "stock_name": "凱基金",
-            "ticker": "2883",
-            "description": "自營商買超凱基金390張，金融股，自營商避險盤或短線套利，這種就是穩健的避險工具。"
+            "stock_name": "華新",
+            "ticker": "1605",
+            "description": "華新也被外資買超 3.2 萬張，這檔電線電纜、不鏽鋼的資源整合股，跟著原物料行情走，外資在找低基期的傳產股，這就是他們的目標之一。"
           },
           {
             "stock_name": "南亞科",
             "ticker": "2408",
-            "description": "自營商買超南亞科365張，記憶體股，自營商短線操作，這種就是看景氣循環進出。"
+            "description": "DRAM大廠南亞科，外資也買了 3.05 萬張，記憶體族群之前跌得鼻青臉腫，現在外資進來撿便宜，賭的就是記憶體景氣反轉，肖年仔，這就是接刀的勇氣，但也要看準時機。"
           },
           {
-            "stock_name": "三商壽",
-            "ticker": "2867",
-            "description": "自營商買超三商壽361張，壽險股，自營商短線操作，這種就是看轉機題材。"
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "晶圓代工二哥聯電，外資買超 2.7 萬張，這檔也是半導體族群中相對低基期的，外資在找有護城河、評價合理的標的，聯電自然入列。"
           },
           {
-            "stock_name": "台塑化",
-            "ticker": "6505",
-            "description": "自營商買超台塑化341張，塑化龍頭，自營商短線操作，這種就是看原物料行情。"
+            "stock_name": "元大高股息",
+            "ticker": "0056",
+            "description": "連元大高股息ETF都買了 2.7 萬張，這就更明顯了，外資在市場震盪的時候，把資金轉進這種有防禦性、能領息的ETF，避險兼顧收益，穩紮穩打啦！"
+          }
+        ]
+      },
+      {
+        "group_title": "2. 投信大戶（本土國家隊）：結帳AI，轉進金融與低基期電子",
+        "stocks": [
+          {
+            "stock_name": "旺宏",
+            "ticker": "2337",
+            "description": "投信這本土國家隊，狂掃旺宏 0.88 萬張，跟外資在記憶體族群的動作有異曲同工之妙，擺明就是看好NOR Flash產業築底，準備作帳拉抬啦！"
+          },
+          {
+            "stock_name": "凱基金",
+            "ticker": "2883",
+            "description": "凱基金被投信買超 0.71 萬張，金融股雖然外資在倒，但本土投信卻在接，這可能是在找防禦性標的，或是看好金融股的殖利率，準備年底作帳衝一波。"
+          },
+          {
+            "stock_name": "華南金",
+            "ticker": "2880",
+            "description": "華南金也被投信買了 0.67 萬張，跟凱基金一樣，投信在金融股上跟外資對作，肖年仔，這就是內外資對市場看法不同調，但投信通常會找相對穩健的標的來佈局。"
+          },
+          {
+            "stock_name": "日月光投控",
+            "ticker": "3711",
+            "description": "封測龍頭日月光投控，投信也敲進 0.44 萬張，這代表他們對半導體下游的復甦有期待，或是認為這檔股票的評價面相對合理，值得進場卡位。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：跟風外資，鎖定低基期與避險標的",
+        "stocks": [
+          {
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "自營商也買超聯電 0.35 萬張，跟外資同步買進，這表示內資主力也看好聯電的低基期優勢，準備跟著大咖一起炒一波，肖年仔，這就是市場共識的展現。"
+          },
+          {
+            "stock_name": "中鋼",
+            "ticker": "2002",
+            "description": "中鋼也被自營商買超 0.28 萬張，跟外資一樣，內資主力也嗅到原物料股的機會，這種跌深有量的股票，就是他們短線進出的好標的。"
+          },
+          {
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "華邦電也被自營商買了 0.24 萬張，記憶體族群是內外資共同看好的低基期板塊，自營商當然不會錯過，準備在景氣反轉前先卡位。"
+          },
+          {
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "面板股群創，自營商也買超 0.23 萬張，這跟外資的動作完全一致，顯示內資主力也認為面板股有補漲空間，準備跟著大咖一起賺一筆。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：資金轉向避風港與旺季題材（航空、金融、食品）",
-        "strategy_content": "肖年仔，外資與投信同步大買航空雙雄（長榮航、華航），這很明顯是看好解封後的暑假旺季效應，加上油價相對穩定，航空業獲利可期。金融股（台新金、中信金、華南金、兆豐金等）則是在升息環境下，利差擴大，獲利穩健，成為資金的避風港。統一這種食品股，在通膨壓力下，也有防禦性買盤進駐。這就是大戶在市場震盪時，把錢往穩健有題材的地方塞，美股經理人也開始佈局醫療保健ETF，都是避險思維啦！"
+        "strategy_title": "策略一：高檔避險與資金避風港（金融、航空轉出，高股息ETF轉入）",
+        "strategy_content": "肖年仔，外資這群人，今天狂倒華航、星宇這些航空股，還有第一金、合庫金等金融股，加起來倒了超過 10 萬張，這擺明就是把之前漲多的股票獲利了結，資金撤出高風險板塊。同時，他們卻買進元大高股息ETF，這就是典型的避險操作，在大盤震盪不安的時候，把錢轉到有防禦性、能領息的標的，求個心安啦！"
       },
       {
-        "strategy_title": "策略二：AI概念股分歧，大戶趁機換手或調節",
-        "strategy_content": "外資持續買超緯創1.71萬張，但投信卻大賣1.02萬張緯創，這擺明是AI概念股漲多之後，大戶之間在換手。投信可能是在高檔獲利了結，準備結帳，而外資則可能看好後續發展，趁拉回加碼，或是進行短線對沖。肖年仔，這種時候不要黑白追高，很容易被割韭菜，搞不好明天就拉高出貨了。"
+        "strategy_title": "策略二：低基期與景氣循環股卡位（鋼鐵、面板、記憶體、晶圓代工）",
+        "strategy_content": "外資和自營商同步大買中鋼、群創、華新、南亞科、聯電、華邦電這些股票，這些都是過去一段時間表現不佳，甚至處於產業谷底的景氣循環股。特別是記憶體和面板，這就是主力在賭產業景氣反轉，準備在底部卡位。國際新聞也提到AMD的自由現金流下降，市場對高估值科技股開始謹慎，轉向有「護城河」或評價面低的標的，這跟我們台股主力在找低基期股的邏輯不謀而合啦！"
       },
       {
-        "strategy_title": "策略三：面板雙虎短線題材發酵，主力隔日沖意圖明顯",
-        "strategy_content": "外資買超友達1.31萬張，自營商也買超友達1495張，但同時外資又狂倒群創5.12萬張。這顯示面板股雖然有短線題材，但大戶對雙虎的看法並不一致。凱基台北這種隔日沖大戶也進場友達，很可能就是看準短線拉抬後隔天倒貨。肖年仔，這種股票進出要快，不然很容易被套牢，變成接刀的韭菜。"
-      },
-      {
-        "strategy_title": "策略四：半導體族群持續調節，資金流出高基期個股",
-        "strategy_content": "外資、投信、自營商同步大賣聯電、華邦電、力積電、旺宏等半導體相關個股，尤其是記憶體和成熟製程晶圓代工。這顯示大戶對這些高基期或景氣尚未明朗的半導體族群持續進行調節，將資金轉往其他有潛力的板塊。肖年仔，不要傻傻去接這些倒貨的刀，等趨勢明朗再說，不然會融資斷頭的啦！"
+        "strategy_title": "策略三：AI概念股獲利了結與資金轉移（投信結帳AI，轉進金融與記憶體）",
+        "strategy_content": "投信這本土國家隊，今天大賣技嘉、緯創、勤誠這些AI概念股，加起來倒了超過 0.2 萬張，這很明顯是前期漲幅過大後的獲利了結，準備結帳啦！這些錢並沒有閒著，反而轉進了旺宏這種記憶體股，還有凱基金、華南金等金融股。這表示資金正在從高估值的AI股，轉向低基期或有補漲空間的金融、記憶體族群，肖年仔，這就是資金輪動的節奏，別傻傻追高被割韭菜！"
       }
     ],
-    "summary": "肖年仔，今天大盤震盪，大戶資金明顯從漲多的AI跟部分半導體，轉往航空、金融這些有旺季或防禦性題材的股票，面板股則是有短線主力在玩隔日沖，操作上要小心，別被割韭菜了！",
+    "summary": "肖年仔，今天主力大戶的動作很清楚，就是『高檔出貨、低檔卡位』，把資金從漲多的航空、金融和AI概念股抽出來，轉進低基期的鋼鐵、面板、記憶體和晶圓代工，還有防禦性的高股息ETF，這就是避險兼佈局，準備迎接下一波行情啦！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超長榮航 7700 張",
-        "uncle_logic": "美商高盛這外資大咖，狂掃長榮航7700多張，這不是隔日沖的量，肖年仔，這是要鎖碼做波段的啦！看來對航空業的旺季效應跟解封題材很有信心，準備拉高出貨。"
+        "action": "買超 2.24 萬張",
+        "uncle_logic": "肖年仔，高盛這咖，買中鋼這麼大筆，擺明就是看好原物料底部翻揚，或是要跟著大盤輪動，把資金從高檔電子股抽出來，轉進這種低基期、有基本面支撐的傳產股啦！這不是亂買，是精準卡位。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超友達 598 張",
-        "uncle_logic": "凱基台北這分點，大家嘛知影是隔日沖大本營。買友達這幾百張，搞不好明天開高就倒貨了，韭菜們別傻傻去接刀，這種短線主力就是來賺個便當錢。"
+        "action": "買超 0.14 萬張",
+        "uncle_logic": "凱基台北這咖，出了名的隔日沖大戶。今天買聯電，聯電外資也大買，擺明就是想搭順風車，明天看能不能拉高出貨，割一波韭菜。肖年仔，這種分點的單，你可要小心，別傻傻去接刀！"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超華航 3148 張",
-        "uncle_logic": "投信國家隊出手了，元大投信買華航3148張，跟外資同步看好航空雙雄。這擺明是作帳行情，準備拉高結帳啦！肖年仔，跟著國家隊走，至少不會太慘。"
+        "action": "買超 0.39 萬張",
+        "uncle_logic": "元大投信這本土國家隊，買旺宏這麼多，很明顯是在作帳啦！旺宏記憶體族群，之前跌深，現在投信進來拉抬，可能是看好產業築底，也可能是為了年底績效，先卡位低基期電子股。肖年仔，跟著投信的腳步，有時候會有肉吃，但要小心他們結帳的時候。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超群創 1.53 萬張",
-        "uncle_logic": "摩根大通這外資大咖，狂倒群創1.53萬張，這不是避險盤是什麼？面板股最近漲多，大戶開始拉高出貨，肖年仔別被套在高點，小心被倒貨。"
+        "action": "賣超 2.34 萬張",
+        "uncle_logic": "摩根大通這外資大咖，狂倒華航，擺明就是對航空股漲多有疑慮，獲利了結啦！之前航空股漲得跟什麼一樣，現在外資開始倒貨，肖年仔，這就是高檔出貨的訊號，別傻傻地以為還能飛天，小心被套在高點！"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "BofA points to the Eli Lilly market that could outsize the U.S.",
+      "title": "Jeff Bezos breaks his own Amazon record",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/healthcare/articles/bofa-points-eli-lilly-market-183300957.html",
-      "level1_blind": {
-        "text": "Eli Lilly (LLY) posted a second-quarter result strong enough to shift the debate around its stock.\n\nFor months, the debate centered on one worry: a slow start for its new obesity pill. That worry did not disappear in the second quarter, but it stopped driving the conversation.\n\nThe bank thinks the obesity market outside the United States could eventually surpass U.S. sales of the same drugs.\n\nFor anyone holding LLY or considering it, that international call is worth a closer look.\n\nBank of America lifted its price objective on Eli Lilly (LLY) to $1,344 from $1,334, according to a BofA Global Research report shared with me.\n\nThe bank kept its math simple, applying an unchanged 28.5 times multiple to its updated 2027 underlying earnings estimate, which removes one-time research charges.\n\nThat multiple sits above what BofA uses for other large drugmakers. Lilly is expanding faster than its peers, so the bank pays more for each dollar of future profit.\n\nLilly reported revenue of $23.0 billion, up 48% from a year earlier, and adjusted earnings of $8.38 a share against a $6.01 consensus, CNBC reported."
-      },
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-breaks-own-amazon-140700871.html",
+      "level1_blind": "{\"text\": \"Amazon became the fifth company to reach a $3 trillion market cap on August 3, and its founder quickly moved to capitalize on the moment.\n\nJeff Bezos filed to sell roughly 15 million shares worth about $4.07 billion through Morgan Stanley, the second-largest single Form 144 he has filed by dollar value, behind the $5.4 billion filing he submitted on his wedding day in June 2025.\n\nTogether, the two programs put his combined dispositions since mid-2025 at roughly $9.7 billion, still short of the $13.5 billion he sold across all of 2024, which was his personal annual record.\n\nFor a company celebrating its biggest valuation milestone in years, the timing of its founder's largest-ever stock sale drew immediate scrutiny across Wall Street.\n\nThe filing, a Form 144 submitted to the Securities and Exchange Commission, details a transaction arranged through Morgan Stanley Smith Barney as broker.\n\nBezos adopted the pre-arranged trading plan on November 14, 2025, under Rule 10b5-1, meaning the sale was scheduled months before Amazon reached $3 trillion.\n\nThe shares trace back to Amazon's founding on July 5, 1994, when Bezos received his original allocation of founder stock upon incorporating the company.\n\nAmazon closed at a record $284.02 on the day the filing appeared, up 4.58% in a single session following strong second-quarter earnings results, according to 247wallst.\"}",
       "level2_keywords": [
         {
-          "word": "obesity pill",
-          "ipa": "/oʊˈbiːsɪti pɪl/",
-          "meaning": "減重藥物；這類藥物主要用於治療肥胖症，幫助患者減輕體重。",
-          "example": "「Eli Lilly 的新一代『obesity pill』在市場上引起了廣泛關注，被視為公司未來成長的關鍵動能。」"
+          "word": "market",
+          "ipa": "/mɑrkeɪt/",
+          "meaning": "市場"
         },
         {
-          "word": "price objective",
-          "ipa": "/praɪs əbˈdʒɛktɪv/",
-          "meaning": "目標價；分析師對某支股票在未來一段時間內預期的合理價格。",
-          "example": "「由於公司財報表現亮眼，多家券商紛紛調升了該股的『price objective』。」"
+          "word": "valuation",
+          "ipa": "/væljuˈeɪʃən/",
+          "meaning": "評估價值"
         },
         {
-          "word": "multiple",
-          "ipa": "/ˈmʌltɪpəl/",
-          "meaning": "估值倍數；在財經領域，常用來指本益比 (P/E multiple) 或企業價值倍數 (EV/EBITDA multiple) 等，是衡量公司估值高低的指標。",
-          "example": "「這家科技新創公司雖然尚未獲利，但市場願意給予其較高的『multiple』，反映了對其未來成長潛力的期待。」"
+          "word": "dispositions",
+          "ipa": "/dɪsˈpoʊʒiənz/",
+          "meaning": "行為或決定"
         },
         {
-          "word": "earnings estimate",
-          "ipa": "/ˈɜːrnɪŋz ˈɛstɪmɪt/",
-          "meaning": "獲利預估；分析師或機構對公司未來特定期間（如季度或年度）獲利表現的預測。",
-          "example": "「公司的最新財報超出了市場的『earnings estimate』，顯示其營運狀況優於預期。」"
+          "word": "stock",
+          "ipa": "/stɔk/",
+          "meaning": "股票"
         },
         {
-          "word": "adjusted earnings",
-          "ipa": "/əˈdʒʌstɪd ˈɜːrnɪŋz/",
-          "meaning": "調整後獲利；指在計算公司獲利時，排除一次性或非經常性項目（如重組費用、資產減值等）影響後的數字，更能反映核心業務的表現。",
-          "example": "「雖然公司本季的淨利受到一次性開支影響，但其『adjusted earnings』依然表現強勁。」"
+          "word": "marketcap",
+          "ipa": "/mɑrkeɪtˈkæp/",
+          "meaning": "市場 capital"
         }
       ],
-      "level2_context": "「各位同學，這篇新聞主要在談美國製藥巨頭禮來（Eli Lilly）的最新財報表現以及華爾街對其未來展望的看法。重點在於，禮來的第二季財報非常亮眼，不僅營收大幅成長，獲利也遠超市場預期。這背後最大的動能，就是他們在減重藥物市場的強勁表現。\n\n過去幾個月，市場一直擔心禮來新推出的減重藥物起步會比較慢，但這次財報證明了這個擔憂是多餘的。更重要的是，美國銀行（BofA）的分析師認為，禮來的減重藥物在美國以外的國際市場，未來銷售額甚至可能超越美國本土，這對公司的長期成長潛力來說是個非常大的利好。\n\n這也反映出全球肥胖症治療市場的巨大潛力，以及投資人對這類創新藥物的高度期待。分析師們因此調升了禮來的目標價，並且願意給予它比其他大型藥廠更高的估值倍數，因為禮來的成長速度明顯快於同業。這告訴我們，在評估生技製藥公司時，除了當前獲利，未來產品線的潛力與市場規模更是關鍵。」",
+      "level2_context": "\n這篇文章描述了 Jeff Bezos 在 Amazon 辭職後出售公司股份的事件，該事件引發 Wall Street 的關注。\nAmazon 的 $3 trillion 市值是其歷史上最大的一次達到，Jeff Bezos 的出售股份計畫也使他成為第一個在公司成立時就持有 1% 股權的 CEO。\n這些行為表明了 Bezos 對 Amazon 的長期信念和投資意向。\n",
       "level3_translation": [
         {
-          "sentence": "Eli Lilly (LLY) posted a second-quarter result strong enough to shift the debate around its stock.",
-          "translation": "「禮來藥廠（LLY）公布了第二季財報，表現非常強勁，足以改變市場對其股價的討論焦點。」"
+          "sentence": "Amazon became the fifth company to reach a $3 trillion market cap on August 3, and its founder quickly moved to capitalize on the moment.",
+          "translation": ""
         },
         {
-          "sentence": "For months, the debate centered on one worry: a slow start for its new obesity pill.",
-          "translation": "「過去幾個月，市場的討論一直圍繞著一個擔憂：禮來新推出的減重藥物起步可能會比較慢。」"
+          "sentence": "Jeff Bezos filed to sell roughly 15 million shares worth about $4.07 billion through Morgan Stanley, the second-largest single Form 144 he has filed by dollar value, behind the $5.4 billion filing he submitted on his wedding day in June 2025.",
+          "translation": ""
         },
         {
-          "sentence": "That worry did not disappear in the second quarter, but it stopped driving the conversation.",
-          "translation": "「這個擔憂在第二季並沒有完全消失，但它已經不再是市場討論的主要話題了。」"
+          "sentence": "Together, the two programs put his combined dispositions since mid-2025 at roughly $9.7 billion, still short of the $13.5 billion he sold across all of 2024, which was his personal annual record.",
+          "translation": ""
         },
         {
-          "sentence": "The bank thinks the obesity market outside the United States could eventually surpass U.S. sales of the same drugs.",
-          "translation": "「美國銀行（BofA）認為，美國以外的國際減重藥物市場，其銷售額最終可能會超越美國本土的同類藥物銷售。」"
+          "sentence": "For a company celebrating its biggest valuation milestone in years, the timing of its founder's largest-ever stock sale drew immediate scrutiny across Wall Street.",
+          "translation": ""
         },
         {
-          "sentence": "For anyone holding LLY or considering it, that international call is worth a closer look.",
-          "translation": "「對於任何持有禮來股票或考慮投資的投資人來說，這個關於國際市場潛力的預測，都值得仔細研究。」"
+          "sentence": "The filing, a Form 144 submitted to the Securities and Exchange Commission, details a transaction arranged through Morgan Stanley Smith Barney as broker.",
+          "translation": ""
         },
         {
-          "sentence": "Bank of America lifted its price objective on Eli Lilly (LLY) to $1,344 from $1,334, according to a BofA Global Research report shared with me.",
-          "translation": "「根據美國銀行全球研究部門提供的一份報告，美國銀行將禮來藥廠（LLY）的目標價從1,334美元調升至1,344美元。」"
+          "sentence": "Bezos adopted the pre-arranged trading plan on November 14, 2025, under Rule 10b5-1, meaning the sale was scheduled months before Amazon reached $3 trillion.",
+          "translation": ""
         },
         {
-          "sentence": "The bank kept its math simple, applying an unchanged 28.5 times multiple to its updated 2027 underlying earnings estimate, which removes one-time research charges.",
-          "translation": "「美國銀行在計算上維持簡潔，將不變的28.5倍估值倍數，應用於其更新後的2027年核心獲利預估，這個預估已排除了單次性的研發費用。」"
+          "sentence": "The shares trace back to Amazon's founding on July 5, 1994, when Bezos received his original allocation of founder stock upon incorporating the company.",
+          "translation": ""
         },
         {
-          "sentence": "That multiple sits above what BofA uses for other large drugmakers.",
-          "translation": "「這個估值倍數高於美國銀行對其他大型藥廠所使用的標準。」"
-        },
-        {
-          "sentence": "Lilly is expanding faster than its peers, so the bank pays more for each dollar of future profit.",
-          "translation": "「禮來的擴張速度比同業更快，因此美國銀行願意為其未來的每一塊錢獲利支付更高的估值。」"
-        },
-        {
-          "sentence": "Lilly reported revenue of $23.0 billion, up 48% from a year earlier, and adjusted earnings of $8.38 a share against a $6.01 consensus, CNBC reported.",
-          "translation": "「CNBC報導指出，禮來公布的營收達到230億美元，較去年同期成長48%，而調整後獲利為每股8.38美元，遠高於市場預期的6.01美元。」"
+          "sentence": "Amazon closed at a record $284.02 on the day the filing appeared, up 4.58% in a single session following strong second-quarter earnings results, according to 247wallst.",
+          "translation": ""
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "UPS Completed Its Amazon Volume Pullback. Is the Turnaround Finally Working?",
+      "title": "Advanced Micro Devices Dips on Lower FCF, But Short Put Plays Attract Value Investors",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ups-completed-amazon-volume-pullback-205917884.html",
-      "level1_blind": {
-        "text": "United Parcel Service, Inc. (NYSE:UPS) shares surged in premarket trading on July 28 after the package-delivery company reported a second-quarter beat and raised its 2026 outlook. Revenue reached $22.83 billion, above the $21.81 billion consensus estimate, while adjusted earnings of $1.76 per share exceeded the $1.66 estimate. UPS now expects full-year revenue of approximately $91.2 billion, up from $89.7 billion, and adjusted earnings of approximately $7.22 per share.\n\nThe more important development was operational. Eighteen months after announcing an accelerated reduction in lower-margin Amazon volume, UPS said it had completed the planned \"glide down\" and the related phase of its network reconfiguration. That did not end the Amazon relationship: Amazon had accounted for more than 13% of UPS revenue at its peak, but its contribution had fallen to 8.8% by the end of the first quarter.\n\nThat strategy was always supposed to make UPS smaller before making it more profitable. The second quarter offered the clearest evidence yet that the second part may finally be starting. U.S. Domestic average daily package volume fell 3.3%, but revenue rose 6% as revenue per piece increased 9.3%. Adjusted domestic operating profit increased 21%, lifting the segment's adjusted margin to 8% from roughly 7% a year earlier.\n\nStill, the margin remains well below the International segment's 12.4%, and fuel surcharges contributed to the stronger revenue-per-piece result. The core tension is whether UPS has created a durably more profitable domestic network, or whether fuel surcharges and temporary restructuring effects made one quarter look better than the underlying cost structure.\n\nThe bull case is that UPS has begun to prove the logic behind sacrificing Amazon volume: fewer packages can produce more revenue and profit when the packages that remain carry better yields.\n\nThe domestic operating bridge is the strongest evidence. Average daily volume declined from 16.55 million packages to 16.00 million, yet U.S. Domestic revenue rose to $14.93 billion. Adjusted operating profit increased to $1.19 billion from $982 million, and the segment added approximately one percentage point of adjusted margin.\n\nThat is more meaningful than a conventional earnings beat. UPS deliberately removed a large amount of business from its network, then returned the segment to revenue growth before volume had recovered. Revenue per piece increased 9.3%, exceeding the 8% increase in adjusted cost per piece. The spread was not large, but it moved in the direction required for the \"better, not bigger\" strategy to work.\n\nThe consolidated figures reinforce the point. Revenue grew 7.6%, adjusted operating profit increased 12% to $2.10 billion, and adjusted operating margin expanded to 9.2% from 8.8%. UPS did not merely beat an earnings estimate; it produced adjusted profit growth faster than revenue growth while finishing the most disruptive phase of the Amazon transition."
-      },
+      "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-dips-lower-140002117.html",
+      "level1_blind": "Advanced Micro Devices (AMD) reported strong Q2 revenue and earnings growth on August 4, but its free cash flow dipped below Q1 levels. Nevertheless, AMD is undervalued, and a 10% lower short put play yields 3.5% over one month.\n\nAMD closed at $483.36, down 6.8% from $518.58 on Aug. 4 before the earnings release. However, it's up from a recent trough of $429.56 on July 29. But it could have 25% more upside.\n\nCisco Systems Is In a Trading Range Ahead of Earnings - Shorting OTM Puts and Calls Works\n\nBased on a FCF analysis, it could still be worth over 25% more at $611 per share, as this article will show. Moreover, Wall Street analysts have even higher price targets. Here's why.\n\nAMD's Q2 revenue rose 50% Y/Y, and its net income was up 163%. These were better than analysts' forecasts, according to Seeking Alpha.\n\nBut the market doesn't care about GAAP accounting earnings anymore. This is because free cash flow (FCF) shows how much actual real cash the company is generating after heavy capex requirements in this AI-demand-driven age.\n\nFCF fell from $2.566 billion in Q1 to $1.558 billion in Q2, despite being higher than last year. That was $1 billion lower than in Q1.\n\nIt was due to (1) a $419 million increase in AI-related capex from Q1 to Q2 as well as (2) a $589 million drop in operating cash flow (OCF), mainly from higher working capital requirements (Stock Analysis data).",
       "level2_keywords": [
         {
-          "word": "premarket trading",
-          "ipa": "/ˌpriːˈmɑːrkɪt ˈtreɪdɪŋ/",
-          "meaning": "盤前交易。指在正式股市開盤前進行的股票買賣活動，通常交易量較小，但能反映市場對即將公布消息的初步反應。",
-          "example": "UPS shares surged in premarket trading after a strong earnings report."
+          "word": "capex",
+          "ipa": "/kæpɛks/",
+          "meaning": "資產負債償還費用",
+          "example": "公司的capex增加了10%，表明其在研發新產品上投入了更多資金"
         },
         {
-          "word": "outlook",
-          "ipa": "/ˈaʊtˌlʊk/",
-          "meaning": "展望、預期。在財經領域中，通常指公司對未來營收、獲利或產業趨勢的預測。",
-          "example": "The company raised its 2026 outlook, signaling confidence in future growth."
+          "word": "FCF",
+          "ipa": "/ɪfɪsi/",
+          "meaning": "自由現金流",
+          "example": "企業的FCF是衡量其財務健康性的重要指標"
         },
         {
-          "word": "consensus estimate",
-          "ipa": "/kənˈsɛnsəs ˈɛstɪmɪt/",
-          "meaning": "共識預期。指分析師們對某公司未來財務表現（如營收、盈餘）的平均預測值，是市場普遍認同的基準。",
-          "example": "Revenue reached $22.83 billion, above the $21.81 billion consensus estimate."
+          "word": "AI",
+          "ipa": "/eɪi/",
+          "meaning": "人工智能",
+          "example": "公司在AI領域取得了重大突破，推動了產業的發展"
         },
         {
-          "word": "lower-margin",
-          "ipa": "/ˈloʊər ˈmɑːrdʒɪn/",
-          "meaning": "低毛利。指產品或服務的銷售價格與其成本之間的差額較小，導致獲利空間有限。",
-          "example": "UPS announced an accelerated reduction in lower-margin Amazon volume to improve profitability."
+          "word": "working capital",
+          "ipa": "/ˈwʊrkɪŋ kæpɪtəl/",
+          "meaning": "工作資本",
+          "example": "公司的working capital需要增加，以應對市場變化"
         },
         {
-          "word": "network reconfiguration",
-          "ipa": "/ˈnɛtˌwɜːrk ˌriːkənˌfɪɡəˈreɪʃən/",
-          "meaning": "網路重組。指公司對其物流、供應鏈或營運網路進行結構性調整，以提升效率、降低成本或優化服務。",
-          "example": "The company completed the planned 「glide down」 and the related phase of its network reconfiguration."
+          "word": "valuation",
+          "ipa": "/vəˈleɪʃən/",
+          "meaning": "評估價值",
+          "example": "企業的valuation是衡量其財務健康性的重要指標"
         }
       ],
-      "level2_context": "各位同學，這篇新聞的背景脈絡非常有趣。我們知道，像UPS這樣的物流巨頭，過去很大一部分的業務量都來自於像亞馬遜這樣的大型電商客戶。然而，亞馬遜的包裹雖然量大，但往往因為議價能力強，給予物流公司的運費相對較低，導致這些業務的「毛利率」不高。\n\nUPS在幾年前就意識到這個問題，並啟動了一項策略轉型：刻意減少來自亞馬遜等低毛利客戶的業務量，即使這會導致總包裹量短期內下降。他們的目標是「寧願小一點，但要更賺錢」（better, not bigger）。這項策略的挑戰在於，初期可能會看到營收和包裹量下滑，市場會質疑這是否正確。\n\n這篇新聞的重點就在於，UPS現在似乎開始證明這項策略是奏效的。儘管美國國內包裹量減少了，但由於他們承接了更多高價值的包裹，每件包裹的營收反而增加了，進而推升了整體營收和「營運利潤」，甚至提升了「調整後毛利率」。這顯示他們正在成功地「重組網路」，擺脫低毛利業務的包袱，轉向更高效率、更高獲利的營運模式。這對投資人來說，是一個非常正面的訊號，代表公司體質正在改善，未來獲利能力有望持續提升。",
+      "level2_context": "這篇文章討論了AMD的財務表現，特別是其free cash flow（FCF）的變化。根據分析，AMD的FCF仍然是公司財務健康性的關鍵指標，尤其是在AI領域的競爭中。然而，市場對於GAAP會計收益的看法正在慢慢改變，越來越多的人關注的是實際的現金流。這篇文章將探討這些變化的原因和影響.",
       "level3_translation": [
         {
-          "sentence": "United Parcel Service, Inc. (NYSE:UPS) shares surged in premarket trading on July 28 after the package-delivery company reported a second-quarter beat and raised its 2026 outlook.",
-          "translation": "各位同學，聯合包裹服務公司（UPS）的股價在7月28日的盤前交易中大漲，這是因為這家包裹遞送巨頭公布了優於預期的第二季財報，並上調了其2026年的財測展望。"
+          "sentence": "Advanced Micro Devices (AMD) reported strong Q2 revenue and earnings growth on August 4, but its free cash flow dipped below Q1 levels.",
+          "translation": "AMD在8月4日公布了強大的Q2財務收入和利益增長，但其自由現金流下降到Q1水平"
         },
         {
-          "sentence": "Revenue reached $22.83 billion, above the $21.81 billion consensus estimate, while adjusted earnings of $1.76 per share exceeded the $1.66 estimate.",
-          "translation": "營收達到了228.3億美元，高於市場共識預期的218.1億美元；而調整後的每股盈餘為1.76美元，也超越了預期的1.66美元。"
+          "sentence": "Nevertheless, AMD is undervalued, and a 10% lower short put play yields 3.5% over one month.",
+          "translation": "不過，AMD仍然是低估的，短期內10%的短賣買單可以獲得3.5%的回報"
         },
         {
-          "sentence": "UPS now expects full-year revenue of approximately $91.2 billion, up from $89.7 billion, and adjusted earnings of approximately $7.22 per share.",
-          "translation": "UPS目前預計全年營收約為912億美元，高於原先的897億美元，調整後的每股盈餘則預計約為7.22美元。"
+          "sentence": "Cisco Systems Is In a Trading Range Ahead of Earnings - Shorting OTM Puts and Calls Works",
+          "translation": ""
         },
         {
-          "sentence": "The more important development was operational.",
-          "translation": "然而，更重要的進展其實是在營運層面。"
+          "sentence": "Based on a FCF analysis, it could still be worth over 25% more at $611 per share, as this article will show.",
+          "translation": "根據自由現金流分析，該公司仍然有25%以上的上升價值，在每股$611時"
         },
         {
-          "sentence": "Eighteen months after announcing an accelerated reduction in lower-margin Amazon volume, UPS said it had completed the planned \"glide down\" and the related phase of its network reconfiguration.",
-          "translation": "在宣布加速減少低毛利亞馬遜業務量後的十八個月，UPS表示已完成了預期的「逐步縮減」計畫，以及相關的網路重組階段。"
+          "sentence": "Moreover, Wall Street analysts have even higher price targets.",
+          "translation": ""
         },
         {
-          "sentence": "That did not end the Amazon relationship: Amazon had accounted for more than 13% of UPS revenue at its peak, but its contribution had fallen to 8.8% by the end of the first quarter.",
-          "translation": "這並不代表與亞馬遜的合作關係就此終結：亞馬遜在高峰時期曾佔UPS總營收的13%以上，但到第一季末，其貢獻已降至8.8%。"
+          "sentence": "These were better than analysts' forecasts, according to Seeking Alpha.",
+          "translation": "這些結果超出了-wall street分析師的預測，根據Seeking Alpha"
         },
         {
-          "sentence": "That strategy was always supposed to make UPS smaller before making it more profitable.",
-          "translation": "這項策略的初衷，就是希望UPS能在變得更賺錢之前，先將規模縮小。"
+          "sentence": "But the market doesn't care about GAAP accounting earnings anymore.",
+          "translation": ""
         },
         {
-          "sentence": "The second quarter offered the clearest evidence yet that the second part may finally be starting.",
-          "translation": "而第二季的財報，提供了迄今為止最明確的證據，顯示這項策略的第二階段——也就是提升獲利能力——可能終於開始奏效了。"
+          "sentence": "This is because free cash flow (FCF) shows how much actual real cash the company is generating after heavy capex requirements in this AI-demand-driven age.",
+          "translation": "因為自由現金流（FCF）可以顯示公司在這個AI需求驅動的時代後面，對應的實際現金流"
         },
         {
-          "sentence": "U.S. Domestic average daily package volume fell 3.3%, but revenue rose 6% as revenue per piece increased 9.3%.",
-          "translation": "美國國內的平均每日包裹量雖然下降了3.3%，但由於每件包裹的營收增加了9.3%，使得整體營收反而成長了6%。"
+          "sentence": "FCF fell from $2.566 billion in Q1 to $1.558 billion in Q2, despite being higher than last year.",
+          "translation": ""
         },
         {
-          "sentence": "Adjusted domestic operating profit increased 21%, lifting the segment's adjusted margin to 8% from roughly 7% a year earlier.",
-          "translation": "調整後的國內營運利潤成長了21%，將該部門的調整後毛利率從一年前的約7%提升至8%。"
+          "sentence": "That was $1 billion lower than in Q1.",
+          "translation": ""
         },
         {
-          "sentence": "Still, the margin remains well below the International segment's 12.4%, and fuel surcharges contributed to the stronger revenue-per-piece result.",
-          "translation": "不過，這個毛利率仍遠低於國際業務部門的12.4%，而且燃油附加費也對每件包裹營收的強勁表現有所貢獻。"
-        },
-        {
-          "sentence": "The core tension is whether UPS has created a durably more profitable domestic network, or whether fuel surcharges and temporary restructuring effects made one quarter look better than the underlying cost structure.",
-          "translation": "核心的爭議點在於，UPS是否真的建立了一個能持續獲利的國內物流網路，還是說，燃油附加費和暫時性的重組效應，讓這一季的表現看起來比其潛在的成本結構更好。"
-        },
-        {
-          "sentence": "The bull case is that UPS has begun to prove the logic behind sacrificing Amazon volume: fewer packages can produce more revenue and profit when the packages that remain carry better yields.",
-          "translation": "看好UPS的論點是，它已經開始證明犧牲亞馬遜業務量的邏輯是正確的：當留下的包裹能帶來更高的收益時，即使包裹數量減少，也能創造更多的營收和利潤。"
-        },
-        {
-          "sentence": "The domestic operating bridge is the strongest evidence.",
-          "translation": "國內營運的數據分析提供了最有力的證據。"
-        },
-        {
-          "sentence": "Average daily volume declined from 16.55 million packages to 16.00 million, yet U.S. Domestic revenue rose to $14.93 billion.",
-          "translation": "平均每日包裹量從1655萬件下降到1600萬件，然而美國國內營收卻增長到149.3億美元。"
-        },
-        {
-          "sentence": "Adjusted operating profit increased to $1.19 billion from $982 million, and the segment added approximately one percentage point of adjusted margin.",
-          "translation": "調整後的營運利潤從9.82億美元增長到11.9億美元，該部門的調整後毛利率也增加了約一個百分點。"
-        },
-        {
-          "sentence": "That is more meaningful than a conventional earnings beat.",
-          "translation": "這比單純的財報優於預期更具意義。"
-        },
-        {
-          "sentence": "UPS deliberately removed a large amount of business from its network, then returned the segment to revenue growth before volume had recovered.",
-          "translation": "UPS刻意從其網路中移除了大量的業務，然後在包裹量尚未完全恢復之前，就讓該部門恢復了營收成長。"
-        },
-        {
-          "sentence": "Revenue per piece increased 9.3%, exceeding the 8% increase in adjusted cost per piece.",
-          "translation": "每件包裹的營收增長了9.3%，超過了調整後每件包裹成本8%的增幅。"
-        },
-        {
-          "sentence": "The spread was not large, but it moved in the direction required for the \"better, not bigger\" strategy to work.",
-          "translation": "雖然這個差距不大，但它朝著「更好，而非更大」策略成功所需的方向發展。"
-        },
-        {
-          "sentence": "The consolidated figures reinforce the point.",
-          "translation": "合併後的數據也印證了這一點。"
-        },
-        {
-          "sentence": "Revenue grew 7.6%, adjusted operating profit increased 12% to $2.10 billion, and adjusted operating margin expanded to 9.2% from 8.8%.",
-          "translation": "營收增長了7.6%，調整後的營運利潤增長了12%達到21億美元，調整後的營運毛利率也從8.8%擴大到9.2%。"
-        },
-        {
-          "sentence": "UPS did not merely beat an earnings estimate; it produced adjusted profit growth faster than revenue growth while finishing the most disruptive phase of the Amazon transition.",
-          "translation": "UPS不僅僅是財報優於預期；它在完成亞馬遜業務轉型中最具挑戰性的階段時，實現了調整後利潤增長快於營收增長。"
+          "sentence": "It was due to (1) a $419 million increase in AI-related capex from Q1 to Q2 as well as (2) a $589 million drop in operating cash flow (OCF), mainly from higher working capital requirements (Stock Analysis data).",
+          "translation": ""
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Dow Jones Futures Loom As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
+      "title": "Wide-Moat Stocks Are the Sedative Your Tech-Dominated Portfolio Desperately Needs",
       "source": "Yahoo Finance",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
-      "level1_blind": {
-        "text": "Dow Jones futures will open Sunday evening, along with S&P 500 futures and Nasdaq futures. Iran news is in focus. Warren Buffett's Berkshire Hathaway reported earnings on Saturday, with Cisco, Lumentum and Applied Materials among the notable companies on tap this coming week. A stock market rally is back in full force, with the S&P 500 and Dow Jones hitting…\n\n8/08/2026\n\t\t\t\t\tBerkshire Hathaway earnings rose 16%. The conglomerate is in a buy zone as investors get over their post-Buffett hangover.\n\nArtificial intelligence can help identify and manage cyber threats, but in the hands of bad actors AI also creates new risks. (© Gary Neill)\n\nGet instant access to exclusive stock lists, expert market analysis and powerful tools with 2 months of IBD Digital for only $20!\n\nLearn how you can make more money with IBD's investing tools, top-performing stock lists, and educational content.\n\nInformation in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we believe to be reliable, but we make no guarantee as to its accuracy, timeliness, or suitability, including with respect to information that appears in closed captioning. Historical investment performances are no indication or guarantee of future success or performance. Authors/presenters may own the stocks they discuss. We make no representations or warranties regarding the advisability of investing in any particular securities or utilizing any specific investment strategies. Information is subject to change without notice. For information on use of our services, please see our Terms of Use.\n\n*Real-time prices by Nasdaq Last Sale. Real-time quote and/or trade prices are not sourced from all markets. Ownership data provided by LSEG and Estimate data provided by FactSet.\n\nIBD, IBD Digital, IBD Live, IBD Weekly, Investor's Business Daily, Leaderboard, MarketDiem, MarketSurge and other marks are trademarks owned by Investor's Business Daily, LLC."
-      },
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wide-moat-stocks-sedative-tech-140002032.html",
+      "level1_blind": "<p>The VanEck Morningstar Wide Moat ETF (MOAT) used to be my favorite equity ETF. It can't be anymore. Why? Because I'm convinced that equity investing has changed so dramatically that stocks are more like wagers in a casino. That means it's best not to play favorites and to let the charts be my guide.</p>\n\nSo it is intriguing to see MOAT, which owns a set of stocks considered to have sustainable competitive advantages (\"wide moats\"), breaking out to new highs. Does it mean that the market is finally coming to its senses again?</p>\n\nIf you are worried about high stock market valuations and top-heavy mega-cap tech concentration, the VanEck Morningstar Wide Moat ETF offers a practical alternative. Because while it is an index ETF, it does not just buy big companies. It targets U.S. large-cap firms that possess a verified \"economic moat,\" meaning structural competitive advantages like strong patents, brand power, high customer switching costs, or network effects. Crucially, the fund only buys these high-quality companies when Morningstar's analysts determine they are trading at an attractive price relative to their fair value.</p>\n\nStandard S&P 500 Index ($SPX) funds are heavily weighted toward a tiny handful of massive tech giants. MOAT uses an equal-weighted approach across its holdings. This provides true large-cap exposure without putting all your eggs in the same tech basket.</p>\n\nHigh-flying stocks occasionally get overextended. Because MOAT rebalances systematically by selling companies that become overvalued and buying those trading at a discount, it naturally acts as a value-oriented shock absorber.</p>\n\nCompanies with genuine competitive moats can raise prices when input costs rise without losing their customers. That pricing power protects profit margins better than standard growth stocks during sticky inflation or choppy economic cycles. With the current inflation overhang, this is even more timely than usual.</p>\n\nBecause MOAT avoids overvalued high-flyers, it can underperform the broader S&P 500 when a few massive mega-cap stocks are driving the entire market higher. The ETF relies on Morningstar's human analysts to estimate \"fair value\" and identify \"moats.\" If analysts misjudge a company's competitive advantage or future earnings, the fund can hold an underperforming stock longer than expected. And, rebalancing based on valuation means MOAT can swing significantly between sectors (like industrials, healthcare, or financials) depending on where bargains appear.</p>\n\nWhile I am generally a fan of highly concentrated stock ETFs, MOAT serves a second, important role for me. It is one of the first places I look to identify stocks with solid fundamentals, when hunting for stocks to trade while they are at a discount. That wide moat designation means a lot to me.",
       "level2_keywords": [
         {
-          "word": "futures",
-          "ipa": "/ˈfjuːtʃərz/",
-          "meaning": "期貨合約，一種標準化的金融衍生工具，約定在未來特定日期以特定價格買賣某種資產。",
-          "example": "各位同學，『Dow Jones futures』指的是道瓊指數的期貨合約，它反映了投資人對未來市場走勢的預期。"
+          "word": "patents",
+          "ipa": "/pætənz/",
+          "meaning": "專利",
+          "example": "公司的專利權是其競爭力的一部分"
         },
         {
-          "word": "earnings",
-          "ipa": "/ˈɜːrnɪŋz/",
-          "meaning": "財報盈餘，指公司在特定會計期間內所實現的淨利潤或收益，是衡量公司財務表現的重要指標。",
-          "example": "我們要注意，『Berkshire Hathaway earnings』指的是波克夏海瑟威的財報盈餘，這會直接影響其股價表現。"
+          "word": "brand power",
+          "ipa": "/brænd pɔːʃən/",
+          "meaning": "品牌力量",
+          "example": "一家公司的品牌力量是其競爭力的關鍵因素之一"
         },
         {
-          "word": "rally",
-          "ipa": "/ˈræli/",
-          "meaning": "反彈/上漲，指市場或特定資產價格在經歷下跌後出現的快速回升或持續上漲。",
-          "example": "這句話在財經界的意思是，『A stock market rally』代表股市出現了強勁的反彈行情，投資人信心回籠。"
+          "word": "customer switching costs",
+          "ipa": "/kʌs.təm swɪtʃɪŋ kəstz/",
+          "meaning": "客戶遷移成本",
+          "example": "客戶遷移成本是衡量一家公司競爭力的一個重要指標"
         },
         {
-          "word": "conglomerate",
-          "ipa": "/kənˈɡlɒmərət/",
-          "meaning": "企業集團，指由多個不同業務領域的子公司組成的龐大企業實體，通常透過併購形成。",
-          "example": "波克夏海瑟威就是一個典型的『conglomerate』，它旗下涵蓋了保險、鐵路、能源等多個產業。"
+          "word": "network effects",
+          "ipa": "/nɛt.wərk ɛfˈfekts/",
+          "meaning": "網絡效應",
+          "example": "一個公司的網絡效應是其競爭力的一部分"
         },
         {
-          "word": "cyber threats",
-          "ipa": "/ˈsaɪbər θrɛts/",
-          "meaning": "網路威脅，指透過網路進行的惡意行為，可能導致數據洩露、系統損壞或財務損失等。",
-          "example": "在科技產業中，『cyber threats』是企業和個人都必須嚴肅面對的資安挑戰。"
+          "word": "inflation",
+          "ipa": "/ɪn.fleɪʷən/",
+          "meaning": "通貨膨脹",
+          "example": "通貨膨脹對企業的影響很大"
         }
       ],
-      "level2_context": "各位同學，這篇新聞主要在討論美國股市開盤前的市場情緒與未來一週的關注焦點。期貨市場的動向預示著投資人對接下來交易日的預期。同時，幾家重要企業的財報即將公布，這些公司的營收和獲利表現，將直接影響其股價走勢，並可能牽動相關產業板塊。文章也提到近期股市的反彈，顯示市場信心有所恢復。此外，人工智慧在網路安全領域的雙面刃效應，也提醒投資者在科技發展中潛藏的風險。整體而言，這是一篇提供市場概況與未來潛在催化劑的財經報導。",
+      "level2_context": "\n\n這篇文章討論了「寬潛力 stocks\"（wide-moat stocks）的重要性，特別是在tech-dominant portfolios中。\n\n在市場中，高成長股和tech giants占據主導地位，但這也意味著風險。寬潛力 stocks則提供了一種穩定且可靠的選擇，尤其是在通貨膨脹環境下。\n\n文章強調了寬潛力 stocks的重要性，以及它們如何在市場中提供平衡和穩定。\n\n",
       "level3_translation": [
         {
-          "sentence": "Dow Jones futures will open Sunday evening, along with S&P 500 futures and Nasdaq futures.",
-          "translation": "道瓊期貨將在週日晚間開盤，同時標普500期貨和那斯達克期貨也將同步啟動。"
+          "sentence": "The VanEck Morningstar Wide Moat ETF (MOAT) used to be my favorite equity ETF.",
+          "translation": "范尼克Morning星寬潛力ETF（MOAT）曾是我最喜歡的股權ETF"
         },
         {
-          "sentence": "Iran news is in focus.",
-          "translation": "伊朗相關新聞是市場關注的焦點。"
+          "sentence": "It can't be anymore. Why? Because I'm convinced that equity investing has changed so dramatically that stocks are more like wagers in a casino.",
+          "translation": "它不能再了。原因是，我相信股權投資已經變得如此 Dramatic，股票如同在คาสิโน中進行賭注"
         },
         {
-          "sentence": "Warren Buffett's Berkshire Hathaway reported earnings on Saturday, with Cisco, Lumentum and Applied Materials among the notable companies on tap this coming week.",
-          "translation": "華倫．巴菲特旗下的波克夏海瑟威公司已於週六公布財報，而思科、Lumentum和應用材料等知名企業的財報也將在本週陸續登場。"
+          "sentence": "So it is intriguing to see MOAT, which owns a set of stocks considered to have sustainable competitive advantages (\"wide moats\"), breaking out to new highs.",
+          "translation": "因此，我們很有趣地看到MOAT，持有具有可持續競爭優勢（「寬潛力」）的股票，正在打破新高"
         },
         {
-          "sentence": "A stock market rally is back in full force, with the S&P 500 and Dow Jones hitting…",
-          "translation": "股市反彈力道強勁，標普500指數和道瓊指數都已觸及…（此處原文未完）"
+          "sentence": "Does it mean that the market is finally coming to its senses again?",
+          "translation": "這意味著市場是否真的開始恢復正常?"
         },
         {
-          "sentence": "Berkshire Hathaway earnings rose 16%.",
-          "translation": "波克夏海瑟威的財報顯示盈餘成長了16%。"
+          "sentence": "If you are worried about high stock market valuations and top-heavy mega-cap tech concentration, the VanEck Morningstar Wide Moat ETF offers a practical alternative.",
+          "translation": "如果您擔心高股市評估值和top-heavy mega-cap tech濃度，范尼克Morning星寬潛力ETF提供了一種實用的選擇"
         },
         {
-          "sentence": "The conglomerate is in a buy zone as investors get over their post-Buffett hangover.",
-          "translation": "隨著投資人逐漸擺脫『後巴菲特時代』的觀望情緒，這家企業集團正處於一個適合買進的區間。"
+          "sentence": "Because while it is an index ETF, it does not just buy big companies.",
+          "translation": "因為雖然它是一個指數ETF，但它不僅買大公司"
         },
         {
-          "sentence": "Artificial intelligence can help identify and manage cyber threats, but in the hands of bad actors AI also creates new risks.",
-          "translation": "人工智慧可以協助識別與管理網路威脅，但若落入不法份子手中，人工智慧也會製造出新的風險。"
+          "sentence": "It targets U.S. large-cap firms that possess a verified \"economic moat,\" meaning structural competitive advantages like strong patents, brand power, high customer switching costs, or network effects.",
+          "translation": "它目標是針對具有可證實的「經濟潛力\"（structural competitive advantages）的美國大型公司"
         },
         {
-          "sentence": "(© Gary Neill)",
-          "translation": "(© 蓋瑞．尼爾)"
+          "sentence": "Companies with genuine competitive moats can raise prices when input costs rise without losing their customers.",
+          "translation": "具有真正競爭優勢的公司可以在成本上升時提高價格，而不會失去客戶"
         },
         {
-          "sentence": "Get instant access to exclusive stock lists, expert market analysis and powerful tools with 2 months of IBD Digital for only $20!",
-          "translation": "只要20美元，即可立即享有兩個月的IBD Digital服務，包含獨家股票清單、專家市場分析和強大工具！"
+          "sentence": "That pricing power protects profit margins better than standard growth stocks during sticky inflation or choppy economic cycles.",
+          "translation": "這種價格力量保護利益 margin 比標準成長股更好，特別是在粘稠通貨膨脹或不穩定的經濟周期中"
         },
         {
-          "sentence": "Learn how you can make more money with IBD's investing tools, top-performing stock lists, and educational content.",
-          "translation": "了解如何透過IBD的投資工具、表現優異的股票清單和教育內容來賺取更多收益。"
+          "sentence": "With the current inflation overhang, this is even more timely than usual.",
+          "translation": "在目前的通貨膨脹環境下，這更是有時候的話題"
         },
         {
-          "sentence": "Information in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities.",
-          "translation": "『投資者商業日報』中的資訊僅供參考和教育用途，不應被視為買賣證券的要約、推薦、招攬或評級。"
+          "sentence": "Because MOAT avoids overvalued high-flyers, it can underperform the broader S&P 500 when a few massive mega-cap stocks are driving the entire market higher.",
+          "translation": "因為MOAT避免了過度評估高飛股，從而可以在某些大型巨資本股推動整體市場上升時下落"
         },
         {
-          "sentence": "The information has been obtained from sources we believe to be reliable, but we make no guarantee as to its accuracy, timeliness, or suitability, including with respect to information that appears in closed captioning.",
-          "translation": "這些資訊來自我們認為可靠的來源，但我們不保證其準確性、即時性或適用性，包括閉路字幕中顯示的資訊。"
+          "sentence": "The ETF relies on Morningstar's human analysts to estimate \"fair value\" and identify \"moats.\"",
+          "translation": "該ETF依賴Morning星的人工分析師，估計「公平價值」和識別「潛力\""
         },
         {
-          "sentence": "Historical investment performances are no indication or guarantee of future success or performance.",
-          "translation": "歷史投資績效不代表或保證未來的成功或表現。"
+          "sentence": "If analysts misjudge a company's competitive advantage or future earnings, the fund can hold an underperforming stock longer than expected.",
+          "translation": "如果分析師誤判公司的競爭優勢或未來利益，該基金可以持有下performing 股更久"
         },
         {
-          "sentence": "Authors/presenters may own the stocks they discuss.",
-          "translation": "作者或演講者可能持有他們討論的股票。"
+          "sentence": "And, rebalancing based on valuation means MOAT can swing significantly between sectors (like industrials, healthcare, or financials) depending on where bargains appear.",
+          "translation": "同時，根據評估價值的重衡，MOAT可以在不同產業（如工業、醫療或金融）之間大幅波動"
         },
         {
-          "sentence": "We make no representations or warranties regarding the advisability of investing in any particular securities or utilizing any specific investment strategies.",
-          "translation": "我們不對投資任何特定證券或採用任何特定投資策略的適宜性做出任何陳述或保證。"
+          "sentence": "While I am generally a fan of highly concentrated stock ETFs, MOAT serves a second, important role for me.",
+          "translation": "雖然我一般是支持高度集中化的股權ETF，但是MOAT對我來說有第二個重要的角色"
         },
         {
-          "sentence": "Information is subject to change without notice.",
-          "translation": "資訊如有變動，恕不另行通知。"
+          "sentence": "It is one of the first places I look to identify stocks with solid fundamentals, when hunting for stocks to trade while they are at a discount.",
+          "translation": "它是我第一個去找那些具有穩固基礎的股票的位置，當我在尋找可以買入折扣時"
         },
         {
-          "sentence": "For information on use of our services, please see our Terms of Use.",
-          "translation": "有關我們服務的使用資訊，請參閱我們的『使用條款』。"
-        },
-        {
-          "sentence": "*Real-time prices by Nasdaq Last Sale.",
-          "translation": "*即時價格由那斯達克最後成交價提供。"
-        },
-        {
-          "sentence": "Real-time quote and/or trade prices are not sourced from all markets.",
-          "translation": "即時報價和/或交易價格並非來自所有市場。"
-        },
-        {
-          "sentence": "Ownership data provided by LSEG and Estimate data provided by FactSet.",
-          "translation": "所有權數據由LSEG提供，預估數據由FactSet提供。"
-        },
-        {
-          "sentence": "IBD, IBD Digital, IBD Live, IBD Weekly, Investor's Business Daily, Leaderboard, MarketDiem, MarketSurge and other marks are trademarks owned by Investor's Business Daily, LLC.",
-          "translation": "IBD、IBD Digital、IBD Live、IBD Weekly、『投資者商業日報』、Leaderboard、MarketDiem、MarketSurge及其他標誌均為Investor's Business Daily, LLC所擁有的商標。"
+          "sentence": "That wide moat designation means a lot to me.",
+          "translation": "那「寬潛力\"標籤對我來說很重要"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "今日台股大戶籌碼動向與國際財經新聞的深度聯結，揭示了一場精密的市場再平衡策略。儘管美股期貨預示著牛市氛圍濃厚，且即將迎來思科等科技巨頭財報，台股主力卻呈現分歧操作。外資與自營商積極買入緯創、友達及台積電（自營商），顯示對AI伺服器與面板產業鏈的信心，預期科技多頭格局延續。然而，外資與自營商同步大賣聯電、華邦電、群創等記憶體與晶圓代工股，投信也大舉出脫緯創、聯電、華碩、鴻海等科技股，這不僅反映了半導體週期性逆風的持續影響，更可能暗示主力資金正從部分漲多或具週期壓力的科技股中獲利了結或進行板塊輪動。\n與此同時，外資與投信不約而同地大買長榮航、華航等航空股，以及多檔金融股，如統一、台新新光金、兆豐金等。這與UPS財報顯示其「重質不重量」策略奏效、營收獲利雙雙超預期的國際物流利多消息形成巧妙呼應。UPS的轉型成功，暗示全球供應鏈與消費動能可能正逐步改善，為航空與金融等「舊經濟」板塊帶來復甦預期。大戶此舉，或許是提前布局非科技類股，以對沖科技股的潛在波動，或預見更廣泛的經濟復甦將惠及這些傳統產業。整體而言，今日台股主力操作並非單一方向，而是透過科技股的精準篩選與傳統產業的策略性配置，進行一場複雜而深思熟慮的跨市場套利與避險部署。"
+    "market_connection": "在金融市場中， Jeff Bezos 的大型股售出可能與 Amazon 的市場值達到 3 億美元的里程碑有密切關係。這些活動反映了 Amazon 在技術和創新領域的強大競爭力，以及其在全球經濟中的重要性。與此同時，Advanced Micro Devices (AMD) 的股價下跌可能是因為其 free cash flow 降低，而 AMD 的股價仍有 25% 的上限潛力。這些事件間的關聯性可能表明了市場對技術和創新領域的重視，以及對公司財務健康狀態的關注。因此，投資者應該考慮在這種市場環境下進行適當的風險管理和策略調整，以最大化自己的投資收益。"
   }
 }
