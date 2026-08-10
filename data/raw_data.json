@@ -1,378 +1,378 @@
 {
-  "date": "2026-08-10",
-  "stock_market_date": "2026-08-07",
+  "date": "2026-08-11",
+  "stock_market_date": "2026-08-10",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 22000373
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 64052416
         },
         {
           "rank": 2,
-          "stock_name": "統一",
-          "ticker": "1216",
-          "net_buy_shares": 20335509
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 48103660
         },
         {
           "rank": 3,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 17158210
+          "stock_name": "華新",
+          "ticker": "1605",
+          "net_buy_shares": 32071669
         },
         {
           "rank": 4,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 14196618
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 30509817
         },
         {
           "rank": 5,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_buy_shares": 14004021
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 26971564
         },
         {
           "rank": 6,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 13144500
+          "stock_name": "元大高股息",
+          "ticker": "0056",
+          "net_buy_shares": 26955048
         },
         {
           "rank": 7,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_buy_shares": 12050525
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 19044359
         },
         {
           "rank": 8,
-          "stock_name": "至上",
-          "ticker": "8112",
-          "net_buy_shares": 8478001
+          "stock_name": "陽明",
+          "ticker": "2609",
+          "net_buy_shares": 12116291
         },
         {
           "rank": 9,
-          "stock_name": "三商壽",
-          "ticker": "2867",
-          "net_buy_shares": 6380713
+          "stock_name": "萬海",
+          "ticker": "2615",
+          "net_buy_shares": 10228809
         },
         {
           "rank": 10,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 6209635
+          "stock_name": "鴻準",
+          "ticker": "2354",
+          "net_buy_shares": 10063548
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -51201712
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_sell_shares": -78294809
         },
         {
           "rank": 2,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -43331455
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -22708891
         },
         {
           "rank": 3,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -23200666
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_sell_shares": -17899558
         },
         {
           "rank": 4,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -22723224
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_sell_shares": -13969755
         },
         {
           "rank": 5,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -16911014
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_sell_shares": -13574000
         },
         {
           "rank": 6,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_sell_shares": -12690979
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_sell_shares": -10581580
         },
         {
           "rank": 7,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_sell_shares": -10896660
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_sell_shares": -10479081
         },
         {
           "rank": 8,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_sell_shares": -10745773
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -9388677
         },
         {
           "rank": 9,
-          "stock_name": "和桐",
-          "ticker": "1714",
-          "net_sell_shares": -9750633
+          "stock_name": "星宇航空",
+          "ticker": "2646",
+          "net_sell_shares": -6592000
         },
         {
           "rank": 10,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -9459855
+          "stock_name": "台中銀",
+          "ticker": "2812",
+          "net_sell_shares": -6399897
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 6997000
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_buy_shares": 8839000
         },
         {
           "rank": 2,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 6911000
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 7178434
         },
         {
           "rank": 3,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_buy_shares": 4865000
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 6747000
         },
         {
           "rank": 4,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 3985000
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_buy_shares": 4484347
         },
         {
           "rank": 5,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 2849000
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 4030164
         },
         {
           "rank": 6,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 1758000
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 2968372
         },
         {
           "rank": 7,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 1291000
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 2891311
         },
         {
           "rank": 8,
-          "stock_name": "力成",
-          "ticker": "6239",
-          "net_buy_shares": 1253000
+          "stock_name": "聯鈞",
+          "ticker": "3450",
+          "net_buy_shares": 1768000
         },
         {
           "rank": 9,
-          "stock_name": "長榮",
-          "ticker": "2603",
-          "net_buy_shares": 1183000
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 1718341
         },
         {
           "rank": 10,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 1166000
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_buy_shares": 1223000
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_sell_shares": -10276000
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -3964510
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -6691000
+          "stock_name": "金像電",
+          "ticker": "2368",
+          "net_sell_shares": -2407612
         },
         {
           "rank": 3,
-          "stock_name": "上銀",
-          "ticker": "2049",
-          "net_sell_shares": -1540000
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_sell_shares": -2070872
         },
         {
           "rank": 4,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -1516000
+          "stock_name": "技嘉",
+          "ticker": "2376",
+          "net_sell_shares": -1231160
         },
         {
           "rank": 5,
-          "stock_name": "華碩",
-          "ticker": "2357",
-          "net_sell_shares": -1179000
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_sell_shares": -1074567
         },
         {
           "rank": 6,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -861000
+          "stock_name": "雙鍵",
+          "ticker": "4764",
+          "net_sell_shares": -587000
         },
         {
           "rank": 7,
-          "stock_name": "昇陽半導體",
-          "ticker": "8028",
-          "net_sell_shares": -801000
+          "stock_name": "台勝科",
+          "ticker": "3532",
+          "net_sell_shares": -535000
         },
         {
           "rank": 8,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_sell_shares": -800000
+          "stock_name": "勤誠",
+          "ticker": "8210",
+          "net_sell_shares": -491000
         },
         {
           "rank": 9,
-          "stock_name": "英業達",
-          "ticker": "2356",
-          "net_sell_shares": -747000
+          "stock_name": "百和",
+          "ticker": "9938",
+          "net_sell_shares": -404000
         },
         {
           "rank": 10,
-          "stock_name": "中華",
-          "ticker": "2204",
-          "net_sell_shares": -695000
+          "stock_name": "亞德客-KY",
+          "ticker": "1590",
+          "net_sell_shares": -383415
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 1495000
-        },
-        {
-          "rank": 2,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_buy_shares": 912715
-        },
-        {
-          "rank": 3,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 709000
-        },
-        {
-          "rank": 4,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 659000
-        },
-        {
-          "rank": 5,
-          "stock_name": "中纖",
-          "ticker": "1718",
-          "net_buy_shares": 576608
-        },
-        {
-          "rank": 6,
-          "stock_name": "富采",
-          "ticker": "3714",
-          "net_buy_shares": 415000
-        },
-        {
-          "rank": 7,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 390000
-        },
-        {
-          "rank": 8,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 365775
-        },
-        {
-          "rank": 9,
-          "stock_name": "三商壽",
-          "ticker": "2867",
-          "net_buy_shares": 361000
-        },
-        {
-          "rank": 10,
-          "stock_name": "台塑化",
-          "ticker": "6505",
-          "net_buy_shares": 341000
-        }
-      ],
-      "dealer_sell": [
-        {
-          "rank": 1,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_sell_shares": -2037711
-        },
-        {
-          "rank": 2,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -2010326
-        },
-        {
-          "rank": 3,
           "stock_name": "聯電",
           "ticker": "2303",
-          "net_sell_shares": -1864996
+          "net_buy_shares": 3568000
+        },
+        {
+          "rank": 2,
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 2815000
+        },
+        {
+          "rank": 3,
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 2470885
         },
         {
           "rank": 4,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -1840711
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 2344000
         },
         {
           "rank": 5,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -1620581
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_buy_shares": 2144752
         },
         {
           "rank": 6,
-          "stock_name": "大成",
-          "ticker": "1210",
-          "net_sell_shares": -764966
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 1569702
         },
         {
           "rank": 7,
-          "stock_name": "廣宇",
-          "ticker": "2328",
-          "net_sell_shares": -413000
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_buy_shares": 1053000
         },
         {
           "rank": 8,
-          "stock_name": "寶成",
-          "ticker": "9904",
-          "net_sell_shares": -383000
+          "stock_name": "新興",
+          "ticker": "2605",
+          "net_buy_shares": 518000
         },
         {
           "rank": 9,
           "stock_name": "華通",
           "ticker": "2313",
-          "net_sell_shares": -339000
+          "net_buy_shares": 472569
         },
         {
           "rank": 10,
-          "stock_name": "廣達",
-          "ticker": "2382",
-          "net_sell_shares": -307626
+          "stock_name": "大聯大",
+          "ticker": "3702",
+          "net_buy_shares": 457000
+        }
+      ],
+      "dealer_sell": [
+        {
+          "rank": 1,
+          "stock_name": "愛山林",
+          "ticker": "2540",
+          "net_sell_shares": -1432000
+        },
+        {
+          "rank": 2,
+          "stock_name": "上海商銀",
+          "ticker": "5876",
+          "net_sell_shares": -792000
+        },
+        {
+          "rank": 3,
+          "stock_name": "信邦",
+          "ticker": "3023",
+          "net_sell_shares": -543000
+        },
+        {
+          "rank": 4,
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_sell_shares": -418000
+        },
+        {
+          "rank": 5,
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_sell_shares": -354861
+        },
+        {
+          "rank": 6,
+          "stock_name": "偉詮電",
+          "ticker": "2436",
+          "net_sell_shares": -208000
+        },
+        {
+          "rank": 7,
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_sell_shares": -208000
+        },
+        {
+          "rank": 8,
+          "stock_name": "台虹",
+          "ticker": "8039",
+          "net_sell_shares": -191000
+        },
+        {
+          "rank": 9,
+          "stock_name": "台灣虎航",
+          "ticker": "6757",
+          "net_sell_shares": -147000
+        },
+        {
+          "rank": 10,
+          "stock_name": "美利達",
+          "ticker": "9914",
+          "net_sell_shares": -128000
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "長榮航",
-        "shares": 7700130
+        "target": "中鋼",
+        "shares": 22418345
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "友達",
-        "shares": 598000
+        "target": "聯電",
+        "shares": 1427200
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "華航",
-        "shares": 3148650
+        "target": "旺宏",
+        "shares": 3977550
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "群創",
-        "shares": 15360513
+        "target": "華航",
+        "shares": 23488442
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "BofA points to the Eli Lilly market that could outsize the U.S.",
+      "title": "Jeff Bezos breaks his own Amazon record",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/healthcare/articles/bofa-points-eli-lilly-market-183300957.html",
-      "summary": "BofA points to the Eli Lilly market that could outsize the U.S.",
-      "full_text": "Eli Lilly (LLY) posted a second-quarter result strong enough to shift the debate around its stock.\n\nFor months, the debate centered on one worry: a slow start for its new obesity pill. That worry did not disappear in the second quarter, but it stopped driving the conversation.\n\nThe bank thinks the obesity market outside the United States could eventually surpass U.S. sales of the same drugs.\n\nFor anyone holding LLY or considering it, that international call is worth a closer look.\n\nBank of America lifted its price objective on Eli Lilly (LLY) to $1,344 from $1,334, according to a BofA Global Research report shared with me.\n\nThe bank kept its math simple, applying an unchanged 28.5 times multiple to its updated 2027 underlying earnings estimate, which removes one-time research charges.\n\nThat multiple sits above what BofA uses for other large drugmakers. Lilly is expanding faster than its peers, so the bank pays more for each dollar of future profit.\n\nLilly reported revenue of $23.0 billion, up 48% from a year earlier, and adjusted earnings of $8.38 a share against a $6.01 consensus, CNBC reported.",
-      "published": "2026-08-08T18:33:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-breaks-own-amazon-140700871.html",
+      "summary": "Jeff Bezos breaks his own Amazon record",
+      "full_text": "Amazon became the fifth company to reach a $3 trillion market cap on August 3, and its founder quickly moved to capitalize on the moment.\n\nJeff Bezos filed to sell roughly 15 million shares worth about $4.07 billion through Morgan Stanley, the second-largest single Form 144 he has filed by dollar value, behind the $5.4 billion filing he submitted on his wedding day in June 2025.\n\nTogether, the two programs put his combined dispositions since mid-2025 at roughly $9.7 billion, still short of the $13.5 billion he sold across all of 2024, which was his personal annual record.\n\nFor a company celebrating its biggest valuation milestone in years, the timing of its founder's largest-ever stock sale drew immediate scrutiny across Wall Street.\n\nThe filing, a Form 144 submitted to the Securities and Exchange Commission, details a transaction arranged through Morgan Stanley Smith Barney as broker.\n\nBezos adopted the pre-arranged trading plan on November 14, 2025, under Rule 10b5-1, meaning the sale was scheduled months before Amazon reached $3 trillion.\n\nThe shares trace back to Amazon's founding on July 5, 1994, when Bezos received his original allocation of founder stock upon incorporating the company.\n\nAmazon closed at a record $284.02 on the day the filing appeared, up 4.58% in a single session following strong second-quarter earnings results, according to 247wallst.",
+      "published": "2026-08-09T14:07:00Z"
     },
     {
       "id": "news_2",
-      "title": "UPS Completed Its Amazon Volume Pullback. Is the Turnaround Finally Working?",
+      "title": "Advanced Micro Devices Dips on Lower FCF, But Short Put Plays Attract Value Investors",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ups-completed-amazon-volume-pullback-205917884.html",
-      "summary": "UPS Completed Its Amazon Volume Pullback. Is the Turnaround Finally Working?",
-      "full_text": "United Parcel Service, Inc. (NYSE:UPS) shares surged in premarket trading on July 28 after the package-delivery company reported a second-quarter beat and raised its 2026 outlook. Revenue reached $22.83 billion, above the $21.81 billion consensus estimate, while adjusted earnings of $1.76 per share exceeded the $1.66 estimate. UPS now expects full-year revenue of approximately $91.2 billion, up from $89.7 billion, and adjusted earnings of approximately $7.22 per share.\n\nThe more important development was operational. Eighteen months after announcing an accelerated reduction in lower-margin Amazon volume, UPS said it had completed the planned \"glide down\" and the related phase of its network reconfiguration. That did not end the Amazon relationship: Amazon had accounted for more than 13% of UPS revenue at its peak, but its contribution had fallen to 8.8% by the end of the first quarter.\n\nThat strategy was always supposed to make UPS smaller before making it more profitable. The second quarter offered the clearest evidence yet that the second part may finally be starting. U.S. Domestic average daily package volume fell 3.3%, but revenue rose 6% as revenue per piece increased 9.3%. Adjusted domestic operating profit increased 21%, lifting the segment's adjusted margin to 8% from roughly 7% a year earlier.\n\nStill, the margin remains well below the International segment's 12.4%, and fuel surcharges contributed to the stronger revenue-per-piece result. The core tension is whether UPS has created a durably more profitable domestic network, or whether fuel surcharges and temporary restructuring effects made one quarter look better than the underlying cost structure.\n\nThe bull case is that UPS has begun to prove the logic behind sacrificing Amazon volume: fewer packages can produce more revenue and profit when the packages that remain carry better yields.\n\nThe domestic operating bridge is the strongest evidence. Average daily volume declined from 16.55 million packages to 16.00 million, yet U.S. Domestic revenue rose to $14.93 billion. Adjusted operating profit increased to $1.19 billion from $982 million, and the segment added approximately one percentage point of adjusted margin.\n\nThat is more meaningful than a conventional earnings beat. UPS deliberately removed a large amount of business from its network, then returned the segment to revenue growth before volume had recovered. Revenue per piece increased 9.3%, exceeding the 8% increase in adjusted cost per piece. The spread was not large, but it moved in the direction required for the \"better, not bigger\" strategy to work.\n\nThe consolidated figures reinforce the point. Revenue grew 7.6%, adjusted operating profit increased 12% to $2.10 billion, and adjusted operating margin expanded to 9.2% from 8.8%. UPS did not merely beat an earnings estimate; it produced adjusted profit growth faster than revenue growth while finishing the most disruptive phase of the Amazon transition.",
-      "published": "2026-08-09T20:59:17Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-dips-lower-140002117.html",
+      "summary": "Advanced Micro Devices Dips on Lower FCF, But Short Put Plays Attract Value Investors",
+      "full_text": "Advanced Micro Devices (AMD) reported strong Q2 revenue and earnings growth on August 4, but its free cash flow dipped below Q1 levels. Nevertheless, AMD is undervalued, and a 10% lower short put play yields 3.5% over one month.\n\nAMD closed at $483.36, down 6.8% from $518.58 on Aug. 4 before the earnings release. However, it's up from a recent trough of $429.56 on July 29. But it could have 25% more upside.\n\nCisco Systems Is In a Trading Range Ahead of Earnings - Shorting OTM Puts and Calls Works\n\nBased on a FCF analysis, it could still be worth over 25% more at $611 per share, as this article will show. Moreover, Wall Street analysts have even higher price targets. Here's why.\n\nAMD's Q2 revenue rose 50% Y/Y, and its net income was up 163%. These were better than analysts' forecasts, according to Seeking Alpha.\n\nBut the market doesn't care about GAAP accounting earnings anymore. This is because free cash flow (FCF) shows how much actual real cash the company is generating after heavy capex requirements in this AI-demand-driven age.\n\nFCF fell from $2.566 billion in Q1 to $1.558 billion in Q2, despite being higher than last year. That was $1 billion lower than in Q1.\n\nIt was due to (1) a $419 million increase in AI-related capex from Q1 to Q2 as well as (2) a $589 million drop in operating cash flow (OCF), mainly from higher working capital requirements (Stock Analysis data).",
+      "published": "2026-08-09T14:00:02Z"
     },
     {
       "id": "news_3",
-      "title": "Dow Jones Futures Loom As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
+      "title": "Wide-Moat Stocks Are the Sedative Your Tech-Dominated Portfolio Desperately Needs",
       "source": "Yahoo Finance",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
-      "summary": "Dow Jones Futures Loom As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
-      "full_text": "Dow Jones futures will open Sunday evening, along with S&P 500 futures and Nasdaq futures. Iran news is in focus. Warren Buffett's Berkshire Hathaway reported earnings on Saturday, with Cisco, Lumentum and Applied Materials among the notable companies on tap this coming week. A stock market rally is back in full force, with the S&P 500 and Dow Jones hitting…\n\n8/08/2026\n\t\t\t\t\tBerkshire Hathaway earnings rose 16%. The conglomerate is in a buy zone as investors get over their post-Buffett hangover.\n\nArtificial intelligence can help identify and manage cyber threats, but in the hands of bad actors AI also creates new risks. (© Gary Neill)\n\nGet instant access to exclusive stock lists, expert market analysis and powerful tools with 2 months of IBD Digital for only $20!\n\nLearn how you can make more money with IBD's investing tools, top-performing stock lists, and educational content.\n\nInformation in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we believe to be reliable, but we make no guarantee as to its accuracy, timeliness, or suitability, including with respect to information that appears in closed captioning. Historical investment performances are no indication or guarantee of future success or performance. Authors/presenters may own the stocks they discuss. We make no representations or warranties regarding the advisability of investing in any particular securities or utilizing any specific investment strategies. Information is subject to change without notice. For information on use of our services, please see our Terms of Use.\n\n*Real-time prices by Nasdaq Last Sale. Real-time quote and/or trade prices are not sourced from all markets. Ownership data provided by LSEG and Estimate data provided by FactSet.\n\nIBD, IBD Digital, IBD Live, IBD Weekly, Investor's Business Daily, Leaderboard, MarketDiem, MarketSurge and other marks are trademarks owned by Investor's Business Daily, LLC.",
-      "published": "2026-08-09T20:58:45Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wide-moat-stocks-sedative-tech-140002032.html",
+      "summary": "Wide-Moat Stocks Are the Sedative Your Tech-Dominated Portfolio Desperately Needs",
+      "full_text": "The VanEck Morningstar Wide Moat ETF (MOAT) used to be my favorite equity ETF. It can't be anymore. Why? Because I'm convinced that equity investing has changed so dramatically that stocks are more like wagers in a casino. That means it's best not to play favorites and to let the charts be my guide.\n\nSo it is intriguing to see MOAT, which owns a set of stocks considered to have sustainable competitive advantages (\"wide moats\"), breaking out to new highs. Does it mean that the market is finally coming to its senses again?\n\nIf you are worried about high stock market valuations and top-heavy mega-cap tech concentration, the VanEck Morningstar Wide Moat ETF offers a practical alternative. Because while it is an index ETF, it does not just buy big companies. It targets U.S. large-cap firms that possess a verified \"economic moat,\" meaning structural competitive advantages like strong patents, brand power, high customer switching costs, or network effects. Crucially, the fund only buys these high-quality companies when Morningstar's analysts determine they are trading at an attractive price relative to their fair value.\n\nStandard S&P 500 Index ($SPX) funds are heavily weighted toward a tiny handful of massive tech giants. MOAT uses an equal-weighted approach across its holdings. This provides true large-cap exposure without putting all your eggs in the same tech basket.\n\nHigh-flying stocks occasionally get overextended. Because MOAT rebalances systematically by selling companies that become overvalued and buying those trading at a discount, it naturally acts as a value-oriented shock absorber.\n\nCompanies with genuine competitive moats can raise prices when input costs rise without losing their customers. That pricing power protects profit margins better than standard growth stocks during sticky inflation or choppy economic cycles. With the current inflation overhang, this is even more timely than usual.\n\nBecause MOAT avoids overvalued high-flyers, it can underperform the broader S&P 500 when a few massive mega-cap stocks are driving the entire market higher. The ETF relies on Morningstar's human analysts to estimate \"fair value\" and identify \"moats.\" If analysts misjudge a company's competitive advantage or future earnings, the fund can hold an underperforming stock longer than expected. And, rebalancing based on valuation means MOAT can swing significantly between sectors (like industrials, healthcare, or financials) depending on where bargains appear.\n\nWhile I am generally a fan of highly concentrated stock ETFs, MOAT serves a second, important role for me. It is one of the first places I look to identify stocks with solid fundamentals, when hunting for stocks to trade while they are at a discount. That wide moat designation means a lot to me.",
+      "published": "2026-08-09T14:00:02Z"
     }
   ]
 }
