@@ -1,400 +1,442 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "stock_uncle_insight": {
-    "date_header": "8/11 法人與主力大戶主要買超股票",
+    "date_header": "8/12 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：高檔出貨，低檔卡位景氣循環股",
+        "group_title": "1. 外資大戶：資金大挪移，狂掃記憶體與傳產，倒貨面板與金融",
         "stocks": [
+          {
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "肖年仔，你看這華邦電，外資狂掃 3.78 萬張！這擺明是看好記憶體景氣要翻身，低檔布局，準備等著拉高出貨啦！"
+          },
+          {
+            "stock_name": "至上",
+            "ticker": "8112",
+            "description": "至上也被外資買超 3.3 萬張，這跟華邦電一樣，都是記憶體相關的，外資這波是鐵了心要卡位記憶體復甦行情，韭菜們別傻傻去接面板刀啊！"
+          },
           {
             "stock_name": "中鋼",
             "ticker": "2002",
-            "description": "肖年仔，外資這群大咖，狂掃中鋼超過 6.4 萬張，擺明就是看好原物料底部翻揚，把資金從高檔股抽出來，轉進這種低基期、有基本面支撐的傳產股啦！"
+            "description": "中鋼這檔傳產龍頭，外資也買了 2.92 萬張。這顯示部分資金在電子股高檔震盪時，會轉往相對穩健的傳產股避險，或是看好原物料後市。"
           },
           {
-            "stock_name": "群創",
-            "ticker": "3481",
-            "description": "面板股群創被外資敲進 4.8 萬張，這很明顯是看好面板產業谷底翻身，準備卡位景氣復甦的行情，肖年仔，這種跌深反彈的機會，外資可不會放過。"
+            "stock_name": "第一金",
+            "ticker": "2892",
+            "description": "外資買超第一金 2.37 萬張，但同時又大賣其他金控股。這操作很賊，可能是對沖避險，或是挑特定金控做波段，不是全面看好金融喔！"
           },
           {
-            "stock_name": "華新",
-            "ticker": "1605",
-            "description": "華新也被外資買超 3.2 萬張，這檔電線電纜、不鏽鋼的資源整合股，跟著原物料行情走，外資在找低基期的傳產股，這就是他們的目標之一。"
-          },
-          {
-            "stock_name": "南亞科",
-            "ticker": "2408",
-            "description": "DRAM大廠南亞科，外資也買了 3.05 萬張，記憶體族群之前跌得鼻青臉腫，現在外資進來撿便宜，賭的就是記憶體景氣反轉，肖年仔，這就是接刀的勇氣，但也要看準時機。"
-          },
-          {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "晶圓代工二哥聯電，外資買超 2.7 萬張，這檔也是半導體族群中相對低基期的，外資在找有護城河、評價合理的標的，聯電自然入列。"
-          },
-          {
-            "stock_name": "元大高股息",
-            "ticker": "0056",
-            "description": "連元大高股息ETF都買了 2.7 萬張，這就更明顯了，外資在市場震盪的時候，把資金轉進這種有防禦性、能領息的ETF，避險兼顧收益，穩紮穩打啦！"
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "0050 被外資買超 1.85 萬張，這很明顯是避險盤，大盤不確定性高，買ETF是最保險的作法，進可攻退可守，穩穩賺大盤的錢。"
           }
         ]
       },
       {
-        "group_title": "2. 投信大戶（本土國家隊）：結帳AI，轉進金融與低基期電子",
+        "group_title": "2. 投信大戶（本土國家隊）：季底作帳秀，狂拉金控股",
         "stocks": [
           {
-            "stock_name": "旺宏",
-            "ticker": "2337",
-            "description": "投信這本土國家隊，狂掃旺宏 0.88 萬張，跟外資在記憶體族群的動作有異曲同工之妙，擺明就是看好NOR Flash產業築底，準備作帳拉抬啦！"
-          },
-          {
-            "stock_name": "凱基金",
-            "ticker": "2883",
-            "description": "凱基金被投信買超 0.71 萬張，金融股雖然外資在倒，但本土投信卻在接，這可能是在找防禦性標的，或是看好金融股的殖利率，準備年底作帳衝一波。"
+            "stock_name": "台新新光金",
+            "ticker": "2887",
+            "description": "投信狂買台新新光金 1.02 萬張，這就是典型的季底作帳行情啦！基金經理人為了績效，會把持股拉高，讓帳面數字好看，肖年仔別傻傻追高啊！"
           },
           {
             "stock_name": "華南金",
             "ticker": "2880",
-            "description": "華南金也被投信買了 0.67 萬張，跟凱基金一樣，投信在金融股上跟外資對作，肖年仔，這就是內外資對市場看法不同調，但投信通常會找相對穩健的標的來佈局。"
+            "description": "華南金也被投信買超 6.09 千張，跟台新新光金一樣，都是金控股，投信這波就是鎖定金融股在作帳，想跟單的要小心，作帳完可能就倒貨了。"
           },
           {
-            "stock_name": "日月光投控",
-            "ticker": "3711",
-            "description": "封測龍頭日月光投控，投信也敲進 0.44 萬張，這代表他們對半導體下游的復甦有期待，或是認為這檔股票的評價面相對合理，值得進場卡位。"
+            "stock_name": "凱基金",
+            "ticker": "2883",
+            "description": "凱基金也入列，投信買超 5.28 千張。本土國家隊這幾天就是把金融股當提款機，拉高出貨或美化財報，這招老狗變不出新把戲啦！"
+          },
+          {
+            "stock_name": "南亞",
+            "ticker": "1303",
+            "description": "南亞被投信買超 4.5 千張，這檔塑化股，投信買進可能是在配置傳產部位，或是看好其在電子材料的佈局，但量能不算特別突出。"
+          },
+          {
+            "stock_name": "和碩",
+            "ticker": "4938",
+            "description": "和碩被投信買超 3.57 千張，這組裝廠，投信買進可能是看好蘋果新機或AI伺服器題材，但也要注意是不是短線操作。"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：跟風外資，鎖定低基期與避險標的",
+        "group_title": "3. 內資主力與實戶：短線避險與低接半導體",
         "stocks": [
           {
             "stock_name": "聯電",
             "ticker": "2303",
-            "description": "自營商也買超聯電 0.35 萬張，跟外資同步買進，這表示內資主力也看好聯電的低基期優勢，準備跟著大咖一起炒一波，肖年仔，這就是市場共識的展現。"
+            "description": "自營商買超聯電 1.39 千張，這檔晶圓代工二哥，外資也買，自營商也買，顯示市場對半導體族群的看法開始轉趨正面，但自營商通常是短線操作，隔日沖的機率不低。"
           },
           {
-            "stock_name": "中鋼",
-            "ticker": "2002",
-            "description": "中鋼也被自營商買超 0.28 萬張，跟外資一樣，內資主力也嗅到原物料股的機會，這種跌深有量的股票，就是他們短線進出的好標的。"
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "自營商買超 0050 723 張，跟外資一樣，都是在買ETF避險，大盤震盪，先求穩再求賺，這是老手們的共識。"
           },
           {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "華邦電也被自營商買了 0.24 萬張，記憶體族群是內外資共同看好的低基期板塊，自營商當然不會錯過，準備在景氣反轉前先卡位。"
+            "stock_name": "南亞",
+            "ticker": "1303",
+            "description": "南亞被自營商買超 585 張，這跟投信的動作有點像，可能是在傳產股中尋找相對低基期或有題材的標的，但自營商的量通常不大，短線成分居多。"
           },
           {
-            "stock_name": "群創",
-            "ticker": "3481",
-            "description": "面板股群創，自營商也買超 0.23 萬張，這跟外資的動作完全一致，顯示內資主力也認為面板股有補漲空間，準備跟著大咖一起賺一筆。"
+            "stock_name": "富邦科技",
+            "ticker": "0052",
+            "description": "自營商買超富邦科技 537 張，這檔電子科技ETF，顯示自營商看好電子股的整體表現，但又不想單壓個股，所以選擇ETF來分散風險。"
+          },
+          {
+            "stock_name": "力積電",
+            "ticker": "6770",
+            "description": "力積電被自營商買超 497 張，這檔記憶體與晶圓代工廠，跟外資買華邦電、南亞科的邏輯類似，都是在低檔布局半導體，但自營商的量小，通常是短打。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔避險與資金避風港（金融、航空轉出，高股息ETF轉入）",
-        "strategy_content": "肖年仔，外資這群人，今天狂倒華航、星宇這些航空股，還有第一金、合庫金等金融股，加起來倒了超過 10 萬張，這擺明就是把之前漲多的股票獲利了結，資金撤出高風險板塊。同時，他們卻買進元大高股息ETF，這就是典型的避險操作，在大盤震盪不安的時候，把錢轉到有防禦性、能領息的標的，求個心安啦！"
+        "strategy_title": "策略一：外資大戶換股操作，從高檔轉進低基期半導體與傳產",
+        "strategy_content": "肖年仔，你看外資這次操作很明顯，大賣面板雙虎（友達、群創）跟航空股（華航），這些都是之前漲多的股票，現在獲利了結，把資金倒出來。然後呢？他們轉手就去狂掃記憶體（華邦電、至上、南亞科）跟部分晶圓代工（聯電），這擺明是看好半導體產業谷底翻揚，趁現在低基期卡位。同時也買進中鋼、華新等傳產，這是在電子股震盪時，找相對穩健的傳產股避險，或是看好原物料後市，這就是大戶的資金挪移術啦！"
       },
       {
-        "strategy_title": "策略二：低基期與景氣循環股卡位（鋼鐵、面板、記憶體、晶圓代工）",
-        "strategy_content": "外資和自營商同步大買中鋼、群創、華新、南亞科、聯電、華邦電這些股票，這些都是過去一段時間表現不佳，甚至處於產業谷底的景氣循環股。特別是記憶體和面板，這就是主力在賭產業景氣反轉，準備在底部卡位。國際新聞也提到AMD的自由現金流下降，市場對高估值科技股開始謹慎，轉向有「護城河」或評價面低的標的，這跟我們台股主力在找低基期股的邏輯不謀而合啦！"
+        "strategy_title": "策略二：投信季底作帳，狂拉金控股美化財報",
+        "strategy_content": "本土國家隊投信，這招老狗變不出新把戲啦！你看他們狂掃台新新光金、華南金、凱基金這些金控股，這就是典型的季底作帳行情。基金經理人為了讓基金淨值好看，會把持股拉高，等財報公布後，這些股票可能就會被倒貨。肖年仔們，別傻傻地去追高，小心被割韭菜！這波金融股的漲勢，很多都是作帳行情撐起來的，要特別留意風險。"
       },
       {
-        "strategy_title": "策略三：AI概念股獲利了結與資金轉移（投信結帳AI，轉進金融與記憶體）",
-        "strategy_content": "投信這本土國家隊，今天大賣技嘉、緯創、勤誠這些AI概念股，加起來倒了超過 0.2 萬張，這很明顯是前期漲幅過大後的獲利了結，準備結帳啦！這些錢並沒有閒著，反而轉進了旺宏這種記憶體股，還有凱基金、華南金等金融股。這表示資金正在從高估值的AI股，轉向低基期或有補漲空間的金融、記憶體族群，肖年仔，這就是資金輪動的節奏，別傻傻追高被割韭菜！"
+        "strategy_title": "策略三：內資避險與短線操作，ETF與半導體並重",
+        "strategy_content": "自營商跟部分內資主力，他們的動作通常比較短線。這次他們大賣第一金、面板雙虎，跟外資的賣超方向一致，顯示對這些股票的看法偏空。但他們也買進聯電、力積電等半導體股，跟外資一樣看好半導體。同時，他們也買進元大台灣50和富邦科技這些ETF，這就是典型的避險操作，大盤不確定性高，買ETF可以分散風險，又能參與市場漲勢。這就是短線操作與避險兼顧的策略啦！"
       }
     ],
-    "summary": "肖年仔，今天主力大戶的動作很清楚，就是『高檔出貨、低檔卡位』，把資金從漲多的航空、金融和AI概念股抽出來，轉進低基期的鋼鐵、面板、記憶體和晶圓代工，還有防禦性的高股息ETF，這就是避險兼佈局，準備迎接下一波行情啦！",
+    "summary": "肖年仔，今天大戶們的動作很清楚，外資在換股，從舊經濟轉新經濟，投信在作帳，狂拉金融股，自營商則在短線避險。記住，跟著大戶走，但別傻傻追高，小心被倒貨！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 2.24 萬張",
-        "uncle_logic": "肖年仔，高盛這咖，買中鋼這麼大筆，擺明就是看好原物料底部翻揚，或是要跟著大盤輪動，把資金從高檔電子股抽出來，轉進這種低基期、有基本面支撐的傳產股啦！這不是亂買，是精準卡位。"
+        "action": "買超 1.32 萬張",
+        "uncle_logic": "美商高盛這外資大咖，狂掃華邦電 1.32 萬張，這擺明是看好記憶體產業要觸底反彈，提前布局。這不是短線，是真外資在鎖碼，準備吃大波段的肉啦！"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 0.14 萬張",
-        "uncle_logic": "凱基台北這咖，出了名的隔日沖大戶。今天買聯電，聯電外資也大買，擺明就是想搭順風車，明天看能不能拉高出貨，割一波韭菜。肖年仔，這種分點的單，你可要小心，別傻傻去接刀！"
+        "action": "買超 559 張",
+        "uncle_logic": "凱基台北這分點，買聯電 559 張，這量不大，但這家分點是出了名的隔日沖大戶，今天買，明天高機率就倒貨給你，肖年仔別傻傻去接刀啊！"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 0.39 萬張",
-        "uncle_logic": "元大投信這本土國家隊，買旺宏這麼多，很明顯是在作帳啦！旺宏記憶體族群，之前跌深，現在投信進來拉抬，可能是看好產業築底，也可能是為了年底績效，先卡位低基期電子股。肖年仔，跟著投信的腳步，有時候會有肉吃，但要小心他們結帳的時候。"
+        "action": "買超 4.59 千張",
+        "uncle_logic": "元大投信買超台新新光金 4.59 千張，這就是投信自家券商在幫自家基金作帳啦！拉高股價，美化帳面，等著結帳完就可能放手，這招很常見，韭菜們要看清楚！"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 2.34 萬張",
-        "uncle_logic": "摩根大通這外資大咖，狂倒華航，擺明就是對航空股漲多有疑慮，獲利了結啦！之前航空股漲得跟什麼一樣，現在外資開始倒貨，肖年仔，這就是高檔出貨的訊號，別傻傻地以為還能飛天，小心被套在高點！"
+        "action": "賣超 1.68 萬張",
+        "uncle_logic": "摩根大通這外資大咖，大賣友達 1.68 萬張，這跟外資整體大賣面板股的趨勢一致。這代表他們對面板景氣看法悲觀，或是之前已經賺飽飽，現在準備拉高出貨，割韭菜啦！"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "Jeff Bezos breaks his own Amazon record",
+      "title": "億illionaire sues ex-employee over alleged theft",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-breaks-own-amazon-140700871.html",
-      "level1_blind": "{\"text\": \"Amazon became the fifth company to reach a $3 trillion market cap on August 3, and its founder quickly moved to capitalize on the moment.\n\nJeff Bezos filed to sell roughly 15 million shares worth about $4.07 billion through Morgan Stanley, the second-largest single Form 144 he has filed by dollar value, behind the $5.4 billion filing he submitted on his wedding day in June 2025.\n\nTogether, the two programs put his combined dispositions since mid-2025 at roughly $9.7 billion, still short of the $13.5 billion he sold across all of 2024, which was his personal annual record.\n\nFor a company celebrating its biggest valuation milestone in years, the timing of its founder's largest-ever stock sale drew immediate scrutiny across Wall Street.\n\nThe filing, a Form 144 submitted to the Securities and Exchange Commission, details a transaction arranged through Morgan Stanley Smith Barney as broker.\n\nBezos adopted the pre-arranged trading plan on November 14, 2025, under Rule 10b5-1, meaning the sale was scheduled months before Amazon reached $3 trillion.\n\nThe shares trace back to Amazon's founding on July 5, 1994, when Bezos received his original allocation of founder stock upon incorporating the company.\n\nAmazon closed at a record $284.02 on the day the filing appeared, up 4.58% in a single session following strong second-quarter earnings results, according to 247wallst.\"}",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/billionaire-sues-ex-employee-over-005000617.html",
+      "level1_blind": {
+        "text": "Russell Wilson is the billionaire founder of CoinSpot, one of Australia's largest cryptocurrency trading exchanges. Founded in 2013, CoinSpot reported a $270 million net profit in the 2025 financial year.\n\nOn Aug. 10, a local media outlet reported that he has sued an ex-employee for allegedly stealing around $500,000 from the exchange.\n\nThe court documents filed by CoinSpot's parent company, Casey Block Services, claim that customer support team member Iresh Pawan Perera moved $478,932 out of the company into his personal bank account across 76 transactions in the two years to March.\n\nThe lawsuit claims Perera converted CoinSpot's digital currency for “his own use by exchanging it” into cash. His job was terminated immediately on March 9 because the alleged misappropriation of funds amounted to “material breaches” of his employment agreement. Perera is yet to file a defence.\n\nWilson's company is seeking damages worth $478,932, in addition to interest. The case will resume in September.\n\nA CoinSpot spokeswoman told the publication that she could not reveal more details about the crypto exchange's legal battle with its ex-employee while the matter is sub judice.\n\n“CoinSpot enforces robust safeguards to ensure operations and assets remain secure,” she said. “We take the security of our customers' holdings extremely seriously and have not had customer funds impacted on our platform. CoinSpot has zero tolerance for fraud and will always work closely with law enforcement to protect our users.”\n\nThis story was originally published by TheStreet on Aug 10, 2026, where it first appeared in the MARKETS section. Add TheStreet as a Preferred Source by clicking here."
+      },
       "level2_keywords": [
         {
-          "word": "market",
-          "ipa": "/mɑrkeɪt/",
-          "meaning": "市場"
+          "word": "CoinSpot",
+          "ipa": "",
+          "meaning": "超主市　一个七的万四叉送。",
+          "example": "超主市　一个七的万四叉送。"
         },
         {
-          "word": "valuation",
-          "ipa": "/væljuˈeɪʃən/",
-          "meaning": "評估價值"
+          "word": "cryptocurrency",
+          "ipa": "",
+          "meaning": "超主市　一个七的四叉送。",
+          "example": "超主市　一个七的四叉送。"
         },
         {
-          "word": "dispositions",
-          "ipa": "/dɪsˈpoʊʒiənz/",
-          "meaning": "行為或決定"
+          "word": "alleged",
+          "ipa": "",
+          "meaning": "超主市　一个七的四叉送。",
+          "example": "超主市　一个七的四叉送。"
         },
         {
-          "word": "stock",
-          "ipa": "/stɔk/",
-          "meaning": "股票"
+          "word": "breaches",
+          "ipa": "",
+          "meaning": "超主市　一个七的四叉送。",
+          "example": "超主市　一个七的四叉送。"
         },
         {
-          "word": "marketcap",
-          "ipa": "/mɑrkeɪtˈkæp/",
-          "meaning": "市場 capital"
+          "word": "fraud",
+          "ipa": "",
+          "meaning": "超主市　一个七的四叉送。",
+          "example": "超主市　一个七的四叉送。"
         }
       ],
-      "level2_context": "\n這篇文章描述了 Jeff Bezos 在 Amazon 辭職後出售公司股份的事件，該事件引發 Wall Street 的關注。\nAmazon 的 $3 trillion 市值是其歷史上最大的一次達到，Jeff Bezos 的出售股份計畫也使他成為第一個在公司成立時就持有 1% 股權的 CEO。\n這些行為表明了 Bezos 對 Amazon 的長期信念和投資意向。\n",
+      "level2_context": "超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。市主　一个七的超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。",
       "level3_translation": [
         {
-          "sentence": "Amazon became the fifth company to reach a $3 trillion market cap on August 3, and its founder quickly moved to capitalize on the moment.",
-          "translation": ""
+          "sentence": "Russell Wilson is the billionaire founder of CoinSpot, one of Australia's largest cryptocurrency trading exchanges.",
+          "translation": "超主市　一个七的万四叉送。一个七的超主市　一个七的四叉送。"
         },
         {
-          "sentence": "Jeff Bezos filed to sell roughly 15 million shares worth about $4.07 billion through Morgan Stanley, the second-largest single Form 144 he has filed by dollar value, behind the $5.4 billion filing he submitted on his wedding day in June 2025.",
-          "translation": ""
+          "sentence": "On Aug. 10, a local media outlet reported that he has sued an ex-employee for allegedly stealing around $500,000 from the exchange.",
+          "translation": "市月一公万　一个七的超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。"
         },
         {
-          "sentence": "Together, the two programs put his combined dispositions since mid-2025 at roughly $9.7 billion, still short of the $13.5 billion he sold across all of 2024, which was his personal annual record.",
-          "translation": ""
+          "sentence": "The court documents filed by CoinSpot's parent company, Casey Block Services, claim that customer support team member Iresh Pawan Perera moved $478,932 out of the company into his personal bank account across 76 transactions in the two years to March.",
+          "translation": "超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。"
         },
         {
-          "sentence": "For a company celebrating its biggest valuation milestone in years, the timing of its founder's largest-ever stock sale drew immediate scrutiny across Wall Street.",
-          "translation": ""
+          "sentence": "The lawsuit claims Perera converted CoinSpot's digital currency for “his own use by exchanging it” into cash.",
+          "translation": "超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。"
         },
         {
-          "sentence": "The filing, a Form 144 submitted to the Securities and Exchange Commission, details a transaction arranged through Morgan Stanley Smith Barney as broker.",
-          "translation": ""
+          "sentence": "His job was terminated immediately on March 9 because the alleged misappropriation of funds amounted to “material breaches” of his employment agreement.",
+          "translation": "超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。"
         },
         {
-          "sentence": "Bezos adopted the pre-arranged trading plan on November 14, 2025, under Rule 10b5-1, meaning the sale was scheduled months before Amazon reached $3 trillion.",
-          "translation": ""
+          "sentence": "Perera is yet to file a defence.",
+          "translation": "超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。"
         },
         {
-          "sentence": "The shares trace back to Amazon's founding on July 5, 1994, when Bezos received his original allocation of founder stock upon incorporating the company.",
-          "translation": ""
+          "sentence": "Wilson's company is seeking damages worth $478,932, in addition to interest.",
+          "translation": "超主市　一个七的超主市　一个七的超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。"
         },
         {
-          "sentence": "Amazon closed at a record $284.02 on the day the filing appeared, up 4.58% in a single session following strong second-quarter earnings results, according to 247wallst.",
-          "translation": ""
+          "sentence": "一个七的超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。",
+          "translation": "超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。"
+        },
+        {
+          "sentence": "一个七的超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。",
+          "translation": "超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Advanced Micro Devices Dips on Lower FCF, But Short Put Plays Attract Value Investors",
+      "title": "Bullish Oil Bets Shrink for a Second Week Running, COT Data Show",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-dips-lower-140002117.html",
-      "level1_blind": "Advanced Micro Devices (AMD) reported strong Q2 revenue and earnings growth on August 4, but its free cash flow dipped below Q1 levels. Nevertheless, AMD is undervalued, and a 10% lower short put play yields 3.5% over one month.\n\nAMD closed at $483.36, down 6.8% from $518.58 on Aug. 4 before the earnings release. However, it's up from a recent trough of $429.56 on July 29. But it could have 25% more upside.\n\nCisco Systems Is In a Trading Range Ahead of Earnings - Shorting OTM Puts and Calls Works\n\nBased on a FCF analysis, it could still be worth over 25% more at $611 per share, as this article will show. Moreover, Wall Street analysts have even higher price targets. Here's why.\n\nAMD's Q2 revenue rose 50% Y/Y, and its net income was up 163%. These were better than analysts' forecasts, according to Seeking Alpha.\n\nBut the market doesn't care about GAAP accounting earnings anymore. This is because free cash flow (FCF) shows how much actual real cash the company is generating after heavy capex requirements in this AI-demand-driven age.\n\nFCF fell from $2.566 billion in Q1 to $1.558 billion in Q2, despite being higher than last year. That was $1 billion lower than in Q1.\n\nIt was due to (1) a $419 million increase in AI-related capex from Q1 to Q2 as well as (2) a $589 million drop in operating cash flow (OCF), mainly from higher working capital requirements (Stock Analysis data).",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/bullish-oil-bets-shrink-second-140000926.html",
+      "level1_blind": "Money managers have reduced their bullish bets on both Brent and WTI crude futures over the past two weeks despite little progress on a potential reopening of the Strait of Hormuz.\n\nIn the latest reporting week to August 4, portfolio managers trimmed their net long position in NYMEX WTI by 7,257 lots to 101,050 lots, data from the exchanges found. The net long position, the difference between bullish and bearish bets, in ICE Brent crude oil futures was slashed by 11%, or by 20,361 lots to 164,722 lots.\n\nThis was the second consecutive weekly decline in speculative positions in the two key crude oil futures benchmarks as traders and speculators are hesitant to add more bullish bets on a price rally.\n\nOil prices have dropped over the past two weeks amid hopes that the Strait of Hormuz could reopen and Iran and Oman could reach a deal on a joint management of some of the lanes.\n\n\"Speculative sentiment turned more cautious last week,\" ING's commodities strategists Warren Patterson and Ewa Manthey wrote in a note early on Monday.\n\nAccording to Ole Hansen, Head of Commodity Strategy at Saxo Bank, the energy complex saw reduced exposure in the weekly Commitment of Traders report through August 4 despite persistent supply risks.\n\n\"Renewed price weakness drove a 25k reduction in the combined crude net long to 266k contracts, following 171k of net buying during the previous three weeks,\" Hansen said.\n\n\"Despite persistent geopolitical supply risks, positioning continues to signal limited conviction in a sustained price rally,\" the commodity expert noted.",
       "level2_keywords": [
         {
-          "word": "capex",
-          "ipa": "/kæpɛks/",
-          "meaning": "資產負債償還費用",
-          "example": "公司的capex增加了10%，表明其在研發新產品上投入了更多資金"
+          "word": "Brent",
+          "ipa": "/brent/",
+          "meaning": "布倫特 crude oil futures",
+          "example": "ICE Brent crude oil futures"
         },
         {
-          "word": "FCF",
-          "ipa": "/ɪfɪsi/",
-          "meaning": "自由現金流",
-          "example": "企業的FCF是衡量其財務健康性的重要指標"
+          "word": "WTI",
+          "ipa": "/wti/",
+          "meaning": "韋克太爾 crude oil futures",
+          "example": "NYMEX WTI"
         },
         {
-          "word": "AI",
-          "ipa": "/eɪi/",
-          "meaning": "人工智能",
-          "example": "公司在AI領域取得了重大突破，推動了產業的發展"
+          "word": "speculative",
+          "ipa": "/spɛˈskʊlɪv/",
+          "meaning": "猜測性",
+          "example": "Speculative sentiment turned more cautious last week,"
         },
         {
-          "word": "working capital",
-          "ipa": "/ˈwʊrkɪŋ kæpɪtəl/",
-          "meaning": "工作資本",
-          "example": "公司的working capital需要增加，以應對市場變化"
+          "word": "Commitment of Traders",
+          "ipa": "/kəmɪtˈment ɒf trædərz/",
+          "meaning": "貿易承諾報告",
+          "example": "the energy complex saw reduced exposure in the weekly Commitment of Traders report"
         },
         {
-          "word": "valuation",
-          "ipa": "/vəˈleɪʃən/",
-          "meaning": "評估價值",
-          "example": "企業的valuation是衡量其財務健康性的重要指標"
+          "word": "renewed",
+          "ipa": "/rɪˈnuːd/",
+          "meaning": "重新開始的",
+          "example": "\"Renewed price weakness drove a 25k reduction in the combined crude net long to 266k contracts,\""
         }
       ],
-      "level2_context": "這篇文章討論了AMD的財務表現，特別是其free cash flow（FCF）的變化。根據分析，AMD的FCF仍然是公司財務健康性的關鍵指標，尤其是在AI領域的競爭中。然而，市場對於GAAP會計收益的看法正在慢慢改變，越來越多的人關注的是實際的現金流。這篇文章將探討這些變化的原因和影響.",
+      "level2_context": "\n\n這篇文章主要是關於油價的變化，特別是在布倫特和韋克太爾 crude oil futures 的方面。雖然有了對 Strait of Hormuz 可能重新開放的希望，但 Oil prices 升高的可能性仍然存在。\n\n這些 news 中提到的「speculative sentiment」指的是投資者的猜測性態度， recent report 表示這種態度正在變得更加謹慎。同時，對於油價的分析也提到了供應風險的持續存在，但目前市場的表現仍然沒有足夠的信心支持長期上漲。\n\n",
       "level3_translation": [
         {
-          "sentence": "Advanced Micro Devices (AMD) reported strong Q2 revenue and earnings growth on August 4, but its free cash flow dipped below Q1 levels.",
-          "translation": "AMD在8月4日公布了強大的Q2財務收入和利益增長，但其自由現金流下降到Q1水平"
-        },
-        {
-          "sentence": "Nevertheless, AMD is undervalued, and a 10% lower short put play yields 3.5% over one month.",
-          "translation": "不過，AMD仍然是低估的，短期內10%的短賣買單可以獲得3.5%的回報"
-        },
-        {
-          "sentence": "Cisco Systems Is In a Trading Range Ahead of Earnings - Shorting OTM Puts and Calls Works",
+          "sentence": "Money managers have reduced their bullish bets on both Brent and WTI crude futures over the past two weeks despite little progress on a potential reopening of the Strait of Hormuz.",
           "translation": ""
         },
         {
-          "sentence": "Based on a FCF analysis, it could still be worth over 25% more at $611 per share, as this article will show.",
-          "translation": "根據自由現金流分析，該公司仍然有25%以上的上升價值，在每股$611時"
-        },
-        {
-          "sentence": "Moreover, Wall Street analysts have even higher price targets.",
+          "sentence": "In the latest reporting week to August 4, portfolio managers trimmed their net long position in NYMEX WTI by 7,257 lots to 101,050 lots, data from the exchanges found.",
           "translation": ""
         },
         {
-          "sentence": "These were better than analysts' forecasts, according to Seeking Alpha.",
-          "translation": "這些結果超出了-wall street分析師的預測，根據Seeking Alpha"
-        },
-        {
-          "sentence": "But the market doesn't care about GAAP accounting earnings anymore.",
+          "sentence": "The net long position, the difference between bullish and bearish bets, in ICE Brent crude oil futures was slashed by 11%, or by 20,361 lots to 164,722 lots.",
           "translation": ""
         },
         {
-          "sentence": "This is because free cash flow (FCF) shows how much actual real cash the company is generating after heavy capex requirements in this AI-demand-driven age.",
-          "translation": "因為自由現金流（FCF）可以顯示公司在這個AI需求驅動的時代後面，對應的實際現金流"
-        },
-        {
-          "sentence": "FCF fell from $2.566 billion in Q1 to $1.558 billion in Q2, despite being higher than last year.",
+          "sentence": "This was the second consecutive weekly decline in speculative positions in the two key crude oil futures benchmarks as traders and speculators are hesitant to add more bullish bets on a price rally.",
           "translation": ""
         },
         {
-          "sentence": "That was $1 billion lower than in Q1.",
+          "sentence": "Oil prices have dropped over the past two weeks amid hopes that the Strait of Hormuz could reopen and Iran and Oman could reach a deal on a joint management of some of the lanes.",
           "translation": ""
         },
         {
-          "sentence": "It was due to (1) a $419 million increase in AI-related capex from Q1 to Q2 as well as (2) a $589 million drop in operating cash flow (OCF), mainly from higher working capital requirements (Stock Analysis data).",
+          "sentence": "\"Speculative sentiment turned more cautious last week,\" ING's commodities strategists Warren Patterson and Ewa Manthey wrote in a note early on Monday.",
+          "translation": ""
+        },
+        {
+          "sentence": "According to Ole Hansen, Head of Commodity Strategy at Saxo Bank, the energy complex saw reduced exposure in the weekly Commitment of Traders report through August 4 despite persistent supply risks.",
+          "translation": ""
+        },
+        {
+          "sentence": "\"Renewed price weakness drove a 25k reduction in the combined crude net long to 266k contracts, following 171k of net buying during the previous three weeks,\" Hansen said.",
+          "translation": ""
+        },
+        {
+          "sentence": "\"Despite persistent geopolitical supply risks, positioning continues to signal limited conviction in a sustained price rally,\" the commodity expert noted.",
           "translation": ""
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Wide-Moat Stocks Are the Sedative Your Tech-Dominated Portfolio Desperately Needs",
+      "title": "EUR/USD, GBP/USD, and USD/CAD 舒 Short-Term Forecast for 10/8/2026",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wide-moat-stocks-sedative-tech-140002032.html",
-      "level1_blind": "<p>The VanEck Morningstar Wide Moat ETF (MOAT) used to be my favorite equity ETF. It can't be anymore. Why? Because I'm convinced that equity investing has changed so dramatically that stocks are more like wagers in a casino. That means it's best not to play favorites and to let the charts be my guide.</p>\n\nSo it is intriguing to see MOAT, which owns a set of stocks considered to have sustainable competitive advantages (\"wide moats\"), breaking out to new highs. Does it mean that the market is finally coming to its senses again?</p>\n\nIf you are worried about high stock market valuations and top-heavy mega-cap tech concentration, the VanEck Morningstar Wide Moat ETF offers a practical alternative. Because while it is an index ETF, it does not just buy big companies. It targets U.S. large-cap firms that possess a verified \"economic moat,\" meaning structural competitive advantages like strong patents, brand power, high customer switching costs, or network effects. Crucially, the fund only buys these high-quality companies when Morningstar's analysts determine they are trading at an attractive price relative to their fair value.</p>\n\nStandard S&P 500 Index ($SPX) funds are heavily weighted toward a tiny handful of massive tech giants. MOAT uses an equal-weighted approach across its holdings. This provides true large-cap exposure without putting all your eggs in the same tech basket.</p>\n\nHigh-flying stocks occasionally get overextended. Because MOAT rebalances systematically by selling companies that become overvalued and buying those trading at a discount, it naturally acts as a value-oriented shock absorber.</p>\n\nCompanies with genuine competitive moats can raise prices when input costs rise without losing their customers. That pricing power protects profit margins better than standard growth stocks during sticky inflation or choppy economic cycles. With the current inflation overhang, this is even more timely than usual.</p>\n\nBecause MOAT avoids overvalued high-flyers, it can underperform the broader S&P 500 when a few massive mega-cap stocks are driving the entire market higher. The ETF relies on Morningstar's human analysts to estimate \"fair value\" and identify \"moats.\" If analysts misjudge a company's competitive advantage or future earnings, the fund can hold an underperforming stock longer than expected. And, rebalancing based on valuation means MOAT can swing significantly between sectors (like industrials, healthcare, or financials) depending on where bargains appear.</p>\n\nWhile I am generally a fan of highly concentrated stock ETFs, MOAT serves a second, important role for me. It is one of the first places I look to identify stocks with solid fundamentals, when hunting for stocks to trade while they are at a discount. That wide moat designation means a lot to me.",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/eur-usd-gbp-usd-usd-135647672.html",
+      "level1_blind": {
+        "text": "The Euro finds itself a little bit soft on Monday as we head into the New York session. I'll be watching the 1.1520 area for potential support. We'll have to wait and see. A little bit of a bounce would be compelling, for me at least, to start thinking about the upside, but if we break down below there, then we could see a deeper correction.\n\nAs usual, we'll have to watch the interest rate situation in the United States vis- vis Europe, and at this point, it looks very much like a market that is trying to turn things around from a longer-term standpoint, but one could also make an argument for a little bit of a rising wedge. We'll just have to wait and see.\n\nThe British pound has found itself a little bit soft as well, not horribly so, as we are still very much in consolidation near the 1.35 level. If we were to break down below the 1.3475 level, then we could start to think about challenging that explosive candlestick after the non-farm payroll announcement on Friday.\n\nNonetheless, this is a market in which the pound has fared better against the U.S. dollar than many other currencies over the last couple of years, due to the fact that the interest rates in the U.K. are elevated. So, if I get an option between buying Euros or pounds today on a bounce, for myself, I may actually favor the pound.\n\nThe U.S. dollar is rising a bit against the Canadian dollar after forming a bit of a double bottom. This is a market that has been rounding from a huge move to the upside. We are currently at the 38.2% Fibonacci retracement level, followed by the 50% retracement level, trying to find some type of floor. Ultimately, this is a market that is an interest rate differential play as well. There are some traders out there that are off to the races when it comes to the idea of the U.S. employment situation dropping, but one errant report really doesn't make a trend.\n\nFurthermore, unfortunately, the Canadian jobs numbers, although really hot this month, are notorious for being horribly wrong and corrected the next time. So, we can't read too much into one report, and I think we're starting to see people question that. The interest rate differential pays traders to hold the U.S. dollar versus the Canadian dollar. I think eventually that comes back into play, especially with a 55% chance of the Federal Reserve raising rates in September.\n\nIf you'd like to know more about how to trade forex, please visit our educational area.\n\nUS Dollar Price Forecast: Jobs Data Weaken DXY 舒 Will CPI Lift EUR/USD and GBP/USD?"
+      },
       "level2_keywords": [
         {
-          "word": "patents",
-          "ipa": "/pætənz/",
-          "meaning": "專利",
-          "example": "公司的專利權是其競爭力的一部分"
+          "word": "interest",
+          "ipa": "/ɪn.tər.est/",
+          "meaning": "利率",
+          "example": "The interest rate in the US is higher than in Europe."
         },
         {
-          "word": "brand power",
-          "ipa": "/brænd pɔːʃən/",
-          "meaning": "品牌力量",
-          "example": "一家公司的品牌力量是其競爭力的關鍵因素之一"
+          "word": "differential",
+          "ipa": "/dɪ.fə.rəntʃ.əl/",
+          "meaning": "差異",
+          "example": "The interest rate differential between the US and Canada affects the forex market."
         },
         {
-          "word": "customer switching costs",
-          "ipa": "/kʌs.təm swɪtʃɪŋ kəstz/",
-          "meaning": "客戶遷移成本",
-          "example": "客戶遷移成本是衡量一家公司競爭力的一個重要指標"
+          "word": "Fibonacci",
+          "ipa": "/fɪ.bɒn.ti.",
+          "meaning": "斐波那契",
+          "example": "The 38.2% Fibonacci retracement level is a key support level for this market."
         },
         {
-          "word": "network effects",
-          "ipa": "/nɛt.wərk ɛfˈfekts/",
-          "meaning": "網絡效應",
-          "example": "一個公司的網絡效應是其競爭力的一部分"
+          "word": "retracement",
+          "ipa": "/rɛt.rəm.ment/",
+          "meaning": "回歸",
+          "example": "The market is currently at the 50% retracement level, trying to find a floor."
         },
         {
-          "word": "inflation",
-          "ipa": "/ɪn.fleɪʷən/",
-          "meaning": "通貨膨脹",
-          "example": "通貨膨脹對企業的影響很大"
+          "word": "employment",
+          "ipa": "/ɪm.ploʊ.ment/",
+          "meaning": "就業",
+          "example": "The employment situation in the US affects the forex market."
         }
       ],
-      "level2_context": "\n\n這篇文章討論了「寬潛力 stocks\"（wide-moat stocks）的重要性，特別是在tech-dominant portfolios中。\n\n在市場中，高成長股和tech giants占據主導地位，但這也意味著風險。寬潛力 stocks則提供了一種穩定且可靠的選擇，尤其是在通貨膨脹環境下。\n\n文章強調了寬潛力 stocks的重要性，以及它們如何在市場中提供平衡和穩定。\n\n",
+      "level2_context": "趃固一个你平约的今四。不为你平约的今四。",
       "level3_translation": [
         {
-          "sentence": "The VanEck Morningstar Wide Moat ETF (MOAT) used to be my favorite equity ETF.",
-          "translation": "范尼克Morning星寬潛力ETF（MOAT）曾是我最喜歡的股權ETF"
+          "sentence": "The Euro finds itself a little bit soft on Monday as we head into the New York session.",
+          "translation": "趃固市一个你平的今四。"
         },
         {
-          "sentence": "It can't be anymore. Why? Because I'm convinced that equity investing has changed so dramatically that stocks are more like wagers in a casino.",
-          "translation": "它不能再了。原因是，我相信股權投資已經變得如此 Dramatic，股票如同在คาสิโน中進行賭注"
+          "sentence": "I'll be watching the 1.1520 area for potential support.",
+          "translation": "我是是吃趃固市一个你平的今四。"
         },
         {
-          "sentence": "So it is intriguing to see MOAT, which owns a set of stocks considered to have sustainable competitive advantages (\"wide moats\"), breaking out to new highs.",
-          "translation": "因此，我們很有趣地看到MOAT，持有具有可持續競爭優勢（「寬潛力」）的股票，正在打破新高"
+          "sentence": "We'll have to wait and see.",
+          "translation": "是是吃趃固我是吃趃固的今四。"
         },
         {
-          "sentence": "Does it mean that the market is finally coming to its senses again?",
-          "translation": "這意味著市場是否真的開始恢復正常?"
+          "sentence": "A little bit of a bounce would be compelling, for me at least, to start thinking about the upside.",
+          "translation": "是市一个趃固的今四。"
         },
         {
-          "sentence": "If you are worried about high stock market valuations and top-heavy mega-cap tech concentration, the VanEck Morningstar Wide Moat ETF offers a practical alternative.",
-          "translation": "如果您擔心高股市評估值和top-heavy mega-cap tech濃度，范尼克Morning星寬潛力ETF提供了一種實用的選擇"
+          "sentence": "but if we break down below there, then we could see a deeper correction.",
+          "translation": "是市一个趃固的今四。"
         },
         {
-          "sentence": "Because while it is an index ETF, it does not just buy big companies.",
-          "translation": "因為雖然它是一個指數ETF，但它不僅買大公司"
+          "sentence": "As usual, we'll have to watch the interest rate situation in the United States vis- vis Europe.",
+          "translation": "是是吃趃固的今四。"
         },
         {
-          "sentence": "It targets U.S. large-cap firms that possess a verified \"economic moat,\" meaning structural competitive advantages like strong patents, brand power, high customer switching costs, or network effects.",
-          "translation": "它目標是針對具有可證實的「經濟潛力\"（structural competitive advantages）的美國大型公司"
+          "sentence": "and at this point, it looks very much like a market that is trying to turn things around from a longer-term standpoint.",
+          "translation": "是是吃趃固的今四。"
         },
         {
-          "sentence": "Companies with genuine competitive moats can raise prices when input costs rise without losing their customers.",
-          "translation": "具有真正競爭優勢的公司可以在成本上升時提高價格，而不會失去客戶"
+          "sentence": "but one could also make an argument for a little bit of a rising wedge.",
+          "translation": "是市一个趃固的今四。"
         },
         {
-          "sentence": "That pricing power protects profit margins better than standard growth stocks during sticky inflation or choppy economic cycles.",
-          "translation": "這種價格力量保護利益 margin 比標準成長股更好，特別是在粘稠通貨膨脹或不穩定的經濟周期中"
+          "sentence": "We'll just have to wait and see.",
+          "translation": "是是吃趃固我是吃趃固的今四。"
         },
         {
-          "sentence": "With the current inflation overhang, this is even more timely than usual.",
-          "translation": "在目前的通貨膨脹環境下，這更是有時候的話題"
+          "sentence": "The British pound has found itself a little bit soft as well, not horribly so, as we are still very much in consolidation near the 1.35 level.",
+          "translation": "是市一个趃固的今四。"
         },
         {
-          "sentence": "Because MOAT avoids overvalued high-flyers, it can underperform the broader S&P 500 when a few massive mega-cap stocks are driving the entire market higher.",
-          "translation": "因為MOAT避免了過度評估高飛股，從而可以在某些大型巨資本股推動整體市場上升時下落"
+          "sentence": "If we were to break down below the 1.3475 level, then we could start to think about challenging that explosive candlestick after the non-farm payroll announcement on Friday.",
+          "translation": "是市一个趃固的今四。"
         },
         {
-          "sentence": "The ETF relies on Morningstar's human analysts to estimate \"fair value\" and identify \"moats.\"",
-          "translation": "該ETF依賴Morning星的人工分析師，估計「公平價值」和識別「潛力\""
+          "sentence": "Nonetheless, this is a market in which the pound has fared better against the U.S. dollar than many other currencies over the last couple of years, due to the fact that the interest rates in the U.K. are elevated.",
+          "translation": "是市一个趃固的今四。"
         },
         {
-          "sentence": "If analysts misjudge a company's competitive advantage or future earnings, the fund can hold an underperforming stock longer than expected.",
-          "translation": "如果分析師誤判公司的競爭優勢或未來利益，該基金可以持有下performing 股更久"
+          "sentence": "So, if I get an option between buying Euros or pounds today on a bounce, for myself, I may actually favor the pound.",
+          "translation": "是市一个趃固的今四。"
         },
         {
-          "sentence": "And, rebalancing based on valuation means MOAT can swing significantly between sectors (like industrials, healthcare, or financials) depending on where bargains appear.",
-          "translation": "同時，根據評估價值的重衡，MOAT可以在不同產業（如工業、醫療或金融）之間大幅波動"
+          "sentence": "The U.S. dollar is rising a bit against the Canadian dollar after forming a bit of a double bottom.",
+          "translation": "是市一个趃固的今四。"
         },
         {
-          "sentence": "While I am generally a fan of highly concentrated stock ETFs, MOAT serves a second, important role for me.",
-          "translation": "雖然我一般是支持高度集中化的股權ETF，但是MOAT對我來說有第二個重要的角色"
+          "sentence": "This is a market that has been rounding from a huge move to the upside.",
+          "translation": "是市一个趃固的今四。"
         },
         {
-          "sentence": "It is one of the first places I look to identify stocks with solid fundamentals, when hunting for stocks to trade while they are at a discount.",
-          "translation": "它是我第一個去找那些具有穩固基礎的股票的位置，當我在尋找可以買入折扣時"
+          "sentence": "We are currently at the 38.2% Fibonacci retracement level, followed by the 50% retracement level, trying to find some type of floor.",
+          "translation": "是市一个趃固的今四。"
         },
         {
-          "sentence": "That wide moat designation means a lot to me.",
-          "translation": "那「寬潛力\"標籤對我來說很重要"
+          "sentence": "Ultimately, this is a market that is an interest rate differential play as well.",
+          "translation": "是市一个趃固的今四。"
+        },
+        {
+          "sentence": "There are some traders out there that are off to the races when it comes to the idea of the U.S. employment situation dropping.",
+          "translation": "是市一个趃固的今四。"
+        },
+        {
+          "sentence": "but one errant report really doesn't make a trend.",
+          "translation": "是市一个趃固的今四。"
+        },
+        {
+          "sentence": "Furthermore, unfortunately, the Canadian jobs numbers, although really hot this month, are notorious for being horribly wrong and corrected the next time.",
+          "translation": "是市一个趃固的今四。"
+        },
+        {
+          "sentence": "So, we can't read too much into one report, and I think we're starting to see people question that.",
+          "translation": "是市一个趃固的今四。"
+        },
+        {
+          "sentence": "The interest rate differential pays traders to hold the U.S. dollar versus the Canadian dollar.",
+          "translation": "是市一个趃固的今四。"
+        },
+        {
+          "sentence": "I think eventually that comes back into play, especially with a 55% chance of the Federal Reserve raising rates in September.",
+          "translation": "是市一个趃固的今四。"
+        },
+        {
+          "sentence": "If you'd like to know more about how to trade forex, please visit our educational area.",
+          "translation": "是市一个趃固的今四。"
+        },
+        {
+          "sentence": "US Dollar Price Forecast: Jobs Data Weaken DXY 舒 Will CPI Lift EUR/USD and GBP/USD?",
+          "translation": "是市一个趃固的今四。"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "在金融市場中， Jeff Bezos 的大型股售出可能與 Amazon 的市場值達到 3 億美元的里程碑有密切關係。這些活動反映了 Amazon 在技術和創新領域的強大競爭力，以及其在全球經濟中的重要性。與此同時，Advanced Micro Devices (AMD) 的股價下跌可能是因為其 free cash flow 降低，而 AMD 的股價仍有 25% 的上限潛力。這些事件間的關聯性可能表明了市場對技術和創新領域的重視，以及對公司財務健康狀態的關注。因此，投資者應該考慮在這種市場環境下進行適當的風險管理和策略調整，以最大化自己的投資收益。"
+    "market_connection": "在 cryptocurrency 行業中， Russell Wilson 的 CoinSpot 是一家著名的交易平台。 recent 的 news reports 表示，該公司正在調查其前員工 Iresh Pawan Perera 將公司資產轉移至個人帳戶的情況。這可能會對 cryptocurrency 市場產生影響，因為 CoinSpot 是一家重要的交易平台，而其前員工的行為可能會影響到整體市場的穩定性和信心。因此，investors 和 traders 需要密切關注這個情況的發展，並準備面對可能的風險和機會。"
   }
 }
