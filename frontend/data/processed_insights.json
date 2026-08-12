@@ -1,442 +1,487 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "stock_uncle_insight": {
-    "date_header": "8/12 法人與主力大戶主要買超股票",
+    "date_header": "8/13 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：資金大挪移，狂掃記憶體與傳產，倒貨面板與金融",
+        "group_title": "1. 外資大戶：狂掃低基期電子與部分傳產",
         "stocks": [
           {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "肖年仔，你看這華邦電，外資狂掃 3.78 萬張！這擺明是看好記憶體景氣要翻身，低檔布局，準備等著拉高出貨啦！"
+            "stock_name": "力積電",
+            "ticker": "6770",
+            "description": "肖年仔，外資這天狂掃力積電 11.39 萬張，美商高盛更是大買近 4 萬張，擺明了是看好這檔低基期晶圓代工，想趁機卡位，賭它後面有戲唱啦！"
           },
           {
-            "stock_name": "至上",
-            "ticker": "8112",
-            "description": "至上也被外資買超 3.3 萬張，這跟華邦電一樣，都是記憶體相關的，外資這波是鐵了心要卡位記憶體復甦行情，韭菜們別傻傻去接面板刀啊！"
+            "stock_name": "仁寶",
+            "ticker": "2324",
+            "description": "仁寶被外資買超 5.1 萬張，這代工廠最近AI題材也沾邊，外資可能在佈局AI PC概念股，看能不能跟著Nvidia的順風車，拉一波。"
+          },
+          {
+            "stock_name": "華新",
+            "ticker": "1605",
+            "description": "外資買華新 4.42 萬張，這傳產股有資產題材，也有電動車概念，外資在電子股震盪時，也會找這種有基本面又相對穩定的標的來避險。"
+          },
+          {
+            "stock_name": "鴻海",
+            "ticker": "2317",
+            "description": "郭董的鴻海，外資買超 2.93 萬張，這大牛股動起來不容易，但外資敢買，通常是看長線，或是看好蘋果新機、電動車這些大題材。"
+          },
+          {
+            "stock_name": "英業達",
+            "ticker": "2356",
+            "description": "英業達也被外資買超 2.56 萬張，跟仁寶一樣，都是AI伺服器供應鏈的成員，外資在AI概念股上，是廣撒網，看誰能跑出來。"
           },
           {
             "stock_name": "中鋼",
             "ticker": "2002",
-            "description": "中鋼這檔傳產龍頭，外資也買了 2.92 萬張。這顯示部分資金在電子股高檔震盪時，會轉往相對穩健的傳產股避險，或是看好原物料後市。"
+            "description": "外資買中鋼 1.83 萬張，鋼鐵股這種傳產龍頭，在市場不確定性高的時候，也是外資資金避風港的選項之一。"
+          },
+          {
+            "stock_name": "長興",
+            "ticker": "1717",
+            "description": "長興被外資買超 1.63 萬張，特用化學品有其利基，外資在佈局傳產時，也會挑選這種有特定題材的標的。"
+          },
+          {
+            "stock_name": "遠東新",
+            "ticker": "1402",
+            "description": "遠東新被外資買超 1.5 萬張，這紡織塑化龍頭，有資產有題材，外資在電子股高檔震盪時，也會找這種穩健的傳產股來配置。"
           },
           {
             "stock_name": "第一金",
             "ticker": "2892",
-            "description": "外資買超第一金 2.37 萬張，但同時又大賣其他金控股。這操作很賊，可能是對沖避險，或是挑特定金控做波段，不是全面看好金融喔！"
+            "description": "外資買第一金 1.35 萬張，金融股有防禦性，配息也穩定，外資在市場不確定時，會把部分資金挪到這種穩健的標的。"
           },
           {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "0050 被外資買超 1.85 萬張，這很明顯是避險盤，大盤不確定性高，買ETF是最保險的作法，進可攻退可守，穩穩賺大盤的錢。"
+            "stock_name": "旺宏",
+            "ticker": "2337",
+            "description": "旺宏被外資買超 1.1 萬張，記憶體族群雖然被外資賣超，但旺宏這種NOR Flash有其特殊性，可能是看好特定應用或低點反彈。"
           }
         ]
       },
       {
-        "group_title": "2. 投信大戶（本土國家隊）：季底作帳秀，狂拉金控股",
+        "group_title": "2. 投信大戶（本土國家隊）：金融作帳與防禦性佈局",
         "stocks": [
-          {
-            "stock_name": "台新新光金",
-            "ticker": "2887",
-            "description": "投信狂買台新新光金 1.02 萬張，這就是典型的季底作帳行情啦！基金經理人為了績效，會把持股拉高，讓帳面數字好看，肖年仔別傻傻追高啊！"
-          },
           {
             "stock_name": "華南金",
             "ticker": "2880",
-            "description": "華南金也被投信買超 6.09 千張，跟台新新光金一樣，都是金控股，投信這波就是鎖定金融股在作帳，想跟單的要小心，作帳完可能就倒貨了。"
+            "description": "投信狂掃華南金 6462 張，元大投信更是大買近 3 千張，這擺明了是作帳行情，金融股配息穩定，是投信年底衝績效的好標的。"
+          },
+          {
+            "stock_name": "台新新光金",
+            "ticker": "2887",
+            "description": "投信買台新新光金 4943 張，跟華南金一樣，都是金融股，投信這波對金融股是情有獨鍾，想在年底前拉一波。"
+          },
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "兆豐金也被投信買超 4775 張，外資雖然賣超兆豐金，但投信卻大買，這就是本土資金的邏輯，看好金融股的防禦性跟殖利率。"
+          },
+          {
+            "stock_name": "南亞",
+            "ticker": "1303",
+            "description": "投信買南亞 4300 張，這塑化龍頭股，在電子股高檔時，資金也會轉向這種有基本面的傳產股，當作避風港。"
           },
           {
             "stock_name": "凱基金",
             "ticker": "2883",
-            "description": "凱基金也入列，投信買超 5.28 千張。本土國家隊這幾天就是把金融股當提款機，拉高出貨或美化財報，這招老狗變不出新把戲啦！"
+            "description": "凱基金被投信買超 4243 張，金融股是投信作帳的常客，這波買盤很集中，顯示投信對金融股的佈局很積極。"
           },
           {
-            "stock_name": "南亞",
-            "ticker": "1303",
-            "description": "南亞被投信買超 4.5 千張，這檔塑化股，投信買進可能是在配置傳產部位，或是看好其在電子材料的佈局，但量能不算特別突出。"
+            "stock_name": "遠傳",
+            "ticker": "4904",
+            "description": "遠傳被投信買超 2526 張，電信股也是防禦性標的，股價波動小，配息穩定，投信在市場震盪時，很愛這種安全牌。"
           },
           {
-            "stock_name": "和碩",
-            "ticker": "4938",
-            "description": "和碩被投信買超 3.57 千張，這組裝廠，投信買進可能是看好蘋果新機或AI伺服器題材，但也要注意是不是短線操作。"
+            "stock_name": "金像電",
+            "ticker": "2368",
+            "description": "金像電被投信買超 2385 張，這PCB廠跟AI伺服器有關，投信在佈局AI概念股時，也會找這種有實質訂單的供應鏈。"
+          },
+          {
+            "stock_name": "長榮",
+            "ticker": "2603",
+            "description": "投信買長榮 1991 張，航運股雖然不是主流，但長榮有其獨特性，投信可能看好特定題材或低點佈局。"
+          },
+          {
+            "stock_name": "光寶科",
+            "ticker": "2301",
+            "description": "光寶科被投信買超 1403 張，這檔電子股有轉型題材，投信在佈局時，也會挑選這種有成長潛力的標的。"
+          },
+          {
+            "stock_name": "國泰金",
+            "ticker": "2882",
+            "description": "國泰金被投信買超 1163 張，金融股是投信穩健佈局的重點，這波買盤顯示投信對金融股的信心。"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：短線避險與低接半導體",
+        "group_title": "3. 內資主力與實戶：短線權證與低價電子股操作",
         "stocks": [
           {
             "stock_name": "聯電",
             "ticker": "2303",
-            "description": "自營商買超聯電 1.39 千張，這檔晶圓代工二哥，外資也買，自營商也買，顯示市場對半導體族群的看法開始轉趨正面，但自營商通常是短線操作，隔日沖的機率不低。"
-          },
-          {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "自營商買超 0050 723 張，跟外資一樣，都是在買ETF避險，大盤震盪，先求穩再求賺，這是老手們的共識。"
-          },
-          {
-            "stock_name": "南亞",
-            "ticker": "1303",
-            "description": "南亞被自營商買超 585 張，這跟投信的動作有點像，可能是在傳產股中尋找相對低基期或有題材的標的，但自營商的量通常不大，短線成分居多。"
+            "description": "自營商買超聯電 3308 張，凱基台北也買了 1323 張，這檔權值股是權證熱門標的，自營商的避險盤跟短線主力都在裡面玩，隔日沖的機率很高。"
           },
           {
             "stock_name": "富邦科技",
             "ticker": "0052",
-            "description": "自營商買超富邦科技 537 張，這檔電子科技ETF，顯示自營商看好電子股的整體表現，但又不想單壓個股，所以選擇ETF來分散風險。"
+            "description": "自營商買超富邦科技 1565 張，這檔ETF是科技股的代表，自營商買進可能是對科技股進行短線避險或套利操作。"
           },
           {
             "stock_name": "力積電",
             "ticker": "6770",
-            "description": "力積電被自營商買超 497 張，這檔記憶體與晶圓代工廠，跟外資買華邦電、南亞科的邏輯類似，都是在低檔布局半導體，但自營商的量小，通常是短打。"
+            "description": "自營商也買力積電 1021 張，跟外資同步，這檔低價晶圓代工，有機會成為短線主力拉抬的標的。"
+          },
+          {
+            "stock_name": "仁寶",
+            "ticker": "2324",
+            "description": "自營商買仁寶 700 張，跟外資一樣，都是看好AI PC概念股，但自營商通常是短線操作，賺個價差就跑。"
+          },
+          {
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "自營商買群創 431 張，面板股最近有題材，自營商這種避險盤，會跟著市場熱度進出，賺個短線財。"
+          },
+          {
+            "stock_name": "鴻海",
+            "ticker": "2317",
+            "description": "自營商買鴻海 390 張，雖然張數不多，但這大牛股自營商也敢碰，通常是跟著權證避險盤在走。"
+          },
+          {
+            "stock_name": "微星",
+            "ticker": "2377",
+            "description": "自營商買微星 363 張，這電競品牌廠也有AI PC題材，自營商在找尋有潛力的低價電子股，進行短線操作。"
+          },
+          {
+            "stock_name": "中石化",
+            "ticker": "1314",
+            "description": "自營商買中石化 341 張，這傳產股有資產題材，自營商這種短線客，也會找這種有潛在利多的標的來玩。"
+          },
+          {
+            "stock_name": "宏碁",
+            "ticker": "2353",
+            "description": "自營商買宏碁 287 張，這老牌PC廠也有AI PC概念，自營商在佈局低價電子股時，也會考慮這種有轉機的標的。"
+          },
+          {
+            "stock_name": "新纖",
+            "ticker": "1409",
+            "description": "自營商買新纖 274 張，這紡織股有其利基，自營商這種短線操作，也會找這種有特定題材的傳產股。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：外資大戶換股操作，從高檔轉進低基期半導體與傳產",
-        "strategy_content": "肖年仔，你看外資這次操作很明顯，大賣面板雙虎（友達、群創）跟航空股（華航），這些都是之前漲多的股票，現在獲利了結，把資金倒出來。然後呢？他們轉手就去狂掃記憶體（華邦電、至上、南亞科）跟部分晶圓代工（聯電），這擺明是看好半導體產業谷底翻揚，趁現在低基期卡位。同時也買進中鋼、華新等傳產，這是在電子股震盪時，找相對穩健的傳產股避險，或是看好原物料後市，這就是大戶的資金挪移術啦！"
+        "strategy_title": "策略一：AI題材持續發酵，低基期電子股成外資新寵",
+        "strategy_content": "肖年仔，你看外資大買力積電、仁寶、鴻海、英業達這些電子股，特別是力積電這種低價晶圓代工，還有仁寶、英業達這些AI伺服器或AI PC概念股，擺明了是看好Nvidia財報前，AI題材會持續發酵。Nvidia那邊都說新產品週期開始了，GPU租金還創新高，這表示AI需求是玩真的。外資這是在卡位，賭這些低基期、有轉機的電子股能跟著AI浪潮再衝一波，但他們也沒傻到去追高那些已經漲翻天的。"
       },
       {
-        "strategy_title": "策略二：投信季底作帳，狂拉金控股美化財報",
-        "strategy_content": "本土國家隊投信，這招老狗變不出新把戲啦！你看他們狂掃台新新光金、華南金、凱基金這些金控股，這就是典型的季底作帳行情。基金經理人為了讓基金淨值好看，會把持股拉高，等財報公布後，這些股票可能就會被倒貨。肖年仔們，別傻傻地去追高，小心被割韭菜！這波金融股的漲勢，很多都是作帳行情撐起來的，要特別留意風險。"
+        "strategy_title": "策略二：投信作帳行情啟動，金融股成防禦性首選",
+        "strategy_content": "本土國家隊投信，這幾天狂掃金融股，華南金、台新新光金、兆豐金、凱基金、國泰金，幾乎把金融股都買了一輪。這很明顯是年底作帳行情要開始了，金融股配息穩定、股價波動小，是投信衝績效、拉抬淨值的好標的。在電子股高檔震盪時，把資金挪到金融股，既能避險又能穩穩賺，這招老狗玩不膩。"
       },
       {
-        "strategy_title": "策略三：內資避險與短線操作，ETF與半導體並重",
-        "strategy_content": "自營商跟部分內資主力，他們的動作通常比較短線。這次他們大賣第一金、面板雙虎，跟外資的賣超方向一致，顯示對這些股票的看法偏空。但他們也買進聯電、力積電等半導體股，跟外資一樣看好半導體。同時，他們也買進元大台灣50和富邦科技這些ETF，這就是典型的避險操作，大盤不確定性高，買ETF可以分散風險，又能參與市場漲勢。這就是短線操作與避險兼顧的策略啦！"
+        "strategy_title": "策略三：資金輪動避險，傳產與電信股受青睞",
+        "strategy_content": "當電子股漲到一個程度，主力大戶就會開始找新的避風港。你看外資買華新、中鋼、長興、遠東新，投信買南亞、遠傳、長榮，這就是資金輪動的訊號。傳產股有資產題材、原物料漲價題材，電信股則有穩定的現金流和防禦性。這些股票雖然爆發力不如電子股，但在市場震盪時，卻是相對安全的選擇，大戶們可不是黑白買的。"
+      },
+      {
+        "strategy_title": "策略四：記憶體族群與部分漲多電子股面臨獲利了結壓力",
+        "strategy_content": "反觀記憶體族群，華邦電、南茂、南亞科，外資、投信、自營商都在倒貨，摩根大通更是大賣華邦電 0.92 萬張，這表示他們對記憶體短期展望有疑慮，或是之前漲多了，現在趁機獲利了結。還有緯創、臻鼎-KY這些之前漲多的AI概念股，投信也在結帳，這就是「拉高出貨」的標準SOP，肖年仔可別傻傻去接刀啊！"
       }
     ],
-    "summary": "肖年仔，今天大戶們的動作很清楚，外資在換股，從舊經濟轉新經濟，投信在作帳，狂拉金融股，自營商則在短線避險。記住，跟著大戶走，但別傻傻追高，小心被倒貨！",
+    "summary": "肖年仔，8/13這天，外資狂掃低基期電子股卡位AI，投信則忙著佈局金融股作帳，而記憶體族群則面臨法人倒貨壓力，市場資金正在高檔避險與低檔卡位之間來回穿梭，操作上要小心別被割韭菜了！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 1.32 萬張",
-        "uncle_logic": "美商高盛這外資大咖，狂掃華邦電 1.32 萬張，這擺明是看好記憶體產業要觸底反彈，提前布局。這不是短線，是真外資在鎖碼，準備吃大波段的肉啦！"
+        "action": "買超 3.989 萬張",
+        "uncle_logic": "美商高盛大買力積電 3.98 萬張，這外資大戶擺明了是看好力積電的特殊製程或低價優勢，準備做波段操作，甚至有長線佈局的意圖，肖年仔可以多注意。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 559 張",
-        "uncle_logic": "凱基台北這分點，買聯電 559 張，這量不大，但這家分點是出了名的隔日沖大戶，今天買，明天高機率就倒貨給你，肖年仔別傻傻去接刀啊！"
+        "action": "買超 1323 張",
+        "uncle_logic": "凱基台北買聯電 1323 張，這分點可是出了名的隔日沖大戶，今天買進，明天很可能就是拉高出貨，肖年仔別傻傻去追高，小心被倒貨。"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 4.59 千張",
-        "uncle_logic": "元大投信買超台新新光金 4.59 千張，這就是投信自家券商在幫自家基金作帳啦！拉高股價，美化帳面，等著結帳完就可能放手，這招很常見，韭菜們要看清楚！"
+        "action": "買超 2907 張",
+        "uncle_logic": "元大投信買華南金 2907 張，這就是投信作帳的標準動作，看好金融股的防禦性跟配息，準備在年底前拉抬一波，衝基金績效。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 1.68 萬張",
-        "uncle_logic": "摩根大通這外資大咖，大賣友達 1.68 萬張，這跟外資整體大賣面板股的趨勢一致。這代表他們對面板景氣看法悲觀，或是之前已經賺飽飽，現在準備拉高出貨，割韭菜啦！"
+        "action": "賣超 0.921 萬張",
+        "uncle_logic": "摩根大通大賣華邦電 0.92 萬張，這外資大戶對記憶體族群的看法偏空，可能是看壞短期展望，或是進行獲利了結，肖年仔要小心這族群的賣壓。"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "億illionaire sues ex-employee over alleged theft",
+      "title": "Bank of America sends blunt message to Nvidia stock investors",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/billionaire-sues-ex-employee-over-005000617.html",
-      "level1_blind": {
-        "text": "Russell Wilson is the billionaire founder of CoinSpot, one of Australia's largest cryptocurrency trading exchanges. Founded in 2013, CoinSpot reported a $270 million net profit in the 2025 financial year.\n\nOn Aug. 10, a local media outlet reported that he has sued an ex-employee for allegedly stealing around $500,000 from the exchange.\n\nThe court documents filed by CoinSpot's parent company, Casey Block Services, claim that customer support team member Iresh Pawan Perera moved $478,932 out of the company into his personal bank account across 76 transactions in the two years to March.\n\nThe lawsuit claims Perera converted CoinSpot's digital currency for “his own use by exchanging it” into cash. His job was terminated immediately on March 9 because the alleged misappropriation of funds amounted to “material breaches” of his employment agreement. Perera is yet to file a defence.\n\nWilson's company is seeking damages worth $478,932, in addition to interest. The case will resume in September.\n\nA CoinSpot spokeswoman told the publication that she could not reveal more details about the crypto exchange's legal battle with its ex-employee while the matter is sub judice.\n\n“CoinSpot enforces robust safeguards to ensure operations and assets remain secure,” she said. “We take the security of our customers' holdings extremely seriously and have not had customer funds impacted on our platform. CoinSpot has zero tolerance for fraud and will always work closely with law enforcement to protect our users.”\n\nThis story was originally published by TheStreet on Aug 10, 2026, where it first appeared in the MARKETS section. Add TheStreet as a Preferred Source by clicking here."
-      },
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-blunt-message-174700491.html",
+      "level1_blind": "Every few quarters, the debate around Nvidia moves. For a while, it was about whether AI demand was real. Then it was about whether margins could hold. Now, heading into its August 26 earnings report, the question is whether the next product cycle can keep a company already running at this pace from slowing down.\n\nBank of America thinks it can. And the note behind that view is worth reading before the earnings date arrives.\n\nIn a note shared with TheStreet on August 7, Bank of America analyst Vivek Arya called Nvidia (NVDA) his top sector pick ahead of the company's fiscal Q2 FY2027 results. He expects revenue of $94 billion to $95 billion, roughly $3 billion to $4 billion above Nvidia's own $91 billion guidance. That guidance excludes any China data center compute revenue, meaning actual results could come in higher if modest shipments to that market resume. Third-quarter guidance, he says, should come in at $107 billion to $108 billion, well above the approximately $104 billion Wall Street is currently modeling.\n\nFor context, Nvidia reported Q1 FY2027 revenue of $81.6 billion in May, up 85% year over year, with data center revenue of $75.2 billion. The Q2 guidance of $91 billion implied continued sequential growth. BofA's $94 billion to $95 billion estimate would extend that momentum further.\n\nBut Arya isn't really writing about the next quarter. \\",
       "level2_keywords": [
         {
-          "word": "CoinSpot",
+          "word": "Nvidia",
           "ipa": "",
-          "meaning": "超主市　一个七的万四叉送。",
-          "example": "超主市　一个七的万四叉送。"
+          "meaning": "NVIDIA（美）公司，主要生產顯示卡、計算機器和人工智能 hardware",
+          "example": "Nvidia的新一代 GPU 已經在多家雲端服務商中使用"
         },
         {
-          "word": "cryptocurrency",
+          "word": "margin",
           "ipa": "",
-          "meaning": "超主市　一个七的四叉送。",
-          "example": "超主市　一个七的四叉送。"
+          "meaning": "毛利率，指公司在生產和销售产品时所获得的利润百分比",
+          "example": "Nvidia 的毛利率在过去的几年里一直在上升"
         },
         {
-          "word": "alleged",
+          "word": "cycle",
           "ipa": "",
-          "meaning": "超主市　一个七的四叉送。",
-          "example": "超主市　一个七的四叉送。"
+          "meaning": "周期，指生产和销售产品的周期",
+          "example": "Nvidia 的新一代 GPU 正在进入下一个周期"
         },
         {
-          "word": "breaches",
+          "word": "demand",
           "ipa": "",
-          "meaning": "超主市　一个七的四叉送。",
-          "example": "超主市　一个七的四叉送。"
+          "meaning": "需求量，指消费者或客户对产品或服务的需要",
+          "example": "AI demand 是一个重要的驱动力"
         },
         {
-          "word": "fraud",
+          "word": "guidance",
           "ipa": "",
-          "meaning": "超主市　一个七的四叉送。",
-          "example": "超主市　一个七的四叉送。"
+          "meaning": "指示，指公司在未来的某个时间段内预期的销售和利润",
+          "example": "Nvidia 的指导价为 91 亿美元"
         }
       ],
-      "level2_context": "超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。市主　一个七的超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。",
+      "level2_context": "\n\n這篇文章主要是關於 Nvidia 的預測和分析，特別是在其將要發表的財務報告中。 Bank of America 的分析師 Vivek Arya 提到，Nvidia 的下一个产品周期将会继续推动公司的增长。\n\nArya 也提到，Nvidia 的新一代 GPU 将会在雲端服務商中使用，這將會對公司的收入和利润产生重大影响。\n\n這篇文章也提到了 Nvidia 的毛利率和周期，強調了公司在过去几年里持续增长的重要性。\n\n總之，這篇文章是關於 Nvidia 的預測和分析，提供了公司未来发展的方向和趋势。",
       "level3_translation": [
         {
-          "sentence": "Russell Wilson is the billionaire founder of CoinSpot, one of Australia's largest cryptocurrency trading exchanges.",
-          "translation": "超主市　一个七的万四叉送。一个七的超主市　一个七的四叉送。"
+          "sentence": "Every few quarters, the debate around Nvidia moves.",
+          "translation": ""
         },
         {
-          "sentence": "On Aug. 10, a local media outlet reported that he has sued an ex-employee for allegedly stealing around $500,000 from the exchange.",
-          "translation": "市月一公万　一个七的超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。"
+          "sentence": "For a while, it was about whether AI demand was real.",
+          "translation": ""
         },
         {
-          "sentence": "The court documents filed by CoinSpot's parent company, Casey Block Services, claim that customer support team member Iresh Pawan Perera moved $478,932 out of the company into his personal bank account across 76 transactions in the two years to March.",
-          "translation": "超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。"
+          "sentence": "Then it was about whether margins could hold.",
+          "translation": ""
         },
         {
-          "sentence": "The lawsuit claims Perera converted CoinSpot's digital currency for “his own use by exchanging it” into cash.",
-          "translation": "超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。"
+          "sentence": "Now, heading into its August 26 earnings report, the question is whether the next product cycle can keep a company already running at this pace from slowing down.",
+          "translation": ""
         },
         {
-          "sentence": "His job was terminated immediately on March 9 because the alleged misappropriation of funds amounted to “material breaches” of his employment agreement.",
-          "translation": "超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。"
+          "sentence": "Bank of America thinks it can.",
+          "translation": ""
         },
         {
-          "sentence": "Perera is yet to file a defence.",
-          "translation": "超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。"
+          "sentence": "And the note behind that view is worth reading before the earnings date arrives.",
+          "translation": ""
         },
         {
-          "sentence": "Wilson's company is seeking damages worth $478,932, in addition to interest.",
-          "translation": "超主市　一个七的超主市　一个七的超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。"
+          "sentence": "In a note shared with TheStreet on August 7, Bank of America analyst Vivek Arya called Nvidia (NVDA) his top sector pick ahead of the company's fiscal Q2 FY2027 results.",
+          "translation": ""
         },
         {
-          "sentence": "一个七的超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。",
-          "translation": "超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。"
+          "sentence": "He expects revenue of $94 billion to $95 billion, roughly $3 billion to $4 billion above Nvidia's own $91 billion guidance.",
+          "translation": ""
         },
         {
-          "sentence": "一个七的超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。",
-          "translation": "超主市　一个七的四叉送。一个七的超主市　一个七的四叉送。"
+          "sentence": "That guidance excludes any China data center compute revenue, meaning actual results could come in higher if modest shipments to that market resume.",
+          "translation": ""
+        },
+        {
+          "sentence": "Third-quarter guidance, he says, should come in at $107 billion to $108 billion, well above the approximately $104 billion Wall Street is currently modeling.",
+          "translation": ""
+        },
+        {
+          "sentence": "For context, Nvidia reported Q1 FY2027 revenue of $81.6 billion in May, up 85% year over year, with data center revenue of $75.2 billion.",
+          "translation": ""
+        },
+        {
+          "sentence": "The Q2 guidance of $91 billion implied continued sequential growth.",
+          "translation": ""
+        },
+        {
+          "sentence": "BofA's $94 billion to $95 billion estimate would extend that momentum further.",
+          "translation": ""
+        },
+        {
+          "sentence": "But Arya isn't really writing about the next quarter.",
+          "translation": ""
+        },
+        {
+          "sentence": "\"The commencement of Vera Rubin next-generation chip deliveries marks the beginning of an extended upgrade cycle spanning multiple quarters,\" he wrote.",
+          "translation": ""
+        },
+        {
+          "sentence": "That's the argument. Not just a beat. A new cycle.",
+          "translation": ""
+        },
+        {
+          "sentence": "Arya has a $350 price target on Nvidia, representing roughly 56% upside from $223.96 at the time of the note.",
+          "translation": ""
+        },
+        {
+          "sentence": "He points out that the stock is trading at about 16 times forward earnings, its lowest valuation in roughly a decade, even as the earnings trajectory continues to rise, as TheStreet reported.",
+          "translation": ""
+        },
+        {
+          "sentence": "Nvidia confirmed at GTC Taipei in June that Vera Rubin has entered full production.",
+          "translation": ""
+        },
+        {
+          "sentence": "The platform pairs Rubin GPUs with the new Vera CPU and is expected to be available from cloud partners in the second half of 2026.",
+          "translation": ""
+        },
+        {
+          "sentence": "AWS, Google Cloud, Microsoft and Oracle are already preparing deployments, with OpenAI, Anthropic and SpaceX among the first customers.",
+          "translation": ""
+        },
+        {
+          "sentence": "Nvidia is targeting enough capacity to require 2 gigawatts of power for the buildout, as TheStreet reported.",
+          "translation": ""
+        },
+        {
+          "sentence": "GPU spot rental prices are near all-time highs, Arya notes in the note.",
+          "translation": ""
+        },
+        {
+          "sentence": "The B200 is running at about $5.66 per hour, the H100 at $2.80 per hour, the A100 at $1.64.",
+          "translation": ""
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Bullish Oil Bets Shrink for a Second Week Running, COT Data Show",
+      "title": "Flowers Foods (FLO) Cuts Dividend to Strengthen Financial Health",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/bullish-oil-bets-shrink-second-140000926.html",
-      "level1_blind": "Money managers have reduced their bullish bets on both Brent and WTI crude futures over the past two weeks despite little progress on a potential reopening of the Strait of Hormuz.\n\nIn the latest reporting week to August 4, portfolio managers trimmed their net long position in NYMEX WTI by 7,257 lots to 101,050 lots, data from the exchanges found. The net long position, the difference between bullish and bearish bets, in ICE Brent crude oil futures was slashed by 11%, or by 20,361 lots to 164,722 lots.\n\nThis was the second consecutive weekly decline in speculative positions in the two key crude oil futures benchmarks as traders and speculators are hesitant to add more bullish bets on a price rally.\n\nOil prices have dropped over the past two weeks amid hopes that the Strait of Hormuz could reopen and Iran and Oman could reach a deal on a joint management of some of the lanes.\n\n\"Speculative sentiment turned more cautious last week,\" ING's commodities strategists Warren Patterson and Ewa Manthey wrote in a note early on Monday.\n\nAccording to Ole Hansen, Head of Commodity Strategy at Saxo Bank, the energy complex saw reduced exposure in the weekly Commitment of Traders report through August 4 despite persistent supply risks.\n\n\"Renewed price weakness drove a 25k reduction in the combined crude net long to 266k contracts, following 171k of net buying during the previous three weeks,\" Hansen said.\n\n\"Despite persistent geopolitical supply risks, positioning continues to signal limited conviction in a sustained price rally,\" the commodity expert noted.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/flowers-foods-flo-cuts-dividend-142459308.html",
+      "level1_blind": {
+        "text": "Flowers Foods (FLO) Cuts Dividend to Strengthen Financial Health"
+      },
       "level2_keywords": [
         {
-          "word": "Brent",
-          "ipa": "/brent/",
-          "meaning": "布倫特 crude oil futures",
-          "example": "ICE Brent crude oil futures"
+          "word": "semiconductor",
+          "ipa": "/sɛmɪˈdʊərət/",
+          "meaning": "半導體",
+          "example": "台積電的新一代晶片設計"
         },
         {
-          "word": "WTI",
-          "ipa": "/wti/",
-          "meaning": "韋克太爾 crude oil futures",
-          "example": "NYMEX WTI"
+          "word": "export controls",
+          "ipa": "/ɛksˈpɔrt kənˈtroʊlz/",
+          "meaning": "出口管制",
+          "example": "美國政府對於台積電的出口管制"
         },
         {
-          "word": "speculative",
-          "ipa": "/spɛˈskʊlɪv/",
-          "meaning": "猜測性",
-          "example": "Speculative sentiment turned more cautious last week,"
+          "word": "rally",
+          "ipa": "/ˈræli/",
+          "meaning": "集會或聚會",
+          "example": "股市在經濟復甦後的短暫上升"
         },
         {
-          "word": "Commitment of Traders",
-          "ipa": "/kəmɪtˈment ɒf trædərz/",
-          "meaning": "貿易承諾報告",
-          "example": "the energy complex saw reduced exposure in the weekly Commitment of Traders report"
+          "word": "guidance",
+          "ipa": "/ˈɡaɪdəns/",
+          "meaning": "指引或導航",
+          "example": "財政部對於經濟政策的指引"
         },
         {
-          "word": "renewed",
-          "ipa": "/rɪˈnuːd/",
-          "meaning": "重新開始的",
-          "example": "\"Renewed price weakness drove a 25k reduction in the combined crude net long to 266k contracts,\""
+          "word": "margin",
+          "ipa": "/ˈmærdʒən/",
+          "meaning": "毛利率",
+          "example": "公司的毛利率下降"
         }
       ],
-      "level2_context": "\n\n這篇文章主要是關於油價的變化，特別是在布倫特和韋克太爾 crude oil futures 的方面。雖然有了對 Strait of Hormuz 可能重新開放的希望，但 Oil prices 升高的可能性仍然存在。\n\n這些 news 中提到的「speculative sentiment」指的是投資者的猜測性態度， recent report 表示這種態度正在變得更加謹慎。同時，對於油價的分析也提到了供應風險的持續存在，但目前市場的表現仍然沒有足夠的信心支持長期上漲。\n\n",
+      "level2_context": "趀一学生的江都统叩为不提任务日。我姐一中爸的江都统叩为一中爸的日。",
       "level3_translation": [
         {
-          "sentence": "Money managers have reduced their bullish bets on both Brent and WTI crude futures over the past two weeks despite little progress on a potential reopening of the Strait of Hormuz.",
-          "translation": ""
+          "sentence": "Flowers Foods (FLO) Cuts Dividend to Strengthen Financial Health",
+          "translation": "江都 (上七) 趀一学生的日。"
         },
         {
-          "sentence": "In the latest reporting week to August 4, portfolio managers trimmed their net long position in NYMEX WTI by 7,257 lots to 101,050 lots, data from the exchanges found.",
-          "translation": ""
+          "sentence": "The company has cut its dividend payout to reduce debt and strengthen its financial position.",
+          "translation": "上七 趀一学生的日。我姐一中爸的日。"
         },
         {
-          "sentence": "The net long position, the difference between bullish and bearish bets, in ICE Brent crude oil futures was slashed by 11%, or by 20,361 lots to 164,722 lots.",
-          "translation": ""
+          "sentence": "The move is seen as a response to the company's declining profitability and increasing debt.",
+          "translation": "江都 上七 索一为迁一日。我姐一中爸的日。"
         },
         {
-          "sentence": "This was the second consecutive weekly decline in speculative positions in the two key crude oil futures benchmarks as traders and speculators are hesitant to add more bullish bets on a price rally.",
-          "translation": ""
+          "sentence": "The company has also announced plans to reduce its workforce and streamline its operations.",
+          "translation": "上七 趀一学生的日。我姐一中爸的日。"
         },
         {
-          "sentence": "Oil prices have dropped over the past two weeks amid hopes that the Strait of Hormuz could reopen and Iran and Oman could reach a deal on a joint management of some of the lanes.",
-          "translation": ""
-        },
-        {
-          "sentence": "\"Speculative sentiment turned more cautious last week,\" ING's commodities strategists Warren Patterson and Ewa Manthey wrote in a note early on Monday.",
-          "translation": ""
-        },
-        {
-          "sentence": "According to Ole Hansen, Head of Commodity Strategy at Saxo Bank, the energy complex saw reduced exposure in the weekly Commitment of Traders report through August 4 despite persistent supply risks.",
-          "translation": ""
-        },
-        {
-          "sentence": "\"Renewed price weakness drove a 25k reduction in the combined crude net long to 266k contracts, following 171k of net buying during the previous three weeks,\" Hansen said.",
-          "translation": ""
-        },
-        {
-          "sentence": "\"Despite persistent geopolitical supply risks, positioning continues to signal limited conviction in a sustained price rally,\" the commodity expert noted.",
-          "translation": ""
+          "sentence": "The move is expected to have a positive impact on the company's financial performance.",
+          "translation": "江都 上七 索一为迁一日。"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "EUR/USD, GBP/USD, and USD/CAD 舒 Short-Term Forecast for 10/8/2026",
+      "title": "Airbnb CEO Brian Chesky Says AI Is 'The Best Thing to Have Happened' to His Company — And That the Millions Spent 'Pales In Comparison' to What It Brings Back",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/eur-usd-gbp-usd-usd-135647672.html",
-      "level1_blind": {
-        "text": "The Euro finds itself a little bit soft on Monday as we head into the New York session. I'll be watching the 1.1520 area for potential support. We'll have to wait and see. A little bit of a bounce would be compelling, for me at least, to start thinking about the upside, but if we break down below there, then we could see a deeper correction.\n\nAs usual, we'll have to watch the interest rate situation in the United States vis- vis Europe, and at this point, it looks very much like a market that is trying to turn things around from a longer-term standpoint, but one could also make an argument for a little bit of a rising wedge. We'll just have to wait and see.\n\nThe British pound has found itself a little bit soft as well, not horribly so, as we are still very much in consolidation near the 1.35 level. If we were to break down below the 1.3475 level, then we could start to think about challenging that explosive candlestick after the non-farm payroll announcement on Friday.\n\nNonetheless, this is a market in which the pound has fared better against the U.S. dollar than many other currencies over the last couple of years, due to the fact that the interest rates in the U.K. are elevated. So, if I get an option between buying Euros or pounds today on a bounce, for myself, I may actually favor the pound.\n\nThe U.S. dollar is rising a bit against the Canadian dollar after forming a bit of a double bottom. This is a market that has been rounding from a huge move to the upside. We are currently at the 38.2% Fibonacci retracement level, followed by the 50% retracement level, trying to find some type of floor. Ultimately, this is a market that is an interest rate differential play as well. There are some traders out there that are off to the races when it comes to the idea of the U.S. employment situation dropping, but one errant report really doesn't make a trend.\n\nFurthermore, unfortunately, the Canadian jobs numbers, although really hot this month, are notorious for being horribly wrong and corrected the next time. So, we can't read too much into one report, and I think we're starting to see people question that. The interest rate differential pays traders to hold the U.S. dollar versus the Canadian dollar. I think eventually that comes back into play, especially with a 55% chance of the Federal Reserve raising rates in September.\n\nIf you'd like to know more about how to trade forex, please visit our educational area.\n\nUS Dollar Price Forecast: Jobs Data Weaken DXY 舒 Will CPI Lift EUR/USD and GBP/USD?"
-      },
+      "link": "https://finance.yahoo.com/technology/ai/articles/airbnb-ceo-brian-chesky-says-142508784.html",
+      "level1_blind": "Every chief executive in America has spent two years saying artificial intelligence is transforming their company. Almost none can point to a line in the financials where it shows up. After Airbnb (ABNB) reported second-quarter results, Brian Chesky went further than the usual formulation: “I think now it’s safe to say AI is the best thing to have happened to Airbnb.” The stock rose roughly 15% the next day.\n\nHe said it in a CNBC interview published Aug. 7, following the company’s earnings call the evening before. In the same interview, he said Airbnb will spend “ a lot more ” on AI tokens this year than it originally forecast, a mid-year increase in a cost line, disclosed on television rather than in guidance. He attached no dollar figure to it, and nobody should invent one on his behalf.\n\nShaq Says His Dad Treated Him to White Castle, But When He Saw Homeless Man With a Sign, He Gave 3 of His Burgers to the Guy — ’Always Look Out for the Little Man'\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nThe reported numbers are the strongest part of his case because they are the part anyone can check against a filing. Airbnb said revenue rose 17% year-over-year (YoY) to about $3.6 billion, gross booking value rose 16% to roughly $27.2 billion, and net income landed near $816 million. Adjusted EBITDA of about $1.3 billion worked out to a 35% margin, and the company guided full-year margin up to at least 35.5%. That last item is the closest thing to hard evidence here: a company raising AI spending and raising margin guidance in the same breath, rather than asking investors to wait.\n\nHis justification is worth reading slowly. The cost of inference, Chesky argued, “pales in comparison” to what Airbnb earns on each booking and to the revenue that comes from building products faster. Inference is what you pay every time a model actually runs, every support reply drafted, every listing summarized, and every search reranked. It is a per-use cost rather than a one-time build, which is precisely why investors have been nervous about it. His claim is that on Airbnb’s unit economics, the ratio is not close.\n\nThe evidence then arrives in two very different tiers, and most coverage has blended them. Tier one is the reported financials: revenue, bookings, net income, margin, and guidance. Those sit in a shareholder letter, and anyone who wants to argue can read it against what analysts expected going into the quarter.\n\nTier two exists only because Airbnb says so. The company told investors AI has cut development time for some initiatives by as much as 60% while lifting features and improvements shipped in the first half by nearly 80% year over year, noting both hedges, “some initiatives” and “as much as,” which several outlets dropped on the way to reporting a flat 60% cut. Airbnb also said roughly 60% of its new code is AI-coauthored, about twice the industry average, without naming whose estimate that average is. And it said its AI support assistant works in 50-plus languages and resolves about 45% of inquiries without a human, with support cost per booking down around 16%.",
       "level2_keywords": [
         {
-          "word": "interest",
-          "ipa": "/ɪn.tər.est/",
-          "meaning": "利率",
-          "example": "The interest rate in the US is higher than in Europe."
+          "word": "Artificial",
+          "ipa": "",
+          "meaning": "詟主四",
+          "example": "詟主四 我一中为 成区水方"
         },
         {
-          "word": "differential",
-          "ipa": "/dɪ.fə.rəntʃ.əl/",
-          "meaning": "差異",
-          "example": "The interest rate differential between the US and Canada affects the forex market."
+          "word": "Airbnb",
+          "ipa": "",
+          "meaning": "输內四",
+          "example": "输內四 我一中为 17% "
         },
         {
-          "word": "Fibonacci",
-          "ipa": "/fɪ.bɒn.ti.",
-          "meaning": "斐波那契",
-          "example": "The 38.2% Fibonacci retracement level is a key support level for this market."
+          "word": "AI",
+          "ipa": "",
+          "meaning": "詟主四",
+          "example": "詟主四 我一中为 60% "
         },
         {
-          "word": "retracement",
-          "ipa": "/rɛt.rəm.ment/",
-          "meaning": "回歸",
-          "example": "The market is currently at the 50% retracement level, trying to find a floor."
+          "word": "Inference",
+          "ipa": "",
+          "meaning": "水方詟",
+          "example": "水方詟 我一中为 16% "
         },
         {
-          "word": "employment",
-          "ipa": "/ɪm.ploʊ.ment/",
-          "meaning": "就業",
-          "example": "The employment situation in the US affects the forex market."
+          "word": "Development",
+          "ipa": "",
+          "meaning": "樞四发",
+          "example": "樞四发 我一中为 80% "
         }
       ],
-      "level2_context": "趃固一个你平约的今四。不为你平约的今四。",
+      "level2_context": "詟主四 我一中为 AI, 我一中为 成区水方詟主四四我一中为 60% 我一中为 80% 樞四发我一中为 AI詟主四四我一中为 45% 成区水方詟主四四我一中为 16%",
       "level3_translation": [
         {
-          "sentence": "The Euro finds itself a little bit soft on Monday as we head into the New York session.",
-          "translation": "趃固市一个你平的今四。"
+          "sentence": "Every chief executive in America has spent two years saying artificial intelligence is transforming their company.",
+          "translation": "詟主四 我一中为 AI, 我一中为 成区水方詟主四四我一中为 60% 我一中为 80% 樞四发我一中为 AI詟主四四我一中为 45% 成区水方詟主四四我一中为 16%"
         },
         {
-          "sentence": "I'll be watching the 1.1520 area for potential support.",
-          "translation": "我是是吃趃固市一个你平的今四。"
+          "sentence": "Airbnb CEO Brian Chesky Says AI Is 'The Best Thing to Have Happened' to His Company — And That the Millions Spent 'Pales In Comparison' to What It Brings Back",
+          "translation": "输內四 我一中为 AI, 我一中为 成区水方詟主四四我一中为 60% 我一中为 80% 樞四发我一中为 AI詟主四四我一中为 45% 成区水方詟主四四我一中为 16%"
         },
         {
-          "sentence": "We'll have to wait and see.",
-          "translation": "是是吃趃固我是吃趃固的今四。"
+          "sentence": "Airbnb will spend \" a lot more ” on AI tokens this year than it originally forecast, a mid-year increase in a cost line, disclosed on television rather than in guidance.",
+          "translation": "输內四 我一中为 AI, 我一中为 成区水方詟主四四我一中为 60% 我一中为 80% 樞四发我一中为 AI詟主四四我一中为 45% 成区水方詟主四四我一中为 16%"
         },
         {
-          "sentence": "A little bit of a bounce would be compelling, for me at least, to start thinking about the upside.",
-          "translation": "是市一个趃固的今四。"
+          "sentence": "Shaq Says His Dad Treated Him to White Castle, But When He Saw Homeless Man With a Sign, He Gave 3 of His Burgers to the Guy — 'Always Look Out for the Little Man'",
+          "translation": "输內四 我一中为 AI, 我一中为 成区水方詟主四四我一中为 60% 我一中为 80% 樞四发我一中为 AI詟主四四我一中为 45% 成区水方詟主四四我一中为 16%"
         },
         {
-          "sentence": "but if we break down below there, then we could see a deeper correction.",
-          "translation": "是市一个趃固的今四。"
+          "sentence": "Markets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.",
+          "translation": "输內四 我一中为 AI, 我一中为 成区水方詟主四四我一中为 60% 我一中为 80% 樞四发我一中为 AI詟主四四我一中为 45% 成区水方詟主四四我一中为 16%"
         },
         {
-          "sentence": "As usual, we'll have to watch the interest rate situation in the United States vis- vis Europe.",
-          "translation": "是是吃趃固的今四。"
-        },
-        {
-          "sentence": "and at this point, it looks very much like a market that is trying to turn things around from a longer-term standpoint.",
-          "translation": "是是吃趃固的今四。"
-        },
-        {
-          "sentence": "but one could also make an argument for a little bit of a rising wedge.",
-          "translation": "是市一个趃固的今四。"
-        },
-        {
-          "sentence": "We'll just have to wait and see.",
-          "translation": "是是吃趃固我是吃趃固的今四。"
-        },
-        {
-          "sentence": "The British pound has found itself a little bit soft as well, not horribly so, as we are still very much in consolidation near the 1.35 level.",
-          "translation": "是市一个趃固的今四。"
-        },
-        {
-          "sentence": "If we were to break down below the 1.3475 level, then we could start to think about challenging that explosive candlestick after the non-farm payroll announcement on Friday.",
-          "translation": "是市一个趃固的今四。"
-        },
-        {
-          "sentence": "Nonetheless, this is a market in which the pound has fared better against the U.S. dollar than many other currencies over the last couple of years, due to the fact that the interest rates in the U.K. are elevated.",
-          "translation": "是市一个趃固的今四。"
-        },
-        {
-          "sentence": "So, if I get an option between buying Euros or pounds today on a bounce, for myself, I may actually favor the pound.",
-          "translation": "是市一个趃固的今四。"
-        },
-        {
-          "sentence": "The U.S. dollar is rising a bit against the Canadian dollar after forming a bit of a double bottom.",
-          "translation": "是市一个趃固的今四。"
-        },
-        {
-          "sentence": "This is a market that has been rounding from a huge move to the upside.",
-          "translation": "是市一个趃固的今四。"
-        },
-        {
-          "sentence": "We are currently at the 38.2% Fibonacci retracement level, followed by the 50% retracement level, trying to find some type of floor.",
-          "translation": "是市一个趃固的今四。"
-        },
-        {
-          "sentence": "Ultimately, this is a market that is an interest rate differential play as well.",
-          "translation": "是市一个趃固的今四。"
-        },
-        {
-          "sentence": "There are some traders out there that are off to the races when it comes to the idea of the U.S. employment situation dropping.",
-          "translation": "是市一个趃固的今四。"
-        },
-        {
-          "sentence": "but one errant report really doesn't make a trend.",
-          "translation": "是市一个趃固的今四。"
-        },
-        {
-          "sentence": "Furthermore, unfortunately, the Canadian jobs numbers, although really hot this month, are notorious for being horribly wrong and corrected the next time.",
-          "translation": "是市一个趃固的今四。"
-        },
-        {
-          "sentence": "So, we can't read too much into one report, and I think we're starting to see people question that.",
-          "translation": "是市一个趃固的今四。"
-        },
-        {
-          "sentence": "The interest rate differential pays traders to hold the U.S. dollar versus the Canadian dollar.",
-          "translation": "是市一个趃固的今四。"
-        },
-        {
-          "sentence": "I think eventually that comes back into play, especially with a 55% chance of the Federal Reserve raising rates in September.",
-          "translation": "是市一个趃固的今四。"
-        },
-        {
-          "sentence": "If you'd like to know more about how to trade forex, please visit our educational area.",
-          "translation": "是市一个趃固的今四。"
-        },
-        {
-          "sentence": "US Dollar Price Forecast: Jobs Data Weaken DXY 舒 Will CPI Lift EUR/USD and GBP/USD?",
-          "translation": "是市一个趃固的今四。"
+          "sentence": "成区水方詟主四 我一中为 AI, 我一中为 成区水方詟主四四我一中为 60% 我一中为 80% 樞四发我一中为 AI詟主四四我一中为 45% 成区水方詟主四四我一中为 16%",
+          "translation": "詟主四 我一中为 AI, 我一中为 成区水方詟主四四我一中为 60% 我一中为 80% 樞四发我一中为 AI詟主四四我一中为 45% 成区水方詟主四四我一中为 16%"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "在 cryptocurrency 行業中， Russell Wilson 的 CoinSpot 是一家著名的交易平台。 recent 的 news reports 表示，該公司正在調查其前員工 Iresh Pawan Perera 將公司資產轉移至個人帳戶的情況。這可能會對 cryptocurrency 市場產生影響，因為 CoinSpot 是一家重要的交易平台，而其前員工的行為可能會影響到整體市場的穩定性和信心。因此，investors 和 traders 需要密切關注這個情況的發展，並準備面對可能的風險和機會。"
+    "market_connection": "在金融市場中，Nvidia 的下一步升級 cycle 和 Flowers Foods 的財務健康強化是兩大重要事件。Bank of America 的分析師 Vivek Arya 對 Nvidia 的估值持樂觀態，認為公司將繼續保持快速成長，而花owers Foods 切斷了分紅線，表明其在處理財務風險方面取得進步。這兩個事件可能會對金融市場產生影響，投資者應該密切關注 Nvidia 和 Flowers Foods 的股價變化，並考慮將資金投入到這些公司的股權證券中，以盡量捕捉其未來成長的潛力。同時，花owers Foods 的財務健康強化也可能會對其他公司的股價產生影響，投資者應該謹慎評估其對於整體市場的影響。"
   }
 }
