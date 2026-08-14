@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-13",
-  "stock_market_date": "2026-08-12",
+  "date": "2026-08-15",
+  "stock_market_date": "2026-08-14",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
@@ -8,371 +8,371 @@
           "rank": 1,
           "stock_name": "力積電",
           "ticker": "6770",
-          "net_buy_shares": 113974233
+          "net_buy_shares": 144966464
         },
         {
           "rank": 2,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_buy_shares": 51024490
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 55890918
         },
         {
           "rank": 3,
-          "stock_name": "華新",
-          "ticker": "1605",
-          "net_buy_shares": 44292104
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_buy_shares": 47849797
         },
         {
           "rank": 4,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_buy_shares": 29370661
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 39637694
         },
         {
           "rank": 5,
-          "stock_name": "英業達",
-          "ticker": "2356",
-          "net_buy_shares": 25668472
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 35877135
         },
         {
           "rank": 6,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_buy_shares": 18378280
+          "stock_name": "寶成",
+          "ticker": "9904",
+          "net_buy_shares": 21199135
         },
         {
           "rank": 7,
-          "stock_name": "長興",
-          "ticker": "1717",
-          "net_buy_shares": 16328784
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 17660523
         },
         {
           "rank": 8,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_buy_shares": 15079303
+          "stock_name": "元大高股息",
+          "ticker": "0056",
+          "net_buy_shares": 17125395
         },
         {
           "rank": 9,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 13521627
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_buy_shares": 15414529
         },
         {
           "rank": 10,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_buy_shares": 11058528
+          "stock_name": "潤泰新",
+          "ticker": "9945",
+          "net_buy_shares": 15244750
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -30701517
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -22289250
         },
         {
           "rank": 2,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_sell_shares": -24202639
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_sell_shares": -18956289
         },
         {
           "rank": 3,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_sell_shares": -15261450
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -17361306
         },
         {
           "rank": 4,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_sell_shares": -15022433
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_sell_shares": -16414530
         },
         {
           "rank": 5,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -14721317
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_sell_shares": -16369908
         },
         {
           "rank": 6,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_sell_shares": -14609611
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_sell_shares": -16123677
         },
         {
           "rank": 7,
-          "stock_name": "華新科",
-          "ticker": "2492",
-          "net_sell_shares": -14198286
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_sell_shares": -10026270
         },
         {
           "rank": 8,
-          "stock_name": "中磊",
-          "ticker": "5388",
-          "net_sell_shares": -13695721
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -9277473
         },
         {
           "rank": 9,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -12290027
+          "stock_name": "長興",
+          "ticker": "1717",
+          "net_sell_shares": -8986209
         },
         {
           "rank": 10,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -10377145
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_sell_shares": -8577048
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 6462000
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 25041136
         },
         {
           "rank": 2,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 4943774
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 25023853
         },
         {
           "rank": 3,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 4775042
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 18352271
         },
         {
           "rank": 4,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 4300000
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 15554335
         },
         {
           "rank": 5,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 4243422
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 14618712
         },
         {
           "rank": 6,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_buy_shares": 2526929
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 14420641
         },
         {
           "rank": 7,
-          "stock_name": "金像電",
-          "ticker": "2368",
-          "net_buy_shares": 2385982
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 11674296
         },
         {
           "rank": 8,
-          "stock_name": "長榮",
-          "ticker": "2603",
-          "net_buy_shares": 1991000
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_buy_shares": 5100912
         },
         {
           "rank": 9,
-          "stock_name": "光寶科",
-          "ticker": "2301",
-          "net_buy_shares": 1403054
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 3770315
         },
         {
           "rank": 10,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_buy_shares": 1163316
+          "stock_name": "南電",
+          "ticker": "8046",
+          "net_buy_shares": 2466961
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -11140522
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -8593921
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -8652905
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_sell_shares": -5000000
         },
         {
           "rank": 3,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_sell_shares": -4279726
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_sell_shares": -3770456
         },
         {
           "rank": 4,
           "stock_name": "緯創",
           "ticker": "3231",
-          "net_sell_shares": -3416832
+          "net_sell_shares": -2862731
         },
         {
           "rank": 5,
-          "stock_name": "中華電",
-          "ticker": "2412",
-          "net_sell_shares": -1975046
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_sell_shares": -2552481
         },
         {
           "rank": 6,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_sell_shares": -1861211
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -1592904
         },
         {
           "rank": 7,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_sell_shares": -1622427
+          "stock_name": "昇陽半導體",
+          "ticker": "8028",
+          "net_sell_shares": -1544000
         },
         {
           "rank": 8,
-          "stock_name": "矽力*-KY",
-          "ticker": "6415",
-          "net_sell_shares": -1359000
+          "stock_name": "景碩",
+          "ticker": "3189",
+          "net_sell_shares": -961000
         },
         {
           "rank": 9,
-          "stock_name": "貿聯-KY",
-          "ticker": "3665",
-          "net_sell_shares": -1318430
+          "stock_name": "勤誠",
+          "ticker": "8210",
+          "net_sell_shares": -864000
         },
         {
           "rank": 10,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_sell_shares": -940000
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_sell_shares": -598000
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 3308000
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 2412652
         },
         {
           "rank": 2,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_buy_shares": 1565645
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 2214838
         },
         {
           "rank": 3,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 1021987
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 1656640
         },
         {
           "rank": 4,
           "stock_name": "仁寶",
           "ticker": "2324",
-          "net_buy_shares": 700470
+          "net_buy_shares": 1343288
         },
         {
           "rank": 5,
           "stock_name": "群創",
           "ticker": "3481",
-          "net_buy_shares": 431000
+          "net_buy_shares": 1283000
         },
         {
           "rank": 6,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_buy_shares": 390999
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_buy_shares": 797635
         },
         {
           "rank": 7,
-          "stock_name": "微星",
-          "ticker": "2377",
-          "net_buy_shares": 363000
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 509823
         },
         {
           "rank": 8,
-          "stock_name": "中石化",
-          "ticker": "1314",
-          "net_buy_shares": 341902
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 465000
         },
         {
           "rank": 9,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_buy_shares": 287240
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 406829
         },
         {
           "rank": 10,
-          "stock_name": "新纖",
-          "ticker": "1409",
-          "net_buy_shares": 274000
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_buy_shares": 377300
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_sell_shares": -1654000
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_sell_shares": -11249000
         },
         {
           "rank": 2,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -946000
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -3682000
         },
         {
           "rank": 3,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -851724
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_sell_shares": -2796846
         },
         {
           "rank": 4,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_sell_shares": -736000
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_sell_shares": -1292223
         },
         {
           "rank": 5,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_sell_shares": -635000
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_sell_shares": -939975
         },
         {
           "rank": 6,
-          "stock_name": "華新科",
-          "ticker": "2492",
-          "net_sell_shares": -618936
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -598898
         },
         {
           "rank": 7,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -433840
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_sell_shares": -425000
         },
         {
           "rank": 8,
-          "stock_name": "大成",
-          "ticker": "1210",
-          "net_sell_shares": -431207
+          "stock_name": "廣達",
+          "ticker": "2382",
+          "net_sell_shares": -421075
         },
         {
           "rank": 9,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -388000
+          "stock_name": "南茂",
+          "ticker": "8150",
+          "net_sell_shares": -346000
         },
         {
           "rank": 10,
-          "stock_name": "中纖",
-          "ticker": "1718",
-          "net_sell_shares": -343828
+          "stock_name": "和碩",
+          "ticker": "4938",
+          "net_sell_shares": -331998
         }
       ]
     },
@@ -381,55 +381,55 @@
         "branch_name": "美商高盛",
         "action": "buy",
         "target": "力積電",
-        "shares": 39890981
+        "shares": 50738262
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "聯電",
-        "shares": 1323200
+        "target": "南亞",
+        "shares": 965060
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "華南金",
-        "shares": 2907900
+        "target": "台新新光金",
+        "shares": 11268511
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "華邦電",
-        "shares": 9210455
+        "target": "國巨*",
+        "shares": 6686775
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Bank of America sends blunt message to Nvidia stock investors",
+      "title": "Resort destination mall and hotel seek Chapter 11 bankruptcy",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-blunt-message-174700491.html",
-      "summary": "Bank of America sends blunt message to Nvidia stock investors",
-      "full_text": "Every few quarters, the debate around Nvidia moves. For a while, it was about whether AI demand was real. Then it was about whether margins could hold. Now, heading into its August 26 earnings report, the question is whether the next product cycle can keep a company already running at this pace from slowing down.\n\nBank of America thinks it can. And the note behind that view is worth reading before the earnings date arrives.\n\nIn a note shared with TheStreet on August 7, Bank of America analyst Vivek Arya called Nvidia (NVDA) his top sector pick ahead of the company's fiscal Q2 FY2027 results. He expects revenue of $94 billion to $95 billion, roughly $3 billion to $4 billion above Nvidia's own $91 billion guidance. That guidance excludes any China data center compute revenue, meaning actual results could come in higher if modest shipments to that market resume. Third-quarter guidance, he says, should come in at $107 billion to $108 billion, well above the approximately $104 billion Wall Street is currently modeling.\n\nFor context, Nvidia reported Q1 FY2027 revenue of $81.6 billion in May, up 85% year over year, with data center revenue of $75.2 billion. The Q2 guidance of $91 billion implied continued sequential growth. BofA's $94 billion to $95 billion estimate would extend that momentum further.\n\nBut Arya isn't really writing about the next quarter. \"The commencement of Vera Rubin next-generation chip deliveries marks the beginning of an extended upgrade cycle spanning multiple quarters,\" he wrote. That's the argument. Not just a beat. A new cycle.\n\nArya has a $350 price target on Nvidia, representing roughly 56% upside from $223.96 at the time of the note. He points out that the stock is trading at about 16 times forward earnings, its lowest valuation in roughly a decade, even as the earnings trajectory continues to rise, as TheStreet reported.\n\nNvidia confirmed at GTC Taipei in June that Vera Rubin has entered full production. The platform pairs Rubin GPUs with the new Vera CPU and is expected to be available from cloud partners in the second half of 2026. AWS, Google Cloud, Microsoft and Oracle are already preparing deployments, with OpenAI, Anthropic and SpaceX among the first customers. Nvidia is targeting enough capacity to require 2 gigawatts of power for the buildout, as TheStreet reported.\n\nGPU spot rental prices are near all-time highs, Arya notes in the note. The B200 is running at about $5.66 per hour, the H100 at $2.80 per hour, the A100 at $1.64. That data point matters because it addresses one of the persistent doubts about the AI trade. If customers can still rent compute at those prices and make money from it, they have every reason to keep buying the next generation of hardware. The concern about return on investment fades when the rental market is this strong.",
-      "published": "2026-08-12T17:47:00Z"
+      "link": "https://finance.yahoo.com/real-estate/articles/68-old-resort-hotel-mall-015339982.html",
+      "summary": "Resort destination mall and hotel seek Chapter 11 bankruptcy",
+      "full_text": "Consumers' flight from brick-and-mortar stores in malls became a major problem for retailers as internet sales and e-commerce began taking business away from physical stores in the 1990s.\n\nMalls were hit even harder from the shutdowns during the Covid-19 pandemic, with retail slowly recovering over the last six years.\n\nBoatworks at Tahoe LLC, a Lake Tahoe shopping mall and hotel owner, filed for Chapter 11 bankruptcy protection to avoid a foreclosure auction that was scheduled for Aug. 12.\n\nThe Tahoe City, Calif., owner of Boatworks Mall and the adjacent 34-room Inn at Boatworks on Lake Tahoe's North Shore filed its petition in the U.S. Bankruptcy Court for the Eastern District of California on Aug. 11, listing $10 million to $50 million in assets and debts.\n\nCitizens National Bank of Texas in January filed a notice of default against Boatworks at Tahoe on its $14.4 million loan after the debtor failed to pay property taxes and provide proof of insurance. The debtor is managed by San Francisco firm MJD Capital Partners, according to SFGate.\n\n\"Staying open is crucial for the business, the employees, and the community,\" MJD Capital Partners' Marie Murphy said in a statement. \"A Chapter 11 reorganization of the LLC that owns this iconic project legally prevents foreclosure while the business restructures.\"\n\nMJD's Chapter 11 filing invokes an automatic stay on all legal actions against the debtor while the bankruptcy case proceeds. The debtor plans to remain open while it reorganizes its assets in bankruptcy.\n\n\"We continue to believe a mixed-use redevelopment is the best way to revitalize Boatworks and preserve its unique character,\" Murphy said. \"Foreclosure would be a major blow to the area. For over four decades, Boatworks has been Tahoe City's place to be. With this reorganization, we intend to continue our efforts to ensure that legacy continues.\"",
+      "published": "2026-08-14T01:53:39Z"
     },
     {
       "id": "news_2",
-      "title": "Flowers Foods (FLO) Cuts Dividend to Strengthen Financial Health",
+      "title": "AMETEK Stock: Is Wall Street Bullish or Bearish?",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/flowers-foods-flo-cuts-dividend-142459308.html",
-      "summary": "Flowers Foods (FLO) Cuts Dividend to Strengthen Financial Health",
-      "full_text": "Flowers Foods (FLO) Cuts Dividend to Strengthen Financial Health",
-      "published": "2026-08-11T14:24:59Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ametek-stock-wall-street-bullish-143246534.html",
+      "summary": "AMETEK Stock: Is Wall Street Bullish or Bearish?",
+      "full_text": "Berwyn, Pennsylvania-based AMETEK, Inc. (AME) manufactures and sells electronic instruments and electromechanical devices. Valued at $59.3 billion by market cap, the company manufactures advanced instruments for process, aerospace, power, and industrial markets, and is a supplier of electrical interconnects, specialty metals, technical motors and systems, and floor care and specialty motors.\n\nShares of this industrial giant have outperformed the broader market over the past year. AME has gained 38.6% over this time frame, while the broader S&P 500 Index ($SPX) has rallied nearly 20.2%. In 2026, AME stock is up 26.2%, surpassing the SPX's 13.2% rise on a YTD basis.\n\nMost Analysts Still Aren't Bullish on Tesla Stock, Even After Recent Selloff. Here's Why.\n\nZooming in further, AME's outperformance looks less pronounced compared to the State Street Industrial Select Sector SPDR ETF (XLI). The exchange-traded fund has gained about 21.8% over the past year. Moreover, the stock's returns on a YTD basis outshine the ETF's 19.8% gains over the same time frame.\n\nAMETEK outperformed on strong Q2 results driven by broad demand in semiconductor, aerospace, and MedTech. CEO David Zapico cited \"double-digit organic sales growth,\" record orders up 25%, and a $4.1 billion backlog, with about 80% expected to ship in the next 12 months. Electronic Instruments benefited from AI-driven semiconductor equipment and power solutions, while Electromechanical saw MedTech and automation strength. Management raised full-year guidance, pointing to AI, defense, and power grid modernization as durable drivers. M&A remains key, with the pending Indicor deal and FARO integration set to boost growth and margins.\n\nOn Aug. 4, AME shares closed up more than 4% after reporting its Q2 results. Its adjusted EPS of $2.09 exceeded Wall Street expectations of $1.99. The company's revenue was $2.04 billion, beating Wall Street forecasts of $1.96 billion. AME expects full-year adjusted EPS in the range of $8.20 to $8.30.\n\nFor the current fiscal year, ending in December, analysts expect AME's EPS to grow 12.1% to $8.33 on a diluted basis. The company's earnings surprise history is impressive. It beat the consensus estimate in each of the last four quarters.\n\nAmong the 21 analysts covering AME stock, the consensus is a \"Moderate Buy.\" That's based on 13 \"Strong Buy\" ratings, one \"Moderate Buy,\" and seven \"Holds.\"",
+      "published": "2026-08-13T14:32:46Z"
     },
     {
       "id": "news_3",
-      "title": "Airbnb CEO Brian Chesky Says AI Is 'The Best Thing to Have Happened' to His Company — And That the Millions Spent 'Pales In Comparison' to What It Brings Back",
+      "title": "‘Learn to code’ is so 2010 — now AI boot camps are where it’s at for the future of work",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/airbnb-ceo-brian-chesky-says-142508784.html",
-      "summary": "Airbnb CEO Brian Chesky Says AI Is 'The Best Thing to Have Happened' to His Company — And That the Millions Spent 'Pales In Comparison' to What It Brings Back",
-      "full_text": "Every chief executive in America has spent two years saying artificial intelligence is transforming their company. Almost none can point to a line in the financials where it shows up. After Airbnb (ABNB) reported second-quarter results, Brian Chesky went further than the usual formulation: \"I think now it's safe to say AI is the best thing to have happened to Airbnb.\" The stock rose roughly 15% the next day.\n\nHe said it in a CNBC interview published Aug. 7, following the company's earnings call the evening before. In the same interview, he said Airbnb will spend \"a lot more\" on AI tokens this year than it originally forecast, a mid-year increase in a cost line, disclosed on television rather than in guidance. He attached no dollar figure to it, and nobody should invent one on his behalf.\n\nShaq Says His Dad Treated Him to White Castle, But When He Saw Homeless Man With a Sign, He Gave 3 of His Burgers to the Guy — 'Always Look Out for the Little Man'\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nThe reported numbers are the strongest part of his case because they are the part anyone can check against a filing. Airbnb said revenue rose 17% year-over-year (YoY) to about $3.6 billion, gross booking value rose 16% to roughly $27.2 billion, and net income landed near $816 million. Adjusted EBITDA of about $1.3 billion worked out to a 35% margin, and the company guided full-year margin up to at least 35.5%. That last item is the closest thing to hard evidence here: a company raising AI spending and raising margin guidance in the same breath, rather than asking investors to wait.\n\nHis justification is worth reading slowly. The cost of inference, Chesky argued, \"pales in comparison\" to what Airbnb earns on each booking and to the revenue that comes from building products faster. Inference is what you pay every time a model actually runs, every support reply drafted, every listing summarized, and every search reranked. It is a per-use cost rather than a one-time build, which is precisely why investors have been nervous about it. His claim is that on Airbnb's unit economics, the ratio is not close.\n\nThe evidence then arrives in two very different tiers, and most coverage has blended them. Tier one is the reported financials: revenue, bookings, net income, margin, and guidance. Those sit in a shareholder letter, and anyone who wants to argue can read it against what analysts expected going into the quarter.\n\nTier two exists only because Airbnb says so. The company told investors AI has cut development time for some initiatives by as much as 60% while lifting features and improvements shipped in the first half by nearly 80% year over year, noting both hedges, \"some initiatives\" and \"as much as,\" which several outlets dropped on the way to reporting a flat 60% cut. Airbnb also said roughly 60% of its new code is AI-coauthored, about twice the industry average, without naming whose estimate that average is. And it said its AI support assistant works in 50-plus languages and resolves about 45% of inquiries without a human, with support cost per booking down around 16%.",
-      "published": "2026-08-11T14:25:08Z"
+      "link": "https://finance.yahoo.com/technology/ai/articles/learn-code-2010-now-ai-143000003.html",
+      "summary": "‘Learn to code’ is so 2010 — now AI boot camps are where it’s at for the future of work",
+      "full_text": "Amid an uncertain job market, some workers are looking to get a leg up by learning AI skills, and educational institutions are rushing to fill the gap.\n\nData from the Bureau of Labor Statistics shows jobs that are expected to be impacted by AI are already seeing losses. Meanwhile, employers are increasingly including AI skills in their job postings, and the job market, which seemed to be rebounding in the spring, is currently in a slump.\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake. Here's what it is and 3 simple steps to fix it ASAP\n\nThe tax breaks in Trump's 'big beautiful bill' expire after 2028. Here are 4 moves to make before the window closes\n\nEnter AI training courses, or boot camps, where students can learn the skills they may need to succeed in an ever-expanding AI landscape. Whether held at traditional colleges or for-profit learning centers, these offerings have increased exponentially in recent years.\n\nAccording to a spring job outlook report from the National Association of Colleges and Employers (NACE), the rate that AI skills are being included in job descriptions for entry-level positions is increasing, and fast: from 10.5% in the fall of 2025 to 16.5% in spring 2026.\n\nAnd of the employers that responded to the NACE survey, more than a third said entry-level positions require AI skills, which was almost triple the amount compared to fall 2025 survey responses.",
+      "published": "2026-08-13T14:30:00Z"
     }
   ]
 }
