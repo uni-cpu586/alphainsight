@@ -1,487 +1,423 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-15",
   "stock_uncle_insight": {
-    "date_header": "8/13 法人與主力大戶主要買超股票",
+    "date_header": "8/15 法人與主力大戶主要買賣超解析",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃低基期電子與部分傳產",
+        "group_title": "1. 外資大戶：記憶體與傳產的兩手策略",
         "stocks": [
           {
             "stock_name": "力積電",
             "ticker": "6770",
-            "description": "肖年仔，外資這天狂掃力積電 11.39 萬張，美商高盛更是大買近 4 萬張，擺明了是看好這檔低基期晶圓代工，想趁機卡位，賭它後面有戲唱啦！"
+            "description": "肖年仔，你看外資這手筆，狂掃力積電超過 14.4 萬張，這不是看好記憶體底部反彈，就是有什麼大單要進來卡位，準備拉高出貨！"
+          },
+          {
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "華邦電也跟著被外資買了快 5.6 萬張，跟力積電一樣，這波記憶體是不是要動了，外資在賭一個景氣循環谷底翻揚啊。"
           },
           {
             "stock_name": "仁寶",
             "ticker": "2324",
-            "description": "仁寶被外資買超 5.1 萬張，這代工廠最近AI題材也沾邊，外資可能在佈局AI PC概念股，看能不能跟著Nvidia的順風車，拉一波。"
-          },
-          {
-            "stock_name": "華新",
-            "ticker": "1605",
-            "description": "外資買華新 4.42 萬張，這傳產股有資產題材，也有電動車概念，外資在電子股震盪時，也會找這種有基本面又相對穩定的標的來避險。"
-          },
-          {
-            "stock_name": "鴻海",
-            "ticker": "2317",
-            "description": "郭董的鴻海，外資買超 2.93 萬張，這大牛股動起來不容易，但外資敢買，通常是看長線，或是看好蘋果新機、電動車這些大題材。"
-          },
-          {
-            "stock_name": "英業達",
-            "ticker": "2356",
-            "description": "英業達也被外資買超 2.56 萬張，跟仁寶一樣，都是AI伺服器供應鏈的成員，外資在AI概念股上，是廣撒網，看誰能跑出來。"
-          },
-          {
-            "stock_name": "中鋼",
-            "ticker": "2002",
-            "description": "外資買中鋼 1.83 萬張，鋼鐵股這種傳產龍頭，在市場不確定性高的時候，也是外資資金避風港的選項之一。"
-          },
-          {
-            "stock_name": "長興",
-            "ticker": "1717",
-            "description": "長興被外資買超 1.63 萬張，特用化學品有其利基，外資在佈局傳產時，也會挑選這種有特定題材的標的。"
-          },
-          {
-            "stock_name": "遠東新",
-            "ticker": "1402",
-            "description": "遠東新被外資買超 1.5 萬張，這紡織塑化龍頭，有資產有題材，外資在電子股高檔震盪時，也會找這種穩健的傳產股來配置。"
-          },
-          {
-            "stock_name": "第一金",
-            "ticker": "2892",
-            "description": "外資買第一金 1.35 萬張，金融股有防禦性，配息也穩定，外資在市場不確定時，會把部分資金挪到這種穩健的標的。"
-          },
-          {
-            "stock_name": "旺宏",
-            "ticker": "2337",
-            "description": "旺宏被外資買超 1.1 萬張，記憶體族群雖然被外資賣超，但旺宏這種NOR Flash有其特殊性，可能是看好特定應用或低點反彈。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：金融作帳與防禦性佈局",
-        "stocks": [
-          {
-            "stock_name": "華南金",
-            "ticker": "2880",
-            "description": "投信狂掃華南金 6462 張，元大投信更是大買近 3 千張，這擺明了是作帳行情，金融股配息穩定，是投信年底衝績效的好標的。"
-          },
-          {
-            "stock_name": "台新新光金",
-            "ticker": "2887",
-            "description": "投信買台新新光金 4943 張，跟華南金一樣，都是金融股，投信這波對金融股是情有獨鍾，想在年底前拉一波。"
-          },
-          {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "兆豐金也被投信買超 4775 張，外資雖然賣超兆豐金，但投信卻大買，這就是本土資金的邏輯，看好金融股的防禦性跟殖利率。"
-          },
-          {
-            "stock_name": "南亞",
-            "ticker": "1303",
-            "description": "投信買南亞 4300 張，這塑化龍頭股，在電子股高檔時，資金也會轉向這種有基本面的傳產股，當作避風港。"
-          },
-          {
-            "stock_name": "凱基金",
-            "ticker": "2883",
-            "description": "凱基金被投信買超 4243 張，金融股是投信作帳的常客，這波買盤很集中，顯示投信對金融股的佈局很積極。"
-          },
-          {
-            "stock_name": "遠傳",
-            "ticker": "4904",
-            "description": "遠傳被投信買超 2526 張，電信股也是防禦性標的，股價波動小，配息穩定，投信在市場震盪時，很愛這種安全牌。"
-          },
-          {
-            "stock_name": "金像電",
-            "ticker": "2368",
-            "description": "金像電被投信買超 2385 張，這PCB廠跟AI伺服器有關，投信在佈局AI概念股時，也會找這種有實質訂單的供應鏈。"
-          },
-          {
-            "stock_name": "長榮",
-            "ticker": "2603",
-            "description": "投信買長榮 1991 張，航運股雖然不是主流，但長榮有其獨特性，投信可能看好特定題材或低點佈局。"
-          },
-          {
-            "stock_name": "光寶科",
-            "ticker": "2301",
-            "description": "光寶科被投信買超 1403 張，這檔電子股有轉型題材，投信在佈局時，也會挑選這種有成長潛力的標的。"
-          },
-          {
-            "stock_name": "國泰金",
-            "ticker": "2882",
-            "description": "國泰金被投信買超 1163 張，金融股是投信穩健佈局的重點，這波買盤顯示投信對金融股的信心。"
-          }
-        ]
-      },
-      {
-        "group_title": "3. 內資主力與實戶：短線權證與低價電子股操作",
-        "stocks": [
-          {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "自營商買超聯電 3308 張，凱基台北也買了 1323 張，這檔權值股是權證熱門標的，自營商的避險盤跟短線主力都在裡面玩，隔日沖的機率很高。"
-          },
-          {
-            "stock_name": "富邦科技",
-            "ticker": "0052",
-            "description": "自營商買超富邦科技 1565 張，這檔ETF是科技股的代表，自營商買進可能是對科技股進行短線避險或套利操作。"
-          },
-          {
-            "stock_name": "力積電",
-            "ticker": "6770",
-            "description": "自營商也買力積電 1021 張，跟外資同步，這檔低價晶圓代工，有機會成為短線主力拉抬的標的。"
-          },
-          {
-            "stock_name": "仁寶",
-            "ticker": "2324",
-            "description": "自營商買仁寶 700 張，跟外資一樣，都是看好AI PC概念股，但自營商通常是短線操作，賺個價差就跑。"
+            "description": "仁寶被外資買了快 4.8 萬張，PC 族群最近沒什麼亮點，外資這是在撿便宜，還是有什麼新訂單的風聲？"
           },
           {
             "stock_name": "群創",
             "ticker": "3481",
-            "description": "自營商買群創 431 張，面板股最近有題材，自營商這種避險盤，會跟著市場熱度進出，賺個短線財。"
+            "description": "面板雙虎之一的群創，外資也買了近 4 萬張。面板報價雖然有撐，但這量能，外資是想做波段，還是單純避險？"
           },
           {
-            "stock_name": "鴻海",
-            "ticker": "2317",
-            "description": "自營商買鴻海 390 張，雖然張數不多，但這大牛股自營商也敢碰，通常是跟著權證避險盤在走。"
+            "stock_name": "台新新光金",
+            "ticker": "2887",
+            "description": "外資也買了台新新光金近 1.8 萬張，金融股最近是投信的愛，外資也來湊一腳，可能也是看上高殖利率或防禦性。"
           },
           {
-            "stock_name": "微星",
-            "ticker": "2377",
-            "description": "自營商買微星 363 張，這電競品牌廠也有AI PC題材，自營商在找尋有潛力的低價電子股，進行短線操作。"
+            "stock_name": "寶成",
+            "ticker": "9904",
+            "description": "傳產的寶成，外資買了 2.1 萬張，這就是典型的資金避風港，大盤不穩，先躲到這些穩健的傳產股。"
+          }
+        ]
+      },
+      {
+        "group_title": "2. 投信大戶（本土國家隊）：金融股作帳行情啟動",
+        "stocks": [
+          {
+            "stock_name": "台新新光金",
+            "ticker": "2887",
+            "description": "投信這根本是把台新新光金當提款機在買，狂掃超過 2.5 萬張，擺明了就是作帳行情，肖年仔，這種時候跟著國家隊走，比較不會被割韭菜。"
           },
           {
-            "stock_name": "中石化",
-            "ticker": "1314",
-            "description": "自營商買中石化 341 張，這傳產股有資產題材，自營商這種短線客，也會找這種有潛在利多的標的來玩。"
+            "stock_name": "凱基金",
+            "ticker": "2883",
+            "description": "凱基金也被投信買了超過 2.5 萬張，金融股全面開花，投信的基金經理人年底要交成績單了，不拉高怎麼行？"
           },
           {
-            "stock_name": "宏碁",
-            "ticker": "2353",
-            "description": "自營商買宏碁 287 張，這老牌PC廠也有AI PC概念，自營商在佈局低價電子股時，也會考慮這種有轉機的標的。"
+            "stock_name": "玉山金",
+            "ticker": "2884",
+            "description": "玉山金雖然外資在賣，但投信照樣買了 1.8 萬張，這就是本土資金的意志，不甩外資，自己玩自己的作帳遊戲。"
           },
           {
-            "stock_name": "新纖",
-            "ticker": "1409",
-            "description": "自營商買新纖 274 張，這紡織股有其利基，自營商這種短線操作，也會找這種有特定題材的傳產股。"
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "兆豐金也買了 1.5 萬張，投信這波對金融股的熱情，簡直是把整個金融板塊當成自己的後花園在掃貨。"
+          },
+          {
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "華邦電投信也買了近 3800 張，跟外資同步買進，看來記憶體這波真的有戲，本土法人也開始卡位了。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：短線操作與避險兼具",
+        "stocks": [
+          {
+            "stock_name": "南亞",
+            "ticker": "1303",
+            "description": "自營商買了南亞超過 2400 張，這檔塑化股，主力可能看上低基期，或是避險需求，但量不大，小心隔日沖。"
+          },
+          {
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "自營商也買了華邦電超過 2200 張，跟外資、投信同步，這檔記憶體股，三方都看好，值得注意。"
+          },
+          {
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "聯電被自營商買了超過 1600 張，但投信卻在賣，這就是自營商的避險盤，可能在權證或選擇權上做對沖，肖年仔別黑白猜。"
+          },
+          {
+            "stock_name": "仁寶",
+            "ticker": "2324",
+            "description": "自營商買了仁寶超過 1300 張，跟外資一樣，PC 族群有機會，但自營商的單通常比較短線。"
+          },
+          {
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "群創自營商也買了近 1300 張，面板股的買盤，自營商可能也是看短線反彈，或是為手上的權證做避險。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：AI題材持續發酵，低基期電子股成外資新寵",
-        "strategy_content": "肖年仔，你看外資大買力積電、仁寶、鴻海、英業達這些電子股，特別是力積電這種低價晶圓代工，還有仁寶、英業達這些AI伺服器或AI PC概念股，擺明了是看好Nvidia財報前，AI題材會持續發酵。Nvidia那邊都說新產品週期開始了，GPU租金還創新高，這表示AI需求是玩真的。外資這是在卡位，賭這些低基期、有轉機的電子股能跟著AI浪潮再衝一波，但他們也沒傻到去追高那些已經漲翻天的。"
+        "strategy_title": "策略一：記憶體族群谷底翻揚的賭注與 AI 題材延伸",
+        "strategy_content": "肖年仔，你看外資狂掃力積電跟華邦電，這擺明了就是賭記憶體景氣循環要翻多。雖然國際新聞提到 AMETEK 在半導體設備需求強勁，特別是 AI 驅動，這讓市場對半導體產業的未來充滿想像。外資這是在提前卡位，準備等利多出來拉高出貨！但投信卻在賣聯電、南亞科，這表示法人對半導體族群還是有分歧，不是全面看好，而是挑特定標的下手，割韭菜的機會還是有。"
       },
       {
-        "strategy_title": "策略二：投信作帳行情啟動，金融股成防禦性首選",
-        "strategy_content": "本土國家隊投信，這幾天狂掃金融股，華南金、台新新光金、兆豐金、凱基金、國泰金，幾乎把金融股都買了一輪。這很明顯是年底作帳行情要開始了，金融股配息穩定、股價波動小，是投信衝績效、拉抬淨值的好標的。在電子股高檔震盪時，把資金挪到金融股，既能避險又能穩穩賺，這招老狗玩不膩。"
+        "strategy_title": "策略二：投信作帳行情與金融股的防禦性佈局",
+        "strategy_content": "本土國家隊投信，這幾天根本是把金融股當作自家廚房在掃貨，台新新光金、凱基金、玉山金、兆豐金，全部都買爆！這就是典型的作帳行情，年底要到了，基金經理人為了績效，會把資金集中到權值大、波動相對小的金融股，拉高淨值。加上大盤震盪，金融股也具備防禦性，是資金的避風港。肖年仔，跟著投信買金融，雖然賺不多，但至少不會被割到斷頭！"
       },
       {
-        "strategy_title": "策略三：資金輪動避險，傳產與電信股受青睞",
-        "strategy_content": "當電子股漲到一個程度，主力大戶就會開始找新的避風港。你看外資買華新、中鋼、長興、遠東新，投信買南亞、遠傳、長榮，這就是資金輪動的訊號。傳產股有資產題材、原物料漲價題材，電信股則有穩定的現金流和防禦性。這些股票雖然爆發力不如電子股，但在市場震盪時，卻是相對安全的選擇，大戶們可不是黑白買的。"
-      },
-      {
-        "strategy_title": "策略四：記憶體族群與部分漲多電子股面臨獲利了結壓力",
-        "strategy_content": "反觀記憶體族群，華邦電、南茂、南亞科，外資、投信、自營商都在倒貨，摩根大通更是大賣華邦電 0.92 萬張，這表示他們對記憶體短期展望有疑慮，或是之前漲多了，現在趁機獲利了結。還有緯創、臻鼎-KY這些之前漲多的AI概念股，投信也在結帳，這就是「拉高出貨」的標準SOP，肖年仔可別傻傻去接刀啊！"
+        "strategy_title": "策略三：傳產與面板的價值型佈局與短線避險",
+        "strategy_content": "外資買寶成、亞泥、潤泰新這些傳產股，還有面板雙虎之一的群創，這很明顯是資金在高檔避險，把錢從高風險的科技股抽出來，放到這些相對穩健、低基期的傳產或景氣循環股。自營商也跟著買群創、仁寶，但自營商的單通常比較短線，可能只是做個價差或避險。國際新聞雖然有提到零售業破產，但這些傳產股跟台灣內需或特定產業鏈相關，影響有限，反而是被當成價值型標的在撿。"
       }
     ],
-    "summary": "肖年仔，8/13這天，外資狂掃低基期電子股卡位AI，投信則忙著佈局金融股作帳，而記憶體族群則面臨法人倒貨壓力，市場資金正在高檔避險與低檔卡位之間來回穿梭，操作上要小心別被割韭菜了！",
+    "summary": "肖年仔，今天市場就是外資在賭記憶體反彈，投信狂拉金融股作帳，自營商跟著瞎忙避險。AI 股雖然有題材，但法人已經開始在獲利了結，別傻傻去接刀啊！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 3.989 萬張",
-        "uncle_logic": "美商高盛大買力積電 3.98 萬張，這外資大戶擺明了是看好力積電的特殊製程或低價優勢，準備做波段操作，甚至有長線佈局的意圖，肖年仔可以多注意。"
+        "action": "買超 力積電 5073.8 萬股",
+        "uncle_logic": "高盛這手筆，狂掃力積電超過 5 萬張，這不是真外資看好記憶體景氣反轉，就是有大戶透過高盛在鎖碼，準備等利多消息出來，一次拉高出貨，肖年仔要看清楚，別被洗出場！"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 1323 張",
-        "uncle_logic": "凱基台北買聯電 1323 張，這分點可是出了名的隔日沖大戶，今天買進，明天很可能就是拉高出貨，肖年仔別傻傻去追高，小心被倒貨。"
+        "action": "買超 南亞 96.5 萬股",
+        "uncle_logic": "凱基台北買南亞近 1000 張，這分點是出了名的隔日沖大戶，今天買，明天八成就是倒貨給你，肖年仔，這種股票別傻傻去追高，小心被割韭菜！"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 2907 張",
-        "uncle_logic": "元大投信買華南金 2907 張，這就是投信作帳的標準動作，看好金融股的防禦性跟配息，準備在年底前拉抬一波，衝基金績效。"
+        "action": "買超 台新新光金 1126.8 萬股",
+        "uncle_logic": "元大投信買台新新光金超過 1.1 萬張，這就是投信作帳的鐵證！國家隊進場，就是要拉抬基金淨值，肖年仔，跟著投信買金融，雖然慢，但穩。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 0.921 萬張",
-        "uncle_logic": "摩根大通大賣華邦電 0.92 萬張，這外資大戶對記憶體族群的看法偏空，可能是看壞短期展望，或是進行獲利了結，肖年仔要小心這族群的賣壓。"
+        "action": "賣超 國巨* 668.6 萬股",
+        "uncle_logic": "摩根大通賣國巨*近 6700 張，這也是外資大咖，跟著外資賣超國巨*的趨勢走，代表他們對被動元件的看法偏保守，或是獲利了結，肖年仔別去接這種倒貨的刀。"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "Bank of America sends blunt message to Nvidia stock investors",
+      "title": "Resort destination mall and hotel seek Chapter 11 bankruptcy",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-blunt-message-174700491.html",
-      "level1_blind": "Every few quarters, the debate around Nvidia moves. For a while, it was about whether AI demand was real. Then it was about whether margins could hold. Now, heading into its August 26 earnings report, the question is whether the next product cycle can keep a company already running at this pace from slowing down.\n\nBank of America thinks it can. And the note behind that view is worth reading before the earnings date arrives.\n\nIn a note shared with TheStreet on August 7, Bank of America analyst Vivek Arya called Nvidia (NVDA) his top sector pick ahead of the company's fiscal Q2 FY2027 results. He expects revenue of $94 billion to $95 billion, roughly $3 billion to $4 billion above Nvidia's own $91 billion guidance. That guidance excludes any China data center compute revenue, meaning actual results could come in higher if modest shipments to that market resume. Third-quarter guidance, he says, should come in at $107 billion to $108 billion, well above the approximately $104 billion Wall Street is currently modeling.\n\nFor context, Nvidia reported Q1 FY2027 revenue of $81.6 billion in May, up 85% year over year, with data center revenue of $75.2 billion. The Q2 guidance of $91 billion implied continued sequential growth. BofA's $94 billion to $95 billion estimate would extend that momentum further.\n\nBut Arya isn't really writing about the next quarter. \\",
+      "link": "https://finance.yahoo.com/real-estate/articles/68-old-resort-hotel-mall-015339982.html",
+      "level1_blind": "Consumers' flight from brick-and-mortar stores in malls became a major problem for retailers as internet sales and e-commerce began taking business away from physical stores in the 1990s.\n\nMalls were hit even harder from the shutdowns during the Covid-19 pandemic, with retail slowly recovering over the last six years.\n\nBoatworks at Tahoe LLC, a Lake Tahoe shopping mall and hotel owner, filed for Chapter 11 bankruptcy protection to avoid a foreclosure auction that was scheduled for Aug. 12.\n\nThe Tahoe City, Calif., owner of Boatworks Mall and the adjacent 34-room Inn at Boatworks on Lake Tahoe's North Shore filed its petition in the U.S. Bankruptcy Court for the Eastern District of California on Aug. 11, listing $10 million to $50 million in assets and debts.\n\nCitizens National Bank of Texas in January filed a notice of default against Boatworks at Tahoe on its $14.4 million loan after the debtor failed to pay property taxes and provide proof of insurance. The debtor is managed by San Francisco firm MJD Capital Partners, according to SFGate.\n\n\"Staying open is crucial for the business, the employees, and the community,\" MJD Capital Partners' Marie Murphy said in a statement. \"A Chapter 11 reorganization of the LLC that owns this iconic project legally prevents foreclosure while the business restructures.\"\n\nMJD's Chapter 11 filing invokes an automatic stay on all legal actions against the debtor while the bankruptcy case proceeds. The debtor plans to remain open while it reorganizes its assets in bankruptcy.\n\n\"We continue to believe a mixed-use redevelopment is the best way to revitalize Boatworks and preserve its unique character,\" Murphy said. \"Foreclosure would be a major blow to the area. For over four decades, Boatworks has been Tahoe City's place to be. With this reorganization, we intend to continue our efforts to ensure that legacy continues.\"\n\n",
       "level2_keywords": [
         {
-          "word": "Nvidia",
-          "ipa": "",
-          "meaning": "NVIDIA（美）公司，主要生產顯示卡、計算機器和人工智能 hardware",
-          "example": "Nvidia的新一代 GPU 已經在多家雲端服務商中使用"
+          "word": "Chapter 11",
+          "ipa": "/tʃæp.ər ɛn ɪvɛn/",
+          "meaning": "美國商法第11章（Chapter 11），是美國商法的一部分，主要規定公司在破產前進行重組和重新組織的程序",
+          "example": "公司在破產前進行重組和重新組織"
         },
         {
-          "word": "margin",
-          "ipa": "",
-          "meaning": "毛利率，指公司在生產和销售产品时所获得的利润百分比",
-          "example": "Nvidia 的毛利率在过去的几年里一直在上升"
+          "word": "bankruptcy",
+          "ipa": "/bæŋk.rəpt",
+          "meaning": "破產",
+          "example": "公司因欠債而被宣告破產"
         },
         {
-          "word": "cycle",
-          "ipa": "",
-          "meaning": "周期，指生产和销售产品的周期",
-          "example": "Nvidia 的新一代 GPU 正在进入下一个周期"
+          "word": "reorganization",
+          "ipa": "/rɛɒrɡənaɪʒəˈeɪʃən/",
+          "meaning": "重組和重新組織",
+          "example": "公司進行重組和重新組織"
         },
         {
-          "word": "demand",
-          "ipa": "",
-          "meaning": "需求量，指消费者或客户对产品或服务的需要",
-          "example": "AI demand 是一个重要的驱动力"
+          "word": "foreclosure",
+          "ipa": "/fɔr.kləʊˈsɛr/",
+          "meaning": "強制出售 properties",
+          "example": "銀行因貸款未付而進行強制出售"
         },
         {
-          "word": "guidance",
-          "ipa": "",
-          "meaning": "指示，指公司在未来的某个时间段内预期的销售和利润",
-          "example": "Nvidia 的指导价为 91 亿美元"
+          "word": "redevelopment",
+          "ipa": "/rɛdəˈvɛlmənt/",
+          "meaning": "重建和重構",
+          "example": "城市進行重建和重構"
         }
       ],
-      "level2_context": "\n\n這篇文章主要是關於 Nvidia 的預測和分析，特別是在其將要發表的財務報告中。 Bank of America 的分析師 Vivek Arya 提到，Nvidia 的下一个产品周期将会继续推动公司的增长。\n\nArya 也提到，Nvidia 的新一代 GPU 将会在雲端服務商中使用，這將會對公司的收入和利润产生重大影响。\n\n這篇文章也提到了 Nvidia 的毛利率和周期，強調了公司在过去几年里持续增长的重要性。\n\n總之，這篇文章是關於 Nvidia 的預測和分析，提供了公司未来发展的方向和趋势。",
+      "level2_context": "美國商法第11章（Chapter 11）是美國商法的一部分，主要規定公司在破產前進行重組和重新組織的程序。近期，許多商場因電子商務的影響而出現破產，例如Boatworks at Tahoe LLC。這家Lake Tahoe的商場和酒店經營者，為了避免 foreclosure，決定進行 Chapter 11破產重組。這將使得商場在重組中保持營運，避免被強制出售。",
       "level3_translation": [
         {
-          "sentence": "Every few quarters, the debate around Nvidia moves.",
-          "translation": ""
+          "sentence": "Consumers' flight from brick-and-mortar stores in malls became a major problem for retailers as internet sales and e-commerce began taking business away from physical stores in the 1990s.",
+          "translation": "消費者對實體商店的逃跑，對商店的影響，從1990年代開始出現"
         },
         {
-          "sentence": "For a while, it was about whether AI demand was real.",
-          "translation": ""
+          "sentence": "Malls were hit even harder from the shutdowns during the Covid-19 pandemic, with retail slowly recovering over the last six years.",
+          "translation": "商場在COVID-19大疫中受到更大的打擊， Retail業在去年六年後慢慢恢復"
         },
         {
-          "sentence": "Then it was about whether margins could hold.",
-          "translation": ""
+          "sentence": "Boatworks at Tahoe LLC, a Lake Tahoe shopping mall and hotel owner, filed for Chapter 11 bankruptcy protection to avoid a foreclosure auction that was scheduled for Aug. 12.",
+          "translation": "Boatworks at Tahoe LLC，Lake Tahoe的商場和酒店經營者，為了避免8月12日的 foreclosure 公 sale，決定進行 Chapter 11破產重組"
         },
         {
-          "sentence": "Now, heading into its August 26 earnings report, the question is whether the next product cycle can keep a company already running at this pace from slowing down.",
-          "translation": ""
+          "sentence": "The Tahoe City, Calif., owner of Boatworks Mall and the adjacent 34-room Inn at Boatworks on Lake Tahoe's North Shore filed its petition in the U.S. Bankruptcy Court for the Eastern District of California on Aug. 11.",
+          "translation": "Tahoe City，加州的經營者，Boatworks商場和接近的34間酒店，於8月11日，在加州東部法院，提出了破產申請"
         },
         {
-          "sentence": "Bank of America thinks it can.",
-          "translation": ""
+          "sentence": "Citizens National Bank of Texas in January filed a notice of default against Boatworks at Tahoe on its $14.4 million loan after the debtor failed to pay property taxes and provide proof of insurance.",
+          "translation": "TEXAS州的 Citizens National Bank，於1月提出了對Boatworks at Tahoe的信封，該信封是由於借款人未能繳付地税和ประก照"
         },
         {
-          "sentence": "And the note behind that view is worth reading before the earnings date arrives.",
-          "translation": ""
+          "sentence": "The debtor is managed by San Francisco firm MJD Capital Partners, according to SFGate.",
+          "translation": "負債人是由San Francisco的MJD Capital Partners管理的公司"
         },
         {
-          "sentence": "In a note shared with TheStreet on August 7, Bank of America analyst Vivek Arya called Nvidia (NVDA) his top sector pick ahead of the company's fiscal Q2 FY2027 results.",
-          "translation": ""
+          "sentence": "Staying open is crucial for the business, the employees, and the community,\" MJD Capital Partners' Marie Murphy said in a statement.",
+          "translation": "保持營運對商場、員工和社區都很重要，MJD Capital Partners的Marie Murphy在發表的聲明中說明"
         },
         {
-          "sentence": "He expects revenue of $94 billion to $95 billion, roughly $3 billion to $4 billion above Nvidia's own $91 billion guidance.",
-          "translation": ""
+          "sentence": "A Chapter 11 reorganization of the LLC that owns this iconic project legally prevents foreclosure while the business restructures.",
+          "translation": "Chapter 11破產重組，對於這個標誌性的項目的所有者，法律上可以避免 foreclosure，同時進行商場的重組"
         },
         {
-          "sentence": "That guidance excludes any China data center compute revenue, meaning actual results could come in higher if modest shipments to that market resume.",
-          "translation": ""
+          "sentence": "MJD's Chapter 11 filing invokes an automatic stay on all legal actions against the debtor while the bankruptcy case proceeds.",
+          "translation": "MJD的Chapter 11申請，導致所有對負債人的法律行動暫時停止，直到破產案件完成"
         },
         {
-          "sentence": "Third-quarter guidance, he says, should come in at $107 billion to $108 billion, well above the approximately $104 billion Wall Street is currently modeling.",
-          "translation": ""
+          "sentence": "The debtor plans to remain open while it reorganizes its assets in bankruptcy.",
+          "translation": "負債人打算在破產期間，保持營運"
         },
         {
-          "sentence": "For context, Nvidia reported Q1 FY2027 revenue of $81.6 billion in May, up 85% year over year, with data center revenue of $75.2 billion.",
-          "translation": ""
+          "sentence": "We continue to believe a mixed-use redevelopment is the best way to revitalize Boatworks and preserve its unique character,\" Murphy said.",
+          "translation": "我們仍相信，混合使用 redevelopment 是最好的方法，來 revitalise Boatworks，保留其獨特的氣質"
         },
         {
-          "sentence": "The Q2 guidance of $91 billion implied continued sequential growth.",
-          "translation": ""
+          "sentence": "Foreclosure would be a major blow to the area. For over four decades, Boatworks has been Tahoe City's place to be.",
+          "translation": "強制出售將對這個地區造成重大傷害。過去四十年，Boatworks 已經成為太湖市的主要地點"
         },
         {
-          "sentence": "BofA's $94 billion to $95 billion estimate would extend that momentum further.",
-          "translation": ""
-        },
-        {
-          "sentence": "But Arya isn't really writing about the next quarter.",
-          "translation": ""
-        },
-        {
-          "sentence": "\"The commencement of Vera Rubin next-generation chip deliveries marks the beginning of an extended upgrade cycle spanning multiple quarters,\" he wrote.",
-          "translation": ""
-        },
-        {
-          "sentence": "That's the argument. Not just a beat. A new cycle.",
-          "translation": ""
-        },
-        {
-          "sentence": "Arya has a $350 price target on Nvidia, representing roughly 56% upside from $223.96 at the time of the note.",
-          "translation": ""
-        },
-        {
-          "sentence": "He points out that the stock is trading at about 16 times forward earnings, its lowest valuation in roughly a decade, even as the earnings trajectory continues to rise, as TheStreet reported.",
-          "translation": ""
-        },
-        {
-          "sentence": "Nvidia confirmed at GTC Taipei in June that Vera Rubin has entered full production.",
-          "translation": ""
-        },
-        {
-          "sentence": "The platform pairs Rubin GPUs with the new Vera CPU and is expected to be available from cloud partners in the second half of 2026.",
-          "translation": ""
-        },
-        {
-          "sentence": "AWS, Google Cloud, Microsoft and Oracle are already preparing deployments, with OpenAI, Anthropic and SpaceX among the first customers.",
-          "translation": ""
-        },
-        {
-          "sentence": "Nvidia is targeting enough capacity to require 2 gigawatts of power for the buildout, as TheStreet reported.",
-          "translation": ""
-        },
-        {
-          "sentence": "GPU spot rental prices are near all-time highs, Arya notes in the note.",
-          "translation": ""
-        },
-        {
-          "sentence": "The B200 is running at about $5.66 per hour, the H100 at $2.80 per hour, the A100 at $1.64.",
-          "translation": ""
+          "sentence": "With this reorganization, we intend to continue our efforts to ensure that legacy continues.",
+          "translation": "我們打算，透過這個重組，來確保這個遺產的持續"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Flowers Foods (FLO) Cuts Dividend to Strengthen Financial Health",
+      "title": "AMETEK Stock: Is Wall Street Bullish or Bearish?",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/flowers-foods-flo-cuts-dividend-142459308.html",
-      "level1_blind": {
-        "text": "Flowers Foods (FLO) Cuts Dividend to Strengthen Financial Health"
-      },
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ametek-stock-wall-street-bullish-143246534.html",
+      "level1_blind": "Berwyn, Pennsylvania-based AMETEK, Inc. (AME) manufactures and sells electronic instruments and electromechanical devices. Valued at $59.3 billion by market cap, the company manufactures advanced instruments for process, aerospace, power, and industrial markets, and is a supplier of electrical interconnects, specialty metals, technical motors and systems, and floor care and specialty motors.\n\nShares of this industrial giant have outperformed the broader market over the past year. AME has gained 38.6% over this time frame, while the broader S&P 500 Index ($SPX) has rallied nearly 20.2%. In 2026, AME stock is up 26.2%, surpassing the SPX's 13.2% rise on a YTD basis.\n\nMost Analysts Still Aren't Bullish on Tesla Stock, Even After Recent Selloff. Here's Why.\n\nZooming in further, AME's outperformance looks less pronounced compared to the State Street Industrial Select Sector SPDR ETF (XLI). The exchange-traded fund has gained about 21.8% over the past year. Moreover, the stock's returns on a YTD basis outshine the ETF's 19.8% gains over the same time frame.\n\nAMETEK outperformed on strong Q2 results driven by broad demand in semiconductor, aerospace, and MedTech. CEO David Zapico cited \"double-digit organic sales growth,\" record orders up 25%, and a $4.1 billion backlog, with about 80% expected to ship in the next 12 months. Electronic Instruments benefited from AI-driven semiconductor equipment and power solutions, while Electromechanical saw MedTech and automation strength. Management raised full-year guidance, pointing to AI, defense, and power grid modernization as durable drivers. M&A remains key, with the pending Indicor deal and FARO integration set to boost growth and margins.\n\nOn Aug. 4, AME shares closed up more than 4% after reporting its Q2 results. Its adjusted EPS of $2.09 exceeded Wall Street expectations of $1.99. The company's revenue was $2.04 billion, beating Wall Street forecasts of $1.96 billion. AME expects full-year adjusted EPS in the range of $8.20 to $8.30.\n\nFor the current fiscal year, ending in December, analysts expect AME's EPS to grow 12.1% to $8.33 on a diluted basis. The company's earnings surprise history is impressive. It beat the consensus estimate in each of the last four quarters.\n\nAmong the 21 analysts covering AME stock, the consensus is a \"Moderate Buy.\" That's based on 13 \"Strong Buy\" ratings, one \"Moderate Buy,\" and seven \"Holds.\"",
       "level2_keywords": [
         {
           "word": "semiconductor",
-          "ipa": "/sɛmɪˈdʊərət/",
+          "ipa": "/sɛmɪˈkɒndərəm/",
           "meaning": "半導體",
-          "example": "台積電的新一代晶片設計"
+          "example": "半導體產業的發展對於全球經濟的影響"
         },
         {
-          "word": "export controls",
-          "ipa": "/ɛksˈpɔrt kənˈtroʊlz/",
-          "meaning": "出口管制",
-          "example": "美國政府對於台積電的出口管制"
+          "word": "aerospace",
+          "ipa": "/ˈɛərzəspɛs/",
+          "meaning": "航空航天",
+          "example": "航空航天產業的技術進步對於全球經濟的影響"
         },
         {
-          "word": "rally",
-          "ipa": "/ˈræli/",
-          "meaning": "集會或聚會",
-          "example": "股市在經濟復甦後的短暫上升"
+          "word": "MedTech",
+          "ipa": "/mɛdteʃ/",
+          "meaning": "醫療技術",
+          "example": "醫療技術的發展對於全球健康的影響"
         },
         {
-          "word": "guidance",
-          "ipa": "/ˈɡaɪdəns/",
-          "meaning": "指引或導航",
-          "example": "財政部對於經濟政策的指引"
+          "word": "M&A",
+          "ipa": "/ˈmeɪ.ə.ɑː/",
+          "meaning": "合併與收購",
+          "example": "M&A活動對於企業的成長和發展"
         },
         {
-          "word": "margin",
-          "ipa": "/ˈmærdʒən/",
-          "meaning": "毛利率",
-          "example": "公司的毛利率下降"
+          "word": "AI",
+          "ipa": "/eɪ.ɪ",
+          "meaning": "人工智能",
+          "example": "人工智能的應用對於企業的競爭力"
         }
       ],
-      "level2_context": "趀一学生的江都统叩为不提任务日。我姐一中爸的江都统叩为一中爸的日。",
+      "level2_context": "這篇文章討論了AMETEK公司的股價走勢和其對於不同產業的影響。公司的股價在過去的一年內出現了顯著的上升，尤其是在半導體、航空航天和醫療技術等產業中。公司的 CEO David Zapico 提到了 \"雙位數性生長\" 和 \"記錄性訂單\" 的成果，表明了公司在這些產業中的領導地位。文章還提到了公司的 M&A 活動和 AI 的應用對於其成長和發展的重要性。",
       "level3_translation": [
         {
-          "sentence": "Flowers Foods (FLO) Cuts Dividend to Strengthen Financial Health",
-          "translation": "江都 (上七) 趀一学生的日。"
+          "sentence": "Berwyn, Pennsylvania-based AMETEK, Inc. (AME) manufactures and sells electronic instruments and electromechanical devices.",
+          "translation": "伯文根據美國ペ尼 Sylvia（Pennsylvania）-based AMETEK公司（AME）生產和出售電子儀器和電機機械"
         },
         {
-          "sentence": "The company has cut its dividend payout to reduce debt and strengthen its financial position.",
-          "translation": "上七 趀一学生的日。我姐一中爸的日。"
+          "sentence": "Shares of this industrial giant have outperformed the broader market over the past year.",
+          "translation": "這間工業巨頭的股價在過去的一年內出perform了更廣泛的市場"
         },
         {
-          "sentence": "The move is seen as a response to the company's declining profitability and increasing debt.",
-          "translation": "江都 上七 索一为迁一日。我姐一中爸的日。"
+          "sentence": "AMETEK outperformed on strong Q2 results driven by broad demand in semiconductor, aerospace, and MedTech.",
+          "translation": "AMETEK在第二季的強大成果上出perform，主要是由半導體、航空航天和醫療技術等產業的廣泛需求推動"
         },
         {
-          "sentence": "The company has also announced plans to reduce its workforce and streamline its operations.",
-          "translation": "上七 趀一学生的日。我姐一中爸的日。"
+          "sentence": "CEO David Zapico cited \"double-digit organic sales growth,\" record orders up 25%, and a $4.1 billion backlog, with about 80% expected to ship in the next 12 months.",
+          "translation": "CEO David Zapico 提到了 \"雙位數性生長\" 的成果、記錄性訂單的上升和 4.1 億美元的預期預付金，預計將在下一個一年的 80% 的時間內交貨"
         },
         {
-          "sentence": "The move is expected to have a positive impact on the company's financial performance.",
-          "translation": "江都 上七 索一为迁一日。"
+          "sentence": "Electronic Instruments benefited from AI-driven semiconductor equipment and power solutions, while Electromechanical saw MedTech and automation strength.",
+          "translation": "電子儀器從 AI驅動的半導體機器和電力解決方案中受益，而電機機械則從醫療技術和自動化技術的強度中受益"
+        },
+        {
+          "sentence": "Management raised full-year guidance, pointing to AI, defense, and power grid modernization as durable drivers.",
+          "translation": "管理層提高了全年預期，指出 AI、防禦和電力網路現代化是持續性的推動力"
+        },
+        {
+          "sentence": "M&A remains key, with the pending Indicor deal and FARO integration set to boost growth and margins.",
+          "translation": "M&A remains key，與即將完成的 Indicor 合併和 FARO 整合將推動生產力和利益"
+        },
+        {
+          "sentence": "On Aug. 4, AME shares closed up more than 4% after reporting its Q2 results.",
+          "translation": "在 8 月 4 日，AME 股價上升超過 4%，在發布第二季的成果後"
+        },
+        {
+          "sentence": "Its adjusted EPS of $2.09 exceeded Wall Street expectations of $1.99.",
+          "translation": "其調整的 EPS 為 2.09 美元，遠遠超越了 Wall Street 的預期 1.99 美元"
+        },
+        {
+          "sentence": "The company's revenue was $2.04 billion, beating Wall Street forecasts of $1.96 billion.",
+          "translation": "公司的收入為 2.04 億美元，遠遠超越了 Wall Street 的預期 1.96 億美元"
+        },
+        {
+          "sentence": "AME expects full-year adjusted EPS in the range of $8.20 to $8.30.",
+          "translation": "AME預計全年調整的 EPS 會在 8.20 美元至 8.30 美元之間"
+        },
+        {
+          "sentence": "For the current fiscal year, ending in December, analysts expect AME's EPS to grow 12.1% to $8.33 on a diluted basis.",
+          "translation": "目前財政年度（12 月結束）時，分析師預計 AME 的 EPS 會增加 12.1% 至 8.33 美元，稀釋後"
+        },
+        {
+          "sentence": "The company's earnings surprise history is impressive.",
+          "translation": "公司的利益出現史無前例"
+        },
+        {
+          "sentence": "It beat the consensus estimate in each of the last four quarters.",
+          "translation": "它在過去的四個季度都超過了平均預期"
+        },
+        {
+          "sentence": "Among the 21 analysts covering AME stock, the consensus is a \"Moderate Buy.\" That's based on 13 \"Strong Buy\" ratings, one \"Moderate Buy,\" and seven \"Holds.\"",
+          "translation": "評估 AME 股價的 21 名分析師中，共識是 \"中等買入\"，根據 13 名 \"強烈買入\" 的評分、1 名 \"中等買入\" 的評分和 7 名 \"保持持有\" 的評分"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Airbnb CEO Brian Chesky Says AI Is 'The Best Thing to Have Happened' to His Company — And That the Millions Spent 'Pales In Comparison' to What It Brings Back",
+      "title": "‘Learn to code’ is so 2010 — now AI boot camps are where it’s at for the future of work",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/airbnb-ceo-brian-chesky-says-142508784.html",
-      "level1_blind": "Every chief executive in America has spent two years saying artificial intelligence is transforming their company. Almost none can point to a line in the financials where it shows up. After Airbnb (ABNB) reported second-quarter results, Brian Chesky went further than the usual formulation: “I think now it’s safe to say AI is the best thing to have happened to Airbnb.” The stock rose roughly 15% the next day.\n\nHe said it in a CNBC interview published Aug. 7, following the company’s earnings call the evening before. In the same interview, he said Airbnb will spend “ a lot more ” on AI tokens this year than it originally forecast, a mid-year increase in a cost line, disclosed on television rather than in guidance. He attached no dollar figure to it, and nobody should invent one on his behalf.\n\nShaq Says His Dad Treated Him to White Castle, But When He Saw Homeless Man With a Sign, He Gave 3 of His Burgers to the Guy — ’Always Look Out for the Little Man'\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nThe reported numbers are the strongest part of his case because they are the part anyone can check against a filing. Airbnb said revenue rose 17% year-over-year (YoY) to about $3.6 billion, gross booking value rose 16% to roughly $27.2 billion, and net income landed near $816 million. Adjusted EBITDA of about $1.3 billion worked out to a 35% margin, and the company guided full-year margin up to at least 35.5%. That last item is the closest thing to hard evidence here: a company raising AI spending and raising margin guidance in the same breath, rather than asking investors to wait.\n\nHis justification is worth reading slowly. The cost of inference, Chesky argued, “pales in comparison” to what Airbnb earns on each booking and to the revenue that comes from building products faster. Inference is what you pay every time a model actually runs, every support reply drafted, every listing summarized, and every search reranked. It is a per-use cost rather than a one-time build, which is precisely why investors have been nervous about it. His claim is that on Airbnb’s unit economics, the ratio is not close.\n\nThe evidence then arrives in two very different tiers, and most coverage has blended them. Tier one is the reported financials: revenue, bookings, net income, margin, and guidance. Those sit in a shareholder letter, and anyone who wants to argue can read it against what analysts expected going into the quarter.\n\nTier two exists only because Airbnb says so. The company told investors AI has cut development time for some initiatives by as much as 60% while lifting features and improvements shipped in the first half by nearly 80% year over year, noting both hedges, “some initiatives” and “as much as,” which several outlets dropped on the way to reporting a flat 60% cut. Airbnb also said roughly 60% of its new code is AI-coauthored, about twice the industry average, without naming whose estimate that average is. And it said its AI support assistant works in 50-plus languages and resolves about 45% of inquiries without a human, with support cost per booking down around 16%.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/learn-code-2010-now-ai-143000003.html",
+      "level1_blind": "Amid an uncertain job market, some workers are looking to get a leg up by learning AI skills, and educational institutions are rushing to fill the gap.\n\nData from the Bureau of Labor Statistics shows jobs that are expected to be impacted by AI are already seeing losses. Meanwhile, employers are increasingly including AI skills in their job postings, and the job market, which seemed to be rebounding in the spring, is currently in a slump.\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake. Here's what it is and 3 simple steps to fix it ASAP\n\nThe tax breaks in Trump's 'big beautiful bill' expire after 2028. Here are 4 moves to make before the window closes\n\nEnter AI training courses, or boot camps, where students can learn the skills they may need to succeed in an ever-expanding AI landscape. Whether held at traditional colleges or for-profit learning centers, these offerings have increased exponentially in recent years.\n\nAccording to a spring job outlook report from the National Association of Colleges and Employers (NACE), the rate that AI skills are being included in job descriptions for entry-level positions is increasing, and fast: from 10.5% in the fall of 2025 to 16.5% in spring 2026.\n\nAnd of the employers that responded to the NACE survey, more than a third said entry-level positions require AI skills, which was almost triple the amount compared to fall 2025 survey responses.",
       "level2_keywords": [
         {
-          "word": "Artificial",
-          "ipa": "",
-          "meaning": "詟主四",
-          "example": "詟主四 我一中为 成区水方"
+          "word": "boot",
+          "ipa": "/buːt/",
+          "meaning": "開放式教育機構",
+          "example": "這間開放式教育機構提供AI技能的培訓"
         },
         {
-          "word": "Airbnb",
-          "ipa": "",
-          "meaning": "输內四",
-          "example": "输內四 我一中为 17% "
+          "word": "landscape",
+          "ipa": "/lændˈskaːp/",
+          "meaning": "環境",
+          "example": "AI技術的應用正在改變產業的環境"
         },
         {
-          "word": "AI",
-          "ipa": "",
-          "meaning": "詟主四",
-          "example": "詟主四 我一中为 60% "
+          "word": "reorganization",
+          "ipa": "/rɛɒrɡənaɪˈzeɪʃən/",
+          "meaning": "重新組織",
+          "example": "公司正在進行AI技能的重新組織"
         },
         {
-          "word": "Inference",
-          "ipa": "",
-          "meaning": "水方詟",
-          "example": "水方詟 我一中为 16% "
+          "word": "forecast",
+          "ipa": "/fərˈkæst/",
+          "meaning": "預測",
+          "example": "經濟學家正在進行AI技能的預測"
         },
         {
-          "word": "Development",
-          "ipa": "",
-          "meaning": "樞四发",
-          "example": "樞四发 我一中为 80% "
+          "word": "redevelopment",
+          "ipa": "/rɛdɪˈvɛlmənt/",
+          "meaning": "重建",
+          "example": "城市正在進行AI技能的重建"
         }
       ],
-      "level2_context": "詟主四 我一中为 AI, 我一中为 成区水方詟主四四我一中为 60% 我一中为 80% 樞四发我一中为 AI詟主四四我一中为 45% 成区水方詟主四四我一中为 16%",
+      "level2_context": "AI技術正在改變產業的環境，教育機構正在提供AI技能的培訓，為未來工作的準備做好準備",
       "level3_translation": [
         {
-          "sentence": "Every chief executive in America has spent two years saying artificial intelligence is transforming their company.",
-          "translation": "詟主四 我一中为 AI, 我一中为 成区水方詟主四四我一中为 60% 我一中为 80% 樞四发我一中为 AI詟主四四我一中为 45% 成区水方詟主四四我一中为 16%"
+          "sentence": "Amid an uncertain job market, some workers are looking to get a leg up by learning AI skills, and educational institutions are rushing to fill the gap.",
+          "translation": "在未來工作市場不確定的情況下，某些工人正在嘗試通過學習AI技能來獲得競爭力，而教育機構正在努力填補這個空白"
         },
         {
-          "sentence": "Airbnb CEO Brian Chesky Says AI Is 'The Best Thing to Have Happened' to His Company — And That the Millions Spent 'Pales In Comparison' to What It Brings Back",
-          "translation": "输內四 我一中为 AI, 我一中为 成区水方詟主四四我一中为 60% 我一中为 80% 樞四发我一中为 AI詟主四四我一中为 45% 成区水方詟主四四我一中为 16%"
+          "sentence": "Data from the Bureau of Labor Statistics shows jobs that are expected to be impacted by AI are already seeing losses.",
+          "translation": "美國工務局統計數據顯示，對AI影響的工作已經開始出現損失"
         },
         {
-          "sentence": "Airbnb will spend \" a lot more ” on AI tokens this year than it originally forecast, a mid-year increase in a cost line, disclosed on television rather than in guidance.",
-          "translation": "输內四 我一中为 AI, 我一中为 成区水方詟主四四我一中为 60% 我一中为 80% 樞四发我一中为 AI詟主四四我一中为 45% 成区水方詟主四四我一中为 16%"
+          "sentence": "Meanwhile, employers are increasingly including AI skills in their job postings, and the job market, which seemed to be rebounding in the spring, is currently in a slump.",
+          "translation": "與此同時，雇主正在越來越多地將AI技能列入工作標簽中，而工作市場，最初在春季似乎正在恢復，目前正在經歷衰退"
         },
         {
-          "sentence": "Shaq Says His Dad Treated Him to White Castle, But When He Saw Homeless Man With a Sign, He Gave 3 of His Burgers to the Guy — 'Always Look Out for the Little Man'",
-          "translation": "输內四 我一中为 AI, 我一中为 成区水方詟主四四我一中为 60% 我一中为 80% 樞四发我一中为 AI詟主四四我一中为 45% 成区水方詟主四四我一中为 16%"
+          "sentence": "Jeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one.",
+          "translation": " Jeff Bezos 支持了一個平台，讓任何人都可以投資房地產租金為 100 美元或以下 — 6 种方法可以像房東一樣建富而不必實際地成為房東"
         },
         {
-          "sentence": "Markets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.",
-          "translation": "输內四 我一中为 AI, 我一中为 成区水方詟主四四我一中为 60% 我一中为 80% 樞四发我一中为 AI詟主四四我一中为 45% 成区水方詟主四四我一中为 16%"
+          "sentence": "Dave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake. Here's what it is and 3 simple steps to fix it ASAP.",
+          "translation": "戴夫拉姆西警告近 50% 的美國人正在犯一大個Social Security錯誤。以下是這個錯誤的原因和 3 步簡單的方法來修正它"
         },
         {
-          "sentence": "成区水方詟主四 我一中为 AI, 我一中为 成区水方詟主四四我一中为 60% 我一中为 80% 樞四发我一中为 AI詟主四四我一中为 45% 成区水方詟主四四我一中为 16%",
-          "translation": "詟主四 我一中为 AI, 我一中为 成区水方詟主四四我一中为 60% 我一中为 80% 樞四发我一中为 AI詟主四四我一中为 45% 成区水方詟主四四我一中为 16%"
+          "sentence": "The tax breaks in Trump's 'big beautiful bill' expire after 2028. Here are 4 moves to make before the window closes.",
+          "translation": "特朗普的 '大美的法案' 中的稅折期限將在 2028 年後期結束。以下是 4 种方法可以在窗口關閉之前做到"
+        },
+        {
+          "sentence": "Enter AI training courses, or boot camps, where students can learn the skills they may need to succeed in an ever-expanding AI landscape.",
+          "translation": "進入AI培訓課程或開放式教育機構，讓學生可以學習可能需要在AI環境中成功的技能"
+        },
+        {
+          "sentence": "Whether held at traditional colleges or for-profit learning centers, these offerings have increased exponentially in recent years.",
+          "translation": "不管是在傳統大學或為利益公司的教育中心，這些培訓課程在近年內的數量已經急剧增加"
+        },
+        {
+          "sentence": "According to a spring job outlook report from the National Association of Colleges and Employers (NACE), the rate that AI skills are being included in job descriptions for entry-level positions is increasing, and fast: from 10.5% in the fall of 2025 to 16.5% in spring 2026.",
+          "translation": "根據NACE的春季就業預測報告，對AI技能的包含率在新入職人員職位描述中正在快速增加：從 2025 年秋季的 10.5% 到 2026 年春季的 16.5% "
+        },
+        {
+          "sentence": "And of the employers that responded to the NACE survey, more than a third said entry-level positions require AI skills, which was almost triple the amount compared to fall 2025 survey responses.",
+          "translation": "NACE調查的Employers中，超過一半表示新入職人員職位需要AI技能，這是與2025 年秋季的調查相比的近三倍"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "在金融市場中，Nvidia 的下一步升級 cycle 和 Flowers Foods 的財務健康強化是兩大重要事件。Bank of America 的分析師 Vivek Arya 對 Nvidia 的估值持樂觀態，認為公司將繼續保持快速成長，而花owers Foods 切斷了分紅線，表明其在處理財務風險方面取得進步。這兩個事件可能會對金融市場產生影響，投資者應該密切關注 Nvidia 和 Flowers Foods 的股價變化，並考慮將資金投入到這些公司的股權證券中，以盡量捕捉其未來成長的潛力。同時，花owers Foods 的財務健康強化也可能會對其他公司的股價產生影響，投資者應該謹慎評估其對於整體市場的影響。"
+    "market_connection": "在現代金融市場中，股市和國際財經新聞之間的關聯性非常複雜。然而，根據最近的財經消息，股市的表現與國際財經新聞的報導有著明顯的關聯。例如，當國際財經新聞報導關於企業的財務狀況或市場趨勢時，股市的表現可能會受到影響。這可能是因為投資者和金融機構對於這些報導的關注度和信心度的變化。因此，為了有效地做出投資決策，需要密切關注國際財經新聞的報導，並分析其對股市的影響。"
   }
 }
