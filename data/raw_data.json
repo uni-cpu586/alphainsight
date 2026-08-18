@@ -1,68 +1,68 @@
 {
-  "date": "2026-08-18",
-  "stock_market_date": "2026-08-17",
+  "date": "2026-08-19",
+  "stock_market_date": "2026-08-18",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 49446837
+          "stock_name": "長榮",
+          "ticker": "2603",
+          "net_buy_shares": 15066712
         },
         {
           "rank": 2,
-          "stock_name": "長榮",
-          "ticker": "2603",
-          "net_buy_shares": 24586239
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_buy_shares": 14816922
         },
         {
           "rank": 3,
           "stock_name": "陽明",
           "ticker": "2609",
-          "net_buy_shares": 23734968
+          "net_buy_shares": 14344696
         },
         {
           "rank": 4,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 23723624
+          "stock_name": "三商壽",
+          "ticker": "2867",
+          "net_buy_shares": 13409530
         },
         {
           "rank": 5,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_buy_shares": 20769850
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_buy_shares": 10802898
         },
         {
           "rank": 6,
-          "stock_name": "欣興",
-          "ticker": "3037",
-          "net_buy_shares": 20705461
+          "stock_name": "凌巨",
+          "ticker": "8105",
+          "net_buy_shares": 10694721
         },
         {
           "rank": 7,
-          "stock_name": "萬海",
-          "ticker": "2615",
-          "net_buy_shares": 17941416
+          "stock_name": "欣興",
+          "ticker": "3037",
+          "net_buy_shares": 10676502
         },
         {
           "rank": 8,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_buy_shares": 16305744
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_buy_shares": 10209358
         },
         {
           "rank": 9,
-          "stock_name": "遠東銀",
-          "ticker": "2845",
-          "net_buy_shares": 16295128
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 10202794
         },
         {
           "rank": 10,
-          "stock_name": "中環",
-          "ticker": "2323",
-          "net_buy_shares": 15130967
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 10175743
         }
       ],
       "foreign_sell": [
@@ -70,247 +70,247 @@
           "rank": 1,
           "stock_name": "力積電",
           "ticker": "6770",
-          "net_sell_shares": -68115695
+          "net_sell_shares": -35766505
         },
         {
           "rank": 2,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_sell_shares": -34126968
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -32023397
         },
         {
           "rank": 3,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_sell_shares": -28402929
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -29691966
         },
         {
           "rank": 4,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_sell_shares": -21972440
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_sell_shares": -27653790
         },
         {
           "rank": 5,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_sell_shares": -18295306
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_sell_shares": -27234113
         },
         {
           "rank": 6,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -16511519
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -21672909
         },
         {
           "rank": 7,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_sell_shares": -13548255
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -16100955
         },
         {
           "rank": 8,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_sell_shares": -12779303
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -14426240
         },
         {
           "rank": 9,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_sell_shares": -12459523
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_sell_shares": -8750877
         },
         {
           "rank": 10,
-          "stock_name": "英業達",
-          "ticker": "2356",
-          "net_sell_shares": -11293749
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_sell_shares": -8148892
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 23753357
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 25106438
         },
         {
           "rank": 2,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 22064962
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 22147264
         },
         {
           "rank": 3,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 20913040
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 18674309
         },
         {
           "rank": 4,
           "stock_name": "永豐金",
           "ticker": "2890",
-          "net_buy_shares": 15620756
+          "net_buy_shares": 13974047
         },
         {
           "rank": 5,
           "stock_name": "第一金",
           "ticker": "2892",
-          "net_buy_shares": 15415394
+          "net_buy_shares": 13662769
         },
         {
           "rank": 6,
-          "stock_name": "合庫金",
-          "ticker": "5880",
-          "net_buy_shares": 12762000
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 13592224
         },
         {
           "rank": 7,
           "stock_name": "兆豐金",
           "ticker": "2886",
-          "net_buy_shares": 8108745
+          "net_buy_shares": 12352505
         },
         {
           "rank": 8,
-          "stock_name": "和碩",
-          "ticker": "4938",
-          "net_buy_shares": 4374000
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_buy_shares": 12003000
         },
         {
           "rank": 9,
           "stock_name": "華南金",
           "ticker": "2880",
-          "net_buy_shares": 3060000
+          "net_buy_shares": 11612000
         },
         {
           "rank": 10,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 2750000
+          "stock_name": "中華電",
+          "ticker": "2412",
+          "net_buy_shares": 4381667
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -10402375
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_sell_shares": -17860000
         },
         {
           "rank": 2,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_sell_shares": -9905383
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_sell_shares": -9538000
         },
         {
           "rank": 3,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -9252000
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_sell_shares": -4370881
         },
         {
           "rank": 4,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_sell_shares": -6583000
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_sell_shares": -3877203
         },
         {
           "rank": 5,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_sell_shares": -5689540
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -2957061
         },
         {
           "rank": 6,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_sell_shares": -4747456
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_sell_shares": -2300000
         },
         {
           "rank": 7,
-          "stock_name": "統一",
-          "ticker": "1216",
-          "net_sell_shares": -3159000
+          "stock_name": "愛普*",
+          "ticker": "6531",
+          "net_sell_shares": -1753287
         },
         {
           "rank": 8,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_sell_shares": -2686000
+          "stock_name": "文曄",
+          "ticker": "3036",
+          "net_sell_shares": -1638062
         },
         {
           "rank": 9,
           "stock_name": "大聯大",
           "ticker": "3702",
-          "net_sell_shares": -2220000
+          "net_sell_shares": -1593000
         },
         {
           "rank": 10,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -2058006
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_sell_shares": -1358588
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 5447000
+          "stock_name": "新興",
+          "ticker": "2605",
+          "net_buy_shares": 1689000
         },
         {
           "rank": 2,
-          "stock_name": "長榮",
-          "ticker": "2603",
-          "net_buy_shares": 1549000
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 664414
         },
         {
           "rank": 3,
-          "stock_name": "陽明",
-          "ticker": "2609",
-          "net_buy_shares": 1417729
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_buy_shares": 646970
         },
         {
           "rank": 4,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 902600
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_buy_shares": 363000
         },
         {
           "rank": 5,
-          "stock_name": "強茂",
-          "ticker": "2481",
-          "net_buy_shares": 735000
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 338000
         },
         {
           "rank": 6,
-          "stock_name": "遠東銀",
-          "ticker": "2845",
-          "net_buy_shares": 726000
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_buy_shares": 332445
         },
         {
           "rank": 7,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_buy_shares": 652000
+          "stock_name": "新纖",
+          "ticker": "1409",
+          "net_buy_shares": 304000
         },
         {
           "rank": 8,
-          "stock_name": "晶技",
-          "ticker": "3042",
-          "net_buy_shares": 623200
+          "stock_name": "陽明",
+          "ticker": "2609",
+          "net_buy_shares": 291653
         },
         {
           "rank": 9,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 572000
+          "stock_name": "遠東銀",
+          "ticker": "2845",
+          "net_buy_shares": 205000
         },
         {
           "rank": 10,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 571000
+          "stock_name": "遠雄港",
+          "ticker": "5607",
+          "net_buy_shares": 189000
         }
       ],
       "dealer_sell": [
@@ -318,61 +318,61 @@
           "rank": 1,
           "stock_name": "富邦科技",
           "ticker": "0052",
-          "net_sell_shares": -6497000
+          "net_sell_shares": -5740236
         },
         {
           "rank": 2,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_sell_shares": -566223
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -1336000
         },
         {
           "rank": 3,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_sell_shares": -462320
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -920000
         },
         {
           "rank": 4,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_sell_shares": -421000
+          "stock_name": "力成",
+          "ticker": "6239",
+          "net_sell_shares": -632205
         },
         {
           "rank": 5,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_sell_shares": -411000
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -515760
         },
         {
           "rank": 6,
-          "stock_name": "雷虎",
-          "ticker": "8033",
-          "net_sell_shares": -392300
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -509062
         },
         {
           "rank": 7,
-          "stock_name": "冠德",
-          "ticker": "2520",
-          "net_sell_shares": -333000
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_sell_shares": -412000
         },
         {
           "rank": 8,
-          "stock_name": "豐泰",
-          "ticker": "9910",
-          "net_sell_shares": -293000
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_sell_shares": -354900
         },
         {
           "rank": 9,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_sell_shares": -251000
+          "stock_name": "晶技",
+          "ticker": "3042",
+          "net_sell_shares": -330111
         },
         {
           "rank": 10,
-          "stock_name": "元大高股息",
-          "ticker": "0056",
-          "net_sell_shares": -241749
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_sell_shares": -325010
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "友達",
-        "shares": 17306392
+        "target": "長榮",
+        "shares": 5273349
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "群創",
-        "shares": 2178800
+        "target": "新興",
+        "shares": 675600
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "玉山金",
-        "shares": 10689010
+        "target": "台新新光金",
+        "shares": 11297897
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
         "target": "力積電",
-        "shares": 20434708
+        "shares": 10729951
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Warren Buffett's Berkshire raises stake in world's largest airline",
+      "title": "Costco launching Medicare Advantage plans with SCAN Group",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-raises-stake-214700937.html",
-      "summary": "Warren Buffett's Berkshire raises stake in world's largest airline",
-      "full_text": "Warren Buffett spent years telling anyone who would listen that airlines were a terrible business to own.\n\nBuffett called them a \"capital trap,\" a place where fuel costs and fare wars could erase profits almost overnight.\n\nThen Covid hit, and Berkshire Hathaway dumped its entire airline portfolio in 2020, locking in steep losses. \"The world has changed for airlines,\" Buffett said at the time.\n\nSo it says something that Berkshire (BRK.A) has now done the opposite. The conglomerate has been steadily building a position in Delta Air Lines, and the numbers show real conviction.\n\nAccording to recent 13F filings, Berkshire's stake in Delta jumped 44% during the second quarter of 2026, climbing to 57.3 million shares. That position was worth roughly $5.4 billion at the end of June.\n\nBack in May, I reported that Berkshire had already built a Delta position worth about $2.6 billion as of the end of March 2026.\n\nThat earlier purchase came during Greg Abel's first quarter running Berkshire after taking over as chief executive from Buffett in January.\n\nAbel had laid out his approach to shareholders in February. He wrote that Berkshire has \"core\" positions it will not sell, but outside those, the firm plans to stay disciplined and concentrated.",
-      "published": "2026-08-16T21:47:00Z"
+      "link": "https://finance.yahoo.com/healthcare/articles/costco-launching-medicare-advantage-plans-171035001.html",
+      "summary": "Costco launching Medicare Advantage plans with SCAN Group",
+      "full_text": "Costco Wholesale Corporation and nonprofit insurer SCAN Group announced a partnership on Tuesday to sell Costco-branded Medicare plans, marking the retailer's first entry into the Medicare market. The two companies plan to begin with Medicare Advantage products in two states and a Medicare supplement plan in a third, pending regulatory approval from the Medicare agency, according to the Wall Street Journal.\n\nUnder the arrangement, Costco would market branded health insurance products for older adults; the companies said covered services could encompass prescription drug access, Medflex over-the-counter benefits, vision care, and audiology, among other offerings. The plans will be sold in Costco stores as well as through insurance agents and other standard channels. Federal rules prohibit bundling a Costco membership with the health plans.\n\nSCAN Group CEO Dr. Sachin H. Jain said the new Medicare Advantage plans would integrate closely with Costco's existing offerings across prescription drugs, vision, over-the-counter medications, food, and hearing products. \"We are trying to create something that's incredibly simple for people to use that will enable them to seamlessly access their benefits,\" Dr. Jain said.\n\nCostco CEO Ron Vachris said in a statement that the partnership extends the retailer's longstanding commitment to delivering value to its members. \"We have developed a shared understanding of what matters most to the seniors we serve,\" Vachris said in the statement. \"Deepening our partnership allows us to build on that foundation and create value for our members.\"\n\nRichard Stephens, senior vice president for pharmacy at Costco, described the Medicare effort as a pilot. \"We plan to learn a lot from it, and we plan to make sure that we have the right product for our members,\" Stephens told the Wall Street Journal. He added that Costco members trust that the retailer has vetted what it sells, and that the company aims to apply that same standard to the new insurance product.\n\nSCAN Health Plan's coverage footprint spans 33 counties across six states — California, Arizona, Nevada, Texas, New Mexico, and Washington — reaching close to 460,000 members. When affiliated programs and entities are included, the broader SCAN Group network reaches roughly 500,000 members and patients, the company said. The two companies declined to disclose the financial terms of the partnership.",
+      "published": "2026-08-18T17:10:35Z"
     },
     {
       "id": "news_2",
-      "title": "Nvidia’s Financing Platform Will Support the AI Investment Boom",
+      "title": "Tech searches for gains as stocks teeter at the open: AlphaCheck",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-financing-platform-support-ai-134501906.html",
-      "summary": "Nvidia’s Financing Platform Will Support the AI Investment Boom",
-      "full_text": "Of late, Micheal Burry has been skeptical on the developments in the technology sector. Recently, Burry disclosed short positions in Oracle (ORCL) and Nebius Group (NBIS) citing \"rising leverage risks linked to off-balance-sheet commitments across the technology and cloud sectors.\"\n\nFurther, Burry also critiqued Nvidia Corporation's (NVDA) $500 billion infrastructure financing deal and \"complex web of private credit and asset-backed securities\" that preceded the financial crisis of 2008-09.\n\nCoreWeave vs Nebius: Both Companies Reported Strong Earnings, But Here's the Stock You Should Buy\n\nAs Oracle Deepens Its Partnership with AWS, Here's How You Should Play ORCL Stock\n\nUnder this deal, the likes of Apollo (APO), BlackRock (BLK), Blackstone (BX), Brookfield (BN), Goldman Sachs (GS), and KKR & Co. (KKR), will be mobilizing over \"$500 billion of third-party capital for the buildout of AI infrastructure over time.\" This financing platform will help customers \"access scarce compute at scale and build the DSX AI factories\" and Nvidia will be acting as a marketplace. This move is likely to provide incremental capital infusion into the full-stack AI infrastructure.\n\nAmidst the criticism of this deal, an important point to note is that the current AI boom is different from the dotcom bubble. As Goldman Sachs points out, \"corporate profit margins have climbed rather than eroded.\"\n\nFurther, AI infrastructure spending is significant, but the technology sector has robust cash flows and a strong balance sheet. Nvidia, as a full-stack AI infrastructure company, is therefore well positioned to grow and create value.\n\nHeadquartered in Santa Clara, Nvidia is a technology giant and commands a market valuation of $5.423 trillion. The company describes itself as a global leader in accelerated computing and AI.",
-      "published": "2026-08-16T13:45:01Z"
+      "link": "https://finance.yahoo.com/markets/article/tech-searches-for-gains-as-stocks-teeter-at-the-open-alphacheck-135155576.html",
+      "summary": "Tech searches for gains as stocks teeter at the open: AlphaCheck",
+      "full_text": "Good morning. Stocks diverged at the open, with the Dow Jones Industrial Average (^DJI) and S&P 500 (^GSPC) slipping, while the tech-heavy Nasdaq Composite (^IXIC) wavered.\n\nHere's a check of the markets in the first few minutes of trading, based on a heat map powered by Yahoo Finance AlphaSpace data.\n\nTechnology (XLK) was one of the few sectors in the green at the start of trading, as a large revenue haul by AI startup Anthropic (ANTH.PVT) helped bolster semiconductor stocks. However, tech's hold on the morning's gains looked fragile, with five of the \"Magnificent Seven\" stocks trading in the red.\n\nThe other sectors were solidly red, with Consumer Discretionary (XLY), Communication Services (XLC), and Basic Materials (XLB) among the biggest laggards.\n\nHere are some notable stocks that Yahoo Finance readers are viewing this morning: Micron (MU), Sandisk (SNDK), Intel (INTC), SK Hynix (SKHY), Meta (META), Bloom Energy (BE), Seagate Technology (STX).\n\nClick here for in-depth analysis of the latest stock market news and events moving stock prices",
+      "published": "2026-08-17T13:51:55Z"
     },
     {
       "id": "news_3",
-      "title": "Wendy’s Jumps on Report That Nelson Peltz Wants to Take His Old Company Private",
+      "title": "Target stock is on fire — but a big test lurks",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wendy-jumps-report-nelson-peltz-134908532.html",
-      "summary": "Wendy’s Jumps on Report That Nelson Peltz Wants to Take His Old Company Private",
-      "full_text": "The Wendy's Company (NASDAQ:WEN) just had its best week in months, with shares of the fast-food giant rising up to 16% on August 12 after the Financial Times reported that Nelson Peltz's Trian Fund Management is putting together a proposal to take the company private. According to a separate report by Reuters, Trian is putting up a consortium of co-investors, which could include Bugatti-backer BlueFive Capital and Flynn Group, with a formal bid expected in the following weeks, although the actual timetable may vary.\n\nPeltz isn't a stranger at Wendy's. Trian is the company's largest shareholder, with a 7.85% interest, while Peltz personally holds approximately 16.24%. His relationship with Wendy's spans over two decades, including a stint as chairman, and this isn't even his first attempt at a takeover: Trian considered taking Wendy's private in 2022, stating in a filing that it saw the company as undervalued during the time, giving the fund an unusually intimate vantage point on how much trouble the company is in.\n\nThe takeover report came just days after The Wendy's Company (NASDAQ:WEN) reported its sixth straight quarter of same-store sales downturns, a slump analysts say has cost the company its long-held spot as America's second-largest burger chain by system sales, a title now belonging to Restaurant Brands International's Burger King. Following the latest quarterly sales dip, the company pulled back its full-year 2026 estimate, citing fewer customer visits, inflation, and a declining U.S. restaurant footprint as the root causes of decreased sales and profitability.\n\nNew leadership has already attempted to turn things around. Bob Wright, who was named permanent president and CEO in May, has outlined a turnaround strategy focusing on revamping the menu around attractive pricing, better marketing, and improved digital ordering, similar to the going-private turnaround he previously completed at Potbelly.\n\nThe case for Wendy's is based on Trian's thorough understanding of the business. Peltz and Trian have a unique perspective on the company's true value, having previously sat close to the boardroom and discussed a take-private deal in 2022. Their willingness to reconsider a bid now shows they still see upside that the public market isn't pricing in. CEO Bob Wright offers a proven turnaround strategy, having completed a similar going-private change at Potbelly, and taking The Wendy's Company (NASDAQ:WEN) private may allow him to implement that plan without the burden of quarterly public reporting.\n\nMeanwhile, the case against getting overly hopeful begins with the underlying business, which is failing rather than stabilizing. Six straight quarters of declining same-store sales, the loss of its status as America's second-largest burger chain, and the withdrawal of full-year projections all point to a company still looking for a floor. Nothing has been publicly suggested yet, and Trian's 2022 approach did not result in a transaction, something worth keeping in mind before presuming this attempt would go differently.\n\nHedge fund ownership has continued to be steady leading into the report, with 36 funds in both the fourth of 2025 and first quarter of 2026. Meanwhile, short interest is at an extremely high 33.93% of the float, showing that a sizable group of investors had already bet against the stock before the takeover story took place.\n\nInvestors should consider this as an unconfirmed issue stacked on top of a faltering business. Those who already own shares may want to wait for a formal proposal or regulatory filing before assuming a takeover premium is locked in, especially since Trian abandoned a similar strategy in 2022. New investors should keep an eye on incoming same-store sales data and any updates on the turnaround plan's development, because if the deal falls through, The Wendy's Company (NASDAQ:WEN) shares would most likely trade on fundamentals that have been worsening for a year and half.",
-      "published": "2026-08-16T13:49:08Z"
+      "link": "https://finance.yahoo.com/markets/stocks/article/target-stock-is-on-fire--but-a-big-test-lurks-134816381.html",
+      "summary": "Target stock is on fire — but a big test lurks",
+      "full_text": "The bulls have returned to Target's (TGT) stock in a big way this year on hopes for a turnaround under new CEO Michael Fiddelke.\n\nThat upbeat thesis — which has powered shares up 59% this year — is about to be put to the test later this week when the company reports second quarter earnings. But even if Target delivers on the quarter and raises its full-year profit guidance as expected, it may not be enough to keep the stock price charging higher.\n\n\"Investor expectations are very elevated into Target's second quarter print, but we believe the more important debate is whether improving store and merchandising execution supports confidence in growth durability in FY27 and beyond,\" Deutsche Bank analyst Krisztina Katai said.\n\nTarget is expected to post a second quarter comparable sales increase of 2.3% and earnings of $2.29. Comparable sales fell 1.5% in last year's second quarter amid a host of merchandising execution issues. Earnings came in at $2.05.\n\nSince the start of 2026, however, Target has moved quickly to rewrite its merchandising wrongs.\n\nIt has expanded wellness offerings, added 3,000 beauty products across 60 new brands, reset 75% of home decorative accessories, accelerated food and beverage innovation, and introduced a back-to-school assortment that is more than 50% new, Jefferies analyst Corey Tarlowe pointed out.\n\nTarlowe said this represents one of the broadest assortment refreshes in years and is beginning to translate into improved traffic trends. The longtime Target bull thinks the market may be underestimating the durability of the traffic benefits from the big box retailer's \"merchandising reset.\"\n\nThis underestimation was seen in Target's first quarter earnings report card: The retailer delivered a $0.28 earnings beat. Sales increased in all merchandise departments, led by beauty, hardlines, and food. Store traffic increased.",
+      "published": "2026-08-17T13:48:16Z"
     }
   ]
 }
