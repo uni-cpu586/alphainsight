@@ -1,378 +1,378 @@
 {
-  "date": "2026-08-19",
-  "stock_market_date": "2026-08-18",
+  "date": "2026-08-20",
+  "stock_market_date": "2026-08-19",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "長榮",
-          "ticker": "2603",
-          "net_buy_shares": 15066712
+          "stock_name": "陽明",
+          "ticker": "2609",
+          "net_buy_shares": 31191495
         },
         {
           "rank": 2,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_buy_shares": 14816922
+          "stock_name": "台灣大",
+          "ticker": "3045",
+          "net_buy_shares": 18646206
         },
         {
           "rank": 3,
-          "stock_name": "陽明",
-          "ticker": "2609",
-          "net_buy_shares": 14344696
+          "stock_name": "統一",
+          "ticker": "1216",
+          "net_buy_shares": 13274283
         },
         {
           "rank": 4,
-          "stock_name": "三商壽",
-          "ticker": "2867",
-          "net_buy_shares": 13409530
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 12062381
         },
         {
           "rank": 5,
-          "stock_name": "富邦金",
-          "ticker": "2881",
-          "net_buy_shares": 10802898
+          "stock_name": "長榮",
+          "ticker": "2603",
+          "net_buy_shares": 8541302
         },
         {
           "rank": 6,
-          "stock_name": "凌巨",
-          "ticker": "8105",
-          "net_buy_shares": 10694721
+          "stock_name": "彩晶",
+          "ticker": "6116",
+          "net_buy_shares": 8128183
         },
         {
           "rank": 7,
-          "stock_name": "欣興",
-          "ticker": "3037",
-          "net_buy_shares": 10676502
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_buy_shares": 8038518
         },
         {
           "rank": 8,
-          "stock_name": "台塑化",
-          "ticker": "6505",
-          "net_buy_shares": 10209358
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 7800989
         },
         {
           "rank": 9,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 10202794
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_buy_shares": 7594008
         },
         {
           "rank": 10,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 10175743
+          "stock_name": "興富發",
+          "ticker": "2542",
+          "net_buy_shares": 6655818
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -35766505
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -61131261
         },
         {
           "rank": 2,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -32023397
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -48520819
         },
         {
           "rank": 3,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -29691966
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -34668003
         },
         {
           "rank": 4,
           "stock_name": "台新新光金",
           "ticker": "2887",
-          "net_sell_shares": -27653790
+          "net_sell_shares": -29823211
         },
         {
           "rank": 5,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_sell_shares": -27234113
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -25211898
         },
         {
           "rank": 6,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_sell_shares": -21672909
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_sell_shares": -20436250
         },
         {
           "rank": 7,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -16100955
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -19453031
         },
         {
           "rank": 8,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_sell_shares": -14426240
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_sell_shares": -16472475
         },
         {
           "rank": 9,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_sell_shares": -8750877
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_sell_shares": -15105393
         },
         {
           "rank": 10,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_sell_shares": -8148892
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_sell_shares": -14474452
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 25106438
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 24766000
         },
         {
           "rank": 2,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 22147264
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 21897000
         },
         {
           "rank": 3,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 18674309
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_buy_shares": 11897000
         },
         {
           "rank": 4,
           "stock_name": "永豐金",
           "ticker": "2890",
-          "net_buy_shares": 13974047
+          "net_buy_shares": 8368000
         },
         {
           "rank": 5,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 13662769
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 7935000
         },
         {
           "rank": 6,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 13592224
+          "stock_name": "長華*",
+          "ticker": "8070",
+          "net_buy_shares": 4672000
         },
         {
           "rank": 7,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 12352505
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 3974000
         },
         {
           "rank": 8,
-          "stock_name": "合庫金",
-          "ticker": "5880",
-          "net_buy_shares": 12003000
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 3285000
         },
         {
           "rank": 9,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 11612000
+          "stock_name": "聯鈞",
+          "ticker": "3450",
+          "net_buy_shares": 2161000
         },
         {
           "rank": 10,
-          "stock_name": "中華電",
-          "ticker": "2412",
-          "net_buy_shares": 4381667
+          "stock_name": "東元",
+          "ticker": "1504",
+          "net_buy_shares": 1415000
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -17860000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -20973000
         },
         {
           "rank": 2,
-          "stock_name": "台塑化",
-          "ticker": "6505",
-          "net_sell_shares": -9538000
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -17582000
         },
         {
           "rank": 3,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_sell_shares": -4370881
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_sell_shares": -3324000
         },
         {
           "rank": 4,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_sell_shares": -3877203
+          "stock_name": "文曄",
+          "ticker": "3036",
+          "net_sell_shares": -2934000
         },
         {
           "rank": 5,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_sell_shares": -2957061
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -2731000
         },
         {
           "rank": 6,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_sell_shares": -2300000
+          "stock_name": "力成",
+          "ticker": "6239",
+          "net_sell_shares": -2339000
         },
         {
           "rank": 7,
-          "stock_name": "愛普*",
-          "ticker": "6531",
-          "net_sell_shares": -1753287
+          "stock_name": "大聯大",
+          "ticker": "3702",
+          "net_sell_shares": -1829000
         },
         {
           "rank": 8,
-          "stock_name": "文曄",
-          "ticker": "3036",
-          "net_sell_shares": -1638062
+          "stock_name": "矽格",
+          "ticker": "6257",
+          "net_sell_shares": -1585000
         },
         {
           "rank": 9,
-          "stock_name": "大聯大",
-          "ticker": "3702",
-          "net_sell_shares": -1593000
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_sell_shares": -1569000
         },
         {
           "rank": 10,
-          "stock_name": "京元電子",
-          "ticker": "2449",
-          "net_sell_shares": -1358588
+          "stock_name": "愛普*",
+          "ticker": "6531",
+          "net_sell_shares": -1493000
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "新興",
-          "ticker": "2605",
-          "net_buy_shares": 1689000
+          "stock_name": "神達",
+          "ticker": "3706",
+          "net_buy_shares": 2219000
         },
         {
           "rank": 2,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 664414
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_buy_shares": 1359378
         },
         {
           "rank": 3,
-          "stock_name": "台塑化",
-          "ticker": "6505",
-          "net_buy_shares": 646970
+          "stock_name": "智原",
+          "ticker": "3035",
+          "net_buy_shares": 922274
         },
         {
           "rank": 4,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_buy_shares": 363000
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_buy_shares": 905575
         },
         {
           "rank": 5,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 338000
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_buy_shares": 370514
         },
         {
           "rank": 6,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_buy_shares": 332445
+          "stock_name": "友訊",
+          "ticker": "2332",
+          "net_buy_shares": 343000
         },
         {
           "rank": 7,
-          "stock_name": "新纖",
-          "ticker": "1409",
-          "net_buy_shares": 304000
+          "stock_name": "微星",
+          "ticker": "2377",
+          "net_buy_shares": 293188
         },
         {
           "rank": 8,
-          "stock_name": "陽明",
-          "ticker": "2609",
-          "net_buy_shares": 291653
+          "stock_name": "義隆",
+          "ticker": "2458",
+          "net_buy_shares": 293000
         },
         {
           "rank": 9,
-          "stock_name": "遠東銀",
-          "ticker": "2845",
-          "net_buy_shares": 205000
+          "stock_name": "台勝科",
+          "ticker": "3532",
+          "net_buy_shares": 280353
         },
         {
           "rank": 10,
-          "stock_name": "遠雄港",
-          "ticker": "5607",
-          "net_buy_shares": 189000
+          "stock_name": "遠東銀",
+          "ticker": "2845",
+          "net_buy_shares": 277000
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_sell_shares": -5740236
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -11060732
         },
         {
           "rank": 2,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -1336000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -3799974
         },
         {
           "rank": 3,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -920000
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -2919981
         },
         {
           "rank": 4,
-          "stock_name": "力成",
-          "ticker": "6239",
-          "net_sell_shares": -632205
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_sell_shares": -2151190
         },
         {
           "rank": 5,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -515760
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -1657326
         },
         {
           "rank": 6,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -509062
+          "stock_name": "新興",
+          "ticker": "2605",
+          "net_sell_shares": -1640000
         },
         {
           "rank": 7,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_sell_shares": -412000
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -1513000
         },
         {
           "rank": 8,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_sell_shares": -354900
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_sell_shares": -1281000
         },
         {
           "rank": 9,
-          "stock_name": "晶技",
-          "ticker": "3042",
-          "net_sell_shares": -330111
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_sell_shares": -1098380
         },
         {
           "rank": 10,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_sell_shares": -325010
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -1010120
         }
       ]
     },
@@ -380,26 +380,26 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "長榮",
-        "shares": 5273349
+        "target": "陽明",
+        "shares": 10917023
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "新興",
-        "shares": 675600
+        "target": "神達",
+        "shares": 887600
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "台新新光金",
-        "shares": 11297897
+        "target": "玉山金",
+        "shares": 11144700
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "力積電",
-        "shares": 10729951
+        "target": "群創",
+        "shares": 18339378
       }
     ]
   },
@@ -415,21 +415,21 @@
     },
     {
       "id": "news_2",
-      "title": "Tech searches for gains as stocks teeter at the open: AlphaCheck",
+      "title": "Dear Webull Stock Fans, Mark Your Calendars for August 19",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/article/tech-searches-for-gains-as-stocks-teeter-at-the-open-alphacheck-135155576.html",
-      "summary": "Tech searches for gains as stocks teeter at the open: AlphaCheck",
-      "full_text": "Good morning. Stocks diverged at the open, with the Dow Jones Industrial Average (^DJI) and S&P 500 (^GSPC) slipping, while the tech-heavy Nasdaq Composite (^IXIC) wavered.\n\nHere's a check of the markets in the first few minutes of trading, based on a heat map powered by Yahoo Finance AlphaSpace data.\n\nTechnology (XLK) was one of the few sectors in the green at the start of trading, as a large revenue haul by AI startup Anthropic (ANTH.PVT) helped bolster semiconductor stocks. However, tech's hold on the morning's gains looked fragile, with five of the \"Magnificent Seven\" stocks trading in the red.\n\nThe other sectors were solidly red, with Consumer Discretionary (XLY), Communication Services (XLC), and Basic Materials (XLB) among the biggest laggards.\n\nHere are some notable stocks that Yahoo Finance readers are viewing this morning: Micron (MU), Sandisk (SNDK), Intel (INTC), SK Hynix (SKHY), Meta (META), Bloom Energy (BE), Seagate Technology (STX).\n\nClick here for in-depth analysis of the latest stock market news and events moving stock prices",
-      "published": "2026-08-17T13:51:55Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-webull-stock-fans-mark-141623538.html",
+      "summary": "Dear Webull Stock Fans, Mark Your Calendars for August 19",
+      "full_text": "Webull (BULL) investors have a date they need to remember. The online brokerage is set to report second-quarter 2026 earnings on Aug. 19, and Wall Street has a clear picture of what it expects.\n\nSilver Price Predictions: Why Citi Analysts See Silver Prices Soaring to $90 Soon\n\nBarron Trump, 20, Now Worth $150 Million — More Than Mom, Melania — From Crypto And $39 Energy Drink\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nThree analysts covering the stock are projecting average revenue of $182.83 million for the quarter.\n\nThat would mark a sizable jump from the $156.94 million Webull posted in the same period a year ago, a gain of roughly 24%.\n\nAverage earnings per share of $0.03 for the quarter, well below the $0.06 it reported a year earlier.\n\nStill, for a company that only recently turned profitable on a consistent basis, even a small positive number keeps a streak alive.",
+      "published": "2026-08-18T14:16:23Z"
     },
     {
       "id": "news_3",
-      "title": "Target stock is on fire — but a big test lurks",
+      "title": "Citigroup To Launch Bitcoin Custody For Institutional Clients",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/article/target-stock-is-on-fire--but-a-big-test-lurks-134816381.html",
-      "summary": "Target stock is on fire — but a big test lurks",
-      "full_text": "The bulls have returned to Target's (TGT) stock in a big way this year on hopes for a turnaround under new CEO Michael Fiddelke.\n\nThat upbeat thesis — which has powered shares up 59% this year — is about to be put to the test later this week when the company reports second quarter earnings. But even if Target delivers on the quarter and raises its full-year profit guidance as expected, it may not be enough to keep the stock price charging higher.\n\n\"Investor expectations are very elevated into Target's second quarter print, but we believe the more important debate is whether improving store and merchandising execution supports confidence in growth durability in FY27 and beyond,\" Deutsche Bank analyst Krisztina Katai said.\n\nTarget is expected to post a second quarter comparable sales increase of 2.3% and earnings of $2.29. Comparable sales fell 1.5% in last year's second quarter amid a host of merchandising execution issues. Earnings came in at $2.05.\n\nSince the start of 2026, however, Target has moved quickly to rewrite its merchandising wrongs.\n\nIt has expanded wellness offerings, added 3,000 beauty products across 60 new brands, reset 75% of home decorative accessories, accelerated food and beverage innovation, and introduced a back-to-school assortment that is more than 50% new, Jefferies analyst Corey Tarlowe pointed out.\n\nTarlowe said this represents one of the broadest assortment refreshes in years and is beginning to translate into improved traffic trends. The longtime Target bull thinks the market may be underestimating the durability of the traffic benefits from the big box retailer's \"merchandising reset.\"\n\nThis underestimation was seen in Target's first quarter earnings report card: The retailer delivered a $0.28 earnings beat. Sales increased in all merchandise departments, led by beauty, hardlines, and food. Store traffic increased.",
-      "published": "2026-08-17T13:48:16Z"
+      "link": "https://finance.yahoo.com/markets/crypto/articles/citigroup-launch-bitcoin-custody-institutional-141400472.html",
+      "summary": "Citigroup To Launch Bitcoin Custody For Institutional Clients",
+      "full_text": "Leading U.S. commercial bank Citigroup (NYSE: $C) says it plans to offer Bitcoin (CRYPTO: $BTC) custody to its institutional clients by year's end.\n\nThe move by Citigroup will bring crypto into the same infrastructure the bank uses to safeguard traditional assets for institutional investors that include pensions and hedge funds.\n\nCrypto custody is the secure storage and management of the private cryptographic keys required to access, own, and transfer digital assets on a blockchain.\n\nMEXC July TradFi Trading Shifts Toward AI Storage as SNDK Futures Volume Surges More Than 15x Times\n\nMEXC's August 2026 Proof of Reserves Confirms User Assets Fully Backed as Reserve Ratios Remain Above 100%\n\nNews of the crypto custody service comes as Citigroup introduced \"Custody+,\" a suite of services designed to make custody, settlement, foreign exchange and cash management faster.\n\nThe service, which does not yet have a set launch date, will start with Bitcoin and provide clients access to traditional and crypto custody through the same framework.\n\nCitigroup's custody operation currently serves clients in more than 100 markets, including 62 markets where it runs its own custody network.",
+      "published": "2026-08-18T14:14:00Z"
     }
   ]
 }
