@@ -1,298 +1,491 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "stock_uncle_insight": {
-    "date_header": "8/20 法人與主力大戶主要買超股票",
+    "date_header": "8/21 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：航運、電信與部分傳產的避風港",
+        "group_title": "1. 外資大戶：航運、傳產與半導體輪動，金融股有進有出",
         "stocks": [
           {
             "stock_name": "陽明",
             "ticker": "2609",
-            "description": "肖年仔，外資狂掃陽明3.11萬張，這波海運是不是又要再起風了？大戶資金往傳產跑，這不是巧合，是嗅到什麼味道了。"
+            "description": "肖年仔，你看這陽明，外資狂掃 5.47萬張！這擺明是看好航運景氣有搞頭，不然就是短線要拉一波，準備倒貨給你們這些韭菜。"
           },
           {
-            "stock_name": "台灣大",
-            "ticker": "3045",
-            "description": "電信股這種防禦型標的，外資抱緊處理1.86萬張，顯然是想找個避風港，市場震盪時，穩定配息的才是王道。"
-          },
-          {
-            "stock_name": "統一",
-            "ticker": "1216",
-            "description": "食品龍頭統一，外資也買了1.32萬張，穩定獲利、民生必需，這種股票就是大戶壓艙底的貨，跌也跌不到哪去。"
-          },
-          {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "金融股外資有買有賣，兆豐金被青睞1.20萬張，可能是看好其穩健體質，但肖年仔，別忘了外資也在倒其他金融股，這叫兩面手法。"
-          },
-          {
-            "stock_name": "長榮",
-            "ticker": "2603",
-            "description": "跟陽明一樣，航運雙雄都被外資點名，長榮也買了0.85萬張，這不是巧合，是資金在移動，肖年仔，船票要不要上？"
+            "stock_name": "中鋼",
+            "ticker": "2002",
+            "description": "中鋼也買了 3.62萬張，這傳產龍頭，外資在佈局，可能是看好原物料回溫，或是當作避風港。"
           },
           {
             "stock_name": "聯電",
             "ticker": "2303",
-            "description": "外資買聯電0.78萬張，但投信跟自營商卻在倒貨，這檔主力看法分歧，肖年仔別黑白猜，這種股票風險高。"
+            "description": "聯電外資買超 2.67萬張，但投信卻大賣，這就是籌碼交換啊！外資可能覺得跌深了，或是看好成熟製程的訂單回流。"
+          },
+          {
+            "stock_name": "南亞科",
+            "ticker": "2408",
+            "description": "DRAM股南亞科，外資買 2.62萬張，華邦電也買 2.31萬張，這兩檔記憶體股被外資鎖碼，難道是預期記憶體報價要反彈了？肖年仔，這波記憶體底部可能不遠了。"
+          },
+          {
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "華邦電外資買 2.31萬張，跟南亞科一樣，記憶體族群被外資看上，肖年仔要留意，是不是有什麼好消息要出來了。"
+          },
+          {
+            "stock_name": "台泥",
+            "ticker": "1101",
+            "description": "台泥也買了 2.17萬張，傳產股外資也沒放過，這擺明是資金在找低基期、有題材的標的。"
+          },
+          {
+            "stock_name": "漢翔",
+            "ticker": "2634",
+            "description": "漢翔這軍工概念股，外資買 2.1萬張，政策題材股就是這樣，有夢最美，但也要小心高檔出貨。"
+          },
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "兆豐金外資買 1.86萬張，但同時也賣了其他金融股，這外資不是黑白買，是精挑細選，可能看上兆豐金的穩健獲利或特定題材。"
+          },
+          {
+            "stock_name": "萬海",
+            "ticker": "2615",
+            "description": "萬海外資也買 1.77萬張，跟陽明一樣，航運雙雄都被外資盯上，這波航運股的動能，肖年仔要看清楚。"
+          },
+          {
+            "stock_name": "遠東新",
+            "ticker": "1402",
+            "description": "遠東新外資買 1.73萬張，投信也買，這檔傳產股被法人雙雙看上，可能是高殖利率或特定轉型題材。"
           }
         ]
       },
       {
-        "group_title": "2. 投信大戶（本土國家隊）：金融股作帳行情啟動",
+        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，金融與傳產成避風港",
         "stocks": [
           {
-            "stock_name": "玉山金",
-            "ticker": "2884",
-            "description": "投信狂掃玉山金2.47萬張，跟外資對作，這擺明是作帳行情，肖年仔，看好這波年底結帳，金融股要被拉抬淨值了。"
+            "stock_name": "遠東新",
+            "ticker": "1402",
+            "description": "遠東新投信買 5,788張，外資也買，這檔傳產股被本土國家隊跟外資一起鎖碼，肯定有什麼好料，不是作帳就是高殖利率在發酵。"
           },
           {
             "stock_name": "台新新光金",
             "ticker": "2887",
-            "description": "投信大買台新新光金2.18萬張，跟外資對作，這就是本土國家隊的實力，要拉抬淨值了，肖年仔，跟著國家隊走準沒錯。"
-          },
-          {
-            "stock_name": "合庫金",
-            "ticker": "5880",
-            "description": "投信連合庫金這種官股金控都買了1.18萬張，穩健型標的被鎖碼，這波金融股的買盤很全面，不是單一事件。"
-          },
-          {
-            "stock_name": "永豐金",
-            "ticker": "2890",
-            "description": "投信持續加碼永豐金0.83萬張，這波金融股有戲，肖年仔，別只看電子股，傳產金融也是有機會的。"
+            "description": "台新新光金投信買 5,342張，凱基金也買 4,698張，合庫金買 2,756張，玉山金也買 2,245張，肖年仔，投信這是在狂掃金融股啊！擺明就是作帳行情，把錢往穩健的金融股塞，準備拉高出貨給散戶。"
           },
           {
             "stock_name": "凱基金",
             "ticker": "2883",
-            "description": "投信買凱基金0.79萬張，這波金融股的買盤很全面，從大型金控到中型金控，都有國家隊的影子。"
+            "description": "凱基金投信買 4,698張，跟其他金控股一樣，被本土國家隊看上，作帳行情啟動，肖年仔別傻傻去追高，小心被套牢。"
+          },
+          {
+            "stock_name": "大毅",
+            "ticker": "2478",
+            "description": "被動元件大毅投信買 3,767張，日電貿也買 2,864張，這本土國家隊在佈局電子零組件，可能是看好產業谷底翻揚，或是特定題材點火。"
+          },
+          {
+            "stock_name": "南亞",
+            "ticker": "1303",
+            "description": "南亞投信買 3,674張，這塑化龍頭也被投信看上，傳產股在盤勢震盪時，常常是資金的避風港。"
+          },
+          {
+            "stock_name": "日電貿",
+            "ticker": "3090",
+            "description": "日電貿投信買 2,864張，被動元件族群被投信鎖碼，肖年仔要留意，這是不是產業復甦的訊號。"
+          },
+          {
+            "stock_name": "合庫金",
+            "ticker": "5880",
+            "description": "合庫金投信買 2,756張，金融股是投信作帳的愛股，穩健又高殖利率，肖年仔，這種股票通常是慢慢漲，別急著追。"
+          },
+          {
+            "stock_name": "可寧衛*",
+            "ticker": "8422",
+            "description": "環保股可寧衛投信買 2,559張，這冷門股被投信買，肖年仔要留意，是不是有什麼政策利多或特殊題材在發酵。"
+          },
+          {
+            "stock_name": "光寶科",
+            "ticker": "2301",
+            "description": "光寶科投信買 2,257張，這檔AI概念股，投信還是有在關注，但買超張數不算特別大，可能只是小部位佈局。"
+          },
+          {
+            "stock_name": "玉山金",
+            "ticker": "2884",
+            "description": "玉山金投信買 2,245張，金融股持續被投信青睞，這波作帳行情，金融股是不可或缺的角色。"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：短線避險與中小型電子點火",
+        "group_title": "3. 內資主力與實戶：ETF避險與景氣循環股短打",
         "stocks": [
           {
-            "stock_name": "神達",
-            "ticker": "3706",
-            "description": "自營商買神達0.22萬張，這檔中小型電子股，是不是有什麼題材要點火？肖年仔，這種股票通常是短線主力在玩，小心追高。"
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "肖年仔，自營商買超 0050 達 3,432張，富邦科技也買 771張，這擺明是避險盤啊！大盤不穩，先買ETF避險，不然就是看好大盤短線反彈，準備隔日沖。"
           },
           {
-            "stock_name": "仁寶",
-            "ticker": "2324",
-            "description": "自營商買仁寶0.13萬張，但外資卻在賣，這就是短線避險盤在玩，肖年仔，別看單一法人動作，要看整體籌碼。"
+            "stock_name": "中鋼",
+            "ticker": "2002",
+            "description": "中鋼自營商也買 1,414張，跟外資同步，這傳產股在震盪盤中，常常是內資短線操作的標的。"
           },
           {
-            "stock_name": "智原",
-            "ticker": "3035",
-            "description": "自營商也買智原0.09萬張，這類IC設計股，通常是題材發酵時會被點火，但自營商的量不大，可能是短線操作。"
+            "stock_name": "陽明",
+            "ticker": "2609",
+            "description": "陽明自營商買 1,066張，萬海也買 482張，這航運股自營商也來參一咖，跟著外資一起炒，但自營商通常是短線操作，肖年仔別傻傻去接刀。"
           },
           {
-            "stock_name": "台積電",
-            "ticker": "2330",
-            "description": "自營商小買台積電0.03萬張，這種權值股，自營商通常是做避險或短線價差，肖年仔，別以為自營商買台積電就是看好大盤。"
+            "stock_name": "富邦科技",
+            "ticker": "0052",
+            "description": "富邦科技自營商買 771張，跟 0050 一樣，都是自營商避險或短線操作的工具，肖年仔，別以為ETF就沒風險，短線操作一樣會被割韭菜。"
+          },
+          {
+            "stock_name": "萬海",
+            "ticker": "2615",
+            "description": "萬海自營商買 482張，航運股被自營商短打，這就是市場熱錢在流竄，肖年仔，這種股票波動大，沒兩把刷子別亂碰。"
+          },
+          {
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "聯電自營商買 439張，這檔被外資買、投信賣的，自營商也來插花，籌碼很亂，小心被割韭菜。"
+          },
+          {
+            "stock_name": "遠雄港",
+            "ticker": "5607",
+            "description": "遠雄港自營商買 310張，這物流概念股，可能是短線題材或特定消息面發酵，自營商嗅到味道就進場短打。"
+          },
+          {
+            "stock_name": "日月光投控",
+            "ticker": "3711",
+            "description": "日月光投控自營商買 259張，這半導體封測龍頭，自營商也小部位佈局，可能是看好短線反彈，但投信卻在大賣，籌碼有點分歧。"
+          },
+          {
+            "stock_name": "遠東新",
+            "ticker": "1402",
+            "description": "遠東新自營商買 223張，這檔傳產股被三大法人都買，但自營商買超不多，可能只是避險盤的順勢操作。"
+          },
+          {
+            "stock_name": "至上",
+            "ticker": "8112",
+            "description": "至上自營商買 186張，這半導體通路商，自營商也來短打，肖年仔，這種股票通常是跟著產業景氣走，要小心操作。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔避險與資金避風港（金融、電信、傳產）",
-        "strategy_content": "肖年仔，你看外資大買航運、電信、食品、金融，這些都是相對穩健或有旺季題材的傳產股。同時，外資大賣0050、電子權值股和部分金融股，這很明顯是資金從高風險板塊撤出，轉往具有防禦性或穩定配息的標的。市場震盪時，大戶會找地方躲，金融、電信就是最好的避風港。"
+        "strategy_title": "策略一：資金避風港與高殖利率卡位（金融、傳產）",
+        "strategy_content": "肖年仔，你看投信狂掃金融股，遠東新、南亞這些傳產股也沒放過，這擺明是市場震盪，大戶把資金從高風險的電子股撤出來，轉往相對穩健、有高殖利率題材的金融和傳產股避險。國際新聞也提到美國財政部要增加債券買回，釋放流動性，但市場對升息預期還在，這種時候，穩健的標的就成了香餑餑，投信這是在作帳兼卡位，準備年底拉高出貨。"
       },
       {
-        "strategy_title": "策略二：投信作帳與結帳（電子轉金融）",
-        "strategy_content": "本土國家隊投信，狂掃金融股，玉山金、台新新光金、合庫金、永豐金、凱基金，買超榜上清一色都是金融。同時，他們大賣聯電、華邦電等電子股。這就是典型的季底或月底作帳行情，把資金從漲多的電子股抽出來，灌進相對低基期或有殖利率題材的金融股，拉抬基金淨值。肖年仔，跟著投信作帳，有肉吃！"
+        "strategy_title": "策略二：景氣循環股底部佈局與短線反彈（航運、鋼鐵、記憶體）",
+        "strategy_content": "外資大買陽明、萬海這些航運股，還有中鋼這種鋼鐵股，甚至連南亞科、華邦電這些記憶體股也被鎖碼。這不是外資黑白買，是看好這些景氣循環股可能已經在谷底，或是預期未來一兩個季度會有反彈行情。尤其記憶體，外資買超這麼多，可能是預期報價要止跌回升了。但肖年仔要小心，景氣循環股波動大，外資也可能只是短線拉抬，準備倒貨。"
       },
       {
-        "strategy_title": "策略三：短線主力與避險盤（中小型電子、權值股調節）",
-        "strategy_content": "自營商買進神達、仁寶、智原等中小型電子股，但同時也賣出0050、聯電、群創等權值股和面板股。這顯示自營商的避險盤或短線操作，一方面調節大盤權值股降低風險，另一方面則點火一些有題材的中小型電子股，賺取短線價差。肖年仔，自營商的單子，通常隔日沖的機率很高，別傻傻去追高。"
+        "strategy_title": "策略三：法人籌碼交換與汰弱留強（半導體）",
+        "strategy_content": "你看聯電，外資大買，但投信卻大賣；力積電更是被外資摩根大通狂倒貨。這就是法人之間在玩籌碼交換的遊戲啊！外資可能在半導體產業中做汰弱留強，把表現不佳的賣掉，轉去買他們看好的。投信則可能是在結帳，把之前漲多的半導體股獲利了結，轉去佈局金融或傳產。肖年仔，這種籌碼混亂的股票，沒兩把刷子別輕易去接刀。"
       }
     ],
-    "summary": "肖年仔，今天三大法人動作很明顯，外資避險轉進傳產與防禦股，投信狂掃金融作帳，自營商則在電子股玩短線。總之，市場資金正在大挪移，別黑白買，看清楚主力動向，才能不被割韭菜！",
+    "summary": "肖年仔，今天法人動作很明顯，外資在景氣循環股跟部分半導體做波段佈局，投信則狂掃金融、傳產作帳避險，自營商則是ETF避險兼短線敲進，市場資金在震盪中找方向，別傻傻追高，小心被主力割韭菜！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 1.09 萬張",
-        "uncle_logic": "高盛這種外資大咖買航運陽明1.09萬張，這不是長線布局就是看好波段，肖年仔，這船票要不要上？大戶出手，必有其因。"
+        "action": "買超 1.91萬張",
+        "uncle_logic": "高盛這外資大戶，狂掃陽明 1.91萬張，這擺明是看好航運股的波段行情，不然就是有什麼利多消息他們先知道，準備拉抬一波，肖年仔別傻傻跟單，小心被當轎夫。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 0.088 萬張",
-        "uncle_logic": "凱基台北這種隔日沖大戶買神達0.088萬張，明天開盤小心倒貨，別傻傻去接刀，這種分點就是來割韭菜的。"
+        "action": "買超 1,372張",
+        "uncle_logic": "凱基台北這隔日沖大本營，買 0050 1,372張，這不是在避險，就是在賭大盤短線反彈，準備明天開盤就倒貨給散戶，肖年仔別以為他們是佛心來著。"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 1.11 萬張",
-        "uncle_logic": "元大投信是本土國家隊，大買玉山金1.11萬張，這就是作帳的訊號，肖年仔，金融股年底有行情，跟著國家隊吃豆腐。"
+        "action": "買超 2,604張",
+        "uncle_logic": "元大投信買遠東新 2,604張，這就是本土國家隊在作帳的標準動作啊！把資金灌進有基本面、股價相對穩定的傳產股，準備拉抬績效，肖年仔要留意，作帳行情通常不會太久。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 1.83 萬張",
-        "uncle_logic": "摩根大通這種外資大咖倒貨群創1.83萬張，這面板股短期內恐怕難翻身，肖年仔，小心為上，別去接這種掉下來的刀。"
+        "action": "賣超 1.05萬張",
+        "uncle_logic": "摩根大通這外資大咖，狂倒力積電 1.05萬張，這擺明是看壞力積電後市，或是把資金轉去其他更有潛力的半導體股，肖年仔，這種被外資大戶倒貨的股票，別去接刀，小心斷頭。"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "Costco launching Medicare Advantage plans with SCAN Group",
+      "title": "Bank of America sends message on Capital One stock",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/healthcare/articles/costco-launching-medicare-advantage-plans-171035001.html",
-      "level1_blind": "Costco Wholesale Corporation and nonprofit insurer SCAN Group announced a partnership on Tuesday to sell Costco-branded Medicare plans, marking the retailer's first entry into the Medicare market. The two companies plan to begin with Medicare Advantage products in two states and a Medicare supplement plan in a third, pending regulatory approval from the Medicare agency, according to the Wall Street Journal.\n\nUnder the arrangement, Costco would market branded health insurance products for older adults; the companies said covered services could encompass prescription drug access, Medflex over-the-counter benefits, vision care, and audiology, among other offerings. The plans will be sold in Costco stores as well as through insurance agents and other standard channels. Federal rules prohibit bundling a Costco membership with the health plans.\n\nSCAN Group CEO Dr. Sachin H. Jain said the new Medicare Advantage plans would integrate closely with Costco's existing offerings across prescription drugs, vision, over-the-counter medications, food, and hearing products. \\",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-message-capital-090300253.html",
+      "level1_blind": "Capital One Financial has spent more than a year integrating Discover while investors watch whether the massive acquisition can translate into faster growth and stronger returns.\nThe latest monthly data gave Wall Street a mixed picture. Capital One (COF) posted healthy credit trends in July, but growth in its domestic card portfolio slowed from the prior month.\n\nIn a note given to TheStreet, BofA analyst Mihir Bhatia maintained a Buy rating and a $253 price objective on Capital One, representing 11.3% upside from the $227.34 share price used in the report.\n\nBhatia said July's operating metrics remained healthy overall, pointing to solid credit performance even as card balances grew at a slower pace.\n\nCapital One ended July with $258.9 billion in domestic credit card loans, according to a filing with the Securities and Exchange Commission. The portfolio's annualized net charge-off rate was 4.12%, while the 30-day-plus performing delinquency rate came in at 3.48%.\n\nBofA said domestic card loans were up 1.92% from a year earlier, slowing from 2.58% growth in June. Card balances have grown at around 2% for roughly the past year, according to Bhatia.\n\nThe analyst does not expect a meaningful acceleration until headwinds tied to the Discover integration and related borrow-out activity begin to clear. BofA is modeling end-of-period card loans to increase by about 1% sequentially in the third quarter.\n\nThat slowdown comes as Capital One continues working through its integration of Discover. The company completed its acquisition in May 2025, adding the Discover, PULSE, and Diners Club International networks to its business.",
       "level2_keywords": [
         {
-          "word": "Medicare",
+          "word": "acquisition",
           "ipa": "",
-          "meaning": "美國老年人醫療保險",
-          "example": "美國老年人醫療保險"
+          "meaning": "企業收購",
+          "example": "這次收購將使 Capital One 获得 Discover 的客戶基礎"
         },
         {
-          "word": "Advantage",
+          "word": "credit",
           "ipa": "",
-          "meaning": "優勢",
-          "example": "醫療保險優勢"
+          "meaning": "信貸",
+          "example": "Capital One 的信貸風險在 July 也保持穩定"
         },
         {
-          "word": "SCAN",
+          "word": "integration",
           "ipa": "",
-          "meaning": "非營利醫療保險公司",
-          "example": "非營利醫療保險公司"
+          "meaning": "整合",
+          "example": "Capital One 正在整合 Discover 的客戶基礎"
         },
         {
-          "word": "Costco",
+          "word": "growth",
           "ipa": "",
-          "meaning": "大型超市連鎖店",
-          "example": "大型超市連鎖店"
+          "meaning": "生長",
+          "example": "Capital One 的生長速度在 July 也有所減緩"
         },
         {
-          "word": "healthcare",
+          "word": "portfolio",
           "ipa": "",
-          "meaning": "醫療保健",
-          "example": "醫療保健"
+          "meaning": "投資組合",
+          "example": "Capital One 的投資組合在 July 也有所變化"
         }
       ],
-      "level2_context": "美國大型超市連鎖店Costco與非營利醫療保險公司SCAN Group合作推出Costco-branded Medicare Advantage plans，進入美國老年人醫療保險市場。這項合作將使Costco能夠提供更全面的醫療保健服務，包括藥物保險、藥品無需門診就能購買、視力保險、聽力保險等。這項合作將對於Costco和SCAN Group的經營帶來新的機會，同時也能夠改善老年人醫療保險的服務質量。",
+      "level2_context": "美國金融市場中， Capital One 的收購事件對於其信貸風險和生長速度都有所影響。這次收購將使 Capital One 获得 Discover 的客戶基礎，並對其信貸風險和生長速度產生影響。然而， Analysts 表示，需要等待 Discover 整合完成後，才能看到 meaningful 的生長和改善。",
       "level3_translation": [
         {
-          "sentence": "Costco Wholesale Corporation and nonprofit insurer SCAN Group announced a partnership on Tuesday to sell Costco-branded Medicare plans, marking the retailer's first entry into the Medicare market.",
-          "translation": "Costco Wholesale Corporation和非營利醫療保險公司SCAN Group宣布合作推出Costco-branded Medicare plans， marking the retailer's first entry into the Medicare market."
+          "sentence": "Capital One Financial has spent more than a year integrating Discover while investors watch whether the massive acquisition can translate into faster growth and stronger returns.",
+          "translation": "Capital One 金融在一年多的時間內整合 Discover，投資者們正在觀察這次大型收購能否導致更快的生長和更強的回報"
         },
         {
-          "sentence": "The two companies plan to begin with Medicare Advantage products in two states and a Medicare supplement plan in a third, pending regulatory approval from the Medicare agency, according to the Wall Street Journal.",
-          "translation": "兩家公司計畫開始推出 Medicare Advantage 產品在兩個州和一州的 Medicare 补充保險，pending regulatory approval from the Medicare agency, according to the Wall Street Journal."
+          "sentence": "The latest monthly data gave Wall Street a mixed picture.",
+          "translation": "最近的月份數據給 Wall Street 了一個混合的圖表"
         },
         {
-          "sentence": "Under the arrangement, Costco would market branded health insurance products for older adults; the companies said covered services could encompass prescription drug access, Medflex over-the-counter benefits, vision care, and audiology, among other offerings.",
-          "translation": "根據協議，Costco將推出 branded health insurance products for older adults；公司表示 COVERED 服務包括藥物保險、Medflex over-the-counter benefits、視力保險和聽力保險等。"
+          "sentence": "Capital One (COF) posted healthy credit trends in July, but growth in its domestic card portfolio slowed from the prior month.",
+          "translation": "在 July 中，Capital One (COF) 的信貸趨勢保持穩定，但其國內信用卡 порт폴的生長速度減緩"
         },
         {
-          "sentence": "The plans will be sold in Costco stores as well as through insurance agents and other standard channels.",
-          "translation": "這些計畫將在Costco商店中出售，也將通過保險代理人和其他標準的通路出售。"
+          "sentence": "BofA analyst Mihir Bhatia maintained a Buy rating and a $253 price objective on Capital One, representing 11.3% upside from the $227.34 share price used in the report.",
+          "translation": "BofA 分析師 Mihir Bhatia 保持買入評價，並將 Capital One 的價格目標設定為 253 美元，代表了 227.34 美元價格的 11.3% 上升"
         },
         {
-          "sentence": "Federal rules prohibit bundling a Costco membership with the health plans.",
-          "translation": "聯邦規定禁止將Costco會員身份與健康計畫 bundling."
+          "sentence": "Bhatia said July's operating metrics remained healthy overall, pointing to solid credit performance even as card balances grew at a slower pace.",
+          "translation": "Bhatia 表示 July 的營運指標保持穩定，表明了穩定的信貸性能，即使信用卡債務增長速度減緩"
         },
         {
-          "sentence": "SCAN Group CEO Dr. Sachin H. Jain said the new Medicare Advantage plans would integrate closely with Costco's existing offerings across prescription drugs, vision, over-the-counter medications, food, and hearing products.",
-          "translation": "SCAN Group CEO Dr. Sachin H. Jain 表示新的 Medicare Advantage 計畫將與Costco 的現有的藥品、視力、無 prescription藥品、食品和聽力產品整合非常緊密."
+          "sentence": "Capital One ended July with $258.9 billion in domestic credit card loans, according to a filing with the Securities and Exchange Commission.",
+          "translation": "在 July 結束時，Capital One 的國內信用卡債務達到 258.9 億美元，根據證券交易委員會的報告"
         },
         {
-          "sentence": "\"We are trying to create something that's incredibly simple for people to use that will enable them to seamlessly access their benefits,\" Dr. Jain said.",
-          "translation": "\"我們試圖創建一個非常簡單的工具，讓人們能夠輕易地使用，從而能夠無縫地獲得其優勢,\" Dr. Jain 表示."
+          "sentence": "The portfolio's annualized net charge-off rate was 4.12%, while the 30-day-plus performing delinquency rate came in at 3.48%.",
+          "translation": "該投資組合的年度化總債務率為 4.12%，而 30 天以上的債務延遲率為 3.48% "
         },
         {
-          "sentence": "Costco CEO Ron Vachris said in a statement that the partnership extends the retailer's longstanding commitment to delivering value to its members.",
-          "translation": "Costco CEO Ron Vachris 在一份 statement 中表示，這項合作延伸了商店對其會員的長期承諾，提供價值."
+          "sentence": "BofA said domestic card loans were up 1.92% from a year earlier, slowing from 2.58% growth in June.",
+          "translation": "BofA 表示國內信用卡債務增長率為 1.92%，減緩了 June 的 2.58% 增長"
         },
         {
-          "sentence": "\"We have developed a shared understanding of what matters most to the seniors we serve,\" Vachris said in the statement.",
-          "translation": "\"我們已經發展了一個共同的理解，了解老年人我們為他們所提供的最重要的東西,\" Vachris 在 statement 中表示."
+          "sentence": "Card balances have grown at around 2% for roughly the past year, according to Bhatia.",
+          "translation": "信用卡債務增長率約為 2%，根據 Bhatia 的說法"
         },
         {
-          "sentence": "\"Deepening our partnership allows us to build on that foundation and create value for our members,\" Vachris said.",
-          "translation": "\"我們的合作深化了我們的基礎，從而能夠為我們的會員創建價值,\" Vachris 表示."
+          "sentence": "The analyst does not expect a meaningful acceleration until headwinds tied to the Discover integration and related borrow-out activity begin to clear.",
+          "translation": "分析師不 expects meaningful 的加速，直到 Discover 整合完成後相關的借款活動減緩"
         },
         {
-          "sentence": "Richard Stephens, senior vice president for pharmacy at Costco, described the Medicare effort as a pilot.",
-          "translation": "Costco藥房總裁Richard Stephens 表示，這項 Medicare 專案是一個試驗."
+          "sentence": "BofA is modeling end-of-period card loans to increase by about 1% sequentially in the third quarter.",
+          "translation": "BofA 模擬第三季末信用卡債務增長約為 1% "
         },
         {
-          "sentence": "\"We plan to learn a lot from it, and we plan to make sure that we have the right product for our members,\" Stephens told the Wall Street Journal.",
-          "translation": "\"我們打算從這個試驗中學習很多，同時也要確保我們為會員提供適合的產品,\" Stephens 在 Wall Street Journal 中表示."
+          "sentence": "That slowdown comes as Capital One continues working through its integration of Discover.",
+          "translation": "這種減緩來自於 Capital One ongoingly 整合 Discover"
         },
         {
-          "sentence": "He added that Costco members trust that the retailer has vetted what it sells, and that the company aims to apply that same standard to the new insurance product.",
-          "translation": "他還表示，Costco 的會員信任商店已經檢查了它所售出的產品，而公司打算將這個標準應用到新的保險產品上."
-        },
-        {
-          "sentence": "SCAN Health Plan's coverage footprint spans 33 counties across six states — California, Arizona, Nevada, Texas, New Mexico, and Washington — reaching close to 460,000 members.",
-          "translation": "SCAN Health Plan 的覆蓋範圍遍及六個州的 33 個縣，包括加州、阿里ゾ納、內華達、德克薩斯、新墨西哥和華盛頓州，覆蓋近 460,000 名會員."
-        },
-        {
-          "sentence": "When affiliated programs and entities are included, the broader SCAN Group network reaches roughly 500,000 members and patients, the company said.",
-          "translation": "當聯合的計畫和單位被包含在內，SCAN Group 的更廣泛的網絡覆蓋了大約 500,000 名會員和患者，公司表示."
-        },
-        {
-          "sentence": "The two companies declined to disclose the financial terms of the partnership.",
-          "translation": "兩家公司拒絕透露合作伙伴關係的財務條件."
+          "sentence": "The company completed its acquisition in May 2025, adding the Discover, PULSE, and Diners Club International networks to its business.",
+          "translation": "公司在 2025 年 5 月完成收購，將 Discover、PULSE 和 Diners Club International 的網絡整合到其業務中"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Dear Webull Stock Fans, Mark Your Calendars for August 19",
+      "title": "Dollar Slumps and Gold Rallies as US Treasury Ramps Up Buybacks",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-webull-stock-fans-mark-141623538.html",
-      "level1_blind": "Webull (BULL) investors have a date they need to remember. The online brokerage is set to report second-quarter 2026 earnings on Aug. 19, and Wall Street has a clear picture of what it expects.\n\nSilver Price Predictions: Why Citi Analysts See Silver Prices Soaring to $90 Soon\n\nBarron Trump, 20, Now Worth $150 Million — More Than Mom, Melania — From Crypto And $39 Energy Drink\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nThree analysts covering the stock are projecting average revenue of $182.83 million for the quarter.\n\nThat would mark a sizable jump from the $156.94 million Webull posted in the same period a year ago, a gain of roughly 24%.\n\nAverage earnings per share of $0.03 for the quarter, well below the $0.06 it reported a year earlier.\n\nStill, for a company that only recently turned profitable on a consistent basis, even a small positive number keeps a streak alive.",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-slumps-gold-rallies-us-143540311.html",
+      "level1_blind": "The dollar index (DXY00) tumbled to a 2.5-month low today and is down by -0.76%. The dollar retreated today after the US Treasury boosted liquidity and announced plans to increase buybacks of long-dated bonds. Lower T-note yields today have also weakened the dollar's interest rate differentials.\n\nThe US Treasury announced today that it will at least double the maximum size of its liquidity support buyback operations for longer-dated nominal coupon sizes to at least $4 billion per operation, effective September 9.\n\nThe markets are discounting a 35% probability of a +25 bp rate hike at the next FOMC meeting on September 15-16.\n\nEUR/USD (^EURUSD) rallied to a 2.5-month high today and is up by +0.77%. Today's slump in the dollar is boosting the euro after the US Treasury announced that it was boosting liquidity by increasing its purchases of longer-dated US government bonds. Today's rally in crude oil prices to a 3-week high is bearish for the Eurozone economy and the euro, as Europe imports most of its energy.\n\nThe markets are discounting a 95% chance of a +25 bp ECB rate hike at its next policy meeting on September 10.\n\nUSD/JPY (^USDJPY) is down by -0.83% today. The yen rallied to a 1-week high today against the dollar after the US Treasury announced that it was boosting purchases of longer-dated US government bonds. The yen also found support after today's economic news showed that Japanese June core machine orders rose more than expected. In addition, lower T-note yields today support the yen. On the negative side, today's rally in WTI crude oil to a 3-week high is a bearish factor for Japan's economy and the yen, as Japan imports more than 90% of its energy.\n\nThe yen has underlying support from increased expectations of a BOJ rate hike after Bloomberg reported last Thursday that Japanese Prime Minister Sanae Takaichi's government supports a BOJ rate hike in either September or October. The government favors a rate hike to support the yen and prevent inflationary pressures stemming from the weak yen. Finally, the yen has ongoing support from the recent coordinated US-Japan intervention and fears that further intervention might be forthcoming if the yen remains weak.\n\nThe markets are discounting a 77% chance of a +25 bp BOJ rate hike at the September 18 policy meeting. The yen continues to suffer from weak interest rate differentials, with the BOJ's current policy rate of 1.00% well below the Fed's federal funds rate target range of 3.50%-3.75%.",
       "level2_keywords": [
         {
-          "word": "Bull",
-          "ipa": "",
-          "meaning": "象徵力量或雄心",
-          "example": "這家公司的股票 price 在上漲後，成為了市場的「bull」"
+          "word": "liquidity",
+          "ipa": "/lɪˈkwiˌdɪti/",
+          "meaning": " fluidity",
+          "example": "The US Treasury boosted liquidity to support the economy."
         },
         {
-          "word": "Earnings",
-          "ipa": "",
-          "meaning": "營業利益",
-          "example": "公司的營業利益在上漲後，成為了市場的關注點"
+          "word": "buybacks",
+          "ipa": "/ˈbaɪəkrɪz/",
+          "meaning": "the act of purchasing something again",
+          "example": "The company announced plans to increase buybacks of long-dated bonds."
         },
         {
-          "word": "Revenue",
-          "ipa": "",
-          "meaning": "營業收入",
-          "example": "公司的營業收入在上漲後，成為了市場的關注點"
+          "word": "nominal",
+          "ipa": "/ˈnɒmɪnəl/",
+          "meaning": "relating to a name or title",
+          "example": "The US Treasury will increase buybacks of long-dated nominal coupon sizes."
         },
         {
-          "word": "Analyst",
-          "ipa": "",
-          "meaning": "分析師",
-          "example": "公司的營業收入在上漲後，成為了市場的關注點"
+          "word": "interest",
+          "ipa": "/ɪnˈtɛrzər/",
+          "meaning": "a feeling of pleasure or excitement",
+          "example": "The dollar's interest rate differentials have weakened."
         },
         {
-          "word": "Predictions",
-          "ipa": "",
-          "meaning": "預測",
-          "example": "公司的營業收入在上漲後，成為了市場的關注點"
+          "word": "differential",
+          "ipa": "/dɪfəˈrɛntʃəl/",
+          "meaning": "a difference or distinction",
+          "example": "The dollar's interest rate differentials have weakened."
         }
       ],
-      "level2_context": "這篇文章關於 Webull 的第二季度 2026 獻報，與市場對該公司營業收入的預測有關。 Webull 的營業收入在上漲，成為了市場的關注點。",
+      "level2_context": "美國國務院近期推出多項措施來支持經濟，包括增加購買國債的計畫。這些措施對美元的值有所影響，同時也對其他貨幣有所影響。美國國務院的行動也引發了對央行的關注，特別是對日本央行的行動。日本央行的行動對日本經濟和美元的值有所影響。",
       "level3_translation": [
         {
-          "sentence": "Webull (BULL) investors have a date they need to remember.",
-          "translation": "Webull 投資者需要記住的日期"
+          "sentence": "The dollar index (DXY00) tumbled to a 2.5-month low today and is down by -0.76%.",
+          "translation": "美元指數（DXY00）今天下跌至 2.5 個月低點，下跌 0.76%。"
         },
         {
-          "sentence": "The online brokerage is set to report second-quarter 2026 earnings on Aug. 19, and Wall Street has a clear picture of what it expects.",
-          "translation": "線上交易所將在 8 月 19 日報告第二季度 2026 獻報，並且-wall street 有了對該公司預期的清晰視野"
+          "sentence": "The dollar retreated today after the US Treasury boosted liquidity and announced plans to increase buybacks of long-dated bonds.",
+          "translation": "美元今天因美國國務院增加購買國債的計畫而下跌。"
         },
         {
-          "sentence": "Silver Price Predictions: Why Citi Analysts See Silver Prices Soaring to $90 Soon",
-          "translation": ""
+          "sentence": "Lower T-note yields today have also weakened the dollar's interest rate differentials.",
+          "translation": "今天 T-note 的收益率也下跌，進一步減弱美元的利率差異。"
+        },
+        {
+          "sentence": "The US Treasury announced today that it will at least double the maximum size of its liquidity support buyback operations for longer-dated nominal coupon sizes to at least $4 billion per operation, effective September 9.",
+          "translation": "美國國務院今天宣布將增加購買國債的計畫，到至少 4 億美元的大小，從 9 月 9 日起實施。"
+        },
+        {
+          "sentence": "The markets are discounting a 35% probability of a +25 bp rate hike at the next FOMC meeting on September 15-16.",
+          "translation": "市場正在認為在下個 FOMC 大會上將有 35% 的機率上調利率 25 個百分點。"
+        },
+        {
+          "sentence": "EUR/USD (^EURUSD) rallied to a 2.5-month high today and is up by +0.77%.",
+          "translation": "EUR/USD 指數今天上漲至 2.5 個月高點，上漲 0.77%。"
+        },
+        {
+          "sentence": "Today's slump in the dollar is boosting the euro after the US Treasury announced that it was boosting liquidity by increasing its purchases of longer-dated US government bonds.",
+          "translation": "今天美元下跌後，歐元因美國國務院增加購買國債的計畫而上漲。"
+        },
+        {
+          "sentence": "Today's rally in crude oil prices to a 3-week high is bearish for the Eurozone economy and the euro, as Europe imports most of its energy.",
+          "translation": "今天 crude oil 的價格上漲至 3 週高點，但對於歐洲經濟和歐元來說是負面的。因為歐洲大部分的能源來自於外國。"
+        },
+        {
+          "sentence": "The markets are discounting a 95% chance of a +25 bp ECB rate hike at its next policy meeting on September 10.",
+          "translation": "市場正在認為在下個 ECB 大會上將有 95% 的機率上調利率 25 個百分點。"
+        },
+        {
+          "sentence": "USD/JPY (^USDJPY) is down by -0.83% today.",
+          "translation": "美元日元指數今天下跌 0.83%。"
+        },
+        {
+          "sentence": "The yen rallied to a 1-week high today against the dollar after the US Treasury announced that it was boosting purchases of longer-dated US government bonds.",
+          "translation": "日元今天上漲至 1 週高點，與美元相比。因為美國國務院增加購買國債的計畫。"
+        },
+        {
+          "sentence": "The yen also found support after today's economic news showed that Japanese June core machine orders rose more than expected.",
+          "translation": "日元今天還因經濟 news 的出現而得到支持。日本 6 月核心機械訂單上漲超出預期。"
+        },
+        {
+          "sentence": "In addition, lower T-note yields today support the yen.",
+          "translation": "另外，今天 T-note 的收益率也支持日元。"
+        },
+        {
+          "sentence": "On the negative side, today's rally in WTI crude oil to a 3-week high is a bearish factor for Japan's economy and the yen, as Japan imports more than 90% of its energy.",
+          "translation": "但是，今天 crude oil 的價格上漲至 3 週高點，是對於日本經濟和日元的負面因素。因為日本進口能源的比例遠遠高於 90%。"
+        },
+        {
+          "sentence": "The yen has underlying support from increased expectations of a BOJ rate hike after Bloomberg reported last Thursday that Japanese Prime Minister Sanae Takaichi's government supports a BOJ rate hike in either September or October.",
+          "translation": "日元有著從 Bloomberg 的報導中獲得的支持。因為日本內閣支持 BOJ 上調利率的計畫，是否在 9 月還是 10 月。"
+        },
+        {
+          "sentence": "The government favors a rate hike to support the yen and prevent inflationary pressures stemming from the weak yen.",
+          "translation": "政府支持上調利率來支持日元，並防止因日元過弱導致的通胀壓力。"
+        },
+        {
+          "sentence": "Finally, the yen has ongoing support from the recent coordinated US-Japan intervention and fears that further intervention might be forthcoming if the yen remains weak.",
+          "translation": "最後，日元還有從最近的美國日協調行動中獲得的支持。同時還有恐懼日元過弱的可能進一步介入的風險。"
+        },
+        {
+          "sentence": "The markets are discounting a 77% chance of a +25 bp BOJ rate hike at the September 18 policy meeting.",
+          "translation": "市場正在認為在 9 月 18 日的大會上將有 77% 的機率上調利率 25 個百分點。"
+        },
+        {
+          "sentence": "The yen continues to suffer from weak interest rate differentials, with the BOJ's current policy rate of 1.00% well below the Fed's federal funds rate target range of 3.50%-3.75%.",
+          "translation": "日元仍然受到弱利率差異的影響，BOJ 的目前政策利率為 1.00% 遠低於 Fed 的聯邦儲備利率目標範圍 3.50%-3.75%。"
+        }
+      ]
+    },
+    {
+      "news_id": "news_3",
+      "title": "Wynn Resorts Stock: Is Wall Street Bullish or Bearish?",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wynn-resorts-stock-wall-street-143043210.html",
+      "level1_blind": "Las Vegas, Nevada-based Wynn Resorts, Limited (WYNN) designs, develops, and operates integrated resorts. Valued at $10.4 billion by market cap, the company offers amenities such as guest rooms and suites, restaurants, golf course, spa, bars, meeting and convention space, night clubs, and recreation and leisure facilities.\n\nShares of this luxury resort and casino company have underperformed the broader market over the past year. WYNN has declined 9.8% over this time frame, while the broader S&P 500 Index ($SPX) has rallied nearly 19.3%. In 2026, WYNN stock is down 15.4%, compared to the SPX's 12.4% rise on a YTD basis.\n\nBarron Trump, 20, Now Worth $150 Million — More Than Mom, Melania — From Crypto And $39 Energy Drink\n\nBillionaire Michael Saylor Warns Against Buying a House Because 'Every 36 Years You Actually Pay the Cost of the House in Tax to the Government'\n\nQQQ Just 'Gamma Flipped' as Market Makers Were Forced to Sell. Here's What Our Top Chart Expert is Tracking Next.\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nNarrowing the focus, WYNN's underperformance is also apparent compared to the State Street Consumer Discretionary Select Sector SPDR ETF (XLY). The exchange-traded fund has gained about 1.7% over the past year. Moreover, the ETF's 2.2% losses on a YTD basis outshine the stock's double-digit dip over the same time frame.\n\nWYNN has faced market underperformance due to choppiness in Macau's VIP segment, elevated domestic labor costs, and investor caution around heavy capital expenditures. While Macau remains a primary volume driver, low VIP table games hold and cautious consumer spending in China periodically squeezed property margins. Domestically, rising operating expenses and contractual wage increases pressured margins across domestic properties; however, Las Vegas and Boston maintained strong operational discipline and identified key efficiencies to help stabilize underlying profitability. Compounding these operational drags, market sentiment has been constrained by significant capital deployment into large scale growth projects, including the Wynn Al Marjan Island development in the UAE and Macau property expansions, which concentrate capital outflows before yielding long-term cash flow.",
+      "level2_keywords": [
+        {
+          "word": "Macau",
+          "ipa": "mākō",
+          "meaning": "澳門",
+          "example": "澳門的VIP段別持牌數量持續下降"
+        },
+        {
+          "word": "WYNN",
+          "ipa": "ˈwɪn",
+          "meaning": "Wynn Resorts",
+          "example": "WYNN 的股價在過去一年內下跌了 9.8% "
+        },
+        {
+          "word": "golf",
+          "ipa": "ɡɒf",
+          "meaning": "高爾夫球",
+          "example": "WYNN 的高爾夫球場是其提供的娛樂活動之一"
+        },
+        {
+          "word": "labour",
+          "ipa": "ˈleɪbər",
+          "meaning": "勞動力",
+          "example": "WYNN 的勞動力成本上升對其營利率造成了壓力"
+        },
+        {
+          "word": "capital",
+          "ipa": "ˈkæpɪtəl",
+          "meaning": "資本",
+          "example": "WYNN 的資本投入在 UAE 的 Wynn Al Marjan Island 項上"
+        }
+      ],
+      "level2_context": "澳門的VIP段別持牌數量持續下降，對WYNN 的股價造成了影響。WYNN 的勞動力成本上升也對其營利率造成了壓力。這些因素使WYNN 的股價在過去一年內下跌了 9.8% 。",
+      "level3_translation": [
+        {
+          "sentence": "Las Vegas, Nevada-based Wynn Resorts, Limited (WYNN) designs, develops, and operates integrated resorts.",
+          "translation": "WYNN 的公司是負責設計、開發和經營整合式度假村的公司"
+        },
+        {
+          "sentence": "Valued at $10.4 billion by market cap, the company offers amenities such as guest rooms and suites, restaurants, golf course, spa, bars, meeting and convention space, night clubs, and recreation and leisure facilities.",
+          "translation": "該公司的市場資本值為 10.4 億美元，提供客房、餐廳、高爾夫球場、SPA、酒吧、會議和展覽空間、夜店和娛樂活動等 amenity"
+        },
+        {
+          "sentence": "Shares of this luxury resort and casino company have underperformed the broader market over the past year.",
+          "translation": "這家高級度假村和賭場公司的股價在過去一年內下跌了"
+        },
+        {
+          "sentence": "WYNN has declined 9.8% over this time frame, while the broader S&P 500 Index ($SPX) has rallied nearly 19.3%.",
+          "translation": "WYNN 的股價在過去一年內下跌了 9.8%，而 S&P 500 指數的股價上涨了 nearly 19.3% "
         },
         {
           "sentence": "Barron Trump, 20, Now Worth $150 Million — More Than Mom, Melania — From Crypto And $39 Energy Drink",
+          "translation": ""
+        },
+        {
+          "sentence": "Billionaire Michael Saylor Warns Against Buying a House Because 'Every 36 Years You Actually Pay the Cost of the House in Tax to the Government'.",
+          "translation": ""
+        },
+        {
+          "sentence": "QQQ Just 'Gamma Flipped' as Market Makers Were Forced to Sell.",
           "translation": ""
         },
         {
@@ -300,99 +493,37 @@
           "translation": ""
         },
         {
-          "sentence": "Three analysts covering the stock are projecting average revenue of $182.83 million for the quarter.",
+          "sentence": "Narrowing the focus, WYNN's underperformance is also apparent compared to the State Street Consumer Discretionary Select Sector SPDR ETF (XLY).",
           "translation": ""
         },
         {
-          "sentence": "That would mark a sizable jump from the $156.94 million Webull posted in the same period a year ago, a gain of roughly 24%.",
+          "sentence": "The exchange-traded fund has gained about 1.7% over the past year.",
           "translation": ""
         },
         {
-          "sentence": "Average earnings per share of $0.03 for the quarter, well below the $0.06 it reported a year earlier.",
+          "sentence": "Moreover, the ETF's 2.2% losses on a YTD basis outshine the stock's double-digit dip over the same time frame.",
           "translation": ""
         },
         {
-          "sentence": "Still, for a company that only recently turned profitable on a consistent basis, even a small positive number keeps a streak alive.",
-          "translation": ""
-        }
-      ]
-    },
-    {
-      "news_id": "news_3",
-      "title": "Citigroup To Launch Bitcoin Custody For Institutional Clients",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/citigroup-launch-bitcoin-custody-institutional-141400472.html",
-      "level1_blind": "Leading U.S. commercial bank Citigroup (NYSE: $C) says it plans to offer Bitcoin (CRYPTO: $BTC) custody to its institutional clients by year's end.\n\nThe move by Citigroup will bring crypto into the same infrastructure the bank uses to safeguard traditional assets for institutional investors that include pensions and hedge funds.\n\nCrypto custody is the secure storage and management of the private cryptographic keys required to access, own, and transfer digital assets on a blockchain.\n\nMEXC July TradFi Trading Shifts Toward AI Storage as SNDK Futures Volume Surges More Than 15x Times\n\nMEXC's August 2026 Proof of Reserves Confirms User Assets Fully Backed as Reserve Ratios Remain Above 100%\n\nNews of the crypto custody service comes as Citigroup introduced \"Custody+,\" a suite of services designed to make custody, settlement, foreign exchange and cash management faster.\n\nThe service, which does not yet have a set launch date, will start with Bitcoin and provide clients access to traditional and crypto custody through the same framework.\n\nCitigroup's custody operation currently serves clients in more than 100 markets, including 62 markets where it runs its own custody network.",
-      "level2_keywords": [
-        {
-          "word": "Bitcoin",
-          "ipa": "biˈtɔɪn",
-          "meaning": "加密貨幣",
-          "example": "Bitcoin 是一種由加密算法創建的貨幣"
-        },
-        {
-          "word": "custody",
-          "ipa": "kʌsˈtɒdi",
-          "meaning": "保管",
-          "example": "銀行的保管部門負責管理客户的資產"
-        },
-        {
-          "word": "institutional",
-          "ipa": "ɪnɪˈstʊʃənəl",
-          "meaning": "機構性",
-          "example": "機構性投資者包括退休金和 Hedge Fund"
-        },
-        {
-          "word": "blockchain",
-          "ipa": "ˈblɒkˌkeɪn",
-          "meaning": "鏈鏈",
-          "example": "鏈鏈是一種分布式 ledger"
-        },
-        {
-          "word": "cryptographic",
-          "ipa": "kraɪpˈtɔɡræfɪk",
-          "meaning": "加密學",
-          "example": "加密學是一個研究加密和解密的學科"
-        }
-      ],
-      "level2_context": "美國 Citigroup 這個銀行將要開始提供 Bitcoin 的保管服務，將使得 Bitcoin 輸入同樣的保管系統，與銀行對機構性投資者的保管服務一樣安全。這將是 Citigroup 的 Custody+ 服務的一部分，該服務將提供更快的保管、結算、外匯交易和現金管理。這項服務將在 Bitcoin 上開始，將使得機構性客戶能夠在同一個框架下使用傳統和加密貨幣的保管服務。這項服務目前尚未有正式的上市時間，將在 Bitcoin 上開始，將提供客戶在傳統和加密貨幣保管服務之間的選擇。",
-      "level3_translation": [
-        {
-          "sentence": "Leading U.S. commercial bank Citigroup (NYSE: $C) says it plans to offer Bitcoin (CRYPTO: $BTC) custody to its institutional clients by year's end.",
-          "translation": "美國商業銀行 Citigroup 表示將在本年末提供 Bitcoin 保管服務給機構性客戶"
-        },
-        {
-          "sentence": "The move by Citigroup will bring crypto into the same infrastructure the bank uses to safeguard traditional assets for institutional investors that include pensions and hedge funds.",
-          "translation": "Citigroup 這一行動將將加密貨幣帶入同樣的保管系統，與銀行對機構性投資者的保管服務一樣安全"
-        },
-        {
-          "sentence": "Crypto custody is the secure storage and management of the private cryptographic keys required to access, own, and transfer digital assets on a blockchain.",
-          "translation": "加密貨幣保管是指安全地儲存和管理私密加密密碼，從而能夠存取、擁有和轉移數位資產"
-        },
-        {
-          "sentence": "MEXC July TradFi Trading Shifts Toward AI Storage as SNDK Futures Volume Surges More Than 15x Times",
+          "sentence": "WYNN has faced market underperformance due to choppiness in Macau's VIP segment, elevated domestic labor costs, and investor caution around heavy capital expenditures.",
           "translation": ""
         },
         {
-          "sentence": "MEXC's August 2026 Proof of Reserves Confirms User Assets Fully Backed as Reserve Ratios Remain Above 100%.",
+          "sentence": "While Macau remains a primary volume driver, low VIP table games hold and cautious consumer spending in China periodically squeezed property margins.",
           "translation": ""
         },
         {
-          "sentence": "News of the crypto custody service comes as Citigroup introduced \"Custody+,\" a suite of services designed to make custody, settlement, foreign exchange and cash management faster.",
-          "translation": "關於加密貨幣保管服務的消息出現，Citigroup 這家銀行推出「Custody+」，是一套服務，設計為能夠加速保管、結算、外匯交易和現金管理"
+          "sentence": "Domestically, rising operating expenses and contractual wage increases pressured margins across domestic properties; however, Las Vegas and Boston maintained strong operational discipline and identified key efficiencies to help stabilize underlying profitability.",
+          "translation": ""
         },
         {
-          "sentence": "The service, which does not yet have a set launch date, will start with Bitcoin and provide clients access to traditional and crypto custody through the same framework.",
-          "translation": "該服務尚未確定上市時間，將在 Bitcoin 上開始，將提供客戶在同一個框架下使用傳統和加密貨幣的保管服務"
-        },
-        {
-          "sentence": "Citigroup's custody operation currently serves clients in more than 100 markets, including 62 markets where it runs its own custody network.",
-          "translation": "Citigroup 的保管部門目前為客戶提供服務，已經在超過 100 個市場中運行，包括 62 個市場中自己運行的保管網絡"
+          "sentence": "Compounding these operational drags, market sentiment has been constrained by significant capital deployment into large scale growth projects, including the Wynn Al Marjan Island development in the UAE and Macau property expansions, which concentrate capital outflows before yielding long-term cash flow.",
+          "translation": ""
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "今日台股大戶大買陽明（2609）與美商高盛（美股）聯合推動的新 Medicare Advantage 方案有著深遠的關聯。根據 Yahoo Finance 的報導，Costco Wholesale Corporation 和 nonprofit insurer SCAN Group 正在推動這一方案，將在美國多個州推出 Medicare Advantage 產品。這一 news 事件可能是因為美商高盛的關注，從而導致台股大戶大買陽明（2609）。此外，美商高盛的關注也可能是因為 Costco Wholesale Corporation 的關注，從而導致 SCAN Group 的 Medicare Advantage 方案的推動。這一事件的發生可能與 Citigroup 的 Bitcoin Custody 方案也有著一定的關聯，例如美商高盛與 Citigroup 的關係或合作機會。因此，今日台股大戶大買陽明（2609）與美商高盛的聯合推動的新 Medicare Advantage 方案，可能是因為美商高盛的關注而導致的，同時也可能與 Citigroup 的 Bitcoin Custody 方案有著一定的關聯。"
+    "market_connection": "美股和港股的行情可能受到美商高盛和凱基台北的買卖行為影響，尤其是在陽明和元大台灣50的股價上下波動。與此同時，國際財經新聞報導了美元下跌和金價上漲，可能與 US Treasury 的買回政策和 ECB 的利率調整有關。這些事件可能會對全球股市產生影響，特別是在金融行業和相關產業中。因此，為了保持市場的穩定性和穩健的投資策略，需要密切關注這些事件的發展，並進行適當的調整。"
   }
 }
