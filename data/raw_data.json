@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-21",
-  "stock_market_date": "2026-08-20",
+  "date": "2026-08-22",
+  "stock_market_date": "2026-08-21",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
@@ -8,123 +8,123 @@
           "rank": 1,
           "stock_name": "陽明",
           "ticker": "2609",
-          "net_buy_shares": 54758664
+          "net_buy_shares": 37158736
         },
         {
           "rank": 2,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_buy_shares": 36279787
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 36636236
         },
         {
           "rank": 3,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 26734247
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 21016862
         },
         {
           "rank": 4,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 26277613
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 20474320
         },
         {
           "rank": 5,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 23136416
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_buy_shares": 19630249
         },
         {
           "rank": 6,
-          "stock_name": "台泥",
-          "ticker": "1101",
-          "net_buy_shares": 21766556
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 19236875
         },
         {
           "rank": 7,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_buy_shares": 21029655
+          "stock_name": "萬海",
+          "ticker": "2615",
+          "net_buy_shares": 16238724
         },
         {
           "rank": 8,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 18678105
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_buy_shares": 15090759
         },
         {
           "rank": 9,
-          "stock_name": "萬海",
-          "ticker": "2615",
-          "net_buy_shares": 17722690
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 14921695
         },
         {
           "rank": 10,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_buy_shares": 17384707
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 12902735
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -35015871
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_sell_shares": -28437679
         },
         {
           "rank": 2,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_sell_shares": -19448816
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_sell_shares": -9592644
         },
         {
           "rank": 3,
-          "stock_name": "華新科",
-          "ticker": "2492",
-          "net_sell_shares": -18542533
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -6805723
         },
         {
           "rank": 4,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_sell_shares": -14856713
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_sell_shares": -5334062
         },
         {
           "rank": 5,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -13403186
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_sell_shares": -4896393
         },
         {
           "rank": 6,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -11641679
+          "stock_name": "一詮",
+          "ticker": "2486",
+          "net_sell_shares": -4678386
         },
         {
           "rank": 7,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -10988531
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_sell_shares": -4314929
         },
         {
           "rank": 8,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_sell_shares": -10516258
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_sell_shares": -3872831
         },
         {
           "rank": 9,
-          "stock_name": "彩晶",
-          "ticker": "6116",
-          "net_sell_shares": -8564534
+          "stock_name": "台表科",
+          "ticker": "6278",
+          "net_sell_shares": -3780232
         },
         {
           "rank": 10,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -8559385
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_sell_shares": -3528905
         }
       ],
       "trust_buy": [
@@ -132,61 +132,61 @@
           "rank": 1,
           "stock_name": "遠東新",
           "ticker": "1402",
-          "net_buy_shares": 5788000
+          "net_buy_shares": 11110000
         },
         {
           "rank": 2,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 5342000
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 5900000
         },
         {
           "rank": 3,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 4698000
+          "stock_name": "台表科",
+          "ticker": "6278",
+          "net_buy_shares": 2851000
         },
         {
           "rank": 4,
-          "stock_name": "大毅",
-          "ticker": "2478",
-          "net_buy_shares": 3767000
+          "stock_name": "一詮",
+          "ticker": "2486",
+          "net_buy_shares": 1888000
         },
         {
           "rank": 5,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 3674000
+          "stock_name": "全新",
+          "ticker": "2455",
+          "net_buy_shares": 1512000
         },
         {
           "rank": 6,
-          "stock_name": "日電貿",
-          "ticker": "3090",
-          "net_buy_shares": 2864000
+          "stock_name": "遠東銀",
+          "ticker": "2845",
+          "net_buy_shares": 1340000
         },
         {
           "rank": 7,
-          "stock_name": "合庫金",
-          "ticker": "5880",
-          "net_buy_shares": 2756000
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_buy_shares": 1306000
         },
         {
           "rank": 8,
-          "stock_name": "可寧衛*",
-          "ticker": "8422",
-          "net_buy_shares": 2559000
+          "stock_name": "晶技",
+          "ticker": "3042",
+          "net_buy_shares": 992000
         },
         {
           "rank": 9,
-          "stock_name": "光寶科",
-          "ticker": "2301",
-          "net_buy_shares": 2257064
+          "stock_name": "聯鈞",
+          "ticker": "3450",
+          "net_buy_shares": 914000
         },
         {
           "rank": 10,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 2245000
+          "stock_name": "萬海",
+          "ticker": "2615",
+          "net_buy_shares": 829000
         }
       ],
       "trust_sell": [
@@ -194,185 +194,185 @@
           "rank": 1,
           "stock_name": "聯電",
           "ticker": "2303",
-          "net_sell_shares": -28075072
+          "net_sell_shares": -3690282
         },
         {
           "rank": 2,
           "stock_name": "日月光投控",
           "ticker": "3711",
-          "net_sell_shares": -3960155
+          "net_sell_shares": -1244218
         },
         {
           "rank": 3,
-          "stock_name": "長華*",
-          "ticker": "8070",
-          "net_sell_shares": -3100000
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_sell_shares": -698000
         },
         {
           "rank": 4,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -3069065
+          "stock_name": "台光電",
+          "ticker": "2383",
+          "net_sell_shares": -409127
         },
         {
           "rank": 5,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_sell_shares": -2452000
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_sell_shares": -388808
         },
         {
           "rank": 6,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_sell_shares": -2387000
+          "stock_name": "大成",
+          "ticker": "1210",
+          "net_sell_shares": -376000
         },
         {
           "rank": 7,
-          "stock_name": "大聯大",
-          "ticker": "3702",
-          "net_sell_shares": -1926000
+          "stock_name": "禾伸堂",
+          "ticker": "3026",
+          "net_sell_shares": -359100
         },
         {
           "rank": 8,
-          "stock_name": "聯發科",
-          "ticker": "2454",
-          "net_sell_shares": -1799012
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_sell_shares": -348280
         },
         {
           "rank": 9,
-          "stock_name": "微星",
-          "ticker": "2377",
-          "net_sell_shares": -1719000
+          "stock_name": "致茂",
+          "ticker": "2360",
+          "net_sell_shares": -327235
         },
         {
           "rank": 10,
-          "stock_name": "矽格",
-          "ticker": "6257",
-          "net_sell_shares": -1666871
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -280000
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 3432017
-        },
-        {
-          "rank": 2,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_buy_shares": 1414009
-        },
-        {
-          "rank": 3,
           "stock_name": "陽明",
           "ticker": "2609",
-          "net_buy_shares": 1066229
-        },
-        {
-          "rank": 4,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_buy_shares": 771019
-        },
-        {
-          "rank": 5,
-          "stock_name": "萬海",
-          "ticker": "2615",
-          "net_buy_shares": 482987
-        },
-        {
-          "rank": 6,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 439975
-        },
-        {
-          "rank": 7,
-          "stock_name": "遠雄港",
-          "ticker": "5607",
-          "net_buy_shares": 310000
-        },
-        {
-          "rank": 8,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_buy_shares": 259168
-        },
-        {
-          "rank": 9,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_buy_shares": 223000
-        },
-        {
-          "rank": 10,
-          "stock_name": "至上",
-          "ticker": "8112",
-          "net_buy_shares": 186280
-        }
-      ],
-      "dealer_sell": [
-        {
-          "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -3117019
+          "net_buy_shares": 2297982
         },
         {
           "rank": 2,
-          "stock_name": "微星",
-          "ticker": "2377",
-          "net_sell_shares": -1800475
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 969986
         },
         {
           "rank": 3,
           "stock_name": "南亞",
           "ticker": "1303",
-          "net_sell_shares": -1701001
+          "net_buy_shares": 927000
         },
         {
           "rank": 4,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_sell_shares": -1113775
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_buy_shares": 899147
         },
         {
           "rank": 5,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -794000
+          "stock_name": "瑞軒",
+          "ticker": "2489",
+          "net_buy_shares": 738285
         },
         {
           "rank": 6,
-          "stock_name": "台虹",
-          "ticker": "8039",
-          "net_sell_shares": -597307
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 665211
         },
         {
           "rank": 7,
-          "stock_name": "新興",
-          "ticker": "2605",
-          "net_sell_shares": -446000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 651000
         },
         {
           "rank": 8,
-          "stock_name": "亞泥",
-          "ticker": "1102",
-          "net_sell_shares": -395000
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 636240
         },
         {
           "rank": 9,
-          "stock_name": "康舒",
-          "ticker": "6282",
-          "net_sell_shares": -386000
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 543000
         },
         {
           "rank": 10,
-          "stock_name": "燿華",
-          "ticker": "2367",
-          "net_sell_shares": -328000
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 529000
+        }
+      ],
+      "dealer_sell": [
+        {
+          "rank": 1,
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_sell_shares": -1079000
+        },
+        {
+          "rank": 2,
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_sell_shares": -740000
+        },
+        {
+          "rank": 3,
+          "stock_name": "中租-KY",
+          "ticker": "5871",
+          "net_sell_shares": -479000
+        },
+        {
+          "rank": 4,
+          "stock_name": "新興",
+          "ticker": "2605",
+          "net_sell_shares": -436000
+        },
+        {
+          "rank": 5,
+          "stock_name": "聯茂",
+          "ticker": "6213",
+          "net_sell_shares": -430844
+        },
+        {
+          "rank": 6,
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_sell_shares": -316000
+        },
+        {
+          "rank": 7,
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_sell_shares": -295000
+        },
+        {
+          "rank": 8,
+          "stock_name": "威健",
+          "ticker": "3033",
+          "net_sell_shares": -293000
+        },
+        {
+          "rank": 9,
+          "stock_name": "晶技",
+          "ticker": "3042",
+          "net_sell_shares": -292160
+        },
+        {
+          "rank": 10,
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_sell_shares": -196203
         }
       ]
     },
@@ -381,55 +381,55 @@
         "branch_name": "美商高盛",
         "action": "buy",
         "target": "陽明",
-        "shares": 19165532
+        "shares": 13005557
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "元大台灣50",
-        "shares": 1372806
+        "target": "陽明",
+        "shares": 919192
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
         "target": "遠東新",
-        "shares": 2604600
+        "shares": 4999500
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "力積電",
-        "shares": 10504761
+        "target": "漢翔",
+        "shares": 8531303
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Bank of America sends message on Capital One stock",
+      "title": "AT&T stands to gain as Verizon loses a customer related battle",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-message-capital-090300253.html",
-      "summary": "Bank of America sends message on Capital One stock",
-      "full_text": "Capital One Financial has spent more than a year integrating Discover while investors watch whether the massive acquisition can translate into faster growth and stronger returns.\n\nThe latest monthly data gave Wall Street a mixed picture. Capital One (COF) posted healthy credit trends in July, but growth in its domestic card portfolio slowed from the prior month.\n\nIn a note given to TheStreet, BofA analyst Mihir Bhatia maintained a Buy rating and a $253 price objective on Capital One, representing 11.3% upside from the $227.34 share price used in the report.\n\nBhatia said July's operating metrics remained healthy overall, pointing to solid credit performance even as card balances grew at a slower pace.\n\nCapital One ended July with $258.9 billion in domestic credit card loans, according to a filing with the Securities and Exchange Commission. The portfolio's annualized net charge-off rate was 4.12%, while the 30-day-plus performing delinquency rate came in at 3.48%.\n\nBofA said domestic card loans were up 1.92% from a year earlier, slowing from 2.58% growth in June. Card balances have grown at around 2% for roughly the past year, according to Bhatia.\n\nThe analyst does not expect a meaningful acceleration until headwinds tied to the Discover integration and related borrow-out activity begin to clear. BofA is modeling end-of-period card loans to increase by about 1% sequentially in the third quarter.\n\nThat slowdown comes as Capital One continues working through its integration of Discover. The company completed its acquisition in May 2025, adding the Discover, PULSE, and Diners Club International networks to its business.",
-      "published": "2026-08-20T09:03:00Z"
+      "link": "https://finance.yahoo.com/technology/articles/t-stands-gain-verizon-loses-230000780.html",
+      "summary": "AT&T stands to gain as Verizon loses a customer related battle",
+      "full_text": "Both AT&T and Verizon sold their customers' real-time location data to aggregators who resold it to almost anyone willing to pay. Both got fined. Both fought back. One of them just ran out of road.\n\nOn Aug. 17, the Supreme Court denied Verizon's petition to recover the $47 million it paid the Federal Communications Commission (FCC) over the sale of customer location data, ending the carrier's effort without explanation, according to QZ.\n\nAT&T is in a different position. Its case took a different procedural path and it still has a live shot at recovering the $57 million it paid. That gap matters, and it didn't happen by accident.\n\nThe fines go back to April 2024, when the FCC penalized four carriers a combined $196 million for selling customers' location data to aggregators without meaningful consent.\n\nT-Mobile was hit hardest at $80 million. AT&T paid $57 million. Verizon paid $47 million. Sprint paid $12 million.\n\nThe carriers didn't just pay and move on. They paid under protest and went to court arguing the FCC's enforcement process violated their Seventh Amendment right to a jury trial.\n\nThe agency, they said, acted as judge and jury by imposing penalties through an administrative process rather than taking them to court.\n\nThe Supreme Court ruled 8-1 against the carriers on that argument in June. The majority held that the carriers weren't denied a jury trial because they could have refused to pay and forced the government to sue them, at which point they could have demanded a jury.",
+      "published": "2026-08-20T23:00:00Z"
     },
     {
       "id": "news_2",
-      "title": "Dollar Slumps and Gold Rallies as US Treasury Ramps Up Buybacks",
+      "title": "How Lower Migration Costs Are Shortening Guidewire Software’s (GWRE) Sales Cycle",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-slumps-gold-rallies-us-143540311.html",
-      "summary": "Dollar Slumps and Gold Rallies as US Treasury Ramps Up Buybacks",
-      "full_text": "The dollar index (DXY00) tumbled to a 2.5-month low today and is down by -0.76%.  The dollar retreated today after the US Treasury boosted liquidity and announced plans to increase buybacks of long-dated bonds.  Lower T-note yields today have also weakened the dollar's interest rate differentials.\n\nThe US Treasury announced today that it will at least double the maximum size of its liquidity support buyback operations for longer-dated nominal coupon sizes to at least $4 billion per operation, effective September 9.\n\nThe markets are discounting a 35% probability of a +25 bp rate hike at the next FOMC meeting on September 15-16.\n\nEUR/USD (^EURUSD) rallied to a 2.5-month high today and is up by +0.77%.  Today's slump in the dollar is boosting the euro after the US Treasury announced that it was boosting liquidity by increasing its purchases of longer-dated US government bonds.  Today's rally in crude oil prices to a 3-week high is bearish for the Eurozone economy and the euro, as Europe imports most of its energy.\n\nThe markets are discounting a 95% chance of a +25 bp ECB rate hike at its next policy meeting on September 10.\n\nUSD/JPY (^USDJPY) is down by -0.83% today.  The yen rallied to a 1-week high today against the dollar after the US Treasury announced that it was boosting purchases of longer-dated US government bonds.  The yen also found support after today's economic news showed that Japanese June core machine orders rose more than expected.  In addition, lower T-note yields today support the yen.  On the negative side, today's rally in WTI crude oil to a 3-week high is a bearish factor for Japan's economy and the yen, as Japan imports more than 90% of its energy.\n\nThe yen has underlying support from increased expectations of a BOJ rate hike after Bloomberg reported last Thursday that Japanese Prime Minister Sanae Takaichi's government supports a BOJ rate hike in either September or October.  The government favors a rate hike to support the yen and prevent inflationary pressures stemming from the weak yen.  Finally, the yen has ongoing support from the recent coordinated US-Japan intervention and fears that further intervention might be forthcoming if the yen remains weak.\n\nThe markets are discounting a 77% chance of a +25 bp BOJ rate hike at the September 18 policy meeting. The yen continues to suffer from weak interest rate differentials, with the BOJ's current policy rate of 1.00% well below the Fed's federal funds rate target range of 3.50%-3.75%.",
-      "published": "2026-08-19T14:35:40Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lower-migration-costs-shortening-guidewire-144910987.html",
+      "summary": "How Lower Migration Costs Are Shortening Guidewire Software’s (GWRE) Sales Cycle",
+      "full_text": "Brown Brothers Harriman, an investment management company, released its Q2 2026 investor letter for the \"BBH Select Mid Cap ETF\". A copy of the letter can be downloaded here. In the quarter, the fund increased 9.7% on a total return basis compared to the Russell Midcap Index's 13.8% return. Artificial intelligence is a key factor influencing market performance, with high-valuation and high-beta companies consistently outperforming others. The portfolio saw gains from being overweight in technology and industrials but missed opportunities due to underweighting more cyclical stocks. At the end of Q2 2026, the Fund held positions in 27 companies, with 48% of assets concentrated in the top 10 holdings. The Fund's strategy focuses on companies priced below intrinsic value to ensure a margin of safety, rather than on whether valuations are high or low. Additionally, reviewing the Fund's top five holdings could help identify its best picks for 2026.\n\nIn its Q2 2026 investor letter, BBH Select Mid Cap ETF highlighted Guidewire Software, Inc. (NYSE:GWRE). Guidewire Software, Inc. (NYSE:GWRE) provides a platform for property and casualty (P&C) insurers. On August 19, 2026, Guidewire Software, Inc. (NYSE:GWRE) closed at $181.18 per share, reflecting a market capitalization of $15.08 billion. Guidewire Software, Inc. (NYSE:GWRE) posted a one‑month return of 37.91%, while its shares lost 14.98% over the past 52 weeks.\n\nBBH Select Mid Cap ETF stated the following regarding Guidewire Software, Inc. (NYSE:GWRE) in its Q2 2026 investor letter:\n\n\"The Fund's largest detractors to performance in the quarter were Guidewire Software, Inc. (NYSE:GWRE) and Dar ling Ingredients Inc. (Darling). Guidewire declined -17.7% during the quarter, ending with a weight of 3.1%. Guidewire is the leading provider of core systems software to the property and casualty (P&C) insurance industry. Guidewire reported strong fiscal third quarter results (its fiscal year ends in July), with revenue growth of 27% and profitability well ahead of guidance, and management raised full-year guidance for both. The shares nevertheless declined because annual recurring revenue (ARR) growth of 19% finished at the midpoint of guidance, the first quarter since 2022 that ARR did not meet or exceed the high end of its guidance, as a couple of deals slipped past quarter end. We believe the slippage reflects timing rather than demand. The pipeline remains healthy, and management noted the fiscal fourth quarter is off to a good start and could be a record quarter. Fully ramped ARR continues to grow faster than reported ARR, and management expects it to grow above the 22% achieved in fiscal year 25, which supports continued growth into future years. While AI is perceived as a risk by the market, a modern core system is a prerequisite for insurers to deploy AI, and early customer pilots using AI tooling have reduced cloud migration costs by approximately 35%, lowering the largest cost barrier to modernization. We believe this migration will drive Guidewire's growth for the next decade, as the Company currently wins more than 80% of competitive requests for proposals (RFPs) but only 25% of industry premiums are running on its systems. In addition, Guidewire's pricing is tied to direct written premiums rather than employee headcount, which makes it a beneficiary of rising insurance premiums and insulates it from potential AI-driven seat reductions.\"\n\nGuidewire Software, Inc. (NYSE:GWRE) is not on our list of the 40 Most Popular Stocks Among Hedge Funds. As per our database, 52 hedge fund portfolios held Guidewire Software, Inc. (NYSE:GWRE) at the end of the first quarter which was 69 in the previous quarter. While we acknowledge the potential of Guidewire Software, Inc. (NYSE:GWRE) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nIn another article, we covered Guidewire Software, Inc. (NYSE:GWRE) and shared Baron Opportunity Fund's views on the company. In addition, please check out our hedge fund investor letters Q2 2026 page for more investor letters from hedge funds and other leading investors.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
+      "published": "2026-08-20T14:49:10Z"
     },
     {
       "id": "news_3",
-      "title": "Wynn Resorts Stock: Is Wall Street Bullish or Bearish?",
+      "title": "Bitcoin Could Extend Rally as ETF Inflows Hit $517M: Expert",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wynn-resorts-stock-wall-street-143043210.html",
-      "summary": "Wynn Resorts Stock: Is Wall Street Bullish or Bearish?",
-      "full_text": "Las Vegas, Nevada-based Wynn Resorts, Limited (WYNN) designs, develops, and operates integrated resorts. Valued at $10.4 billion by market cap, the company offers amenities such as guest rooms and suites, restaurants, golf course, spa, bars, meeting and convention space, night clubs, and recreation and leisure facilities.\n\nShares of this luxury resort and casino company have underperformed the broader market over the past year. WYNN has declined 9.8% over this time frame, while the broader S&P 500 Index ($SPX) has rallied nearly 19.3%. In 2026, WYNN stock is down 15.4%, compared to the SPX's 12.4% rise on a YTD basis.\n\nBarron Trump, 20, Now Worth $150 Million — More Than Mom, Melania — From Crypto And $39 Energy Drink\n\nBillionaire Michael Saylor Warns Against Buying a House Because 'Every 36 Years You Actually Pay the Cost of the House in Tax to the Government'\n\nQQQ Just 'Gamma Flipped' as Market Makers Were Forced to Sell. Here's What Our Top Chart Expert is Tracking Next.\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nNarrowing the focus, WYNN's underperformance is also apparent compared to the State Street Consumer Discretionary Select Sector SPDR ETF (XLY). The exchange-traded fund has gained about 1.7% over the past year. Moreover, the ETF's 2.2% losses on a YTD basis outshine the stock's double-digit dip over the same time frame.\n\nWYNN has faced market underperformance due to choppiness in Macau's VIP segment, elevated domestic labor costs, and investor caution around heavy capital expenditures. While Macau remains a primary volume driver, low VIP table games hold and cautious consumer spending in China periodically squeezed property margins. Domestically, rising operating expenses and contractual wage increases pressured margins across domestic properties; however, Las Vegas and Boston maintained strong operational discipline and identified key efficiencies to help stabilize underlying profitability. Compounding these operational drags, market sentiment has been constrained by significant capital deployment into large scale growth projects, including the Wynn Al Marjan Island development in the UAE and Macau property expansions, which concentrate capital outflows before yielding long-term cash flow.",
-      "published": "2026-08-19T14:30:43Z"
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-could-extend-rally-etf-144800080.html",
+      "summary": "Bitcoin Could Extend Rally as ETF Inflows Hit $517M: Expert",
+      "full_text": "US spot Bitcoin (CRYPTO: $BTC) exchange-traded funds (ETFs) recorded $517.2 million in net inflows on Wednesday, their largest single-day investment since May 4, as Bitcoin rallied alongside renewed attention on US crypto regulation and financial markets.\n\nThe latest inflows pushed August's total to $1.47 billion. The funds have attracted about $1 billion since Monday, putting them on pace for their strongest weekly net inflow since the week ended Jan. 16, when they brought in roughly $1.42 billion, according to data from SoSoValue.\n\nSpot Ethereum (CRYPTO: $ETH) ETFs also recorded strong demand, with $189.2 million in net inflows on Wednesday, bringing their weekly inflows to about $291.5 million.\n\nMEXC's August 2026 Proof of Reserves Confirms User Assets Fully Backed as Reserve Ratios Remain Above 100%\n\nThe ETF inflows came as the US Treasury announced an expansion of its buybacks of longer-dated government debt. The move was accompanied by declines in Treasury yields and the US dollar, while gold and silver outperformed equities.\n\nCrypto markets also received renewed regulatory attention after President Donald Trump urged Congress to advance the CLARITY Act during a White House event.\n\nSimon-Peter Massabni, head of business development at XS.com, told Cryptoprowl that the return of institutional capital is one of the most important factors to watch as Bitcoin attempts to recover.\n\n\"Sustained ETF inflows over several consecutive sessions would, in my opinion, represent a much stronger signal than a single price surge,\" Massabni said.",
+      "published": "2026-08-20T14:48:00Z"
     }
   ]
 }
