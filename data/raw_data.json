@@ -1,378 +1,378 @@
 {
-  "date": "2026-08-24",
-  "stock_market_date": "2026-08-21",
+  "date": "2026-08-25",
+  "stock_market_date": "2026-08-24",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "陽明",
-          "ticker": "2609",
-          "net_buy_shares": 37158736
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 38095597
         },
         {
           "rank": 2,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 36636236
+          "stock_name": "陽明",
+          "ticker": "2609",
+          "net_buy_shares": 30651418
         },
         {
           "rank": 3,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 21016862
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_buy_shares": 28426511
         },
         {
           "rank": 4,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 20474320
+          "stock_name": "鼎元",
+          "ticker": "2426",
+          "net_buy_shares": 13702617
         },
         {
           "rank": 5,
-          "stock_name": "富邦金",
-          "ticker": "2881",
-          "net_buy_shares": 19630249
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 12920029
         },
         {
           "rank": 6,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 19236875
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 12784114
         },
         {
           "rank": 7,
           "stock_name": "萬海",
           "ticker": "2615",
-          "net_buy_shares": 16238724
+          "net_buy_shares": 11518471
         },
         {
           "rank": 8,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_buy_shares": 15090759
+          "stock_name": "彩晶",
+          "ticker": "6116",
+          "net_buy_shares": 11124292
         },
         {
           "rank": 9,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 14921695
+          "stock_name": "長榮",
+          "ticker": "2603",
+          "net_buy_shares": 9343268
         },
         {
           "rank": 10,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_buy_shares": 12902735
+          "stock_name": "光寶科",
+          "ticker": "2301",
+          "net_buy_shares": 8748267
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_sell_shares": -28437679
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -28429625
         },
         {
           "rank": 2,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_sell_shares": -9592644
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -23066017
         },
         {
           "rank": 3,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -6805723
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_sell_shares": -21392024
         },
         {
           "rank": 4,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_sell_shares": -5334062
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -19904562
         },
         {
           "rank": 5,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -4896393
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_sell_shares": -19167850
         },
         {
           "rank": 6,
-          "stock_name": "一詮",
-          "ticker": "2486",
-          "net_sell_shares": -4678386
+          "stock_name": "台化",
+          "ticker": "1326",
+          "net_sell_shares": -18204610
         },
         {
           "rank": 7,
           "stock_name": "臺企銀",
           "ticker": "2834",
-          "net_sell_shares": -4314929
+          "net_sell_shares": -14495768
         },
         {
           "rank": 8,
-          "stock_name": "強茂",
-          "ticker": "2481",
-          "net_sell_shares": -3872831
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_sell_shares": -13732997
         },
         {
           "rank": 9,
-          "stock_name": "台表科",
-          "ticker": "6278",
-          "net_sell_shares": -3780232
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_sell_shares": -13423857
         },
         {
           "rank": 10,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_sell_shares": -3528905
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_sell_shares": -11488857
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_buy_shares": 11110000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 11914022
         },
         {
           "rank": 2,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 5900000
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_buy_shares": 9128000
         },
         {
           "rank": 3,
-          "stock_name": "台表科",
-          "ticker": "6278",
-          "net_buy_shares": 2851000
+          "stock_name": "遠東銀",
+          "ticker": "2845",
+          "net_buy_shares": 1523000
         },
         {
           "rank": 4,
-          "stock_name": "一詮",
-          "ticker": "2486",
-          "net_buy_shares": 1888000
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_buy_shares": 1408000
         },
         {
           "rank": 5,
-          "stock_name": "全新",
-          "ticker": "2455",
-          "net_buy_shares": 1512000
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 1400000
         },
         {
           "rank": 6,
-          "stock_name": "遠東銀",
-          "ticker": "2845",
-          "net_buy_shares": 1340000
+          "stock_name": "禾伸堂",
+          "ticker": "3026",
+          "net_buy_shares": 1328000
         },
         {
           "rank": 7,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_buy_shares": 1306000
+          "stock_name": "統一證",
+          "ticker": "2855",
+          "net_buy_shares": 1324000
         },
         {
           "rank": 8,
-          "stock_name": "晶技",
-          "ticker": "3042",
-          "net_buy_shares": 992000
+          "stock_name": "大聯大",
+          "ticker": "3702",
+          "net_buy_shares": 1280000
         },
         {
           "rank": 9,
-          "stock_name": "聯鈞",
-          "ticker": "3450",
-          "net_buy_shares": 914000
+          "stock_name": "神達",
+          "ticker": "3706",
+          "net_buy_shares": 1197000
         },
         {
           "rank": 10,
-          "stock_name": "萬海",
-          "ticker": "2615",
-          "net_buy_shares": 829000
+          "stock_name": "宏致",
+          "ticker": "3605",
+          "net_buy_shares": 1128000
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -3690282
+          "stock_name": "慧洋-KY",
+          "ticker": "2637",
+          "net_sell_shares": -5556700
         },
         {
           "rank": 2,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_sell_shares": -1244218
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_sell_shares": -4483055
         },
         {
           "rank": 3,
-          "stock_name": "強茂",
-          "ticker": "2481",
-          "net_sell_shares": -698000
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_sell_shares": -3622169
         },
         {
           "rank": 4,
-          "stock_name": "台光電",
-          "ticker": "2383",
-          "net_sell_shares": -409127
-        },
-        {
-          "rank": 5,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_sell_shares": -388808
-        },
-        {
-          "rank": 6,
-          "stock_name": "大成",
-          "ticker": "1210",
-          "net_sell_shares": -376000
-        },
-        {
-          "rank": 7,
-          "stock_name": "禾伸堂",
-          "ticker": "3026",
-          "net_sell_shares": -359100
-        },
-        {
-          "rank": 8,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_sell_shares": -348280
-        },
-        {
-          "rank": 9,
-          "stock_name": "致茂",
-          "ticker": "2360",
-          "net_sell_shares": -327235
-        },
-        {
-          "rank": 10,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -280000
-        }
-      ],
-      "dealer_buy": [
-        {
-          "rank": 1,
-          "stock_name": "陽明",
-          "ticker": "2609",
-          "net_buy_shares": 2297982
-        },
-        {
-          "rank": 2,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 969986
-        },
-        {
-          "rank": 3,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 927000
-        },
-        {
-          "rank": 4,
-          "stock_name": "中石化",
-          "ticker": "1314",
-          "net_buy_shares": 899147
-        },
-        {
-          "rank": 5,
-          "stock_name": "瑞軒",
-          "ticker": "2489",
-          "net_buy_shares": 738285
-        },
-        {
-          "rank": 6,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 665211
-        },
-        {
-          "rank": 7,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 651000
-        },
-        {
-          "rank": 8,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 636240
-        },
-        {
-          "rank": 9,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 543000
-        },
-        {
-          "rank": 10,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_buy_shares": 529000
-        }
-      ],
-      "dealer_sell": [
-        {
-          "rank": 1,
-          "stock_name": "亞泥",
-          "ticker": "1102",
-          "net_sell_shares": -1079000
-        },
-        {
-          "rank": 2,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_sell_shares": -740000
-        },
-        {
-          "rank": 3,
-          "stock_name": "中租-KY",
-          "ticker": "5871",
-          "net_sell_shares": -479000
-        },
-        {
-          "rank": 4,
-          "stock_name": "新興",
-          "ticker": "2605",
-          "net_sell_shares": -436000
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_sell_shares": -3166704
         },
         {
           "rank": 5,
           "stock_name": "聯茂",
           "ticker": "6213",
-          "net_sell_shares": -430844
+          "net_sell_shares": -1285000
         },
         {
           "rank": 6,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_sell_shares": -316000
+          "stock_name": "潤泰新",
+          "ticker": "9945",
+          "net_sell_shares": -1189000
         },
         {
           "rank": 7,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_sell_shares": -295000
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_sell_shares": -1126404
         },
         {
           "rank": 8,
-          "stock_name": "威健",
-          "ticker": "3033",
-          "net_sell_shares": -293000
+          "stock_name": "愛普*",
+          "ticker": "6531",
+          "net_sell_shares": -1036000
         },
         {
           "rank": 9,
-          "stock_name": "晶技",
-          "ticker": "3042",
-          "net_sell_shares": -292160
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_sell_shares": -757140
         },
         {
           "rank": 10,
-          "stock_name": "強茂",
-          "ticker": "2481",
-          "net_sell_shares": -196203
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -728104
+        }
+      ],
+      "dealer_buy": [
+        {
+          "rank": 1,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 1550948
+        },
+        {
+          "rank": 2,
+          "stock_name": "遠東銀",
+          "ticker": "2845",
+          "net_buy_shares": 790000
+        },
+        {
+          "rank": 3,
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 706829
+        },
+        {
+          "rank": 4,
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 634000
+        },
+        {
+          "rank": 5,
+          "stock_name": "瑞軒",
+          "ticker": "2489",
+          "net_buy_shares": 483000
+        },
+        {
+          "rank": 6,
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 322000
+        },
+        {
+          "rank": 7,
+          "stock_name": "力成",
+          "ticker": "6239",
+          "net_buy_shares": 273782
+        },
+        {
+          "rank": 8,
+          "stock_name": "長虹",
+          "ticker": "5534",
+          "net_buy_shares": 268314
+        },
+        {
+          "rank": 9,
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_buy_shares": 220000
+        },
+        {
+          "rank": 10,
+          "stock_name": "大聯大",
+          "ticker": "3702",
+          "net_buy_shares": 208000
+        }
+      ],
+      "dealer_sell": [
+        {
+          "rank": 1,
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_sell_shares": -1812000
+        },
+        {
+          "rank": 2,
+          "stock_name": "陽明",
+          "ticker": "2609",
+          "net_sell_shares": -1123281
+        },
+        {
+          "rank": 3,
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_sell_shares": -558971
+        },
+        {
+          "rank": 4,
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -431000
+        },
+        {
+          "rank": 5,
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_sell_shares": -354971
+        },
+        {
+          "rank": 6,
+          "stock_name": "至上",
+          "ticker": "8112",
+          "net_sell_shares": -302797
+        },
+        {
+          "rank": 7,
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -302210
+        },
+        {
+          "rank": 8,
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_sell_shares": -293019
+        },
+        {
+          "rank": 9,
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_sell_shares": -274000
+        },
+        {
+          "rank": 10,
+          "stock_name": "台虹",
+          "ticker": "8039",
+          "net_sell_shares": -256056
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "陽明",
-        "shares": 13005557
+        "target": "力積電",
+        "shares": 13333458
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "陽明",
-        "shares": 919192
+        "target": "聯電",
+        "shares": 620379
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "遠東新",
-        "shares": 4999500
+        "target": "聯電",
+        "shares": 5361309
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "漢翔",
-        "shares": 8531303
+        "target": "南亞",
+        "shares": 8528887
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Iconic fast-food fried chicken chain closes over 300 restaurants",
+      "title": "Home insurers pocket $8.8M a day in investment income when claims are delayed, new analysis finds",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/iconic-fast-food-fried-chicken-184700958.html",
-      "summary": "Iconic fast-food fried chicken chain closes over 300 restaurants",
-      "full_text": "The fast-food fried chicken space has several contenders vying for the throne. Chick-fil-A has been a market leader, but Popeyes has competed with its once-viral chicken sandwich, while Raising Cane's has grown quickly, fueled by its cult fanbase and simple menu.\n\nIt's an incredibly competitive space where it's hard to differentiate your product.\n\nThe chicken category increased 5.3% in 2025, down from 9.1% in 2024 and more than 12% in 2023, according to Technomic data shared with Nation's Restaurant News.\n\n\"Last year, the category was especially impacted by slowing momentum for the biggest players. Chick-fil-A's sales grew 5.2% year-over-year, compared to 5.4% in 2024, for instance,\" NRN reported.\n\n\"Popeyes' sales fell 0.5% in 2025, versus 3.9% growth in 2024. KFC had a tough 2025, with sales down 4.6%, while in 2024, its sales were down 5.2%,\" the data showed.\n\nThat's a significant drop over a two-year period for KFC, which may explain why the chain has been closing stores.\n\nWhile much of the attention has been focused on KFC's former sister brand, Pizza Hut, which was sold by Yum Brands in June, the chicken brand has also been struggling, but it has shown signs of a significant turnaround.\n\n\"KFC delivered 6% system sales growth driven by 7% unit growth and 2% same-store sales growth. Around the world, KFC teams are advancing our Raise the B.A.R. priorities, beginning with improving menu relevance,\" Yum Brands CEO Christopher Turner said during the chain's second-quarter earnings call.",
-      "published": "2026-08-22T18:47:00Z"
+      "link": "https://finance.yahoo.com/real-estate/articles/home-insurers-pocket-8-8m-133000616.html",
+      "summary": "Home insurers pocket $8.8M a day in investment income when claims are delayed, new analysis finds",
+      "full_text": "Home insurance is supposed to be there when things go wrong. A fire, flood or damaged roof can leave homeowners facing tens of thousands of dollars in repairs and insurance is meant to help soften that financial blow.\n\nBut while homeowners wait for that money, insurers can continue earning investment income on funds they haven't yet paid out.\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake. Here's what it is and 3 simple steps to fix it ASAP\n\nThe tax breaks in Trump's 'big beautiful bill' expire after 2028. Here are 4 moves to make before the window closes\n\nAn analysis from the Consumer Federation of America and Weiss Ratings estimates that home insurers collectively generate about $8.8 million in additional investment income for every day claim payments are delayed. A one-week delay could translate to roughly $61.6 million in investment income for the industry.\n\nBut for homeowners already dealing with a disaster, every extra day can make an expensive situation even harder to recover from.\n\nHome insurers reject the idea that they deliberately drag out claims to make money. But even without intentional delays, getting paid after a major loss can take far longer than many homeowners expect.",
+      "published": "2026-08-23T13:30:00Z"
     },
     {
       "id": "news_2",
-      "title": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus",
+      "title": "$27 Billion in Buybacks: 3 Stocks Betting Their Strong Runs Aren’t Over",
       "source": "Yahoo Finance",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-      "summary": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus",
-      "full_text": "Dow Jones futures fell slightly Sunday evening, along with S&P 500 futures and Nasdaq futures, amid new Canada tariffs. Nvidia earnings take center stage this week with CrowdStrike leading several cybersecurity reports. Federal Reserve Chairman Kevin Warsh will give his first Jackson Hole speech. The stock market rally took damage last week, but did a little repair work on Friday.…\n\n8/22/2026\n\t\t\t\t\tA tricky stock market struggles against industry rotation and wavering investor confidence heading into the final full week of August.\n\n8/22/2026\n\t\t\t\t\tA tricky stock market struggles against industry rotation and wavering...\n\nThe global AI life sciences market is projected to grow from $3.3 billion in sales this year to nearly $16 billion in 2035. (© Dave Cutler)\n\nGet instant access to exclusive stock lists, expert market analysis and powerful tools with 2 months of IBD Digital for only $20!\n\nLearn how you can make more money with IBD's investing tools, top-performing stock lists, and educational content.\n\nInformation in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we believe to be reliable, but we make no guarantee as to its accuracy, timeliness, or suitability, including with respect to information that appears in closed captioning. Historical investment performances are no indication or guarantee of future success or performance. Authors/presenters may own the stocks they discuss. We make no representations or warranties regarding the advisability of investing in any particular securities or utilizing any specific investment strategies. Information is subject to change without notice. For information on use of our services, please see our Terms of Use.\n\n*Real-time prices by Nasdaq Last Sale. Real-time quote and/or trade prices are not sourced from all markets. Ownership data provided by LSEG and Estimate data provided by FactSet.",
-      "published": "2026-08-23T21:23:43Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/27-billion-buybacks-3-stocks-133500171.html",
+      "summary": "$27 Billion in Buybacks: 3 Stocks Betting Their Strong Runs Aren’t Over",
+      "full_text": "Sandisk, Phillips 66 and MetLife have collectively added $27 billion in new share-repurchase authorization.\n\nEach company enters the buyback discussion from a different backdrop, spanning AI storage, refining and insurance.\n\nInvestors now have to consider how cash generation, valuation and industry conditions could shape the impact of those buybacks.\n\nSeveral industry giants that have seen impressive share price performance in 2026 recently made big-time buyback announcements. Share repurchases can do more than reduce share counts—they can also signal that management sees enough cash-flow strength and balance-sheet flexibility to keep returning capital after a strong run.\n\nThree top firms have added $27 billion in buyback capacity, indicating confidence in their outlooks and cash generation. This includes a $14 billion authorization from one of the best-performing stocks of 2026, which has cemented itself as a critical player in AI infrastructure.\n\n→ 3 Beaten-Down Stocks That Haven't Gotten the Message About the S&P 500's Record Run\n\nThe insatiable demand for NAND flash solid-state drives (SSDs) from AI customers has led to huge revenue increases and margin expansion at SanDisk (NASDAQ: SNDK). Notably, SanDisk's revenue rose 372% year-over-year (YOY) last quarter, while its adjusted gross margin increased more than 5,800 basis points to just under 85%.\n\nAside from this incredible financial performance, the company also made one of the most notable buyback announcements within the AI trade over recent months. SanDisk has announced an additional $14 billion share buyback program, bringing its total buyback capacity to $15.5 billion. The company's capacity is equal to more than 6% of its market capitalization, a sizable figure.",
+      "published": "2026-08-23T13:35:00Z"
     },
     {
       "id": "news_3",
-      "title": "Pemex and Petrobras Bet Big on High-Risk High-Reward Drilling Off Mexico",
+      "title": "Trump made a multimillion-dollar bond bet — and Fed Chair Kevin Warsh could shape the outcome. What investors can learn",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/energy/articles/pemex-petrobras-bet-big-high-210000211.html",
-      "summary": "Pemex and Petrobras Bet Big on High-Risk High-Reward Drilling Off Mexico",
-      "full_text": "Mexico's state oil firm Pemex and Brazil's national oil company Petrobras are joining efforts and expertise to drill prospects in Mexican waters in the Gulf of Mexico, hoping to unlock huge oil resources from source rock formations that are miles deeper and eight times older than the currently producing formations in the U.S. Gulf.\n\nExploration in the Jurassic formations deep under the Mexican Gulf seabed in the Campeche Bay carries high risks, but the reward in case of a discovery could be enormous, geologists and analysts tell Bloomberg.\n\nBack in 2018, Pemex drilled more than 7,800 meters (25,600 feet) below the sea floor and penetrated the Campeche salt layer in an exploratory well that was declared unproductive. The Mexican oil giant hasn't ventured new exploratory wells in the area since then, but industry experts believe that Pemex may have found something of great geological and/or hydrocarbon-bearing potential, which has prompted it to pursue exploration further.\n\nPemex hasn't shared publicly any results of its 2018 drilling campaign offshore Campeche, but analysts say there is a reason why the Mexican oil giant hasn't abandoned efforts to find huge resources and turn around years of declining domestic oil production from legacy wells.\n\n\"Apparently what Pemex found did not scare them away,\" Mark Rowan, a Colorado-based geologist and consultant who specializes in deep Gulf of Mexico discoveries, told Bloomberg.\n\n\"That suggests there was no absolute play-killer, and possibly something that gave them real reason to keep testing,\" Rowan added.\n\nBut heavily-indebted Pemex can't do it on its own drilling deep beneath the sea floor. That's why it has partnered with Brazil's Petrobras, which has two decades of experience drilling in the pre-salt layer offshore Brazil, where it has opened one of the most prolific offshore oil plays in the Santos and Campos Basins.\n\nThe pre-salt discoveries in these basins have propelled Brazil into the top ten of the world's biggest oil producers in the past decade.",
-      "published": "2026-08-23T21:00:00Z"
+      "link": "https://finance.yahoo.com/markets/options/articles/trump-made-multimillion-dollar-bond-130000920.html",
+      "summary": "Trump made a multimillion-dollar bond bet — and Fed Chair Kevin Warsh could shape the outcome. What investors can learn",
+      "full_text": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\n\nPresident Donald Trump has been buying corporate and municipal bonds since returning to the White House in 2025 — and he hasn't exactly slowed down.\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nJPMorgan sees gold hitting $5,000/oz by Q4 — and savvy investors are protecting their wealth with a tax-advantaged Gold IRA. Get your free guide from Priority Gold\n\nThe tax breaks in Trump's 'big beautiful bill' expire after 2028. Here are 4 moves to make before the window closes\n\nTrump's March purchases also spanned a wide range of corporate bonds, including those tied to Nvidia, Broadcom, Meta, Microsoft, Boeing, Constellation Energy, Occidental Petroleum and major Wall Street banks, along with U.S. Treasuries (1).\n\nThe purchases, while not illegal, have raised concerns about potential conflicts of interest. The White House has said the investments are managed by independent third-party financial institutions, according to Reuters (3).\n\nBut there's another reason investors are paying attention to bonds right now — the Federal Reserve and the Treasury Department are both playing an increasingly important role in the direction of the bond market.",
+      "published": "2026-08-23T13:00:00Z"
     }
   ]
 }
