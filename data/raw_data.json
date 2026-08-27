@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-26",
-  "stock_market_date": "2026-08-25",
+  "date": "2026-08-27",
+  "stock_market_date": "2026-08-26",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
@@ -8,247 +8,247 @@
           "rank": 1,
           "stock_name": "凱基金",
           "ticker": "2883",
-          "net_buy_shares": 24668133
+          "net_buy_shares": 31980583
         },
         {
           "rank": 2,
-          "stock_name": "富邦金",
-          "ticker": "2881",
-          "net_buy_shares": 18667606
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 30443370
         },
         {
           "rank": 3,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 16759294
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 23585804
         },
         {
           "rank": 4,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 14366895
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 19177229
         },
         {
           "rank": 5,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 13560292
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_buy_shares": 16341253
         },
         {
           "rank": 6,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_buy_shares": 13018233
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_buy_shares": 15449807
         },
         {
           "rank": 7,
-          "stock_name": "裕民",
-          "ticker": "2606",
-          "net_buy_shares": 12871757
+          "stock_name": "台化",
+          "ticker": "1326",
+          "net_buy_shares": 14581441
         },
         {
           "rank": 8,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 12135931
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 14236551
         },
         {
           "rank": 9,
-          "stock_name": "統一",
-          "ticker": "1216",
-          "net_buy_shares": 9982188
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 11221436
         },
         {
           "rank": 10,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 9717844
+          "stock_name": "華新",
+          "ticker": "1605",
+          "net_buy_shares": 10490561
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -53685227
+          "stock_name": "陽明",
+          "ticker": "2609",
+          "net_sell_shares": -30814152
         },
         {
           "rank": 2,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -26792665
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -16315046
         },
         {
           "rank": 3,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_sell_shares": -15521575
+          "stock_name": "台泥",
+          "ticker": "1101",
+          "net_sell_shares": -15078632
         },
         {
           "rank": 4,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -11797235
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -14315672
         },
         {
           "rank": 5,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -11552506
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_sell_shares": -11472027
         },
         {
           "rank": 6,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_sell_shares": -9585546
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -11247806
         },
         {
           "rank": 7,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_sell_shares": -8543488
+          "stock_name": "瑞軒",
+          "ticker": "2489",
+          "net_sell_shares": -9978801
         },
         {
           "rank": 8,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_sell_shares": -7754839
+          "stock_name": "大聯大",
+          "ticker": "3702",
+          "net_sell_shares": -7415205
         },
         {
           "rank": 9,
-          "stock_name": "新興",
-          "ticker": "2605",
-          "net_sell_shares": -6120075
+          "stock_name": "希華",
+          "ticker": "2484",
+          "net_sell_shares": -5817216
         },
         {
           "rank": 10,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -4924391
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_sell_shares": -4940357
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 5136000
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 4620866
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 4304236
+          "stock_name": "大聯大",
+          "ticker": "3702",
+          "net_buy_shares": 3217000
         },
         {
           "rank": 3,
-          "stock_name": "台塑",
-          "ticker": "1301",
-          "net_buy_shares": 2612000
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 2550000
         },
         {
           "rank": 4,
-          "stock_name": "大聯大",
-          "ticker": "3702",
-          "net_buy_shares": 2562000
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_buy_shares": 2523000
         },
         {
           "rank": 5,
-          "stock_name": "光寶科",
-          "ticker": "2301",
-          "net_buy_shares": 2514697
+          "stock_name": "景碩",
+          "ticker": "3189",
+          "net_buy_shares": 2146000
         },
         {
           "rank": 6,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_buy_shares": 1276000
+          "stock_name": "南電",
+          "ticker": "8046",
+          "net_buy_shares": 1523902
         },
         {
           "rank": 7,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_buy_shares": 1251705
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 1453000
         },
         {
           "rank": 8,
-          "stock_name": "統一證",
-          "ticker": "2855",
-          "net_buy_shares": 1190000
+          "stock_name": "興富發",
+          "ticker": "2542",
+          "net_buy_shares": 1347300
         },
         {
           "rank": 9,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 981457
+          "stock_name": "光寶科",
+          "ticker": "2301",
+          "net_buy_shares": 1186239
         },
         {
           "rank": 10,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 800000
+          "stock_name": "聯鈞",
+          "ticker": "3450",
+          "net_buy_shares": 989000
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "慧洋-KY",
-          "ticker": "2637",
-          "net_sell_shares": -6285000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -3944371
         },
         {
           "rank": 2,
-          "stock_name": "聯鈞",
-          "ticker": "3450",
-          "net_sell_shares": -2800000
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -2874704
         },
         {
           "rank": 3,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -2342195
+          "stock_name": "台達電",
+          "ticker": "2308",
+          "net_sell_shares": -1706112
         },
         {
           "rank": 4,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -1924125
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_sell_shares": -1669154
         },
         {
           "rank": 5,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_sell_shares": -1491845
+          "stock_name": "技嘉",
+          "ticker": "2376",
+          "net_sell_shares": -1236037
         },
         {
           "rank": 6,
-          "stock_name": "欣興",
-          "ticker": "3037",
-          "net_sell_shares": -1212000
+          "stock_name": "潤泰新",
+          "ticker": "9945",
+          "net_sell_shares": -1110000
         },
         {
           "rank": 7,
-          "stock_name": "禾伸堂",
-          "ticker": "3026",
-          "net_sell_shares": -1150000
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_sell_shares": -1089000
         },
         {
           "rank": 8,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_sell_shares": -1094091
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_sell_shares": -1026295
         },
         {
           "rank": 9,
-          "stock_name": "裕民",
-          "ticker": "2606",
-          "net_sell_shares": -1029000
+          "stock_name": "興勤",
+          "ticker": "2428",
+          "net_sell_shares": -933000
         },
         {
           "rank": 10,
-          "stock_name": "長榮",
-          "ticker": "2603",
-          "net_sell_shares": -926858
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_sell_shares": -801547
         }
       ],
       "dealer_buy": [
@@ -256,123 +256,123 @@
           "rank": 1,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_buy_shares": 1292823
+          "net_buy_shares": 2007000
         },
         {
           "rank": 2,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_buy_shares": 1049401
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 1560000
         },
         {
           "rank": 3,
-          "stock_name": "大聯大",
-          "ticker": "3702",
-          "net_buy_shares": 719000
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 890000
         },
         {
           "rank": 4,
           "stock_name": "南亞",
           "ticker": "1303",
-          "net_buy_shares": 611000
+          "net_buy_shares": 769998
         },
         {
           "rank": 5,
-          "stock_name": "台達電",
-          "ticker": "2308",
-          "net_buy_shares": 259150
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 600703
         },
         {
           "rank": 6,
-          "stock_name": "晶技",
-          "ticker": "3042",
-          "net_buy_shares": 153600
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_buy_shares": 568000
         },
         {
           "rank": 7,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 134984
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_buy_shares": 560684
         },
         {
           "rank": 8,
-          "stock_name": "台表科",
-          "ticker": "6278",
-          "net_buy_shares": 129000
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 439522
         },
         {
           "rank": 9,
-          "stock_name": "光寶科",
-          "ticker": "2301",
-          "net_buy_shares": 122526
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_buy_shares": 404000
         },
         {
           "rank": 10,
-          "stock_name": "燁輝",
-          "ticker": "2023",
-          "net_buy_shares": 120000
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_buy_shares": 381900
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "長榮",
-          "ticker": "2603",
-          "net_sell_shares": -1267000
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_sell_shares": -1374000
         },
         {
           "rank": 2,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_sell_shares": -1080104
+          "stock_name": "新興",
+          "ticker": "2605",
+          "net_sell_shares": -721000
         },
         {
           "rank": 3,
-          "stock_name": "裕民",
-          "ticker": "2606",
-          "net_sell_shares": -1042574
+          "stock_name": "陽明",
+          "ticker": "2609",
+          "net_sell_shares": -623340
         },
         {
           "rank": 4,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -586135
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_sell_shares": -347000
         },
         {
           "rank": 5,
-          "stock_name": "亞泥",
-          "ticker": "1102",
-          "net_sell_shares": -577000
+          "stock_name": "嘉聯益",
+          "ticker": "6153",
+          "net_sell_shares": -319000
         },
         {
           "rank": 6,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -574000
+          "stock_name": "國喬",
+          "ticker": "1312",
+          "net_sell_shares": -300000
         },
         {
           "rank": 7,
-          "stock_name": "新興",
-          "ticker": "2605",
-          "net_sell_shares": -563000
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_sell_shares": -278709
         },
         {
           "rank": 8,
-          "stock_name": "瑞軒",
-          "ticker": "2489",
-          "net_sell_shares": -381769
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_sell_shares": -200000
         },
         {
           "rank": 9,
-          "stock_name": "台灣大",
-          "ticker": "3045",
-          "net_sell_shares": -379000
+          "stock_name": "台勝科",
+          "ticker": "3532",
+          "net_sell_shares": -156850
         },
         {
           "rank": 10,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -310994
+          "stock_name": "中環",
+          "ticker": "2323",
+          "net_sell_shares": -140000
         }
       ]
     },
@@ -381,55 +381,55 @@
         "branch_name": "美商高盛",
         "action": "buy",
         "target": "凱基金",
-        "shares": 8633846
+        "shares": 11193204
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
         "target": "元大台灣50",
-        "shares": 517129
+        "shares": 802800
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "南亞",
-        "shares": 2311200
+        "target": "玉山金",
+        "shares": 2079389
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "力積電",
-        "shares": 16105568
+        "target": "陽明",
+        "shares": 9244245
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Stanley Druckenmiller and Cathie Wood agree on 2 tech giant stocks",
+      "title": "Louis Navellier has blunt message on Nvidia’s reign before earnings",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-cathie-wood-agree-191300323.html",
-      "summary": "Stanley Druckenmiller and Cathie Wood agree on 2 tech giant stocks",
-      "full_text": "13F season produces a lot of noise. Every quarter, the same headlines about what Buffett bought, what Ackman sold, what Tepper is thinking. Most of it doesn't mean much.\n\nBut occasionally two managers who should not agree on anything turn up in the same place at the same time. That happened in Q2. Cathie Wood and Stanley Druckenmiller both bought Amazon and Alphabet.\n\nWood manages long-duration disruptive growth funds. Druckenmiller runs concentrated macro bets and moves fast when he changes his mind. They are not supposed to like the same things. They did.\n\nDruckenmiller's move on Amazon is the one that stands out. A 1,083% increase is not a toe dip. Duquesne ended Q2 with 541,600 shares worth roughly $129 million.\n\nWood's ARK was quieter about it but still raised its stake 18%, finishing at about 1.59 million shares worth $379 million and sitting at 2.46% of the portfolio, according to Insider Monkey.\n\nARK's Q2 2026 13F, filed Aug. 14, showed the firm increased positions in 80 stocks, with Alphabet and Amazon among the largest additions, Seeking Alpha reported.\n\nOn Alphabet, Druckenmiller opened a new position of 336,300 shares worth roughly $120 million, equal to 2.31% of his portfolio. Wood increased ARK's Alphabet stake by 45% to about 1.04 million shares worth approximately $369 million.\n\nThe 13F filings reflect portfolio positions at the end of Q2. They do not confirm whether either investor has held, added to, or reduced those positions since then.",
-      "published": "2026-08-24T19:13:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/louis-navellier-blunt-message-nvidia-214700439.html",
+      "summary": "Louis Navellier has blunt message on Nvidia’s reign before earnings",
+      "full_text": "AI developers are constantly demanding more power, fueling the AI boom, which bodes well for Nvidia.\n\nNvidia (NVDA) is becoming more vertically integrated, taking interests in companies that help secure power for data centers, whether from the grid or independent power sources.\n\nIt is also reportedly in advanced talks to acquire an interest in Cloverleaf Infrastructure, a company that arranges power for data centers. Nvidia also took an equity interest in SoftBank's SB Energy, which was a deal tied to a megacampus in Ohio that OpenAI leased for 20 years. Additionally, Nvidia made a $2 billion investment in Lancium, the power developer behind a campus in Abilene, Texas, where OpenAI rents computing capacity from Oracle.\n\nNvidia is clearly becoming more vertically integrated in data center development, which should ensure its market dominance for 20+ years, especially since many data centers operate under 20-year leases.\n\nExpectations are certainly high heading into NVIDIA's announcement on August 26. Analysts expect NVIDIA to nearly double its earnings and revenue from a year ago. So, I'll be paying close attention to what CEO Jensen Huang has to say about AI demand and what he sees coming down the pipeline.\n\nNVIDIA's results could push S&P 500 earnings growth above 50% for the quarter. That's simply stunning and shows just how strong this earnings season has been.\n\nRelated: Louis Navellier sets eye-opening Nvidia stock price target for rest of this year\n\nMy stock grading system rates NVIDIA as a C. That may seem like a low grade given everything I've just said. Remember, these rankings are weighted 70% on their quantitative score and 30% on their fundamental score.",
+      "published": "2026-08-25T21:47:00Z"
     },
     {
       "id": "news_2",
-      "title": "Self-proclaimed ‘King of Debt’ Trump presides over a record $40T US tab — protect your retirement from the fallout",
+      "title": "Dollar Slips on Weaker-Than-Expected US Economic News",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/economy/policy/articles/self-proclaimed-king-debt-trump-135000707.html",
-      "summary": "Self-proclaimed ‘King of Debt’ Trump presides over a record $40T US tab — protect your retirement from the fallout",
-      "full_text": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\n\nDonald Trump's self-appointed crown has never looked more fitting. A decade after declaring himself the \"king of debt,\" America's tab has hit $40 trillion.\n\n\"I call myself the king of debt,\" Trump told CBS in 2016 (1). \"I'm great with debt. Nobody knows debt better than me.\"\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nJPMorgan sees gold hitting $5,000/oz by Q4 — and savvy investors are protecting their wealth with a tax-advantaged Gold IRA. Get your free guide from Priority Gold\n\nThe tax breaks in Trump's 'big beautiful bill' expire after 2028. Here are 4 moves to make before the window closes\n\nTreasury data showed total public debt outstanding reached $40.047 trillion on Aug. 18, including $32.266 trillion held by the public and $7.782 trillion in government accounts, Reuters reported (2).\n\nThat is double the $19.95 trillion owed when Trump first entered the White House in January 2017.",
-      "published": "2026-08-24T13:50:00Z"
+      "link": "https://finance.yahoo.com/economy/articles/dollar-slips-weaker-expected-us-143349205.html",
+      "summary": "Dollar Slips on Weaker-Than-Expected US Economic News",
+      "full_text": "The dollar index (DXY00) is down by -0.04% today.  The dollar gave up an early advance today and turned lower on weaker-than-expected US economic news, including July new home sales and Aug consumer confidence.  Also, WTI crude oil plunged -3% to a 1-week low today, lowering inflation expectations and a dovish factor for Fed policy.  In addition, safe-haven demand for the dollar was reduced today after the New York Times reported the US State Department is preparing to send US diplomats back to embassies in the Middle East that were evacuated before and during the war with Iran, suggesting that the Trump administration does not anticipate a return to all-out hostilities with Iran.\n\nThe US June S&P Composite-20 Home Price Index rose +2.1% y/y, stronger than expectations of +1.8% y/y and the largest year-over-year increase in a year.\n\nUS July new home sales fell -10.5% m/m to a 6-month low of 607,000, weaker than expectations of 620,000.\n\nThe US July Richmond Fed manufacturing survey of current conditions unexpectedly fell -1 to 4, weaker than expectations of an increase to 7.\n\nThe Conference Board US Aug consumer confidence index fell -0.8 to a 7-month low of 89.4, weaker than expectations of 90.2.\n\nThe markets are discounting a 40% probability of a +25 bp rate hike at the next FOMC meeting on September 15-16.\n\nEUR/USD (^EURUSD) is up by +0.07% today.  The euro is moving higher today amid weakness in the dollar. Also, better-than-expected Eurozone economic news boosted the euro today after German Q2 GDP was revised upward and the Aug IFO business climate survey rose more than expected to a 1-year high. Also, today's -3% plunge in crude oil prices to a 1-week low supports the Eurozone economy and the euro, as Europe imports most of its energy.\n\nGerman Q2 GDP was revised upward to +0.3% q/q and +1.0% y/y from the previously reported +0.2% q/q and +0.9% y/y.",
+      "published": "2026-08-25T14:33:49Z"
     },
     {
       "id": "news_3",
-      "title": "Is Netflix (NFLX) a Buying Opportunity After Its Sharp Selloff?",
+      "title": "Ray Dalio says the US faces a debt crisis ‘in three years, give or take two.’ 5 things Americans can do now",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-buying-opportunity-sharp-135013365.html",
-      "summary": "Is Netflix (NFLX) a Buying Opportunity After Its Sharp Selloff?",
-      "full_text": "Sustainable Growth Advisers (SGA), an investment management company, released its second-quarter 2026 investor letter for its \"Global Growth Strategy.\" The letter can be downloaded here. The SGA Global Growth Portfolio returned 7.4% gross and 7.2% net, compared with 14.9% for the MSCI ACWI and 19.8% for the MSCI ACWI Growth Index. Momentum leadership and enthusiasm around AI infrastructure drove markets, with semiconductor, memory, and hardware stocks accounting for much of the gain. Although the portfolio owned AI beneficiaries, broader holdings lagged despite fundamentals, as median revenue and EPS growth reached 12% and 14% and more than 60% of the holdings beat expectations. SGA believes valuation compression reflects sentiment rather than weaker business quality, leaving the portfolio near its widest discount to the market since inception. The firm continues to favor durable compounders and expects 16% revenue growth and 20% earnings growth over three years. Also, please check the Fund's top five holdings to see its best picks for 2026.\n\nIn its second-quarter 2026 investor letter, SGA Global Growth Strategy highlighted Netflix, Inc. (NASDAQ:NFLX). Netflix, Inc. (NASDAQ:NFLX), a leading subscription-based streaming entertainment platform, detracted from performance during the quarter. On August 21, 2026, Netflix, Inc. (NASDAQ:NFLX) closed at $79.59 per share, reflecting a market capitalization of $331.41 billion. Netflix, Inc. (NASDAQ:NFLX) posted a one‑month return of 13.05%, while its shares lost 34.66% over the past 52 weeks.\n\nSGA Global Growth Strategy stated the following regarding Netflix, Inc. (NASDAQ:NFLX) in its Q2 2026 investor letter:\n\n\"Netflix, Inc. (NASDAQ:NFLX) was a detractor from returns during the quarter after the stock came under pressure despite reporting solid first quarter results in April. Revenue grew 16% year-over-year, or 14% excluding FX, and operating income rose 18%, supported by strong growth in APAC and Latin America. Second quarter revenue guidance came in roughly 1% below expectations and EBIT guidance was 5% light due to content amortization timing. Management maintained full-year guidance of 11% to 13% revenue growth (excluding FX) and approximately 20% profit growth rather than raising it, which disappointed some investors who had anticipated a lift following the recent price hike and the removal of the Warner Bros. Discovery deal overhang. With the Warner Bros. Discovery acquisition now behind it, management can refocus on the core business and deploy excess free cash flow toward AI investment and buybacks, including a new $25 billion authorization. The company continues to expand its mobile and content initiatives, while evaluating longer-term opportunities in advertising and AI-driven production tools. Over the long term, Netflix benefits from a recurring subscription model with low churn and demonstrated pricing power, supported by a broad and growing content library and meaningful global growth opportunity. We added to the position on weakness during the quarter, raising the target to an average weight.\"\n\nNetflix, Inc. (NASDAQ:NFLX) ranks 13 on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026. According to our database, 144 hedge fund portfolios held Netflix, Inc. (NASDAQ:NFLX) at the end of the first quarter, compared to 146 in the previous quarter. While we acknowledge the potential of Netflix, Inc. (NASDAQ:NFLX) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock.\n\nOur coverage of Netflix, Inc. (NASDAQ:NFLX) in another article included commentary from Pershing Square Holdings, another investment advisor. In addition, please check out our hedge fund investor letters Q2 2026 page for more investor letters from hedge funds and other leading investors.\n\nREAD NEXT: 33 Stocks That Should Double in 3 Years and 15 Stocks That Will Make You Rich in 10 Years.",
-      "published": "2026-08-24T13:50:13Z"
+      "link": "https://finance.yahoo.com/economy/policy/articles/ray-dalio-says-us-faces-143000328.html",
+      "summary": "Ray Dalio says the US faces a debt crisis ‘in three years, give or take two.’ 5 things Americans can do now",
+      "full_text": "Billionaire Ray Dalio warned last week that the U.S. is heading for a major debt crisis, likening the nation to a person on the verge of a heart attack.\n\nThe Bridgewater Associates founder wrote in an August 21 LinkedIn post that a $4 billion U.S. debt buyback, combined with rising bond yields, a weak dollar and a Japanese sell-off of U.S. bond holdings all point to a potential government debt crisis, which can result in \"the equivalent of an economic heart attack that comes when the constriction of debt-financed spending shuts down the normal flow of the economic circulatory system.\"\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake. Here's what it is and 3 simple steps to fix it ASAP\n\nThe tax breaks in Trump's 'big beautiful bill' expire after 2028. Here are 4 moves to make before the window closes\n\nDalio wrote that the U.S. will see around a $2 trillion budget shortfall this year, with $11 trillion in debt service payments. Earlier this month the U.S. topped $40 trillion in debt for the first time.\n\n\"I am confident that the government's financial condition is at an inflection point because, if this is not dealt with now, the debts will build up to levels where they can't be managed without great trauma,\" Dalio explained.\n\nOtherwise, he added, the economic heart attack could come at any time, \"hastened or postponed by policies and exogenous factors, like big political shifts and wars.",
+      "published": "2026-08-25T14:30:00Z"
     }
   ]
 }
