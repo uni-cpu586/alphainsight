@@ -1,169 +1,143 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "stock_uncle_insight": {
-    "date_header": "8/28 法人與主力大戶主要買超股票",
+    "date_header": "8/29 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：高檔出貨電子股，轉進記憶體、金融與傳產避風港",
+        "group_title": "1. 外資大戶：狂掃權值、金融與面板，避險意味濃",
         "stocks": [
           {
-            "stock_name": "南亞科",
-            "ticker": "2408",
-            "description": "肖年仔，外資狂掃南亞科 3.01 萬張，這不是在玩短線，擺明了就是看好記憶體產業落底反彈，準備鎖碼吃大波段！"
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "肖年仔，你看外資這手筆！狂掃聯電 8.9 萬張，這不是黑白買，擺明是看好半導體二線廠的低基期補漲，或是對AI題材的延伸布局，準備卡位啦！"
           },
           {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "跟南亞科一樣，華邦電也被外資大買 3.01 萬張，這兩檔記憶體雙雄被外資看上，代表DRAM後市有搞頭，不然他們不會這樣大筆買進。"
+            "stock_name": "第一金",
+            "ticker": "2892",
+            "description": "外資大買第一金 4.3 萬張，金融股就是資金的避風港，大盤震盪時，這些穩定的金雞母最受青睞，穩穩賺股息，不求大富大貴，但求安穩啦。"
           },
           {
-            "stock_name": "台塑",
-            "ticker": "1301",
-            "description": "外資買進台塑 2.16 萬張，這就是電子股高檔出貨後，把資金轉進低基期、股性穩健的傳產龍頭，當作資金避風港啦！"
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "兆豐金也被外資敲進 4.2 萬張，跟第一金一樣，都是金融股的代表，外資這波操作很明顯，就是把錢從高風險的股票抽出來，轉進這些「定存概念股」避險。"
           },
           {
-            "stock_name": "國票金",
-            "ticker": "2889",
-            "description": "金融股就是穩，外資買超國票金 1.90 萬張，這代表他們在找穩定的地方停泊資金，避險意味濃厚。"
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "連 0050 這種大盤型 ETF 外資都買了 4.1 萬張，這代表什麼？就是對大盤整體還是看好，但又不想單壓個股，用 ETF 來分散風險，聰明啦！"
           },
           {
-            "stock_name": "鴻海",
-            "ticker": "2317",
-            "description": "鴻海這種電子權值股，外資買進 1.82 萬張，可能是為了穩定指數，或是看好其在AI伺服器供應鏈的長期布局，但肖年仔，別忘了它股性比較牛皮。"
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "面板雙虎之一的群創，外資也買了 2.3 萬張，這檔之前跌到脫褲子，現在外資開始回補，是不是面板產業要谷底翻身了？肖年仔，這要好好觀察。"
           },
           {
-            "stock_name": "中石化",
-            "ticker": "1314",
-            "description": "中石化也被外資買超 1.40 萬張，跟台塑一樣，塑化傳產股被外資當成避風港，這波傳產有機會被他們點火。"
-          },
-          {
-            "stock_name": "彰銀",
-            "ticker": "2801",
-            "description": "彰銀也被外資買超 1.30 萬張，金融股就是外資在市場不確定時，資金停泊的好去處，穩穩賺配息啦。"
-          },
-          {
-            "stock_name": "漢翔",
-            "ticker": "2634",
-            "description": "軍工概念股漢翔，外資也來分一杯羹，買超 1.19 萬張，這就是政策加持的題材股，有夢最美，但追高要小心。"
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "友達也被外資買超 1.4 萬張，跟群創一樣，面板股被外資看上，可能是覺得跌無可跌，準備來個波段操作，但這種股票要小心，別接刀接到手軟。"
           }
         ]
       },
       {
-        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，精選金融與AI穩健股",
+        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，鎖定傳產與半導體",
         "stocks": [
           {
             "stock_name": "南亞",
             "ticker": "1303",
-            "description": "投信買南亞 0.45 萬張，這就是本土國家隊在作帳了啦！塑化龍頭股，股性穩健，殖利率也不錯，很適合基金經理人年底衝績效，拉高淨值。"
-          },
-          {
-            "stock_name": "富邦金",
-            "ticker": "2881",
-            "description": "富邦金被投信大買 0.36 萬張，這就是國家隊在作帳，年底前要拉高淨值，金融股穩健是首選，肖年仔，跟著國家隊走，至少不會被割韭菜。"
-          },
-          {
-            "stock_name": "台表科",
-            "ticker": "6278",
-            "description": "台表科被投信買超 0.34 萬張，這檔是AI供應鏈中相對穩健的電子股，投信在精選布局，不是亂槍打鳥，他們看的是基本面。"
-          },
-          {
-            "stock_name": "光寶科",
-            "ticker": "2301",
-            "description": "光寶科也被投信買超 0.30 萬張，這也是AI概念股中比較有基本面的，投信在找有實力的公司，不是只看題材炒作。"
-          },
-          {
-            "stock_name": "台虹",
-            "ticker": "8039",
-            "description": "台虹被投信買超 0.19 萬張，這檔電子零組件股，投信會買，通常是看好產業前景或有特定訂單題材，肖年仔可以多留意。"
-          },
-          {
-            "stock_name": "玉山金",
-            "ticker": "2884",
-            "description": "玉山金也被投信買超 0.15 萬張，跟富邦金一樣，金融股是投信作帳的愛股，穩健又能撐盤。"
-          },
-          {
-            "stock_name": "奇鋐",
-            "ticker": "3017",
-            "description": "奇鋐被投信買超 0.09 萬張，散熱模組是AI伺服器不可或缺的一環，投信在佈局AI供應鏈的關鍵零組件，這就是看好未來趨勢。"
-          },
-          {
-            "stock_name": "欣興",
-            "ticker": "3037",
-            "description": "欣興也被投信買超 0.08 萬張，ABF載板是高階晶片的重要材料，投信買進這檔，代表他們對高階封裝的需求有信心。"
-          }
-        ]
-      },
-      {
-        "group_title": "3. 內資主力與實戶：避險與短線操作並存，記憶體、軍工受青睞",
-        "stocks": [
-          {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "自營商大買元大台灣50 0.33 萬張，這擺明了就是避險盤！肖年仔，他們怕大盤不穩，先買ETF避險，等有機會再出貨。"
-          },
-          {
-            "stock_name": "南亞科",
-            "ticker": "2408",
-            "description": "自營商也跟著外資買南亞科 0.20 萬張，看來DRAM真的有搞頭，連短線的自營商都來湊熱鬧，這代表市場共識正在形成。"
-          },
-          {
-            "stock_name": "漢翔",
-            "ticker": "2634",
-            "description": "漢翔也被自營商買超 0.19 萬張，軍工股有政策加持，自營商這種短線客當然不會放過，有肉就吃，沒肉就跑。"
+            "description": "投信大買南亞 8.5 千張，這檔塑化龍頭，通常是投信作帳的好標的，穩健又具備一定的流動性，肖年仔，這就是國家隊的「隱形冠軍」啦。"
           },
           {
             "stock_name": "聯電",
             "ticker": "2303",
-            "description": "外資投信都在賣聯電，結果自營商卻買超 0.19 萬張，肖年仔，這很可能是權證避險盤，或是短線搶反彈，別傻傻跟著進去接刀。"
+            "description": "聯電不只外資買，投信也敲進 3.9 千張，三大法人同步買超，這就不是黑白買了，代表聯電的價值被重新評估，可能是看好其成熟製程的訂單能見度。"
           },
           {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "華邦電也被自營商買超 0.08 萬張，跟南亞科一樣，記憶體雙雄被內外資同步看好，這波行情值得期待。"
+            "stock_name": "長興",
+            "ticker": "1717",
+            "description": "長興也被投信買了 2.2 千張，這檔化學材料股，通常是景氣復甦的領先指標，投信會買，可能是在為下一波景氣循環做準備。"
           },
           {
-            "stock_name": "廣達",
-            "ticker": "2382",
-            "description": "廣達被自營商買超 0.07 萬張，AI概念股雖然外資在出貨，但自營商還是會來玩短線，肖年仔，這種股票波動大，沒兩把刷子別亂碰。"
+            "stock_name": "華通",
+            "ticker": "2313",
+            "description": "華通被投信買超 1.9 千張，PCB產業跟電子產品息息相關，投信買進，可能是看好下半年電子產品出貨動能，或是AI伺服器相關板卡的訂單。"
+          },
+          {
+            "stock_name": "中信金",
+            "ticker": "2891",
+            "description": "中信金也獲得投信 1.9 千張的青睞，跟外資一樣，投信也把金融股當作穩健配置的一環，在市場震盪時，金融股就是最好的防禦型標的。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：短線衝刺面板，跟風半導體",
+        "stocks": [
+          {
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "自營商狂敲群創 2.6 千張，這跟外資的動作不謀而合，但自營商的單通常比較短線，可能是看準面板股的短線反彈，準備隔日沖或拉高出貨，韭菜們要小心別追高。"
+          },
+          {
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "聯電連自營商都買了 1.1 千張，三大法人都進場，這檔股票的動能不容小覷，自營商通常是避險盤，但這次也跟著買，代表對聯電的短期走勢有信心。"
+          },
+          {
+            "stock_name": "台玻",
+            "ticker": "1802",
+            "description": "台玻被自營商買超 9 百張，這檔傳產股，通常不會是自營商的主力戰場，但這次進場，可能是看好其資產題材或特定訂單，短線操作的機會比較大。"
+          },
+          {
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "友達也被自營商買了 7 百張，跟群創一樣，自營商對面板雙虎的短線行情很有興趣，但這種股票波動大，肖年仔別亂接刀，小心被割韭菜。"
+          },
+          {
+            "stock_name": "日月光投控",
+            "ticker": "3711",
+            "description": "日月光投控被自營商買超 6 百張，這檔半導體封測龍頭，是AI供應鏈的重要一環，自營商進場，可能是看好其在AI晶片封測的潛力，但也是短線操作居多。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔電子股獲利了結，資金轉進低基期避風港（記憶體、金融、塑化）",
-        "strategy_content": "肖年仔，你看看外資大賣仁寶、聯電、緯創這些之前漲多的AI概念股和晶圓代工，這就是標準的拉高出貨！他們把資金撤出來，轉而大買南亞科、華邦電這些記憶體雙雄，擺明是看好產業落底反彈。同時，金融股（國票金、彰銀）和塑化龍頭（台塑、中石化、長興）也成為資金避風港，這些都是評價較低、股性穩健的標的。自營商買0050避險，也印證了市場對高檔電子股的謹慎態度。這波資金輪動，就是從高風險高估值轉向低風險低估值的操作。"
+        "strategy_title": "策略一：資金避風港與權值股防禦（金融、大型ETF）",
+        "strategy_content": "肖年仔，你看外資大買金融股（第一金、兆豐金、華南金）和 0050，投信也跟著買中信金、國泰金。這很明顯，當大盤震盪、國際情勢不明朗時，大戶們會把資金從高風險的股票撤出來，轉進這些相對穩健、有高殖利率題材的金融股，或是直接買進大盤型 ETF 避險。這就是典型的「高檔避險」操作，不求爆賺，但求穩健，避免被市場割韭菜。"
       },
       {
-        "strategy_title": "策略二：本土國家隊作帳行情啟動，精選穩健標的（金融、塑化、AI供應鏈）",
-        "strategy_content": "投信這幫本土國家隊，年底作帳的壓力可不小！他們大買富邦金、台新新光金、玉山金等金融股，還有南亞這種塑化龍頭，這些都是基金經理人拉高淨值、衝績效的愛股。金融股穩健、塑化股有基本面，很適合他們。同時，他們也沒完全放棄電子股，而是精選AI供應鏈中相對穩健的台表科、光寶科、奇鋐、欣興等，這表示他們對AI產業仍有信心，但更注重基本面和成長潛力，不是盲目追高。"
+        "strategy_title": "策略二：低基期產業復甦卡位（面板、傳產）",
+        "strategy_content": "面板雙虎（群創、友達）這次被外資和自營商同步買超，連台玻這種傳產股也動起來。這代表什麼？這些股票之前跌到阿嬤都不想買，現在可能看到產業谷底翻揚的跡象，或是評價面已經夠低了。主力大戶就是喜歡在大家不看好的時候偷偷布局，等利空出盡、產業復甦時，再拉高出貨，肖年仔，這就是「低基期卡位」的精髓啦！"
       },
       {
-        "strategy_title": "策略三：新技術題材點火與政策受惠股卡位（記憶體、軍工）",
-        "strategy_content": "外資與自營商同步大買南亞科、華邦電，這可不是巧合！這顯示市場對記憶體產業景氣復甦的預期正在升溫，DRAM價格有機會反彈，這是一個新技術週期點火的訊號，大戶們都在提前卡位。此外，漢翔作為軍工概念股，持續受惠於政策利多，吸引法人資金進場。肖年仔，有政策加持的題材股，短期內還是有表現空間，但要懂得見好就收，別被套在高點。"
+        "strategy_title": "策略三：AI半導體供應鏈再佈局（聯電、京元電、日月光投控）",
+        "strategy_content": "國際新聞Nvidia財報這麼猛，AI題材根本沒退燒！你看聯電被三大法人狂掃，京元電子、日月光投控也都有法人買超。這說明資金又重新回流到AI相關的半導體供應鏈，特別是那些相對低價、有補漲空間的二線晶圓代工和封測廠。大戶們在找尋AI題材的「下一棒」，肖年仔，這就是新技術題材點火的訊號，但也要小心追高變接刀。"
+      },
+      {
+        "strategy_title": "策略四：高檔獲利了結與避險（記憶體、航太、部分AI概念股）",
+        "strategy_content": "外資、投信、自營商同步賣超華邦電，外資和自營商也倒貨漢翔。這很明顯，這些股票之前漲了一大段，現在主力大戶覺得差不多了，開始「拉高出貨」或「避險」。特別是華邦電，記憶體產業前景不明，加上之前漲多，主力當然要先跑為快。肖年仔，看到這種現象，別傻傻去接刀，小心被「融資斷頭」啊！"
       }
     ],
-    "summary": "肖年仔，這盤面很清楚，外資在AI高檔出貨，資金轉進記憶體、金融和傳產避險，本土投信則忙著作帳，精選穩健標的。別傻傻去接AI概念股的刀，跟著大戶的腳步，找低基期、有題材的股票卡位，才是王道！",
+    "summary": "肖年仔，今天大戶們的操作很清楚，就是把錢從漲多的高風險股撤出來，轉進穩健的金融、低基期的面板，同時也沒放過AI半導體供應鏈的補漲機會，這就是典型的「進可攻退可守」策略，別再黑白買了！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 1.05 萬張",
-        "uncle_logic": "高盛這種外資大咖狂掃南亞科，這不是在玩短線，很可能是看好記憶體產業的復甦週期，準備鎖碼吃大波段。肖年仔，這代表他們對DRAM後市有信心，不然不會這樣大筆買進。"
+        "action": "買超 3.1 萬張",
+        "uncle_logic": "美商高盛這種外資大咖，一次敲進聯電 3.1 萬張，這絕對不是短線操作。他們看的是聯電在半導體成熟製程的長期價值，或是對其在AI邊緣運算等新應用上的潛力有信心，準備長期鎖碼啦！"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 1328 張",
-        "uncle_logic": "凱基台北這分點，出了名的隔日沖大戶。買0050？這擺明了就是避險盤，或是看大盤有機會反彈，先卡位指數型ETF，等隔天有肉就跑。肖年仔，別以為他們是看好台股，他們只是在找短期套利機會。"
+        "action": "買超 1.07 千張",
+        "uncle_logic": "凱基台北這分點，肖年仔你聽過吧？著名的「隔日沖」大戶！買超群創 1 千多張，擺明了就是準備明天開盤拉高出貨，想賺短線價差。韭菜們，別傻傻跟進，小心變成他們的提款機！"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 2049 張",
-        "uncle_logic": "元大投信買南亞，這就是本土國家隊在作帳了啦！塑化龍頭股，股性穩健，殖利率也不錯，很適合基金經理人年底衝績效，拉高淨值。這波塑化股有機會被他們鎖碼。"
+        "action": "買超 3.8 千張",
+        "uncle_logic": "元大投信自家分點買南亞 3.8 千張，這就是典型的「作帳行情」啦！投信為了年底績效，會鎖定一些有基本面、股價相對穩定的傳產股來拉抬，幫自己的基金衝刺淨值。肖年仔，這就是國家隊的盤算。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 0.96 萬張",
-        "uncle_logic": "摩根大通這外資大咖在倒貨仁寶，肖年仔，這就是標準的拉高出貨！AI概念股之前漲多，外資趁機獲利了結，把籌碼倒給散戶。這檔短期內要小心，別去接刀。"
+        "action": "賣超 9.3 千張",
+        "uncle_logic": "摩根大通這種外資大戶，賣超華邦電 9.3 千張，這就不是開玩笑的。可能是對記憶體產業的展望保守，或是華邦電之前漲多了，他們覺得獲利了結的時機到了，準備把資金轉移到其他更有潛力的標的，這就是「避險」操作，先跑為快！"
       }
     ]
   },
@@ -178,332 +152,336 @@
         {
           "word": "Nvidia",
           "ipa": "",
-          "meaning": "NVIDIA（美）公司",
-          "example": "NVIDIA的AI技術正在快速發展"
+          "meaning": "NVIDIA（美）公司，主要開發圖形處理單元、人工智能（AI）和自動化等技術",
+          "example": "Nvidia的AI技術已經在許多領域取得了突破"
         },
         {
           "word": "balance",
           "ipa": "",
           "meaning": "財務狀況",
-          "example": "公司的財務狀況需要平衡"
+          "example": "公司的財務狀況非常穩定"
         },
         {
           "word": "earnings",
           "ipa": "",
-          "meaning": "財務報告",
-          "example": "公司的財務報告顯示收入上升"
+          "meaning": "財務報導",
+          "example": "公司的財務報導顯示收入上升了 10% "
         },
         {
-          "word": "demand",
+          "word": "investor",
           "ipa": "",
-          "meaning": "需求",
-          "example": "市場需求對公司的影響"
+          "meaning": "投資者",
+          "example": "投資者對公司的未來前景持樂觀態度"
         },
         {
-          "word": "compute",
+          "word": "stock",
           "ipa": "",
-          "meaning": "計算",
-          "example": "計算機器的計算能力"
+          "meaning": "股票",
+          "example": "公司的股票在市場上上漲了 5% "
         }
       ],
-      "level2_context": "這篇文章主要關注的是Nvidia公司的財務狀況和市場預測。公司的財務報告顯示收入上升，市場對其預測也相當樂觀。這些數據表明Nvidia公司的AI技術正在快速發展，對於公司的未來發展具有重要意義。",
+      "level2_context": "這篇文章主要關注的是Nvidia公司的財務報導，尤其是公司的財務狀況和投資者對其未來前景的看法。公司的財務狀況表明其在AI和自動化等領域取得了突破，投資者對其未來前景持樂觀態度。這些信息對於了解Nvidia公司的業績和未來發展方向具有重要意義。",
       "level3_translation": [
         {
-          "sentence": "Nvidia reported earnings on Aug. 26. Wall Street expected it to beat.",
-          "translation": "NVIDIA公司在8月26日發布財務報告，市場預測它將能夠超越預期"
+          "sentence": "Nvidia reported earnings on Aug. 26.",
+          "translation": "NVIDIA公司在2026年8月26日發布了財務報告"
+        },
+        {
+          "sentence": "Wall Street expected it to beat.",
+          "translation": "-wall街預期它會超過預期"
         },
         {
           "sentence": "Bank of America was not particularly interested in that part of the story.",
-          "translation": "銀行美隆對這一部分的報導不太關注"
+          "translation": "美銀公司對該部分故事並不太感興趣"
         },
         {
           "sentence": "The firm's note, published ahead of the report, was really about one thing: whether the market had correctly priced the scale of what Nvidia has been doing with its balance sheet.",
-          "translation": "公司的注意書，發布在報告之前，實際上是關注的是市場是否正確評估NVIDIA公司在財務狀況上的規模"
+          "translation": "公司的注意，發布在報告之前，是真的只有一个問題：市場是否正確評估了NVIDIA公司在其財務表中所做的大小"
         },
         {
           "sentence": "The answer, according to Bank of America, was no.",
-          "translation": "根據銀行美隆的評估，答案是否"
+          "translation": "根據美銀公司的看法，答案是否"
         },
         {
           "sentence": "The results Nvidia delivered made that argument harder to dismiss.",
-          "translation": "NVIDIA公司的財務報告使得這個論點變得更加難以否定"
+          "translation": "NVIDIA公司的結果使得這個論點更加難以被否定"
         },
         {
           "sentence": "In a note shared with TheStreet on Aug. 25, analyst Vivek Arya reiterated a Buy rating and a $350 price target on Nvidia, implying roughly 64% upside from where the stock was trading that day.",
-          "translation": "在8月25日共享的通知中，分析師維克·阿里（Vivek Arya）重申了買入評級和NVIDIA公司的價格目標為350美元，表明從當天股價的角度來看，該公司的價格上升了約64%"
+          "translation": "在2026年8月25日，分析師 Vivek Arya 分享了對NVIDIA公司的買股評價，表示該公司的價值將上漲約64%，從目前的價格中"
+        },
+        {
+          "sentence": "ALSO READ: NVIDIA Corp. Q2 2027 Earnings: Live Updates of $NVDA Earnings Call, Forecast",
+          "translation": "另外，請參考NVIDIA公司2027年第二季財務報告：線上直播對話，預測"
         },
         {
           "sentence": "Nvidia delivered revenue of $96.2 billion for the second fiscal quarter, up 106% year over year and well above consensus expectations of roughly $92 billion, according to Nvidia's official earnings release.",
-          "translation": "NVIDIA公司在第二個財務季度的收入達到96.2億美元，同比增長106%，遠遠超過市場預期的92億美元"
+          "translation": "NVIDIA公司在第二季度的財務報告顯示，收入達到96.2億美元，年-over-year增幅達到106%，遠遠超過市場預期的92億美元"
         },
         {
           "sentence": "Data center revenue came in at $89 billion, up 117% year over year.",
-          "translation": "資料中心收入達到89億美元，同比增長117%"
+          "translation": "資料中心部門的收入達到89億美元，年-over-year增幅達到117% "
         },
         {
           "sentence": "Gross margin held at 75%.",
-          "translation": "毛利率持續為75%"
+          "translation": "毛利率保持在75% "
         },
         {
           "sentence": "\"AI has reached its inflection point. It's doing useful work. Its tokens are productive and profitable. Now, compute is revenue,\" Jensen Huang said on the earnings call.",
-          "translation": "\"AI已經達到關鍵轉折點。它正在做出有用工作。它的代幣正在產生收入。現在，計算是收入,\" Jensen Huang在財務報告會議上說明"
+          "translation": "\"AI已經達到其關鍵轉折點。它正在做出有用的工作。其代幣具有產生利益的能力。現在，計算機是收入,\"Jensen Huang在會議上說"
         },
         {
-          "sentence": "\"And demand is accelerating.\"\n\nNvidia also returned roughly $26 billion to shareholders in the quarter through buybacks and dividends, with approximately $99 billion remaining under its buyback authorization.",
-          "translation": "\"需求正在加速。\"\n\nNVIDIA公司還在本季度通過買回和分配紅利回饋約26億美元給股東，剩餘可用買回資金約99億美元"
+          "sentence": "\"And demand is accelerating.\"",
+          "translation": "\"需求正在加速。\""
+        },
+        {
+          "sentence": "Nvidia also returned roughly $26 billion to shareholders in the quarter through buybacks and dividends, with approximately $99 billion remaining under its buyback authorization.",
+          "translation": "NVIDIA公司還將大約26億美元回饋給股东，通過買回和分配，剩下約99億美元的買回Authorization"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Why Michael Burry Is Doubling Down on JD.com Stock",
+      "title": "Best credit cards with no annual fee for August 2026",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-michael-burry-doubling-down-180504565.html",
-      "level1_blind": {
-        "text": "『Big Short』 famed investor Michael Burry has moved his investment from Chinese e-commerce giant Alibaba Group Holding (BABA) to its prime rival JD.com (JD). However, rather than buying JD.com on a trigger, Burry did so mostly because Alibaba has become too expensive. He argued that Alibaba would need to 『fall by half』 for him to be interested again. Moreover, the famous investor disliked Alibaba's capital raise for AI capabilities and infrastructure investment.\n\nOn the other hand, JD.com has emerged as his preference in this paradigm. The company is showing signs of improvement, especially in its bottom line. Moreover, it is trying to expand its operations. For instance, it recently won a newly awarded pilot development area in Hong Kong's ​Northern Metropolis (a mega-project bordering Mainland China), in a JV with six companies. JD.com also plans to invest RMB 10 billion in resources to the robotics sector by 2028.\n\nSpaceX Stock Just Crashed Below Its IPO Price: Here's the Bull Case Nobody Can Ignore\n\nA Major Bitcoin Short Squeeze Is Taking MicroStrategy Stock Higher. What Comes Next.\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nSo, rather than just a replacement, JD.com may have the substance to be a stock worth watching.\n\nJD.com is a major Chinese e-commerce and technology company headquartered in Beijing. It operates mainly through JD Retail, JD Logistics, and other new businesses. JD Retail sells products directly to customers and also hosts third-party sellers on its online marketplace.\n\nJD Logistics runs one of China's largest delivery networks, with thousands of warehouses and a large workforce that ensures fast shipping. Beyond shopping and delivery, JD offers healthcare, financial services, and AI-driven supply chain tools. The company is listed in New York and Hong Kong and has expanded overseas, with its headquarters in Beijing, China. JD.com has a market capitalization of $39.44 billion."
-      },
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-with-no-annual-fee-204747522.html",
+      "level1_blind": "Why we like it: The Chase Freedom Unlimited is an all-around great cash-back card that's also a smart choice for travel. At a minimum, you'll earn 1.5% cash back on every purchase — but you'll earn even more in select rewards categories, including 5% on travel booked through Chase Travel℠. When you're ready to redeem rewards, you can also use them to book travel with Chase Travel or even combine rewards with another Chase card for a potential travel redemption boost.\n\nFor new cardholders, the Chase Freedom Unlimited offers a valuable welcome bonus and a 0% APR on new purchases and balance transfers. Long-term, you'll also get the security of useful Chase purchase protection and travel insurance benefits.\n\nWhy we like it: The U.S. Bank Shield Visa Card is our pick for 0% APR because it has one of the longest intro periods you'll find today — whether you want to use your 0% APR for a large purchase or to pay down debt with a balance transfer.\n\nThere are also a few benefits to enjoy with this card, including 4% cash back on prepaid air, hotel, and car reservations booked through the U.S. Bank Travel Center and an annual $20 statement credit after you make purchases for 11 consecutive months. However, the U.S. Bank Shield Visa is primarily a great tool for its long-lasting 0% APR period.\n\nWhy we like it: The Capital One Savor Cash Rewards card packs a ton of rewards for no annual fee. We think it's great for grocery shopping, with unlimited 3% rewards at grocery stores. But you'll earn the same rate on even more items in your regular budget, including dining at restaurants, entertainment spending, and popular streaming services.\n\nYou can also earn 5% rewards on travel when you make eligible bookings (hotels, vacation rentals, and rental cars) through Capital One Travel. Plus, earn a great welcome bonus with a relatively low spending requirement and take advantage of an introductory 0% APR on new purchases and balance transfers.\n\nWhy we like it: The Amex Blue Cash Everyday Card is one of our favorite cash-back cards today with or without an annual fee. Its rewards at U.S. supermarkets and U.S. gas stations can help you maximize the purchases in your monthly budget, and rewards on U.S. online retail purchases can help you make the most of purchases (whether essentials or splurges) from your favorite online stores.\n\nIf you're able to max out the $6,000 spending cap on 3% rewards in each of these categories, you could get $540 in annual cash back. That's a great return for no annual fee. In addition to rewards, this card has a solid welcome bonus and an intro 0% APR on new purchases and balance transfers.",
       "level2_keywords": [
         {
-          "word": "e-commerce",
-          "ipa": "/ˌiːˈkɑːmɜːrs/",
-          "meaning": "電子商務，指透過網路進行商品或服務的買賣活動。",
-          "example": "『E-commerce』 platforms like JD.com have transformed retail."
+          "word": "travel",
+          "ipa": "/trəvəl/",
+          "meaning": "旅行",
+          "example": "你可以使用這張卡進行旅行，享受無限的5%回饋"
         },
         {
-          "word": "doubling down",
-          "ipa": "/ˈdʌblɪŋ daʊn/",
-          "meaning": "加碼投資，指在某項投資上增加投入，通常表示對其前景有信心。",
-          "example": "The investor is 『doubling down』 on his position in the tech stock."
+          "word": "cashback",
+          "ipa": "/ˈkæʃbæk/",
+          "meaning": "回饋",
+          "example": "這張卡提供無限的3%回饋"
         },
         {
-          "word": "bottom line",
-          "ipa": "/ˈbɑːtəm laɪn/",
-          "meaning": "獲利表現/盈虧底線，指公司最終的淨利潤或虧損，是衡量財務績效的關鍵指標。",
-          "example": "Improving the 『bottom line』 is crucial for the company's long-term survival."
+          "word": "credit",
+          "ipa": "/ˈkrɛdɪt/",
+          "meaning": "信用",
+          "example": "這張卡提供無限的3%回饋"
         },
         {
-          "word": "capital raise",
-          "ipa": "/ˈkæpɪtəl reɪz/",
-          "meaning": "籌資，指公司透過發行股票、債券或其他方式募集資金以支持其營運或擴張。",
-          "example": "The startup announced a successful 『capital raise』 to fund its new project."
+          "word": "rewards",
+          "ipa": "/ˈrɛrdz/",
+          "meaning": "回饋",
+          "example": "這張卡提供無限的3%回饋"
         },
         {
-          "word": "market capitalization",
-          "ipa": "/ˈmɑːrkɪt ˌkæpɪtəlaɪˈzeɪʃən/",
-          "meaning": "市值，指一家上市公司所有流通股的總價值，是衡量公司規模的重要指標。",
-          "example": "Apple's 『market capitalization』 is one of the largest globally."
+          "word": "visa",
+          "ipa": "/ˈviːzə/",
+          "meaning": "Visa",
+          "example": "這張卡是一張Visa卡"
         }
       ],
-      "level2_context": "各位同學，這篇新聞主要在講一位知名投資人麥可·貝瑞（就是電影『大賣空』裡面的主角原型），他把投資重心從中國電商巨頭阿里巴巴轉向了京東。這背後的原因不是京東突然有什麼驚天利好，而是貝瑞認為阿里巴巴的股價已經太高了，他甚至覺得要跌一半他才會再考慮。同時，他也不喜歡阿里巴巴為了發展AI和基礎設施而進行的籌資行為。\n\n相反地，京東在這波調整中成了他的新寵。新聞提到京東的獲利表現正在改善，而且還積極擴展業務，像是最近在香港贏得了一個大型開發案，並計畫在機器人領域投入巨資。這顯示貝瑞可能看到了京東在中國電商市場的潛力，以及其在物流和新科技領域的佈局，認為它比阿里巴巴更具投資價值。這也反映出大型投資人對於中國科技股的選擇，會根據估值、公司策略和未來成長潛力進行動態調整。",
+      "level2_context": "這些文章主要討論的是信用卡，特別是無費率的信用卡。信用卡的使用對於旅行和購物都有很大的幫助。",
       "level3_translation": [
         {
-          "sentence": "『Big Short』 famed investor Michael Burry has moved his investment from Chinese e-commerce giant Alibaba Group Holding (BABA) to its prime rival JD.com (JD).",
-          "translation": "『大賣空』聞名的投資人麥可·貝瑞，已將他的投資從中國電商巨頭阿里巴巴集團控股（BABA）轉移到其主要競爭對手京東（JD）。"
+          "sentence": "The Chase Freedom Unlimited is an all-around great cash-back card that's also a smart choice for travel.",
+          "translation": " Chase自由無限卡是一張全面的回饋卡，同時也是一個旅行的好選擇"
         },
         {
-          "sentence": "However, rather than buying JD.com on a trigger, Burry did so mostly because Alibaba has become too expensive.",
-          "translation": "然而，貝瑞並非因為一時衝動買進京東，主要是因為阿里巴巴的股價已經變得太貴。"
+          "sentence": "At a minimum, you'll earn 1.5% cash back on every purchase — but you'll earn even more in select rewards categories, including 5% on travel booked through Chase Travel℠.",
+          "translation": "最少你可以獲得1.5%的回饋，但在特定類別中，你可以獲得更高的回饋，例如5%的旅行回饋"
         },
         {
-          "sentence": "He argued that Alibaba would need to 『fall by half』 for him to be interested again.",
-          "translation": "他認為，阿里巴巴的股價需要『腰斬』，他才會再次考慮。"
+          "sentence": "For new cardholders, the Chase Freedom Unlimited offers a valuable welcome bonus and a 0% APR on new purchases and balance transfers.",
+          "translation": "新卡holder可以獲得這張卡的有價值的歡迎獎勵和0%的費率"
         },
         {
-          "sentence": "Moreover, the famous investor disliked Alibaba's capital raise for AI capabilities and infrastructure investment.",
-          "translation": "此外，這位知名投資人也不喜歡阿里巴巴為發展AI能力和基礎設施所進行的籌資。"
+          "sentence": "Long-term, you'll also get the security of useful Chase purchase protection and travel insurance benefits.",
+          "translation": "長期來說，你也會得到有用的CHASE購買保護和旅行險險的好處"
         },
         {
-          "sentence": "On the other hand, JD.com has emerged as his preference in this paradigm.",
-          "translation": "另一方面，京東在這種情勢下成為了他的首選。"
+          "sentence": "Why we like it: The U.S. Bank Shield Visa Card is our pick for 0% APR because it has one of the longest intro periods you'll find today — whether you want to use your 0% APR for a large purchase or to pay down debt with a balance transfer.",
+          "translation": "我們喜歡這張卡：U.S.銀行盾牌Visa卡是為0%費率而選擇的，因為它有最長的 intro 期限"
         },
         {
-          "sentence": "The company is showing signs of improvement, especially in its bottom line.",
-          "translation": "這家公司正展現出改善的跡象，尤其是在其獲利表現上。"
+          "sentence": "There are also a few benefits to enjoy with this card, including 4% cash back on prepaid air, hotel, and car reservations booked through the U.S. Bank Travel Center and an annual $20 statement credit after you make purchases for 11 consecutive months.",
+          "translation": "這張卡還提供一些好處，例如4%的回饋在預付的飛機、酒店和車輛預約中，還有每年20美元的表單 crédit"
         },
         {
-          "sentence": "Moreover, it is trying to expand its operations.",
-          "translation": "此外，它也正努力擴展其營運。"
+          "sentence": "However, the U.S. Bank Shield Visa is primarily a great tool for its long-lasting 0% APR period.",
+          "translation": "但是，U.S.銀行盾牌Visa卡主要是因為它的長久的0%費率期限"
         },
         {
-          "sentence": "For instance, it recently won a newly awarded pilot development area in Hong Kong's ​Northern Metropolis (a mega-project bordering Mainland China), in a JV with six companies.",
-          "translation": "舉例來說，它最近在香港的『北部都會區』（一個與中國大陸接壤的超大型計畫）中，與六家公司合資贏得了一個新獲批的試點開發區。"
+          "sentence": "Why we like it: The Capital One Savor Cash Rewards card packs a ton of rewards for no annual fee.",
+          "translation": "我們喜歡這張卡：Capital One享受回饋卡是無費率的"
         },
         {
-          "sentence": "JD.com also plans to invest RMB 10 billion in resources to the robotics sector by 2028.",
-          "translation": "京東也計畫在2028年前，向機器人產業投入人民幣100億元的資源。"
+          "sentence": "We think it's great for grocery shopping, with unlimited 3% rewards at grocery stores.",
+          "translation": "我們認為它是很好的購物店，提供無限的3%回饋"
         },
         {
-          "sentence": "SpaceX Stock Just Crashed Below Its IPO Price: Here's the Bull Case Nobody Can Ignore",
-          "translation": "SpaceX股價剛跌破其IPO發行價：這是無人能忽視的看漲理由。"
+          "sentence": "But you'll earn the same rate on even more items in your regular budget, including dining at restaurants, entertainment spending, and popular streaming services.",
+          "translation": "但你也可以獲得這些類別中的更高回饋，例如餐廳購物、娛樂購物和流行的視聽服務"
         },
         {
-          "sentence": "A Major Bitcoin Short Squeeze Is Taking MicroStrategy Stock Higher. What Comes Next.",
-          "translation": "一場大規模的比特幣空頭軋空正在推升MicroStrategy的股價。接下來會發生什麼？"
+          "sentence": "You can also earn 5% rewards on travel when you make eligible bookings (hotels, vacation rentals, and rental cars) through Capital One Travel.",
+          "translation": "你還可以獲得5%的回饋在通過Capital One旅行的有價值預約中"
         },
         {
-          "sentence": "Markets move fast.",
-          "translation": "市場瞬息萬變。"
+          "sentence": "Plus, earn a great welcome bonus with a relatively low spending requirement and take advantage of an introductory 0% APR on new purchases and balance transfers.",
+          "translation": "另外，你可以獲得一個很好的歡迎獎勵，低費率的購買需要，還可以利用introductory 0%費率"
         },
         {
-          "sentence": "Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.",
-          "translation": "透過閱讀我們免費的午間Barchart簡報電子報，掌握獨家圖表、分析和頭條新聞，跟上市場脈動。"
+          "sentence": "Why we like it: The Amex Blue Cash Everyday Card is one of our favorite cash-back cards today with or without an annual fee.",
+          "translation": "我們喜歡這張卡：美金藍卡是一張我們今天喜歡的回饋卡"
         },
         {
-          "sentence": "So, rather than just a replacement, JD.com may have the substance to be a stock worth watching.",
-          "translation": "因此，京東可能不只是一個替代品，它本身可能具備值得關注的實質。"
+          "sentence": "Its rewards at U.S. supermarkets and U.S. gas stations can help you maximize the purchases in your monthly budget, and rewards on U.S. online retail purchases can help you make the most of purchases (whether essentials or splurges) from your favorite online stores.",
+          "translation": "它的回饋在美國超市和美國汽車站可以幫助你最大化每月購物的回饋，且回饋在美國線上購物中也可以幫助你最大化購物"
         },
         {
-          "sentence": "JD.com is a major Chinese e-commerce and technology company headquartered in Beijing.",
-          "translation": "京東是一家總部位於北京的中國主要電子商務和科技公司。"
+          "sentence": "If you're able to max out the $6,000 spending cap on 3% rewards in each of these categories, you could get $540 in annual cash back.",
+          "translation": "如果你能夠最大化每個類別的$6,000購買限制，你就可以獲得每年540美元的回饋"
         },
         {
-          "sentence": "It operates mainly through JD Retail, JD Logistics, and other new businesses.",
-          "translation": "它主要透過京東零售、京東物流和其他新業務營運。"
+          "sentence": "That's a great return for no annual fee.",
+          "translation": "那是無費率的回饋"
         },
         {
-          "sentence": "JD Retail sells products directly to customers and also hosts third-party sellers on its online marketplace.",
-          "translation": "京東零售直接向客戶銷售產品，並在其線上市場上提供第三方賣家平台。"
-        },
-        {
-          "sentence": "JD Logistics runs one of China's largest delivery networks, with thousands of warehouses and a large workforce that ensures fast shipping.",
-          "translation": "京東物流營運著中國最大的配送網絡之一，擁有數千個倉庫和龐大的員工隊伍，確保快速出貨。"
-        },
-        {
-          "sentence": "Beyond shopping and delivery, JD offers healthcare, financial services, and AI-driven supply chain tools.",
-          "translation": "除了購物和配送，京東還提供醫療保健、金融服務和AI驅動的供應鏈工具。"
-        },
-        {
-          "sentence": "The company is listed in New York and Hong Kong and has expanded overseas, with its headquarters in Beijing, China.",
-          "translation": "這家公司在紐約和香港上市，並已擴展至海外，其總部設在中國北京。"
-        },
-        {
-          "sentence": "JD.com has a market capitalization of $39.44 billion.",
-          "translation": "京東的市值為394.4億美元。"
+          "sentence": "In addition to rewards, this card has a solid welcome bonus and an intro 0% APR on new purchases and balance transfers.",
+          "translation": "除了回饋外，這張卡還提供一個有力的歡迎獎勵和introductory 0%費率"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "This ETF Could Be the Trade of the Year If Long-Term Rates Drop",
+      "title": "OSI Systems (OSIS) Posted Record Cash Flow and Backlog but Revenue Missed Estimates",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/options/articles/etf-could-trade-long-term-175722784.html",
-      "level1_blind": {
-        "text": "I know the stock market has your attention. But the bond market has mine. Because I think the returns there could rival those of the S&P 500 Index ($SPX) in the next five to 10 years. I won't get ahead of myself, since a lot has to happen.\n\nHowever, as a guy who looks at charts almost daily, I can't help but notice when major trend reversals start shaping up. I think I see one, albeit this is more of a \"green shoots\" situation. That is, a hint of a trend change, not one firmly in progress.\n\nSpaceX Stock Just Crashed Below Its IPO Price: Here's the Bull Case Nobody Can Ignore\n\nA Major Bitcoin Short Squeeze Is Taking MicroStrategy Stock Higher. What Comes Next.\n\nThe focal point of this shift is the 30-Year U.S. Treasury Bond ($TYX) yield, which recently reached 5.2%. A 30-year yield at this level has not been seen since 2008. The 2000 tech market top was preceded by a spike in rates similar to what we've seen recently.\n\nWhile historical parallels offer intriguing circumstantial evidence, the current technical price action provides a far more actionable picture to me. The 30-year rate has climbed roughly 1.2% since late 2024, pushing yields to levels where the technical case for a reversal is getting more visible by the day.\n\nWhat I see above is a potential top in the PPO indicator, the one at the bottom. If you look back at past peaks for PPO in that high area, it typically has forewarned of lower rates.\n\nThe key this time around is that rates have moved up rapidly this summer. That means a reversal could produce a higher return than if rates had just drifted up 10 to 20 basis points. It is the magnitude at stake that interests me here."
-      },
+      "link": "https://finance.yahoo.com/markets/stocks/articles/osi-systems-osis-posted-record-212212604.html",
+      "level1_blind": "OSI Systems, Inc. (NASDAQ:OSIS) ended fiscal 2026 with record operating cash flow and backlog, but its fourth-quarter revenue result was materially below expectations. Revenue declined 4% to $484.1 million, approximately $45.6 million below the $529.7 million consensus estimate. Full-year revenue of $1.786 billion also finished about $39 million below the $1.825 billion floor of the company's prior guidance. Company-defined non-GAAP diluted EPS of $3.78 was essentially in line with the $3.77 consensus estimate.\n\nShares closed lower following the revenue miss, Middle Eastern delivery delays, and fiscal 2027 guidance. The central question is whether the delayed sales represent a temporary shift or evidence that the record backlog will convert unevenly.\n\nFiscal 2026 GAAP diluted EPS increased 3% to $8.95, while company-defined non-GAAP diluted EPS rose 11% to $10.35. The non-GAAP measure excludes impairment, restructuring, and other charges, acquired-intangible amortization, a $4.359 million former-CEO retirement expense, related tax effects, and discrete tax items.\n\nManagement said Middle Eastern conflicts and site-access constraints shifted approximately $50 million of planned Security deliveries beyond June 30. OSI Systems, Inc. (NASDAQ:OSIS) said the orders were deferred rather than lost and remain in backlog under revised delivery schedules.\n\nBacklog increased to approximately $1.9 billion from $1.8 billion a year earlier. Fiscal 2027 guidance calls for revenue of $1.875 billion to $1.930 billion, representing growth of 5% to 8.1%. Company-defined non-GAAP diluted EPS is expected between $11.13 and $11.49, implying growth of 7.5% to 11%.\n\nThe other divisions add diversification. Fourth-quarter Optoelectronics and Manufacturing revenue increased approximately 5%, while its company-defined non-GAAP operating margin improved to 14.7% from 13.6%. Healthcare revenue rose about 5%, while its company-defined non-GAAP operating margin reached 10% from 0.9%. Those margins exclude impairment, restructuring, and other charges and acquired-intangible amortization.\n\nThe $1.9 billion backlog does not provide a specific conversion schedule. OSI Systems, Inc. (NASDAQ:OSIS) defines backlog as signed, quantifiable orders expected to generate revenue within five years. The company says those orders are generally firm but may occasionally be canceled, and backlog should not be treated as revenue guidance for any annual or quarterly period.\n\nSecurity revenue fell 7.4% to $339.7 million during the fourth quarter despite healthy bookings. Fiscal 2027 growth is also expected to be weighted toward the second half, leaving the outlook exposed if geopolitical disruption or customer-acceptance delays continue.",
       "level2_keywords": [
         {
-          "word": "bond market",
-          "ipa": "/bɒnd ˈmɑːrkɪt/",
-          "meaning": "債券市場 (指投資人買賣政府或企業發行債券的金融市場，與股票市場相對)",
-          "example": "「The bond market is often seen as a safer investment than the stock market during economic uncertainty.」"
+          "word": "backlog",
+          "ipa": "/bækˈlɔːɡ/",
+          "meaning": "未來五年內可預期產生收入的已簽訂的量",
+          "example": "公司的未來五年內可預期產生收入的已簽訂的量達到 1.9 億美元"
         },
         {
-          "word": "trend reversals",
-          "ipa": "/trɛnd rɪˈvɜːrsəlz/",
-          "meaning": "趨勢反轉 (指市場價格或經濟指標的長期走勢從上升轉為下降，或從下降轉為上升的變化)",
-          "example": "「Technical analysts look for specific patterns to identify potential trend reversals in asset prices.」"
+          "word": "revenue",
+          "ipa": "/ˈrɛvənjuː/",
+          "meaning": "公司的收入",
+          "example": "公司的收入在第四季度下降了 4%"
         },
         {
-          "word": "yield",
-          "ipa": "/jiːld/",
-          "meaning": "殖利率 (指投資債券或股票所能獲得的年化報酬率，通常以百分比表示)",
-          "example": "「When bond yields rise, it often signals higher borrowing costs for companies and governments.」"
+          "word": "guidance",
+          "ipa": "/ˈɡaɪdəns/",
+          "meaning": "公司對未來產生的收入預測",
+          "example": "公司的未來產生收入的預測"
         },
         {
-          "word": "basis points",
-          "ipa": "/ˈbeɪsɪs pɔɪnts/",
-          "meaning": "基點 (金融領域中衡量利率或百分比變化的單位，1 個基點等於 0.01 個百分點)",
-          "example": "「The central bank decided to raise interest rates by 25 basis points to curb inflation.」"
+          "word": "security",
+          "ipa": "/ˈsɛkrɪti/",
+          "meaning": "安全性",
+          "example": "公司的安全性 revenue fell 7.4% to $339.7 million"
         },
         {
-          "word": "technical price action",
-          "ipa": "/ˈtɛknɪkəl praɪs ˈækʃən/",
-          "meaning": "技術價格行為 (指透過分析資產的歷史價格走勢、成交量等數據，來預測未來價格方向的方法)",
-          "example": "「Despite the fundamental news, the technical price action suggests a strong support level for the stock.」"
+          "word": "delays",
+          "ipa": "/ˈdɛlaɪz/",
+          "meaning": "延遲",
+          "example": "公司的延遲"
         }
       ],
-      "level2_context": "各位同學，這篇新聞的重點在於『債券市場』，特別是美國長期公債的殖利率。文章指出，30年期美國公債殖利率近期飆升到2008年以來的新高，這通常代表市場對未來通膨或經濟成長有較高的預期，也意味著借貸成本變高。然而，作者透過技術分析（例如PPO指標和價格行為），觀察到一個潛在的『趨勢反轉』訊號，暗示長期利率可能即將觸頂回落。如果這個預測成真，那麼投資那些會從利率下跌中受益的ETF（例如反向債券ETF或特定成長型股票ETF）就可能成為今年非常划算的交易。這對我們理解宏觀經濟環境和投資策略的選擇非常重要。",
+      "level2_context": "這篇文章主要是關於 OSI Systems, Inc. 的財務成果，特別是其第四季度的 revenue 結果。公司的 revenue 下降了 4%，而其 backlog 升高到 1.9 億美元。這些結果對於公司的未來產生收入預測有很大的影響。公司的管理部門表示，中東地區的衝突和網站存取限制導致了約 50 億美元的 planned Security deliveries 延遲。公司表示這些延遲不是因為失去訂單，而是因為延遲了訂單的交付時間表。這些結果對於公司的未來產生收入預測有很大的影響。",
       "level3_translation": [
         {
-          "sentence": "I know the stock market has your attention.",
-          "translation": "「我知道各位同學的目光都聚焦在股市上。」"
+          "sentence": "OSI Systems, Inc. (NASDAQ:OSIS) ended fiscal 2026 with record operating cash flow and backlog, but its fourth-quarter revenue result was materially below expectations.",
+          "translation": "OSI Systems, Inc. (NASDAQ:OSIS) 在 2026 年財務年度結束時，取得了記錄性運營現金流和儲備，但第四季度的收入結果遠遠低於預期。"
         },
         {
-          "sentence": "But the bond market has mine.",
-          "translation": "「但我的注意力卻在債券市場。」"
+          "sentence": "Revenue declined 4% to $484.1 million, approximately $45.6 million below the $529.7 million consensus estimate.",
+          "translation": "收入下降了 4%，為 484.1 億美元，遠遠低於預期的 529.7 億美元。"
         },
         {
-          "sentence": "Because I think the returns there could rival those of the S&P 500 Index ($SPX) in the next five to 10 years.",
-          "translation": "「因為我認為未來五到十年，債券市場的報酬率有機會與標普500指數（$SPX）相媲美。」"
+          "sentence": "Full-year revenue of $1.786 billion also finished about $39 million below the $1.825 billion floor of the company's prior guidance.",
+          "translation": "全年收入為 1.786 億美元，也低於公司前期預期的 1.825 億美元大約 39 億美元。"
         },
         {
-          "sentence": "I won't get ahead of myself, since a lot has to happen.",
-          "translation": "「我不會太早下定論，畢竟很多事情都還需要時間發展。」"
+          "sentence": "Company-defined non-GAAP diluted EPS of $3.78 was essentially in line with the $3.77 consensus estimate.",
+          "translation": "公司定義的非 GAAP 輕薄 EPS 為 3.78 美元，與預期的 3.77 美元相差不大。"
         },
         {
-          "sentence": "However, as a guy who looks at charts almost daily, I can't help but notice when major trend reversals start shaping up.",
-          "translation": "「然而，身為一個幾乎每天都在看圖表的人，當主要的趨勢反轉開始成形時，我總是會特別留意。」"
+          "sentence": "Shares closed lower following the revenue miss, Middle Eastern delivery delays, and fiscal 2027 guidance.",
+          "translation": "股價下跌，原因是收入低於預期、中東地區的交付延遲以及 2027 年的財務預測。"
         },
         {
-          "sentence": "I think I see one, albeit this is more of a \"green shoots\" situation.",
-          "translation": "「我認為我看到了這樣的跡象，儘管這更像是一種『萌芽期』的狀況。」"
+          "sentence": "The central question is whether the delayed sales represent a temporary shift or evidence that the record backlog will convert unevenly.",
+          "translation": "主要問題是，延遲的銷售代表著一個暫時的變化，還是證據表明記錄性儲備將會不均勻地轉換。"
         },
         {
-          "sentence": "That is, a hint of a trend change, not one firmly in progress.",
-          "translation": "「也就是說，這是一個趨勢變化的暗示，而不是一個已經穩固進行中的趨勢。」"
+          "sentence": "Fiscal 2026 GAAP diluted EPS increased 3% to $8.95, while company-defined non-GAAP diluted EPS rose 11% to $10.35.",
+          "translation": "2026 年財務年度的 GAAP 輕薄 EPS 升高了 3%，為 8.95 美元，而公司定義的非 GAAP 輕薄 EPS 升高了 11%，為 10.35 美元。"
         },
         {
-          "sentence": "SpaceX Stock Just Crashed Below Its IPO Price: Here's the Bull Case Nobody Can Ignore",
-          "translation": "「SpaceX的股價剛跌破其首次公開發行（IPO）價格：這是無人能忽視的看漲理由。」"
+          "sentence": "The non-GAAP measure excludes impairment, restructuring, and other charges, acquired-intangible amortization, a $4.359 million former-CEO retirement expense, related tax effects, and discrete tax items.",
+          "translation": "非 GAAP 規模中排除了損失、重組、其他費用、合併無形資產摊費、前CEO退休費用、相關稅務影響和獨立稅務項目。"
         },
         {
-          "sentence": "A Major Bitcoin Short Squeeze Is Taking MicroStrategy Stock Higher. What Comes Next.",
-          "translation": "「比特幣的大規模空頭軋空正在推升MicroStrategy的股價。接下來會發生什麼？」"
+          "sentence": "Management said Middle Eastern conflicts and site-access constraints shifted approximately $50 million of planned Security deliveries beyond June 30.",
+          "translation": "管理部門表示，中東地區的衝突和網站存取限制導致約 50 億美元的 planned Security deliveries 延遲。"
         },
         {
-          "sentence": "The focal point of this shift is the 30-Year U.S. Treasury Bond ($TYX) yield, which recently reached 5.2%.",
-          "translation": "「這次轉變的焦點是30年期美國公債（$TYX）的殖利率，它最近達到了5.2%。」"
+          "sentence": "OSI Systems, Inc. (NASDAQ:OSIS) said the orders were deferred rather than lost and remain in backlog under revised delivery schedules.",
+          "translation": "OSI Systems, Inc. (NASDAQ:OSIS) 表示，訂單被延遲而不是失去，並且在 revised delivery schedules 下儲備。"
         },
         {
-          "sentence": "A 30-year yield at this level has not been seen since 2008.",
-          "translation": "「30年期公債殖利率達到這個水準，是自2008年以來從未見過的。」"
+          "sentence": "Backlog increased to approximately $1.9 billion from $1.8 billion a year earlier.",
+          "translation": "儲備增加到大約 1.9 億美元，從前一年 1.8 億美元的數量來看。"
         },
         {
-          "sentence": "The 2000 tech market top was preceded by a spike in rates similar to what we've seen recently.",
-          "translation": "「2000年科技股泡沫的頂峰，也曾出現過類似我們近期所見的利率飆升。」"
+          "sentence": "Fiscal 2027 guidance calls for revenue of $1.875 billion to $1.930 billion, representing growth of 5% to 8.1%.",
+          "translation": "2027 年的財務預測預計收入為 1.875 億美元到 1.930 億美元，代表增長率為 5% 到 8.1%。"
         },
         {
-          "sentence": "While historical parallels offer intriguing circumstantial evidence, the current technical price action provides a far more actionable picture to me.",
-          "translation": "「雖然歷史上的相似之處提供了引人入勝的間接證據，但目前的技術價格行為對我來說，提供了更具操作性的判斷依據。」"
+          "sentence": "Company-defined non-GAAP diluted EPS is expected between $11.13 and $11.49, implying growth of 7.5% to 11%.",
+          "translation": "公司定義的非 GAAP 輕薄 EPS 预計在 11.13 美元到 11.49 美元之間，意味著增長率為 7.5% 到 11%。"
         },
         {
-          "sentence": "The 30-year rate has climbed roughly 1.2% since late 2024, pushing yields to levels where the technical case for a reversal is getting more visible by the day.",
-          "translation": "「自2024年末以來，30年期公債利率已攀升約1.2%，將殖利率推升到一個水準，使得技術面顯示反轉的可能性日益明顯。」"
+          "sentence": "The other divisions add diversification to the company's revenue stream.",
+          "translation": "其他部門對公司的收入流動線添加了多樣性。"
         },
         {
-          "sentence": "What I see above is a potential top in the PPO indicator, the one at the bottom.",
-          "translation": "「我在上方看到的是PPO指標（位於底部圖表）可能已經觸頂。」"
+          "sentence": "Fourth-quarter Optoelectronics and Manufacturing revenue increased approximately 5%, while its company-defined non-GAAP operating margin improved to 14.7% from 13.6%.",
+          "translation": "第四季度光電和製造部門的收入增加了約 5%，其公司定義的非 GAAP 運營利率提高到 14.7%，從 13.6% 的初期。"
         },
         {
-          "sentence": "If you look back at past peaks for PPO in that high area, it typically has forewarned of lower rates.",
-          "translation": "「如果回顧過去PPO在高位區域的峰值，它通常預示著利率將會走低。」"
+          "sentence": "Healthcare revenue rose about 5%, while its company-defined non-GAAP operating margin reached 10% from 0.9%.",
+          "translation": "醫療部門的收入增加了約 5%，其公司定義的非 GAAP 運營利率達到 10%，從 0.9% 的初期。"
         },
         {
-          "sentence": "The key this time around is that rates have moved up rapidly this summer.",
-          "translation": "「這次的關鍵在於，今年夏天利率快速上漲。」"
+          "sentence": "Those margins exclude impairment, restructuring, and other charges, acquired-intangible amortization.",
+          "translation": "這些利率排除了損失、重組、其他費用、合併無形資產摊費。"
         },
         {
-          "sentence": "That means a reversal could produce a higher return than if rates had just drifted up 10 to 20 basis points.",
-          "translation": "「這意味著，如果利率僅是緩慢上升10到20個基點，那麼這次的反轉可能會產生更高的報酬。」"
+          "sentence": "The $1.9 billion backlog does not provide a specific conversion schedule.",
+          "translation": "儲備 1.9 億美元沒有提供特定的轉換時間表。"
         },
         {
-          "sentence": "It is the magnitude at stake that interests me here.",
-          "translation": "「正是這種潛在的巨大變動幅度，讓我對此特別感興趣。」"
+          "sentence": "OSI Systems, Inc. (NASDAQ:OSIS) defines backlog as signed, quantifiable orders expected to generate revenue within five years.",
+          "translation": "OSI Systems, Inc. (NASDAQ:OSIS) 定義儲備為已簽訂的量，具有可量化的預期產生收入，將在五年內產生。"
+        },
+        {
+          "sentence": "The company says those orders are generally firm but may occasionally be canceled, and backlog should not be treated as revenue guidance for any annual or quarterly period.",
+          "translation": "公司表示，訂單通常是穩定的，但偶爾會被取消，儲備不應該用於任何年度或季度的收入指導。"
+        },
+        {
+          "sentence": "Security revenue fell 7.4% to $339.7 million during the fourth quarter despite healthy bookings.",
+          "translation": "安全部門的收入在第四季度下降了 7.4%，為 339.7 億美元，儘管有健康的訂單。"
+        },
+        {
+          "sentence": "Fiscal 2027 growth is also expected to be weighted toward the second half, leaving the outlook exposed if geopolitical disruption or customer-acceptance delays continue.",
+          "translation": "2027 年增長也預計在第二季度加重，若中東地區的衝突或客戶接受延遲持續，則預期將會增加不確定性。"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "在金融市場中，兩大市場的動向可能會產生反彈效應。根據最近的國際財經新聞，Nvidia 的股價在 Bank of America 的買盤下持續上漲，反映出市場對其未來生產力和 AI應用能力的信心。另一方面，JD.com 的股價在 Michael Burry 的買盤下持續上漲，反映出市場對其未來發展和競爭力的一般認可。這兩個市場的動向可能會產生反彈效應，例如，如果 Nvidia 的股價持續上漲，可能會導致 Bank of America 的買盤減少，從而對 JD.com 的股價產生反彈效應。另一方面，如果 JD.com 的股價持續上漲，可能會導致 Michael Burry 的買盤減少，從而對 Nvidia 的股價產生反彈效應。這種反彈效應可能會對兩個市場的動向產生影響，從而影響到兩個市場的整體行為。"
+    "market_connection": "美商高盛和凱基台北之間的買股行為，與國際財經新聞中關於Nvidia的報導有著密切的因果關係。Nvidia的業績超過預期，導致美商高盛對其持有股股的評估上升，凱基台北也跟進買入Nvidia的股股。這些買股行為可能是因為Nvidia的業績超過預期，導致投資人對其持有股的評估上升，進而導致美商高盛和凱基台北對其持有股的買入。這種因果關係可能會對兩者的投資策略產生影響，需要進一步觀察和分析。"
   }
 }
