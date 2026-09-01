@@ -1,378 +1,378 @@
 {
-  "date": "2026-08-30",
-  "stock_market_date": "2026-08-28",
+  "date": "2026-09-01",
+  "stock_market_date": "2026-08-31",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 88988696
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 73709717
         },
         {
           "rank": 2,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 43364720
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 41264263
         },
         {
           "rank": 3,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 42353340
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 35113822
         },
         {
           "rank": 4,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 41108708
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_buy_shares": 31632834
         },
         {
           "rank": 5,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 23715394
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 29874112
         },
         {
           "rank": 6,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 15678983
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 27774983
         },
         {
           "rank": 7,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 14811460
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_buy_shares": 24980127
         },
         {
           "rank": 8,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 14103214
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 23141421
         },
         {
           "rank": 9,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_buy_shares": 11554188
+          "stock_name": "台化",
+          "ticker": "1326",
+          "net_buy_shares": 18151932
         },
         {
           "rank": 10,
-          "stock_name": "京元電子",
-          "ticker": "2449",
-          "net_buy_shares": 11540547
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 17746652
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -31131358
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_sell_shares": -16651526
         },
         {
           "rank": 2,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_sell_shares": -24256778
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -16048053
         },
         {
           "rank": 3,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_sell_shares": -18967484
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -13468029
         },
         {
           "rank": 4,
-          "stock_name": "寶成",
-          "ticker": "9904",
-          "net_sell_shares": -17552663
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -12716120
         },
         {
           "rank": 5,
-          "stock_name": "陽明",
-          "ticker": "2609",
-          "net_sell_shares": -17452883
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -12026228
         },
         {
           "rank": 6,
-          "stock_name": "彩晶",
-          "ticker": "6116",
-          "net_sell_shares": -11772656
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_sell_shares": -8938916
         },
         {
           "rank": 7,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_sell_shares": -11410047
+          "stock_name": "精金",
+          "ticker": "3049",
+          "net_sell_shares": -8536982
         },
         {
           "rank": 8,
-          "stock_name": "大同",
-          "ticker": "2371",
-          "net_sell_shares": -9449642
+          "stock_name": "康霈*",
+          "ticker": "6919",
+          "net_sell_shares": -7650465
         },
         {
           "rank": 9,
-          "stock_name": "鴻準",
-          "ticker": "2354",
-          "net_sell_shares": -8305496
+          "stock_name": "力成",
+          "ticker": "6239",
+          "net_sell_shares": -6544963
         },
         {
           "rank": 10,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_sell_shares": -8245861
+          "stock_name": "景碩",
+          "ticker": "3189",
+          "net_sell_shares": -5615906
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 8561096
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 6339869
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 3935859
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_buy_shares": 4088000
         },
         {
           "rank": 3,
           "stock_name": "長興",
           "ticker": "1717",
-          "net_buy_shares": 2200000
+          "net_buy_shares": 3450000
         },
         {
           "rank": 4,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_buy_shares": 1996000
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 3217753
         },
         {
           "rank": 5,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 1953753
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_buy_shares": 2583740
         },
         {
           "rank": 6,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 1481699
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_buy_shares": 2495864
         },
         {
           "rank": 7,
-          "stock_name": "玉晶光",
-          "ticker": "3406",
-          "net_buy_shares": 1343000
+          "stock_name": "金像電",
+          "ticker": "2368",
+          "net_buy_shares": 1662014
         },
         {
           "rank": 8,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_buy_shares": 1188250
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 1577000
         },
         {
           "rank": 9,
-          "stock_name": "京元電子",
-          "ticker": "2449",
-          "net_buy_shares": 998621
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 1554000
         },
         {
           "rank": 10,
-          "stock_name": "神達",
-          "ticker": "3706",
-          "net_buy_shares": 948000
+          "stock_name": "全新",
+          "ticker": "2455",
+          "net_buy_shares": 1511000
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -3124568
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -3641525
         },
         {
           "rank": 2,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_sell_shares": -2885169
+          "stock_name": "景碩",
+          "ticker": "3189",
+          "net_sell_shares": -3203000
         },
         {
           "rank": 3,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_sell_shares": -1992605
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_sell_shares": -3107408
         },
         {
           "rank": 4,
-          "stock_name": "大聯大",
-          "ticker": "3702",
-          "net_sell_shares": -1912000
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_sell_shares": -2221472
         },
         {
           "rank": 5,
-          "stock_name": "正新",
-          "ticker": "2105",
-          "net_sell_shares": -1880000
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_sell_shares": -1971164
         },
         {
           "rank": 6,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -1764995
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_sell_shares": -1648492
         },
         {
           "rank": 7,
-          "stock_name": "潤泰新",
-          "ticker": "9945",
-          "net_sell_shares": -1672000
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -1361580
         },
         {
           "rank": 8,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_sell_shares": -1626104
+          "stock_name": "統一",
+          "ticker": "1216",
+          "net_sell_shares": -1162069
         },
         {
           "rank": 9,
-          "stock_name": "聯茂",
-          "ticker": "6213",
-          "net_sell_shares": -1281000
+          "stock_name": "智邦",
+          "ticker": "2345",
+          "net_sell_shares": -1041007
         },
         {
           "rank": 10,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -1105289
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -961130
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 2680000
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 2044366
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 1139988
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 933018
         },
         {
           "rank": 3,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_buy_shares": 982000
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_buy_shares": 740000
         },
         {
           "rank": 4,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 760000
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 486999
         },
         {
           "rank": 5,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_buy_shares": 630596
+          "stock_name": "元大高股息",
+          "ticker": "0056",
+          "net_buy_shares": 462000
         },
         {
           "rank": 6,
-          "stock_name": "京元電子",
-          "ticker": "2449",
-          "net_buy_shares": 568229
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_buy_shares": 354980
         },
         {
           "rank": 7,
-          "stock_name": "力成",
-          "ticker": "6239",
-          "net_buy_shares": 467588
+          "stock_name": "台郡",
+          "ticker": "6269",
+          "net_buy_shares": 352648
         },
         {
           "rank": 8,
-          "stock_name": "凌巨",
-          "ticker": "8105",
-          "net_buy_shares": 441954
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_buy_shares": 300003
         },
         {
           "rank": 9,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 431000
+          "stock_name": "光寶科",
+          "ticker": "2301",
+          "net_buy_shares": 277122
         },
         {
           "rank": 10,
-          "stock_name": "台虹",
-          "ticker": "8039",
-          "net_buy_shares": 387919
+          "stock_name": "新興",
+          "ticker": "2605",
+          "net_buy_shares": 277000
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -3882518
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -3549409
         },
         {
           "rank": 2,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_sell_shares": -2088884
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_sell_shares": -1883388
         },
         {
           "rank": 3,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -1339028
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_sell_shares": -869137
         },
         {
           "rank": 4,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_sell_shares": -1116827
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -759279
         },
         {
           "rank": 5,
-          "stock_name": "國喬",
-          "ticker": "1312",
-          "net_sell_shares": -1025757
+          "stock_name": "國產",
+          "ticker": "2504",
+          "net_sell_shares": -584426
         },
         {
           "rank": 6,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -953000
+          "stock_name": "凌巨",
+          "ticker": "8105",
+          "net_sell_shares": -480409
         },
         {
           "rank": 7,
-          "stock_name": "華新",
-          "ticker": "1605",
-          "net_sell_shares": -824000
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_sell_shares": -479416
         },
         {
           "rank": 8,
-          "stock_name": "遠雄港",
-          "ticker": "5607",
-          "net_sell_shares": -595000
+          "stock_name": "矽格",
+          "ticker": "6257",
+          "net_sell_shares": -359714
         },
         {
           "rank": 9,
-          "stock_name": "萬海",
-          "ticker": "2615",
-          "net_sell_shares": -364699
+          "stock_name": "力成",
+          "ticker": "6239",
+          "net_sell_shares": -280258
         },
         {
           "rank": 10,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_sell_shares": -332002
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_sell_shares": -251086
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "聯電",
-        "shares": 31146043
+        "target": "力積電",
+        "shares": 25798400
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "群創",
-        "shares": 1072000
+        "target": "力積電",
+        "shares": 817746
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "南亞",
-        "shares": 3852493
+        "target": "聯電",
+        "shares": 2852941
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "華邦電",
-        "shares": 9339407
+        "target": "京元電子",
+        "shares": 4995457
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Dunkin' comes back to major market after 12-year absence",
+      "title": "Goldman Sachs sends blunt message on oil price, economy",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/dunkin-comes-back-major-market-161700314.html",
-      "summary": "Dunkin' comes back to major market after 12-year absence",
-      "full_text": "More than a decade after exiting a market where it once operated 18 locations, Dunkin' is looking to reopen a chapter that ended following a contentious franchise dispute.\n\nThe coffee and donut chain has been pursuing new growth opportunities as it expands its footprint in the U.S. and internationally, including recent moves into markets where it previously operated.\n\nFounded in 1950, Dunkin' is the largest coffee and donuts brand in the U.S., with more than 14,200 restaurants in nearly 40 global markets. The chain became part of Inspire Brands in 2020, joining a portfolio that also includes Arby's, Baskin-Robbins, Buffalo Wild Wings, Jimmy John's, and Sonic.\n\nDunkin' is coming back to Puerto Rico in 2027 through a new partnership with Fusion Restaurant Group, a Puerto Rico-based restaurant operator that will lead the brand's expansion across the island. The first locations are expected to begin opening in 2027.\n\nUnder the exclusive development and operating agreement, Fusion Restaurant Group will oversee Dunkin's growth across Puerto Rico and bring the chain's coffee, iced beverages, donuts, breakfast sandwiches, and other menu offerings back to consumers on the island.\n\nInspire Brands President and Managing Director, International, Michael Haley, said Dunkin's international strategy focuses on working with experienced operators who understand their local communities.\n\n\"Puerto Rico represents a compelling opportunity to expand Dunkin's presence in a market where the brand already enjoys strong awareness and affinity,\" Haley said in the company announcement.\n\n\"Reconnecting longtime fans with the brand while introducing a new generation of guests to what makes Dunkin' special.\"",
-      "published": "2026-08-28T16:17:00Z"
+      "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-sends-blunt-message-003700417.html",
+      "summary": "Goldman Sachs sends blunt message on oil price, economy",
+      "full_text": "Oil prices surged above $120 a barrel in April as the Iran conflict choked the Strait of Hormuz and traders feared the worst.\n\nSince then, something unexpected has happened. Prices have been falling. Not because the conflict ended, but because the market found a way around it.\n\nGoldman Sachs analysts Daan Struyven and Yulia Zhestkova Grigsby published a note this week laying out why the energy market's recovery matters, what it means for different parts of the energy sector, and why crude oil faces less upside risk than many investors might expect, Bloomberg reported.\n\nThe Strait of Hormuz is the single most important oil chokepoint in the world. About a third of the globe's seaborne oil passes through it on the way from Persian Gulf exporters to global buyers.\n\nWhen the Iran conflict escalated earlier this year, flows collapsed. Goldman estimates total crude and oil-product exports through the Strait fell to roughly 5 to 6 million barrels per day in March, down from about 22 to 24 million barrels per day before the conflict, Bloomberg reported.\n\nSince March, that recovery has been steady. Flows now sit at approximately 15 to 16 million barrels per day. Still 7 to 8 million barrels short of prewar levels, but well above the March low. About 6 to 8 million barrels per day of crude specifically is transiting the Strait, according to traders who spoke with Bloomberg.\n\n\"The rise in dark crossings by specialized shippers, and in ship-to-ship transfers shows that producers and shippers are adapting to the Mideast conflict,\" Goldman wrote. \"Higher dark flows could moderate the upside to crude oil prices even if Mideast disruptions last longer.\"\n\nA dark crossing is when a tanker turns off its satellite transponder to avoid tracking. Ship-to-ship transfers move cargo between vessels mid-journey instead of following a standard route. Neither practice is new. Both are being used more heavily now. The oil is moving. It is just harder to see where it is going.",
+      "published": "2026-08-31T00:37:00Z"
     },
     {
       "id": "news_2",
-      "title": "Solar Has Crossed a Critical Economic Tipping Point",
+      "title": "Victoria's Secret stock soars nearly 300% as GLP-1 weight-loss drugs help reshape lingerie buying habits",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/energy/articles/solar-crossed-critical-economic-tipping-210000010.html",
-      "summary": "Solar Has Crossed a Critical Economic Tipping Point",
-      "full_text": "For years, the economic case for solar came with an awkward qualification. Yes, it had no fuel bill. Yes, its operating costs were low. And yes, over the life of a project it could already produce cheaper electricity than a new coal or gas plant. But first, someone had to pay for it.\n\nSolar concentrated most of its lifetime costs at the beginning. Fossil power appeared to ask for less capital upfront and spread the rest of the bill across decades of coal or gas purchases. In rich countries with deep capital markets, that distinction could be managed. In emerging economies facing high interest rates, limited public budgets and competing infrastructure needs, it could determine what was built.\n\nThat disadvantage has now largely disappeared. According to a new Ember analysis, a solar plant can now require less upfront investment than a coal or gas plant for the same amount of electricity delivered. A decade ago, solar could require up to five times as much.\n\nThis is not another claim that solar has become cheaper on a lifetime basis. That happened years ago. It is a more fundamental tipping point: solar is now competing with fossil fuels before the first tonne of coal or cubic meter of gas is purchased.\n\nComparisons between power technologies are often distorted by nameplate capacity. One megawatt of solar does not produce the same annual electricity as one megawatt of gas, because the sun does not shine continuously. Ember therefore compares the capital required to deliver the same quantity of electricity rather than simply matching the number printed on the generator.\n\nThat is the economically relevant comparison. In the past, solar needed considerably more installed capacity to produce the same annual output, while solar modules themselves were far more expensive. The resulting capital burden created a simple argument for fossil fuels: build the cheaper plant now and pay for fuel later.\n\nMass manufacturing has dismantled that argument. Solar PV's total installed cost has fallen by 87% since 2010, according to IRENA. Module production has become a vast, standardized industrial process. Efficiency has improved, supply chains have expanded and installation experience has accumulated across almost every major market.\n\nSolar's capital profile has not changed, it still requires most expenditure upfront. The amount of capital required has.",
-      "published": "2026-08-29T21:00:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/victorias-secret-stock-soars-nearly-130000704.html",
+      "summary": "Victoria's Secret stock soars nearly 300% as GLP-1 weight-loss drugs help reshape lingerie buying habits",
+      "full_text": "Victoria's Secret shares have surged nearly 300% over the past year. The company's stock, now trading under VSXY after a June 2026 ticker change, has climbed to levels investors haven't seen in years.\n\nThere are several factors behind the turnaround, including stronger sales, a revamped brand strategy and a new management team. But Wall Street analysts are also pointing to an unlikely potential beneficiary of the Ozempic era: lingerie.\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake. Here's what it is and 3 simple steps to fix it ASAP\n\nThe tax breaks in Trump's 'big beautiful bill' expire after 2028. Here are 4 moves to make before the window closes\n\nThe theory is part of the broader \"Ozempic economy,\" in which the rapid growth in use of GLP-1 weight-loss medications such as Ozempic, Wegovy and Zepbound could reshape consumer spending.\n\nAs millions of people lose weight while taking these medications, they may need to replace clothing that no longer fits — and the \"Ozempic effect\" is potentially creating a spending boom. Victoria's Secret appears to be reaping some of the benefits of that shift.\n\nChanges in body size and shape can require people to replace underwear, bras and other intimate apparel, which is an obvious benefit for lingerie retailers like Victoria's Secret. Coupled with the fact that losing weight is associated with feeling more sexually attractive, according to Duke University Medical Center researchers, it makes even more sense why Victoria's Secret is seeing sales skyrocket.",
+      "published": "2026-08-30T13:00:00Z"
     },
     {
       "id": "news_3",
-      "title": "Is Procter & Gamble Stock Underperforming the Nasdaq?",
+      "title": "Everything I Learned from My Hot Chart Summer, and How My 21 Stocks Picks Have Performed.",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-stock-underperforming-nasdaq-171921912.html",
-      "summary": "Is Procter & Gamble Stock Underperforming the Nasdaq?",
-      "full_text": "Valued at a market cap of $343.4 billion, The Procter & Gamble Company (PG) is one of the world's largest consumer goods companies, selling a broad portfolio of everyday household, personal care, health, beauty, and grooming products in about 180 countries and territories. The Cincinnati, Ohio-based company has built its business around globally recognized brands such as Tide, Pampers, Gillette, Head & Shoulders, Pantene, Olay, Oral-B, Always, Dawn, Bounty, and Crest.\n\nCompanies worth $200 billion or more are typically classified as \"mega-cap stocks,\" and PG fits the label perfectly, with its market cap exceeding this threshold, underscoring its size, influence, and dominance within the household & personal products industry. The company's scale, powerful brands, extensive distribution network, and consistent product innovation give it a formidable position in the global fast-moving consumer goods industry.\n\nJeff Bezos' Heartfelt Tribute to Dolly Parton Drew Brutal Backlash: 'Nobody Wanted to Hear This From You' — He Once Gave Her $100 Million for Charity\n\nWarren Buffett's Granddaughter Says He Disowned Her and Twin Sister in a Letter —'I Have Not Emotionally or Legally Adopted You as a Grandchild…'\n\nDespite its notable strength, this personal care company has dipped 14.2% from its 52-week high of $167.25, reached on Feb. 27. Moreover, shares of PG have fallen 1.6% over the past three months, notably underperforming the Nasdaq Composite's ($NASX) 2% fall during the same time frame.\n\nIn the longer term, PG has declined 7.8% over the past 52 weeks, lagging NASX's 21.6% uptick over the same time period. Moreover, on a YTD basis, shares of PG are up marginally, compared to the index's 13.6% rise.\n\nTo confirm its bearish trend, PG has been trading below its 200-day moving average since mid-March. However, it has recently started trading above its 50-day moving average since late May.\n\nOn Aug. 4, PG shares jumped 2.1% after the company announced a definitive agreement to acquire Thorne, a science-backed health and wellness company, from L Catterton's Flagship Fund. The acquisition marks an important expansion of P&G's Personal Health Care business, strengthening its foothold in the fast-growing premium wellness and personalized health markets.",
-      "published": "2026-08-29T17:19:21Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/everything-learned-hot-chart-summer-133002092.html",
+      "summary": "Everything I Learned from My Hot Chart Summer, and How My 21 Stocks Picks Have Performed.",
+      "full_text": "If you had told me at the beginning of May that I would spend part of my summer scanning thousands of stock charts every morning, writing daily stock analysis, and putting my technical reputation on the line across 21 individual picks, I would have been very skeptical.\n\nAs a veteran portfolio manager, my career has been defined by viewing the investing world from 30,000 feet. I've spent decades focused on asset allocation, macro risk defense, and helping self-directed investors navigate volatile markets.\n\nJeff Bezos' Heartfelt Tribute to Dolly Parton Drew Brutal Backlash: 'Nobody Wanted to Hear This From You' — He Once Gave Her $100 Million for Charity\n\nA $100 Billion Buildout In Louisiana Is Planned for Starship. What This Means for SPCX Stock.\n\nI am, at my core, a portfolio constructor. In fact, when people ask me what I do for a living, I occasionally respond \"I'm in construction.\" If they follow up and ask what type of construction, I take off my proverbial hard hat and explain: I construct investment portfolios.\n\nExchange-traded funds (ETFs) are the lead players in that work, which is why the majority of my writing for Barchart relates to that type of analysis, truth-telling and myth-busting. With me, stock picking is a side dish, not the main course.\n\nWriting a daily column in a specific layout, as straightforward and consistent as that is, tends to be seen as binary. That is, you're either right or wrong.\n\nThat's not how I have rolled in the decades I managed other people's money. In real-world portfolio construction, single-ticker decisions are all just one piece of a bigger puzzle… referred to as a portfolio. That's why constructing, not picking, is the world I'm more accustomed to.",
+      "published": "2026-08-30T13:30:02Z"
     }
   ]
 }
