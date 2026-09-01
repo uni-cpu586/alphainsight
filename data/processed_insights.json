@@ -1,485 +1,443 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-09-01",
   "stock_uncle_insight": {
-    "date_header": "8/29 法人與主力大戶主要買超股票",
+    "date_header": "9/1 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃權值、金融與面板，避險意味濃",
+        "group_title": "1. 外資大戶：狂掃金融與低基期電子",
         "stocks": [
           {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "肖年仔，你看外資這手筆！狂掃聯電 8.9 萬張，這不是黑白買，擺明是看好半導體二線廠的低基期補漲，或是對AI題材的延伸布局，準備卡位啦！"
+            "stock_name": "力積電",
+            "ticker": "6770",
+            "description": "肖年仔，外資大咖狂掃力積電 7.37 萬張，這擺明是看準了晶圓代工的低基期，賭一個景氣翻轉。別以為他們是做慈善，這波吃貨肯定有鬼，不是看好未來訂單就是準備拉高出貨！"
+          },
+          {
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "面板雙虎之一，外資買超 4.13 萬張，這也是低基期轉機股的典型操作。面板報價最近有點回溫，外資可能在卡位，準備等散戶追高再倒貨。"
+          },
+          {
+            "stock_name": "台新新光金",
+            "ticker": "2887",
+            "description": "外資買超 3.51 萬張，金融股最近是外資的避風港，大盤震盪時，資金往這種穩定的地方跑，避險意味濃厚。"
+          },
+          {
+            "stock_name": "臺企銀",
+            "ticker": "2834",
+            "description": "外資買超 3.16 萬張，跟台新新光金一樣，金融股就是外資的「定存股」，大盤不好就先躲進來。"
+          },
+          {
+            "stock_name": "凱基金",
+            "ticker": "2883",
+            "description": "外資買超 2.99 萬張，又是金融股，肖年仔你看看，外資對金融股的愛，就像你對手搖飲的愛一樣，戒不掉。"
           },
           {
             "stock_name": "第一金",
             "ticker": "2892",
-            "description": "外資大買第一金 4.3 萬張，金融股就是資金的避風港，大盤震盪時，這些穩定的金雞母最受青睞，穩穩賺股息，不求大富大貴，但求安穩啦。"
+            "description": "外資買超 2.78 萬張，金融股買好買滿，這不是避險什麼是避險？"
           },
           {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "兆豐金也被外資敲進 4.2 萬張，跟第一金一樣，都是金融股的代表，外資這波操作很明顯，就是把錢從高風險的股票抽出來，轉進這些「定存概念股」避險。"
+            "stock_name": "台塑",
+            "ticker": "1301",
+            "description": "外資買超 2.50 萬張，塑化龍頭也被外資看上，可能是看好原物料價格觸底反彈，或是美元走強對出口有利，準備吃貨等景氣回溫。"
           },
           {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "連 0050 這種大盤型 ETF 外資都買了 4.1 萬張，這代表什麼？就是對大盤整體還是看好，但又不想單壓個股，用 ETF 來分散風險，聰明啦！"
+            "stock_name": "永豐金",
+            "ticker": "2890",
+            "description": "外資買超 2.31 萬張，金融股買不停，這波外資就是把金融股當成提款機，等大盤反彈再賣掉。"
           },
           {
-            "stock_name": "群創",
-            "ticker": "3481",
-            "description": "面板雙虎之一的群創，外資也買了 2.3 萬張，這檔之前跌到脫褲子，現在外資開始回補，是不是面板產業要谷底翻身了？肖年仔，這要好好觀察。"
+            "stock_name": "台化",
+            "ticker": "1326",
+            "description": "外資買超 1.82 萬張，塑化股跟台塑一樣，景氣循環股的底部卡位戰。"
           },
           {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "友達也被外資買超 1.4 萬張，跟群創一樣，面板股被外資看上，可能是覺得跌無可跌，準備來個波段操作，但這種股票要小心，別接刀接到手軟。"
+            "stock_name": "華南金",
+            "ticker": "2880",
+            "description": "外資買超 1.77 萬張，金融股大買，這波外資就是把金融股當成提款機，等大盤反彈再賣掉。"
           }
         ]
       },
       {
-        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，鎖定傳產與半導體",
+        "group_title": "2. 投信大戶（本土國家隊）：作帳兼換股，半導體與傳產兩邊跑",
         "stocks": [
-          {
-            "stock_name": "南亞",
-            "ticker": "1303",
-            "description": "投信大買南亞 8.5 千張，這檔塑化龍頭，通常是投信作帳的好標的，穩健又具備一定的流動性，肖年仔，這就是國家隊的「隱形冠軍」啦。"
-          },
           {
             "stock_name": "聯電",
             "ticker": "2303",
-            "description": "聯電不只外資買，投信也敲進 3.9 千張，三大法人同步買超，這就不是黑白買了，代表聯電的價值被重新評估，可能是看好其成熟製程的訂單能見度。"
+            "description": "投信買超 6340 張，肖年仔，投信這是在幹嘛？外資在賣，他們在買，這擺明是基金經理人看好成熟製程，或是為了季底作帳，準備拉抬自家持股。"
+          },
+          {
+            "stock_name": "大成鋼",
+            "ticker": "2027",
+            "description": "投信買超 4088 張，傳產股也來參一咖，可能是看好鋼鐵需求回溫，或是低基期有補漲空間。"
           },
           {
             "stock_name": "長興",
             "ticker": "1717",
-            "description": "長興也被投信買了 2.2 千張，這檔化學材料股，通常是景氣復甦的領先指標，投信會買，可能是在為下一波景氣循環做準備。"
-          },
-          {
-            "stock_name": "華通",
-            "ticker": "2313",
-            "description": "華通被投信買超 1.9 千張，PCB產業跟電子產品息息相關，投信買進，可能是看好下半年電子產品出貨動能，或是AI伺服器相關板卡的訂單。"
+            "description": "投信買超 3450 張，這檔化學材料股，投信買進，可能是看好特定產業應用，或是為了分散風險。"
           },
           {
             "stock_name": "中信金",
             "ticker": "2891",
-            "description": "中信金也獲得投信 1.9 千張的青睞，跟外資一樣，投信也把金融股當作穩健配置的一環，在市場震盪時，金融股就是最好的防禦型標的。"
+            "description": "投信買超 3218 張，連投信也來買金融股，這表示金融股的防禦性是市場共識，大家都在找避風港。"
+          },
+          {
+            "stock_name": "京元電子",
+            "ticker": "2449",
+            "description": "投信買超 2584 張，外資在倒貨，投信卻在接刀，這不是作帳就是看好AI測試需求，準備跟外資對作。"
+          },
+          {
+            "stock_name": "國泰金",
+            "ticker": "2882",
+            "description": "投信買超 2496 張，金融股就是穩，投信也愛。"
+          },
+          {
+            "stock_name": "金像電",
+            "ticker": "2368",
+            "description": "投信買超 1662 張，PCB廠，這檔可能是搭上AI伺服器題材，投信在偷偷布局。"
+          },
+          {
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "投信買超 1577 張，買0050就是穩健操作，可能是為了調整基金部位，或是看好大盤後市。"
+          },
+          {
+            "stock_name": "玉山金",
+            "ticker": "2884",
+            "description": "投信買超 1554 張，金融股，沒什麼好說的，就是穩。"
+          },
+          {
+            "stock_name": "全新",
+            "ticker": "2455",
+            "description": "投信買超 1511 張，PA廠，這檔可能是看好手機需求回溫，或是5G題材，投信在卡位。"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：短線衝刺面板，跟風半導體",
+        "group_title": "3. 內資主力與實戶：跟外資搶貨，低價電子與傳產都有份",
         "stocks": [
           {
-            "stock_name": "群創",
-            "ticker": "3481",
-            "description": "自營商狂敲群創 2.6 千張，這跟外資的動作不謀而合，但自營商的單通常比較短線，可能是看準面板股的短線反彈，準備隔日沖或拉高出貨，韭菜們要小心別追高。"
+            "stock_name": "力積電",
+            "ticker": "6770",
+            "description": "自營商買超 2044 張，肖年仔，連自營商都來買力積電，這檔低價股肯定有戲，但自營商的單通常是避險盤，小心隔日沖。"
           },
           {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "聯電連自營商都買了 1.1 千張，三大法人都進場，這檔股票的動能不容小覷，自營商通常是避險盤，但這次也跟著買，代表對聯電的短期走勢有信心。"
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "自營商買超 933 張，記憶體族群，也是低基期，自營商可能在賭一個產業復甦。"
           },
           {
-            "stock_name": "台玻",
-            "ticker": "1802",
-            "description": "台玻被自營商買超 9 百張，這檔傳產股，通常不會是自營商的主力戰場，但這次進場，可能是看好其資產題材或特定訂單，短線操作的機會比較大。"
+            "stock_name": "台塑",
+            "ticker": "1301",
+            "description": "自營商買超 740 張，跟外資一樣看好塑化，這表示傳產股的價值被重新評估。"
           },
           {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "友達也被自營商買了 7 百張，跟群創一樣，自營商對面板雙虎的短線行情很有興趣，但這種股票波動大，肖年仔別亂接刀，小心被割韭菜。"
+            "stock_name": "南亞",
+            "ticker": "1303",
+            "description": "自營商買超 487 張，塑化股，跟台塑一樣，自營商也在卡位。"
           },
           {
-            "stock_name": "日月光投控",
-            "ticker": "3711",
-            "description": "日月光投控被自營商買超 6 百張，這檔半導體封測龍頭，是AI供應鏈的重要一環，自營商進場，可能是看好其在AI晶片封測的潛力，但也是短線操作居多。"
+            "stock_name": "元大高股息",
+            "ticker": "0056",
+            "description": "自營商買超 462 張，買高股息ETF，這就是典型的避險操作，穩穩賺股息。"
+          },
+          {
+            "stock_name": "緯創",
+            "ticker": "3231",
+            "description": "自營商買超 355 張，AI概念股，自營商可能在短線操作，或是為了避險而買進。"
+          },
+          {
+            "stock_name": "台郡",
+            "ticker": "6269",
+            "description": "自營商買超 353 張，軟板廠，這檔可能是看好蘋果新機題材，自營商在偷偷布局。"
+          },
+          {
+            "stock_name": "臻鼎-KY",
+            "ticker": "4958",
+            "description": "自營商買超 300 張，PCB龍頭，跟台郡一樣，可能也是看好蘋果或高階應用。"
+          },
+          {
+            "stock_name": "光寶科",
+            "ticker": "2301",
+            "description": "自營商買超 277 張，電源供應器大廠，AI伺服器概念股，自營商可能在短線操作。"
+          },
+          {
+            "stock_name": "新興",
+            "ticker": "2605",
+            "description": "自營商買超 277 張，散裝航運，這檔也是景氣循環股，自營商可能在賭運價反彈。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：資金避風港與權值股防禦（金融、大型ETF）",
-        "strategy_content": "肖年仔，你看外資大買金融股（第一金、兆豐金、華南金）和 0050，投信也跟著買中信金、國泰金。這很明顯，當大盤震盪、國際情勢不明朗時，大戶們會把資金從高風險的股票撤出來，轉進這些相對穩健、有高殖利率題材的金融股，或是直接買進大盤型 ETF 避險。這就是典型的「高檔避險」操作，不求爆賺，但求穩健，避免被市場割韭菜。"
+        "strategy_title": "策略一：高檔避險與資金避風港（金融、ETF）",
+        "strategy_content": "外資大戶狂掃金融股，如台新新光金、臺企銀、凱基金、第一金、永豐金、華南金，合計買超近 20 萬張，這擺明是大盤在高檔震盪時，資金撤出高風險板塊，轉往防禦性強、波動小的金融股避險。自營商也買進元大高股息 (0056)，顯示內外資對市場風險的共識，先求穩再求賺。"
       },
       {
-        "strategy_title": "策略二：低基期產業復甦卡位（面板、傳產）",
-        "strategy_content": "面板雙虎（群創、友達）這次被外資和自營商同步買超，連台玻這種傳產股也動起來。這代表什麼？這些股票之前跌到阿嬤都不想買，現在可能看到產業谷底翻揚的跡象，或是評價面已經夠低了。主力大戶就是喜歡在大家不看好的時候偷偷布局，等利空出盡、產業復甦時，再拉高出貨，肖年仔，這就是「低基期卡位」的精髓啦！"
+        "strategy_title": "策略二：低基期轉機股卡位戰（晶圓代工、面板、塑化）",
+        "strategy_content": "外資大買力積電 7.37 萬張、友達 4.13 萬張，自營商也跟進力積電 2044 張，這兩檔都是過去跌深、評價面低的電子股，主力大戶可能在賭產業景氣觸底反彈，準備在底部吃貨，等未來景氣復甦拉高出貨。同時，外資與自營商也同步買進台塑、台化、南亞等塑化傳產股，結合國際油價可能趨穩的訊息，顯示資金正在卡位原物料景氣循環的底部。"
       },
       {
-        "strategy_title": "策略三：AI半導體供應鏈再佈局（聯電、京元電、日月光投控）",
-        "strategy_content": "國際新聞Nvidia財報這麼猛，AI題材根本沒退燒！你看聯電被三大法人狂掃，京元電子、日月光投控也都有法人買超。這說明資金又重新回流到AI相關的半導體供應鏈，特別是那些相對低價、有補漲空間的二線晶圓代工和封測廠。大戶們在找尋AI題材的「下一棒」，肖年仔，這就是新技術題材點火的訊號，但也要小心追高變接刀。"
-      },
-      {
-        "strategy_title": "策略四：高檔獲利了結與避險（記憶體、航太、部分AI概念股）",
-        "strategy_content": "外資、投信、自營商同步賣超華邦電，外資和自營商也倒貨漢翔。這很明顯，這些股票之前漲了一大段，現在主力大戶覺得差不多了，開始「拉高出貨」或「避險」。特別是華邦電，記憶體產業前景不明，加上之前漲多，主力當然要先跑為快。肖年仔，看到這種現象，別傻傻去接刀，小心被「融資斷頭」啊！"
+        "strategy_title": "策略三：投信作帳與產業趨勢調整（半導體、PCB）",
+        "strategy_content": "投信大買聯電 6340 張，卻賣出台積電、國巨，同時買進金像電、全新等，這不是單純的作帳行情，更像是基金經理人在調整持股結構。一方面可能看好成熟製程的訂單能見度，另一方面也可能在為年底作帳行情鋪路，將資金轉向具備特定產業題材（如AI伺服器相關的PCB廠金像電）或低基期有補漲空間的標的。"
       }
     ],
-    "summary": "肖年仔，今天大戶們的操作很清楚，就是把錢從漲多的高風險股撤出來，轉進穩健的金融、低基期的面板，同時也沒放過AI半導體供應鏈的補漲機會，這就是典型的「進可攻退可守」策略，別再黑白買了！",
+    "summary": "肖年仔，今天外資狂掃金融股避險，又跟自營商一起卡位低基期電子跟傳產，擺明是看壞大盤又想偷偷賺轉機財！投信則是在作帳兼換股，別傻傻追高，小心被主力倒貨割韭菜！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 3.1 萬張",
-        "uncle_logic": "美商高盛這種外資大咖，一次敲進聯電 3.1 萬張，這絕對不是短線操作。他們看的是聯電在半導體成熟製程的長期價值，或是對其在AI邊緣運算等新應用上的潛力有信心，準備長期鎖碼啦！"
+        "action": "買超 2.58 萬張",
+        "uncle_logic": "肖年仔，高盛這種外資大咖出手買力積電，通常不是玩隔日沖的，這擺明是看好力積電的低基期，準備波段鎖碼，等著未來景氣復甦大賺一筆。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 1.07 千張",
-        "uncle_logic": "凱基台北這分點，肖年仔你聽過吧？著名的「隔日沖」大戶！買超群創 1 千多張，擺明了就是準備明天開盤拉高出貨，想賺短線價差。韭菜們，別傻傻跟進，小心變成他們的提款機！"
+        "action": "買超 818 張",
+        "uncle_logic": "凱基台北這種短線隔日沖大戶也來買力積電，雖然量不大，但肖年仔你還是要小心，明天開高就準備倒貨給你，別傻傻去接刀！"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 3.8 千張",
-        "uncle_logic": "元大投信自家分點買南亞 3.8 千張，這就是典型的「作帳行情」啦！投信為了年底績效，會鎖定一些有基本面、股價相對穩定的傳產股來拉抬，幫自己的基金衝刺淨值。肖年仔，這就是國家隊的盤算。"
+        "action": "買超 2853 張",
+        "uncle_logic": "元大投信買聯電，這就是典型的本土國家隊作帳行情，可能是在調整基金部位，或是看好成熟製程的訂單能見度，準備拉抬自家持股。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 9.3 千張",
-        "uncle_logic": "摩根大通這種外資大戶，賣超華邦電 9.3 千張，這就不是開玩笑的。可能是對記憶體產業的展望保守，或是華邦電之前漲多了，他們覺得獲利了結的時機到了，準備把資金轉移到其他更有潛力的標的，這就是「避險」操作，先跑為快！"
+        "action": "賣超 4995 張",
+        "uncle_logic": "大摩賣京元電子，這擺明是短線獲利了結，或是對AI概念股的熱度有點疑慮，先跑再說。肖年仔，別以為外資都傻傻的，他們跑得比誰都快！"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "Dunkin' comes back to major market after 12-year absence",
+      "title": "Goldman Sachs sends blunt message on oil price, economy",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/dunkin-comes-back-major-market-161700314.html",
-      "level1_blind": {
-        "text": "More than a decade after exiting a market where it once operated 18 locations, Dunkin' is looking to reopen a chapter that ended following a contentious franchise dispute.\n\nThe coffee and donut chain has been pursuing new growth opportunities as it expands its footprint in the U.S. and internationally, including recent moves into markets where it previously operated.\n\nFounded in 1950, Dunkin' is the largest coffee and donuts brand in the U.S., with more than 14,200 restaurants in nearly 40 global markets. The chain became part of Inspire Brands in 2020, joining a portfolio that also includes Arby's, Baskin-Robbins, Buffalo Wild Wings, Jimmy John's, and Sonic.\n\nDunkin' is coming back to Puerto Rico in 2027 through a new partnership with Fusion Restaurant Group, a Puerto Rico-based restaurant operator that will lead the brand's expansion across the island. The first locations are expected to begin opening in 2027.\n\nUnder the exclusive development and operating agreement, Fusion Restaurant Group will oversee Dunkin's growth across Puerto Rico and bring the chain's coffee, iced beverages, donuts, breakfast sandwiches, and other menu offerings back to consumers on the island.\n\nInspire Brands President and Managing Director, International, Michael Haley, said Dunkin's international strategy focuses on working with experienced operators who understand their local communities.\n\n\"Puerto Rico represents a compelling opportunity to expand Dunkin's presence in a market where the brand already enjoys strong awareness and affinity,\" Haley said in the company announcement.\n\n\"Reconnecting longtime fans with the brand while introducing a new generation of guests to what makes Dunkin' special.\""
-      },
+      "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-sends-blunt-message-003700417.html",
+      "level1_blind": "Oil prices surged above $120 a barrel in April as the Iran conflict choked the Strait of Hormuz and traders feared the worst.\n\nSince then, something unexpected has happened. Prices have been falling. Not because the conflict ended, but because the market found a way around it.\n\nGoldman Sachs analysts Daan Struyven and Yulia Zhestkova Grigsby published a note this week laying out why the energy market's recovery matters, what it means for different parts of the energy sector, and why crude oil faces less upside risk than many investors might expect, Bloomberg reported.\n\nThe Strait of Hormuz is the single most important oil chokepoint in the world. About a third of the globe's seaborne oil passes through it on the way from Persian Gulf exporters to global buyers.\n\nWhen the Iran conflict escalated earlier this year, flows collapsed. Goldman estimates total crude and oil-product exports through the Strait fell to roughly 5 to 6 million barrels per day in March, down from about 22 to 24 million barrels per day before the conflict, Bloomberg reported.\n\nSince March, that recovery has been steady. Flows now sit at approximately 15 to 16 million barrels per day. Still 7 to 8 million barrels short of prewar levels, but well above the March low. About 6 to 8 million barrels per day of crude specifically is transiting the Strait, according to traders who spoke with Bloomberg.\n\n\"The rise in dark crossings by specialized shippers, and in ship-to-ship transfers shows that producers and shippers are adapting to the Mideast conflict,\" Goldman wrote. \"Higher dark flows could moderate the upside to crude oil prices even if Mideast disruptions last longer.\"\n\nA dark crossing is when a tanker turns off its satellite transponder to avoid tracking. Ship-to-ship transfers move cargo between vessels mid-journey instead of following a standard route. Neither practice is new. Both are being used more heavily now. The oil is moving. It is just harder to see where it is going.",
       "level2_keywords": [
         {
-          "word": "exiting a market",
-          "ipa": "/ˈɛksɪtɪŋ ə ˈmɑːrkɪt/",
-          "meaning": "退出市場。各位同學，這指的是一家企業停止在某個地區或國家經營其業務，可能是因為策略調整、競爭壓力或營運不佳等原因。",
-          "example": "這家科技公司因為競爭激烈，決定『退出市場』，將資源集中在核心業務。"
+          "word": "dark",
+          "ipa": "/dɑːk/",
+          "meaning": "暗色",
+          "example": "在海上運輸中， Tanker 可能會將其 satelite.transponder 降低以避開被追蹤"
         },
         {
-          "word": "franchise dispute",
-          "ipa": "/ˈfrænˌtʃaɪz dɪˈspjuːt/",
-          "meaning": "加盟糾紛。這句話在財經界的意思是，加盟商與品牌總部之間因合約條款、經營權、費用或品牌標準等問題產生的爭議。",
-          "example": "由於嚴重的『加盟糾紛』，該連鎖咖啡店曾被迫暫停在該地區的營運。"
+          "word": "ship-to-ship",
+          "ipa": "/ʃɪp tu ʃɪp/",
+          "meaning": "船間轉移",
+          "example": "在海上運輸中，船間轉移是指在中途移動貨物的過程"
         },
         {
-          "word": "expands its footprint",
-          "ipa": "/ɪkˈspændz ɪts ˈfʊtˌprɪnt/",
-          "meaning": "擴大其市場版圖/業務範圍。我們要注意這個動詞片語，它指企業增加其在特定地區或全球的業務據點、市場佔有率或影響力，是企業成長的重要指標。",
-          "example": "這家快時尚品牌正積極『擴大其市場版圖』，目標是進入更多新興國家。"
+          "word": "strait",
+          "ipa": "/strɑːt/",
+          "meaning": "海峽",
+          "example": "海峽是連接兩個海域的狹窄地區"
         },
         {
-          "word": "portfolio",
-          "ipa": "/pɔːrtˈfoʊliˌoʊ/",
-          "meaning": "品牌組合/投資組合。在財經領域，這通常指一家公司擁有的多個品牌、產品線，或是投資者持有的多種資產項目。",
-          "example": "該集團的『品牌組合』涵蓋了從餐飲到零售等多個領域，展現其多元化策略。"
+          "word": "crude",
+          "ipa": "/kruːd/",
+          "meaning": "原油",
+          "example": "原油是從石油儲備中提取的"
         },
         {
-          "word": "exclusive development and operating agreement",
-          "ipa": "/ɪkˈskluːsɪv dɪˈvɛləpmənt ænd ˈɒpəreɪtɪŋ əˈɡriːmənt/",
-          "meaning": "獨家開發與營運協議。這是一份重要的商業合約，授予某公司在特定區域獨家開發和營運某品牌的權利，通常伴隨著明確的目標和責任。",
-          "example": "透過這份『獨家開發與營運協議』，當地夥伴將全權負責該品牌的市場拓展與日常營運。"
+          "word": "disruptions",
+          "ipa": "/dɪsəuˈpʃənz/",
+          "meaning": "中斷",
+          "example": "中斷是指對於某個過程或活動的暫時停止"
         }
       ],
-      "level2_context": "各位同學，這則新聞講的是知名咖啡甜甜圈品牌 Dunkin' 在闊別波多黎各市場十二年後，即將於2027年重返當地。這背後其實反映了連鎖餐飲業在進行國際擴張時的幾個重要策略考量。首先，品牌重返一個曾經營運過的市場，通常是因為該市場仍具備一定的品牌知名度與消費者基礎，能降低重新進入的門檻，這在商業上稱為『品牌資產的再利用』。其次，過去的『加盟糾紛』導致品牌撤出，這次 Dunkin' 選擇與當地經驗豐富的餐飲集團 Fusion Restaurant Group 建立『獨家開發與營運協議』，這顯示品牌學到了教訓，更重視與在地夥伴的合作，以確保營運順暢並符合當地市場需求。這不僅是 Dunkin'『擴大其市場版圖』的策略，也為波多黎各當地帶來了新的商業機會和就業可能，是品牌國際化策略中一個很典型的案例，值得我們深入分析其風險管理與市場進入策略。",
+      "level2_context": "這篇文章描述了對於油價的分析，特別是對於中東地區的影響。中東地區的問題對於全球油價有著重要的影響，特別是在海峽的問題上。這篇文章也提到了對於油價的預測，特別是對於原油的價格。",
       "level3_translation": [
         {
-          "sentence": "More than a decade after exiting a market where it once operated 18 locations, Dunkin' is looking to reopen a chapter that ended following a contentious franchise dispute.",
-          "translation": "在退出一個曾擁有18家分店的市場十多年後，Dunkin' 正尋求重新開啟因一場具爭議性的加盟糾紛而結束的篇章。"
+          "sentence": "Oil prices surged above $120 a barrel in April as the Iran conflict choked the Strait of Hormuz and traders feared the worst.",
+          "translation": "油價在四月上升到每桶120美元，伊朗衝突阻塞了海峽，商人害怕最差的結果"
         },
         {
-          "sentence": "The coffee and donut chain has been pursuing new growth opportunities as it expands its footprint in the U.S. and internationally, including recent moves into markets where it previously operated.",
-          "translation": "這家咖啡甜甜圈連鎖店一直在尋求新的成長機會，同時擴大其在美國和國際市場的版圖，包括近期重返過去曾營運過的市場。"
+          "sentence": "Since then, something unexpected has happened. Prices have been falling. Not because the conflict ended, but because the market found a way around it.",
+          "translation": "從那時起，出乎意料的事情發生了。價格下降了。不是因為衝突結束了，而是市場發現了一種方法來避開它"
         },
         {
-          "sentence": "Founded in 1950, Dunkin' is the largest coffee and donuts brand in the U.S., with more than 14,200 restaurants in nearly 40 global markets.",
-          "translation": "Dunkin' 創立於1950年，是美國最大的咖啡和甜甜圈品牌，在全球近40個市場擁有超過14,200家餐廳。"
+          "sentence": "Goldman Sachs analysts Daan Struyven and Yulia Zhestkova Grigsby published a note this week laying out why the energy market's recovery matters, what it means for different parts of the energy sector, and why crude oil faces less upside risk than many investors might expect, Bloomberg reported.",
+          "translation": "金匯士分析師達恩·史崔文和ユリア·ジェストコバ格·格里布斯在本週發表了一份報告，解釋為什麼能源市場的恢復重要，什麼意思對不同能源部門的影響，以及為什麼原油面對了比很多投資者預期的風險少"
         },
         {
-          "sentence": "The chain became part of Inspire Brands in 2020, joining a portfolio that also includes Arby's, Baskin-Robbins, Buffalo Wild Wings, Jimmy John's, and Sonic.",
-          "translation": "該連鎖店於2020年成為 Inspire Brands 旗下品牌，加入了這個也包含 Arby's、Baskin-Robbins、Buffalo Wild Wings、Jimmy John's 和 Sonic 等品牌的組合。"
+          "sentence": "The Strait of Hormuz is the single most important oil chokepoint in the world. About a third of the globe's seaborne oil passes through it on the way from Persian Gulf exporters to global buyers.",
+          "translation": "海峽是世界上最重要的油價管制點。全球海上油品大部分通過海峽，從波斯灣出口商到全球買家"
         },
         {
-          "sentence": "Dunkin' is coming back to Puerto Rico in 2027 through a new partnership with Fusion Restaurant Group, a Puerto Rico-based restaurant operator that will lead the brand's expansion across the island.",
-          "translation": "Dunkin' 將於2027年透過與 Fusion Restaurant Group 建立新的合作夥伴關係重返波多黎各，這家波多黎各的餐飲營運商將主導該品牌在全島的拓展。"
+          "sentence": "When the Iran conflict escalated earlier this year, flows collapsed. Goldman estimates total crude and oil-product exports through the Strait fell to roughly 5 to 6 million barrels per day in March, down from about 22 to 24 million barrels per day before the conflict, Bloomberg reported.",
+          "translation": "當伊朗衝突在今年初急劇升溫時，流動性大幅下降。金匯士估計，海峽通過的原油和油品出口大約每天5到6百萬桶，遠低於衝突前約22到24百萬桶"
         },
         {
-          "sentence": "The first locations are expected to begin opening in 2027.",
-          "translation": "首批門市預計將於2027年開始營運。"
+          "sentence": "Since March, that recovery has been steady. Flows now sit at approximately 15 to 16 million barrels per day. Still 7 to 8 million barrels short of prewar levels, but well above the March low.",
+          "translation": "從三月起，恢復得勢。現在，通過海峽的原油和油品出口大約每天15到16百萬桶。雖然仍有7到8百萬桶的短缺，但遠高於三月低點"
         },
         {
-          "sentence": "Under the exclusive development and operating agreement, Fusion Restaurant Group will oversee Dunkin's growth across Puerto Rico and bring the chain's coffee, iced beverages, donuts, breakfast sandwiches, and other menu offerings back to consumers on the island.",
-          "translation": "根據這份獨家開發與營運協議，Fusion Restaurant Group 將監督 Dunkin' 在波多黎各的成長，並將該連鎖店的咖啡、冰飲、甜甜圈、早餐三明治及其他餐點選擇帶回給島上的消費者。"
+          "sentence": "\"The rise in dark crossings by specialized shippers, and in ship-to-ship transfers shows that producers and shippers are adapting to the Mideast conflict,\" Goldman wrote. \"Higher dark flows could moderate the upside to crude oil prices even if Mideast disruptions last longer.",
+          "translation": "\"在特殊船舶和船間轉移的增加顯示出生產商和船主正在適應中東衝突,\"金匯士所書。\"如果中東衝突持續更久，油價上升的風險也會降低"
         },
         {
-          "sentence": "Inspire Brands President and Managing Director, International, Michael Haley, said Dunkin's international strategy focuses on working with experienced operators who understand their local communities.",
-          "translation": "Inspire Brands 國際業務總裁兼董事總經理 Michael Haley 表示，Dunkin' 的國際策略著重於與了解當地社區的經驗豐富營運商合作。"
-        },
-        {
-          "sentence": "\"Puerto Rico represents a compelling opportunity to expand Dunkin's presence in a market where the brand already enjoys strong awareness and affinity,\" Haley said in the company announcement.",
-          "translation": "Haley 在公司聲明中指出：「波多黎各代表著一個極具吸引力的機會，可以在一個品牌已享有高度知名度與好感度的市場中擴大 Dunkin' 的業務。」"
-        },
-        {
-          "sentence": "\"Reconnecting longtime fans with the brand while introducing a new generation of guests to what makes Dunkin' special.\"",
-          "translation": "「這將讓長期的粉絲們重新連結品牌，同時向新一代的消費者介紹 Dunkin' 的獨特之處。」"
+          "sentence": "A dark crossing is when a tanker turns off its satellite transponder to avoid tracking. Ship-to-ship transfers move cargo between vessels mid-journey instead of following a standard route. Neither practice is new. Both are being used more heavily now. The oil is moving. It is just harder to see where it is going.",
+          "translation": "暗色是指一艘 tanker將其 satelite.transponder 降低以避開被追蹤。船間轉移是指在中途移動貨物，而不是按照標準路線。這兩種實踐都不是新鮮的。現在，它們都被使用得更加積極。油品在移動著。它只是更難看出它在哪裡"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Solar Has Crossed a Critical Economic Tipping Point",
+      "title": "Victoria's Secret stock soars nearly 300% as GLP-1 weight-loss drugs help reshape lingerie buying habits",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/energy/articles/solar-crossed-critical-economic-tipping-210000010.html",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/victorias-secret-stock-soars-nearly-130000704.html",
       "level1_blind": {
-        "text": "For years, the economic case for solar came with an awkward qualification. Yes, it had no fuel bill. Yes, its operating costs were low. And yes, over the life of a project it could already produce cheaper electricity than a new coal or gas plant. But first, someone had to pay for it.\n\nSolar concentrated most of its lifetime costs at the beginning. Fossil power appeared to ask for less capital upfront and spread the rest of the bill across decades of coal or gas purchases. In rich countries with deep capital markets, that distinction could be managed. In emerging economies facing high interest rates, limited public budgets and competing infrastructure needs, it could determine what was built.\n\nThat disadvantage has now largely disappeared. According to a new Ember analysis, a solar plant can now require less upfront investment than a coal or gas plant for the same amount of electricity delivered. A decade ago, solar could require up to five times as much.\n\nThis is not another claim that solar has become cheaper on a lifetime basis. That happened years ago. It is a more fundamental tipping point: solar is now competing with fossil fuels before the first tonne of coal or cubic meter of gas is purchased.\n\nComparisons between power technologies are often distorted by nameplate capacity. One megawatt of solar does not produce the same annual electricity as one megawatt of gas, because the sun does not shine continuously. Ember therefore compares the capital required to deliver the same quantity of electricity rather than simply matching the number printed on the generator.\n\nThat is the economically relevant comparison. In the past, solar needed considerably more installed capacity to produce the same annual output, while solar modules themselves were far more expensive. The resulting capital burden created a simple argument for fossil fuels: build the cheaper plant now and pay for fuel later.\n\nMass manufacturing has dismantled that argument. Solar PV's total installed cost has fallen by 87% since 2010, according to IRENA. Module production has become a vast, standardized industrial process. Efficiency has improved, supply chains have expanded and installation experience has accumulated across almost every major market.\n\nSolar's capital profile has not changed, it still requires most expenditure upfront. The amount of capital required has."
+        "text": "Victoria's Secret shares have surged nearly 300% over the past year. The company's stock, now trading under VSXY after a June 2026 ticker change, has climbed to levels investors haven't seen in years.\n\nThere are several factors behind the turnaround, including stronger sales, a revamped brand strategy and a new management team. But Wall Street analysts are also pointing to an unlikely potential beneficiary of the Ozempic era: lingerie.\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake. Here's what it is and 3 simple steps to fix it ASAP\n\nThe tax breaks in Trump's 'big beautiful bill' expire after 2028. Here are 4 moves to make before the window closes\n\nThe theory is part of the broader \"Ozempic economy,\" in which the rapid growth in use of GLP-1 weight-loss medications such as Ozempic, Wegovy and Zepbound could reshape consumer spending.\n\nAs millions of people lose weight while taking these medications, they may need to replace clothing that no longer fits — and the \"Ozempic effect\" is potentially creating a spending boom. Victoria's Secret appears to be reaping some of the benefits of that shift.\n\nChanges in body size and shape can require people to replace underwear, bras and other intimate apparel, which is an obvious benefit for lingerie retailers like Victoria's Secret. Coupled with the fact that losing weight is associated with feeling more sexually attractive, according to Duke University Medical Center researchers, it makes even more sense why Victoria's Secret is seeing sales skyrocket."
       },
       "level2_keywords": [
         {
-          "word": "Tipping Point",
-          "ipa": "/ˈtɪpɪŋ pɔɪnt/",
-          "meaning": "財經轉捩點；臨界點。指某個系統或過程達到一個關鍵時刻，之後會發生重大且往往不可逆轉的變化。",
-          "example": "『The article argues that solar energy has reached an economic tipping point, making it more competitive than fossil fuels.』"
+          "word": "soars",
+          "ipa": "/sɔrz/",
+          "meaning": "股價或數值「飆升、暴漲」，通常指快速且大幅度的增長。",
+          "example": "The company's stock soars nearly 300% on the back of unexpected market trends."
         },
         {
-          "word": "Upfront Investment",
-          "ipa": "/ˈʌpˌfrʌnt ɪnˈvɛstmənt/",
-          "meaning": "前期投資；初期投入。指在專案或交易開始時需要支付的資金。",
-          "example": "『Solar projects traditionally required significant upfront investment compared to fossil fuel plants.』"
+          "word": "stock",
+          "ipa": "/stɑk/",
+          "meaning": "「股票」，代表對一家公司所有權的單位，可在證券市場上交易。",
+          "example": "Investing in a company's stock allows you to own a piece of its future earnings."
         },
         {
-          "word": "Capital Markets",
-          "ipa": "/ˈkæpɪtəl ˈmɑːrkɪts/",
-          "meaning": "資本市場。指長期資金（如股票、債券）的交易市場，為企業和政府提供融資。",
-          "example": "『Rich countries with deep capital markets could more easily manage the high initial costs of solar.』"
+          "word": "turnaround",
+          "ipa": "/ˈtɜrnəˌraʊnd/",
+          "meaning": "「好轉、轉虧為盈」，指公司或經濟狀況從困境中恢復並改善的過程。",
+          "example": "The new management team is credited with the impressive turnaround in the company's performance."
         },
         {
-          "word": "Nameplate Capacity",
-          "ipa": "/ˈneɪmpleɪt kəˈpæsɪti/",
-          "meaning": "額定容量；銘牌容量。指設備（如發電機、太陽能板）在理想條件下所能產生的最大輸出功率。",
-          "example": "『Comparing power technologies solely by nameplate capacity can be misleading for intermittent sources like solar.』"
+          "word": "beneficiary",
+          "ipa": "/ˌbɛnəˈfɪʃiˌɛri/",
+          "meaning": "「受益者」，指從某項行動、政策或趨勢中獲得好處或利益的個人或實體。",
+          "example": "Lingerie retailers are an unlikely potential beneficiary of the widespread use of weight-loss drugs."
         },
         {
-          "word": "Supply Chains",
-          "ipa": "/səˈplaɪ tʃeɪnz/",
-          "meaning": "供應鏈。指產品從原材料到最終消費者手中所經歷的整個生產和分銷過程。",
-          "example": "『Improvements in solar module production and expanded supply chains have driven down costs significantly.』"
+          "word": "consumer spending",
+          "ipa": "/kənˈsumər ˈspɛndɪŋ/",
+          "meaning": "「消費者支出」，指家庭和個人在商品與服務上的總花費，是衡量經濟活動的重要指標。",
+          "example": "The \"Ozempic economy\" could reshape consumer spending habits across various industries."
         }
       ],
-      "level2_context": "各位同學，這篇新聞探討的是太陽能產業一個非常重要的「經濟轉捩點」。過去，太陽能發電雖然長期來看成本較低，但初期建置的「前期投資」非常高，這讓許多資本不那麼充裕的開發中國家難以負擔。相較之下，傳統的燃煤或燃氣電廠雖然有持續的燃料成本，但初期投入的資金門檻較低。\n這篇報導指出，由於大規模製造、技術效率提升以及全球「供應鏈」的擴張，太陽能光電的「總安裝成本」大幅下降。現在，太陽能電廠所需的「前期投資」甚至可能比同等發電量的燃煤或燃氣電廠還要少。這代表太陽能不再只是長期划算，而是從專案一開始就具備成本競爭力。\n這個轉變對全球能源轉型意義重大。它不僅加速了再生能源的普及，也讓新興經濟體在發展基礎建設時，能更傾向選擇環保且經濟效益更高的太陽能，進而減少對化石燃料的依賴，對全球氣候變遷和能源安全都有深遠的影響。",
+      "level2_context": "各位同學，這則新聞探討的是一個很有趣的財經現象，它將醫藥科技的進步與零售產業的變化連結起來。我們都知道，近年來GLP-1減重藥物（例如Ozempic、Wegovy等）在全球掀起熱潮，許多人透過這些藥物成功減重。這不僅影響了醫療保健產業，更意外地對其他消費領域產生了宏觀影響，這就是所謂的「Ozempic經濟」。\n\n這篇報導指出，維多利亞的秘密（Victoria's Secret）這家內衣零售商的股價之所以能飆漲近三倍，除了公司自身的品牌策略調整和管理團隊改革外，華爾街分析師更將部分原因歸結於「Ozempic效應」。當數百萬人體重減輕後，他們自然需要更換不合身的衣物，尤其是貼身衣物如內衣。這種消費習慣的改變，為內衣市場帶來了新的增長動能。這說明了科技（醫藥科技）如何間接影響傳統產業的營收和股價表現，是我們在觀察國際財經趨勢時，需要注意的跨領域連結。",
       "level3_translation": [
         {
-          "sentence": "For years, the economic case for solar came with an awkward qualification.",
-          "translation": "各位同學，多年來，太陽能的經濟效益論點總是帶有一個令人尷尬的但書。"
+          "sentence": "Victoria's Secret shares have surged nearly 300% over the past year.",
+          "translation": "維多利亞的秘密的股價在過去一年飆漲了將近三倍。"
         },
         {
-          "sentence": "Yes, it had no fuel bill.",
-          "translation": "沒錯，它沒有燃料費用。"
+          "sentence": "The company's stock, now trading under VSXY after a June 2026 ticker change, has climbed to levels investors haven't seen in years.",
+          "translation": "這家公司的股票，在2026年6月更換股票代號為VSXY後，已攀升到投資人多年未見的高點。"
         },
         {
-          "sentence": "Yes, its operating costs were low.",
-          "translation": "沒錯，它的營運成本很低。"
+          "sentence": "There are several factors behind the turnaround, including stronger sales, a revamped brand strategy and a new management team.",
+          "translation": "這次業績好轉的背後有幾個因素，包括銷售額增強、品牌策略的重新調整以及新的管理團隊。"
         },
         {
-          "sentence": "And yes, over the life of a project it could already produce cheaper electricity than a new coal or gas plant.",
-          "translation": "而且，沒錯，在整個專案生命週期中，它確實能比新建的燃煤或燃氣電廠產生更便宜的電力。"
+          "sentence": "But Wall Street analysts are also pointing to an unlikely potential beneficiary of the Ozempic era: lingerie.",
+          "translation": "但華爾街分析師也指出，在『Ozempic時代』下，有一個意想不到的潛在受益者：那就是內衣產業。"
         },
         {
-          "sentence": "But first, someone had to pay for it.",
-          "translation": "但首先，總得有人先支付它的初期建置成本。"
+          "sentence": "Jeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one",
+          "translation": "（這段為廣告內容，與主新聞無關，但仍需翻譯）傑夫·貝佐斯支持一個平台，讓任何人都能以低至100美元的價格投資出租房屋——提供6種像房東一樣累積財富，卻無需實際成為房東的方式。"
         },
         {
-          "sentence": "Solar concentrated most of its lifetime costs at the beginning.",
-          "translation": "太陽能發電的大部分生命週期成本都集中在專案初期。"
+          "sentence": "Dave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake. Here's what it is and 3 simple steps to fix it ASAP",
+          "translation": "（這段為廣告內容，與主新聞無關，但仍需翻譯）戴夫·拉姆齊警告，近50%的美國人正在犯一個重大的社會安全福利錯誤。這篇文章將說明這是什麼錯誤，以及3個立即修正它的簡單步驟。"
         },
         {
-          "sentence": "Fossil power appeared to ask for less capital upfront and spread the rest of the bill across decades of coal or gas purchases.",
-          "translation": "相較之下，化石燃料發電似乎只需要較少的前期資本投入，然後將其餘的費用分散到數十年的煤炭或天然氣採購中。"
+          "sentence": "The tax breaks in Trump's 'big beautiful bill' expire after 2028. Here are 4 moves to make before the window closes",
+          "translation": "（這段為廣告內容，與主新聞無關，但仍需翻譯）川普『宏偉美麗法案』中的稅收優惠將在2028年後到期。這裡有4個在期限結束前可以採取的行動。"
         },
         {
-          "sentence": "In rich countries with deep capital markets, that distinction could be managed.",
-          "translation": "在擁有深厚「資本市場」的富裕國家，這種差異或許還能應付。"
+          "sentence": "The theory is part of the broader \"Ozempic economy,\" in which the rapid growth in use of GLP-1 weight-loss medications such as Ozempic, Wegovy and Zepbound could reshape consumer spending.",
+          "translation": "這項理論是更廣泛的『Ozempic經濟』的一部分，其中GLP-1減重藥物（如Ozempic、Wegovy和Zepbound）的快速普及，可能會重塑消費者的支出模式。"
         },
         {
-          "sentence": "In emerging economies facing high interest rates, limited public budgets and competing infrastructure needs, it could determine what was built.",
-          "translation": "但在新興經濟體，面對高利率、有限的公共預算以及相互競爭的基礎設施需求時，這就可能決定了最終會建造哪種電廠。"
+          "sentence": "As millions of people lose weight while taking these medications, they may need to replace clothing that no longer fits — and the \"Ozempic effect\" is potentially creating a spending boom.",
+          "translation": "隨著數百萬人在服用這些藥物後體重減輕，他們可能需要更換不再合身的衣物——而這種『Ozempic效應』潛在地創造了一波消費熱潮。"
         },
         {
-          "sentence": "That disadvantage has now largely disappeared.",
-          "translation": "如今，這個劣勢已大致消失了。"
+          "sentence": "Victoria's Secret appears to be reaping some of the benefits of that shift.",
+          "translation": "維多利亞的秘密似乎正在從這項轉變中獲取部分好處。"
         },
         {
-          "sentence": "According to a new Ember analysis, a solar plant can now require less upfront investment than a coal or gas plant for the same amount of electricity delivered.",
-          "translation": "根據Ember的最新分析，太陽能電廠現在所需的「前期投資」，甚至比提供相同電量的燃煤或燃氣電廠還要少。"
+          "sentence": "Changes in body size and shape can require people to replace underwear, bras and other intimate apparel, which is an obvious benefit for lingerie retailers like Victoria's Secret.",
+          "translation": "身體尺寸和形狀的改變，可能需要人們更換內褲、胸罩及其他貼身衣物，這對像維多利亞的秘密這樣的內衣零售商來說，是一個顯而易見的利多。"
         },
         {
-          "sentence": "A decade ago, solar could require up to five times as much.",
-          "translation": "十年前，太陽能所需的初期投入可能是其五倍之多。"
-        },
-        {
-          "sentence": "This is not another claim that solar has become cheaper on a lifetime basis.",
-          "translation": "這並不是在說太陽能的「生命週期成本」變得更便宜了。"
-        },
-        {
-          "sentence": "That happened years ago.",
-          "translation": "那是多年前就已經發生的事了。"
-        },
-        {
-          "sentence": "It is a more fundamental tipping point: solar is now competing with fossil fuels before the first tonne of coal or cubic meter of gas is purchased.",
-          "translation": "這是一個更為根本的「轉捩點」：太陽能現在甚至在第一噸煤炭或第一立方公尺天然氣被購買之前，就已經能與化石燃料競爭了。"
-        },
-        {
-          "sentence": "Comparisons between power technologies are often distorted by nameplate capacity.",
-          "translation": "不同發電技術之間的比較，常常會因為「額定容量」而失真。"
-        },
-        {
-          "sentence": "One megawatt of solar does not produce the same annual electricity as one megawatt of gas, because the sun does not shine continuously.",
-          "translation": "一兆瓦的太陽能發電，並不能產生與一兆瓦燃氣發電相同的年發電量，因為太陽並非持續照射。"
-        },
-        {
-          "sentence": "Ember therefore compares the capital required to deliver the same quantity of electricity rather than simply matching the number printed on the generator.",
-          "translation": "因此，Ember比較的是提供相同電量所需的資本投入，而不是單純比對發電機上標示的數字。"
-        },
-        {
-          "sentence": "That is the economically relevant comparison.",
-          "translation": "這才是具有經濟意義的比較方式。"
-        },
-        {
-          "sentence": "In the past, solar needed considerably more installed capacity to produce the same annual output, while solar modules themselves were far more expensive.",
-          "translation": "過去，太陽能需要顯著更多的「裝置容量」才能產生相同的年發電量，同時太陽能模組本身也昂貴許多。"
-        },
-        {
-          "sentence": "The resulting capital burden created a simple argument for fossil fuels: build the cheaper plant now and pay for fuel later.",
-          "translation": "由此產生的「資本負擔」為化石燃料創造了一個簡單的論點：現在建造更便宜的電廠，燃料費用以後再付。"
-        },
-        {
-          "sentence": "Mass manufacturing has dismantled that argument.",
-          "translation": "大規模製造已經徹底瓦解了這個論點。"
-        },
-        {
-          "sentence": "Solar PV's total installed cost has fallen by 87% since 2010, according to IRENA.",
-          "translation": "根據國際再生能源機構（IRENA）的數據，自2010年以來，太陽能光電的「總安裝成本」已下降了87%。"
-        },
-        {
-          "sentence": "Module production has become a vast, standardized industrial process.",
-          "translation": "模組生產已成為一個龐大且標準化的工業流程。"
-        },
-        {
-          "sentence": "Efficiency has improved, supply chains have expanded and installation experience has accumulated across almost every major market.",
-          "translation": "效率不斷提升，「供應鏈」也隨之擴展，並且在幾乎所有主要市場都累積了豐富的安裝經驗。"
-        },
-        {
-          "sentence": "Solar's capital profile has not changed, it still requires most expenditure upfront.",
-          "translation": "太陽能的「資本結構」並未改變，它仍然需要大部分的「前期支出」。"
-        },
-        {
-          "sentence": "The amount of capital required has.",
-          "translation": "只是所需的資本總額已經大幅降低了。"
+          "sentence": "Coupled with the fact that losing weight is associated with feeling more sexually attractive, according to Duke University Medical Center researchers, it makes even more sense why Victoria's Secret is seeing sales skyrocket.",
+          "translation": "根據杜克大學醫學中心研究人員的說法，減重與感覺自己更有性吸引力有關，這兩者結合起來，讓維多利亞的秘密銷售額飆升的原因更為合理。"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Is Procter & Gamble Stock Underperforming the Nasdaq?",
+      "title": "Everything I Learned from My Hot Chart Summer, and How My 21 Stocks Picks Have Performed.",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-stock-underperforming-nasdaq-171921912.html",
-      "level1_blind": {
-        "text": "Valued at a market cap of $343.4 billion, The Procter & Gamble Company (PG) is one of the world's largest consumer goods companies, selling a broad portfolio of everyday household, personal care, health, beauty, and grooming products in about 180 countries and territories. The Cincinnati, Ohio-based company has built its business around globally recognized brands such as Tide, Pampers, Gillette, Head & Shoulders, Pantene, Olay, Oral-B, Always, Dawn, Bounty, and Crest.\n\nCompanies worth $200 billion or more are typically classified as \"mega-cap stocks,\" and PG fits the label perfectly, with its market cap exceeding this threshold, underscoring its size, influence, and dominance within the household & personal products industry. The company's scale, powerful brands, extensive distribution network, and consistent product innovation give it a formidable position in the global fast-moving consumer goods industry.\n\nJeff Bezos' Heartfelt Tribute to Dolly Parton Drew Brutal Backlash: 'Nobody Wanted to Hear This From You' — He Once Gave Her $100 Million for Charity\n\nWarren Buffett's Granddaughter Says He Disowned Her and Twin Sister in a Letter —'I Have Not Emotionally or Legally Adopted You as a Grandchild…'\n\nDespite its notable strength, this personal care company has dipped 14.2% from its 52-week high of $167.25, reached on Feb. 27. Moreover, shares of PG have fallen 1.6% over the past three months, notably underperforming the Nasdaq Composite's ($NASX) 2% fall during the same time frame.\n\nIn the longer term, PG has declined 7.8% over the past 52 weeks, lagging NASX's 21.6% uptick over the same time period. Moreover, on a YTD basis, shares of PG are up marginally, compared to the index's 13.6% rise.\n\nTo confirm its bearish trend, PG has been trading below its 200-day moving average since mid-March. However, it has recently started trading above its 50-day moving average since late May.\n\nOn Aug. 4, PG shares jumped 2.1% after the company announced a definitive agreement to acquire Thorne, a science-backed health and wellness company, from L Catterton's Flagship Fund. The acquisition marks an important expansion of P&G's Personal Health Care business, strengthening its foothold in the fast-growing premium wellness and personalized health markets."
-      },
+      "link": "https://finance.yahoo.com/markets/stocks/articles/everything-learned-hot-chart-summer-133002092.html",
+      "level1_blind": "If you had told me at the beginning of May that I would spend part of my summer scanning thousands of stock charts every morning, writing daily stock analysis, and putting my technical reputation on the line across 21 individual picks, I would have been very skeptical.\n\nAs a veteran portfolio manager, my career has been defined by viewing the investing world from 30,000 feet. I've spent decades focused on asset allocation, macro risk defense, and helping self-directed investors navigate volatile markets.\n\nJeff Bezos' Heartfelt Tribute to Dolly Parton Drew Brutal Backlash: 'Nobody Wanted to Hear This From You' — He Once Gave Her $100 Million for Charity\n\nA $100 Billion Buildout In Louisiana Is Planned for Starship. What This Means for SPCX Stock.\n\nI am, at my core, a portfolio constructor. In fact, when people ask me what I do for a living, I occasionally respond \\",
       "level2_keywords": [
         {
-          "word": "market cap",
-          "ipa": "/ˈmɑːrkɪt kæp/",
-          "meaning": "市值 (一家公司所有流通股的總價值)",
-          "example": "「台積電的市值在全球半導體產業中名列前茅。」"
+          "word": "semiconductor",
+          "ipa": "",
+          "meaning": "晶體材料",
+          "example": "晶體材料對於新一代的電子设备至關重要"
         },
         {
-          "word": "consumer goods",
-          "ipa": "/kənˈsuːmər ɡʊdz/",
-          "meaning": "消費性商品 (直接供消費者使用的產品，如日用品、食品等)",
-          "example": "「寶僑是全球最大的消費性商品公司之一。」"
+          "word": "export controls",
+          "ipa": "",
+          "meaning": "出口管制",
+          "example": "美國政府對於對外出口的晶體材料管制非常嚴格"
         },
         {
-          "word": "underperforming",
-          "ipa": "/ˌʌndərpərˈfɔːrmɪŋ/",
-          "meaning": "表現不佳/落後大盤 (指某資產或股票的表現不如市場平均或同類資產)",
-          "example": "「這支股票今年表現不佳，遠遠落後於整體科技股大盤。」"
+          "word": "rally",
+          "ipa": "",
+          "meaning": "短暫的上漲",
+          "example": "市場在短暫的上漲後，開始回歸正常的趨勢"
         },
         {
-          "word": "moving average",
-          "ipa": "/ˈmuːvɪŋ ˈævərɪdʒ/",
-          "meaning": "移動平均線 (技術分析指標，用於平滑股價數據，顯示趨勢)",
-          "example": "「股價跌破200日移動平均線，通常被視為看跌訊號。」"
+          "word": "guidance",
+          "ipa": "",
+          "meaning": "指引",
+          "example": "政府的政策指引對於經濟的發展至關重要"
         },
         {
-          "word": "acquisition",
-          "ipa": "/ˌækwɪˈzɪʃən/",
-          "meaning": "收購案 (一家公司購買另一家公司的行為)",
-          "example": "「這家科技巨頭最近完成了一項重要的軟體公司收購案。」"
+          "word": "SPCX",
+          "ipa": "",
+          "meaning": "SPCX 股票",
+          "example": "SPCX 股票的價格受到 Starship 建造的影響"
         }
       ],
-      "level2_context": "各位同學，這篇新聞討論的是全球消費性商品巨頭寶僑（P&G）的股價表現，以及它近期的一項收購案。我們可以看到，儘管寶僑擁有強大的品牌組合和市場主導地位，但其股價在不同時間段內卻持續落後於以科技股為主的那斯達克綜合指數。這反映了一個常見的現象：像寶僑這類穩定、成熟的民生必需品公司，雖然在市場波動時具有防禦性，但在牛市期間，其成長動能往往難以與科技股的爆發力匹敵。新聞中也提到寶僑收購了Thorne這家健康與保健公司，這項策略性舉動顯示寶僑正積極拓展其在高成長潛力的高端健康市場版圖，試圖在不斷變化的消費趨勢中尋找新的成長引擎，以多元化其傳統的家用產品業務。",
+      "level2_context": "\n\n這篇文章的作者是一位經濟學家，他在文章中提到，自己在經濟學界的評判中，受到的壓力非常大。\n\n他也提到，自己在經濟學界的評判中，受到的壓力非常大。\n\n這篇文章的作者是一位經濟學家，他在文章中提到，自己在經濟學界的評判中，受到的壓力非常大。\n\n",
       "level3_translation": [
         {
-          "sentence": "Valued at a market cap of $343.4 billion, The Procter & Gamble Company (PG) is one of the world's largest consumer goods companies, selling a broad portfolio of everyday household, personal care, health, beauty, and grooming products in about 180 countries and territories.",
-          "translation": "「寶僑公司（PG）市值高達3434億美元，是全球最大的消費性商品公司之一，在約180個國家和地區銷售廣泛的日常家用、個人護理、健康、美容和美妝產品。」"
+          "sentence": "If you had told me at the beginning of May that I would spend part of my summer scanning thousands of stock charts every morning, writing daily stock analysis, and putting my technical reputation on the line across 21 individual picks, I would have been very skeptical.",
+          "translation": ""
         },
         {
-          "sentence": "The Cincinnati, Ohio-based company has built its business around globally recognized brands such as Tide, Pampers, Gillette, Head & Shoulders, Pantene, Olay, Oral-B, Always, Dawn, Bounty, and Crest.",
-          "translation": "「這家總部位於俄亥俄州辛辛那提的公司，其業務圍繞著全球知名的品牌建立，例如：汰漬、幫寶適、吉列、海倫仙度絲、潘婷、歐蕾、歐樂B、好自在、黎明、Bounty和Crest。」"
-        },
-        {
-          "sentence": "Companies worth $200 billion or more are typically classified as \"mega-cap stocks,\" and PG fits the label perfectly, with its market cap exceeding this threshold, underscoring its size, influence, and dominance within the household & personal products industry.",
-          "translation": "「市值達2000億美元或以上的公司通常被歸類為『巨型股』，而寶僑的市值超越這個門檻，完美符合這個稱號，凸顯了它在家庭和個人用品產業中的規模、影響力與主導地位。」"
-        },
-        {
-          "sentence": "The company's scale, powerful brands, extensive distribution network, and consistent product innovation give it a formidable position in the global fast-moving consumer goods industry.",
-          "translation": "「該公司的規模、強勢品牌、廣泛的經銷網絡以及持續的產品創新，使其在全球快速消費品產業中佔據了舉足輕重的地位。」"
+          "sentence": "As a veteran portfolio manager, my career has been defined by viewing the investing world from 30,000 feet. I've spent decades focused on asset allocation, macro risk defense, and helping self-directed investors navigate volatile markets.",
+          "translation": ""
         },
         {
           "sentence": "Jeff Bezos' Heartfelt Tribute to Dolly Parton Drew Brutal Backlash: 'Nobody Wanted to Hear This From You' — He Once Gave Her $100 Million for Charity",
-          "translation": "「傑夫·貝佐斯對桃莉·巴頓的真情致敬引發了嚴厲反彈：『沒人想聽你說這些』——他曾捐贈她1億美元用於慈善。」"
+          "translation": ""
         },
         {
-          "sentence": "Warren Buffett's Granddaughter Says He Disowned Her and Twin Sister in a Letter —'I Have Not Emotionally or Legally Adopted You as a Grandchild…'",
-          "translation": "「華倫·巴菲特的孫女表示，他曾在一封信中否認她和她的雙胞胎姊妹是他的家人——『我從未在情感上或法律上將你們視為我的孫輩…』」"
+          "sentence": "A $100 Billion Buildout In Louisiana Is Planned for Starship. What This Means for SPCX Stock.",
+          "translation": ""
         },
         {
-          "sentence": "Despite its notable strength, this personal care company has dipped 14.2% from its 52-week high of $167.25, reached on Feb. 27.",
-          "translation": "「儘管寶僑擁有顯著的實力，這家個人護理公司股價已從2月27日觸及的52週高點167.25美元下跌了14.2%。」"
-        },
-        {
-          "sentence": "Moreover, shares of PG have fallen 1.6% over the past three months, notably underperforming the Nasdaq Composite's ($NASX) 2% fall during the same time frame.",
-          "translation": "「此外，寶僑的股價在過去三個月下跌了1.6%，明顯落後於那斯達克綜合指數（$NASX）同期2%的跌幅。」"
-        },
-        {
-          "sentence": "In the longer term, PG has declined 7.8% over the past 52 weeks, lagging NASX's 21.6% uptick over the same time period.",
-          "translation": "「從長期來看，寶僑在過去52週下跌了7.8%，落後於那斯達克指數同期21.6%的漲幅。」"
-        },
-        {
-          "sentence": "Moreover, on a YTD basis, shares of PG are up marginally, compared to the index's 13.6% rise.",
-          "translation": "「此外，從年初至今（YTD）來看，寶僑股價僅微幅上漲，而那斯達克指數則上漲了13.6%。」"
-        },
-        {
-          "sentence": "To confirm its bearish trend, PG has been trading below its 200-day moving average since mid-March.",
-          "translation": "「為確認其空頭趨勢，寶僑股價自三月中旬以來一直交易在其200日移動平均線下方。」"
-        },
-        {
-          "sentence": "However, it has recently started trading above its 50-day moving average since late May.",
-          "translation": "「然而，自五月下旬以來，其股價最近已開始交易在50日移動平均線上方。」"
-        },
-        {
-          "sentence": "On Aug. 4, PG shares jumped 2.1% after the company announced a definitive agreement to acquire Thorne, a science-backed health and wellness company, from L Catterton's Flagship Fund.",
-          "translation": "「8月4日，寶僑股價上漲2.1%，此前該公司宣布與L Catterton的旗艦基金達成最終協議，將收購Thorne這家以科學為基礎的健康與保健公司。」"
-        },
-        {
-          "sentence": "The acquisition marks an important expansion of P&G's Personal Health Care business, strengthening its foothold in the fast-growing premium wellness and personalized health markets.",
-          "translation": "「這項收購案標誌著寶僑個人健康護理業務的重要擴張，鞏固了其在快速成長的高端保健和個人化健康市場中的立足點。」"
+          "sentence": "I am, at my core, a portfolio constructor. In fact, when people ask me what I do for a living, I occasionally respond \\",
+          "translation": ""
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "今日台股大戶籌碼動向揭示了一場精密的跨市場資金佈局。外資與投信、自營商同步大舉敲進聯電（2303），其中美商高盛更是一手買超逾3,100萬股，顯示對其未來展望的強烈信心。這與稍早發布的「太陽能已跨越關鍵經濟轉折點」國際新聞形成巧妙呼應。該新聞指出太陽能發電的初期投資成本已低於傳統化石燃料，預示著全球太陽能產業將加速擴張。聯電作為成熟製程晶圓代工龍頭，正是太陽能逆變器、電源管理IC等關鍵零組件的主要供應商。大戶此舉極可能是提前洞悉此一宏觀趨勢，預判太陽能產業的爆發將帶動成熟製程晶片需求，進而推升聯電的營運動能，進行策略性卡位。與此同時，記憶體族群如華邦電（2344）和南亞科（2408）則遭到外資、投信與自營商一致性的大幅賣超，摩根大通更領銜拋售華邦電，顯示市場對記憶體景氣復甦的疑慮仍深，資金正從此板塊撤出。此外，外資賣超AI伺服器概念股緯創（3231），也可能反映了部分資金從前期漲幅較大的AI概念股中獲利了結，轉向佈局具備新興產業趨勢支撐的半導體成熟製程領域，形成一場清晰的產業輪動與資金再配置。"
+    "market_connection": "在金融市場中，股市和國際財經新聞之間的關聯性是非常重要的。股市的行為與國際財經新聞的 headline news 有著密切的關係。當國際財經新聞發布關於油價、經濟等重要信息時，股市的行為可能會受到影響。例如，當油價上升時，股市可能會因為油價的上升而上升。相反，當油價下降時，股市可能會因為油價的下降而下降。因此，了解國際財經新聞的 headline news 是對於投資者和金融專業人士的重要資訊。"
   }
 }
