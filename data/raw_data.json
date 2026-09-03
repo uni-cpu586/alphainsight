@@ -1,378 +1,378 @@
 {
-  "date": "2026-09-02",
-  "stock_market_date": "2026-09-01",
+  "date": "2026-09-03",
+  "stock_market_date": "2026-09-02",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "台化",
-          "ticker": "1326",
-          "net_buy_shares": 44300807
+          "stock_name": "台中銀",
+          "ticker": "2812",
+          "net_buy_shares": 28713904
         },
         {
           "rank": 2,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 39055497
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_buy_shares": 27227339
         },
         {
           "rank": 3,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 24546320
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 17737382
         },
         {
           "rank": 4,
-          "stock_name": "台泥",
-          "ticker": "1101",
-          "net_buy_shares": 22642097
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 14893514
         },
         {
           "rank": 5,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 18961772
+          "stock_name": "遠東銀",
+          "ticker": "2845",
+          "net_buy_shares": 13895423
         },
         {
           "rank": 6,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_buy_shares": 17373469
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 13316764
         },
         {
           "rank": 7,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 16176946
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 12577408
         },
         {
           "rank": 8,
-          "stock_name": "台塑",
-          "ticker": "1301",
-          "net_buy_shares": 15600036
+          "stock_name": "盟立",
+          "ticker": "2464",
+          "net_buy_shares": 11634240
         },
         {
           "rank": 9,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 15290644
+          "stock_name": "國票金",
+          "ticker": "2889",
+          "net_buy_shares": 11091589
         },
         {
           "rank": 10,
-          "stock_name": "台中銀",
-          "ticker": "2812",
-          "net_buy_shares": 15177248
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 10295835
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -78072135
-        },
-        {
-          "rank": 2,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -56231559
-        },
-        {
-          "rank": 3,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -38741394
-        },
-        {
-          "rank": 4,
           "stock_name": "聯電",
           "ticker": "2303",
-          "net_sell_shares": -33937241
-        },
-        {
-          "rank": 5,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -14643154
-        },
-        {
-          "rank": 6,
-          "stock_name": "陽明",
-          "ticker": "2609",
-          "net_sell_shares": -14370596
-        },
-        {
-          "rank": 7,
-          "stock_name": "新纖",
-          "ticker": "1409",
-          "net_sell_shares": -12110979
-        },
-        {
-          "rank": 8,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -11703229
-        },
-        {
-          "rank": 9,
-          "stock_name": "中纖",
-          "ticker": "1718",
-          "net_sell_shares": -11041047
-        },
-        {
-          "rank": 10,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_sell_shares": -9517830
-        }
-      ],
-      "trust_buy": [
-        {
-          "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 11099147
+          "net_sell_shares": -45119850
         },
         {
           "rank": 2,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 7811723
+          "stock_name": "台泥",
+          "ticker": "1101",
+          "net_sell_shares": -24368396
         },
         {
           "rank": 3,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 7383252
-        },
-        {
-          "rank": 4,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_buy_shares": 5692688
-        },
-        {
-          "rank": 5,
-          "stock_name": "遠東銀",
-          "ticker": "2845",
-          "net_buy_shares": 4399000
-        },
-        {
-          "rank": 6,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_buy_shares": 4380000
-        },
-        {
-          "rank": 7,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 4339000
-        },
-        {
-          "rank": 8,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_buy_shares": 4182687
-        },
-        {
-          "rank": 9,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 4095543
-        },
-        {
-          "rank": 10,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 3757010
-        }
-      ],
-      "trust_sell": [
-        {
-          "rank": 1,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -6417229
-        },
-        {
-          "rank": 2,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_sell_shares": -4297000
-        },
-        {
-          "rank": 3,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -4130691
-        },
-        {
-          "rank": 4,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_sell_shares": -3004453
-        },
-        {
-          "rank": 5,
-          "stock_name": "台中銀",
-          "ticker": "2812",
-          "net_sell_shares": -2828000
-        },
-        {
-          "rank": 6,
-          "stock_name": "欣興",
-          "ticker": "3037",
-          "net_sell_shares": -2732677
-        },
-        {
-          "rank": 7,
-          "stock_name": "合庫金",
-          "ticker": "5880",
-          "net_sell_shares": -2271743
-        },
-        {
-          "rank": 8,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_sell_shares": -1580938
-        },
-        {
-          "rank": 9,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_sell_shares": -1567583
-        },
-        {
-          "rank": 10,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -1518000
-        }
-      ],
-      "dealer_buy": [
-        {
-          "rank": 1,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_buy_shares": 7652000
-        },
-        {
-          "rank": 2,
-          "stock_name": "瑞軒",
-          "ticker": "2489",
-          "net_buy_shares": 2681000
-        },
-        {
-          "rank": 3,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 1764994
+          "net_sell_shares": -23176806
         },
         {
           "rank": 4,
-          "stock_name": "遠東銀",
-          "ticker": "2845",
-          "net_buy_shares": 1275000
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_sell_shares": -17613253
         },
         {
           "rank": 5,
-          "stock_name": "神達",
-          "ticker": "3706",
-          "net_buy_shares": 837998
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -16718319
         },
         {
           "rank": 6,
-          "stock_name": "長興",
-          "ticker": "1717",
-          "net_buy_shares": 619995
+          "stock_name": "和桐",
+          "ticker": "1714",
+          "net_sell_shares": -15776502
         },
         {
           "rank": 7,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_buy_shares": 608000
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -11986983
         },
         {
           "rank": 8,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_buy_shares": 431000
+          "stock_name": "文曄",
+          "ticker": "3036",
+          "net_sell_shares": -9984360
         },
         {
           "rank": 9,
           "stock_name": "京元電子",
           "ticker": "2449",
-          "net_buy_shares": 402557
+          "net_sell_shares": -9948994
         },
         {
           "rank": 10,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_buy_shares": 392910
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_sell_shares": -8710501
+        }
+      ],
+      "trust_buy": [
+        {
+          "rank": 1,
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 9172304
+        },
+        {
+          "rank": 2,
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 6935084
+        },
+        {
+          "rank": 3,
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_buy_shares": 6582800
+        },
+        {
+          "rank": 4,
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 5673290
+        },
+        {
+          "rank": 5,
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 5258879
+        },
+        {
+          "rank": 6,
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 5072208
+        },
+        {
+          "rank": 7,
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_buy_shares": 4093396
+        },
+        {
+          "rank": 8,
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 3529537
+        },
+        {
+          "rank": 9,
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_buy_shares": 3306000
+        },
+        {
+          "rank": 10,
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 3008287
+        }
+      ],
+      "trust_sell": [
+        {
+          "rank": 1,
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_sell_shares": -4348839
+        },
+        {
+          "rank": 2,
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -2800000
+        },
+        {
+          "rank": 3,
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -2650763
+        },
+        {
+          "rank": 4,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -2520689
+        },
+        {
+          "rank": 5,
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_sell_shares": -2119113
+        },
+        {
+          "rank": 6,
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -1715966
+        },
+        {
+          "rank": 7,
+          "stock_name": "欣興",
+          "ticker": "3037",
+          "net_sell_shares": -1360727
+        },
+        {
+          "rank": 8,
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -1239305
+        },
+        {
+          "rank": 9,
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_sell_shares": -1089000
+        },
+        {
+          "rank": 10,
+          "stock_name": "台達電",
+          "ticker": "2308",
+          "net_sell_shares": -1031102
+        }
+      ],
+      "dealer_buy": [
+        {
+          "rank": 1,
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 2628693
+        },
+        {
+          "rank": 2,
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 1128736
+        },
+        {
+          "rank": 3,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 519422
+        },
+        {
+          "rank": 4,
+          "stock_name": "光寶科",
+          "ticker": "2301",
+          "net_buy_shares": 453517
+        },
+        {
+          "rank": 5,
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 430673
+        },
+        {
+          "rank": 6,
+          "stock_name": "晶豪科",
+          "ticker": "3006",
+          "net_buy_shares": 397400
+        },
+        {
+          "rank": 7,
+          "stock_name": "欣興",
+          "ticker": "3037",
+          "net_buy_shares": 369099
+        },
+        {
+          "rank": 8,
+          "stock_name": "亞光",
+          "ticker": "3019",
+          "net_buy_shares": 360782
+        },
+        {
+          "rank": 9,
+          "stock_name": "聯發科",
+          "ticker": "2454",
+          "net_buy_shares": 273050
+        },
+        {
+          "rank": 10,
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 252000
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -3368279
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_sell_shares": -723203
         },
         {
           "rank": 2,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -2374796
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -643033
         },
         {
           "rank": 3,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -1837000
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_sell_shares": -614757
         },
         {
           "rank": 4,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -1546000
+          "stock_name": "瑞軒",
+          "ticker": "2489",
+          "net_sell_shares": -571950
         },
         {
           "rank": 5,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -349138
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_sell_shares": -539095
         },
         {
           "rank": 6,
-          "stock_name": "國喬",
-          "ticker": "1312",
-          "net_sell_shares": -329000
+          "stock_name": "緯穎",
+          "ticker": "6669",
+          "net_sell_shares": -436400
         },
         {
           "rank": 7,
-          "stock_name": "晶豪科",
-          "ticker": "3006",
-          "net_sell_shares": -297952
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -383047
         },
         {
           "rank": 8,
-          "stock_name": "大聯大",
-          "ticker": "3702",
-          "net_sell_shares": -259817
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_sell_shares": -380000
         },
         {
           "rank": 9,
-          "stock_name": "中纖",
-          "ticker": "1718",
-          "net_sell_shares": -220000
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_sell_shares": -361624
         },
         {
           "rank": 10,
-          "stock_name": "萬海",
-          "ticker": "2615",
-          "net_sell_shares": -217100
+          "stock_name": "大聯大",
+          "ticker": "3702",
+          "net_sell_shares": -349000
         }
       ]
     },
@@ -380,26 +380,26 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "台化",
-        "shares": 15505282
+        "target": "台中銀",
+        "shares": 10049866
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "元大台灣50",
-        "shares": 3060800
+        "target": "華邦電",
+        "shares": 1051477
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "聯電",
-        "shares": 4994616
+        "target": "台新新光金",
+        "shares": 4127536
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "力積電",
-        "shares": 23421640
+        "target": "聯電",
+        "shares": 13535955
       }
     ]
   },
@@ -415,21 +415,21 @@
     },
     {
       "id": "news_2",
-      "title": "Firearms retailer files Chapter 11 bankruptcy as gun sales drop",
+      "title": "Costco shuts down key service without notice",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/firearms-retailer-files-chapter-11-153300921.html",
-      "summary": "Firearms retailer files Chapter 11 bankruptcy as gun sales drop",
-      "full_text": "Guns and ammunition retailers have faced financial distress, leading to store closings and bankruptcy filings as sales have fallen significantly over the last two years.\n\nIndustry experts believe some of the decline in sales might have resulted from buyers delaying purchases to take advantage of the reduction in the National Firearms Act tax from $200 to $0 beginning Jan. 1, 2026, the National Rifle Association's American Rifleman reported. The decline of sales, however, has continued in 2026.\n\nFinancial issues had led firearms and ammunition retailer White Oak Armory LLC to file for Chapter 11 bankruptcy to reorganize its business, owing a disputed tax debt to the Tennessee Department of Revenue.\n\nWhite Oak Armory filed its petition in the U.S. Bankruptcy Court for the Eastern District of Tennessee on Aug. 24, listing $500,000 to $1 million in assets and liabilities. The petition did not reveal whether the company's sales had declined, and the debtor did not give a specific reason for filing for bankruptcy in its petition.\n\nThe retailer was not immediately available for comment. The firearms dealer's website and telephone were still operating on Aug. 30.\n\nThe Cleveland, Tenn.-based debtor's largest creditor is the Tennessee Department of Revenue, owed $600,000 in disputed debt. The firearms and ammunition dealer also listed Cleveland Utilities and Spectrum as creditors but did not include the amounts of debt owed to each creditor.\n\nWhite Oak Armory's website did not have any handgun, rifle or shotgun inventory available for sale on Aug. 30. The website also did not have any ammunition, optics or gear for sale. Some parts and accessories were available, however.\n\nFirearms sales declined 4.1% to about 14.6 million in 2025, compared to over 15.2 million in 2024, according to the National Shooting Sports Foundation, the National Rifle Association's American Rifleman reported.",
-      "published": "2026-08-31T15:33:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-shuts-down-key-no-011218190.html",
+      "summary": "Costco shuts down key service without notice",
+      "full_text": "Costco did not even sell merchandise on its website until 1998, and in those days, the selection was very limited.\n\nSure, Costco Travel lived there, but the website was more about advertising ancillary services such as TurboTax access than about selling anything to members.\n\nIn recent years, however, Costco has offered a greatly expanded selection, and it allows members to use Instacart and Shipt to order select items directly from its warehouses.\n\nIt had also been building on that with its digital-only program, Costco Next, which lets members access items the warehouse club does not stock. It's not a new service; it has technically been around since 2017. But Costco does not promote the offering, and it's something I, and many other members, did not know about.\n\n\"Access to Costco Next store fronts is no longer available. Please refer to the list below for contact information for vendors with active return policies. For eligible returns and warranty inquiries, contact the vendor directly,\" the company shared.\n\nThat was followed by a long list of company names with their contact information.\n\nA third-party marketplace like the model pioneered by Amazon, Costco Next offered an expanded selection of items that never make it into a Costco warehouse. The program, however, differed from Amazon's approach in important ways.\n\nCostco Next allowed the retailer to offer more merchandise, but have it shipped directly from partners. The warehouse club, however, is still careful with its merchandise, and its buyers worked with partner retailers.",
+      "published": "2026-09-02T01:12:18Z"
     },
     {
       "id": "news_3",
-      "title": "161-year-old kids clothing giant closes 29 more stores",
+      "title": "Is Union Pacific Stock Outperforming the S&P 500?",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/161-old-kids-clothing-giant-171700918.html",
-      "summary": "161-year-old kids clothing giant closes 29 more stores",
-      "full_text": "As parents continue to feel pressures on their household budgets, increasingly skipping specialty clothing stores in favor of one-stop shopping at big-box giants like Target and Walmart, another children's apparel retailer is closing stores.\n\nIndustry data confirms this shift, revealing that mass merchants now capture 80% of planned spending in the back-to-school category, according to Deloitte.\n\nThis shift in consumer spending habits, paired with the shrinking malls data, including projection from Capital One Shopping suggesting that up to 87% of traditional shopping malls could close over the next decade, has forced a number of mall clothing retailers to shut a number of underperforming locations.\n\nA mall staple The Children's Place has shuttered hundreds of locations in recent years as part of a major restructuring plan to shed costly real estate, and legacy specialty chain, Carter's, has started its wave of planned closures in 2025.\n\nFounded in 1865, Carter's grew from a modest Massachusetts knitting mill into North America's largest children's clothing maker by continually expanding its footprint and acquiring legacy brands like OshKosh B'gosh.\n\nOver 161 years of its existence, Carter's nurtured generations of parent loyalty with its offering and prices. Now, the kids' clothing giant is strategically closing certain locations in an effort to stay at the top of its game.\n\nDuring the first two quarters of fiscal 2026, Carter's opened 4 stores and closed 29 stores in the United States, according to its Form 10-Q filing with the Securities and Exchange Commission (SEC).\n\nAs of July 4, 2026, Carter's had 1,042 company-operated retail stores in North America.",
-      "published": "2026-08-31T17:17:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/union-pacific-stock-outperforming-p-153756706.html",
+      "summary": "Is Union Pacific Stock Outperforming the S&P 500?",
+      "full_text": "Omaha, Nebraska-based Union Pacific Corporation (UNP) operates in the railroad business. Valued at $178.6 billion by market cap, it connects 23 states in the western two-thirds of the U.S. by rail, providing a critical link in the global supply chain, hauling a variety of goods, including agricultural, automotive, and chemical products.\n\nCompanies worth $10 billion or more are generally described as \"large-cap stocks,\" and UNP definitely fits that description, with its market cap exceeding this threshold, reflecting its substantial size, influence, and dominance in the railroads industry. UNP's expansive North American network, including its stake in Mexico's Ferromex and strong cross-border freight business, gives it a distinct competitive advantage and supports a diverse customer base. Its long-standing reputation for reliability has built strong brand loyalty and long-term contracts, driving stable revenues and long-term growth.\n\nBill Gates Says 'We Need Time to Prepare' for an Economic Upheaval — Especially the $20-an-Hour Workers Being Replaced by $10-an-Hour Robots\n\nDespite its notable strength, UNP slipped 5.7% from its 52-week high of $315.99, achieved on Jul. 23. Over the past three months, UNP stock gained 13%, outperforming the S&P 500 Index's ($SPX) marginal gains during the same time frame.\n\nShares of UNP rose 28.7% on a YTD basis and climbed 33.2% over the past 52 weeks, outperforming SPX's YTD gains of 11.5% and 18.2% returns over the last year.\n\nTo confirm the bullish trend, UNP has been trading above its 200-day moving average since late April, with slight fluctuations. The stock has been trading above its 50-day moving average since late November, 2025, with minor fluctuations.\n\nUNP outperformed market expectations by converting robust demand into growth through reliable operations and cost-efficiency. Additionally, strategic momentum advanced on the planned merger with Norfolk Southern Corporation (NSC) after securing an agreement to neutralize resistance from Canadian National.\n\nOn Jul. 23, UNP shares closed up more than 4% after reporting its Q2 results. Its adjusted EPS of $3.41 topped Wall Street expectations of $3.20. The company's revenue was $6.9 billion, exceeding Wall Street forecasts of $6.7 billion.",
+      "published": "2026-09-01T15:37:56Z"
     }
   ]
 }

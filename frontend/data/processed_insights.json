@@ -1,209 +1,119 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "stock_uncle_insight": {
-    "date_header": "9/2 法人與主力大戶主要買超股票",
+    "date_header": "9/3 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃金融與傳產龍頭，資金大避險",
+        "group_title": "1. 外資大戶：狂掃金融股，避險兼卡位",
         "stocks": [
           {
-            "stock_name": "台化",
-            "ticker": "1326",
-            "description": "肖年仔，外資狂掃台化4.43萬張，這擺明是把錢從高風險的電子股抽出來，找傳產龍頭避險，穩穩賺就好。"
+            "stock_name": "台中銀",
+            "ticker": "2812",
+            "description": "肖年仔，你看這台中銀，外資大戶一天就狂掃了2.87萬張，美商高盛更是直接買了超過1萬張，這擺明了是把金融股當避風港，利率高檔，金融股穩穩賺，外資在避險啦！"
           },
           {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "大買3.91萬張0050，外資也怕死，市場不確定性高，買ETF避險是基本操作，資金停泊的意味濃厚。"
-          },
-          {
-            "stock_name": "台新新光金",
-            "ticker": "2887",
-            "description": "買超2.45萬張，金融股是外資的避風港，穩健配息，在這種盤勢下特別受青睞。"
-          },
-          {
-            "stock_name": "台泥",
-            "ticker": "1101",
-            "description": "買超2.26萬張，傳產龍頭有基本面，外資在找低基期、有價值的標的，不是隨便「黑白買」的。"
-          },
-          {
-            "stock_name": "凱基金",
-            "ticker": "2883",
-            "description": "買超1.89萬張，金融股持續吸金，外資在佈局，這不是短線「隔日沖」的玩法。"
-          },
-          {
-            "stock_name": "南茂",
-            "ticker": "8150",
-            "description": "買超1.73萬張，封測股被外資看上，可能是有特定訂單或評價面吸引力，但要小心是不是短線點火。"
+            "stock_name": "合庫金",
+            "ticker": "5880",
+            "description": "合庫金也沒放過，外資買超2.72萬張，這群老外就是看準了金控的穩定性，大盤震盪，錢往哪裡跑？當然是往這種『國家隊』概念的金融股跑啊！"
           },
           {
             "stock_name": "兆豐金",
             "ticker": "2886",
-            "description": "買超1.61萬張，金融股是外資的愛，穩定配息，在市場動盪時是很好的防禦性標的。"
+            "description": "兆豐金也被外資買了1.77萬張，這幾檔金控股都是外資的心頭好，不只避險，搞不好還在卡位明年的高殖利率行情，韭菜們別傻傻去追高科技股了。"
           },
           {
-            "stock_name": "台塑",
-            "ticker": "1301",
-            "description": "買超1.56萬張，塑化龍頭，外資在找價值股，這不是在「割韭菜」，是長線佈局。"
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "華邦電外資也買了1.48萬張，這檔記憶體股，外資雖然買，但投信跟自營商卻有買有賣，看起來有點像短線的黑白摸，沒那麼單純。"
           },
           {
-            "stock_name": "第一金",
-            "ticker": "2892",
-            "description": "買超1.53萬張，金融股持續被外資青睞，穩健的獲利能力是關鍵。"
-          },
-          {
-            "stock_name": "台中銀",
-            "ticker": "2812",
-            "description": "買超1.52萬張，連小型金控也被外資掃貨，顯示資金對金融股的偏好非常強烈。"
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "面板雙虎之一的友達，外資也買了1.02萬張，這可能是在賭面板景氣的谷底翻身，但這產業起伏大，肖年仔要小心接刀。"
           }
         ]
       },
       {
-        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，電子金融兩手抓",
+        "group_title": "2. 投信大戶（本土國家隊）：跟進金融，作帳行情啟動？",
         "stocks": [
-          {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "大買1.11萬張，外資在倒貨，投信卻在「接刀」，這是在作帳還是看好晶圓代工的評價面？肖年仔，這就是國家隊的風格。"
-          },
-          {
-            "stock_name": "中信金",
-            "ticker": "2891",
-            "description": "買超7.81千張，投信也愛金融，跟外資有志一同，穩健的標的是作帳的好選擇。"
-          },
           {
             "stock_name": "台新新光金",
             "ticker": "2887",
-            "description": "買超7.38千張，金融股是國家隊的避風港，穩穩的績效才能交差。"
+            "description": "本土投信這群國家隊，跟外資一樣，也是狂買金融股。台新新光金被買了9172張，元大投信更是直接買了4127張，這很明顯是投信在作帳，年底前要拉高淨值啦！"
           },
           {
-            "stock_name": "臻鼎-KY",
-            "ticker": "4958",
-            "description": "買超5.69千張，PCB龍頭，投信在佈局電子股，可能是看好下半年旺季效應。"
+            "stock_name": "永豐金",
+            "ticker": "2890",
+            "description": "永豐金也被投信買了6935張，這群本土基金經理人，就是喜歡這種穩健的標的，尤其是在大盤不穩的時候，抱金融股最安心，反正跌也跌不到哪去。"
           },
           {
-            "stock_name": "遠東銀",
-            "ticker": "2845",
-            "description": "買超4.39千張，小型金融股也被投信看上，這波金融股真的全面開花。"
-          },
-          {
-            "stock_name": "華通",
-            "ticker": "2313",
-            "description": "買超4.38千張，PCB族群持續被投信關注，電子股還是有機會，只是要挑對標的。"
-          },
-          {
-            "stock_name": "南亞",
-            "ticker": "1303",
-            "description": "買超4.33千張，塑化股也被投信買進，跟外資有點像，顯示資金在傳產也有佈局。"
-          },
-          {
-            "stock_name": "國泰金",
-            "ticker": "2882",
-            "description": "買超4.18千張，大型金控是投信的穩健選擇，作帳必備。"
+            "stock_name": "緯創",
+            "ticker": "3231",
+            "description": "緯創這檔AI概念股，投信還在買6582張，雖然買超金額沒金融股那麼大，但顯示他們對部分AI股還是有期待，可能是在等拉高出貨的機會。"
           },
           {
             "stock_name": "玉山金",
             "ticker": "2884",
-            "description": "買超4.09千張，投信買進金控，但外資卻有賣出玉山金，有點分歧，肖年仔要看清楚。"
-          },
-          {
-            "stock_name": "長榮航",
-            "ticker": "2618",
-            "description": "買超3.76千張，航空股旺季效應，投信在卡位，這波旅遊復甦題材還沒玩完。"
+            "description": "玉山金也買了5673張，投信跟外資一樣，對金融股的胃口真大，這波金融股的漲勢，背後就是這兩大咖在撐腰。"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：跟風避險與短線點火",
+        "group_title": "3. 內資主力與實戶：短線搏擊，記憶體與面板成焦點",
         "stocks": [
           {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "大買7.65千張，自營商也跟著買0050避險，這盤勢真的讓大家怕，資金都往ETF跑。"
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "自營商這群短線客，華邦電買了2628張，跟外資一樣看好記憶體？但別忘了投信有賣，這檔就是多空交戰，隔日沖跟鎖碼的戰場，肖年仔別亂衝。"
           },
           {
-            "stock_name": "瑞軒",
-            "ticker": "2489",
-            "description": "買超2.68千張，這檔冷門股被自營商點火，是不是有什麼內線消息？肖年仔，這種股要小心，可能「拉高出貨」。"
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "面板股群創也被自營商買了1128張，這跟外資買友達的邏輯有點像，都是在賭面板產業的復甦，但自營商的單子通常都跑得快，拉高出貨是常態。"
           },
           {
             "stock_name": "聯電",
             "ticker": "2303",
-            "description": "買超1.76千張，自營商也跟投信一樣在接聯電，跟外資對作，這場戲越來越精彩了。"
-          },
-          {
-            "stock_name": "遠東銀",
-            "ticker": "2845",
-            "description": "買超1.27千張，金融股是避險首選，自營商也來插一腳，大家都想分一杯羹。"
-          },
-          {
-            "stock_name": "神達",
-            "ticker": "3706",
-            "description": "買超0.84千張，這檔電子股被自營商買進，可能短線有題材，但量不大，要小心「隔日沖」。"
-          },
-          {
-            "stock_name": "長興",
-            "ticker": "1717",
-            "description": "買超0.62千張，傳產股也被自營商關注，這顯示市場資金流向多元，不是只看電子。"
-          },
-          {
-            "stock_name": "南茂",
-            "ticker": "8150",
-            "description": "買超0.61千張，封測股自營商也跟著買，跟外資有點同步，但量體小，可能只是短線操作。"
-          },
-          {
-            "stock_name": "華通",
-            "ticker": "2313",
-            "description": "買超0.43千張，PCB族群自營商也沒放過，這波電子股的資金輪動很明顯。"
-          },
-          {
-            "stock_name": "京元電子",
-            "ticker": "2449",
-            "description": "買超0.4千張，測試廠也被自營商買進，這檔也是電子股的邊緣題材，要看有沒有後續力道。"
-          },
-          {
-            "stock_name": "鴻海",
-            "ticker": "2317",
-            "description": "買超0.39千張，大牛股鴻海也有自營商買盤，可能是避險盤或是權證對沖，肖年仔別亂跟。"
+            "description": "聯電這檔晶圓代工，外資跟投信都在倒貨，結果自營商卻買了519張，這很可能是避險盤的對沖操作，或是看準短線跌深反彈，但大咖在賣，肖年仔別去接刀。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔避險與資金避風港（金融、傳產龍頭、ETF）",
-        "strategy_content": "肖年仔，你看外資大戶狂掃金融股和台化、台泥、台塑這些傳產龍頭，還大買0050，這擺明就是市場不確定性高，資金從高風險的電子股撤出來，找地方避風港。國際新聞那些消費性產業的破產潮，也讓大戶更傾向保守，把錢停泊在穩健的金融和大型權值股，或是直接買ETF避險，穩穩賺就好，不求大富大貴，只求不被「割韭菜」。"
+        "strategy_title": "策略一：高檔避險與資金避風港（金融股）",
+        "strategy_content": "肖年仔，你看外資跟投信，兩大咖不約而同狂掃金融股，台中銀、合庫金、兆豐金、台新新光金、永豐金，幾乎把金控股都買了一輪。這很明顯是市場資金在高檔尋找避風港。國際上，美國那邊有餐飲業破產，Costco也關服務，經濟前景不明朗，大戶們把錢從高風險的科技股抽出來，轉進相對穩健、有高殖利率題材的金融股，不只避險，還能穩穩賺利息，這就是所謂的『防禦型佈局』啦！"
       },
       {
-        "strategy_title": "策略二：記憶體與面板倒貨潮，主力資金大撤退",
-        "strategy_content": "這盤面最明顯的就是外資、投信、自營商三大法人同步大賣力積電、華邦電、南亞科這些記憶體股，還有面板雙虎友達、群創。這不是單一法人動作，是集體「倒貨」！顯示大戶們對這些產業的後市看法悲觀到不行，可能是庫存壓力大，或是景氣復甦不如預期，趕緊「拉高出貨」或直接「融資斷頭」前先跑。肖年仔，這種時候千萬別「接刀」！"
+        "strategy_title": "策略二：科技股高檔調節與低基期卡位（半導體、面板）",
+        "strategy_content": "外資跟投信都在倒貨聯電、台積電、日月光投控這些大型權值科技股，尤其是摩根大通狂賣聯電1.35萬張，這擺明了是獲利了結，『拉高出貨』的節奏。但同時，外資又買華邦電、友達，自營商也買華邦電、群創，這代表資金並非完全撤出科技，而是從漲多的、高基期的半導體轉向相對低基期、有反彈潛力的記憶體跟面板。這就是大戶在玩『高出低進』的遊戲，肖年仔別傻傻去追高被割韭菜。"
       },
       {
-        "strategy_title": "策略三：投信作帳行情與電子股分歧",
-        "strategy_content": "投信這波操作有點意思，一方面跟著外資買金融股，但另一方面卻大買聯電、臻鼎-KY、華通這些電子股，跟外資大賣聯電形成對作。這很可能是投信在季底或年底前為了「作帳」績效，鎖定一些有基本面支撐或特定題材的電子股。同時，他們也賣出部分記憶體和傳產，顯示資金在電子股內部進行輪動，並非全面看空電子。"
+        "strategy_title": "策略三：內資短線搏擊與權證避險（記憶體、特定科技股）",
+        "strategy_content": "自營商這群短線客，買超華邦電、群創、聯電，但同時也賣出富邦科技、強茂。這群人動作快，買賣超金額相對小，很可能是為了權證避險盤在操作，或是進行短線的『隔日沖』。凱基台北這種短線分點也買華邦電，這就更印證了短線資金在記憶體股上『黑白摸』。他們不會抱太久，通常是拉高就倒貨，肖年仔如果沒那個速度，最好別跟著瞎起鬨。"
       }
     ],
-    "summary": "肖年仔，這盤勢就是大戶在避險，資金往金融、傳產龍頭和ETF跑，記憶體跟面板被「倒貨」，投信則在電子股裡「黑白猜」作帳。別亂「接刀」，跟著主力走，穩字訣才是王道！",
+    "summary": "肖年仔，今天市場就是『金融為王，科技輪動』，外資投信狂抱金融股避險兼作帳，科技股則在高檔調節，資金轉往低基期或有短線題材的記憶體、面板。內資主力則在特定個股上玩短線，沒兩把刷子別亂追，小心被倒貨！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超台化1.55萬張",
-        "uncle_logic": "高盛這外資大戶，買台化這種傳產龍頭，不是看好景氣復甦，就是把台化當成避險部位。肖年仔，外資不是傻子，他們在找穩定的標的，這不是短線「隔日沖」的玩法。"
+        "action": "買超 1.00 萬張",
+        "uncle_logic": "這美商高盛，一天就買了台中銀超過一萬張，這不是真外資長線布局，就是看準金融股的穩健性，把錢放進來避險，順便卡位高殖利率，這單子不是隔日沖，是想抱一陣子的。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超元大台灣50 3.06千張",
-        "uncle_logic": "凱基台北這短線主力分點，買0050？這很妙。通常他們是衝個股，買ETF可能是為了短線避險，或是幫客戶做「隔日沖」的對沖部位，不然就是看大盤短期有機會反彈，但絕對不是要「鎖碼」波段。"
+        "action": "買超 1051 張",
+        "uncle_logic": "凱基台北這分點，買華邦電1051張，這很明顯就是典型的『隔日沖』分點在動手腳。今天買進，明天高機率就是『拉高出貨』，肖年仔看到這種分點進場，要嘛跟著衝，要嘛就避開，別傻傻去接刀。"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超聯電4.99千張",
-        "uncle_logic": "元大投信買聯電，跟外資大賣聯電形成對作，這就是「國家隊」的風格。可能是看好聯電的評價面，或是為了基金「建倉」佈局，準備年底「作帳」衝一波。肖年仔，這不是散戶能玩的。"
+        "action": "買超 4127 張",
+        "uncle_logic": "元大投信買台新新光金4127張，這就是本土國家隊在『作帳』啦！投信為了年底績效，會把資金灌到一些穩健的金融股，拉高淨值，肖年仔可以觀察這種作帳行情，但別追高，等他們結帳完再說。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超力積電2.34萬張",
-        "uncle_logic": "摩根大通這外資大戶，大賣力積電2.34萬張，擺明就是對記憶體產業前景不看好，或是之前有賺到，現在趁機「倒貨」出場。肖年仔，這種大戶在跑，你還想「接刀」嗎？小心「融資斷頭」！"
+        "action": "賣超 1.35 萬張",
+        "uncle_logic": "摩根大通這外資大咖，一天就倒了聯電1.35萬張，這不是一般的調節，這擺明了是『拉高出貨』，或是對半導體後市有疑慮，先跑再說。肖年仔看到這種大咖在賣，就別去當傻子接刀了，小心『融資斷頭』！"
       }
     ]
   },
@@ -217,229 +127,269 @@
       "level2_keywords": [
         {
           "word": "bankruptcy",
-          "ipa": "/bæŋkˈræsiti/",
-          "meaning": "財務困難，需要重新組織或清盤",
-          "example": "公司因財務困難而需要進行清盤"
+          "ipa": "/bæŋkˈræsɪtɪ/",
+          "meaning": "財務上宣告破產的狀態",
+          "example": "公司因為財務問題宣告破產"
+        },
+        {
+          "word": "dining",
+          "ipa": "/ˈdɪnaɪŋ/",
+          "meaning": "餐廳或餐飲業",
+          "example": "餐廳業者需要經營高效"
         },
         {
           "word": "franchise",
-          "ipa": "/frænˈtʃaɪz/",
-          "meaning": "經營權或商標",
-          "example": "Denny's 的經營權"
+          "ipa": "/ˈfrænʃaɪz/",
+          "meaning": "授權他人經營的公司",
+          "example": "Denny's 的分公司"
+        },
+        {
+          "word": "restaurant",
+          "ipa": "/ˈrɛstərənt/",
+          "meaning": "餐廳",
+          "example": "餐廳業者需要經營高效"
         },
         {
           "word": "export",
-          "ipa": "/ɛksˈpɔrt/",
+          "ipa": "/ɛkspɔːrt/",
           "meaning": "出口",
-          "example": "美國的食品出口"
-        },
-        {
-          "word": "controls",
-          "ipa": "/kənˈtrɒlz/",
-          "meaning": "控制",
-          "example": "政府對出口的控制"
-        },
-        {
-          "word": "guidance",
-          "ipa": "/ˈɡaɪdəns/",
-          "meaning": "指引或指導",
-          "example": "財務指引"
+          "example": "出口商品需要經過稅務"
         }
       ],
-      "level2_context": "美國 breakfast dining 瀰起財務困難，許多餐廳因而關閉或進行清盤。Denny's 的經營權也受到影響。這些事件反映了美國對食品出口和經濟的控制力。",
+      "level2_context": "2026 年，早餐餐廳業面臨財務挑戰，導致一些餐廳關閉或宣告破產。Denny's 的分公司也宣告破產。小型餐廳業者需要經營高效，才能存活在競爭激烈的市場中。這個案例也展現了出口商品的重要性，尤其是在全球貿易中。",
       "level3_translation": [
         {
           "sentence": "The breakfast dining sector has faced financial challenges in 2026, leading dining chains to close locations or, in some cases, file for bankruptcy protection.",
-          "translation": "早餐餐廳面臨財務困難，導致許多餐廳關閉或進行清盤"
+          "translation": "早餐餐廳業面臨財務挑戰，導致一些餐廳關閉或宣告破產"
         },
         {
           "sentence": "Franchisees of iconic chain Denny's, such as DBJ US Corp. in Miami Beach, Fla., have been among the restaurant operators who have filed for bankruptcy.",
-          "translation": "Denny's 的經營權擁有的餐廳，例如 DBJ US Corp. 在佛羅里達州米阿密海灘，已經進行了清盤"
+          "translation": "Denny's 的分公司是這些餐廳業者中的一部分"
         },
         {
           "sentence": "And smaller chains, such as Sarabeth's in New York City and Breakfast Republic in San Diego have closed several of their locations to cut costs to stay in business.",
-          "translation": "小型餐廳，如紐約市的 Sarabeth's 和加州的 Breakfast Republic，已經關閉了多家分店，以減少成本以保持生意"
+          "translation": "小型餐廳業者，如紐約市的 Sarabeth's 和 San Diego 的 Breakfast Republic，關閉了多家分店，以降低成本，保持生 Businesses"
         },
         {
           "sentence": "And now the owner of breakfast and brunch dining chain Buttermilk Eatery has filed for Chapter 11 protection to reorganize its business, facing a lawsuit.",
-          "translation": "現在 Buttermilk Eatery 的經營者已經進行了第十一章保護，以重新組織生意，但正在面臨法律訴訟"
+          "translation": "現在，但termilk Eatery 的主人宣告破產，為了重新組織生 Businesses，面臨法律訴訟"
         },
         {
           "sentence": "Asani Restaurant Group LLC filed its petition in the U.S. Bankruptcy Court for the Middle District of Florida on Aug. 31, listing over $75,000 in assets and over $407,000 in debts.",
-          "translation": "Asani Restaurant Group LLC 在 8 月 31 日向佛羅里達州中區法院提交了請求，列出了 $75,000 美元以上的資產和 $407,000 美元以上的債務"
+          "translation": "Asani Restaurant Group LLC 在 8 月 31 日向佛羅里達州中區法院提交了請求，列出資產為 75,000 美元，負債為 407,000 美元"
         },
         {
           "sentence": "The debtor did not give a specific reason for filing for bankruptcy in its petition.",
-          "translation": "債務人沒有提供清盤的原因"
+          "translation": "借款人未提供任何原因宣告破產的理由"
         },
         {
           "sentence": "A company spokesperson was not immediately available for comment.",
-          "translation": "公司代表人目前尚未提供評論"
+          "translation": "公司 spokesperson 尚未提供任何評論"
         },
         {
           "sentence": "The restaurant chain, founded in January 2023, serves breakfast, brunch, and lunch at its North St. Petersburg and Pinellas Park, Fla., locations, and has plans to open a third location in St. Petersburg's Grand Central District in summer 2026.",
-          "translation": "該餐廳於 2023 年 1 月成立，提供早餐、午餐和午餐，位於佛羅里達州北聖彼得堡和Pinellas Park 的分店，計畫在 2026 年夏季開設第三間分店"
+          "translation": "這家餐廳業者在 2023 年 1 月成立，提供早餐、 brunch 和午餐，位於北聖彼得堡和 Pinellas Park 的分店， plans 打算在 2026 年夏季在聖彼得堡的 Grand Central District 打開第三家分店"
         },
         {
           "sentence": "Buttermilk Eatery competes against the iconic Denny's chain, which operates a location in St. Petersburg.",
-          "translation": "Buttermilk Eatery Compete 與 Denny's 這一標誌性的餐廳，該餐廳在聖彼得堡有分店"
+          "translation": "但termilk Eatery 与Iconic Denny's 連鎖店競爭，Denny's 在聖彼得堡有一家分店"
+        },
+        {
+          "sentence": "The debtor did not give a specific reason for filing for bankruptcy in its petition.",
+          "translation": "借款人未提供任何原因宣告破產的理由"
+        },
+        {
+          "sentence": "A company spokesperson was not immediately available for comment.",
+          "translation": "公司 spokesperson 尚未提供任何評論"
+        },
+        {
+          "sentence": "The restaurant chain, founded in January 2023, serves breakfast, brunch, and lunch at its North St. Petersburg and Pinellas Park, Fla., locations, and has plans to open a third location in St. Petersburg's Grand Central District in summer 2026.",
+          "translation": "這家餐廳業者在 2023 年 1 月成立，提供早餐、 brunch 和午餐，位於北聖彼得堡和 Pinellas Park 的分店， plans 打算在 2026 年夏季在聖彼得堡的 Grand Central District 打開第三家分店"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Firearms retailer files Chapter 11 bankruptcy as gun sales drop",
+      "title": "Costco shuts down key service without notice",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/firearms-retailer-files-chapter-11-153300921.html",
-      "level1_blind": "Guns and ammunition retailers have faced financial distress, leading to store closings and bankruptcy filings as sales have fallen significantly over the last two years.\n\nIndustry experts believe some of the decline in sales might have resulted from buyers delaying purchases to take advantage of the reduction in the National Firearms Act tax from $200 to $0 beginning Jan. 1, 2026, the National Rifle Association's American Rifleman reported. The decline of sales, however, has continued in 2026.\n\nFinancial issues had led firearms and ammunition retailer White Oak Armory LLC to file for Chapter 11 bankruptcy to reorganize its business, owing a disputed tax debt to the Tennessee Department of Revenue.\n\nWhite Oak Armory filed its petition in the U.S. Bankruptcy Court for the Eastern District of Tennessee on Aug. 24, listing $500,000 to $1 million in assets and liabilities. The petition did not reveal whether the company's sales had declined, and the debtor did not give a specific reason for filing for bankruptcy in its petition.\n\nThe retailer was not immediately available for comment. The firearms dealer's website and telephone were still operating on Aug. 30.\n\nThe Cleveland, Tenn.-based debtor's largest creditor is the Tennessee Department of Revenue, owed $600,000 in disputed debt. The firearms and ammunition dealer also listed Cleveland Utilities and Spectrum as creditors but did not include the amounts of debt owed to each creditor.\n\nWhite Oak Armory's website did not have any handgun, rifle or shotgun inventory available for sale on Aug. 30. The website also did not have any ammunition, optics or gear for sale. Some parts and accessories were available, however.\n\nFirearms sales declined 4.1% to about 14.6 million in 2025, compared to over 15.2 million in 2024, according to the National Shooting Sports Foundation, the National Rifle Association's American Rifleman reported.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-shuts-down-key-no-011218190.html",
+      "level1_blind": "Costco did not even sell merchandise on its website until 1998, and in those days, the selection was very limited.\n\nSure, Costco Travel lived there, but the website was more about advertising ancillary services such as TurboTax access than about selling anything to members.\n\nIn recent years, however, Costco has offered a greatly expanded selection, and it allows members to use Instacart and Shipt to order select items directly from its warehouses.\n\nIt had also been building on that with its digital-only program, Costco Next, which lets members access items the warehouse club does not stock. It's not a new service; it has technically been around since 2017. But Costco does not promote the offering, and it's something I, and many other members, did not know about.\n\n\"Access to Costco Next store fronts is no longer available. Please refer to the list below for contact information for vendors with active return policies. For eligible returns and warranty inquiries, contact the vendor directly,\" the company shared.\n\nThat was followed by a long list of company names with their contact information.\n\nA third-party marketplace like the model pioneered by Amazon, Costco Next offered an expanded selection of items that never make it into a Costco warehouse. The program, however, differed from Amazon's approach in important ways.\n\nCostco Next allowed the retailer to offer more merchandise, but have it shipped directly from partners. The warehouse club, however, is still careful with its merchandise, and its buyers worked with partner retailers.",
       "level2_keywords": [
         {
           "word": "semiconductor",
-          "ipa": "/sɛmɪˈkɒndərət/",
+          "ipa": "/sɛmɪˈkɒndʒərət/",
           "meaning": "半導體",
-          "example": "新興半導體公司的股價急劇上升"
+          "example": "半導體產業是全球最重要的電子業"
+        },
+        {
+          "word": "Instacart",
+          "ipa": "/ɪnˈstækɑrt/",
+          "meaning": "快遞服務",
+          "example": "Instacart 是一家提供快遞服務的公司"
+        },
+        {
+          "word": "warehouse",
+          "ipa": "/ˈwɔːr.haʊs/",
+          "meaning": "倉庫",
+          "example": "Costco 的倉庫是其提供商品的主要場所"
+        },
+        {
+          "word": "TurboTax",
+          "ipa": "/ˈtɜːrbə.tæks/",
+          "meaning": "turboTax",
+          "example": "turboTax 是一種會計軟體"
         },
         {
           "word": "export",
-          "ipa": "/ɛksˈpɔrt/",
+          "ipa": "/ɪkˈsɔːt/",
           "meaning": "出口",
-          "example": "美國半導體公司的出口增加了三分之一"
-        },
-        {
-          "word": "guidance",
-          "ipa": "/ˈɡaɪdəns/",
-          "meaning": "指引",
-          "example": "財政部長的指引對於經濟政策產生了深遠影響"
-        },
-        {
-          "word": "bankruptcy",
-          "ipa": "/ˈbæŋkˌræsɪti/",
-          "meaning": "破產",
-          "example": "公司破產後的重建過程"
-        },
-        {
-          "word": "tax",
-          "ipa": "/tæks/",
-          "meaning": "稅金",
-          "example": "政府的稅金收入增加了三分之一"
+          "example": "公司的出口商品受到政府的監管"
         }
       ],
-      "level2_context": "美國半導體產業面臨著稅率的變化，導致一些公司的產生量下降，從而影響到整體經濟。這些變化也影響到美國政府的稅收收入。",
+      "level2_context": "美國公司Costco recently shut down its digital-only program, Costco Next, without notice. This move has affected many members who were not aware of the program's existence. The program allowed members to access items that were not stocked in Costco warehouses, but it was not promoted by the company.",
       "level3_translation": [
         {
-          "sentence": "Guns and ammunition retailers have faced financial distress, leading to store closings and bankruptcy filings as sales have fallen significantly over the last two years.",
-          "translation": "槍械和彈藥商店面臨著財務困境，導致店舖關閉和破產申請， Sales 因此下降了很大一部分"
+          "sentence": "Costco did not even sell merchandise on its website until 1998, and in those days, the selection was very limited.",
+          "translation": "Costco 在其網站上沒有出售任何商品，直到 1998 年，選擇的商品非常有限"
         },
         {
-          "sentence": "Industry experts believe some of the decline in sales might have resulted from buyers delaying purchases to take advantage of the reduction in the National Firearms Act tax from $200 to $0 beginning Jan. 1, 2026, the National Rifle Association's American Rifleman reported.",
-          "translation": "業界專家認為，部分降低的銷售可能是因為買家延遲購買，以利用2026年1月1日起的國民火藥法稅率降低到零，美國槍械人士雜誌《美國槍手》報導"
+          "sentence": "Sure, Costco Travel lived there, but the website was more about advertising ancillary services such as TurboTax access than about selling anything to members.",
+          "translation": "確實，Costco 旅遊部門在那裡，但網站主要是為了宣傳輔助服務，例如會計軟體 TurboTax 的使用，而不是為了出售商品給會員"
         },
         {
-          "sentence": "Financial issues had led firearms and ammunition retailer White Oak Armory LLC to file for Chapter 11 bankruptcy to reorganize its business, owing a disputed tax debt to the Tennessee Department of Revenue.",
-          "translation": "財務問題導致槍械和彈藥商店白石軍器公司（White Oak Armory LLC）申請破產，負債包括與 TENNESSEE財政部的不明確稅款"
+          "sentence": "In recent years, however, Costco has offered a greatly expanded selection, and it allows members to use Instacart and Shipt to order select items directly from its warehouses.",
+          "translation": "在近年來，Costco however đã提供一個非常豐富的選擇，允許會員使用 Instacart 和 Shipt 直接從其倉庫中購買特定的商品"
         },
         {
-          "sentence": "The retailer was not immediately available for comment. The firearms dealer's website and telephone were still operating on Aug. 30.",
-          "translation": "該商店不願提供回應。槍械商店的網站和電話仍在8月30日運作"
+          "sentence": "It had also been building on that with its digital-only program, Costco Next, which lets members access items the warehouse club does not stock.",
+          "translation": "此外，Costco 還在發展其數字-only 服務，Costco Next，讓會員可以進入倉庫中不 stocking 的商品"
         },
         {
-          "sentence": "The Cleveland, Tenn.-based debtor's largest creditor is the Tennessee Department of Revenue, owed $600,000 in disputed debt.",
-          "translation": "該公司的最大債主是 TENNESSEE財政部，負債為600,000美元"
+          "sentence": "\"Access to Costco Next store fronts is no longer available. Please refer to the list below for contact information for vendors with active return policies. For eligible returns and warranty inquiries, contact the vendor directly,\" the company shared.",
+          "translation": "\"進入Costco Next 商店的入口已經不可用了。請參考以下列表中提供的商家連絡資訊。對於有有效退貨政策的商家，請直接聯繫商家。\"公司發布的通告"
         },
         {
-          "sentence": "The firearms and ammunition dealer also listed Cleveland Utilities and Spectrum as creditors but did not include the amounts of debt owed to each creditor.",
-          "translation": "該商店還列出了克利夫蘭電力和光纖公司等債主，但未提供債務金額"
+          "sentence": "That was followed by a long list of company names with their contact information.",
+          "translation": "接著一長串商家名稱和連絡資訊"
         },
         {
-          "sentence": "White Oak Armory's website did not have any handgun, rifle or shotgun inventory available for sale on Aug. 30.",
-          "translation": "白石軍器公司的網站在8月30日沒有任何手槍、步槍或彈藥品在售"
+          "sentence": "A third-party marketplace like the model pioneered by Amazon, Costco Next offered an expanded selection of items that never make it into a Costco warehouse.",
+          "translation": "像 Amazon 這樣的第三方市場平台，Costco Next 提供了一個豐富的商品選擇，從未進入 Costco 瓶店"
         },
         {
-          "sentence": "The website also did not have any ammunition, optics or gear for sale. Some parts and accessories were available, however.",
-          "translation": "該網站也沒有任何彈藥、望遠鏡或配件在售，然而有一些零部件和配件可供購買"
+          "sentence": "The program, however, differed from Amazon's approach in important ways.",
+          "translation": "此 programme 但是與 Amazon 的方法有著重要的差異"
         },
         {
-          "sentence": "Firearms sales declined 4.1% to about 14.6 million in 2025, compared to over 15.2 million in 2024, according to the National Shooting Sports Foundation, the National Rifle Association's American Rifleman reported.",
-          "translation": "槍械銷售下降了4.1%，在2025年約為14.6萬件，與2024年超過15.2萬件相比"
+          "sentence": "Costco Next allowed the retailer to offer more merchandise, but have it shipped directly from partners.",
+          "translation": "Costco Next允許商家提供更多商品，但由夥伴公司直接發送"
+        },
+        {
+          "sentence": "The warehouse club, however, is still careful with its merchandise, and its buyers worked with partner retailers.",
+          "translation": "儘管如此，倉庫店仍然謹慎地管理其商品，買家與夥伴商家合作"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "161-year-old kids clothing giant closes 29 more stores",
+      "title": "Is Union Pacific Stock Outperforming the S¼P 500?",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/161-old-kids-clothing-giant-171700918.html",
-      "level1_blind": "As parents continue to feel pressures on their household budgets, increasingly skipping specialty clothing stores in favor of one-stop shopping at big-box giants like Target and Walmart, another children's apparel retailer is closing stores.\n\nIndustry data confirms this shift, revealing that mass merchants now capture 80% of planned spending in the back-to-school category, according to Deloitte.\n\nThis shift in consumer spending habits, paired with the shrinking malls data, including projection from Capital One Shopping suggesting that up to 87% of traditional shopping malls could close over the next decade, has forced a number of mall clothing retailers to shut a number of underperforming locations.\n\nA mall staple The Children's Place has shuttered hundreds of locations in recent years as part of a major restructuring plan to shed costly real estate, and legacy specialty chain, Carter's, has started its wave of planned closures in 2025.\n\nFounded in 1865, Carter's grew from a modest Massachusetts knitting mill into North America's largest children's clothing maker by continually expanding its footprint and acquiring legacy brands like OshKosh B'gosh.\n\nOver 161 years of its existence, Carter's nurtured generations of parent loyalty with its offering and prices. Now, the kids' clothing giant is strategically closing certain locations in an effort to stay at the top of its game.\n\nDuring the first two quarters of fiscal 2026, Carter's opened 4 stores and closed 29 stores in the United States, according to its Form 10-Q filing with the Securities and Exchange Commission (SEC).\n\nAs of July 4, 2026, Carter's had 1,042 company-operated retail stores in North America.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/union-pacific-stock-outperforming-p-153756706.html",
+      "level1_blind": "Omaha, Nebraska-based Union Pacific Corporation (UNP) operates in the railroad business. Valued at $178.6 billion by market cap, it connects 23 states in the western two-thirds of the U.S. by rail, providing a critical link in the global supply chain, hauling a variety of goods, including agricultural, automotive, and chemical products.\n\nCompanies worth $10 billion or more are generally described as \"large-cap stocks,\" and UNP definitely fits that description, with its market cap exceeding this threshold, reflecting its substantial size, influence, and dominance in the railroads industry. UNP's expansive North American network, including its stake in Mexico's Ferromex and strong cross-border freight business, gives it a distinct competitive advantage and supports a diverse customer base. Its long-standing reputation for reliability has built strong brand loyalty and long-term contracts, driving stable revenues and long-term growth.\n\nBill Gates Says 'We Need Time to Prepare' for an Economic Upheaval — Especially the $20-an-Hour Workers Being Replaced by $10-an-Hour Robots\n\nDespite its notable strength, UNP slipped 5.7% from its 52-week high of $315.99, achieved on Jul. 23. Over the past three months, UNP stock gained 13%, outperforming the SüP 500 Index's ($SPX) marginal gains during the same time frame.\n\nShares of UNP rose 28.7% on a YTD basis and climbed 33.2% over the past 52 weeks, outperforming SPX's YTD gains of 11.5% and 18.2% returns over the last year.\n\nTo confirm the bullish trend, UNP has been trading above its 200-day moving average since late April, with slight fluctuations. The stock has been trading above its 50-day moving average since late November, 2025, with minor fluctuations.\n\nUNP outperformed market expectations by converting robust demand into growth through reliable operations and cost-efficiency. Additionally, strategic momentum advanced on the planned merger with Norfolk Southern Corporation (NSC) after securing an agreement to neutralize resistance from Canadian National.\n\nOn Jul. 23, UNP shares closed up more than 4% after reporting its Q2 results. Its adjusted EPS of $3.41 topped Wall Street expectations of $3.20. The company's revenue was $6.9 billion, exceeding Wall Street forecasts of $6.7 billion.",
       "level2_keywords": [
         {
-          "word": "Carter's",
-          "ipa": "/ˈkɑːtərz/",
-          "meaning": "美國最大的兒童服飾品牌",
-          "example": "Carter's 是美國最大的兒童服飾品牌"
+          "word": "railroad",
+          "ipa": "/reɪlroʊd/",
+          "meaning": "鐵路",
+          "example": "鐵路公司"
         },
         {
-          "word": "mall",
-          "ipa": "/mɔːl/",
-          "meaning": "購物中心",
-          "example": "這家品牌的店舖都在購物中心"
+          "word": "network",
+          "ipa": "/nɛtˈwɜːrk/",
+          "meaning": "網絡",
+          "example": "鐵路網絡"
         },
         {
-          "word": "back-to-school",
-          "ipa": "/bæk təʊ ˈskoʊl/",
-          "meaning": "上學季",
-          "example": "這家品牌的服飾都很適合上學季"
+          "word": "freight",
+          "ipa": "/frɛɪt/",
+          "meaning": "貨物",
+          "example": "貨物運輸"
         },
         {
-          "word": "retail",
-          "ipa": "/ˈrɛtəl/",
-          "meaning": "零售",
-          "example": "這家品牌的店舖都在零售業中"
+          "word": "dominance",
+          "ipa": "/dɒmɪˈneɪʃən/",
+          "meaning": "主導性",
+          "example": "市場主導性"
         },
         {
-          "word": "restructuring",
-          "ipa": "/rɪˈstrʌktʃən/",
-          "meaning": "重組",
-          "example": "這家品牌正在進行重組計畫"
+          "word": "revenue",
+          "ipa": "/rɪˈjuːniə/",
+          "meaning": "收入",
+          "example": "公司收入"
         }
       ],
-      "level2_context": "美國兒童服飾品牌Carter's因為消費者偏好轉變和購物中心數量減少，決定關閉多家店舖，試圖保持競爭力。",
+      "level2_context": "\n\n這篇文章描述了 Union Pacific Corporation 的業績和市場表現，強調了其在鐵路業中的主導地位和穩定的收入。\n\n Union Pacific Corporation 是一家美國鐵路公司，連接了 23 個美國西部州的鐵路網絡，為全球供應鏈提供了關鍵連接，運載了農業、汽車和化學品等多種商品。\n\n公司的市場資本值達到 178.6 億美元，遠超 10 億美元的門檻，反映了其在業內的影響力和規模。\n\n",
       "level3_translation": [
         {
-          "sentence": "As parents continue to feel pressures on their household budgets, increasingly skipping specialty clothing stores in favor of one-stop shopping at big-box giants like Target and Walmart, another children's apparel retailer is closing stores.",
-          "translation": "父母越來越多地感到家計Budget壓力，開始選擇一站式購物的超市店，另一家兒童服飾品牌也開始關閉店舖"
+          "sentence": "Omaha, Nebraska-based Union Pacific Corporation (UNP) operates in the railroad business.",
+          "translation": "美國聯合鐵路公司（Union Pacific Corporation）位於內布拉斯卡州奧馬哈，從事鐵路業"
         },
         {
-          "sentence": "Industry data confirms this shift, revealing that mass merchants now capture 80% of planned spending in the back-to-school category, according to Deloitte.",
-          "translation": "業界數據證實這種趨勢，顯示大型商店現在占據了80%的預計購買額，根據 Deloitte"
+          "sentence": "Valued at $178.6 billion by market cap, it connects 23 states in the western two-thirds of the U.S. by rail, providing a critical link in the global supply chain, hauling a variety of goods, including agricultural, automotive, and chemical products.",
+          "translation": "該公司的市場資本值達到 178.6 億美元，連接了 23 個美國西部州的鐵路網絡，提供了全球供應鏈的關鍵連接，運載了農業、汽車和化學品等多種商品"
         },
         {
-          "sentence": "This shift in consumer spending habits, paired with the shrinking malls data, including projection from Capital One Shopping suggesting that up to 87% of traditional shopping malls could close over the next decade, has forced a number of mall clothing retailers to shut a number of underperforming locations.",
-          "translation": "這種趨勢已使許多購物中心服飾店house關閉了許多不太順利的店舖"
+          "sentence": "Companies worth $10 billion or more are generally described as \"large-cap stocks,\" and UNP definitely fits that description, with its market cap exceeding this threshold, reflecting its substantial size, influence, and dominance in the railroads industry.",
+          "translation": "值得 10 億美元以上的公司通常被描述為 \"大型股\"，而 Union Pacific Corporation 确實符合這個描述，市場資本值遠超 10 億美元，反映了其在鐵路業中的影響力和規模"
         },
         {
-          "sentence": "A mall staple The Children's Place has shuttered hundreds of locations in recent years as part of a major restructuring plan to shed costly real estate, and legacy specialty chain, Carter's, has started its wave of planned closures in 2025.",
-          "translation": "購物中心的 flagship店The Children's Place在近年內關閉了數百間店house，作為大規模重組計畫的一部分， Legacy 适合性店chain Carter's也開始在2025年關閉店house"
+          "sentence": "Bill Gates Says 'We Need Time to Prepare' for an Economic Upheaval — Especially the $20-an-Hour Workers Being Replaced by $10-an-Hour Robots",
+          "translation": ""
         },
         {
-          "sentence": "Founded in 1865, Carter's grew from a modest Massachusetts knitting mill into North America's largest children's clothing maker by continually expanding its footprint and acquiring legacy brands like OshKosh B'gosh.",
-          "translation": "Carter's於1865年成立，從一間小型麻省的纖維工廠發展成為北美最大兒童服飾品牌，通過持續擴張其地盤和收購 legacy品牌"
+          "sentence": "Despite its notable strength, UNP slipped 5.7% from its 52-week high of $315.99, achieved on Jul. 23.",
+          "translation": "儘管它的業績不錯， Union Pacific Corporation 在 52 週內的最高點達到 315.99 美元，於 2025 年 7 月 23 日達到"
         },
         {
-          "sentence": "Over 161 years of its existence, Carter's nurtured generations of parent loyalty with its offering and prices. Now, the kids' clothing giant is strategically closing certain locations in an effort to stay at the top of its game.",
-          "translation": "Carter's在其歷史的161年中，培養了許多父母的忠誠度，通過其商品和價格。現在，兒童服飾巨頭正採取策略性關閉店house，試圖保持競爭力"
+          "sentence": "Over the past three months, UNP stock gained 13%, outperforming the SüP 500 Index's ($SPX) marginal gains during the same time frame.",
+          "translation": "在過去三個月內， Union Pacific Corporation 的股價上涨了 13%，超越了 SüP 500 指數的同期增幅"
         },
         {
-          "sentence": "During the first two quarters of fiscal 2026, Carter's opened 4 stores and closed 29 stores in the United States, according to its Form 10-Q filing with the Securities and Exchange Commission (SEC).",
-          "translation": "2026年財務年度的第一兩季，Carter's在美國開了4間店house，關閉了29間店house，根據其SEC上提交的10-Q文件"
+          "sentence": "Shares of UNP rose 28.7% on a YTD basis and climbed 33.2% over the past 52 weeks, outperforming SPX's YTD gains of 11.5% and 18.2% returns over the last year.",
+          "translation": " Union Pacific Corporation 的股價在一年內上涨了 28.7%，在 52 週內上涨了 33.2%，超越了 SüP 500 指數的同期增幅"
         },
         {
-          "sentence": "As of July 4, 2026, Carter's had 1,042 company-operated retail stores in North America.",
-          "translation": "2026年7月4日，Carter's在北美有1,042間公司經營的店house"
+          "sentence": "To confirm the bullish trend, UNP has been trading above its 200-day moving average since late April, with slight fluctuations.",
+          "translation": "要確認 bullish 趨勢， Union Pacific Corporation 自 2025 年 4 月後一直上涨，伴隨著一些波動"
+        },
+        {
+          "sentence": "The stock has been trading above its 50-day moving average since late November, 2025, with minor fluctuations.",
+          "translation": "自 2025 年 11 月後，該股價一直上涨，伴隨著一些小幅波動"
+        },
+        {
+          "sentence": "UNP outperformed market expectations by converting robust demand into growth through reliable operations and cost-efficiency.",
+          "translation": " Union Pacific Corporation 超越了市場預期，通過可靠的運營和成本效率，將強大需求轉化為成長"
+        },
+        {
+          "sentence": "Additionally, strategic momentum advanced on the planned merger with Norfolk Southern Corporation (NSC) after securing an agreement to neutralize resistance from Canadian National.",
+          "translation": "此外， Union Pacific Corporation 在與諾福克南部公司（Norfolk Southern Corporation）合併的計畫中，取得了一項協議，消除加拿大國家鐵路的抵制"
+        },
+        {
+          "sentence": "On Jul. 23, UNP shares closed up more than 4% after reporting its Q2 results.",
+          "translation": "2025 年 7 月 23 日， Union Pacific Corporation 的股價上涨了超過 4%，在報告其 Q2 成果後"
+        },
+        {
+          "sentence": "Its adjusted EPS of $3.41 topped Wall Street expectations of $3.20.",
+          "translation": "該公司的調整 Earnings Per Share (EPS)達到 3.41 美元，超越了 Wall Street 的預期 3.20 美元"
+        },
+        {
+          "sentence": "The company's revenue was $6.9 billion, exceeding Wall Street forecasts of $6.7 billion.",
+          "translation": "該公司的收入達到 69 億美元，超越了 Wall Street 的預期 67 億美元"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "根據上午的國際財經新聞，美國餐飲業面臨著財務挑戰，尤其是小餐館和早餐店。這些企業在2026年面臨著財務困難，導致一些店家關閉或宣布破產。與此相似，美國火藥業也面臨著財務困難，尤其是白Oak Armory LLC。這些企業的財務困難可能與2026年美國消費者對火藥和消防品的需求下降有關。另一方面，美國餐飲業和火藥業的財務困難可能與2026年美國經濟的整體趨勢有關。因此，需要進一步研究和分析這些企業的財務狀況和經濟趨勢，了解這些企業的財務困難可能與什麼因素有關。"
+    "market_connection": "兩個新聞文章中提到的公司和行業，可能與股市行情有關。Denny's rival dining chain 的破產可能會影響餐飲業的整體健康，進而影響股市。另一方面，Union Pacific Corporation 的出performing stock 可能是因為其在全球供應鏈中的重要性和穩定的營業收入。這可能會對股市產生正面影響。因此，需要密切關注這些公司的股價變化和市場趨勢，從而做出更好的投資決策。"
   }
 }
