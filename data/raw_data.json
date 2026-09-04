@@ -1,378 +1,378 @@
 {
-  "date": "2026-09-03",
-  "stock_market_date": "2026-09-02",
+  "date": "2026-09-04",
+  "stock_market_date": "2026-09-03",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "台中銀",
-          "ticker": "2812",
-          "net_buy_shares": 28713904
-        },
-        {
-          "rank": 2,
-          "stock_name": "合庫金",
-          "ticker": "5880",
-          "net_buy_shares": 27227339
-        },
-        {
-          "rank": 3,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 17737382
-        },
-        {
-          "rank": 4,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 14893514
-        },
-        {
-          "rank": 5,
-          "stock_name": "遠東銀",
-          "ticker": "2845",
-          "net_buy_shares": 13895423
-        },
-        {
-          "rank": 6,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 13316764
-        },
-        {
-          "rank": 7,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 12577408
-        },
-        {
-          "rank": 8,
-          "stock_name": "盟立",
-          "ticker": "2464",
-          "net_buy_shares": 11634240
-        },
-        {
-          "rank": 9,
-          "stock_name": "國票金",
-          "ticker": "2889",
-          "net_buy_shares": 11091589
-        },
-        {
-          "rank": 10,
           "stock_name": "友達",
           "ticker": "2409",
-          "net_buy_shares": 10295835
-        }
-      ],
-      "foreign_sell": [
-        {
-          "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -45119850
+          "net_buy_shares": 55437100
         },
         {
           "rank": 2,
-          "stock_name": "台泥",
-          "ticker": "1101",
-          "net_sell_shares": -24368396
+          "stock_name": "遠東銀",
+          "ticker": "2845",
+          "net_buy_shares": 29742652
         },
         {
           "rank": 3,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -23176806
-        },
-        {
-          "rank": 4,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -17613253
-        },
-        {
-          "rank": 5,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -16718319
-        },
-        {
-          "rank": 6,
-          "stock_name": "和桐",
-          "ticker": "1714",
-          "net_sell_shares": -15776502
-        },
-        {
-          "rank": 7,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -11986983
-        },
-        {
-          "rank": 8,
-          "stock_name": "文曄",
-          "ticker": "3036",
-          "net_sell_shares": -9984360
-        },
-        {
-          "rank": 9,
-          "stock_name": "京元電子",
-          "ticker": "2449",
-          "net_sell_shares": -9948994
-        },
-        {
-          "rank": 10,
-          "stock_name": "強茂",
-          "ticker": "2481",
-          "net_sell_shares": -8710501
-        }
-      ],
-      "trust_buy": [
-        {
-          "rank": 1,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 9172304
-        },
-        {
-          "rank": 2,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_buy_shares": 6935084
-        },
-        {
-          "rank": 3,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 6582800
-        },
-        {
-          "rank": 4,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 5673290
-        },
-        {
-          "rank": 5,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 5258879
-        },
-        {
-          "rank": 6,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 5072208
-        },
-        {
-          "rank": 7,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_buy_shares": 4093396
-        },
-        {
-          "rank": 8,
           "stock_name": "兆豐金",
           "ticker": "2886",
-          "net_buy_shares": 3529537
-        },
-        {
-          "rank": 9,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_buy_shares": 3306000
-        },
-        {
-          "rank": 10,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 3008287
-        }
-      ],
-      "trust_sell": [
-        {
-          "rank": 1,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_sell_shares": -4348839
-        },
-        {
-          "rank": 2,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -2800000
-        },
-        {
-          "rank": 3,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -2650763
+          "net_buy_shares": 23261199
         },
         {
           "rank": 4,
           "stock_name": "聯電",
           "ticker": "2303",
-          "net_sell_shares": -2520689
+          "net_buy_shares": 22021498
         },
         {
           "rank": 5,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_sell_shares": -2119113
+          "stock_name": "國票金",
+          "ticker": "2889",
+          "net_buy_shares": 20412255
         },
         {
           "rank": 6,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -1715966
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 19021801
         },
         {
           "rank": 7,
-          "stock_name": "欣興",
-          "ticker": "3037",
-          "net_sell_shares": -1360727
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_buy_shares": 17430887
         },
         {
           "rank": 8,
           "stock_name": "元大金",
           "ticker": "2885",
-          "net_sell_shares": -1239305
+          "net_buy_shares": 17375409
         },
         {
           "rank": 9,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -1089000
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_buy_shares": 16999031
         },
         {
           "rank": 10,
-          "stock_name": "台達電",
-          "ticker": "2308",
-          "net_sell_shares": -1031102
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 12524298
         }
       ],
-      "dealer_buy": [
+      "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 2628693
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_sell_shares": -34399366
         },
         {
           "rank": 2,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 1128736
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -26737222
         },
         {
           "rank": 3,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 519422
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_sell_shares": -23184056
         },
         {
           "rank": 4,
-          "stock_name": "光寶科",
-          "ticker": "2301",
-          "net_buy_shares": 453517
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -18954441
         },
         {
           "rank": 5,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 430673
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_sell_shares": -15138475
         },
         {
           "rank": 6,
-          "stock_name": "晶豪科",
-          "ticker": "3006",
-          "net_buy_shares": 397400
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_sell_shares": -10271226
         },
         {
           "rank": 7,
-          "stock_name": "欣興",
-          "ticker": "3037",
-          "net_buy_shares": 369099
+          "stock_name": "彩晶",
+          "ticker": "6116",
+          "net_sell_shares": -8431234
         },
         {
           "rank": 8,
-          "stock_name": "亞光",
-          "ticker": "3019",
-          "net_buy_shares": 360782
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_sell_shares": -7545113
         },
         {
           "rank": 9,
-          "stock_name": "聯發科",
-          "ticker": "2454",
-          "net_buy_shares": 273050
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_sell_shares": -7245203
         },
         {
           "rank": 10,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 252000
+          "stock_name": "光寶科",
+          "ticker": "2301",
+          "net_sell_shares": -7190766
         }
       ],
-      "dealer_sell": [
+      "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_sell_shares": -723203
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_buy_shares": 14547000
         },
         {
           "rank": 2,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -643033
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_buy_shares": 3571000
         },
         {
           "rank": 3,
-          "stock_name": "強茂",
-          "ticker": "2481",
-          "net_sell_shares": -614757
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 3353000
         },
         {
           "rank": 4,
-          "stock_name": "瑞軒",
-          "ticker": "2489",
-          "net_sell_shares": -571950
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 3324857
+        },
+        {
+          "rank": 5,
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_buy_shares": 3242000
+        },
+        {
+          "rank": 6,
+          "stock_name": "興富發",
+          "ticker": "2542",
+          "net_buy_shares": 3213000
+        },
+        {
+          "rank": 7,
+          "stock_name": "上海商銀",
+          "ticker": "5876",
+          "net_buy_shares": 2966000
+        },
+        {
+          "rank": 8,
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_buy_shares": 2850000
+        },
+        {
+          "rank": 9,
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_buy_shares": 2803973
+        },
+        {
+          "rank": 10,
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_buy_shares": 2098000
+        }
+      ],
+      "trust_sell": [
+        {
+          "rank": 1,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -8976000
+        },
+        {
+          "rank": 2,
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_sell_shares": -4314740
+        },
+        {
+          "rank": 3,
+          "stock_name": "台中銀",
+          "ticker": "2812",
+          "net_sell_shares": -3312000
+        },
+        {
+          "rank": 4,
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_sell_shares": -3264000
         },
         {
           "rank": 5,
           "stock_name": "華南金",
           "ticker": "2880",
-          "net_sell_shares": -539095
+          "net_sell_shares": -2636630
         },
         {
           "rank": 6,
-          "stock_name": "緯穎",
-          "ticker": "6669",
-          "net_sell_shares": -436400
+          "stock_name": "南電",
+          "ticker": "8046",
+          "net_sell_shares": -2319000
         },
         {
           "rank": 7,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -383047
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_sell_shares": -1997000
         },
         {
           "rank": 8,
-          "stock_name": "華新科",
-          "ticker": "2492",
-          "net_sell_shares": -380000
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_sell_shares": -1992000
         },
         {
           "rank": 9,
-          "stock_name": "京元電子",
-          "ticker": "2449",
-          "net_sell_shares": -361624
+          "stock_name": "欣興",
+          "ticker": "3037",
+          "net_sell_shares": -1912000
         },
         {
           "rank": 10,
-          "stock_name": "大聯大",
-          "ticker": "3702",
-          "net_sell_shares": -349000
+          "stock_name": "群益證",
+          "ticker": "6005",
+          "net_sell_shares": -1851000
+        }
+      ],
+      "dealer_buy": [
+        {
+          "rank": 1,
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_buy_shares": 1332000
+        },
+        {
+          "rank": 2,
+          "stock_name": "新興",
+          "ticker": "2605",
+          "net_buy_shares": 638000
+        },
+        {
+          "rank": 3,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 623000
+        },
+        {
+          "rank": 4,
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 539614
+        },
+        {
+          "rank": 5,
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 486705
+        },
+        {
+          "rank": 6,
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_buy_shares": 358000
+        },
+        {
+          "rank": 7,
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 350000
+        },
+        {
+          "rank": 8,
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_buy_shares": 281553
+        },
+        {
+          "rank": 9,
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_buy_shares": 273000
+        },
+        {
+          "rank": 10,
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 210435
+        }
+      ],
+      "dealer_sell": [
+        {
+          "rank": 1,
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -3782940
+        },
+        {
+          "rank": 2,
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_sell_shares": -2409591
+        },
+        {
+          "rank": 3,
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -2378962
+        },
+        {
+          "rank": 4,
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -2335518
+        },
+        {
+          "rank": 5,
+          "stock_name": "瑞軒",
+          "ticker": "2489",
+          "net_sell_shares": -1375802
+        },
+        {
+          "rank": 6,
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_sell_shares": -933998
+        },
+        {
+          "rank": 7,
+          "stock_name": "長興",
+          "ticker": "1717",
+          "net_sell_shares": -917500
+        },
+        {
+          "rank": 8,
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_sell_shares": -839317
+        },
+        {
+          "rank": 9,
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -804000
+        },
+        {
+          "rank": 10,
+          "stock_name": "國喬",
+          "ticker": "1312",
+          "net_sell_shares": -767000
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "台中銀",
-        "shares": 10049866
+        "target": "友達",
+        "shares": 19402985
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "華邦電",
-        "shares": 1051477
+        "target": "富邦科技",
+        "shares": 532800
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "台新新光金",
-        "shares": 4127536
+        "target": "緯創",
+        "shares": 6546150
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "聯電",
-        "shares": 13535955
+        "target": "南亞科",
+        "shares": 10319809
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Denny’s rival dining chain files for Chapter 11 bankruptcy",
+      "title": "Why you can't find McDonald's $3 value menu",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/denny-rival-dining-chain-files-153300154.html",
-      "summary": "Denny’s rival dining chain files for Chapter 11 bankruptcy",
-      "full_text": "The breakfast dining sector has faced financial challenges in 2026, leading dining chains to close locations or, in some cases, file for bankruptcy protection.\n\nFranchisees of iconic chain Denny's, such as DBJ US Corp. in Miami Beach, Fla., have been among the restaurant operators who have filed for bankruptcy.\n\nAnd smaller chains, such as Sarabeth's in New York City and Breakfast Republic in San Diego have closed several of their locations to cut costs to stay in business.\n\nAnd now the owner of breakfast and brunch dining chain Buttermilk Eatery has filed for Chapter 11 protection to reorganize its business, facing a lawsuit.\n\nAsani Restaurant Group LLC filed its petition in the U.S. Bankruptcy Court for the Middle District of Florida on Aug. 31, listing over $75,000 in assets and over $407,000 in debts.\n\nThe debtor did not give a specific reason for filing for bankruptcy in its petition. A company spokesperson was not immediately available for comment.\n\nThe restaurant chain, founded in January 2023, serves breakfast, brunch, and lunch at its North St. Petersburg and Pinellas Park, Fla., locations, and has plans to open a third location in St. Petersburg's Grand Central District in summer 2026.\n\nButtermilk Eatery competes against the iconic Denny's chain, which operates a location in St. Petersburg.",
-      "published": "2026-09-01T15:33:00Z"
+      "link": "https://finance.yahoo.com/small-business/articles/mcdonalds-3-menu-problem-hits-231000768.html",
+      "summary": "Why you can't find McDonald's $3 value menu",
+      "full_text": "McDonald's franchises nearly all of its restaurants in the United States, which means franchise operators have a significant say in operational changes. In some cases, for example, they can reject deal pricing.\n\nUsually, when McDonald's rolls out a promotion such as $2.99 Snack Wraps or $4 breakfast meals, only select franchise operators will not adopt the deal. Maybe franchisees operating in airports, rest stops, and other expensive real estate will pass on the deal, but most franchisees generally get on board.\n\nCFO Ian Borden noted during the chain's first-quarter earnings call that franchisees overwhelmingly supported adding the promotion.\n\n\"With unanimous approval through the franchisee field votes, we launched the revamped McValue platform in mid-April. The new under $3 menu features well-known a la carte items available throughout the day,\" he said.\n\n\"Unanimous\" sounded encouraging, but in reality, something else happened that put customers in a challenging position.\n\nAs a retail and restaurant writer who has covered these industries for more than 30 years, I generally expect heavily promoted deals to actually be on the menu when I visit a chain. That has not always been the case for McDonald's Under $3 Every Day Affordable Price (EDAP) menu.\n\n\"That is the EDAP menu. You could call that 10 items for under $3. That was sort of the last piece that we felt like we needed to get done in the U.S., and that was what McValue 2.0 was, as we referred to it. That's what we introduced in April of this year,\" he said.\n\n\"Part of that was due to the fact that we're getting really inconsistent execution. Only about, call it, 60% to 65% of our system is currently executing the recommended pricing architecture with the 10 items for under $3,\" he added.",
+      "published": "2026-09-02T23:10:00Z"
     },
     {
       "id": "news_2",
-      "title": "Costco shuts down key service without notice",
+      "title": "Is Medtronic Stock Underperforming the Dow?",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-shuts-down-key-no-011218190.html",
-      "summary": "Costco shuts down key service without notice",
-      "full_text": "Costco did not even sell merchandise on its website until 1998, and in those days, the selection was very limited.\n\nSure, Costco Travel lived there, but the website was more about advertising ancillary services such as TurboTax access than about selling anything to members.\n\nIn recent years, however, Costco has offered a greatly expanded selection, and it allows members to use Instacart and Shipt to order select items directly from its warehouses.\n\nIt had also been building on that with its digital-only program, Costco Next, which lets members access items the warehouse club does not stock. It's not a new service; it has technically been around since 2017. But Costco does not promote the offering, and it's something I, and many other members, did not know about.\n\n\"Access to Costco Next store fronts is no longer available. Please refer to the list below for contact information for vendors with active return policies. For eligible returns and warranty inquiries, contact the vendor directly,\" the company shared.\n\nThat was followed by a long list of company names with their contact information.\n\nA third-party marketplace like the model pioneered by Amazon, Costco Next offered an expanded selection of items that never make it into a Costco warehouse. The program, however, differed from Amazon's approach in important ways.\n\nCostco Next allowed the retailer to offer more merchandise, but have it shipped directly from partners. The warehouse club, however, is still careful with its merchandise, and its buyers worked with partner retailers.",
-      "published": "2026-09-02T01:12:18Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/medtronic-stock-underperforming-dow-160024127.html",
+      "summary": "Is Medtronic Stock Underperforming the Dow?",
+      "full_text": "With a market cap of $117.8 billion, Medtronic plc (MDT) is a leading global healthcare technology company focused on addressing complex health challenges through innovative medical solutions. With a global workforce serving patients across more than 150 countries, its technologies span cardiac devices, surgical robotics, insulin pumps, surgical tools, and patient monitoring systems.\n\nCompanies valued at $10 billion or more are generally considered \"large-cap\" stocks, and Medtronic fits this criterion perfectly. Guided by its mission to alleviate pain, restore health, and extend life, Medtronic's innovations aim to improve outcomes and transform lives worldwide.\n\nShares of the medical device manufacturer have fallen 12.1% from its 52-week high of $106.33. The stock is up 27.1% over the past three months, outperforming the broader Dow Jones Industrials Average's ($DOWI) 3.7% gain over the same time frame.\n\nShares of the Dublin, Ireland-based company have fallen 2.4% on a YTD basis, lagging behind the Dow Jones' 10.7% increase. Moreover, the stock has risen marginally over the past 52 weeks, compared to DOWI's 17.5% return over the same time frame.\n\nMDT stock has been trading below its 50-day and 200-day moving averages since mid-February. However, it has moved above its 50-day moving average since July.\n\nMedtronic shares rose 1.5% on Sept. 1 after the company raised its fiscal 2027 organic revenue growth outlook to 7.25% - 7.75% and lifted the lower end of adjusted EPS guidance to $5.94. The company also reported better-than-expected Q1 2027 revenue of $9.76 billion and adjusted EPS of $1.45. Growth was led by the cardiovascular business, where sales jumped 19.5% to $3.93 billion, including 88% growth in pulsed-field ablation, and neuroscience and medical surgical sales grew 10.3% and 10%, respectively.\n\nIn comparison, rival Abbott Laboratories (ABT) has lagged behind MDT stock. ABT stock has declined 10.9% on a YTD basis and 15% over the past 52 weeks.\n\nDespite MDT stock's outperformance over the past three months, analysts are cautiously optimistic about its prospects. The stock has a consensus rating of \"Moderate Buy\" from the 29 analysts covering it, and the mean price target of $98.15 represents a premium of 3.9% to current levels.",
+      "published": "2026-09-02T16:00:24Z"
     },
     {
       "id": "news_3",
-      "title": "Is Union Pacific Stock Outperforming the S&P 500?",
+      "title": "Dell Beats On Every Line And Guides Higher Than Anyone Modeled",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/union-pacific-stock-outperforming-p-153756706.html",
-      "summary": "Is Union Pacific Stock Outperforming the S&P 500?",
-      "full_text": "Omaha, Nebraska-based Union Pacific Corporation (UNP) operates in the railroad business. Valued at $178.6 billion by market cap, it connects 23 states in the western two-thirds of the U.S. by rail, providing a critical link in the global supply chain, hauling a variety of goods, including agricultural, automotive, and chemical products.\n\nCompanies worth $10 billion or more are generally described as \"large-cap stocks,\" and UNP definitely fits that description, with its market cap exceeding this threshold, reflecting its substantial size, influence, and dominance in the railroads industry. UNP's expansive North American network, including its stake in Mexico's Ferromex and strong cross-border freight business, gives it a distinct competitive advantage and supports a diverse customer base. Its long-standing reputation for reliability has built strong brand loyalty and long-term contracts, driving stable revenues and long-term growth.\n\nBill Gates Says 'We Need Time to Prepare' for an Economic Upheaval — Especially the $20-an-Hour Workers Being Replaced by $10-an-Hour Robots\n\nDespite its notable strength, UNP slipped 5.7% from its 52-week high of $315.99, achieved on Jul. 23. Over the past three months, UNP stock gained 13%, outperforming the S&P 500 Index's ($SPX) marginal gains during the same time frame.\n\nShares of UNP rose 28.7% on a YTD basis and climbed 33.2% over the past 52 weeks, outperforming SPX's YTD gains of 11.5% and 18.2% returns over the last year.\n\nTo confirm the bullish trend, UNP has been trading above its 200-day moving average since late April, with slight fluctuations. The stock has been trading above its 50-day moving average since late November, 2025, with minor fluctuations.\n\nUNP outperformed market expectations by converting robust demand into growth through reliable operations and cost-efficiency. Additionally, strategic momentum advanced on the planned merger with Norfolk Southern Corporation (NSC) after securing an agreement to neutralize resistance from Canadian National.\n\nOn Jul. 23, UNP shares closed up more than 4% after reporting its Q2 results. Its adjusted EPS of $3.41 topped Wall Street expectations of $3.20. The company's revenue was $6.9 billion, exceeding Wall Street forecasts of $6.7 billion.",
-      "published": "2026-09-01T15:37:56Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dell-beats-every-line-guides-155607614.html",
+      "summary": "Dell Beats On Every Line And Guides Higher Than Anyone Modeled",
+      "full_text": "Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.\n\nMichael Dell went on X Tuesday night and posted this: \"There's an old Texas saying I may have just made up... If you keep growing EPS 200%+ y/y something good will happen.\"\n\nHe has earned the right to make up sayings. Dell reported $7.04 in adjusted earnings against the $4.92 Wall Street wanted, on revenue of $46.97 billion against $44.92 billion. Revenue grew 58% and beat every estimate on the street. Net income went from $1.16 billion a year ago to $4.13 billion. Shares rose 9% after hours, on top of a stock up 236% this year against the S&P's 11%.\n\nThen Dell said what next quarter looks like, which is where it stops being a good print and starts being ridiculous. Third-quarter guidance came in at $6.50 a share on $49 billion, implying 81% growth. Analysts had penciled in $4.49 and $41.42 billion. Dell guided $7.6 billion above consensus for one quarter, more revenue than most S&P 500 companies book in a year.\n\nThe full-year number is the one to sit with. Dell now sees $25.50 in adjusted EPS on $192 billion of revenue. In May, it said $17.90 on $165 billion to $169 billion. Over 3 months, Dell added roughly $25 billion of expected revenue and 42% to its own earnings forecast, the corporate equivalent of checking the couch cushions and finding a Honda Accord.\n\nOne stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here.\n\nThe engine is the data center business, where Infrastructure Solutions did $31.78 billion, up 89%, with AI-optimized servers at $16.40 billion. Traditional servers and networking jumped 122% to $10.53 billion, because all this AI needs ordinary computers next to it doing ordinary work. The PC business, the one the company is named after, grew 20% and missed, and Jeff Clarke explained that Dell saw PCs softening and moved the parts to the infrastructure side. Cold, correct, and a little sad for anyone who owned an Inspiron.\n\nFull-year AI server sales are now forecast at $74 billion, up 200%. Six months ago Dell said 103%. Michael Dell is the fifth richest person alive. Also long on the stock is President Trump, who has been buying Dell since returning to office and spent part of July recommending Dell computers to the general public.",
+      "published": "2026-09-02T15:56:07Z"
     }
   ]
 }
