@@ -1,395 +1,547 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "stock_uncle_insight": {
-    "date_header": "9/3 法人與主力大戶主要買超股票",
+    "date_header": "9/4 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃金融股，避險兼卡位",
+        "group_title": "1. 外資大戶：狂掃金融與面板，避險兼卡位",
         "stocks": [
           {
-            "stock_name": "台中銀",
-            "ticker": "2812",
-            "description": "肖年仔，你看這台中銀，外資大戶一天就狂掃了2.87萬張，美商高盛更是直接買了超過1萬張，這擺明了是把金融股當避風港，利率高檔，金融股穩穩賺，外資在避險啦！"
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "肖年仔，外資狂掃面板雙雄之一的友達，買超 55,437 張。這不是黑白買，擺明是看好面板報價築底反彈，或是拿來做避險配置。這手筆不小，你各位要看清楚。"
           },
           {
-            "stock_name": "合庫金",
-            "ticker": "5880",
-            "description": "合庫金也沒放過，外資買超2.72萬張，這群老外就是看準了金控的穩定性，大盤震盪，錢往哪裡跑？當然是往這種『國家隊』概念的金融股跑啊！"
+            "stock_name": "遠東銀",
+            "ticker": "2845",
+            "description": "外資又來買金融股，遠東銀被買超 29,742 張。這波是真愛還是假愛，要看後續有沒有持續鎖碼，別被騙了。"
           },
           {
             "stock_name": "兆豐金",
             "ticker": "2886",
-            "description": "兆豐金也被外資買了1.77萬張，這幾檔金控股都是外資的心頭好，不只避險，搞不好還在卡位明年的高殖利率行情，韭菜們別傻傻去追高科技股了。"
-          },
-          {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "華邦電外資也買了1.48萬張，這檔記憶體股，外資雖然買，但投信跟自營商卻有買有賣，看起來有點像短線的黑白摸，沒那麼單純。"
-          },
-          {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "面板雙虎之一的友達，外資也買了1.02萬張，這可能是在賭面板景氣的谷底翻身，但這產業起伏大，肖年仔要小心接刀。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：跟進金融，作帳行情啟動？",
-        "stocks": [
-          {
-            "stock_name": "台新新光金",
-            "ticker": "2887",
-            "description": "本土投信這群國家隊，跟外資一樣，也是狂買金融股。台新新光金被買了9172張，元大投信更是直接買了4127張，這很明顯是投信在作帳，年底前要拉高淨值啦！"
-          },
-          {
-            "stock_name": "永豐金",
-            "ticker": "2890",
-            "description": "永豐金也被投信買了6935張，這群本土基金經理人，就是喜歡這種穩健的標的，尤其是在大盤不穩的時候，抱金融股最安心，反正跌也跌不到哪去。"
-          },
-          {
-            "stock_name": "緯創",
-            "ticker": "3231",
-            "description": "緯創這檔AI概念股，投信還在買6582張，雖然買超金額沒金融股那麼大，但顯示他們對部分AI股還是有期待，可能是在等拉高出貨的機會。"
-          },
-          {
-            "stock_name": "玉山金",
-            "ticker": "2884",
-            "description": "玉山金也買了5673張，投信跟外資一樣，對金融股的胃口真大，這波金融股的漲勢，背後就是這兩大咖在撐腰。"
-          }
-        ]
-      },
-      {
-        "group_title": "3. 內資主力與實戶：短線搏擊，記憶體與面板成焦點",
-        "stocks": [
-          {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "自營商這群短線客，華邦電買了2628張，跟外資一樣看好記憶體？但別忘了投信有賣，這檔就是多空交戰，隔日沖跟鎖碼的戰場，肖年仔別亂衝。"
-          },
-          {
-            "stock_name": "群創",
-            "ticker": "3481",
-            "description": "面板股群創也被自營商買了1128張，這跟外資買友達的邏輯有點像，都是在賭面板產業的復甦，但自營商的單子通常都跑得快，拉高出貨是常態。"
+            "description": "外資買超兆豐金 23,261 張。外資買金融，通常是市場高檔的避險盤，或是看好高殖利率，肖年仔別傻傻追高。"
           },
           {
             "stock_name": "聯電",
             "ticker": "2303",
-            "description": "聯電這檔晶圓代工，外資跟投信都在倒貨，結果自營商卻買了519張，這很可能是避險盤的對沖操作，或是看準短線跌深反彈，但大咖在賣，肖年仔別去接刀。"
+            "description": "外資買超聯電 22,021 張，但投信卻在倒貨近九千張，這中間有鬼，籌碼有點亂，肖年仔要小心別接到刀。"
+          },
+          {
+            "stock_name": "國票金",
+            "ticker": "2889",
+            "description": "又一檔金融，國票金被外資買超 20,412 張。這麼多金融股一起買，避險意味濃厚啦。"
+          },
+          {
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "面板雙雄都被外資買，群創被買超 19,021 張，但自營商卻在倒貨群創近兩千四百張，這局勢有點複雜，主力心態不一。"
+          },
+          {
+            "stock_name": "合庫金",
+            "ticker": "5880",
+            "description": "金融股連發，合庫金被外資買超 17,430 張。外資這避險意味濃厚，肖年仔，別以為金融股就不會跌。"
+          },
+          {
+            "stock_name": "元大金",
+            "ticker": "2885",
+            "description": "外資對金控股的偏好很明顯，元大金被買超 17,375 張。這波是想賺穩定的還是準備拉高出貨？"
+          },
+          {
+            "stock_name": "強茂",
+            "ticker": "2481",
+            "description": "外資、投信同步買超強茂 16,999 張。這檔二極體股可能有戲，但要看是不是隔日沖，別被主力騙了。"
+          },
+          {
+            "stock_name": "第一金",
+            "ticker": "2892",
+            "description": "外資買超第一金 12,524 張。外資買金融，老套路了，肖年仔，這就是資金避風港。"
+          }
+        ]
+      },
+      {
+        "group_title": "2. 投信大戶（本土國家隊）：AI 概念股續抱，金融傳產同步佈局",
+        "stocks": [
+          {
+            "stock_name": "緯創",
+            "ticker": "3231",
+            "description": "AI 概念股，投信還在抱，買超 14,547 張。但肖年仔，高檔震盪，別當最後一隻老鼠，小心被倒貨。Dell 財報不錯，但這不代表緯創會一直噴。"
+          },
+          {
+            "stock_name": "遠東新",
+            "ticker": "1402",
+            "description": "傳產股，遠東新被投信買超 3,571 張。可能是看好旺季效應或低基期，準備作帳。"
+          },
+          {
+            "stock_name": "中信金",
+            "ticker": "2891",
+            "description": "投信也買中信金 3,353 張。跟外資有志一同？這波金融股是真避險還是假避險？"
+          },
+          {
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "航空股，長榮航被投信買超 3,324 張。可能是看好解封題材，但肖年仔，這題材炒多久了？"
+          },
+          {
+            "stock_name": "國泰金",
+            "ticker": "2882",
+            "description": "投信也買國泰金 3,242 張。這波金融股是大家的避風港嗎？"
+          },
+          {
+            "stock_name": "興富發",
+            "ticker": "2542",
+            "description": "營建股，興富發被投信買超 3,213 張。可能跟政策或資產題材有關，但這類股波動大，小心接刀。"
+          },
+          {
+            "stock_name": "上海商銀",
+            "ticker": "5876",
+            "description": "金融股，上海商銀被投信持續加碼 2,966 張。這國家隊對金融股的愛，肖年仔你看到了嗎？"
+          },
+          {
+            "stock_name": "強茂",
+            "ticker": "2481",
+            "description": "投信也買強茂 2,850 張，跟外資同步。這檔二極體股值得觀察，但別追高。"
+          },
+          {
+            "stock_name": "亞泥",
+            "ticker": "1102",
+            "description": "傳產股，亞泥被投信買超 2,803 張。可能跟基建或原物料題材有關，但這不是短線飆股。"
+          },
+          {
+            "stock_name": "大成鋼",
+            "ticker": "2027",
+            "description": "鋼鐵股，大成鋼被投信買超 2,098 張。可能跟景氣復甦有關，但這類股通常是波段操作。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：ETF 避險兼卡位，金融股成避風港",
+        "stocks": [
+          {
+            "stock_name": "富邦科技",
+            "ticker": "0052",
+            "description": "自營商買超富邦科技 ETF 1,332 張。這擺明是避險，或是看好科技股但不想單壓，肖年仔，這就是專業的避險盤。"
+          },
+          {
+            "stock_name": "新興",
+            "ticker": "2605",
+            "description": "航運股，新興被自營商買超 638 張。可能是短線操作，肖年仔，航運股波動大，別黑白買。"
+          },
+          {
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "自營商也買聯電 623 張，但外資買超更多，投信卻倒貨。這檔籌碼很亂，主力心態不一，肖年仔別亂衝。"
+          },
+          {
+            "stock_name": "玉山金",
+            "ticker": "2884",
+            "description": "自營商也買玉山金 539 張。這波金融股是大家的避風港嗎？避險盤無誤。"
+          },
+          {
+            "stock_name": "凱基金",
+            "ticker": "2883",
+            "description": "自營商買超凱基金 486 張。避險盤的標準動作，肖年仔，這就是穩健操作。"
+          },
+          {
+            "stock_name": "國泰金",
+            "ticker": "2882",
+            "description": "自營商買超國泰金 358 張。老套路了，這就是資金避風港。"
+          },
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "自營商買超兆豐金 350 張。避險意味濃厚，肖年仔，別以為自營商會去追高。"
+          },
+          {
+            "stock_name": "元大金",
+            "ticker": "2885",
+            "description": "自營商買超元大金 281 張。避險盤，這就是穩穩賺。"
+          },
+          {
+            "stock_name": "富邦金",
+            "ticker": "2881",
+            "description": "自營商買超富邦金 273 張。避險盤，肖年仔，這就是大戶的穩健操作。"
+          },
+          {
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "自營商也買友達 210 張，但買超張數遠不如外資。可能是避險盤或短線操作，肖年仔，這不是主力鎖碼。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔避險與資金避風港（金融股）",
-        "strategy_content": "肖年仔，你看外資跟投信，兩大咖不約而同狂掃金融股，台中銀、合庫金、兆豐金、台新新光金、永豐金，幾乎把金控股都買了一輪。這很明顯是市場資金在高檔尋找避風港。國際上，美國那邊有餐飲業破產，Costco也關服務，經濟前景不明朗，大戶們把錢從高風險的科技股抽出來，轉進相對穩健、有高殖利率題材的金融股，不只避險，還能穩穩賺利息，這就是所謂的『防禦型佈局』啦！"
+        "strategy_title": "策略一：高檔避險與資金避風港（金融、面板）",
+        "strategy_content": "肖年仔，今天外資狂掃金融股，從遠東銀、兆豐金到合庫金、元大金、第一金，幾乎把金控股都買了一輪。這擺明是市場高檔震盪，資金從高風險的電子股撤出，轉往相對穩健、有高殖利率題材的金融股避險。面板雙雄友達、群創也被外資大買，這可能是在賭面板報價築底反彈，或是利用低基期來做避險配置。自營商也跟著買進多檔金融股和 ETF，這都是避險盤的標準動作，肖年仔，別傻傻去追高。"
       },
       {
-        "strategy_title": "策略二：科技股高檔調節與低基期卡位（半導體、面板）",
-        "strategy_content": "外資跟投信都在倒貨聯電、台積電、日月光投控這些大型權值科技股，尤其是摩根大通狂賣聯電1.35萬張，這擺明了是獲利了結，『拉高出貨』的節奏。但同時，外資又買華邦電、友達，自營商也買華邦電、群創，這代表資金並非完全撤出科技，而是從漲多的、高基期的半導體轉向相對低基期、有反彈潛力的記憶體跟面板。這就是大戶在玩『高出低進』的遊戲，肖年仔別傻傻去追高被割韭菜。"
+        "strategy_title": "策略二：AI 概念股高檔震盪，投信逢高調節與佈局傳產",
+        "strategy_content": "投信雖然還在買緯創這種 AI 概念股，買超 14,547 張，但買超張數已經不像之前那麼瘋狂。Dell 財報雖然不錯，但市場對 AI 股的熱情可能開始降溫，投信可能在逢高調節。同時，投信也開始佈局遠東新、興富發、亞泥、大成鋼等傳產股，這顯示本土國家隊可能在 AI 概念股高檔震盪時，逢高調節部分持股，並將資金轉往低基期或有旺季題材的傳產股，為年底作帳行情做準備。聯電被投信大賣，但外資和自營商卻在買，這檔籌碼有點亂，肖年仔別黑白猜。"
       },
       {
-        "strategy_title": "策略三：內資短線搏擊與權證避險（記憶體、特定科技股）",
-        "strategy_content": "自營商這群短線客，買超華邦電、群創、聯電，但同時也賣出富邦科技、強茂。這群人動作快，買賣超金額相對小，很可能是為了權證避險盤在操作，或是進行短線的『隔日沖』。凱基台北這種短線分點也買華邦電，這就更印證了短線資金在記憶體股上『黑白摸』。他們不會抱太久，通常是拉高就倒貨，肖年仔如果沒那個速度，最好別跟著瞎起鬨。"
+        "strategy_title": "策略三：短線主力與隔日沖鎖定熱門股，籌碼戰開打",
+        "strategy_content": "從關鍵分點來看，美商高盛狂掃友達近兩萬張，這很可能是外資大戶的波段鎖碼，看好面板後市。但凱基台北這種隔日沖大戶，買進富邦科技 ETF，可能是短線避險或隔日沖的預備動作。元大投信買緯創，顯示投信內部對 AI 概念股的看法仍有分歧，但整體而言，高檔震盪下，短線主力會更活躍，籌碼戰會更激烈，肖年仔要小心別接到刀，不然會被割韭菜。摩根大通大賣南亞科，這擺明是外資在倒貨記憶體族群，資金正在從部分電子股撤出，別傻傻去接。"
       }
     ],
-    "summary": "肖年仔，今天市場就是『金融為王，科技輪動』，外資投信狂抱金融股避險兼作帳，科技股則在高檔調節，資金轉往低基期或有短線題材的記憶體、面板。內資主力則在特定個股上玩短線，沒兩把刷子別亂追，小心被倒貨！",
+    "summary": "肖年仔，今天外資狂掃金融面板避險，投信則在 AI 高檔震盪中佈局傳產，自營商也跟著買 ETF 避險。Dell 財報雖好，但市場資金輪動快速，高檔震盪下，別黑白追高，小心被割韭菜！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 1.00 萬張",
-        "uncle_logic": "這美商高盛，一天就買了台中銀超過一萬張，這不是真外資長線布局，就是看準金融股的穩健性，把錢放進來避險，順便卡位高殖利率，這單子不是隔日沖，是想抱一陣子的。"
+        "action": "買超 1.94 萬張",
+        "uncle_logic": "肖年仔，美商高盛狂掃友達，這不是黑白買，這擺明是外資大戶看好面板報價築底反彈，準備波段鎖碼，或是拿來做避險配置。這手筆不小，值得注意。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 1051 張",
-        "uncle_logic": "凱基台北這分點，買華邦電1051張，這很明顯就是典型的『隔日沖』分點在動手腳。今天買進，明天高機率就是『拉高出貨』，肖年仔看到這種分點進場，要嘛跟著衝，要嘛就避開，別傻傻去接刀。"
+        "action": "買超 532 張",
+        "uncle_logic": "凱基台北這分點，肖年仔都知道是隔日沖大戶的愛用分點。買進富邦科技 ETF，可能是短線避險，也可能是為隔日沖做準備，明天開盤要小心倒貨。"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 4127 張",
-        "uncle_logic": "元大投信買台新新光金4127張，這就是本土國家隊在『作帳』啦！投信為了年底績效，會把資金灌到一些穩健的金融股，拉高淨值，肖年仔可以觀察這種作帳行情，但別追高，等他們結帳完再說。"
+        "action": "買超 6,546 張",
+        "uncle_logic": "元大投信買緯創，這顯示投信還在抱 AI 概念股，但肖年仔，高檔震盪，投信內部可能也有分歧，這是在作帳還是準備結帳，要再觀察。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 1.35 萬張",
-        "uncle_logic": "摩根大通這外資大咖，一天就倒了聯電1.35萬張，這不是一般的調節，這擺明了是『拉高出貨』，或是對半導體後市有疑慮，先跑再說。肖年仔看到這種大咖在賣，就別去當傻子接刀了，小心『融資斷頭』！"
+        "action": "賣超 1.03 萬張",
+        "uncle_logic": "摩根大通大賣南亞科，這擺明是外資在倒貨記憶體族群。肖年仔，這代表資金正在從部分電子股撤出，小心別去接刀，不然會被割韭菜！"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "Denny\\u2019s rival dining chain files for Chapter 11 bankruptcy",
+      "title": "Why you can't find McDonald's $3 value menu",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/denny-rival-dining-chain-files-153300154.html",
-      "level1_blind": "The breakfast dining sector has faced financial challenges in 2026, leading dining chains to close locations or, in some cases, file for bankruptcy protection.\n\nFranchisees of iconic chain Denny's, such as DBJ US Corp. in Miami Beach, Fla., have been among the restaurant operators who have filed for bankruptcy.\n\nAnd smaller chains, such as Sarabeth's in New York City and Breakfast Republic in San Diego have closed several of their locations to cut costs to stay in business.\n\nAnd now the owner of breakfast and brunch dining chain Buttermilk Eatery has filed for Chapter 11 protection to reorganize its business, facing a lawsuit.\n\nAsani Restaurant Group LLC filed its petition in the U.S. Bankruptcy Court for the Middle District of Florida on Aug. 31, listing over $75,000 in assets and over $407,000 in debts.\n\nThe debtor did not give a specific reason for filing for bankruptcy in its petition. A company spokesperson was not immediately available for comment.\n\nThe restaurant chain, founded in January 2023, serves breakfast, brunch, and lunch at its North St. Petersburg and Pinellas Park, Fla., locations, and has plans to open a third location in St. Petersburg's Grand Central District in summer 2026.\n\nButtermilk Eatery competes against the iconic Denny's chain, which operates a location in St. Petersburg.",
+      "link": "https://finance.yahoo.com/small-business/articles/mcdonalds-3-menu-problem-hits-231000768.html",
+      "level1_blind": "McDonald's franchises nearly all of its restaurants in the United States, which means franchise operators have a significant say in operational changes. In some cases, for example, they can reject deal pricing.\n\nUsually, when McDonald's rolls out a promotion such as $2.99 Snack Wraps or $4 breakfast meals, only select franchise operators will not adopt the deal. Maybe franchisees operating in airports, rest stops, and other expensive real estate will pass on the deal, but most franchisees generally get on board.\n\nCFO Ian Borden noted during the chain's first-quarter earnings call that franchisees overwhelmingly supported adding the promotion.\n\n\"With unanimous approval through the franchisee field votes, we launched the revamped McValue platform in mid-April. The new under $3 menu features well-known a la carte items available throughout the day,\" he said.\n\n\"Unanimous\" sounded encouraging, but in reality, something else happened that put customers in a challenging position.\n\nAs a retail and restaurant writer who has covered these industries for more than 30 years, I generally expect heavily promoted deals to actually be on the menu when I visit a chain. That has not always been the case for McDonald's Under $3 Every Day Affordable Price (EDAP) menu.\n\n\"That is the EDAP menu. You could call that 10 items for under $3. That was sort of the last piece that we felt like we needed to get done in the U.S., and that was what McValue 2.0 was, as we referred to it. That's what we introduced in April of this year,\" he said.\n\n\"Part of that was due to the fact that we're getting really inconsistent execution. Only about, call it, 60% to 65% of our system is currently executing the recommended pricing architecture with the 10 items for under $3,\" he added.",
       "level2_keywords": [
         {
-          "word": "bankruptcy",
-          "ipa": "/bæŋkˈræsɪtɪ/",
-          "meaning": "財務上宣告破產的狀態",
-          "example": "公司因為財務問題宣告破產"
-        },
-        {
-          "word": "dining",
-          "ipa": "/ˈdɪnaɪŋ/",
-          "meaning": "餐廳或餐飲業",
-          "example": "餐廳業者需要經營高效"
-        },
-        {
           "word": "franchise",
-          "ipa": "/ˈfrænʃaɪz/",
-          "meaning": "授權他人經營的公司",
-          "example": "Denny's 的分公司"
+          "ipa": "/frɛndʃaɪz",
+          "meaning": "公司分公司",
+          "example": "這家公司的分公司在美國有很大的影響力"
         },
         {
-          "word": "restaurant",
-          "ipa": "/ˈrɛstərənt/",
-          "meaning": "餐廳",
-          "example": "餐廳業者需要經營高效"
+          "word": "pricing",
+          "ipa": "/praɪsɪŋ",
+          "meaning": "價格",
+          "example": "公司需要調整價格以適應消費者需求"
         },
         {
-          "word": "export",
-          "ipa": "/ɛkspɔːrt/",
-          "meaning": "出口",
-          "example": "出口商品需要經過稅務"
+          "word": "architecture",
+          "ipa": "/ɑːrˈkɪtɛktʃər",
+          "meaning": "結構",
+          "example": "公司需要設計一個適合的價格架構"
+        },
+        {
+          "word": "execution",
+          "ipa": "/ɛksˈɛkʃən",
+          "meaning": "實施",
+          "example": "公司需要確保價格架構的實施"
+        },
+        {
+          "word": "promotion",
+          "ipa": "/prɒməˈteɪʃən",
+          "meaning": "推廣",
+          "example": "公司需要設計一個有效的推廣策略"
         }
       ],
-      "level2_context": "2026 年，早餐餐廳業面臨財務挑戰，導致一些餐廳關閉或宣告破產。Denny's 的分公司也宣告破產。小型餐廳業者需要經營高效，才能存活在競爭激烈的市場中。這個案例也展現了出口商品的重要性，尤其是在全球貿易中。",
+      "level2_context": "美國公司 McDonald's 的價格架構設計遇到困難，導致一些分公司不適應新的價格政策，從而影響消費者體驗。這是公司需要關注的重要問題，需要通過適當的設計和實施來解決。",
       "level3_translation": [
         {
-          "sentence": "The breakfast dining sector has faced financial challenges in 2026, leading dining chains to close locations or, in some cases, file for bankruptcy protection.",
-          "translation": "早餐餐廳業面臨財務挑戰，導致一些餐廳關閉或宣告破產"
+          "sentence": "McDonald's franchises nearly all of its restaurants in the United States, which means franchise operators have a significant say in operational changes.",
+          "translation": "美國麥當勞的分公司大多數都在美國，分公司經營者對營運變化有很大的影響力"
         },
         {
-          "sentence": "Franchisees of iconic chain Denny's, such as DBJ US Corp. in Miami Beach, Fla., have been among the restaurant operators who have filed for bankruptcy.",
-          "translation": "Denny's 的分公司是這些餐廳業者中的一部分"
+          "sentence": "Usually, when McDonald's rolls out a promotion such as $2.99 Snack Wraps or $4 breakfast meals, only select franchise operators will not adopt the deal.",
+          "translation": "一般來說，當麥當勞推出促銷活動，如 $2.99 Snack Wraps 或 $4早餐餐點時，只有特定的分公司經營者不會採用這個促銷活動"
         },
         {
-          "sentence": "And smaller chains, such as Sarabeth's in New York City and Breakfast Republic in San Diego have closed several of their locations to cut costs to stay in business.",
-          "translation": "小型餐廳業者，如紐約市的 Sarabeth's 和 San Diego 的 Breakfast Republic，關閉了多家分店，以降低成本，保持生 Businesses"
+          "sentence": "CFO Ian Borden noted during the chain's first-quarter earnings call that franchisees overwhelmingly supported adding the promotion.",
+          "translation": "麥當勞首席財務官 Ian Borden 在公司的第一季度收益電話上表示，分公司經營者大多數支持增加這個促銷活動"
         },
         {
-          "sentence": "And now the owner of breakfast and brunch dining chain Buttermilk Eatery has filed for Chapter 11 protection to reorganize its business, facing a lawsuit.",
-          "translation": "現在，但termilk Eatery 的主人宣告破產，為了重新組織生 Businesses，面臨法律訴訟"
+          "sentence": "\"With unanimous approval through the franchisee field votes, we launched the revamped McValue platform in mid-April. The new under $3 menu features well-known a la carte items available throughout the day,\" he said.",
+          "translation": "\"通過分公司經營者的一致同意，我們在四月中旬推出了一個新 revamped 的 McValue 平台。這個新 menu 下 $3 的菜單中，包括了知名的 à la carte 食品，於每天都可供選擇\""
         },
         {
-          "sentence": "Asani Restaurant Group LLC filed its petition in the U.S. Bankruptcy Court for the Middle District of Florida on Aug. 31, listing over $75,000 in assets and over $407,000 in debts.",
-          "translation": "Asani Restaurant Group LLC 在 8 月 31 日向佛羅里達州中區法院提交了請求，列出資產為 75,000 美元，負債為 407,000 美元"
+          "sentence": "\"Unanimous\" sounded encouraging, but in reality, something else happened that put customers in a challenging position.",
+          "translation": "\"一致的\"聽起來很有希望，但實際上，事情的實際情況是，讓消費者在困擾的位置"
         },
         {
-          "sentence": "The debtor did not give a specific reason for filing for bankruptcy in its petition.",
-          "translation": "借款人未提供任何原因宣告破產的理由"
+          "sentence": "As a retail and restaurant writer who has covered these industries for more than 30 years, I generally expect heavily promoted deals to actually be on the menu when I visit a chain.",
+          "translation": "作為一位長期從事零售和餐飲Industry的作者，我通常期望推廣活動實際上會出現在餐廳中"
         },
         {
-          "sentence": "A company spokesperson was not immediately available for comment.",
-          "translation": "公司 spokesperson 尚未提供任何評論"
+          "sentence": "That has not always been the case for McDonald's Under $3 Every Day Affordable Price (EDAP) menu.",
+          "translation": "這種情況並不是麥當勞的 $3 日常價格 menu 的常規"
         },
         {
-          "sentence": "The restaurant chain, founded in January 2023, serves breakfast, brunch, and lunch at its North St. Petersburg and Pinellas Park, Fla., locations, and has plans to open a third location in St. Petersburg's Grand Central District in summer 2026.",
-          "translation": "這家餐廳業者在 2023 年 1 月成立，提供早餐、 brunch 和午餐，位於北聖彼得堡和 Pinellas Park 的分店， plans 打算在 2026 年夏季在聖彼得堡的 Grand Central District 打開第三家分店"
+          "sentence": "\"That is the EDAP menu. You could call that 10 items for under $3. That was sort of the last piece that we felt like we needed to get done in the U.S., and that was what McValue 2.0 was, as we referred to it.",
+          "translation": "\"這就是 EDAP 菜單。你可以把它說成是 $3 下的 10 個菜品。這是我們在美國需要做的最後一點事情，然後就把它稱為 McValue 2.0\""
         },
         {
-          "sentence": "Buttermilk Eatery competes against the iconic Denny's chain, which operates a location in St. Petersburg.",
-          "translation": "但termilk Eatery 与Iconic Denny's 連鎖店競爭，Denny's 在聖彼得堡有一家分店"
-        },
-        {
-          "sentence": "The debtor did not give a specific reason for filing for bankruptcy in its petition.",
-          "translation": "借款人未提供任何原因宣告破產的理由"
-        },
-        {
-          "sentence": "A company spokesperson was not immediately available for comment.",
-          "translation": "公司 spokesperson 尚未提供任何評論"
-        },
-        {
-          "sentence": "The restaurant chain, founded in January 2023, serves breakfast, brunch, and lunch at its North St. Petersburg and Pinellas Park, Fla., locations, and has plans to open a third location in St. Petersburg's Grand Central District in summer 2026.",
-          "translation": "這家餐廳業者在 2023 年 1 月成立，提供早餐、 brunch 和午餐，位於北聖彼得堡和 Pinellas Park 的分店， plans 打算在 2026 年夏季在聖彼得堡的 Grand Central District 打開第三家分店"
+          "sentence": "\"Part of that was due to the fact that we're getting really inconsistent execution. Only about, call it, 60% to 65% of our system is currently executing the recommended pricing architecture with the 10 items for under $3,\" he added.",
+          "translation": "\"這部分原因是因為我們正在經歷很不一致的實施。目前，系統中只有大約 60% 到 65% 的項目正在實施這個建議的價格架構，包括 $3 下的 10 個菜品\""
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Costco shuts down key service without notice",
+      "title": "Is Medtronic Stock Underperforming the Dow?",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-shuts-down-key-no-011218190.html",
-      "level1_blind": "Costco did not even sell merchandise on its website until 1998, and in those days, the selection was very limited.\n\nSure, Costco Travel lived there, but the website was more about advertising ancillary services such as TurboTax access than about selling anything to members.\n\nIn recent years, however, Costco has offered a greatly expanded selection, and it allows members to use Instacart and Shipt to order select items directly from its warehouses.\n\nIt had also been building on that with its digital-only program, Costco Next, which lets members access items the warehouse club does not stock. It's not a new service; it has technically been around since 2017. But Costco does not promote the offering, and it's something I, and many other members, did not know about.\n\n\"Access to Costco Next store fronts is no longer available. Please refer to the list below for contact information for vendors with active return policies. For eligible returns and warranty inquiries, contact the vendor directly,\" the company shared.\n\nThat was followed by a long list of company names with their contact information.\n\nA third-party marketplace like the model pioneered by Amazon, Costco Next offered an expanded selection of items that never make it into a Costco warehouse. The program, however, differed from Amazon's approach in important ways.\n\nCostco Next allowed the retailer to offer more merchandise, but have it shipped directly from partners. The warehouse club, however, is still careful with its merchandise, and its buyers worked with partner retailers.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/medtronic-stock-underperforming-dow-160024127.html",
+      "level1_blind": {
+        "text": "With a market cap of $117.8 billion, Medtronic plc (MDT) is a leading global healthcare technology company focused on addressing complex health challenges through innovative medical solutions. With a global workforce serving patients across more than 150 countries, its technologies span cardiac devices, surgical robotics, insulin pumps, surgical tools, and patient monitoring systems.\n\nCompanies valued at $10 billion or more are generally considered \"large-cap\" stocks, and Medtronic fits this criterion perfectly. Guided by its mission to alleviate pain, restore health, and extend life, Medtronic's innovations aim to improve outcomes and transform lives worldwide.\n\nShares of the medical device manufacturer have fallen 12.1% from its 52-week high of $106.33. The stock is up 27.1% over the past three months, outperforming the broader Dow Jones Industrials Average's ($DOWI) 3.7% gain over the same time frame.\n\nShares of the Dublin, Ireland-based company have fallen 2.4% on a YTD basis, lagging behind the Dow Jones' 10.7% increase. Moreover, the stock has risen marginally over the past 52 weeks, compared to DOWI's 17.5% return over the same time frame.\n\nMDT stock has been trading below its 50-day and 200-day moving averages since mid-February. However, it has moved above its 50-day moving average since July.\n\nMedtronic shares rose 1.5% on Sept. 1 after the company raised its fiscal 2027 organic revenue growth outlook to 7.25% - 7.75% and lifted the lower end of adjusted EPS guidance to $5.94. The company also reported better-than-expected Q1 2027 revenue of $9.76 billion and adjusted EPS of $1.45. Growth was led by the cardiovascular business, where sales jumped 19.5% to $3.93 billion, including 88% growth in pulsed-field ablation, and neuroscience and medical surgical sales grew 10.3% and 10%, respectively.\n\nIn comparison, rival Abbott Laboratories (ABT) has lagged behind MDT stock. ABT stock has declined 10.9% on a YTD basis and 15% over the past 52 weeks.\n\nDespite MDT stock's outperformance over the past three months, analysts are cautiously optimistic about its prospects. The stock has a consensus rating of \"Moderate Buy\" from the 29 analysts covering it, and the mean price target of $98.15 represents a premium of 3.9% to current levels."
+      },
       "level2_keywords": [
         {
-          "word": "semiconductor",
-          "ipa": "/sɛmɪˈkɒndʒərət/",
-          "meaning": "半導體",
-          "example": "半導體產業是全球最重要的電子業"
+          "word": "market cap",
+          "ipa": "/ˈmɑːrkɪt kæp/",
+          "meaning": "市值，指一家公司所有流通股的總價值，是衡量公司規模的重要指標。",
+          "example": "With a market cap of $117.8 billion, Medtronic is considered a giant in the healthcare technology sector."
         },
         {
-          "word": "Instacart",
-          "ipa": "/ɪnˈstækɑrt/",
-          "meaning": "快遞服務",
-          "example": "Instacart 是一家提供快遞服務的公司"
+          "word": "underperforming",
+          "ipa": "/ˌʌndərpərˈfɔːrmɪŋ/",
+          "meaning": "表現不佳，指某項資產或投資的報酬率低於其基準指數或同類資產的平均水準。",
+          "example": "The article questions if Medtronic stock is underperforming the Dow Jones Industrials Average on a year-to-date basis."
         },
         {
-          "word": "warehouse",
-          "ipa": "/ˈwɔːr.haʊs/",
-          "meaning": "倉庫",
-          "example": "Costco 的倉庫是其提供商品的主要場所"
+          "word": "Dow Jones Industrials Average",
+          "ipa": "/ˌdaʊ ˌdʒoʊnz ɪnˈdʌstriəlz ˈævərɪdʒ/",
+          "meaning": "道瓊工業平均指數，是美國股市最具代表性的指數之一，由30家大型藍籌股組成，反映美國工業部門的整體表現。",
+          "example": "Medtronic's recent stock performance is often compared to the broader Dow Jones Industrials Average to assess its relative strength."
         },
         {
-          "word": "TurboTax",
-          "ipa": "/ˈtɜːrbə.tæks/",
-          "meaning": "turboTax",
-          "example": "turboTax 是一種會計軟體"
+          "word": "adjusted EPS guidance",
+          "ipa": "/əˈdʒʌstɪd iːpiːˈɛs ˈɡaɪdəns/",
+          "meaning": "調整後每股盈餘財測指引，指公司對未來每股盈餘的預期，通常會排除一次性或非經常性項目，以提供更具代表性的獲利展望。",
+          "example": "The company lifted the lower end of its adjusted EPS guidance, signaling a more optimistic outlook for future earnings."
         },
         {
-          "word": "export",
-          "ipa": "/ɪkˈsɔːt/",
-          "meaning": "出口",
-          "example": "公司的出口商品受到政府的監管"
+          "word": "mean price target",
+          "ipa": "/miːn praɪs ˈtɑːrɡɪt/",
+          "meaning": "平均目標價，指分析師們對某支股票未來股價的平均預期，常用來評估股票的潛在上漲空間。",
+          "example": "The stock's mean price target of $98.15 suggests analysts see further upside potential for Medtronic."
         }
       ],
-      "level2_context": "美國公司Costco recently shut down its digital-only program, Costco Next, without notice. This move has affected many members who were not aware of the program's existence. The program allowed members to access items that were not stocked in Costco warehouses, but it was not promoted by the company.",
+      "level2_context": "各位同學，這篇新聞在探討醫療科技巨頭美敦力（Medtronic）的股價表現，特別是它與美國股市重要指標「道瓊工業平均指數」之間的比較。這類新聞在財經界很常見，因為大型股的表現往往被視為產業或整體經濟的風向球。美敦力作為一家市值千億美元的「大型股」，其股價波動不僅影響投資人，也反映了醫療科技產業的發展趨勢。新聞中提到，儘管美敦力在某些時間段表現優於道瓊指數，但在其他時間段卻落後，這顯示了即使是產業龍頭，也可能面臨市場波動與競爭壓力。而公司近期上調「財測指引」和營收預期，以及新技術（如「脈衝電場消融」）的強勁成長，都是驅動股價上漲的關鍵因素。這也提醒我們，在評估一家公司時，除了看整體市場表現，更要深入了解其營運基本面、產品創新以及未來的「財測指引」。",
       "level3_translation": [
         {
-          "sentence": "Costco did not even sell merchandise on its website until 1998, and in those days, the selection was very limited.",
-          "translation": "Costco 在其網站上沒有出售任何商品，直到 1998 年，選擇的商品非常有限"
+          "sentence": "With a market cap of $117.8 billion, Medtronic plc (MDT) is a leading global healthcare technology company focused on addressing complex health challenges through innovative medical solutions.",
+          "translation": "美敦力公司（MDT）市值高達1,178億美元，是一家全球領先的醫療科技公司，致力於透過創新的醫療解決方案來應對複雜的健康挑戰。"
         },
         {
-          "sentence": "Sure, Costco Travel lived there, but the website was more about advertising ancillary services such as TurboTax access than about selling anything to members.",
-          "translation": "確實，Costco 旅遊部門在那裡，但網站主要是為了宣傳輔助服務，例如會計軟體 TurboTax 的使用，而不是為了出售商品給會員"
+          "sentence": "With a global workforce serving patients across more than 150 countries, its technologies span cardiac devices, surgical robotics, insulin pumps, surgical tools, and patient monitoring systems.",
+          "translation": "該公司在全球擁有員工，為超過150個國家的病患提供服務，其技術涵蓋心臟裝置、手術機器人、胰島素幫浦、手術工具以及病患監測系統。"
         },
         {
-          "sentence": "In recent years, however, Costco has offered a greatly expanded selection, and it allows members to use Instacart and Shipt to order select items directly from its warehouses.",
-          "translation": "在近年來，Costco however đã提供一個非常豐富的選擇，允許會員使用 Instacart 和 Shipt 直接從其倉庫中購買特定的商品"
+          "sentence": "Companies valued at $10 billion or more are generally considered \"large-cap\" stocks, and Medtronic fits this criterion perfectly.",
+          "translation": "通常，市值達100億美元或以上的公司會被視為「大型股」，而美敦力公司完全符合這個標準。"
         },
         {
-          "sentence": "It had also been building on that with its digital-only program, Costco Next, which lets members access items the warehouse club does not stock.",
-          "translation": "此外，Costco 還在發展其數字-only 服務，Costco Next，讓會員可以進入倉庫中不 stocking 的商品"
+          "sentence": "Guided by its mission to alleviate pain, restore health, and extend life, Medtronic's innovations aim to improve outcomes and transform lives worldwide.",
+          "translation": "在「減輕痛苦、恢復健康、延長生命」的使命引導下，美敦力的創新旨在全球範圍內改善治療成果並改變人們的生活。"
         },
         {
-          "sentence": "\"Access to Costco Next store fronts is no longer available. Please refer to the list below for contact information for vendors with active return policies. For eligible returns and warranty inquiries, contact the vendor directly,\" the company shared.",
-          "translation": "\"進入Costco Next 商店的入口已經不可用了。請參考以下列表中提供的商家連絡資訊。對於有有效退貨政策的商家，請直接聯繫商家。\"公司發布的通告"
+          "sentence": "Shares of the medical device manufacturer have fallen 12.1% from its 52-week high of $106.33.",
+          "translation": "這家醫療設備製造商的股價已從其52週高點106.33美元下跌了12.1%。"
         },
         {
-          "sentence": "That was followed by a long list of company names with their contact information.",
-          "translation": "接著一長串商家名稱和連絡資訊"
+          "sentence": "The stock is up 27.1% over the past three months, outperforming the broader Dow Jones Industrials Average's ($DOWI) 3.7% gain over the same time frame.",
+          "translation": "然而，該股在過去三個月上漲了27.1%，表現優於同期道瓊工業平均指數（$DOWI）的3.7%漲幅。"
         },
         {
-          "sentence": "A third-party marketplace like the model pioneered by Amazon, Costco Next offered an expanded selection of items that never make it into a Costco warehouse.",
-          "translation": "像 Amazon 這樣的第三方市場平台，Costco Next 提供了一個豐富的商品選擇，從未進入 Costco 瓶店"
+          "sentence": "Shares of the Dublin, Ireland-based company have fallen 2.4% on a YTD basis, lagging behind the Dow Jones' 10.7% increase.",
+          "translation": "這家總部位於愛爾蘭都柏林的公司，其股價今年以來（YTD）下跌了2.4%，落後於道瓊指數10.7%的漲幅。"
         },
         {
-          "sentence": "The program, however, differed from Amazon's approach in important ways.",
-          "translation": "此 programme 但是與 Amazon 的方法有著重要的差異"
+          "sentence": "Moreover, the stock has risen marginally over the past 52 weeks, compared to DOWI's 17.5% return over the same time frame.",
+          "translation": "此外，該股在過去52週僅小幅上漲，而道瓊工業平均指數同期則有17.5%的報酬率。"
         },
         {
-          "sentence": "Costco Next allowed the retailer to offer more merchandise, but have it shipped directly from partners.",
-          "translation": "Costco Next允許商家提供更多商品，但由夥伴公司直接發送"
+          "sentence": "MDT stock has been trading below its 50-day and 200-day moving averages since mid-February.",
+          "translation": "自二月中旬以來，美敦力（MDT）的股價一直低於其50日和200日移動平均線。"
         },
         {
-          "sentence": "The warehouse club, however, is still careful with its merchandise, and its buyers worked with partner retailers.",
-          "translation": "儘管如此，倉庫店仍然謹慎地管理其商品，買家與夥伴商家合作"
+          "sentence": "However, it has moved above its 50-day moving average since July.",
+          "translation": "不過，自七月以來，它已經回升到50日移動平均線之上。"
+        },
+        {
+          "sentence": "Medtronic shares rose 1.5% on Sept. 1 after the company raised its fiscal 2027 organic revenue growth outlook to 7.25% - 7.75% and lifted the lower end of adjusted EPS guidance to $5.94.",
+          "translation": "美敦力股價在9月1日上漲了1.5%，此前該公司將其2027財年的「有機營收成長展望」上調至7.25%至7.75%，並將調整後每股盈餘（EPS）的「財測指引」下限提高到5.94美元。"
+        },
+        {
+          "sentence": "The company also reported better-than-expected Q1 2027 revenue of $9.76 billion and adjusted EPS of $1.45.",
+          "translation": "該公司也公布了優於預期的2027財年第一季營收，達到97.6億美元，以及調整後每股盈餘1.45美元。"
+        },
+        {
+          "sentence": "Growth was led by the cardiovascular business, where sales jumped 19.5% to $3.93 billion, including 88% growth in pulsed-field ablation, and neuroscience and medical surgical sales grew 10.3% and 10%, respectively.",
+          "translation": "成長主要由心血管業務帶動，該業務銷售額躍升19.5%至39.3億美元，其中「脈衝電場消融」技術成長了88%；神經科學和醫療手術業務的銷售額則分別成長了10.3%和10%。"
+        },
+        {
+          "sentence": "In comparison, rival Abbott Laboratories (ABT) has lagged behind MDT stock.",
+          "translation": "相較之下，競爭對手亞培實驗室（ABT）的股價表現則落後於美敦力（MDT）。"
+        },
+        {
+          "sentence": "ABT stock has declined 10.9% on a YTD basis and 15% over the past 52 weeks.",
+          "translation": "亞培（ABT）股價今年以來（YTD）下跌了10.9%，過去52週則下跌了15%。"
+        },
+        {
+          "sentence": "Despite MDT stock's outperformance over the past three months, analysts are cautiously optimistic about its prospects.",
+          "translation": "儘管美敦力（MDT）股價在過去三個月表現優異，分析師們對其前景仍持「謹慎樂觀」態度。"
+        },
+        {
+          "sentence": "The stock has a consensus rating of \"Moderate Buy\" from the 29 analysts covering it, and the mean price target of $98.15 represents a premium of 3.9% to current levels.",
+          "translation": "該股獲得了29位分析師的「中度買入」共識評級，其平均目標價為98.15美元，這意味著相較於目前股價有3.9%的「溢價空間」。"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Is Union Pacific Stock Outperforming the S¼P 500?",
+      "title": "Dell Beats On Every Line And Guides Higher Than Anyone Modeled",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/union-pacific-stock-outperforming-p-153756706.html",
-      "level1_blind": "Omaha, Nebraska-based Union Pacific Corporation (UNP) operates in the railroad business. Valued at $178.6 billion by market cap, it connects 23 states in the western two-thirds of the U.S. by rail, providing a critical link in the global supply chain, hauling a variety of goods, including agricultural, automotive, and chemical products.\n\nCompanies worth $10 billion or more are generally described as \"large-cap stocks,\" and UNP definitely fits that description, with its market cap exceeding this threshold, reflecting its substantial size, influence, and dominance in the railroads industry. UNP's expansive North American network, including its stake in Mexico's Ferromex and strong cross-border freight business, gives it a distinct competitive advantage and supports a diverse customer base. Its long-standing reputation for reliability has built strong brand loyalty and long-term contracts, driving stable revenues and long-term growth.\n\nBill Gates Says 'We Need Time to Prepare' for an Economic Upheaval — Especially the $20-an-Hour Workers Being Replaced by $10-an-Hour Robots\n\nDespite its notable strength, UNP slipped 5.7% from its 52-week high of $315.99, achieved on Jul. 23. Over the past three months, UNP stock gained 13%, outperforming the SüP 500 Index's ($SPX) marginal gains during the same time frame.\n\nShares of UNP rose 28.7% on a YTD basis and climbed 33.2% over the past 52 weeks, outperforming SPX's YTD gains of 11.5% and 18.2% returns over the last year.\n\nTo confirm the bullish trend, UNP has been trading above its 200-day moving average since late April, with slight fluctuations. The stock has been trading above its 50-day moving average since late November, 2025, with minor fluctuations.\n\nUNP outperformed market expectations by converting robust demand into growth through reliable operations and cost-efficiency. Additionally, strategic momentum advanced on the planned merger with Norfolk Southern Corporation (NSC) after securing an agreement to neutralize resistance from Canadian National.\n\nOn Jul. 23, UNP shares closed up more than 4% after reporting its Q2 results. Its adjusted EPS of $3.41 topped Wall Street expectations of $3.20. The company's revenue was $6.9 billion, exceeding Wall Street forecasts of $6.7 billion.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dell-beats-every-line-guides-155607614.html",
+      "level1_blind": "Our analysts just identified a stock with the potential to be the next Nvidia. Tell us how you invest and we'll show you why it's our #1 pick. Tap here.\n\nMichael Dell went on X Tuesday night and posted this: “There’s an old Texas saying I may have just made up... If you keep growing EPS 200%+ y/y something good will happen.”\n\nHe has earned the right to make up sayings. Dell reported $7.04 in adjusted earnings against the $4.92 Wall Street wanted, on revenue of $46.97 billion against $44.92 billion. Revenue grew 58% and beat every estimate on the street. Net income went from $1.16 billion a year ago to $4.13 billion. Shares rose 9% after hours, on top of a stock up 236% this year against the Sɩ’s 11%.\n\nThen Dell said what next quarter looks like, which is where it stops being a good print and starts being ridiculous. Third-quarter guidance came in at $6.50 a share on $49 billion, implying 81% growth. Analysts had penciled in $4.49 and $41.42 billion. Dell guided $7.6 billion above consensus for one quarter, more revenue than most Sɩ 500 companies book in a year.\n\nThe full-year number is the one to sit with. Dell now sees $25.50 in adjusted EPS on $192 billion of revenue. In May, it said $17.90 on $165 billion to $169 billion. Over 3 months, Dell added roughly $25 billion of expected revenue and 42% to its own earnings forecast, the corporate equivalent of checking the couch cushions and finding a Honda Accord.\n\nOne stock. Nvidia-level potential. 30M+ investors trust Moby to find it first. Get the pick. Tap here.\n\nThe engine is the data center business, where Infrastructure Solutions did $31.78 billion, up 89%, with AI-optimized servers at $16.40 billion. Traditional servers and networking jumped 122% to $10.53 billion, because all this AI needs ordinary computers next to it doing ordinary work. The PC business, the one the company is named after, grew 20% and missed, and Jeff Clarke explained that Dell saw PCs softening and moved the parts to the infrastructure side. Cold, correct, and a little sad for anyone who owned an Inspiron.\n\nFull-year AI server sales are now forecast at $74 billion, up 200%. Six months ago Dell said 103%. Michael Dell is the fifth richest person alive. Also long on the stock is President Trump, who has been buying Dell since returning to office and spent part of July recommending Dell computers to the general public.",
       "level2_keywords": [
         {
-          "word": "railroad",
-          "ipa": "/reɪlroʊd/",
-          "meaning": "鐵路",
-          "example": "鐵路公司"
+          "word": "server",
+          "ipa": "səvər",
+          "meaning": "計算機機器",
+          "example": "這間公司的計算機機器 sales 升至 200% 的成長"
         },
         {
-          "word": "network",
-          "ipa": "/nɛtˈwɜːrk/",
-          "meaning": "網絡",
-          "example": "鐵路網絡"
-        },
-        {
-          "word": "freight",
-          "ipa": "/frɛɪt/",
-          "meaning": "貨物",
-          "example": "貨物運輸"
-        },
-        {
-          "word": "dominance",
-          "ipa": "/dɒmɪˈneɪʃən/",
-          "meaning": "主導性",
-          "example": "市場主導性"
+          "word": "AI",
+          "ipa": "Aë",
+          "meaning": "人工智能",
+          "example": "這間公司的 AI 服务器 sales 升至 200% 的成長"
         },
         {
           "word": "revenue",
-          "ipa": "/rɪˈjuːniə/",
+          "ipa": "rəvənə",
           "meaning": "收入",
-          "example": "公司收入"
+          "example": "Dell 的收入在這個季度達到 58% 的成長"
+        },
+        {
+          "word": "guidance",
+          "ipa": "gədəns",
+          "meaning": "指導",
+          "example": "Dell 的指導顯示，下一季的收入將達到 81% 的成長"
+        },
+        {
+          "word": "EPS",
+          "ipa": "EPS",
+          "meaning": "每股盈利",
+          "example": "Dell 的每股盈利在這個季度達到 200% 的成長"
         }
       ],
-      "level2_context": "\n\n這篇文章描述了 Union Pacific Corporation 的業績和市場表現，強調了其在鐵路業中的主導地位和穩定的收入。\n\n Union Pacific Corporation 是一家美國鐵路公司，連接了 23 個美國西部州的鐵路網絡，為全球供應鏈提供了關鍵連接，運載了農業、汽車和化學品等多種商品。\n\n公司的市場資本值達到 178.6 億美元，遠超 10 億美元的門檻，反映了其在業內的影響力和規模。\n\n",
+      "level2_context": "\n\n這篇文章討論了 Dell 的財務表現，特別是其對於 AI 服务器 的成長。Dell 的指導顯示，下一季的收入將達到 81% 的成長，遠遠超過 Wall Street 的預期。\n\n這篇文章也提到了 Dell 的 PC 业务，雖然它在這個季度達到 20% 的成長，但仍然低於預期。\n\n總的來說，這篇文章給出了 Dell 的財務表現的宏觀背景，特別是其對於 AI 服务器 的成長。\n\n",
       "level3_translation": [
         {
-          "sentence": "Omaha, Nebraska-based Union Pacific Corporation (UNP) operates in the railroad business.",
-          "translation": "美國聯合鐵路公司（Union Pacific Corporation）位於內布拉斯卡州奧馬哈，從事鐵路業"
+          "sentence": "Our analysts just identified a stock with the potential to be the next Nvidia.",
+          "translation": "\n\n我們的分析師找到了一個 Stocks 的潛力，可能成為下一家 Nvidia。\n\n"
         },
         {
-          "sentence": "Valued at $178.6 billion by market cap, it connects 23 states in the western two-thirds of the U.S. by rail, providing a critical link in the global supply chain, hauling a variety of goods, including agricultural, automotive, and chemical products.",
-          "translation": "該公司的市場資本值達到 178.6 億美元，連接了 23 個美國西部州的鐵路網絡，提供了全球供應鏈的關鍵連接，運載了農業、汽車和化學品等多種商品"
+          "sentence": "Michael Dell went on X Tuesday night and posted this: “There’s an old Texas saying I may have just made up... If you keep growing EPS 200%+ y/y something good will happen.”",
+          "translation": "\n\n米切爾·德爾在周二晚上上傳了一個說法：“有個老的德克薩斯說法，我可能就出來了... 如果你持續生長 EPS 200%+ 年度，事情一定會好轉。”\n\n"
         },
         {
-          "sentence": "Companies worth $10 billion or more are generally described as \"large-cap stocks,\" and UNP definitely fits that description, with its market cap exceeding this threshold, reflecting its substantial size, influence, and dominance in the railroads industry.",
-          "translation": "值得 10 億美元以上的公司通常被描述為 \"大型股\"，而 Union Pacific Corporation 确實符合這個描述，市場資本值遠超 10 億美元，反映了其在鐵路業中的影響力和規模"
+          "sentence": "He has earned the right to make up sayings.",
+          "translation": "\n\n他有了做出說話的權利。\n\n"
         },
         {
-          "sentence": "Bill Gates Says 'We Need Time to Prepare' for an Economic Upheaval — Especially the $20-an-Hour Workers Being Replaced by $10-an-Hour Robots",
-          "translation": ""
+          "sentence": "Dell reported $7.04 in adjusted earnings against the $4.92 Wall Street wanted, on revenue of $46.97 billion against $44.92 billion.",
+          "translation": "\n\nDell 報告 Adjusted Earnings $7.04 美元，遠遠超過 Wall Street 的預期 $4.92 美元，營業收入達到 $46.97 億美元，遠遠超過預期 $44.92 億美元。\n\n"
         },
         {
-          "sentence": "Despite its notable strength, UNP slipped 5.7% from its 52-week high of $315.99, achieved on Jul. 23.",
-          "translation": "儘管它的業績不錯， Union Pacific Corporation 在 52 週內的最高點達到 315.99 美元，於 2025 年 7 月 23 日達到"
+          "sentence": "Revenue grew 58% and beat every estimate on the street.",
+          "translation": "\n\n營業收入在這個季度達到 58% 的成長，遠遠超過 Street 的預期。\n\n"
         },
         {
-          "sentence": "Over the past three months, UNP stock gained 13%, outperforming the SüP 500 Index's ($SPX) marginal gains during the same time frame.",
-          "translation": "在過去三個月內， Union Pacific Corporation 的股價上涨了 13%，超越了 SüP 500 指數的同期增幅"
+          "sentence": "Net income went from $1.16 billion a year ago to $4.13 billion.",
+          "translation": "\n\n公司的净利润從去年 $1.16 億美元增加到 $4.13 億美元。\n\n"
         },
         {
-          "sentence": "Shares of UNP rose 28.7% on a YTD basis and climbed 33.2% over the past 52 weeks, outperforming SPX's YTD gains of 11.5% and 18.2% returns over the last year.",
-          "translation": " Union Pacific Corporation 的股價在一年內上涨了 28.7%，在 52 週內上涨了 33.2%，超越了 SüP 500 指數的同期增幅"
+          "sentence": "Shares rose 9% after hours, on top of a stock up 236% this year against the Sɩ’s 11%.",
+          "translation": "\n\n股價在下午上漲 9%，在今年累積上漲 236%，遠遠超過 Sɩ’s 11% 的預期。\n\n"
         },
         {
-          "sentence": "To confirm the bullish trend, UNP has been trading above its 200-day moving average since late April, with slight fluctuations.",
-          "translation": "要確認 bullish 趨勢， Union Pacific Corporation 自 2025 年 4 月後一直上涨，伴隨著一些波動"
+          "sentence": "Then Dell said what next quarter looks like, which is where it stops being a good print and starts being ridiculous.",
+          "translation": "\n\n接下來，Dell 表示下一季的預期，該段內容是從理想的表現轉變為理想的表現開始變得不太可信。\n\n"
         },
         {
-          "sentence": "The stock has been trading above its 50-day moving average since late November, 2025, with minor fluctuations.",
-          "translation": "自 2025 年 11 月後，該股價一直上涨，伴隨著一些小幅波動"
+          "sentence": "Third-quarter guidance came in at $6.50 a share on $49 billion, implying 81% growth.",
+          "translation": "\n\n第三季度的指導顯示，股利為每股 $6.50 美元，營業收入為 $49 億美元，顯示營業收入將達到 81% 的成長。\n\n"
         },
         {
-          "sentence": "UNP outperformed market expectations by converting robust demand into growth through reliable operations and cost-efficiency.",
-          "translation": " Union Pacific Corporation 超越了市場預期，通過可靠的運營和成本效率，將強大需求轉化為成長"
+          "sentence": "Analysts had penciled in $4.49 and $41.42 billion.",
+          "translation": "\n\n分析師預期營業收入為 $4.49 億美元和 $41.42 億美元。\n\n"
         },
         {
-          "sentence": "Additionally, strategic momentum advanced on the planned merger with Norfolk Southern Corporation (NSC) after securing an agreement to neutralize resistance from Canadian National.",
-          "translation": "此外， Union Pacific Corporation 在與諾福克南部公司（Norfolk Southern Corporation）合併的計畫中，取得了一項協議，消除加拿大國家鐵路的抵制"
+          "sentence": "Dell guided $7.6 billion above consensus for one quarter, more revenue than most Sɩ 500 companies book in a year.",
+          "translation": "\n\nDell 的指導顯示，該公司將在一季度內達到 $7.6 億美元的收入，遠遠超過 Street 的預期，遠遠超過大多數 Sɩ 500 公司在一年的收入。\n\n"
         },
         {
-          "sentence": "On Jul. 23, UNP shares closed up more than 4% after reporting its Q2 results.",
-          "translation": "2025 年 7 月 23 日， Union Pacific Corporation 的股價上涨了超過 4%，在報告其 Q2 成果後"
+          "sentence": "The full-year number is the one to sit with.",
+          "translation": "\n\n全年數字才是值得關注的。\n\n"
         },
         {
-          "sentence": "Its adjusted EPS of $3.41 topped Wall Street expectations of $3.20.",
-          "translation": "該公司的調整 Earnings Per Share (EPS)達到 3.41 美元，超越了 Wall Street 的預期 3.20 美元"
+          "sentence": "Dell now sees $25.50 in adjusted EPS on $192 billion of revenue.",
+          "translation": "\n\nDell 目前預測 Adjusted EPS 為 $25.50 美元，營業收入達到 $192 億美元。\n\n"
         },
         {
-          "sentence": "The company's revenue was $6.9 billion, exceeding Wall Street forecasts of $6.7 billion.",
-          "translation": "該公司的收入達到 69 億美元，超越了 Wall Street 的預期 67 億美元"
+          "sentence": "In May, it said $17.90 on $165 billion to $169 billion.",
+          "translation": "\n\n在五月，Dell 表示預期 Adjusted EPS 為 $17.90 美元，營業收入為 $165 億美元到 $169 億美元。\n\n"
+        },
+        {
+          "sentence": "Over 3 months, Dell added roughly $25 billion of expected revenue and 42% to its own earnings forecast.",
+          "translation": "\n\n在三個月內，Dell 增加了大約 $25 億美元的預期收入，增加了 42% 的自己的利益預測。\n\n"
+        },
+        {
+          "sentence": "One stock. Nvidia-level potential. 30M+ investors trust Moby to find it first.",
+          "translation": "\n\n一家股票。Nvidia 水平的潛力。30M+ 投資者信任 Moby 找到它的第一個機會。\n\n"
+        },
+        {
+          "sentence": "Get the pick. Tap here.",
+          "translation": "\n\n抓住這個機會。點擊這裡。\n\n"
+        },
+        {
+          "sentence": "The engine is the data center business, where Infrastructure Solutions did $31.78 billion, up 89%, with AI-optimized servers at $16.40 billion.",
+          "translation": "\n\n這間公司的核心是數據中心業務，該業務在去年達到 89% 的成長，使用 AI 導向的服务器達到 $16.40 億美元。\n\n"
+        },
+        {
+          "sentence": "Traditional servers and networking jumped 122% to $10.53 billion, because all this AI needs ordinary computers next to it doing ordinary work.",
+          "translation": "\n\n傳統的服务器和網路服務在去年上漲 122% 到 $10.53 億美元，原因是所有這些 AI 需要的普通計算機需要與它一起進行普通的工作。\n\n"
+        },
+        {
+          "sentence": "The PC business, the one the company is named after, grew 20% and missed, and Jeff Clarke explained that Dell saw PCs softening and moved the parts to the infrastructure side.",
+          "translation": "\n\n公司的 PC 业务，在去年上漲 20%，但仍然落後預期， Jeff Clarke 表示 DELL 觀察到 PC 业务逐漸減少，並將其部件移至數據中心業務。\n\n"
+        },
+        {
+          "sentence": "Full-year AI server sales are now forecast at $74 billion, up 200% from six months ago.",
+          "translation": "\n\n全年 AI 服务器 的銷售預測為 $74 億美元，從去六個月的 $74 億美元成長了 200%。\n\n"
+        },
+        {
+          "sentence": "Six months ago Dell said 103% growth.",
+          "translation": "\n\n去六個月的 DELL 表示營業收入將達到 103% 的成長。\n\n"
+        },
+        {
+          "sentence": "Michael Dell is the fifth richest person alive.",
+          "translation": "\n\n米切爾·德爾是現時世界上第五 richest 的人。\n\n"
+        },
+        {
+          "sentence": "Also long on the stock is President Trump, who has been buying Dell since returning to office.",
+          "translation": "\n\n總統特朗普也持有這股，自從他回任後就一直在買這股。\n\n"
+        },
+        {
+          "sentence": "who has been buying Dell since returning to office.",
+          "translation": "\n\n\n"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "兩個新聞文章中提到的公司和行業，可能與股市行情有關。Denny's rival dining chain 的破產可能會影響餐飲業的整體健康，進而影響股市。另一方面，Union Pacific Corporation 的出performing stock 可能是因為其在全球供應鏈中的重要性和穩定的營業收入。這可能會對股市產生正面影響。因此，需要密切關注這些公司的股價變化和市場趨勢，從而做出更好的投資決策。"
+    "market_connection": "兩個股市的表現與國際財經新聞的報導有著密切的關係。McDonald's $3 value menu的推出與Medtronic和Dell的股價變化有著相似之法，表明股價的變化可能受到公司的營運績效和財務預測的影響。這些公司的股價變化也可能反映出市場對其未來成長潛力和財務預測的看法。因此， investors 可以通過觀察這些公司的股價變化和財務預測來評估其未來成長潛力和市場的預期。"
   }
 }
