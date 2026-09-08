@@ -1,378 +1,378 @@
 {
-  "date": "2026-09-07",
-  "stock_market_date": "2026-09-04",
+  "date": "2026-09-08",
+  "stock_market_date": "2026-09-07",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_buy_shares": 69366284
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 156579623
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 26550699
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 112644189
         },
         {
           "rank": 3,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_buy_shares": 26407791
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 47386632
         },
         {
           "rank": 4,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 23925305
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 44175133
         },
         {
           "rank": 5,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_buy_shares": 18525832
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 43969936
         },
         {
           "rank": 6,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 14323628
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 38568009
         },
         {
           "rank": 7,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_buy_shares": 14303460
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_buy_shares": 18355617
         },
         {
           "rank": 8,
-          "stock_name": "英業達",
-          "ticker": "2356",
-          "net_buy_shares": 13444182
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_buy_shares": 16135314
         },
         {
           "rank": 9,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 13042537
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 13693266
         },
         {
           "rank": 10,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 12906389
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_buy_shares": 9974569
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_sell_shares": -19378086
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_sell_shares": -51963880
         },
         {
           "rank": 2,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -16944973
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_sell_shares": -23784110
         },
         {
           "rank": 3,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -16245709
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_sell_shares": -17596478
         },
         {
           "rank": 4,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -14772865
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_sell_shares": -15924698
         },
         {
           "rank": 5,
-          "stock_name": "強茂",
-          "ticker": "2481",
-          "net_sell_shares": -14570120
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_sell_shares": -13276789
         },
         {
           "rank": 6,
-          "stock_name": "長榮",
-          "ticker": "2603",
-          "net_sell_shares": -8088631
+          "stock_name": "鼎元",
+          "ticker": "2426",
+          "net_sell_shares": -12948884
         },
         {
           "rank": 7,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_sell_shares": -7534100
+          "stock_name": "英業達",
+          "ticker": "2356",
+          "net_sell_shares": -11254244
         },
         {
           "rank": 8,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_sell_shares": -6872322
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_sell_shares": -10618915
         },
         {
           "rank": 9,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -5624819
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_sell_shares": -10130267
         },
         {
           "rank": 10,
-          "stock_name": "台泥",
-          "ticker": "1101",
-          "net_sell_shares": -5210414
+          "stock_name": "光寶科",
+          "ticker": "2301",
+          "net_sell_shares": -9722056
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 5238000
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 15310022
         },
         {
           "rank": 2,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_buy_shares": 4205000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 14860005
         },
         {
           "rank": 3,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 3457000
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 8972726
         },
         {
           "rank": 4,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 3435000
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 7427000
         },
         {
           "rank": 5,
-          "stock_name": "興富發",
-          "ticker": "2542",
-          "net_buy_shares": 3334000
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 7322068
         },
         {
           "rank": 6,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 2957000
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 6620441
         },
         {
           "rank": 7,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_buy_shares": 2641000
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 5483000
         },
         {
           "rank": 8,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_buy_shares": 2590000
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_buy_shares": 4234000
         },
         {
           "rank": 9,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 2474000
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 3535551
         },
         {
           "rank": 10,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 2060000
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_buy_shares": 3092000
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -6914000
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_sell_shares": -3788590
         },
         {
           "rank": 2,
-          "stock_name": "欣興",
-          "ticker": "3037",
-          "net_sell_shares": -4448000
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_sell_shares": -2890374
         },
         {
           "rank": 3,
-          "stock_name": "長興",
-          "ticker": "1717",
-          "net_sell_shares": -1995000
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -1360001
         },
         {
           "rank": 4,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -1954000
+          "stock_name": "高力",
+          "ticker": "8996",
+          "net_sell_shares": -1139000
         },
         {
           "rank": 5,
-          "stock_name": "南電",
-          "ticker": "8046",
-          "net_sell_shares": -1163000
+          "stock_name": "緯穎",
+          "ticker": "6669",
+          "net_sell_shares": -748929
         },
         {
           "rank": 6,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -1008000
+          "stock_name": "南電",
+          "ticker": "8046",
+          "net_sell_shares": -584000
         },
         {
           "rank": 7,
-          "stock_name": "技嘉",
-          "ticker": "2376",
-          "net_sell_shares": -558000
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_sell_shares": -510015
         },
         {
           "rank": 8,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_sell_shares": -388316
+          "stock_name": "鈺邦",
+          "ticker": "6449",
+          "net_sell_shares": -500000
         },
         {
           "rank": 9,
-          "stock_name": "尖點",
-          "ticker": "8021",
-          "net_sell_shares": -373000
+          "stock_name": "立隆電",
+          "ticker": "2472",
+          "net_sell_shares": -488000
         },
         {
           "rank": 10,
-          "stock_name": "智伸科",
-          "ticker": "4551",
-          "net_sell_shares": -350000
+          "stock_name": "大立光",
+          "ticker": "3008",
+          "net_sell_shares": -458360
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 1354000
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 10916190
         },
         {
           "rank": 2,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_buy_shares": 822970
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 3199656
         },
         {
           "rank": 3,
-          "stock_name": "微星",
-          "ticker": "2377",
-          "net_buy_shares": 408254
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 2966000
         },
         {
           "rank": 4,
           "stock_name": "群創",
           "ticker": "3481",
-          "net_buy_shares": 384000
+          "net_buy_shares": 2406990
         },
         {
           "rank": 5,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_buy_shares": 377326
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_buy_shares": 772140
         },
         {
           "rank": 6,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_buy_shares": 367000
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 713000
         },
         {
           "rank": 7,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_buy_shares": 358150
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_buy_shares": 663239
         },
         {
           "rank": 8,
-          "stock_name": "宏致",
-          "ticker": "3605",
-          "net_buy_shares": 291000
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 563219
         },
         {
           "rank": 9,
-          "stock_name": "光寶科",
-          "ticker": "2301",
-          "net_buy_shares": 287571
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_buy_shares": 543000
         },
         {
           "rank": 10,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 273768
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_buy_shares": 528000
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "瑞軒",
-          "ticker": "2489",
-          "net_sell_shares": -1248080
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -1385489
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -793079
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_sell_shares": -527514
         },
         {
           "rank": 3,
-          "stock_name": "長興",
-          "ticker": "1717",
-          "net_sell_shares": -768000
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_sell_shares": -366997
         },
         {
           "rank": 4,
-          "stock_name": "元大高股息",
-          "ticker": "0056",
-          "net_sell_shares": -569824
+          "stock_name": "台虹",
+          "ticker": "8039",
+          "net_sell_shares": -236004
         },
         {
           "rank": 5,
-          "stock_name": "全新",
-          "ticker": "2455",
-          "net_sell_shares": -566241
+          "stock_name": "緯穎",
+          "ticker": "6669",
+          "net_sell_shares": -207000
         },
         {
           "rank": 6,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -414000
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -191000
         },
         {
           "rank": 7,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -402000
+          "stock_name": "微星",
+          "ticker": "2377",
+          "net_sell_shares": -163410
         },
         {
           "rank": 8,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -328768
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -159000
         },
         {
           "rank": 9,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_sell_shares": -327502
+          "stock_name": "光寶科",
+          "ticker": "2301",
+          "net_sell_shares": -138450
         },
         {
           "rank": 10,
-          "stock_name": "陽明",
-          "ticker": "2609",
-          "net_sell_shares": -245329
+          "stock_name": "正達",
+          "ticker": "3149",
+          "net_sell_shares": -99000
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "仁寶",
-        "shares": 24278199
+        "target": "友達",
+        "shares": 54802868
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "元大台灣50",
-        "shares": 541600
+        "target": "友達",
+        "shares": 4366476
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "玉山金",
-        "shares": 2357100
+        "target": "台新新光金",
+        "shares": 6889509
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "臺企銀",
-        "shares": 5813425
+        "target": "仁寶",
+        "shares": 15589164
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "39-year-old ammunition manufacturer files Chapter 11 bankruptcy",
+      "title": "Scott Galloway issues grim SpaceX stock price forecast",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/39-old-major-bullet-manufacturer-023300278.html",
-      "summary": "39-year-old ammunition manufacturer files Chapter 11 bankruptcy",
-      "full_text": "The firearms industry, including rifle, handgun, and ammunition manufacturers and retailers, have faced financial distress in 2026 that has led to bankruptcy filings.\n\nFilings come as the industry has experienced declining sales over the last two years which have been major problem for companies trying to stay afloat.\n\n39-year-old ammunition manufacturer Mead Industries Inc. filed for Chapter 11 bankruptcy, seeking to reorganize its business, as it faces disputed lawsuit and contract claims.\n\nThe Wood River, Neb.-based bullets manufacturer filed its petition in the U.S. Bankruptcy Court for the District of Nebraska on Sept. 2, listing over $7.1 million in assets and over $6.4 million in debts.\n\nThe debtor's largest creditors include Kentucky's Best Hemp Inc., owed over $1.85 million in a disputed lawsuit claim; Hiawatha National Bank, owed over $1.3 million; FNBO, owed over $544,000; Gunwerks LLC, owed $346,000 in a contract dispute; company owner Gregory A. Mead, owed over $521,000 of a promissory note; and AMDG Enterprises, owed over $304,000.\n\nMead Industries founder Greg Mead, an avid hunter, established the company in 1977 to manufacture high-quality precision hunting bullets, as well as machinery, equipment, and components for many of the world's leading ammunition manufacturers, according to the company's website.\n\nThe company occupies a 15,000 square-foot facility in Wood River with an on-site ballistics lab, welding shop, and full machine shop and is responsible for supplying the machinery and equipment that produces over 50 million bullets per month to the shooting industry.\n\nMead Industries has faced a steady decrease in gross revenue over the last three years, declining from over $2.4 million in 2024 to over $1.3 million in 2025. The debtor had generated over $1.1 million by its Sept. 2, 2026, filing date, according to the petition.",
-      "published": "2026-09-06T02:33:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/scott-galloway-issues-grim-spacex-173300856.html",
+      "summary": "Scott Galloway issues grim SpaceX stock price forecast",
+      "full_text": "With a market cap of $1.91 trillion, SpaceX is among the most valuable companies in the world.\n\nSpaceX (SPCX) listed on the Nasdaq in June 2026, raising over $75 billion in its initial public offering.\n\nLast month, New York University marketing professor Scott Galloway said Wall Street has gotten the math badly wrong on SpaceX, and he is not shy about putting a number on just how wrong.\n\nIn a recent podcast, Galloway said that SpaceX shares are worth somewhere between $10 and $30.\n\nAt the time of writing, SPCX stock trades at $148, which means Galloway believes the stock could fall 80% from current levels without undervaluing the company.\n\nSpaceX priced its initial public offering at $135 a share in the summer, giving Musk's rocket company a valuation near $1.8 trillion.\n\nThe stock then climbed as high as $225 before tumbling over 50% to $105. It has since recovered and has traded above its IPO price in the last two weeks.\n\nGalloway argues that price action has little to do with the underlying business. He pointed to a few mechanical quirks in how the stock trades:",
+      "published": "2026-09-06T17:33:00Z"
     },
     {
       "id": "news_2",
-      "title": "Solstice (SOLS) and Element Solutions (ESI) Call Off Their $14.5 Billion Combination",
+      "title": "Mohamed El-Erian says an influx of hyperscaler bonds is competing with U.S. Treasuries — and pushing rates higher",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/solstice-sols-element-solutions-esi-230510085.html",
-      "summary": "Solstice (SOLS) and Element Solutions (ESI) Call Off Their $14.5 Billion Combination",
-      "full_text": "Reuters reported that Solstice Advanced Materials, Inc. (NASDAQ:SOLS) and Element Solutions Inc (NYSE:ESI) mutually agreed to terminate their $14.5 billion merger agreement, the companies said on August 27, citing feedback from shareholders on both sides who preferred each to stay independent. Neither side will pay a termination fee.\n\nSolstice Chairman Rajeev Gautam said the company valued that feedback, including shareholders' \"excitement about Solstice's strategy and growth trajectory as an independent company.\" Solstice's board also authorized its first-ever buyback, up to $500 million, and reaffirmed its recently raised guidance. Solstice shares jumped 15% in after-hours trading, while Element gained 4%. The deal, announced July 6 just 10 months after Solstice's Honeywell spin-off, would have combined Solstice's refrigerants and specialty materials businesses with Element's electronics chemicals operations, paying Element holders $10 cash plus 0.5 Solstice shares per share. The original announcement got a rough welcome: Solstice fell nearly 15% that day, which CEO David Sewell blamed on arbitrage trading, not doubts about the deal.\n\nBoth companies continue to perform strongly on their own. Solstice's second-quarter net sales rose 11% to $1.148 billion, and the company raised its full-year sales guidance to $4.125 billion-$4.185 billion. Element delivered an even stronger quarter, with record net sales up 56% to $978 million and full-year adjusted EBITDA guidance raised to $690 million-$710 million.\n\nSolstice Advanced Materials, Inc. (NASDAQ:SOLS) sheds significant deal risk by walking away. The termination removes the financing and merger risks linked to the acquisition and eliminates the need to use the $4.685 billion bridge facility. It also lets Solstice maintain its 1.3x net leverage. Its new $500 million buyback, the company's first ever, also gives Solstice a direct way to return capital to shareholders while it focuses on organic growth.\n\nElement Solutions Inc (NYSE:ESI) also maintains the strengths that its shareholders wanted to preserve. Chairman Ian Ashken said investors valued Element's management team, culture, and existing business portfolio. CEO Benjamin Gliklich said the company's growth remains compelling. Remaining independent allows Element to continue investing in its existing businesses and pursuing its own growth strategy without taking on the risks of a larger combination.\n\nThe merger had strategic benefits, and both companies now give up those potential gains. The proposed combination would have generated roughly $6.8 billion in 2025 sales and targeted more than $180 million in annual run-rate synergies by the third year after closing. By remaining separate, neither company can capture those merger-related scale and cost benefits.\n\nElement Solutions Inc (NYSE:ESI) specifically loses its takeover premium. The offer valued Element at roughly $50.10 per share, about 15% above its July 2 closing price. Without the transaction, Element must now justify its valuation through standalone growth and execution rather than the premium that the proposed deal offered shareholders.\n\nThe reversal also puts more pressure on Solstice's standalone strategy. The company announced the Element deal only about 10 months after completing its Honeywell spin-off. Solstice shares fell after the acquisition announcement. Now that management has abandoned the deal, it must prove that its independent growth strategy can deliver enough value to justify walking away from the scale, synergies, and broader electronics exposure that the merger promised.",
-      "published": "2026-09-06T23:05:10Z"
+      "link": "https://finance.yahoo.com/markets/currencies/articles/mohamed-el-erian-says-influx-153000281.html",
+      "summary": "Mohamed El-Erian says an influx of hyperscaler bonds is competing with U.S. Treasuries — and pushing rates higher",
+      "full_text": "Prominent economist Mohamed El-Erian argues hyperscalers and national governments are issuing a flood of bonds to keep up their rapid spending velocity onto fewer buyers. Those straightforward circumstances are pushing bond yields up.\n\n\"If you look at the amount of issuance that's coming from governments, from hyperscalers, from companies, it far exceeds what you can count on in terms of reliable buyers, and that's why there's been pressure on interest rates, El-Erian told CNBC in an interview on Friday. \"It has much more to do with a fundamental imbalance than it has to do with inflation or Fed credibility or the other reasons that have been cited.\"\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake. Here's what it is and 3 simple steps to fix it ASAP\n\nThe tax breaks in Trump's 'big beautiful bill' expire after 2028. Here are 4 moves to make before the window closes\n\nHe continued: \"This is simple supply and demand, and we have a massive increase in issuance by governments and hyperscalers.\"\n\nIndeed, the latest chapter of the AI buildout will be fueled by a borrowing binge among tech giants instead of them drawing on cash flows. According to investment management firm Vanguard, five so-called hyperscalers —Alphabet, Amazon, Meta, Microsoft, and Oracle — have issued $132 billion in bonds so far this year to maintain the swift speed of the AI buildout. By comparison, the five companies issued about $35 billion of debt annually from 2020 to 2024.\n\nWhat's fueling the current bond sell-off is simple: Investors want higher returns upfront in exchange for holding onto the U.S. government's debt. Investors are increasingly nervous about the fallout of the US-led war against Iran, which set off another wave of inflation particularly for gas prices. They're also wary about the rapid pace of AI development and whether the staggering spending levels will yield profits that match.",
+      "published": "2026-09-06T15:30:00Z"
     },
     {
       "id": "news_3",
-      "title": "Retailers are Handling Tariff Refunds in Very Different Ways: Walmart and Home Depot",
+      "title": "South Korea Just Bet $20 Billion on SK hynix Stock",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/economy/policy/articles/retailers-handling-tariff-refunds-very-225628436.html",
-      "summary": "Retailers are Handling Tariff Refunds in Very Different Ways: Walmart and Home Depot",
-      "full_text": "Walmart Inc. (NASDAQ:WMT) and The Home Depot, Inc. (NYSE:HD) are both booking real tariff refund windfalls, but reporting and using the money in noticeably different ways, CNBC reported.\n\nWalmart CFO John David Rainey said the company is eligible for roughly $2.9 billion in refunds, has yet to receive just under $100 million of that, and saw Walmart U.S. gross profit grow 1.6% from the boost; Rainey said Walmart plans to use the funds to lower prices for consumers, with the impact showing up in the current fiscal third quarter.\n\nHome Depot said it received $730 million in tariff refunds during its fiscal second quarter, using about $685 million to reduce the cost of goods sold, lifting gross margin by 0.3 percentage points. CFO Richard McPhail called that \"the vast majority\" of what the company expected. Lowe's Companies, Inc. (NYSE:LOW), by contrast, said it would not use its refund to cut prices, with CEO Marvin Ellison saying the company wants to \"deliver strong profitability for our shareholders\" instead.\n\nWalmart Inc. (NASDAQ:WMT) can turn its tariff refund into both lower prices and solid sales. The firm expects roughly $2.9 billion in tariff refunds and has already used part of the benefit to lower prices on about 11,000 products. Walmart can attract price-sensitive shoppers and increase traffic. It can also strengthen its market share if those lower prices generate more purchases.\n\nThe Home Depot, Inc. (NYSE:HD) has taken a consumer-focused approach to its tariff refund while still protecting its margins. The company expects to receive roughly $730 million in tariff refunds and plans to apply about $685 million toward its cost of goods. That approach gives Home Depot room to pass savings to customers while retaining a financial benefit, potentially helping it compete more aggressively for home-improvement spending.\n\nTariff refunds give retailers more flexibility as tariffs continue to affect their costs and consumers remain sensitive to prices. Walmart and Home Depot can use the refunds to support lower prices and stimulate demand, while other retailers can direct the money toward profits, investments, or shareholder returns. If retailers reinvest the refunds effectively, they can turn a one-time cash benefit into higher sales, stronger market share, or improved near-term profitability.\n\nTariff refunds will provide only a temporary earnings boost rather than a recurring improvement in profitability. Once retailers use the refunds, they cannot rely on the same windfall in future quarters. Retailers that pass the savings to customers also sacrifice some of the immediate margin benefit, so they must generate enough additional sales to turn the refunds into a lasting advantage.\n\nWalmart Inc. (NASDAQ:WMT)'s decision to lower prices creates execution risk because the company must generate enough additional sales volume to offset thinner per-unit margins. Walmart has already lowered prices on thousands of products, but the strategy will create lasting value only if those cuts increase customer traffic, sales, and market share rather than simply reduce profitability.",
-      "published": "2026-09-06T22:56:28Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/south-korea-just-bet-20-153002546.html",
+      "summary": "South Korea Just Bet $20 Billion on SK hynix Stock",
+      "full_text": "SK hynix (SKHY) stock was among the hottest stories in the chip sector this year. The South Korean memory maker pulled off a record-breaking listing in the United States this summer, and the proceeds were massive.\n\nValued at a market cap of almost $900 billion, the Korea-based chipmaker has surged 1,400% over the last five years. However, it is also down over 40% from all-time highs.\n\nMicron Stock More Than Tripled in 2026. Now Taiwan Strike Threat Could Shake the AI Boom.\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nHere is what is behind the SK hynix stock price surge and the surprising move South Korean officials made once the dollars started flowing in.\n\nSK hynix priced its American depositary receipts at $149 apiece in July, raising roughly $26.5 billion for the chipmaker's expansion plans, which include new factories and equipment, according to CNBC.\n\nIt was the largest U.S. share offering ever completed by a foreign company. Investors moved fast once trading opened, given SKHY stock jumped 13% on its first day, closing at $168.01.\n\nSK hynix trails only Samsung as South Korea's most valuable company. Like Samsung (SMSN.L.EB), it builds memory chips that store data in phones and computers and, increasingly, in AI servers. Big tech giants such as Nvidia (NVDA) and Apple (AAPL) are among its customers.",
+      "published": "2026-09-06T15:30:02Z"
     }
   ]
 }
