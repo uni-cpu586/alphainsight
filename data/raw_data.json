@@ -1,130 +1,130 @@
 {
-  "date": "2026-09-08",
-  "stock_market_date": "2026-09-07",
+  "date": "2026-09-09",
+  "stock_market_date": "2026-09-08",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 156579623
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 92597119
         },
         {
           "rank": 2,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 112644189
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 85222973
         },
         {
           "rank": 3,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 47386632
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 34279509
         },
         {
           "rank": 4,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 44175133
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_buy_shares": 26847992
         },
         {
           "rank": 5,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_buy_shares": 43969936
+          "net_buy_shares": 20896175
         },
         {
           "rank": 6,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 38568009
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 16065437
         },
         {
           "rank": 7,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_buy_shares": 18355617
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 13421779
         },
         {
           "rank": 8,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_buy_shares": 16135314
+          "stock_name": "上海商銀",
+          "ticker": "5876",
+          "net_buy_shares": 11795638
         },
         {
           "rank": 9,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 13693266
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 8979364
         },
         {
           "rank": 10,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_buy_shares": 9974569
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 8553467
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -51963880
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -63878408
         },
         {
           "rank": 2,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_sell_shares": -23784110
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_sell_shares": -46059330
         },
         {
           "rank": 3,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_sell_shares": -17596478
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -42072853
         },
         {
           "rank": 4,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_sell_shares": -15924698
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_sell_shares": -28275282
         },
         {
           "rank": 5,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_sell_shares": -13276789
+          "stock_name": "英業達",
+          "ticker": "2356",
+          "net_sell_shares": -18177771
         },
         {
           "rank": 6,
-          "stock_name": "鼎元",
-          "ticker": "2426",
-          "net_sell_shares": -12948884
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_sell_shares": -14607859
         },
         {
           "rank": 7,
-          "stock_name": "英業達",
-          "ticker": "2356",
-          "net_sell_shares": -11254244
+          "stock_name": "廣達",
+          "ticker": "2382",
+          "net_sell_shares": -13586379
         },
         {
           "rank": 8,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_sell_shares": -10618915
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_sell_shares": -13289577
         },
         {
           "rank": 9,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_sell_shares": -10130267
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_sell_shares": -8247649
         },
         {
           "rank": 10,
-          "stock_name": "光寶科",
-          "ticker": "2301",
-          "net_sell_shares": -9722056
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -7823991
         }
       ],
       "trust_buy": [
@@ -132,61 +132,61 @@
           "rank": 1,
           "stock_name": "台新新光金",
           "ticker": "2887",
-          "net_buy_shares": 15310022
+          "net_buy_shares": 15113630
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 14860005
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 11345953
         },
         {
           "rank": 3,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 8972726
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_buy_shares": 8441000
         },
         {
           "rank": 4,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 7427000
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 5208864
         },
         {
           "rank": 5,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 7322068
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 4779375
         },
         {
           "rank": 6,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 6620441
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 4349483
         },
         {
           "rank": 7,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 5483000
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 3923737
         },
         {
           "rank": 8,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_buy_shares": 4234000
+          "stock_name": "和碩",
+          "ticker": "4938",
+          "net_buy_shares": 2150000
         },
         {
           "rank": 9,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 3535551
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_buy_shares": 2068012
         },
         {
           "rank": 10,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_buy_shares": 3092000
+          "stock_name": "統一證",
+          "ticker": "2855",
+          "net_buy_shares": 1428700
         }
       ],
       "trust_sell": [
@@ -194,185 +194,185 @@
           "rank": 1,
           "stock_name": "華通",
           "ticker": "2313",
-          "net_sell_shares": -3788590
+          "net_sell_shares": -7169000
         },
         {
           "rank": 2,
           "stock_name": "遠東新",
           "ticker": "1402",
-          "net_sell_shares": -2890374
+          "net_sell_shares": -2889544
         },
         {
           "rank": 3,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -1360001
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_sell_shares": -1782085
         },
         {
           "rank": 4,
-          "stock_name": "高力",
-          "ticker": "8996",
-          "net_sell_shares": -1139000
+          "stock_name": "緯穎",
+          "ticker": "6669",
+          "net_sell_shares": -1638241
         },
         {
           "rank": 5,
-          "stock_name": "緯穎",
-          "ticker": "6669",
-          "net_sell_shares": -748929
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_sell_shares": -1631496
         },
         {
           "rank": 6,
           "stock_name": "南電",
           "ticker": "8046",
-          "net_sell_shares": -584000
+          "net_sell_shares": -1387078
         },
         {
           "rank": 7,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_sell_shares": -510015
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_sell_shares": -1250293
         },
         {
           "rank": 8,
-          "stock_name": "鈺邦",
-          "ticker": "6449",
-          "net_sell_shares": -500000
+          "stock_name": "聯鈞",
+          "ticker": "3450",
+          "net_sell_shares": -1171000
         },
         {
           "rank": 9,
-          "stock_name": "立隆電",
-          "ticker": "2472",
-          "net_sell_shares": -488000
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -900691
         },
         {
           "rank": 10,
-          "stock_name": "大立光",
-          "ticker": "3008",
-          "net_sell_shares": -458360
+          "stock_name": "智邦",
+          "ticker": "2345",
+          "net_sell_shares": -799032
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 10916190
-        },
-        {
-          "rank": 2,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 3199656
-        },
-        {
-          "rank": 3,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 2966000
-        },
-        {
-          "rank": 4,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 2406990
-        },
-        {
-          "rank": 5,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_buy_shares": 772140
-        },
-        {
-          "rank": 6,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 713000
-        },
-        {
-          "rank": 7,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_buy_shares": 663239
-        },
-        {
-          "rank": 8,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 563219
-        },
-        {
-          "rank": 9,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_buy_shares": 543000
-        },
-        {
-          "rank": 10,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_buy_shares": 528000
-        }
-      ],
-      "dealer_sell": [
-        {
-          "rank": 1,
           "stock_name": "聯電",
           "ticker": "2303",
-          "net_sell_shares": -1385489
+          "net_buy_shares": 2551196
         },
         {
           "rank": 2,
           "stock_name": "富邦科技",
           "ticker": "0052",
-          "net_sell_shares": -527514
+          "net_buy_shares": 998000
         },
         {
           "rank": 3,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_sell_shares": -366997
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_buy_shares": 649754
         },
         {
           "rank": 4,
-          "stock_name": "台虹",
-          "ticker": "8039",
-          "net_sell_shares": -236004
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 466963
         },
         {
           "rank": 5,
-          "stock_name": "緯穎",
-          "ticker": "6669",
-          "net_sell_shares": -207000
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 443529
+        },
+        {
+          "rank": 6,
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 366897
+        },
+        {
+          "rank": 7,
+          "stock_name": "全新",
+          "ticker": "2455",
+          "net_buy_shares": 254051
+        },
+        {
+          "rank": 8,
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_buy_shares": 133000
+        },
+        {
+          "rank": 9,
+          "stock_name": "大立光",
+          "ticker": "3008",
+          "net_buy_shares": 132214
+        },
+        {
+          "rank": 10,
+          "stock_name": "聯嘉投控",
+          "ticker": "3717",
+          "net_buy_shares": 97000
+        }
+      ],
+      "dealer_sell": [
+        {
+          "rank": 1,
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -3679002
+        },
+        {
+          "rank": 2,
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -1462127
+        },
+        {
+          "rank": 3,
+          "stock_name": "台泥",
+          "ticker": "1101",
+          "net_sell_shares": -1200000
+        },
+        {
+          "rank": 4,
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_sell_shares": -895032
+        },
+        {
+          "rank": 5,
+          "stock_name": "陽明",
+          "ticker": "2609",
+          "net_sell_shares": -849700
         },
         {
           "rank": 6,
           "stock_name": "南亞",
           "ticker": "1303",
-          "net_sell_shares": -191000
+          "net_sell_shares": -724000
         },
         {
           "rank": 7,
-          "stock_name": "微星",
-          "ticker": "2377",
-          "net_sell_shares": -163410
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_sell_shares": -614401
         },
         {
           "rank": 8,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -159000
+          "stock_name": "欣興",
+          "ticker": "3037",
+          "net_sell_shares": -517809
         },
         {
           "rank": 9,
-          "stock_name": "光寶科",
-          "ticker": "2301",
-          "net_sell_shares": -138450
+          "stock_name": "台虹",
+          "ticker": "8039",
+          "net_sell_shares": -429797
         },
         {
           "rank": 10,
-          "stock_name": "正達",
-          "ticker": "3149",
-          "net_sell_shares": -99000
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_sell_shares": -418441
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "友達",
-        "shares": 54802868
+        "target": "華邦電",
+        "shares": 32408991
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "友達",
-        "shares": 4366476
+        "target": "聯電",
+        "shares": 1020478
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
         "target": "台新新光金",
-        "shares": 6889509
+        "shares": 6801133
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "仁寶",
-        "shares": 15589164
+        "target": "聯電",
+        "shares": 19163522
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Scott Galloway issues grim SpaceX stock price forecast",
+      "title": "Loss of Costco deal helps push beverage brand into Chapter 11",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/scott-galloway-issues-grim-spacex-173300856.html",
-      "summary": "Scott Galloway issues grim SpaceX stock price forecast",
-      "full_text": "With a market cap of $1.91 trillion, SpaceX is among the most valuable companies in the world.\n\nSpaceX (SPCX) listed on the Nasdaq in June 2026, raising over $75 billion in its initial public offering.\n\nLast month, New York University marketing professor Scott Galloway said Wall Street has gotten the math badly wrong on SpaceX, and he is not shy about putting a number on just how wrong.\n\nIn a recent podcast, Galloway said that SpaceX shares are worth somewhere between $10 and $30.\n\nAt the time of writing, SPCX stock trades at $148, which means Galloway believes the stock could fall 80% from current levels without undervaluing the company.\n\nSpaceX priced its initial public offering at $135 a share in the summer, giving Musk's rocket company a valuation near $1.8 trillion.\n\nThe stock then climbed as high as $225 before tumbling over 50% to $105. It has since recovered and has traded above its IPO price in the last two weeks.\n\nGalloway argues that price action has little to do with the underlying business. He pointed to a few mechanical quirks in how the stock trades:",
-      "published": "2026-09-06T17:33:00Z"
+      "link": "https://finance.yahoo.com/healthcare/articles/loss-costco-deal-helps-push-150700837.html",
+      "summary": "Loss of Costco deal helps push beverage brand into Chapter 11",
+      "full_text": "While all drugs sold to American consumers face a rigorous approval process, that's not the case when it comes to supplements. The Food and Drug Administration (FDA) does not approve supplements, and while there are some limits to the claims that can be made by companies in this space, there's a fair amount of latitude.\n\n\"The manufacturer must have substantiation that the claim is truthful and not misleading and must submit a notification with the text of the claim to FDA no later than 30 days after marketing the dietary supplement with the claim. If a dietary supplement label includes such a claim, it must state in a 'disclaimer' that FDA has not evaluated the claim,\" according to the FDA website.\n\nSupplement makers can make certain structure/function claims without FDA preapproval, as long as they have substantiation that the claims are truthful and not misleading, and that they meet the agency's other requirements.\n\n\"The disclaimer must also state that the dietary supplement product is not intended to 'diagnose, treat, cure or prevent any disease,' because only a drug can legally make such a claim,\" the federal agency shared.\n\nIt's a legal grey area that allows supplements to advertise that they can help with fitness, hair growth, sleep, and your ability to focus.\n\nSynergy CHC Corp., the maker of Focus Factor, which is described on its Amazon sales page as a \"Brain Supplement for Memory, Concentration and Focus,\" has filed for Chapter 11 bankruptcy.\n\nFocus Factor Extra Strength brain supplements contain a powerful combination of vitamins, minerals, and neuro-nutrients that not only power your brain but can also replace your daily multivitamin,\" it shared.\n\nThe company, on Amazon, also said that the supplement promotes concentration and memory.",
+      "published": "2026-09-07T15:07:00Z"
     },
     {
       "id": "news_2",
-      "title": "Mohamed El-Erian says an influx of hyperscaler bonds is competing with U.S. Treasuries — and pushing rates higher",
+      "title": "Chevron Is Expanding Operations in Venezuela. How to Play CVX Stock Now.",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/mohamed-el-erian-says-influx-153000281.html",
-      "summary": "Mohamed El-Erian says an influx of hyperscaler bonds is competing with U.S. Treasuries — and pushing rates higher",
-      "full_text": "Prominent economist Mohamed El-Erian argues hyperscalers and national governments are issuing a flood of bonds to keep up their rapid spending velocity onto fewer buyers. Those straightforward circumstances are pushing bond yields up.\n\n\"If you look at the amount of issuance that's coming from governments, from hyperscalers, from companies, it far exceeds what you can count on in terms of reliable buyers, and that's why there's been pressure on interest rates, El-Erian told CNBC in an interview on Friday. \"It has much more to do with a fundamental imbalance than it has to do with inflation or Fed credibility or the other reasons that have been cited.\"\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake. Here's what it is and 3 simple steps to fix it ASAP\n\nThe tax breaks in Trump's 'big beautiful bill' expire after 2028. Here are 4 moves to make before the window closes\n\nHe continued: \"This is simple supply and demand, and we have a massive increase in issuance by governments and hyperscalers.\"\n\nIndeed, the latest chapter of the AI buildout will be fueled by a borrowing binge among tech giants instead of them drawing on cash flows. According to investment management firm Vanguard, five so-called hyperscalers —Alphabet, Amazon, Meta, Microsoft, and Oracle — have issued $132 billion in bonds so far this year to maintain the swift speed of the AI buildout. By comparison, the five companies issued about $35 billion of debt annually from 2020 to 2024.\n\nWhat's fueling the current bond sell-off is simple: Investors want higher returns upfront in exchange for holding onto the U.S. government's debt. Investors are increasingly nervous about the fallout of the US-led war against Iran, which set off another wave of inflation particularly for gas prices. They're also wary about the rapid pace of AI development and whether the staggering spending levels will yield profits that match.",
-      "published": "2026-09-06T15:30:00Z"
+      "link": "https://finance.yahoo.com/energy/articles/chevron-expanding-operations-venezuela-play-153002599.html",
+      "summary": "Chevron Is Expanding Operations in Venezuela. How to Play CVX Stock Now.",
+      "full_text": "Integrated oil and gas company Chevron Corporation (CVX) is expanding its operations in Venezuela. This news comes days after President Trump announced that the administration has entered into a sweeping agreement with Venezuela that gives the U.S. domain over vast amounts of untapped oil reserves in South America.\n\nVenezuela's acting President Delcy Rodríguez's government said the deal involves developing 17 fields with a proven potential of 65 billion barrels. The deal also gives the U.S. 55% of the new private company's effective output, along with an ownership stake and rights to buy oil at cost.\n\nHowmet Aerospace Stock Is Sliding on SpaceX Fears. Here's Why That Could Be a Buying Opportunity.\n\nChevron has a longstanding and major presence in the country. Now, its presence is being bolstered as it has been assigned additional acreage in the Orinoco Belt. This also underpins Chevron's joint venture plans to invest over $7 billion over the next five years, more than doubling production to approximately 600,000 barrels a day compared to the current year.\n\nMike Wirth, Chevron Chairman and CEO, said this deal strengthens a portfolio that can deliver attractive low-cost oil growth, support energy supply, and create differentiated long-term value. At this juncture, CVX stock might be the energy stock to watch.\n\nChevron is an integrated energy company engaged in exploring, producing, and transporting crude oil and natural gas. It also refines and markets gasoline, diesel, lubricants, and other energy products. The company manufactures petrochemicals, additives, and specialty products while developing technologies to improve energy production and reduce emissions.\n\nChevron operates across major energy-producing regions and serves customers worldwide through its fuel stations, refineries, and industrial businesses. Its operations also include lower-carbon energy projects, such as renewable fuels, carbon capture, and hydrogen. Chevron is headquartered in Houston, Texas, and is one of the largest integrated energy companies in the U.S. The company has a market capitalization of $415.43 billion.\n\nChevron's stock has risen over the past year mainly because higher oil prices, stronger production, and the Hess acquisition have improved the company's earnings outlook. Over the past 52 weeks, CVX stock has gained 32%, while it is up 37% year-to-date (YTD). It reached a 52-week high of $214.71 on March 30 and is only down marginally from that level.",
+      "published": "2026-09-07T15:30:02Z"
     },
     {
       "id": "news_3",
-      "title": "South Korea Just Bet $20 Billion on SK hynix Stock",
+      "title": "Is 3M Stock Underperforming the Dow?",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/south-korea-just-bet-20-153002546.html",
-      "summary": "South Korea Just Bet $20 Billion on SK hynix Stock",
-      "full_text": "SK hynix (SKHY) stock was among the hottest stories in the chip sector this year. The South Korean memory maker pulled off a record-breaking listing in the United States this summer, and the proceeds were massive.\n\nValued at a market cap of almost $900 billion, the Korea-based chipmaker has surged 1,400% over the last five years. However, it is also down over 40% from all-time highs.\n\nMicron Stock More Than Tripled in 2026. Now Taiwan Strike Threat Could Shake the AI Boom.\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nHere is what is behind the SK hynix stock price surge and the surprising move South Korean officials made once the dollars started flowing in.\n\nSK hynix priced its American depositary receipts at $149 apiece in July, raising roughly $26.5 billion for the chipmaker's expansion plans, which include new factories and equipment, according to CNBC.\n\nIt was the largest U.S. share offering ever completed by a foreign company. Investors moved fast once trading opened, given SKHY stock jumped 13% on its first day, closing at $168.01.\n\nSK hynix trails only Samsung as South Korea's most valuable company. Like Samsung (SMSN.L.EB), it builds memory chips that store data in phones and computers and, increasingly, in AI servers. Big tech giants such as Nvidia (NVDA) and Apple (AAPL) are among its customers.",
-      "published": "2026-09-06T15:30:02Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3m-stock-underperforming-dow-153400965.html",
+      "summary": "Is 3M Stock Underperforming the Dow?",
+      "full_text": "With a market cap of $86.9 billion, 3M Company (MMM) is a diversified global technology company, serving customers across the Americas, Asia Pacific, Europe, the Middle East, Africa, and beyond. It operates through three segments: Safety and Industrial; Transportation and Electronics; and Consumer, delivering solutions that range from industrial abrasives, adhesives, and personal protective equipment to electronics materials, transportation systems, and data center technologies.\n\nCompanies valued at $10 billion or more are generally considered \"large-cap\" stocks, and 3M  fits this criterion perfectly. The company also offers a wide portfolio of consumer products, including home cleaning supplies, office stationery, automotive care items, and health-related bandages and supports, distributed through e-commerce, retail, and direct channels.\n\nDell and HPE Posted Record Revenue. Here's Why the Market Rewarded 1 and Punished the Other.\n\nShares of the Saint Paul, Minnesota-based company have fallen 8.8% from its 52-week high of $184.90. Over the past three months, its shares have increased 10.3%, outpacing the broader Dow Jones Industrials Average's ($DOWI) 3.6% rise during the same period.\n\nMMM stock is up 5.3% on a YTD basis, lagging behind DOWI's 11.1% gain. Longer term, shares of 3M have risen 8.4% over the past 52 weeks, compared to DOWI's 17.1% return over the same time frame.\n\nYet, the stock has been trading above its 200-day moving average since early June.\n\n3M shares climbed 7.3% on Jul. 21 after the company raised its 2026 adjusted EPS forecast to $8.80 - $8.95, helped by resilient Safety & Industrial demand and pricing actions. Q2 2026 adjusted EPS of $2.40 beat the estimate and revenue rose 2.4% to $6.50 billion, with Safety & Industrial sales up over 8% and Transportation & Electronics sales up nearly 6% as data-center and semiconductor strength offset weak autos.\n\nInvestors were also encouraged that pricing is expected to fully offset the $150 million - $175 million oil-inflation hit, and AI data-center Expanded Beam Optics revenue could grow four to five times from its current $40 million - $50 million annual level.",
+      "published": "2026-09-07T15:34:00Z"
     }
   ]
 }
