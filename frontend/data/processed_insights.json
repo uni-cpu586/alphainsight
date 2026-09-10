@@ -1,437 +1,487 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-11",
   "stock_uncle_insight": {
-    "date_header": "[9/9] 法人與主力大戶主要買超股票",
+    "date_header": "9/11 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：倒貨AI概念股，轉進低基期電子與防禦性金融",
+        "group_title": "1. 外資大戶：狂掃金融與傳產，部分科技股跌深反彈",
         "stocks": [
           {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "肖年仔，外資大戶狂掃華邦電9.26萬張，這擺明是看好記憶體產業谷底翻身，資金從高檔AI股撤出後，轉進這種低基期、有轉機的電子股，準備吃一波反彈。"
+            "stock_name": "力積電",
+            "ticker": "6770",
+            "description": "肖年仔，外資這咖狂敲力積電近2.8萬張，擺明就是看好記憶體跟晶圓代工跌深反彈，但也要小心是不是短線拉高出貨，別傻傻去追高。"
           },
           {
             "stock_name": "友達",
             "ticker": "2409",
-            "description": "面板雙虎之一的友達，外資也買超8.52萬張，跟華邦電一樣，都是低基期的電子股，外資在賭面板景氣復甦，這波是「卡位」行情。"
+            "description": "面板股友達外資也大買1.85萬張，可能是看好面板報價回穩，但這種景氣循環股，外資常常是來來去去，別傻傻追高。"
           },
           {
-            "stock_name": "南亞科",
-            "ticker": "2408",
-            "description": "記憶體族群的南亞科，外資也買了3.43萬張，跟華邦電聯手，顯示外資對記憶體產業的看法轉趨樂觀，準備「鎖碼」布局。"
+            "stock_name": "凱基金",
+            "ticker": "2883",
+            "description": "外資狂掃凱基金1.37萬張，這種大型金控，通常是避險資金的去處，肖年仔，這就是資金在找避風港啦。"
+          },
+          {
+            "stock_name": "第一金",
+            "ticker": "2892",
+            "description": "跟凱基金一樣，外資買第一金1.06萬張，就是求個穩字，大盤震盪時，這種高殖利率的會比較有吸引力。"
+          },
+          {
+            "stock_name": "國喬",
+            "ticker": "1312",
+            "description": "傳產股國喬外資也買1萬張，這咖可能是看好原物料報價反彈，或是單純低檔布局，但這種股票波動大，要小心。"
+          },
+          {
+            "stock_name": "台中銀",
+            "ticker": "2812",
+            "description": "小型金控台中銀也入列，外資買超8700張，對金融股的胃口不小，這波是全面性的資金轉移。"
+          },
+          {
+            "stock_name": "南亞",
+            "ticker": "1303",
+            "description": "塑化龍頭南亞也入榜，外資買超7300張，這跟國喬類似，都是傳產股的低檔布局，但景氣沒起來，也只是個避險。"
+          },
+          {
+            "stock_name": "台泥",
+            "ticker": "1101",
+            "description": "水泥股台泥外資買超6800張，這就是典型的防禦型股票，大盤不好時，資金就會往這些地方跑。"
+          },
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "又一檔金融股，外資買超6700張，對金融股的偏好很明顯，這波金融股有機會走出獨立行情。"
           },
           {
             "stock_name": "臺企銀",
             "ticker": "2834",
-            "description": "外資買超臺企銀2.68萬張，這就是典型的「資金避風港」操作，在大盤震盪時，金融股相對穩健，還有高殖利率題材，是外資的防禦性選擇。"
-          },
-          {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "連0050這種大盤ETF外資都買了2.09萬張，代表外資對個股操作趨於保守，寧願買大盤ETF來「避險」，穩穩賺大盤的錢。"
-          },
-          {
-            "stock_name": "華航",
-            "ticker": "2610",
-            "description": "華航外資買超0.90萬張，這就是解封題材的延續，雖然漲了一波，但外資還是看好航空業的復甦，準備再「拉抬」一波。"
+            "description": "連臺企銀這種官股金控都買，外資買超6700張，這波對金融股是全面撒網，肖年仔，這就是資金在找安全感。"
           }
         ]
       },
       {
-        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，金融股成新寵",
+        "group_title": "2. 投信大戶（本土國家隊）：金融作帳與低基期科技卡位",
         "stocks": [
+          {
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "肖年仔，投信這本土國家隊狂敲聯電1.25萬張，跟外資賣超聯電形成對比，這咖可能是看好晶圓代工的長期價值，或是為了年底作帳行情提前卡位。"
+          },
           {
             "stock_name": "台新新光金",
             "ticker": "2887",
-            "description": "本土國家隊投信大買台新新光金1.51萬張，這很明顯是投信在「作帳」，金融股相對低檔，容易拉抬，是他們衝績效的好標的。"
+            "description": "投信也跟著外資買金融股，台新新光金買超1.16萬張，這種有題材的，作帳行情可能就從這裡開始。"
           },
           {
             "stock_name": "玉山金",
             "ticker": "2884",
-            "description": "玉山金也被投信買超1.13萬張，跟台新新光金一樣，都是投信「鎖碼」金融股的策略，準備在季底或年底前拉高結算。"
+            "description": "玉山金也是投信的心頭好，買超7100張，金融股穩健配息，是作帳的好標的。"
+          },
+          {
+            "stock_name": "台塑化",
+            "ticker": "6505",
+            "description": "投信買台塑化6500張，這咖可能也是看好原物料行情，或是單純低基期布局，但這種股票要等景氣翻多才會有大行情。"
+          },
+          {
+            "stock_name": "第一金",
+            "ticker": "2892",
+            "description": "投信也買第一金5900張，跟外資英雄所見略同，金融股穩健，是作帳的好選擇。"
           },
           {
             "stock_name": "彰銀",
             "ticker": "2801",
-            "description": "彰銀投信買超0.84萬張，本土資金對金融股的青睞程度可見一斑，這波金融股的「作帳」行情，肖年仔們可以多留意。"
+            "description": "彰銀也被投信買超5900張，這波金融股真的是本土國家隊跟外資的共同目標。"
           },
           {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "外資大賣聯電，但投信卻買超0.48萬張，這就是典型的「法人對作」，投信可能認為聯電跌深了，準備「接刀」低檔布局。"
+            "stock_name": "中信金",
+            "ticker": "2891",
+            "description": "中信金這種大型金控，投信當然不會放過，買超2400張，穩健的獲利跟配息，是作帳的基石。"
           },
           {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "華邦電投信也買超0.39萬張，跟外資同步買進，顯示記憶體族群確實有吸引力，本土資金也看好其後市。"
+            "stock_name": "玉晶光",
+            "ticker": "3406",
+            "description": "玉晶光這種光學股，投信買進2300張，可能是看好新機題材，但這種股票波動大，肖年仔要小心。"
           },
           {
-            "stock_name": "緯創",
-            "ticker": "3231",
-            "description": "外資大賣AI股緯創，但投信卻買超0.21萬張，這也是「法人對作」的戲碼，投信可能在低檔承接，準備等外資「倒貨」完後再拉抬。"
+            "stock_name": "大成鋼",
+            "ticker": "2027",
+            "description": "投信買大成鋼2100張，這咖可能是看好鋼鐵股的低檔反彈，但這種景氣循環股，要等景氣翻多才會有大行情。"
+          },
+          {
+            "stock_name": "南亞",
+            "ticker": "1303",
+            "description": "投信也買南亞2000張，跟外資一樣，都是傳產股的低檔布局，但這種股票要等景氣翻多才會有大行情。"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：避險盤與短線操作並存",
+        "group_title": "3. 內資主力與實戶：ETF避險與短線科技操作",
         "stocks": [
-          {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "自營商買超聯電0.26萬張，在外資大賣、投信小買的背景下，自營商這種「避險盤」的買進，很可能是為了對沖權證或權利金，短線操作成分居多。"
-          },
           {
             "stock_name": "富邦科技",
             "ticker": "0052",
-            "description": "自營商買超富邦科技0.10萬張，跟0050一樣，都是ETF，這也是自營商在市場震盪時，用來「避險」或短線套利的工具。"
+            "description": "肖年仔，自營商這咖買富邦科技ETF近940張，八成是為了避險或是做指數套利，這種咖通常不會抱太久，隔天可能就倒貨了。"
           },
           {
-            "stock_name": "緯創",
-            "ticker": "3231",
-            "description": "自營商買超緯創0.06萬張，跟投信一樣，在外資大賣時進場，這可能也是短線的「接刀」操作，或是權證避險盤的動作。"
-          },
-          {
-            "stock_name": "南亞科",
-            "ticker": "2408",
-            "description": "南亞科自營商買超0.05萬張，跟外資、投信同步買進記憶體，顯示這個族群確實有吸引力，自營商也想來分一杯羹。"
+            "stock_name": "力積電",
+            "ticker": "6770",
+            "description": "自營商也買力積電560張，這咖跟外資一樣，看好記憶體跟晶圓代工跌深反彈，但自營商的單通常比較短線。"
           },
           {
             "stock_name": "華邦電",
             "ticker": "2344",
-            "description": "華邦電自營商買超0.04萬張，三大法人同步買進，這檔股票的籌碼面看起來很熱鬧，但自營商的量不大，還是以短線操作為主。"
+            "description": "華邦電這種記憶體股，自營商也買550張，這咖可能是看好記憶體產業的復甦，但自營商的單通常比較短線。"
           },
           {
-            "stock_name": "玉山金",
-            "ticker": "2884",
-            "description": "玉山金自營商買超0.04萬張，跟投信一樣買金融股，但自營商的量更小，可能是短線「避險」或「套利」的動作。"
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "自營商也買友達390張，這咖跟外資一樣，看好面板報價回穩，但自營商的單通常比較短線。"
+          },
+          {
+            "stock_name": "矽格",
+            "ticker": "6257",
+            "description": "矽格這種半導體封測股，自營商也買200張，這咖可能是看好半導體產業的復甦，但自營商的單通常比較短線。"
+          },
+          {
+            "stock_name": "合庫金",
+            "ticker": "5880",
+            "description": "自營商也買合庫金190張，這咖跟外資、投信一樣，看好金融股的穩健，但自營商的單通常比較短線。"
+          },
+          {
+            "stock_name": "玉晶光",
+            "ticker": "3406",
+            "description": "自營商也買玉晶光170張，這咖跟投信一樣，看好新機題材，但自營商的單通常比較短線。"
+          },
+          {
+            "stock_name": "燿華",
+            "ticker": "2367",
+            "description": "燿華這種PCB股，自營商也買170張，這咖可能是看好PCB產業的復甦，但自營商的單通常比較短線。"
+          },
+          {
+            "stock_name": "材料*-KY",
+            "ticker": "4763",
+            "description": "材料*-KY這種特殊材料股，自營商也買140張，這咖可能是看好其獨特題材，但自營商的單通常比較短線。"
+          },
+          {
+            "stock_name": "南亞科",
+            "ticker": "2408",
+            "description": "南亞科這種記憶體股，自營商也買130張，這咖可能是看好記憶體產業的復甦，但自營商的單通常比較短線。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔避險與資金避風港（金融、ETF、航空）",
-        "strategy_content": "肖年仔，你看外資大戶這次操作很明顯，把資金從之前漲多的AI概念股（如緯創、廣達、鴻海）「倒貨」出來，轉進相對穩健的金融股（臺企銀、第一金、兆豐金等）、大盤ETF（0050），還有解封題材的華航。這就是典型的「高檔避險」，把錢從高風險板塊撤出，移往具有防禦性或旺季效應的板塊，避免大盤修正時被「割韭菜」。"
+        "strategy_title": "策略一：資金轉向避險與防禦型板塊（金融、傳產）",
+        "strategy_content": "肖年仔，你看外資跟投信，不約而同地狂掃金融股（凱基金、第一金、台新新光金、玉山金、兆豐金、臺企銀、彰銀、中信金、合庫金），還有部分傳產股（國喬、南亞、台泥、台塑化、大成鋼）。這擺明就是大盤高檔震盪，AI股漲多拉回，大戶把資金從高風險的科技股撤出來，轉往相對穩健、有高殖利率題材的金融股，以及低基期的傳產股避險。這就是典型的「高檔避險」操作，肖年仔別傻傻去追高。"
       },
       {
-        "strategy_title": "策略二：低基期電子股與記憶體卡位（華邦電、友達、南亞科）",
-        "strategy_content": "除了避險，外資也沒閒著，大買記憶體雙雄華邦電、南亞科，還有面板股友達。這些都是之前跌深、評價面低的「低基期」電子股。外資在賭這些產業的景氣即將「點火」復甦，提前「鎖碼」布局，準備在底部發動時大賺一筆。這就是在大盤修正時，挑選跌無可跌、有轉機的標的作為避風港，同時也是為下一波行情「卡位」。"
+        "strategy_title": "策略二：跌深科技股的短線反彈與作帳行情（記憶體、面板、晶圓代工）",
+        "strategy_content": "雖然外資在賣緯創、群創這些AI指標股，但同時也大買力積電、友達，投信也買聯電、玉晶光，自營商更是全面布局記憶體（力積電、華邦電、南亞科）、面板（友達）跟部分半導體（矽格、燿華）。這顯示部分大戶認為這些跌深科技股有機會出現「跌深反彈」，或是投信為了年底「作帳行情」提前卡位，拉抬這些有基本面支撐的低基期科技股。但肖年仔要注意，這種反彈通常比較短線，主力隨時可能「拉高出貨」。"
       },
       {
-        "strategy_title": "策略三：法人籌碼大風吹與作帳行情（聯電、緯創、金融股）",
-        "strategy_content": "這次三大法人之間「對作」的戲碼很精彩。外資大賣聯電、緯創等權值電子股，但投信和自營商卻有買進，這表示籌碼正在不同法人之間「大風吹」。特別是投信，大舉買超多檔金融股，這很可能是為了季底或年底的「作帳行情」預作準備，準備拉抬這些股票來衝高基金績效。肖年仔，這種「法人對作」的股票，短線波動會很大，要小心別「接刀」接到手軟。"
+        "strategy_title": "策略三：外資對AI股的「拉高出貨」與「隔日沖」",
+        "strategy_content": "肖年仔，你看看摩根大通這咖，一天就倒了緯創上萬張，外資在緯創、群創、台達電這些AI指標股上，明顯是「倒貨」居多。這就是典型的「拉高出貨」手法，利用市場對AI的熱情，在高檔把籌碼丟給散戶。同時，自營商買賣ETF的動作，也暗示著權證或期貨的「避險盤」操作，顯示市場波動加劇，大戶們都在小心翼翼地對沖風險。"
       }
     ],
-    "summary": "肖年仔，這盤面很清楚，外資在「拉高出貨」AI概念股，資金轉進金融、低基期電子避險兼卡位，本土投信則在金融股「作帳」，籌碼大風吹，別傻傻去「接刀」高檔貨，要跟著主力找「避風港」和「低基期」的機會！",
+    "summary": "肖年仔，大盤高檔震盪，外資跟投信都在玩『資金大挪移』，AI股高檔『倒貨』，金融傳產『卡位』避險，跌深科技股則有『作帳』跟『反彈』機會，但主力隨時可能『拉高出貨』，別傻傻去『接刀』，小心被『割韭菜』！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 3.24萬張",
-        "uncle_logic": "美商高盛這外資大戶，大買華邦電3.24萬張，很明顯是跟著大部隊在記憶體族群「鎖碼」，看好這檔低基期電子股的後市，準備吃一波反彈，這不是「假外資」，是真金白銀的布局。"
+        "action": "買超 9800張",
+        "uncle_logic": "肖年仔，高盛這咖買力積電近萬張，擺明就是看好記憶體跟晶圓代工跌深反彈，或是準備要拉抬一波，但也要小心是不是隔日沖的起手式。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 0.10萬張",
-        "uncle_logic": "肖年仔，看到「凱基台北」買聯電1千多張，心裡要有數，這就是著名的「隔日沖」大戶，今天買進，明天大概率就是「倒貨」給你，別傻傻去「接刀」，小心被「割韭菜」！"
+        "action": "買超 376張",
+        "uncle_logic": "凱基台北這短線仔買富邦科技ETF，八成是為了避險或是做指數套利，這種咖通常不會抱太久，隔天可能就倒貨了。"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 0.68萬張",
-        "uncle_logic": "元大投信這本土國家隊，大買台新新光金6千8百多張，這就是典型的「作帳」行情，鎖定金融股這種相對低檔的標的，準備在季底前拉抬，衝高基金績效。"
+        "action": "買超 5633張",
+        "uncle_logic": "元大投信這本土國家隊買聯電，很明顯是看好晶圓代工的長期價值，或是為了年底作帳行情提前卡位，但外資卻在賣聯電，這就有趣了，肖年仔要看清楚。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 1.92萬張",
-        "uncle_logic": "摩根大通這外資大戶，大賣聯電1.92萬張，在外資整體賣超聯電的背景下，這不是「拉高出貨」就是「認賠殺出」，顯然是對聯電後市不看好，資金轉往其他標的「避險」去了。"
+        "action": "賣超 10126張",
+        "uncle_logic": "摩根大通這外資大咖倒緯創上萬張，AI股高檔出貨的訊號很明顯，肖年仔別傻傻去接刀，小心被割韭菜。"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "Loss of Costco deal helps push beverage brand into Chapter 11",
+      "title": "VERAXA Biotech Designates Raju Willener as CFO",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/healthcare/articles/loss-costco-deal-helps-push-150700837.html",
-      "level1_blind": "While all drugs sold to American consumers face a rigorous approval process, that's not the case when it comes to supplements. The Food and Drug Administration (FDA) does not approve supplements, and while there are some limits to the claims that can be made by companies in this space, there's a fair amount of latitude.\n\n\"The manufacturer must have substantiation that the claim is truthful and not misleading and must submit a notification with the text of the claim to FDA no later than 30 days after marketing the dietary supplement with the claim. If a dietary supplement label includes such a claim, it must state in a 'disclaimer' that FDA has not evaluated the claim,\" according to the FDA website.\n\nSupplement makers can make certain structure/function claims without FDA preapproval, as long as they have substantiation that the claims are truthful and not misleading, and that they meet the agency's other requirements.\n\n\"The disclaimer must also state that the dietary supplement product is not intended to 'diagnose, treat, cure or prevent any disease,' because only a drug can legally make such a claim,\" the federal agency shared.\n\nIt's a legal grey area that allows supplements to advertise that they can help with fitness, hair growth, sleep, and your ability to focus.\n\nSynergy CHC Corp., the maker of Focus Factor, which is described on its Amazon sales page as a \"Brain Supplement for Memory, Concentration and Focus,\" has filed for Chapter 11 bankruptcy.\n\nFocus Factor Extra Strength brain supplements contain a powerful combination of vitamins, minerals, and neuro-nutrients that not only power your brain but can also replace your daily multivitamin,\" it shared.\n\nThe company, on Amazon, also said that the supplement promotes concentration and memory.",
+      "link": "https://finance.yahoo.com/healthcare/articles/veraxa-biotech-designates-raju-willener-154625631.html",
+      "level1_blind": "Veraxa Biotech AG (Nasdaq: VRXA) said it appointed Raju Willener as Chief Financial Officer, having previously served as Director of Corporate Development at Exentis Group AG, before becoming its CFO in 2025.\n\nMr. Willener has more than three decades of international financial leadership experience in global capital markets and all aspects of the biopharmaceutical development process, the company stated.\n\n\"As we advance our proprietary BiTAC technology platform and growing oncology pipeline, Raju's expertise will be highly valuable in optimizing our capital strategy, evaluating strategic opportunities and supporting disciplined execution and long-term shareholder value creation,\" said Christoph Antz, Ph.D., VERAXA's CEO and co-founder.\n\nThe post VERAXA Biotech Designates Raju Willener as CFO appeared first on ExecEdge.",
       "level2_keywords": [
         {
-          "word": "supplements",
-          "ipa": "",
-          "meaning": "補充品",
-          "example": "這家公司的補充品可以幫助你提高注意力"
+          "word": "CFO",
+          "ipa": "tʃɪf ˈfaʊ",
+          "meaning": "財務總裁",
+          "example": "他將擔任公司的財務總裁"
         },
         {
-          "word": "FDA",
-          "ipa": "",
-          "meaning": "食品藥物管理局",
-          "example": "FDA 的規定對於這家公司的補充品有很大的影響"
+          "word": "capital",
+          "ipa": "kæpɪtəl",
+          "meaning": "資本",
+          "example": "公司需要更多資本來發展新產品"
         },
         {
-          "word": "structure",
-          "ipa": "",
-          "meaning": "結構",
-          "example": "這家公司的補充品有強大的結構"
+          "word": "biopharmaceutical",
+          "ipa": "baɪəʊˌfɑrməˈdʃeɪl",
+          "meaning": "生物製劑",
+          "example": "這家公司正在研發新的生物製劑"
         },
         {
-          "word": "function",
-          "ipa": "",
-          "meaning": "功能",
-          "example": "這家公司的補充品可以幫助你提高功能"
+          "word": "pipeline",
+          "ipa": "ˈpɪlɪnaɪl",
+          "meaning": "管道",
+          "example": "公司的新藥物通過這個管道到達市場"
         },
         {
-          "word": "dietary",
-          "ipa": "",
-          "meaning": "營養",
-          "example": "這家公司的補充品是營養補充品"
+          "word": "strategic",
+          "ipa": "ˈstrætʒɪk",
+          "meaning": "戰略",
+          "example": "公司需要做出合理的戰略來發展新產品"
         }
       ],
-      "level2_context": "美國食品藥物管理局（FDA）對於補充品的規定非常重要，公司需要在 30 天內提交通知，確認其宣傳內容的真實性和正確性。這個法律 grey area Allows Supplements to Advertise That They Can Help With Fitness, Hair Growth, Sleep, and Your Ability to Focus。這家公司的補充品因為失去 Costco 的合作關係而被迫宣布破產。",
+      "level2_context": "這篇文章關於VERAXA Biotech公司的 CFO任命，涉及到公司的財務策略、資本市場和生物製劑發展。這對於公司的長期生產力和股東利益有重要影響。",
       "level3_translation": [
         {
-          "sentence": "While all drugs sold to American consumers face a rigorous approval process, that's not the case when it comes to supplements.",
-          "translation": "在美國，所有藥品都需要通過嚴格的批准程序，但補充品就不一样了"
+          "sentence": "Veraxa Biotech AG (Nasdaq: VRXA) said it appointed Raju Willener as Chief Financial Officer, having previously served as Director of Corporate Development at Exentis Group AG, before becoming its CFO in 2025.",
+          "translation": "VERAXA Biotech AG ( Nasdaq: VRXA )宣布任命 Raju Willener 為財務總裁，之前曾擔任 Exentis Group AG 的企業發展部門主管，後來在 2025 年成為該公司的財務總裁"
         },
         {
-          "sentence": "The Food and Drug Administration (FDA) does not approve supplements, and while there are some limits to the claims that can be made by companies in this space, there's a fair amount of latitude.",
-          "translation": "食品藥物管理局（FDA）並不批准補充品，雖然公司在這個領域的宣傳限制有所限制，但仍有許多的空間"
+          "sentence": "Mr. Willener has more than three decades of international financial leadership experience in global capital markets and all aspects of the biopharmaceutical development process, the company stated.",
+          "translation": "Mr. Willener 拥有超過三十年的國際財務領導經驗，遍及全球資本市場和生物製劑開發過程，公司表示"
         },
         {
-          "sentence": "\"The manufacturer must have substantiation that the claim is truthful and not misleading and must submit a notification with the text of the claim to FDA no later than 30 days after marketing the dietary supplement with the claim.\"",
-          "translation": "\"製造商必須提供證據證明宣傳內容的真實性和正確性，並在 30 天內提交通知給 FDA\""
+          "sentence": "\"As we advance our proprietary BiTAC technology platform and growing oncology pipeline, Raju's expertise will be highly valuable in optimizing our capital strategy, evaluating strategic opportunities and supporting disciplined execution and long-term shareholder value creation,\" said Christoph Antz, Ph.D., VERAXA's CEO and co-founder.",
+          "translation": "\"我們進一步推進我們的自有 BiTAC 技術平台和成長中的癌症治療管道，Raju 的專業會對我們的資本策略進行優化，評估戰略機會和支持有規律的執行和長期股東利益創造,\" said Christoph Antz, Ph.D., VERAXA 的 CEO 和共同創始人"
         },
         {
-          "sentence": "Supplement makers can make certain structure/function claims without FDA preapproval, as long as they have substantiation that the claims are truthful and not misleading, and that they meet the agency's other requirements.",
-          "translation": "補充品製造商可以在 FDA 批准之前，根據證據證明宣傳內容的真實性和正確性，並符合其他要求"
-        },
-        {
-          "sentence": "\"The disclaimer must also state that the dietary supplement product is not intended to 'diagnose, treat, cure or prevent any disease,' because only a drug can legally make such a claim.\"",
-          "translation": "\"宣傳內容還必須明確指出，該補充品不會用來診斷、治療、治癒或預防任何疾病，因為只有藥品才能合法地做這些\""
-        },
-        {
-          "sentence": "It's a legal grey area that allows supplements to advertise that they can help with fitness, hair growth, sleep, and your ability to focus.",
-          "translation": "這是一個法律灰色區域，允許補充品宣傳它們能夠幫助你保持身體健康，增長頭髮、睡眠和注意力"
-        },
-        {
-          "sentence": "Synergy CHC Corp., the maker of Focus Factor, which is described on its Amazon sales page as a \"Brain Supplement for Memory, Concentration and Focus,\" has filed for Chapter 11 bankruptcy.",
-          "translation": "Synergy CHC Corp. 是 Focus Factor 的製造商，該公司在 Amazon 的網路商店上描述為 \"記憶力、集中力和注意力的腦補充品\"，已經宣布破產"
-        },
-        {
-          "sentence": "Focus Factor Extra Strength brain supplements contain a powerful combination of vitamins, minerals, and neuro-nutrients that not only power your brain but can also replace your daily multivitamin,\" it shared.",
-          "translation": "Focus Factor 的強化版腦補充品包含了強大的維生素、礦物質和神經營養素，它不僅能夠幫助你保持腦力，還能夠取代你的每天多維他因子"
-        },
-        {
-          "sentence": "The company, on Amazon, also said that the supplement promotes concentration and memory.",
-          "translation": "該公司還在 Amazon 上宣傳該腦補充品能夠幫助你提高注意力和記憶力"
+          "sentence": "The post VERAXA Biotech Designates Raju Willener as CFO appeared first on ExecEdge.",
+          "translation": "這篇文章首先出現在 ExecEdge 上"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Chevron Is Expanding Operations in Venezuela. How to Play CVX Stock Now.",
+      "title": "Purepoint Uranium CEO says utility contracting set to drive next Uranium market surge",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/energy/articles/chevron-expanding-operations-venezuela-play-153002599.html",
-      "level1_blind": "Integrated oil and gas company Chevron Corporation (CVX) is expanding its operations in Venezuela. This news comes days after President Trump announced that the administration has entered into a sweeping agreement with Venezuela that gives the U.S. domain over vast amounts of untapped oil reserves in South America.\n\nVenezuela's acting President Delcy Rodríguez's government said the deal involves developing 17 fields with a proven potential of 65 billion barrels. The deal also gives the U.S. 55% of the new private company's effective output, along with an ownership stake and rights to buy oil at cost.\n\nHowmet Aerospace Stock Is Sliding on SpaceX Fears. Here's Why That Could Be a Buying Opportunity.\n\nChevron has a longstanding and major presence in the country. Now, its presence is being bolstered as it has been assigned additional acreage in the Orinoco Belt. This also underpins Chevron's joint venture plans to invest over $7 billion over the next five years, more than doubling production to approximately 600,000 barrels a day compared to the current year.\n\nMike Wirth, Chevron Chairman and CEO, said this deal strengthens a portfolio that can deliver attractive low-cost oil growth, support energy supply, and create differentiated long-term value. At this juncture, CVX stock might be the energy stock to watch.\n\nChevron is an integrated energy company engaged in exploring, producing, and transporting crude oil and natural gas. It also refines and markets gasoline, diesel, lubricants, and other energy products. The company manufactures petrochemicals, additives, and specialty products while developing technologies to improve energy production and reduce emissions.\n\nChevron operates across major energy-producing regions and serves customers worldwide through its fuel stations, refineries, and industrial businesses. Its operations also include lower-carbon energy projects, such as renewable fuels, carbon capture, and hydrogen. Chevron is headquartered in Houston, Texas, and is one of the largest integrated energy companies in the U.S. The company has a market capitalization of $415.43 billion.\n\nChevron's stock has risen over the past year mainly because higher oil prices, stronger production, and the Hess acquisition have improved the company's earnings outlook. Over the past 52 weeks, CVX stock has gained 32%, while it is up 37% year-to-date (YTD). It reached a 52-week high of $214.71 on March 30 and is only down marginally from that level.",
+      "link": "https://finance.yahoo.com/video/purepoint-uranium-ceo-says-utility-154840211.html",
+      "level1_blind": {
+        "text": "Purepoint Uranium Group CEO Chris Frostad joined Steve Darling from Proactive to provide his perspective on the current uranium market and explain why he believes a major shift in utility purchasing could be the catalyst that reignites uranium equities.\n\nFrostad noted that many U.S. utilities were purchasing uranium in the mid-to-high US$50 per pound range last year, despite spot uranium prices trading in the high US$80s. He explained that this apparent disconnect was largely due to flexibility provisions embedded in long-term contracts signed several years ago, allowing utilities to access lower-priced uranium even as market prices moved significantly higher.\n\nAccording to Frostad, this pricing gap has created confusion among investors and contributed to weaker performance across uranium stocks, despite what appears to be a strong uranium pricing environment. He argued that the current spot market is being driven more by constrained supply than by a surge in demand.\n\nProducers, he said, are operating with inventory levels near the minimum they are comfortable maintaining, leaving very little excess material available for sale. As a result, relatively small transactions can have an outsized impact on spot pricing, with weekly uranium prices sometimes moving several dollars on limited trading activity.Frostad also pointed to major uranium producers reporting realized sales prices in the high US$60-per-pound range as evidence that legacy contracts continue to mask the true economics of the uranium market.\n\nWhile utility contracting activity has slowed in recent years, Frostad believes that trend is nearing a turning point. As older contracts expire and utilities are forced back into the market to secure future supply at prevailing prices, he expects contracting activity to accelerate significantly.\n\nHe described this transition as \"the last shoe to drop\" in the uranium cycle, suggesting that renewed long-term contracting could become the key driver that pushes uranium equities higher and better aligns stock valuations with underlying market fundamentals.\n\nFor Purepoint Uranium, Frostad said the company remains actively engaged in exploration and drilling programs while maintaining a strong financial position. He believes Purepoint is well-funded to continue advancing its projects through the current market environment and into what he expects will be a period of stronger uranium demand and improved market conditions.\n\n#proactiveinvestors #purepointuraniumgroup #tsxv #ptu #otcqb #ptuuf #Uranium #AthabascaBasin #UraniumExploration #UraniumExploration #CriticalMinerals #Geology #Mining #Drilling #SaskatchewanMining #MiningNews #ResourceExploration"
+      },
       "level2_keywords": [
         {
-          "word": "Orinoco",
-          "ipa": "/ɔːrɪˈnɒkoʊ/",
-          "meaning": "奥里诺科盆地",
-          "example": "奥里诺科盆地的油气资源丰富"
+          "word": "utility contracting",
+          "ipa": "/juˈtɪlɪti ˈkɑːntræktɪŋ/",
+          "meaning": "「公用事業採購合約」或「電力公司簽訂長期供貨合約」。指電力公司等公用事業與供應商簽訂的長期採購協議。",
+          "example": "The CEO highlighted that a shift in `utility contracting` behavior is crucial for the next phase of the uranium market."
         },
         {
-          "word": "Venezuela",
-          "ipa": "/vɛnɪˈzjɛlə/",
-          "meaning": "委萨拉尔",
-          "example": "委萨拉尔的经济依赖于石油出口"
+          "word": "uranium equities",
+          "ipa": "/jʊˈreɪniəm ˈɛkwɪtiz/",
+          "meaning": "「鈾礦類股」或「鈾相關股票」。指在股票市場上交易的鈾礦開採、加工或相關公司的股票。",
+          "example": "Renewed long-term contracting could become the key driver that pushes `uranium equities` higher."
         },
         {
-          "word": "Barrels",
-          "ipa": "/ˈbɑrəlz/",
-          "meaning": "桶",
-          "example": "石油产量以桶为单位"
+          "word": "spot prices",
+          "ipa": "/spɑːt ˈpraɪsɪz/",
+          "meaning": "「現貨價格」。指商品或資產在當前市場上立即交割的價格，通常反映即時供需。",
+          "example": "Despite `spot uranium prices` trading in the high US$80s, many utilities were purchasing at much lower rates."
         },
         {
-          "word": "Production",
-          "ipa": "/prədʌkʃən/",
-          "meaning": "生产",
-          "example": "石油公司的生产能力"
+          "word": "constrained supply",
+          "ipa": "/kənˈstreɪnd səˈplaɪ/",
+          "meaning": "「供應受限」或「供給吃緊」。指市場上某種商品或服務的供應量不足以滿足需求，導致價格上漲的壓力。",
+          "example": "He argued that the current spot market is being driven more by `constrained supply` than by a surge in demand."
         },
         {
-          "word": "Emissions",
-          "ipa": "/ɛmɪˈʃənz/",
-          "meaning": "排放",
-          "example": "石油公司的排放量"
+          "word": "market fundamentals",
+          "ipa": "/ˈmɑːrkɪt ˌfʌndəˈmɛntəlz/",
+          "meaning": "「市場基本面」。指影響資產或商品價值的經濟、產業和公司層面的基本因素，如供需、盈利能力、經濟增長等。",
+          "example": "The CEO believes stock valuations will better align with underlying `market fundamentals` as contracts expire."
         }
       ],
-      "level2_context": "美国政府与委萨拉尔政府签订了一项协议，允许美国公司在委萨拉尔的油气资源中取得一定的权利。这种协议有助于 Chevron 的业务发展，也可能对美国的石油业产生影响。",
+      "level2_context": "各位同學，這篇新聞主要在探討鈾礦市場的一個關鍵現象：儘管鈾礦的「現貨價格」看起來很高，但許多電力公司（公用事業）卻能以較低的價格採購。這是因為他們多年前簽訂了「長期合約」，這些合約中包含彈性條款，讓他們即使在現貨價上漲時也能鎖定較低的價格。這種「價格落差」導致投資人對鈾礦類股的表現感到困惑。\n\n這位執行長認為，目前的現貨市場價格上漲，更多是受到「供應吃緊」而非需求大增的影響，因為生產商的庫存量已經非常低。他預期，隨著這些舊的長期合約陸續到期，電力公司將不得不重回市場，以當前較高的「市場價格」來確保未來的供應。他將此視為鈾礦週期中「最後一塊拼圖」，預計這種「公用事業採購合約」活動的加速，將成為推動鈾礦類股上漲、並使其股價更能反映「市場基本面」的關鍵驅動力。簡而言之，這是在解釋為什麼鈾價看似高漲，但相關股票卻未完全反映，以及未來可能引爆市場的潛在因素。",
       "level3_translation": [
         {
-          "sentence": "Integrated oil and gas company Chevron Corporation (CVX) is expanding its operations in Venezuela.",
-          "translation": " Chevron Corporation（CVX）正在扩大其在委萨拉尔的业务"
+          "sentence": "Purepoint Uranium Group CEO Chris Frostad joined Steve Darling from Proactive to provide his perspective on the current uranium market and explain why he believes a major shift in utility purchasing could be the catalyst that reignites uranium equities.",
+          "translation": "Purepoint Uranium Group 的執行長 Chris Frostad 接受了 Proactive 的 Steve Darling 採訪，分享他對當前鈾礦市場的看法，並解釋為何他認為公用事業採購模式的重大轉變，可能會成為重新點燃鈾礦類股漲勢的催化劑。"
         },
         {
-          "sentence": "This news comes days after President Trump announced that the administration has entered into a sweeping agreement with Venezuela that gives the U.S. domain over vast amounts of untapped oil reserves in South America.",
-          "translation": "这条 news 是在总统特朗普宣布美国政府与委萨拉尔政府签订了一项协议后 few 天。协议允许美国公司在委萨拉尔的油气资源中取得一定的权利"
+          "sentence": "Frostad noted that many U.S. utilities were purchasing uranium in the mid-to-high US$50 per pound range last year, despite spot uranium prices trading in the high US$80s.",
+          "translation": "Frostad 指出，去年許多美國公用事業公司仍以每磅 50 多美元的價格採購鈾礦，儘管當時鈾礦的現貨價格已在每磅 80 多美元的高位。"
         },
         {
-          "sentence": "Venezuela's acting President Delcy Rodríguez's government said the deal involves developing 17 fields with a proven potential of 65 billion barrels.",
-          "translation": "委萨拉尔的现任总统 Delcy Rodríguez 的政府表示，协议涉及开发 17 个田地，潜力为 65 亿桶"
+          "sentence": "He explained that this apparent disconnect was largely due to flexibility provisions embedded in long-term contracts signed several years ago, allowing utilities to access lower-priced uranium even as market prices moved significantly higher.",
+          "translation": "他解釋說，這種明顯的脫鉤現象，主要是因為多年前簽訂的長期合約中，包含了彈性條款，使得公用事業公司即使在市場價格大幅上漲時，也能以較低的價格取得鈾礦。"
         },
         {
-          "sentence": "The deal also gives the U.S. 55% of the new private company's effective output, along with an ownership stake and rights to buy oil at cost.",
-          "translation": "协议还允许美国公司获得该新公司的 55% 的有效产量，拥有该公司的股份，并有权购买石油以成本"
+          "sentence": "According to Frostad, this pricing gap has created confusion among investors and contributed to weaker performance across uranium stocks, despite what appears to be a strong uranium pricing environment.",
+          "translation": "Frostad 表示，這種價格落差讓投資人感到困惑，並導致鈾礦類股的表現疲軟，儘管表面上鈾礦價格環境看起來很強勁。"
         },
         {
-          "sentence": "Chevron has a longstanding and major presence in the country.",
-          "translation": "Chevron 在委萨拉尔有着长期和重要的业务"
+          "sentence": "He argued that the current spot market is being driven more by constrained supply than by a surge in demand.",
+          "translation": "他認為，當前的現貨市場價格上漲，更多是受到供應吃緊的驅動，而非需求大幅增加。"
         },
         {
-          "sentence": "Now, its presence is being bolstered as it has been assigned additional acreage in the Orinoco Belt.",
-          "translation": "现在，Chevron 的业务正在得到加强，因为它被分配了奥里诺科盆地的额外土地"
+          "sentence": "Producers, he said, are operating with inventory levels near the minimum they are comfortable maintaining, leaving very little excess material available for sale.",
+          "translation": "他說，生產商的庫存量已接近他們願意維持的最低水平，幾乎沒有多餘的材料可供出售。"
         },
         {
-          "sentence": "This also underpins Chevron's joint venture plans to invest over $7 billion over the next five years, more than doubling production to approximately 600,000 barrels a day compared to the current year.",
-          "translation": "这也支持了 Chevron 的联合venture 计划，计划在下五年内投资超过 7 亿美元，产量将大幅增加到大约 600 亿桶/天"
+          "sentence": "As a result, relatively small transactions can have an outsized impact on spot pricing, with weekly uranium prices sometimes moving several dollars on limited trading activity.",
+          "translation": "因此，相對較小的交易量就能對現貨價格產生巨大的影響，有時在交易活動有限的情況下，每週鈾礦價格可能會波動好幾美元。"
         },
         {
-          "sentence": "Mike Wirth, Chevron Chairman and CEO, said this deal strengthens a portfolio that can deliver attractive low-cost oil growth, support energy supply, and create differentiated long-term value.",
-          "translation": "Chevron 的总裁 Mike Wirth 表示，这项协议增强了 Chevron 的投资组合，能够提供可持续的低成本石油增长，支持能源供应，创造出不同化的长期价值"
+          "sentence": "Frostad also pointed to major uranium producers reporting realized sales prices in the high US$60-per-pound range as evidence that legacy contracts continue to mask the true economics of the uranium market.",
+          "translation": "Frostad 也指出，主要鈾礦生產商報告的實際銷售價格仍在每磅 60 多美元的範圍，這證明了舊有合約持續掩蓋了鈾礦市場的真實經濟狀況。"
         },
         {
-          "sentence": "At this juncture, CVX stock might be the energy stock to watch.",
-          "translation": "目前，CVX 股票可能是观察的重点"
+          "sentence": "While utility contracting activity has slowed in recent years, Frostad believes that trend is nearing a turning point.",
+          "translation": "儘管近年來公用事業的採購合約活動有所放緩，但 Frostad 相信這個趨勢正接近一個轉折點。"
         },
         {
-          "sentence": "Chevron is an integrated energy company engaged in exploring, producing, and transporting crude oil and natural gas.",
-          "translation": "Chevron 是一家整合性能源公司， engaged 在探矿、生产和运输 crude oil 和天然气"
+          "sentence": "As older contracts expire and utilities are forced back into the market to secure future supply at prevailing prices, he expects contracting activity to accelerate significantly.",
+          "translation": "隨著舊合約陸續到期，公用事業公司將被迫重回市場，以當前市場價格確保未來供應，他預計採購合約活動將顯著加速。"
         },
         {
-          "sentence": "It also refines and markets gasoline, diesel, lubricants, and other energy products.",
-          "translation": "它还 refined 和市场化汽油、柴油、润滑剂和其他能源产品"
+          "sentence": "He described this transition as \"the last shoe to drop\" in the uranium cycle, suggesting that renewed long-term contracting could become the key driver that pushes uranium equities higher and better aligns stock valuations with underlying market fundamentals.",
+          "translation": "他將這種轉變形容為鈾礦週期中「最後一塊拼圖」，暗示重新簽訂的長期合約，可能成為推動鈾礦類股上漲，並使其股價估值與潛在市場基本面更趨一致的關鍵驅動力。"
         },
         {
-          "sentence": "The company manufactures petrochemicals, additives, and specialty products while developing technologies to improve energy production and reduce emissions.",
-          "translation": "公司制造石油化工品、配方剂和特种产品，同时开发了技术来提高能源生产和减少排放"
+          "sentence": "For Purepoint Uranium, Frostad said the company remains actively engaged in exploration and drilling programs while maintaining a strong financial position.",
+          "translation": "對於 Purepoint Uranium 公司而言，Frostad 表示該公司仍積極參與探勘和鑽探計畫，同時保持穩健的財務狀況。"
         },
         {
-          "sentence": "Chevron operates across major energy-producing regions and serves customers worldwide through its fuel stations, refineries, and industrial businesses.",
-          "translation": "Chevron 在全球各大能源生产地区运营，通过其燃油站、 refinery 和工业业务为客户提供服务"
+          "sentence": "He believes Purepoint is well-funded to continue advancing its projects through the current market environment and into what he expects will be a period of stronger uranium demand and improved market conditions.",
+          "translation": "他相信 Purepoint 擁有充足的資金，能夠在當前市場環境下繼續推進其專案，並進入他所預期的鈾礦需求更強勁、市場條件更好的時期。"
         },
         {
-          "sentence": "Its operations also include lower-carbon energy projects, such as renewable fuels, carbon capture, and hydrogen.",
-          "translation": "其业务还包括低碳能源项目，如新能源燃料、碳捕获和氢化"
-        },
-        {
-          "sentence": "Chevron is headquartered in Houston, Texas, and is one of the largest integrated energy companies in the U.S.",
-          "translation": "Chevron 的总部位于美国德克萨斯州的休斯顿，属于美国最大的整合性能源公司之一"
-        },
-        {
-          "sentence": "The company has a market capitalization of $415.43 billion.",
-          "translation": "公司的市场资本化价值为 415.43 亿美元"
-        },
-        {
-          "sentence": "Chevron's stock has risen over the past year mainly because higher oil prices, stronger production, and the Hess acquisition have improved the company's earnings outlook.",
-          "translation": "CVX 股票在过去一年中主要上涨，因为油价上涨、生产力增强和 Hess 併購提高了公司的盈利预测"
-        },
-        {
-          "sentence": "Over the past 52 weeks, CVX stock has gained 32%, while it is up 37% year-to-date (YTD).",
-          "translation": "过去 52 周内，CVX 股票上涨了 32%，而在过去一年内，CVX 股票上涨了 37%"
-        },
-        {
-          "sentence": "It reached a 52-week high of $214.71 on March 30 and is only down marginally from that level.",
-          "translation": "它在 3 月 30 日达到 52 周高点 $214.71，目前仅下跌少量"
+          "sentence": "#proactiveinvestors #purepointuraniumgroup #tsxv #ptu #otcqb #ptuuf #Uranium #AthabascaBasin #UraniumExploration #UraniumExploration #CriticalMinerals #Geology #Mining #Drilling #SaskatchewanMining #MiningNews #ResourceExploration",
+          "translation": "相關標籤：#proactiveinvestors #purepointuraniumgroup #tsxv #ptu #otcqb #ptuuf #鈾礦 #阿薩巴斯卡盆地 #鈾礦探勘 #關鍵礦物 #地質學 #採礦 #鑽探 #薩斯喀徹溫採礦 #採礦新聞 #資源探勘"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Is 3M Stock Underperforming the Dow?",
+      "title": "A Long-Term Bullish Trade Might Be The Ticket For This Stock",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3m-stock-underperforming-dow-153400965.html",
-      "level1_blind": "With a market cap of $86.9 billion, 3M Company (MMM) is a diversified global technology company, serving customers across the Americas, Asia Pacific, Europe, the Middle East, Africa, and beyond. It operates through three segments: Safety and Industrial; Transportation and Electronics; and Consumer, delivering solutions that range from industrial abrasives, adhesives, and personal protective equipment to electronics materials, transportation systems, and data center technologies.\n\nCompanies valued at $10 billion or more are generally considered \"large-cap\" stocks, and 3M  fits this criterion perfectly. The company also offers a wide portfolio of consumer products, including home cleaning supplies, office stationery, automotive care items, and health-related bandages and supports, distributed through e-commerce, retail, and direct channels.\n\nDell and HPE Posted Record Revenue. Here's Why the Market Rewarded 1 and Punished the Other.\n\nShares of the Saint Paul, Minnesota-based company have fallen 8.8% from its 52-week high of $184.90. Over the past three months, its shares have increased 10.3%, outpacing the broader Dow Jones Industrials Average's ($DOWI) 3.6% rise during the same period.\n\nMMM stock is up 5.3% on a YTD basis, lagging behind DOWI's 11.1% gain. Longer term, shares of 3M have risen 8.4% over the past 52 weeks, compared to DOWI's 17.1% return over the same time frame.\n\nYet, the stock has been trading above its 200-day moving average since early June.\n\n3M shares climbed 7.3% on Jul. 21 after the company raised its 2026 adjusted EPS forecast to $8.80 - $8.95, helped by resilient Safety & Industrial demand and pricing actions. Q2 2026 adjusted EPS of $2.40 beat the estimate and revenue rose 2.4% to $6.50 billion, with Safety & Industrial sales up over 8% and Transportation & Electronics sales up nearly 6% as data-center and semiconductor strength offset weak autos.\n\nInvestors were also encouraged that pricing is expected to fully offset the $150 million - $175 million oil-inflation hit, and AI data-center Expanded Beam Optics revenue could grow four to five times from its current $40 million - $50 million annual level.",
+      "link": "https://www.investors.com/research/options/vertiv-stock-vrt-bull-put-spread-options/?src=A00220&yptr=yahoo",
+      "level1_blind": "Vertiv Holdings (VRT) bounced off its 200-day moving average last week and then crossed above the 50-day moving average on Tuesday. Analysts are bullish on Vertiv stock with an average price target of 336 a share. However, Wednesday morning saw the stock pulling back below its 50-day line. Can it hold recent support? \n\n7/09/2026\n\t\t\t\t\tGoldman Sachs began coverage of the electrical contracting giant Comfort Systems USA. The stock jumped as much as 9% on...\n\n7/09/2026\n\t\t\t\t\tGoldman Sachs began coverage of the electrical contracting giant Comfort...\n\nGet instant access to exclusive stock lists, expert market analysis and powerful tools with 2 months of IBD Digital for only $20!\n\nLearn how you can make more money with IBD's investing tools, top-performing stock lists, and educational content.\n\nInformation in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we believe to be reliable, but we make no guarantee as to its accuracy, timeliness, or suitability, including with respect to information that appears in closed captioning. Historical investment performances are no indication or guarantee of future success or performance. Authors/presenters may own the stocks they discuss. We make no representations or warranties regarding the advisability of investing in any particular securities or utilizing any specific investment strategies. Information is subject to change without notice. For information on use of our services, please see our Terms of Use.\n\n*Real-time prices by Nasdaq Last Sale. Real-time quote and/or trade prices are not sourced from all markets. Ownership data provided by LSEG and Estimate data provided by FactSet.\n\nIBD, IBD Digital, IBD Live, IBD Weekly, Investor's Business Daily, Leaderboard, MarketDiem, MarketSurge and other marks are trademarks owned by Investor's Business Daily, LLC.",
       "level2_keywords": [
         {
-          "word": "semiconductor",
-          "ipa": "sɛmɪˈkəndər",
-          "meaning": "半導體",
-          "example": "半導體Industry"
+          "word": "Vertiv",
+          "ipa": "",
+          "meaning": "Vertiv",
+          "example": "Vertiv Holdings (VRT)"
         },
         {
-          "word": "transportation",
-          "ipa": "trænzˈpɔrtəʃən",
-          "meaning": "交通",
-          "example": "Transportation Systems"
+          "word": "moving",
+          "ipa": "",
+          "meaning": "移動",
+          "example": "Vertiv Holdings (VRT) bounced off its 200-day moving average"
         },
         {
-          "word": "data-center",
-          "ipa": "ˈdætəˈsɛntər",
-          "meaning": "數據中心",
-          "example": "data-center Expanded Beam Optics"
+          "word": "analysts",
+          "ipa": "",
+          "meaning": "分析師",
+          "example": "Analysts are bullish on Vertiv stock with an average price target of 336 a share."
         },
         {
-          "word": "electronics",
-          "ipa": "ɛlɛkˈtrɒns",
-          "meaning": "電子",
-          "example": "electronics materials"
+          "word": "stock",
+          "ipa": "",
+          "meaning": "股票",
+          "example": "Vertiv stock with an average price target of 336 a share."
         },
         {
-          "word": "industrial",
-          "ipa": "ɪndʒəˈstrɪkəl",
-          "meaning": "工業",
-          "example": "Safety and Industrial"
+          "word": "coverage",
+          "ipa": "",
+          "meaning": "報導",
+          "example": "Goldman Sachs began coverage of the electrical contracting giant Comfort Systems USA."
         }
       ],
-      "level2_context": "美國3M公司的股價在2026年上半年下跌，與DOWI的股價相比，下跌了8.8%，但在過去三個月內，股價上升了10.3%，超越了DOWI的3.6%上升。這是由於3M公司的安全工業部門和電子部門的強勁需求和價格調整所致。",
+      "level2_context": " Vertiv Holdings 是一家電氣合同公司，近期股價上漲，分析師預測其股價將持續上漲。這是因為 Vertiv Holdings 的電氣合同業務正在快速擴張，對於電氣合同業的競爭力有著重要影響。 ",
       "level3_translation": [
         {
-          "sentence": "With a market cap of $86.9 billion, 3M Company (MMM) is a diversified global technology company, serving customers across the Americas, Asia Pacific, Europe, the Middle East, Africa, and beyond.",
-          "translation": "3M公司的市場 capitalization為86.9億美元，是一家多元化的全球科技公司，為美洲、亞太、歐洲、中東、非洲和其他地區的客戶提供服務"
+          "sentence": "Vertiv Holdings (VRT) bounced off its 200-day moving average last week and then crossed above the 50-day moving average on Tuesday.",
+          "translation": "Vertiv Holdings (VRT) 的 200 日移動平均線上週下跌，但在下週一天又超越了 50 日移動平均線"
         },
         {
-          "sentence": "Companies valued at $10 billion or more are generally considered \"large-cap\" stocks, and 3M  fits this criterion perfectly.",
-          "translation": "公司市場 capitalization超過10億美元通常被視為\"大型股\"，3M公司符合這個標準"
+          "sentence": "Analysts are bullish on Vertiv stock with an average price target of 336 a share.",
+          "translation": "分析師對 Vertiv 股票預測其平均價格目標為 336 美元"
         },
         {
-          "sentence": "Dell and HPE Posted Record Revenue.",
-          "translation": ""
+          "sentence": "However, Wednesday morning saw the stock pulling back below its 50-day line.",
+          "translation": "然而，星期三早上，股價下跌穿過 50 日線"
         },
         {
-          "sentence": "Shares of the Saint Paul, Minnesota-based company have fallen 8.8% from its 52-week high of $184.90.",
-          "translation": "3M公司的股價下跌8.8%，低於52週高點$184.90"
+          "sentence": "Can it hold recent support?",
+          "translation": "它能夠持續保持 recent 支撐線?"
         },
         {
-          "sentence": "Over the past three months, its shares have increased 10.3%, outpacing the broader Dow Jones Industrials Average's ($DOWI) 3.6% rise during the same period.",
-          "translation": "在過去三個月內，3M公司的股價上升10.3%，超越了DOWI的3.6%上升"
+          "sentence": "7/09/2026\n\t\t\t\t\tGoldman Sachs began coverage of the electrical contracting giant Comfort Systems USA.",
+          "translation": "2026 年 7 月 9 日，金匯士 began 視察電氣合同巨頭 Comfort Systems USA"
         },
         {
-          "sentence": "MMM stock is up 5.3% on a YTD basis, lagging behind DOWI's 11.1% gain.",
-          "translation": "3M公司的股價在今年上半年上升5.3%，低於DOWI的11.1%上升"
+          "sentence": "The stock jumped as much as 9% on...\n\n7/09/2026\n\t\t\t\t\tGoldman Sachs began coverage of the electrical contracting giant Comfort...",
+          "translation": "股價上漲了 9% ... 2026 年 7 月 9 日，金匯士開始評估電氣合同巨頭 Comfort Systems USA"
         },
         {
-          "sentence": "Longer term, shares of 3M have risen 8.4% over the past 52 weeks, compared to DOWI's 17.1% return over the same time frame.",
-          "translation": ""
+          "sentence": "Get instant access to exclusive stock lists, expert market analysis and powerful tools with 2 months of IBD Digital for only $20!",
+          "translation": "只需 $20，獲得 IBD數據的 2 個月的免費使用權"
         },
         {
-          "sentence": "Yet, the stock has been trading above its 200-day moving average since early June.",
-          "translation": ""
+          "sentence": "Learn how you can make more money with IBD's investing tools, top-performing stock lists, and educational content.",
+          "translation": "了解如何通過 IBD 的投資工具、最佳股票列表和教育內容，增加您的財務收益"
         },
         {
-          "sentence": "3M shares climbed 7.3% on Jul. 21 after the company raised its 2026 adjusted EPS forecast to $8.80 - $8.95, helped by resilient Safety & Industrial demand and pricing actions.",
-          "translation": "7月21日，3M公司股價上升7.3%，因為公司提高2026年 Adjusted EPS預測值為8.80-8.95，受安全工業部門和價格調整的支持"
+          "sentence": "Information in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities.",
+          "translation": " Investor's Business Daily 的資訊僅供教育和資訊目的，且不應被視為購買或出售證券的建議"
         },
         {
-          "sentence": "Q2 2026 adjusted EPS of $2.40 beat the estimate and revenue rose 2.4% to $6.50 billion, with Safety & Industrial sales up over 8% and Transportation & Electronics sales up nearly 6% as data-center and semiconductor strength offset weak autos.",
-          "translation": ""
+          "sentence": "The information has been obtained from sources we believe to be reliable, but we make no guarantee as to its accuracy, timeliness, or suitability, including with respect to information that appears in closed captioning.",
+          "translation": "我們從可信的來源取得資訊，但我們不提供任何保證，包括資訊的準確性、時效性或合適性"
         },
         {
-          "sentence": "Investors were also encouraged that pricing is expected to fully offset the $150 million - $175 million oil-inflation hit, and AI data-center Expanded Beam Optics revenue could grow four to five times from its current $40 million - $50 million annual level.",
-          "translation": ""
+          "sentence": "Historical investment performances are no indication or guarantee of future success or performance.",
+          "translation": "歷史投資成果並不能預示未來的成功或表現"
+        },
+        {
+          "sentence": "Authors/presenters may own the stocks they discuss.",
+          "translation": "討論的股票可能由作者或演講者擁有"
+        },
+        {
+          "sentence": "We make no representations or warranties regarding the advisability of investing in any particular securities or utilizing any specific investment strategies.",
+          "translation": "我們不提供任何保證或表示任何特定證券的投資適宜性"
+        },
+        {
+          "sentence": "Information is subject to change without notice.",
+          "translation": "資訊可能在任何時間都會改變"
+        },
+        {
+          "sentence": "For information on use of our services, please see our Terms of Use.",
+          "translation": "關於我們服務的使用資訊，請參考我們的使用條款"
+        },
+        {
+          "sentence": "*Real-time prices by Nasdaq Last Sale. Real-time quote and/or trade prices are not sourced from all markets.",
+          "translation": "*實時價格由 Nasdaq 最後交易價格提供，實時報價和交易價格可能不來自所有市場"
+        },
+        {
+          "sentence": "Ownership data provided by LSEG and Estimate data provided by FactSet.",
+          "translation": "擁有資料由 LSEG 提供，估計資料由 FactSet 提供"
+        },
+        {
+          "sentence": "IBD, IBD Digital, IBD Live, IBD Weekly, Investor's Business Daily, Leaderboard, MarketDiem, MarketSurge and other marks are trademarks owned by Investor's Business Daily, LLC.",
+          "translation": "IBD、 IBD數據、 IBD live、 IBD 週刊、 Investor's Business Daily、 Leaderboard、 MarketDiem、 MarketSurge 等標誌是 Investor's Business Daily LLC 所擁有的商標"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "兩個新聞中提到的公司CVX（Chevron）和MMM（3M）在能源和消費品行業中都有著重要的位置，CVX的 Venezuela 繁加擴張可能會推動能源股的上升，而MMM的業績增長也可能會對能源股產生影響。然而，MMM的股價在過去的幾個月內有所上升，與能源股的行業變化相比，MMM的股價變化相對較小。因此，對於能源股和消費品股的投資者，需要考慮這些公司之間的因果關係，並進行有針對性的投資策略。"
+    "market_connection": "兩個股市的行為可能與VERAXA Biotech Designated Raju Willener as CFO的消息有關，VERAXA Biotech AG的股價可能受到這個消息的影響，而 Vertiv Holdings (VRT) 的股價則可能受到 Comfort Systems USA 的消息影響，兩者間的關聯可能是因為兩個公司都屬於電氣合同業，且股價的變化可能受到這些消息的影響，然而，需要注意的是，這些消息可能是機率事件，且未必會直接影響兩者的股價。"
   }
 }
