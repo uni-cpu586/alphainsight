@@ -1,192 +1,192 @@
 {
-  "date": "2026-09-11",
-  "stock_market_date": "2026-09-10",
+  "date": "2026-09-12",
+  "stock_market_date": "2026-09-11",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 28000856
+          "stock_name": "陽明",
+          "ticker": "2609",
+          "net_buy_shares": 22998285
         },
         {
           "rank": 2,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 18535003
+          "stock_name": "台中銀",
+          "ticker": "2812",
+          "net_buy_shares": 21953538
         },
         {
           "rank": 3,
           "stock_name": "凱基金",
           "ticker": "2883",
-          "net_buy_shares": 13778581
+          "net_buy_shares": 16650690
         },
         {
           "rank": 4,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 10641739
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_buy_shares": 13147409
         },
         {
           "rank": 5,
-          "stock_name": "國喬",
-          "ticker": "1312",
-          "net_buy_shares": 10033336
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_buy_shares": 10395977
         },
         {
           "rank": 6,
-          "stock_name": "台中銀",
-          "ticker": "2812",
-          "net_buy_shares": 8707597
+          "stock_name": "中華電",
+          "ticker": "2412",
+          "net_buy_shares": 9937005
         },
         {
           "rank": 7,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 7355596
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 9777200
         },
         {
           "rank": 8,
-          "stock_name": "台泥",
-          "ticker": "1101",
-          "net_buy_shares": 6800000
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 9208157
         },
         {
           "rank": 9,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 6735026
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 8456876
         },
         {
           "rank": 10,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_buy_shares": 6721030
+          "stock_name": "國票金",
+          "ticker": "2889",
+          "net_buy_shares": 8443026
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_sell_shares": -33754076
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -101829368
         },
         {
           "rank": 2,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -30148089
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -42145297
         },
         {
           "rank": 3,
-          "stock_name": "新纖",
-          "ticker": "1409",
-          "net_sell_shares": -20633906
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -39064713
         },
         {
           "rank": 4,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_sell_shares": -15043708
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -31177692
         },
         {
           "rank": 5,
-          "stock_name": "寶成",
-          "ticker": "9904",
-          "net_sell_shares": -10915900
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -18794410
         },
         {
           "rank": 6,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_sell_shares": -10643004
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_sell_shares": -14889089
         },
         {
           "rank": 7,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -10293057
+          "stock_name": "彩晶",
+          "ticker": "6116",
+          "net_sell_shares": -13982547
         },
         {
           "rank": 8,
-          "stock_name": "萬海",
-          "ticker": "2615",
-          "net_sell_shares": -9470054
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_sell_shares": -13533826
         },
         {
           "rank": 9,
-          "stock_name": "泰金寶-DR",
-          "ticker": "9105",
-          "net_sell_shares": -9151900
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -13147321
         },
         {
           "rank": 10,
-          "stock_name": "台達電",
-          "ticker": "2308",
-          "net_sell_shares": -8707912
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_sell_shares": -13102614
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 12517806
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 9873505
         },
         {
           "rank": 2,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 11650209
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 9392945
         },
         {
           "rank": 3,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 7183091
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 7980068
         },
         {
           "rank": 4,
-          "stock_name": "台塑化",
-          "ticker": "6505",
-          "net_buy_shares": 6517000
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_buy_shares": 7592000
         },
         {
           "rank": 5,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 5934376
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_buy_shares": 5199000
         },
         {
           "rank": 6,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_buy_shares": 5926825
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_buy_shares": 2040000
         },
         {
           "rank": 7,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 2497621
+          "stock_name": "慧洋-KY",
+          "ticker": "2637",
+          "net_buy_shares": 1886000
         },
         {
           "rank": 8,
-          "stock_name": "玉晶光",
-          "ticker": "3406",
-          "net_buy_shares": 2305000
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 1668000
         },
         {
           "rank": 9,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_buy_shares": 2164000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 1636225
         },
         {
           "rank": 10,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 2065000
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 1514362
         }
       ],
       "trust_sell": [
@@ -194,185 +194,185 @@
           "rank": 1,
           "stock_name": "遠東新",
           "ticker": "1402",
-          "net_sell_shares": -2242150
+          "net_sell_shares": -1912646
         },
         {
           "rank": 2,
-          "stock_name": "遠東銀",
-          "ticker": "2845",
-          "net_sell_shares": -1984000
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -1577238
         },
         {
           "rank": 3,
-          "stock_name": "台達電",
-          "ticker": "2308",
-          "net_sell_shares": -1663079
+          "stock_name": "金像電",
+          "ticker": "2368",
+          "net_sell_shares": -1072045
         },
         {
           "rank": 4,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -1173000
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_sell_shares": -1049148
         },
         {
           "rank": 5,
-          "stock_name": "廣達",
-          "ticker": "2382",
-          "net_sell_shares": -1077338
+          "stock_name": "光寶科",
+          "ticker": "2301",
+          "net_sell_shares": -856772
         },
         {
           "rank": 6,
-          "stock_name": "光寶科",
-          "ticker": "2301",
-          "net_sell_shares": -929193
+          "stock_name": "達麗",
+          "ticker": "6177",
+          "net_sell_shares": -667660
         },
         {
           "rank": 7,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -708059
+          "stock_name": "智邦",
+          "ticker": "2345",
+          "net_sell_shares": -651700
         },
         {
           "rank": 8,
-          "stock_name": "立隆電",
-          "ticker": "2472",
-          "net_sell_shares": -611000
+          "stock_name": "台達電",
+          "ticker": "2308",
+          "net_sell_shares": -535404
         },
         {
           "rank": 9,
-          "stock_name": "聯鈞",
-          "ticker": "3450",
-          "net_sell_shares": -552000
-        },
-        {
-          "rank": 10,
           "stock_name": "鈺邦",
           "ticker": "6449",
           "net_sell_shares": -500000
+        },
+        {
+          "rank": 10,
+          "stock_name": "立隆電",
+          "ticker": "2472",
+          "net_sell_shares": -430000
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_buy_shares": 941841
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 2588000
         },
         {
           "rank": 2,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 560500
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 502126
         },
         {
           "rank": 3,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 553036
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_buy_shares": 490000
         },
         {
           "rank": 4,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 398996
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 465000
         },
         {
           "rank": 5,
-          "stock_name": "矽格",
-          "ticker": "6257",
-          "net_buy_shares": 204013
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 461402
         },
         {
           "rank": 6,
-          "stock_name": "合庫金",
-          "ticker": "5880",
-          "net_buy_shares": 198367
+          "stock_name": "鼎元",
+          "ticker": "2426",
+          "net_buy_shares": 295000
         },
         {
           "rank": 7,
-          "stock_name": "玉晶光",
-          "ticker": "3406",
-          "net_buy_shares": 176268
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 156166
         },
         {
           "rank": 8,
-          "stock_name": "燿華",
-          "ticker": "2367",
-          "net_buy_shares": 175337
+          "stock_name": "新興",
+          "ticker": "2605",
+          "net_buy_shares": 153000
         },
         {
           "rank": 9,
-          "stock_name": "材料*-KY",
-          "ticker": "4763",
-          "net_buy_shares": 141000
+          "stock_name": "和桐",
+          "ticker": "1714",
+          "net_buy_shares": 143000
         },
         {
           "rank": 10,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 139391
+          "stock_name": "長榮",
+          "ticker": "2603",
+          "net_buy_shares": 139000
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_sell_shares": -3127000
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -4301174
         },
         {
           "rank": 2,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_sell_shares": -1637000
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_sell_shares": -3821331
         },
         {
           "rank": 3,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_sell_shares": -1461000
+          "net_sell_shares": -3208055
         },
         {
           "rank": 4,
-          "stock_name": "廣達",
-          "ticker": "2382",
-          "net_sell_shares": -1133785
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -3075991
         },
         {
           "rank": 5,
-          "stock_name": "台達電",
-          "ticker": "2308",
-          "net_sell_shares": -766254
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_sell_shares": -1478260
         },
         {
           "rank": 6,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -750000
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -1134669
         },
         {
           "rank": 7,
-          "stock_name": "陽明",
-          "ticker": "2609",
-          "net_sell_shares": -598002
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_sell_shares": -858296
         },
         {
           "rank": 8,
-          "stock_name": "台塑",
-          "ticker": "1301",
-          "net_sell_shares": -518746
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -607994
         },
         {
           "rank": 9,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -448799
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_sell_shares": -594400
         },
         {
           "rank": 10,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -390002
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -544700
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "力積電",
-        "shares": 9800299
+        "target": "陽明",
+        "shares": 8049399
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "富邦科技",
-        "shares": 376736
+        "target": "聯電",
+        "shares": 1035200
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "聯電",
-        "shares": 5633012
+        "target": "第一金",
+        "shares": 4443077
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "緯創",
-        "shares": 10126222
+        "target": "友達",
+        "shares": 30548810
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "VERAXA Biotech Designates Raju Willener as CFO",
+      "title": "Popular women's clothing chain closes 177 stores",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/healthcare/articles/veraxa-biotech-designates-raju-willener-154625631.html",
-      "summary": "VERAXA Biotech Designates Raju Willener as CFO",
-      "full_text": "Veraxa Biotech AG (Nasdaq: VRXA) said it appointed Raju Willener as Chief Financial Officer, having previously served as Director of Corporate Development at Exentis Group AG, before becoming its CFO in 2025.\n\nMr. Willener has more than three decades of international financial leadership experience in global capital markets and all aspects of the biopharmaceutical development process, the company stated.\n\n\"As we advance our proprietary BiTAC technology platform and growing oncology pipeline, Raju's expertise will be highly valuable in optimizing our capital strategy, evaluating strategic opportunities and supporting disciplined execution and long-term shareholder value creation,\" said Christoph Antz, Ph.D., VERAXA's CEO and co-founder.\n\nThe post VERAXA Biotech Designates Raju Willener as CFO appeared first on ExecEdge.",
-      "published": "2026-09-09T15:46:25Z"
+      "link": "https://finance.yahoo.com/small-business/articles/popular-womens-clothing-chain-closes-231700943.html",
+      "summary": "Popular women's clothing chain closes 177 stores",
+      "full_text": "While I buy most of my clothes from Amazon, when I needed a new wardrobe for a video shoot, my wife and I went on a tour of local retailers.\n\nSince I needed shirts that would hold up well in hot weather, we went to Target and Bass Pro Shops, and as much as I don't like trying clothes on, I took advantage of the stores' dressing rooms.\n\n\"The opportunity to try on clothes and test products is a major driver of store traffic, with 52% of consumers surveyed saying they go to stores instead of shopping online because of this. References to trying on/testing products surged 32% YoY on average at retailers and were up 58% at beauty retailers,\" according to a Chatmeter report published last year.\n\nPeople, me included, like seeing what they're buying before committing to a purchase.\n\n\"When asked about their favorite part of a recent store visit, 21% mentioned trying a product while 25% mentioned seeing a product in real life,\" the data showed.\n\nOnce I picked out the shirt I liked, I bought a few from the store, went back a week later to buy more, but then ordered more colors online. And since we no longer live near Bass Pro Shops, I'll likely become an online customer.\n\nThat's the problem facing retailers like Torrid. Physical stores deliver a better experience because they introduce customers to merchandise and allow them to leave the store with their size. But if customers buy in-store once and then order online, that dramatically changes the economics for brick-and-mortar locations.\n\nThat's at least part of the struggle for Torrid, a women's specialty retailer featuring plus-sized clothes, which has closed 20% of its stores.",
+      "published": "2026-09-10T23:17:00Z"
     },
     {
       "id": "news_2",
-      "title": "Purepoint Uranium CEO says utility contracting set to drive next Uranium market surge",
+      "title": "HIVE brings in enterprise veteran to scale BUZZ HPC's AI cloud business",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/video/purepoint-uranium-ceo-says-utility-154840211.html",
-      "summary": "Purepoint Uranium CEO says utility contracting set to drive next Uranium market surge",
-      "full_text": "Purepoint Uranium Group CEO Chris Frostad joined Steve Darling from Proactive to provide his perspective on the current uranium market and explain why he believes a major shift in utility purchasing could be the catalyst that reignites uranium equities.\n\nFrostad noted that many U.S. utilities were purchasing uranium in the mid-to-high US$50 per pound range last year, despite spot uranium prices trading in the high US$80s. He explained that this apparent disconnect was largely due to flexibility provisions embedded in long-term contracts signed several years ago, allowing utilities to access lower-priced uranium even as market prices moved significantly higher.\n\nAccording to Frostad, this pricing gap has created confusion among investors and contributed to weaker performance across uranium stocks, despite what appears to be a strong uranium pricing environment. He argued that the current spot market is being driven more by constrained supply than by a surge in demand.\n\nProducers, he said, are operating with inventory levels near the minimum they are comfortable maintaining, leaving very little excess material available for sale. As a result, relatively small transactions can have an outsized impact on spot pricing, with weekly uranium prices sometimes moving several dollars on limited trading activity.Frostad also pointed to major uranium producers reporting realized sales prices in the high US$60-per-pound range as evidence that legacy contracts continue to mask the true economics of the uranium market.\n\nWhile utility contracting activity has slowed in recent years, Frostad believes that trend is nearing a turning point. As older contracts expire and utilities are forced back into the market to secure future supply at prevailing prices, he expects contracting activity to accelerate significantly.\n\nHe described this transition as \"the last shoe to drop\" in the uranium cycle, suggesting that renewed long-term contracting could become the key driver that pushes uranium equities higher and better aligns stock valuations with underlying market fundamentals.\n\nFor Purepoint Uranium, Frostad said the company remains actively engaged in exploration and drilling programs while maintaining a strong financial position. He believes Purepoint is well-funded to continue advancing its projects through the current market environment and into what he expects will be a period of stronger uranium demand and improved market conditions.\n\n#proactiveinvestors #purepointuraniumgroup #tsxv #ptu #otcqb #ptuuf #Uranium #AthabascaBasin #UraniumExploration #UraniumExploration #CriticalMinerals #Geology #Mining #Drilling #SaskatchewanMining #MiningNews #ResourceExploration",
-      "published": "2026-09-09T15:48:40Z"
+      "link": "https://finance.yahoo.com/technology/ai/articles/hive-brings-enterprise-veteran-scale-233612805.html",
+      "summary": "HIVE brings in enterprise veteran to scale BUZZ HPC's AI cloud business",
+      "full_text": "HIVE Digital Technologies, a Canada-based Bitcoin miner and data center operator that trades on the Nasdaq and Toronto Stock Exchange, has appointed Mark Volk as Senior Vice President of Revenue at BUZZ HPC, its wholly owned AI cloud and high-performance computing subsidiary.\n\nVolk's mandate is to build BUZZ HPC's revenue engine and scale it globally. He will lead the company's go-to-market strategy across enterprise, government, sovereign AI, hyperscale, research and academic markets, overseeing commercialization of its GPU-powered infrastructure, including sovereign AI cloud, GPU-as-a-Service, colocation and hybrid AI solutions.\n\nVolk brings roughly 30 years of experience across AI, high-performance computing, cloud and enterprise infrastructure.\n\nHe is not a new face internally, he has worked with HIVE as a consultant for approximately nine months, during which he helped build BUZZ HPC's current GPU cloud demand pipeline.\n\nBefore his consulting role, Volk served as CEO of CiphexAI Corporation. He previously spent five years at Hewlett Packard Enterprise, where HPE's HPC and AI business grew approximately 425% to more than $2 billion in revenue under his commercial leadership, serving government, enterprise, research and academic customers across the Americas.\n\nAt IBM, he managed a portfolio of approximately $1.2 billion and helped launch the company's first HPC Cloud SaaS offering, growing that business roughly 200% in under two years.\n\nBUZZ HPC has closed more than $600 million in total contract value for GPU cloud deals year to date, including three- and five-year agreements with creditworthy counterparties, with a demand pipeline exceeding $1 billion in total contract value potential, a pipeline Volk himself helped build during his consulting tenure.\n\nOn August 17, BUZZ HPC signed a five-year, $350 million AI cloud services agreement with an unnamed investment-grade enterprise customer, its largest single deal to date.",
+      "published": "2026-09-10T23:36:12Z"
     },
     {
       "id": "news_3",
-      "title": "A Long-Term Bullish Trade Might Be The Ticket For This Stock",
+      "title": "Man declares bankruptcy with 34 cents while hiding millions",
       "source": "Yahoo Finance",
-      "link": "https://www.investors.com/research/options/vertiv-stock-vrt-bull-put-spread-options/?src=A00220&yptr=yahoo",
-      "summary": "A Long-Term Bullish Trade Might Be The Ticket For This Stock",
-      "full_text": "Vertiv Holdings (VRT) bounced off its 200-day moving average last week and then crossed above the 50-day moving average on Tuesday. Analysts are bullish on Vertiv stock with an average price target of 336 a share. However, Wednesday morning saw the stock pulling back below its 50-day line. Can it hold recent support?  When it comes to options, we normally…\n\n7/09/2026\n\t\t\t\t\tGoldman Sachs began coverage of the electrical contracting giant Comfort Systems USA. The stock jumped as much as 9% on...\n\n7/09/2026\n\t\t\t\t\tGoldman Sachs began coverage of the electrical contracting giant Comfort...\n\nGet instant access to exclusive stock lists, expert market analysis and powerful tools with 2 months of IBD Digital for only $20!\n\nLearn how you can make more money with IBD's investing tools, top-performing stock lists, and educational content.\n\nInformation in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we believe to be reliable, but we make no guarantee as to its accuracy, timeliness, or suitability, including with respect to information that appears in closed captioning. Historical investment performances are no indication or guarantee of future success or performance. Authors/presenters may own the stocks they discuss. We make no representations or warranties regarding the advisability of investing in any particular securities or utilizing any specific investment strategies. Information is subject to change without notice. For information on use of our services, please see our Terms of Use.\n\n*Real-time prices by Nasdaq Last Sale. Real-time quote and/or trade prices are not sourced from all markets. Ownership data provided by LSEG and Estimate data provided by FactSet.\n\nIBD, IBD Digital, IBD Live, IBD Weekly, Investor's Business Daily, Leaderboard, MarketDiem, MarketSurge and other marks are trademarks owned by Investor's Business Daily, LLC.",
-      "published": "2026-09-09T15:46:39Z"
+      "link": "https://finance.yahoo.com/markets/crypto/articles/man-declares-bankruptcy-34-cents-234136167.html",
+      "summary": "Man declares bankruptcy with 34 cents while hiding millions",
+      "full_text": "On Sep. 8, a federal jury in Alexandria, Virginia, convicted Jihoon Park for his role in an investment fraud scheme and defrauding a bankruptcy court.\n\nPark used his personal relationships and his previous affiliation with a large financial institution to convince members of his community to let him invest their life savings and retirement money with a promise of high returns, as per court documents and evidence presented at trial.\n\nRelated: San Francisco billionaire slammed by Gen Z son over surveillance support\n\nBut he transferred over $2.5 million from the unsuspecting community members to himself to buy a house and cryptocurrency.\n\nAs a fraud victim sued Park, he transferred assets to his wife and hid crypto assets worth millions of dollars before filing for bankruptcy.\n\nIn the bankruptcy court, he falsely claimed that he had only 34 cents in financial assets and no crypto assets. The preposterous lie was meant to avoid paying his victim creditors any money back from his fraud, according to prosecutors.\n\nThe jury convicted him of three counts of wire fraud and two counts of bankruptcy fraud following the trial. He faces a maximum penalty of 20 years on the wire fraud counts and a maximum penalty of five years on the bankruptcy fraud counts.\n\nThe FBI Washington Field Office is investigating the case. Park's court sentencing is scheduled on Dec. 10.",
+      "published": "2026-09-10T23:41:36Z"
     }
   ]
 }
