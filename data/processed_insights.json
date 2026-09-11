@@ -1,487 +1,457 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "stock_uncle_insight": {
-    "date_header": "9/11 法人與主力大戶主要買超股票",
+    "date_header": "9/12 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃金融與傳產，部分科技股跌深反彈",
+        "group_title": "1. 外資大戶：狂掃金融與航運避風港",
         "stocks": [
           {
-            "stock_name": "力積電",
-            "ticker": "6770",
-            "description": "肖年仔，外資這咖狂敲力積電近2.8萬張，擺明就是看好記憶體跟晶圓代工跌深反彈，但也要小心是不是短線拉高出貨，別傻傻去追高。"
-          },
-          {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "面板股友達外資也大買1.85萬張，可能是看好面板報價回穩，但這種景氣循環股，外資常常是來來去去，別傻傻追高。"
-          },
-          {
-            "stock_name": "凱基金",
-            "ticker": "2883",
-            "description": "外資狂掃凱基金1.37萬張，這種大型金控，通常是避險資金的去處，肖年仔，這就是資金在找避風港啦。"
-          },
-          {
-            "stock_name": "第一金",
-            "ticker": "2892",
-            "description": "跟凱基金一樣，外資買第一金1.06萬張，就是求個穩字，大盤震盪時，這種高殖利率的會比較有吸引力。"
-          },
-          {
-            "stock_name": "國喬",
-            "ticker": "1312",
-            "description": "傳產股國喬外資也買1萬張，這咖可能是看好原物料報價反彈，或是單純低檔布局，但這種股票波動大，要小心。"
+            "stock_name": "陽明",
+            "ticker": "2609",
+            "description": "肖年仔，外資這天狂敲陽明近2.3萬張，這擺明是看好運價反彈，或是拿來跟其他部位對沖，短線有搞頭，但別黑白追高。"
           },
           {
             "stock_name": "台中銀",
             "ticker": "2812",
-            "description": "小型金控台中銀也入列，外資買超8700張，對金融股的胃口不小，這波是全面性的資金轉移。"
+            "description": "外資買超台中銀近2.2萬張，這票外資是把金融股當避風港，還是看上什麼特殊題材？搞不好是看準年底作帳行情，先卡位。"
           },
           {
-            "stock_name": "南亞",
-            "ticker": "1303",
-            "description": "塑化龍頭南亞也入榜，外資買超7300張，這跟國喬類似，都是傳產股的低檔布局，但景氣沒起來，也只是個避險。"
-          },
-          {
-            "stock_name": "台泥",
-            "ticker": "1101",
-            "description": "水泥股台泥外資買超6800張，這就是典型的防禦型股票，大盤不好時，資金就會往這些地方跑。"
-          },
-          {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "又一檔金融股，外資買超6700張，對金融股的偏好很明顯，這波金融股有機會走出獨立行情。"
-          },
-          {
-            "stock_name": "臺企銀",
-            "ticker": "2834",
-            "description": "連臺企銀這種官股金控都買，外資買超6700張，這波對金融股是全面撒網，肖年仔，這就是資金在找安全感。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：金融作帳與低基期科技卡位",
-        "stocks": [
-          {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "肖年仔，投信這本土國家隊狂敲聯電1.25萬張，跟外資賣超聯電形成對比，這咖可能是看好晶圓代工的長期價值，或是為了年底作帳行情提前卡位。"
-          },
-          {
-            "stock_name": "台新新光金",
-            "ticker": "2887",
-            "description": "投信也跟著外資買金融股，台新新光金買超1.16萬張，這種有題材的，作帳行情可能就從這裡開始。"
-          },
-          {
-            "stock_name": "玉山金",
-            "ticker": "2884",
-            "description": "玉山金也是投信的心頭好，買超7100張，金融股穩健配息，是作帳的好標的。"
-          },
-          {
-            "stock_name": "台塑化",
-            "ticker": "6505",
-            "description": "投信買台塑化6500張，這咖可能也是看好原物料行情，或是單純低基期布局，但這種股票要等景氣翻多才會有大行情。"
-          },
-          {
-            "stock_name": "第一金",
-            "ticker": "2892",
-            "description": "投信也買第一金5900張，跟外資英雄所見略同，金融股穩健，是作帳的好選擇。"
-          },
-          {
-            "stock_name": "彰銀",
-            "ticker": "2801",
-            "description": "彰銀也被投信買超5900張，這波金融股真的是本土國家隊跟外資的共同目標。"
-          },
-          {
-            "stock_name": "中信金",
-            "ticker": "2891",
-            "description": "中信金這種大型金控，投信當然不會放過，買超2400張，穩健的獲利跟配息，是作帳的基石。"
-          },
-          {
-            "stock_name": "玉晶光",
-            "ticker": "3406",
-            "description": "玉晶光這種光學股，投信買進2300張，可能是看好新機題材，但這種股票波動大，肖年仔要小心。"
-          },
-          {
-            "stock_name": "大成鋼",
-            "ticker": "2027",
-            "description": "投信買大成鋼2100張，這咖可能是看好鋼鐵股的低檔反彈，但這種景氣循環股，要等景氣翻多才會有大行情。"
-          },
-          {
-            "stock_name": "南亞",
-            "ticker": "1303",
-            "description": "投信也買南亞2000張，跟外資一樣，都是傳產股的低檔布局，但這種股票要等景氣翻多才會有大行情。"
-          }
-        ]
-      },
-      {
-        "group_title": "3. 內資主力與實戶：ETF避險與短線科技操作",
-        "stocks": [
-          {
-            "stock_name": "富邦科技",
-            "ticker": "0052",
-            "description": "肖年仔，自營商這咖買富邦科技ETF近940張，八成是為了避險或是做指數套利，這種咖通常不會抱太久，隔天可能就倒貨了。"
-          },
-          {
-            "stock_name": "力積電",
-            "ticker": "6770",
-            "description": "自營商也買力積電560張，這咖跟外資一樣，看好記憶體跟晶圓代工跌深反彈，但自營商的單通常比較短線。"
-          },
-          {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "華邦電這種記憶體股，自營商也買550張，這咖可能是看好記憶體產業的復甦，但自營商的單通常比較短線。"
-          },
-          {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "自營商也買友達390張，這咖跟外資一樣，看好面板報價回穩，但自營商的單通常比較短線。"
-          },
-          {
-            "stock_name": "矽格",
-            "ticker": "6257",
-            "description": "矽格這種半導體封測股，自營商也買200張，這咖可能是看好半導體產業的復甦，但自營商的單通常比較短線。"
+            "stock_name": "凱基金",
+            "ticker": "2883",
+            "description": "凱基金也被外資買超1.66萬張，金融股一堆，外資就是愛這種穩穩的，當作資金的避風港，高檔震盪時，錢往這裡跑最安全。"
           },
           {
             "stock_name": "合庫金",
             "ticker": "5880",
-            "description": "自營商也買合庫金190張，這咖跟外資、投信一樣，看好金融股的穩健，但自營商的單通常比較短線。"
+            "description": "合庫金也進榜，外資買超1.31萬張。這波金融股被外資當成提款機，但今天卻反手大買，肯定有貓膩，不是避險就是看好後市。"
           },
           {
-            "stock_name": "玉晶光",
-            "ticker": "3406",
-            "description": "自營商也買玉晶光170張，這咖跟投信一樣，看好新機題材，但自營商的單通常比較短線。"
+            "stock_name": "彰銀",
+            "ticker": "2801",
+            "description": "彰銀外資買超1.04萬張，跟其他金融股一樣，外資這波操作很明顯，就是把資金從高風險的電子股抽出來，轉進金融避險。"
           },
           {
-            "stock_name": "燿華",
-            "ticker": "2367",
-            "description": "燿華這種PCB股，自營商也買170張，這咖可能是看好PCB產業的復甦，但自營商的單通常比較短線。"
+            "stock_name": "中華電",
+            "ticker": "2412",
+            "description": "中華電這種定存股，外資也買了近1萬張。這就是標準的防禦型操作，大盤不穩，先躲到這種有穩定現金流的股票裡。"
           },
           {
-            "stock_name": "材料*-KY",
-            "ticker": "4763",
-            "description": "材料*-KY這種特殊材料股，自營商也買140張，這咖可能是看好其獨特題材，但自營商的單通常比較短線。"
+            "stock_name": "台新新光金",
+            "ticker": "2887",
+            "description": "台新新光金外資買超9777張，金融股幾乎被外資包場了，這不是避險，什麼才是避險？"
           },
           {
-            "stock_name": "南亞科",
-            "ticker": "2408",
-            "description": "南亞科這種記憶體股，自營商也買130張，這咖可能是看好記憶體產業的復甦，但自營商的單通常比較短線。"
+            "stock_name": "玉山金",
+            "ticker": "2884",
+            "description": "玉山金外資買超9208張，外資把金融股當成自家後花園在掃貨，這波操作很統一，就是穩字訣。"
+          },
+          {
+            "stock_name": "第一金",
+            "ticker": "2892",
+            "description": "第一金外資買超8456張，連同投信也買，這檔金融股今天很熱鬧，主力資金都往這裡鑽。"
+          },
+          {
+            "stock_name": "國票金",
+            "ticker": "2889",
+            "description": "國票金外資買超8443張，肖年仔，看到沒？外資就是把錢從電子股倒出來，轉進這些金融股，準備過冬了。"
+          }
+        ]
+      },
+      {
+        "group_title": "2. 投信大戶（本土國家隊）：鎖碼金融與傳產，作帳行情蠢動",
+        "stocks": [
+          {
+            "stock_name": "第一金",
+            "ticker": "2892",
+            "description": "投信狂敲第一金近9873張，這本土國家隊跟外資英雄所見略同，金融股是他們的作帳首選，穩穩賺，年底才好交差。"
+          },
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "兆豐金也被投信買超9392張，這就是典型的作帳行情，投信把錢灌進這些大型金融股，拉高淨值，準備年底衝一波。"
+          },
+          {
+            "stock_name": "永豐金",
+            "ticker": "2890",
+            "description": "永豐金投信買超7980張，本土國家隊就是愛這種有題材又穩定的金融股，進可攻退可守，年底作帳沒煩惱。"
+          },
+          {
+            "stock_name": "彰銀",
+            "ticker": "2801",
+            "description": "彰銀投信買超7592張，跟外資一起買，這檔金融股今天被兩大法人看上，肯定有戲，不是避險就是看好殖利率。"
+          },
+          {
+            "stock_name": "台塑化",
+            "ticker": "6505",
+            "description": "台塑化投信買超5199張，肖年仔，這就是傳產龍頭的魅力，油價反彈加上高殖利率，投信拿來當作帳的另一張牌。"
+          },
+          {
+            "stock_name": "大成鋼",
+            "ticker": "2027",
+            "description": "大成鋼投信買超2040張，傳產股也開始被投信鎖碼，這代表資金開始從電子股撤出，轉往傳產避險或尋找低基期標的。"
+          },
+          {
+            "stock_name": "慧洋-KY",
+            "ticker": "2637",
+            "description": "慧洋-KY投信買超1886張，航運股除了陽明，散裝航運也開始被投信關注，這波資金輪動很明顯，別再傻傻追電子了。"
+          },
+          {
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "連0050這種ETF投信都買了1668張，這表示他們對大盤還是有信心，但又不敢單壓個股，所以買ETF來分散風險，穩健操作。"
+          },
+          {
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "聯電投信買超1636張，這檔晶圓代工二哥，在電子股被倒貨的時候，投信還願意買，可能是看好其低基期或特定訂單，但量不大，還不能說是大動作。"
+          },
+          {
+            "stock_name": "玉山金",
+            "ticker": "2884",
+            "description": "玉山金投信買超1514張，金融股就是投信的愛，穩健、殖利率高，作帳好用，肖年仔，這就是國家隊的選股邏輯。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：自營避險盤與短線點火",
+        "stocks": [
+          {
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "自營商買超聯電2588張，這很可能是避險盤，或是看準聯電跌深反彈，短線點火一下，但別以為是波段大行情，自營商跑得比兔子還快。"
+          },
+          {
+            "stock_name": "華南金",
+            "ticker": "2880",
+            "description": "華南金自營商買超502張，金融股連自營商都來湊熱鬧，這表示市場對金融股的防禦性有共識，自營商也來分一杯羹。"
+          },
+          {
+            "stock_name": "彰銀",
+            "ticker": "2801",
+            "description": "彰銀自營商買超490張，三大法人都買彰銀，這檔今天很夯，但自營商的量不大，多半是權證避險盤，別想太多。"
+          },
+          {
+            "stock_name": "第一金",
+            "ticker": "2892",
+            "description": "第一金自營商買超465張，跟投信外資一樣，自營商也來買金融，但量少，可能是跟權證或選擇權部位對沖，穩穩賺價差。"
+          },
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "兆豐金自營商買超461張，金融股今天就是香，自營商也來沾光，但這點量，肖年仔，別指望他們會拉抬，多半是短線套利。"
+          },
+          {
+            "stock_name": "鼎元",
+            "ticker": "2426",
+            "description": "鼎元自營商買超295張，這種小型股被自營商買，多半是短線題材點火，或是權證發行商的避險操作，隔日沖的機率很高，韭菜們別傻傻去接刀。"
+          },
+          {
+            "stock_name": "永豐金",
+            "ticker": "2890",
+            "description": "永豐金自營商買超156張，金融股的避險盤，自營商就是這樣，哪裡有肉就往哪裡鑽，但別指望他們會抱長線。"
+          },
+          {
+            "stock_name": "新興",
+            "ticker": "2605",
+            "description": "新興自營商買超153張，航運股也開始被自營商關注，這可能是看好運價反彈的短線操作，或是跟權證有關，量不大，風險高。"
+          },
+          {
+            "stock_name": "和桐",
+            "ticker": "1714",
+            "description": "和桐自營商買超143張，這種傳產小型股，自營商買進多半是短線炒作，或是權證避險，韭菜們要小心，別被倒貨了。"
+          },
+          {
+            "stock_name": "長榮",
+            "ticker": "2603",
+            "description": "長榮自營商買超139張，航運雙雄之一，自營商也來插一腳，但量這麼小，就是短線玩玩，別當真。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：資金轉向避險與防禦型板塊（金融、傳產）",
-        "strategy_content": "肖年仔，你看外資跟投信，不約而同地狂掃金融股（凱基金、第一金、台新新光金、玉山金、兆豐金、臺企銀、彰銀、中信金、合庫金），還有部分傳產股（國喬、南亞、台泥、台塑化、大成鋼）。這擺明就是大盤高檔震盪，AI股漲多拉回，大戶把資金從高風險的科技股撤出來，轉往相對穩健、有高殖利率題材的金融股，以及低基期的傳產股避險。這就是典型的「高檔避險」操作，肖年仔別傻傻去追高。"
+        "strategy_title": "策略一：高檔避險與資金避風港（金融、部分傳產）",
+        "strategy_content": "肖年仔，大盤在高檔震盪，外資跟投信這兩天狂掃金融股，像是第一金、兆豐金、彰銀這些，還有陽明、台塑化這些傳產龍頭，這擺明就是把資金從高風險的電子股撤出來，轉進這些有穩定獲利、高殖利率的防禦型標的。他們在找避風港，避免大盤修正時被割韭菜。這跟國際上零售業關店潮，資金尋求穩健標的的心態不謀而合。"
       },
       {
-        "strategy_title": "策略二：跌深科技股的短線反彈與作帳行情（記憶體、面板、晶圓代工）",
-        "strategy_content": "雖然外資在賣緯創、群創這些AI指標股，但同時也大買力積電、友達，投信也買聯電、玉晶光，自營商更是全面布局記憶體（力積電、華邦電、南亞科）、面板（友達）跟部分半導體（矽格、燿華）。這顯示部分大戶認為這些跌深科技股有機會出現「跌深反彈」，或是投信為了年底「作帳行情」提前卡位，拉抬這些有基本面支撐的低基期科技股。但肖年仔要注意，這種反彈通常比較短線，主力隨時可能「拉高出貨」。"
+        "strategy_title": "策略二：投信作帳與結帳效應（金融、傳產鎖碼）",
+        "strategy_content": "本土國家隊的投信，這波操作很明顯，就是鎖碼金融股，像是第一金、兆豐金、永豐金，還有大成鋼、慧洋-KY這些傳產。他們在年底前要衝基金淨值，這些穩健的標的，進可攻退可守，是作帳的好工具。同時，他們也持續在結帳一些漲多的電子股，像是華邦電、金像電、緯創，把資金轉移到更有潛力的標的，或是準備迎接下一波行情。"
       },
       {
-        "strategy_title": "策略三：外資對AI股的「拉高出貨」與「隔日沖」",
-        "strategy_content": "肖年仔，你看看摩根大通這咖，一天就倒了緯創上萬張，外資在緯創、群創、台達電這些AI指標股上，明顯是「倒貨」居多。這就是典型的「拉高出貨」手法，利用市場對AI的熱情，在高檔把籌碼丟給散戶。同時，自營商買賣ETF的動作，也暗示著權證或期貨的「避險盤」操作，顯示市場波動加劇，大戶們都在小心翼翼地對沖風險。"
+        "strategy_title": "策略三：內資短線點火與權證避險（聯電、小型股）",
+        "strategy_content": "自營商這票人，買超聯電、鼎元、新興這些，量都不大，這很可能是他們的避險盤，或是針對權證、選擇權部位做對沖。聯電這種跌深反彈的，他們會短線點火，但別期望他們會抱長線。至於那些小型股，多半是短線題材炒作，隔日沖的機率很高，韭菜們別傻傻去接刀，小心被拉高出貨。"
       }
     ],
-    "summary": "肖年仔，大盤高檔震盪，外資跟投信都在玩『資金大挪移』，AI股高檔『倒貨』，金融傳產『卡位』避險，跌深科技股則有『作帳』跟『反彈』機會，但主力隨時可能『拉高出貨』，別傻傻去『接刀』，小心被『割韭菜』！",
+    "summary": "肖年仔，今天三大法人操作很清楚，外資投信狂掃金融傳產避險作帳，電子股持續倒貨，自營商則在短線點火跟避險，這盤勢就是資金輪動，別再追高電子，小心被割韭菜！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 9800張",
-        "uncle_logic": "肖年仔，高盛這咖買力積電近萬張，擺明就是看好記憶體跟晶圓代工跌深反彈，或是準備要拉抬一波，但也要小心是不是隔日沖的起手式。"
+        "action": "買超 8049張",
+        "uncle_logic": "高盛這外資大咖，狂敲陽明8千多張，這不是看好運價反彈，就是拿來跟其他部位對沖避險。肖年仔，外資的錢不是白花的，肯定有他們的盤算，但短線追高要小心，別被他們隔日沖倒貨了。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 376張",
-        "uncle_logic": "凱基台北這短線仔買富邦科技ETF，八成是為了避險或是做指數套利，這種咖通常不會抱太久，隔天可能就倒貨了。"
+        "action": "買超 1035張",
+        "uncle_logic": "凱基台北這分點，買超聯電1千多張，這擺明就是短線隔日沖的慣性，看準聯電跌深反彈，進去撈一票就跑。韭菜們，別傻傻跟單，小心明天開高走低，被他們拉高出貨。"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 5633張",
-        "uncle_logic": "元大投信這本土國家隊買聯電，很明顯是看好晶圓代工的長期價值，或是為了年底作帳行情提前卡位，但外資卻在賣聯電，這就有趣了，肖年仔要看清楚。"
+        "action": "買超 4443張",
+        "uncle_logic": "元大投信買超第一金4千多張，這就是本土國家隊在作帳，把錢灌進這種大型金融股，穩穩拉高淨值，年底好交差。肖年仔，這就是投信的選股邏輯，穩健為主。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 10126張",
-        "uncle_logic": "摩根大通這外資大咖倒緯創上萬張，AI股高檔出貨的訊號很明顯，肖年仔別傻傻去接刀，小心被割韭菜。"
+        "action": "賣超 30548張",
+        "uncle_logic": "摩根大通這外資大戶，狂倒友達3萬多張，這擺明就是對面板股沒信心，或是獲利了結。肖年仔，外資在倒貨，你還傻傻去接刀，小心被套在高點，這就是典型的拉高出貨，別當最後一隻老鼠。"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "VERAXA Biotech Designates Raju Willener as CFO",
+      "title": "Popular women's clothing chain closes 177 stores",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/healthcare/articles/veraxa-biotech-designates-raju-willener-154625631.html",
-      "level1_blind": "Veraxa Biotech AG (Nasdaq: VRXA) said it appointed Raju Willener as Chief Financial Officer, having previously served as Director of Corporate Development at Exentis Group AG, before becoming its CFO in 2025.\n\nMr. Willener has more than three decades of international financial leadership experience in global capital markets and all aspects of the biopharmaceutical development process, the company stated.\n\n\"As we advance our proprietary BiTAC technology platform and growing oncology pipeline, Raju's expertise will be highly valuable in optimizing our capital strategy, evaluating strategic opportunities and supporting disciplined execution and long-term shareholder value creation,\" said Christoph Antz, Ph.D., VERAXA's CEO and co-founder.\n\nThe post VERAXA Biotech Designates Raju Willener as CFO appeared first on ExecEdge.",
+      "link": "https://finance.yahoo.com/small-business/articles/popular-womens-clothing-chain-closes-231700943.html",
+      "level1_blind": "While I buy most of my clothes from Amazon, when I needed a new wardrobe for a video shoot, my wife and I went on a tour of local retailers.\n\nSince I needed shirts that would hold up well in hot weather, we went to Target and Bass Pro Shops, and as much as I don't like trying clothes on, I took advantage of the stores' dressing rooms.\n\nThe opportunity to try on clothes and test products is a major driver of store traffic, with 52% of consumers surveyed saying they go to stores instead of shopping online because of this. References to trying on/testing products surged 32% YoY on average at retailers and were up 58% at beauty retailers,\" according to a Chatmeter report published last year.\n\nPeople, me included, like seeing what they're buying before committing to a purchase.\n\nWhen asked about their favorite part of a recent store visit, 21% mentioned trying a product while 25% mentioned seeing a product in real life,\" the data showed.\n\nOnce I picked out the shirt I liked, I bought a few from the store, went back a week later to buy more, but then ordered more colors online. And since we no longer live near Bass Pro Shops, I'll likely become an online customer.\n\nThat's the problem facing retailers like Torrid. Physical stores deliver a better experience because they introduce customers to merchandise and allow them to leave the store with their size. But if customers buy in-store once and then order online, that dramatically changes the economics for brick-and-mortar locations.\n\nThat's at least part of the struggle for Torrid, a women's specialty retailer featuring plus-sized clothes, which has closed 20% of its stores.",
       "level2_keywords": [
         {
-          "word": "CFO",
-          "ipa": "tʃɪf ˈfaʊ",
-          "meaning": "財務總裁",
-          "example": "他將擔任公司的財務總裁"
+          "word": "retailer",
+          "ipa": "/rɛtˈeɪlər/",
+          "meaning": "零售商",
+          "example": "Torrid是一家女性專門店"
         },
         {
-          "word": "capital",
-          "ipa": "kæpɪtəl",
-          "meaning": "資本",
-          "example": "公司需要更多資本來發展新產品"
+          "word": "online",
+          "ipa": "/ɒnˈlaɪn/",
+          "meaning": "線上",
+          "example": "我會在線上購買衣服"
         },
         {
-          "word": "biopharmaceutical",
-          "ipa": "baɪəʊˌfɑrməˈdʃeɪl",
-          "meaning": "生物製劑",
-          "example": "這家公司正在研發新的生物製劑"
+          "word": "store",
+          "ipa": "/stɔr/",
+          "meaning": "店家",
+          "example": "我去購買了衣服的店家"
         },
         {
-          "word": "pipeline",
-          "ipa": "ˈpɪlɪnaɪl",
-          "meaning": "管道",
-          "example": "公司的新藥物通過這個管道到達市場"
+          "word": "economics",
+          "ipa": "/ɛkˈnɒmɪkz/",
+          "meaning": "經濟學",
+          "example": "線上購物對於零售商的經濟影響"
         },
         {
-          "word": "strategic",
-          "ipa": "ˈstrætʒɪk",
-          "meaning": "戰略",
-          "example": "公司需要做出合理的戰略來發展新產品"
+          "word": "consumers",
+          "ipa": "/kənˈzʌmərz/",
+          "meaning": "消費者",
+          "example": "消費者對於線上購物的偏好"
         }
       ],
-      "level2_context": "這篇文章關於VERAXA Biotech公司的 CFO任命，涉及到公司的財務策略、資本市場和生物製劑發展。這對於公司的長期生產力和股東利益有重要影響。",
+      "level2_context": "線上購物對於零售商的經濟影響，與消費者對於線上購物的偏好有著密切的關係。這些趨勢影響著各業的經濟結構，需要零售商適應和調整其經營策略",
       "level3_translation": [
         {
-          "sentence": "Veraxa Biotech AG (Nasdaq: VRXA) said it appointed Raju Willener as Chief Financial Officer, having previously served as Director of Corporate Development at Exentis Group AG, before becoming its CFO in 2025.",
-          "translation": "VERAXA Biotech AG ( Nasdaq: VRXA )宣布任命 Raju Willener 為財務總裁，之前曾擔任 Exentis Group AG 的企業發展部門主管，後來在 2025 年成為該公司的財務總裁"
+          "sentence": "While I buy most of my clothes from Amazon, when I needed a new wardrobe for a video shoot, my wife and I went on a tour of local retailers.",
+          "translation": "我大多數購買衣服是通過阿馬遜購買的，因為我需要新的服裝來拍攝視頻，於是我和妻子一起去逛逛當地的零售店"
         },
         {
-          "sentence": "Mr. Willener has more than three decades of international financial leadership experience in global capital markets and all aspects of the biopharmaceutical development process, the company stated.",
-          "translation": "Mr. Willener 拥有超過三十年的國際財務領導經驗，遍及全球資本市場和生物製劑開發過程，公司表示"
+          "sentence": "Since I needed shirts that would hold up well in hot weather, we went to Target and Bass Pro Shops, and as much as I don't like trying clothes on, I took advantage of the stores' dressing rooms.",
+          "translation": "因為我需要在熱天穿的衣服，於是我們去 Target 和 Bass Pro Shops逛逛，儘管我不喜歡試穿衣服，但我利用了這些店的穿衣房"
         },
         {
-          "sentence": "\"As we advance our proprietary BiTAC technology platform and growing oncology pipeline, Raju's expertise will be highly valuable in optimizing our capital strategy, evaluating strategic opportunities and supporting disciplined execution and long-term shareholder value creation,\" said Christoph Antz, Ph.D., VERAXA's CEO and co-founder.",
-          "translation": "\"我們進一步推進我們的自有 BiTAC 技術平台和成長中的癌症治療管道，Raju 的專業會對我們的資本策略進行優化，評估戰略機會和支持有規律的執行和長期股東利益創造,\" said Christoph Antz, Ph.D., VERAXA 的 CEO 和共同創始人"
+          "sentence": "The opportunity to try on clothes and test products is a major driver of store traffic, with 52% of consumers surveyed saying they go to stores instead of shopping online because of this.",
+          "translation": "試穿衣服和檢測產品是逛店的主要動力，調查發現52%的消費者表示因為這個原因而去逛店而不是購物線上"
         },
         {
-          "sentence": "The post VERAXA Biotech Designates Raju Willener as CFO appeared first on ExecEdge.",
-          "translation": "這篇文章首先出現在 ExecEdge 上"
+          "sentence": "People, me included, like seeing what they're buying before committing to a purchase.",
+          "translation": "人們，包括我，我們都喜歡看到自己要買的東西"
+        },
+        {
+          "sentence": "When asked about their favorite part of a recent store visit, 21% mentioned trying a product while 25% mentioned seeing a product in real life.",
+          "translation": "當被問到最近一次逛店的最喜歡部分時，21%的人提到試過購買的產品，25%的人提到在逛店中看到的產品"
+        },
+        {
+          "sentence": "Once I picked out the shirt I liked, I bought a few from the store, went back a week later to buy more, but then ordered more colors online.",
+          "translation": "一旦我選好了我喜歡的衬衫，我就在店裡購買了一些，然後一周後再回店購買更多，但之後我就開始在線上購買更多的顏色"
+        },
+        {
+          "sentence": "That's the problem facing retailers like Torrid. Physical stores deliver a better experience because they introduce customers to merchandise and allow them to leave the store with their size.",
+          "translation": "這就是 Torrid 等零售商面臨的問題。實體店家提供更好的體驗，因為它們能夠引導消費者了解產品，並讓消費者能夠在店裡選擇適合自己的大小"
+        },
+        {
+          "sentence": "But if customers buy in-store once and then order online, that dramatically changes the economics for brick-and-mortar locations.",
+          "translation": "但如果消費者在逛店一次後再在線上購買，那麼這就會對實體店家的經濟產生重大影響"
+        },
+        {
+          "sentence": "That's at least part of the struggle for Torrid, a women's specialty retailer featuring plus-sized clothes, which has closed 20% of its stores.",
+          "translation": "這至少是 Torrid 的一部分的困擾，該公司是一家女性專門店，提供尺寸大於標準尺寸的衣服，該公司已經關閉了20%的店家"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Purepoint Uranium CEO says utility contracting set to drive next Uranium market surge",
+      "title": "HIVE brings in enterprise veteran to scale BUZZ HPC's AI cloud business",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/video/purepoint-uranium-ceo-says-utility-154840211.html",
-      "level1_blind": {
-        "text": "Purepoint Uranium Group CEO Chris Frostad joined Steve Darling from Proactive to provide his perspective on the current uranium market and explain why he believes a major shift in utility purchasing could be the catalyst that reignites uranium equities.\n\nFrostad noted that many U.S. utilities were purchasing uranium in the mid-to-high US$50 per pound range last year, despite spot uranium prices trading in the high US$80s. He explained that this apparent disconnect was largely due to flexibility provisions embedded in long-term contracts signed several years ago, allowing utilities to access lower-priced uranium even as market prices moved significantly higher.\n\nAccording to Frostad, this pricing gap has created confusion among investors and contributed to weaker performance across uranium stocks, despite what appears to be a strong uranium pricing environment. He argued that the current spot market is being driven more by constrained supply than by a surge in demand.\n\nProducers, he said, are operating with inventory levels near the minimum they are comfortable maintaining, leaving very little excess material available for sale. As a result, relatively small transactions can have an outsized impact on spot pricing, with weekly uranium prices sometimes moving several dollars on limited trading activity.Frostad also pointed to major uranium producers reporting realized sales prices in the high US$60-per-pound range as evidence that legacy contracts continue to mask the true economics of the uranium market.\n\nWhile utility contracting activity has slowed in recent years, Frostad believes that trend is nearing a turning point. As older contracts expire and utilities are forced back into the market to secure future supply at prevailing prices, he expects contracting activity to accelerate significantly.\n\nHe described this transition as \"the last shoe to drop\" in the uranium cycle, suggesting that renewed long-term contracting could become the key driver that pushes uranium equities higher and better aligns stock valuations with underlying market fundamentals.\n\nFor Purepoint Uranium, Frostad said the company remains actively engaged in exploration and drilling programs while maintaining a strong financial position. He believes Purepoint is well-funded to continue advancing its projects through the current market environment and into what he expects will be a period of stronger uranium demand and improved market conditions.\n\n#proactiveinvestors #purepointuraniumgroup #tsxv #ptu #otcqb #ptuuf #Uranium #AthabascaBasin #UraniumExploration #UraniumExploration #CriticalMinerals #Geology #Mining #Drilling #SaskatchewanMining #MiningNews #ResourceExploration"
-      },
+      "link": "https://finance.yahoo.com/technology/ai/articles/hive-brings-enterprise-veteran-scale-233612805.html",
+      "level1_blind": "HIVE Digital Technologies, a Canada-based Bitcoin miner and data center operator that trades on the Nasdaq and Toronto Stock Exchange, has appointed Mark Volk as Senior Vice President of Revenue at BUZZ HPC, its wholly owned AI cloud and high-performance computing subsidiary.\n\nVolk's mandate is to build BUZZ HPC's revenue engine and scale it globally. He will lead the company's go-to-market strategy across enterprise, government, sovereign AI, hyperscale, research and academic markets, overseeing commercialization of its GPU-powered infrastructure, including sovereign AI cloud, GPU-as-a-Service, colocation and hybrid AI solutions.\n\nVolk brings roughly 30 years of experience across AI, high-performance computing, cloud and enterprise infrastructure.\n\nHe is not a new face internally, he has worked with HIVE as a consultant for approximately nine months, during which he helped build BUZZ HPC's current GPU cloud demand pipeline.\n\nBefore his consulting role, Volk served as CEO of CiphexAI Corporation. He previously spent five years at Hewlett Packard Enterprise, where HPE's HPC and AI business grew approximately 425% to more than $2 billion in revenue under his commercial leadership, serving government, enterprise, research and academic customers across the Americas.\n\nAt IBM, he managed a portfolio of approximately $1.2 billion and helped launch the company's first HPC Cloud SaaS offering, growing that business roughly 200% in under two years.\n\nBUZZ HPC has closed more than $600 million in total contract value for GPU cloud deals year to date, including three- and five-year agreements with creditworthy counterparties, with a demand pipeline exceeding $1 billion in total contract value potential, a pipeline Volk himself helped build during his consulting tenure.\n\nOn August 17, BUZZ HPC signed a five-year, $350 million AI cloud services agreement with an unnamed investment-grade enterprise customer, its largest single deal to date.",
       "level2_keywords": [
         {
-          "word": "utility contracting",
-          "ipa": "/juˈtɪlɪti ˈkɑːntræktɪŋ/",
-          "meaning": "「公用事業採購合約」或「電力公司簽訂長期供貨合約」。指電力公司等公用事業與供應商簽訂的長期採購協議。",
-          "example": "The CEO highlighted that a shift in `utility contracting` behavior is crucial for the next phase of the uranium market."
+          "word": "GPU",
+          "ipa": "ɡjuːpi",
+          "meaning": "顯示卡",
+          "example": "GPU 的顯示卡需要大量的電力"
         },
         {
-          "word": "uranium equities",
-          "ipa": "/jʊˈreɪniəm ˈɛkwɪtiz/",
-          "meaning": "「鈾礦類股」或「鈾相關股票」。指在股票市場上交易的鈾礦開採、加工或相關公司的股票。",
-          "example": "Renewed long-term contracting could become the key driver that pushes `uranium equities` higher."
+          "word": "cloud",
+          "ipa": "kloud",
+          "meaning": "雲端",
+          "example": "雲端計算是現代計算的新標準"
         },
         {
-          "word": "spot prices",
-          "ipa": "/spɑːt ˈpraɪsɪz/",
-          "meaning": "「現貨價格」。指商品或資產在當前市場上立即交割的價格，通常反映即時供需。",
-          "example": "Despite `spot uranium prices` trading in the high US$80s, many utilities were purchasing at much lower rates."
+          "word": "infrastructure",
+          "ipa": "ɪnfrasˈtreɪʃər",
+          "meaning": "基礎設施",
+          "example": "基礎設施管理是企業的關鍵任務"
         },
         {
-          "word": "constrained supply",
-          "ipa": "/kənˈstreɪnd səˈplaɪ/",
-          "meaning": "「供應受限」或「供給吃緊」。指市場上某種商品或服務的供應量不足以滿足需求，導致價格上漲的壓力。",
-          "example": "He argued that the current spot market is being driven more by `constrained supply` than by a surge in demand."
+          "word": "sovereign",
+          "ipa": "soʊvɪən",
+          "meaning": "主權",
+          "example": "主權國家需要保護其主權"
         },
         {
-          "word": "market fundamentals",
-          "ipa": "/ˈmɑːrkɪt ˌfʌndəˈmɛntəlz/",
-          "meaning": "「市場基本面」。指影響資產或商品價值的經濟、產業和公司層面的基本因素，如供需、盈利能力、經濟增長等。",
-          "example": "The CEO believes stock valuations will better align with underlying `market fundamentals` as contracts expire."
+          "word": "AI",
+          "ipa": "aɪ",
+          "meaning": "人工智能",
+          "example": "人工智能技術正在快速發展"
         }
       ],
-      "level2_context": "各位同學，這篇新聞主要在探討鈾礦市場的一個關鍵現象：儘管鈾礦的「現貨價格」看起來很高，但許多電力公司（公用事業）卻能以較低的價格採購。這是因為他們多年前簽訂了「長期合約」，這些合約中包含彈性條款，讓他們即使在現貨價上漲時也能鎖定較低的價格。這種「價格落差」導致投資人對鈾礦類股的表現感到困惑。\n\n這位執行長認為，目前的現貨市場價格上漲，更多是受到「供應吃緊」而非需求大增的影響，因為生產商的庫存量已經非常低。他預期，隨著這些舊的長期合約陸續到期，電力公司將不得不重回市場，以當前較高的「市場價格」來確保未來的供應。他將此視為鈾礦週期中「最後一塊拼圖」，預計這種「公用事業採購合約」活動的加速，將成為推動鈾礦類股上漲、並使其股價更能反映「市場基本面」的關鍵驅動力。簡而言之，這是在解釋為什麼鈾價看似高漲，但相關股票卻未完全反映，以及未來可能引爆市場的潛在因素。",
+      "level2_context": "這篇文章講的是 HIVE Digital Technologies 的 BUZZ HPC 子公司，負責提供 GPU 雲端服務。這個公司的 CEO Mark Volk 有 30 年的經驗，曾經在 Hewlett Packard Enterprise 和 IBM 等公司工作。這個公司的目標是將其 雲端服務的Revenue 繁速擴大，為政府、企業、研究機構和學術界提供服務。",
       "level3_translation": [
         {
-          "sentence": "Purepoint Uranium Group CEO Chris Frostad joined Steve Darling from Proactive to provide his perspective on the current uranium market and explain why he believes a major shift in utility purchasing could be the catalyst that reignites uranium equities.",
-          "translation": "Purepoint Uranium Group 的執行長 Chris Frostad 接受了 Proactive 的 Steve Darling 採訪，分享他對當前鈾礦市場的看法，並解釋為何他認為公用事業採購模式的重大轉變，可能會成為重新點燃鈾礦類股漲勢的催化劑。"
+          "sentence": "HIVE Digital Technologies, a Canada-based Bitcoin miner and data center operator that trades on the Nasdaq and Toronto Stock Exchange, has appointed Mark Volk as Senior Vice President of Revenue at BUZZ HPC, its wholly owned AI cloud and high-performance computing subsidiary.",
+          "translation": "HIVE數據中心，位於加拿大，為比特幣交易商和數據中心經營者，在納斯達克和多倫多交易所上市， recently appointed Mark Volk as Senior Vice President of Revenue at BUZZ HPC, its wholly owned AI cloud and high-performance computing subsidiary."
         },
         {
-          "sentence": "Frostad noted that many U.S. utilities were purchasing uranium in the mid-to-high US$50 per pound range last year, despite spot uranium prices trading in the high US$80s.",
-          "translation": "Frostad 指出，去年許多美國公用事業公司仍以每磅 50 多美元的價格採購鈾礦，儘管當時鈾礦的現貨價格已在每磅 80 多美元的高位。"
+          "sentence": "Volk's mandate is to build BUZZ HPC's revenue engine and scale it globally.",
+          "translation": "Volk 的任務是建立 BUZZ HPC 的收入引擎，將其擴大到全球"
         },
         {
-          "sentence": "He explained that this apparent disconnect was largely due to flexibility provisions embedded in long-term contracts signed several years ago, allowing utilities to access lower-priced uranium even as market prices moved significantly higher.",
-          "translation": "他解釋說，這種明顯的脫鉤現象，主要是因為多年前簽訂的長期合約中，包含了彈性條款，使得公用事業公司即使在市場價格大幅上漲時，也能以較低的價格取得鈾礦。"
+          "sentence": "He will lead the company's go-to-market strategy across enterprise, government, sovereign AI, hyperscale, research and academic markets, overseeing commercialization of its GPU-powered infrastructure, including sovereign AI cloud, GPU-as-a-Service, colocation and hybrid AI solutions.",
+          "translation": "他將負責公司在企業、政府、主權 AI、超大型、研究機構和學術界的市場策略，負責 oversee 企業的 GPU驅動基礎設施，包括主權 AI 雲端、GPU-as-a-Service、 colocation 和混合 AI 解決方案"
         },
         {
-          "sentence": "According to Frostad, this pricing gap has created confusion among investors and contributed to weaker performance across uranium stocks, despite what appears to be a strong uranium pricing environment.",
-          "translation": "Frostad 表示，這種價格落差讓投資人感到困惑，並導致鈾礦類股的表現疲軟，儘管表面上鈾礦價格環境看起來很強勁。"
+          "sentence": "Volk brings roughly 30 years of experience across AI, high-performance computing, cloud and enterprise infrastructure.",
+          "translation": "Volk 有大約 30 年的經驗，從 AI、高性能計算、雲端和企業基礎設施中來"
         },
         {
-          "sentence": "He argued that the current spot market is being driven more by constrained supply than by a surge in demand.",
-          "translation": "他認為，當前的現貨市場價格上漲，更多是受到供應吃緊的驅動，而非需求大幅增加。"
+          "sentence": "He is not a new face internally, he has worked with HIVE as a consultant for approximately nine months, during which he helped build BUZZ HPC's current GPU cloud demand pipeline.",
+          "translation": "他不是內部新人，曾經在 HIVE 作為顧問工作大約九個月，期間幫助建立 BUZZ HPC 的目前 GPU 雲端需求管線"
         },
         {
-          "sentence": "Producers, he said, are operating with inventory levels near the minimum they are comfortable maintaining, leaving very little excess material available for sale.",
-          "translation": "他說，生產商的庫存量已接近他們願意維持的最低水平，幾乎沒有多餘的材料可供出售。"
+          "sentence": "Before his consulting role, Volk served as CEO of CiphexAI Corporation.",
+          "translation": "他之前的顧問角色之前，他是 CiphexAI Corporation 的 CEO"
         },
         {
-          "sentence": "As a result, relatively small transactions can have an outsized impact on spot pricing, with weekly uranium prices sometimes moving several dollars on limited trading activity.",
-          "translation": "因此，相對較小的交易量就能對現貨價格產生巨大的影響，有時在交易活動有限的情況下，每週鈾礦價格可能會波動好幾美元。"
+          "sentence": "He previously spent five years at Hewlett Packard Enterprise, where HPE's HPC and AI business grew approximately 425% to more than $2 billion in revenue under his commercial leadership, serving government, enterprise, research and academic customers across the Americas.",
+          "translation": "他在 Hewlett Packard Enterprise 工作了五年，HPE 的 HPC 和 AI 业务在他的商業領導下成長了大約 425%，並在他服務的政府、企業、研究機構和學術界的美國地區取得了大於 2 億美元的收入"
         },
         {
-          "sentence": "Frostad also pointed to major uranium producers reporting realized sales prices in the high US$60-per-pound range as evidence that legacy contracts continue to mask the true economics of the uranium market.",
-          "translation": "Frostad 也指出，主要鈾礦生產商報告的實際銷售價格仍在每磅 60 多美元的範圍，這證明了舊有合約持續掩蓋了鈾礦市場的真實經濟狀況。"
+          "sentence": "At IBM, he managed a portfolio of approximately $1.2 billion and helped launch the company's first HPC Cloud SaaS offering, growing that business roughly 200% in under two years.",
+          "translation": "他在 IBM 工作，管理了大約 1.2 億美元的資產，幫助推出 IBM 的第一個 HPC 雲端 SaaS 解決方案，該業務在兩年內成長了大約 200%"
         },
         {
-          "sentence": "While utility contracting activity has slowed in recent years, Frostad believes that trend is nearing a turning point.",
-          "translation": "儘管近年來公用事業的採購合約活動有所放緩，但 Frostad 相信這個趨勢正接近一個轉折點。"
+          "sentence": "BUZZ HPC has closed more than $600 million in total contract value for GPU cloud deals year to date, including three- and five-year agreements with creditworthy counterparties, with a demand pipeline exceeding $1 billion in total contract value potential, a pipeline Volk himself helped build during his consulting tenure.",
+          "translation": "BUZZ HPC 已經在一年內完成了超過 600 億美元的 GPU 雲端合同值，包括三年和五年合約，與信貸對象合作， Pipeline 的總合約值超過 1 億美元，該 Pipeline Volk himself 在他的顧問任務期間幫助建立"
         },
         {
-          "sentence": "As older contracts expire and utilities are forced back into the market to secure future supply at prevailing prices, he expects contracting activity to accelerate significantly.",
-          "translation": "隨著舊合約陸續到期，公用事業公司將被迫重回市場，以當前市場價格確保未來供應，他預計採購合約活動將顯著加速。"
-        },
-        {
-          "sentence": "He described this transition as \"the last shoe to drop\" in the uranium cycle, suggesting that renewed long-term contracting could become the key driver that pushes uranium equities higher and better aligns stock valuations with underlying market fundamentals.",
-          "translation": "他將這種轉變形容為鈾礦週期中「最後一塊拼圖」，暗示重新簽訂的長期合約，可能成為推動鈾礦類股上漲，並使其股價估值與潛在市場基本面更趨一致的關鍵驅動力。"
-        },
-        {
-          "sentence": "For Purepoint Uranium, Frostad said the company remains actively engaged in exploration and drilling programs while maintaining a strong financial position.",
-          "translation": "對於 Purepoint Uranium 公司而言，Frostad 表示該公司仍積極參與探勘和鑽探計畫，同時保持穩健的財務狀況。"
-        },
-        {
-          "sentence": "He believes Purepoint is well-funded to continue advancing its projects through the current market environment and into what he expects will be a period of stronger uranium demand and improved market conditions.",
-          "translation": "他相信 Purepoint 擁有充足的資金，能夠在當前市場環境下繼續推進其專案，並進入他所預期的鈾礦需求更強勁、市場條件更好的時期。"
-        },
-        {
-          "sentence": "#proactiveinvestors #purepointuraniumgroup #tsxv #ptu #otcqb #ptuuf #Uranium #AthabascaBasin #UraniumExploration #UraniumExploration #CriticalMinerals #Geology #Mining #Drilling #SaskatchewanMining #MiningNews #ResourceExploration",
-          "translation": "相關標籤：#proactiveinvestors #purepointuraniumgroup #tsxv #ptu #otcqb #ptuuf #鈾礦 #阿薩巴斯卡盆地 #鈾礦探勘 #關鍵礦物 #地質學 #採礦 #鑽探 #薩斯喀徹溫採礦 #採礦新聞 #資源探勘"
+          "sentence": "On August 17, BUZZ HPC signed a five-year, $350 million AI cloud services agreement with an unnamed investment-grade enterprise customer, its largest single deal to date.",
+          "translation": "8 月 17 日，BUZZ HPC 獲得了一項五年， 350 億美元的 AI 雲端服務合約，該合約是該公司目前最大的單一合約"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "A Long-Term Bullish Trade Might Be The Ticket For This Stock",
+      "title": "Man declares bankruptcy with 34 cents while hiding millions",
       "source": "Yahoo Finance",
-      "link": "https://www.investors.com/research/options/vertiv-stock-vrt-bull-put-spread-options/?src=A00220&yptr=yahoo",
-      "level1_blind": "Vertiv Holdings (VRT) bounced off its 200-day moving average last week and then crossed above the 50-day moving average on Tuesday. Analysts are bullish on Vertiv stock with an average price target of 336 a share. However, Wednesday morning saw the stock pulling back below its 50-day line. Can it hold recent support? \n\n7/09/2026\n\t\t\t\t\tGoldman Sachs began coverage of the electrical contracting giant Comfort Systems USA. The stock jumped as much as 9% on...\n\n7/09/2026\n\t\t\t\t\tGoldman Sachs began coverage of the electrical contracting giant Comfort...\n\nGet instant access to exclusive stock lists, expert market analysis and powerful tools with 2 months of IBD Digital for only $20!\n\nLearn how you can make more money with IBD's investing tools, top-performing stock lists, and educational content.\n\nInformation in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we believe to be reliable, but we make no guarantee as to its accuracy, timeliness, or suitability, including with respect to information that appears in closed captioning. Historical investment performances are no indication or guarantee of future success or performance. Authors/presenters may own the stocks they discuss. We make no representations or warranties regarding the advisability of investing in any particular securities or utilizing any specific investment strategies. Information is subject to change without notice. For information on use of our services, please see our Terms of Use.\n\n*Real-time prices by Nasdaq Last Sale. Real-time quote and/or trade prices are not sourced from all markets. Ownership data provided by LSEG and Estimate data provided by FactSet.\n\nIBD, IBD Digital, IBD Live, IBD Weekly, Investor's Business Daily, Leaderboard, MarketDiem, MarketSurge and other marks are trademarks owned by Investor's Business Daily, LLC.",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/man-declares-bankruptcy-34-cents-234136167.html",
+      "level1_blind": "On Sep. 8, a federal jury in Alexandria, Virginia, convicted Jihoon Park for his role in an investment fraud scheme and defrauding a bankruptcy court.\n\nPark used his personal relationships and his previous affiliation with a large financial institution to convince members of his community to let him invest their life savings and retirement money with a promise of high returns, as per court documents and evidence presented at trial.\n\nBut he transferred over $2.5 million from the unsuspecting community members to himself to buy a house and cryptocurrency.\n\nAs a fraud victim sued Park, he transferred assets to his wife and hid crypto assets worth millions of dollars before filing for bankruptcy.\n\nIn the bankruptcy court, he falsely claimed that he had only 34 cents in financial assets and no crypto assets. The preposterous lie was meant to avoid paying his victim creditors any money back from his fraud, according to prosecutors.\n\nThe jury convicted him of three counts of wire fraud and two counts of bankruptcy fraud following the trial. He faces a maximum penalty of 20 years on the wire fraud counts and a maximum penalty of five years on the bankruptcy fraud counts.\n\nThe FBI Washington Field Office is investigating the case. Park's court sentencing is scheduled on Dec. 10.",
       "level2_keywords": [
         {
-          "word": "Vertiv",
-          "ipa": "",
-          "meaning": "Vertiv",
-          "example": "Vertiv Holdings (VRT)"
+          "word": "invest",
+          "ipa": "/ɪnˈvɛst/",
+          "meaning": "投資",
+          "example": "他投資了數十萬美元的資金"
         },
         {
-          "word": "moving",
-          "ipa": "",
-          "meaning": "移動",
-          "example": "Vertiv Holdings (VRT) bounced off its 200-day moving average"
+          "word": "bankruptcy",
+          "ipa": "/bæŋˈkrænti/",
+          "meaning": "破產",
+          "example": "公司因為財務困難而宣布破產"
         },
         {
-          "word": "analysts",
-          "ipa": "",
-          "meaning": "分析師",
-          "example": "Analysts are bullish on Vertiv stock with an average price target of 336 a share."
+          "word": "fraud",
+          "ipa": "/freud/",
+          "meaning": "詐欺",
+          "example": "他被指控詐欺 millions 美元"
         },
         {
-          "word": "stock",
-          "ipa": "",
-          "meaning": "股票",
-          "example": "Vertiv stock with an average price target of 336 a share."
+          "word": "cryptocurrency",
+          "ipa": "/kraɪpˈtɔːriːsi",
+          "meaning": "加密貨幣",
+          "example": "他用加密貨幣購買房子"
         },
         {
-          "word": "coverage",
-          "ipa": "",
-          "meaning": "報導",
-          "example": "Goldman Sachs began coverage of the electrical contracting giant Comfort Systems USA."
+          "word": "wire",
+          "ipa": "/waɪər/",
+          "meaning": "電信線",
+          "example": "他用電信線傳送詐欺資訊"
         }
       ],
-      "level2_context": " Vertiv Holdings 是一家電氣合同公司，近期股價上漲，分析師預測其股價將持續上漲。這是因為 Vertiv Holdings 的電氣合同業務正在快速擴張，對於電氣合同業的競爭力有著重要影響。 ",
+      "level2_context": "這是關於一個人因為詐欺而被判刑的案例，涉及到投資、破產、詐欺和加密貨幣等產業。這個案例表明了如何利用個人關係和金融機會來詐欺，同時也提出了對加密貨幣的監管和防止詐欺的重要性。",
       "level3_translation": [
         {
-          "sentence": "Vertiv Holdings (VRT) bounced off its 200-day moving average last week and then crossed above the 50-day moving average on Tuesday.",
-          "translation": "Vertiv Holdings (VRT) 的 200 日移動平均線上週下跌，但在下週一天又超越了 50 日移動平均線"
+          "sentence": "On Sep. 8, a federal jury in Alexandria, Virginia, convicted Jihoon Park for his role in an investment fraud scheme and defrauding a bankruptcy court.",
+          "translation": " ninth月八日，弗吉尼亚州阿レ็กซ安德里亚的联邦法庭判決了吉恩·帕克（Jihoon Park）涉及投資詐欺和破產的案件"
         },
         {
-          "sentence": "Analysts are bullish on Vertiv stock with an average price target of 336 a share.",
-          "translation": "分析師對 Vertiv 股票預測其平均價格目標為 336 美元"
+          "sentence": "Park used his personal relationships and his previous affiliation with a large financial institution to convince members of his community to let him invest their life savings and retirement money with a promise of high returns, as per court documents and evidence presented at trial.",
+          "translation": "帕克利用他的親密關係和以前與一間大型金融機構的關係，說服了他的社區成員投資他們的生活積蓄和退休金， promise高回報率"
         },
         {
-          "sentence": "However, Wednesday morning saw the stock pulling back below its 50-day line.",
-          "translation": "然而，星期三早上，股價下跌穿過 50 日線"
+          "sentence": "But he transferred over $2.5 million from the unsuspecting community members to himself to buy a house and cryptocurrency.",
+          "translation": "但他從無知的社區成員中轉移了2500萬美元，買房子和加密貨幣"
         },
         {
-          "sentence": "Can it hold recent support?",
-          "translation": "它能夠持續保持 recent 支撐線?"
+          "sentence": "As a fraud victim sued Park, he transferred assets to his wife and hid crypto assets worth millions of dollars before filing for bankruptcy.",
+          "translation": "當一名詐欺受害者起訴帕克時，他將資產轉移到他的妻子，並隱藏了 worth millions 美元的加密貨幣，before提出破產申請"
         },
         {
-          "sentence": "7/09/2026\n\t\t\t\t\tGoldman Sachs began coverage of the electrical contracting giant Comfort Systems USA.",
-          "translation": "2026 年 7 月 9 日，金匯士 began 視察電氣合同巨頭 Comfort Systems USA"
+          "sentence": "In the bankruptcy court, he falsely claimed that he had only 34 cents in financial assets and no crypto assets.",
+          "translation": "在破產法庭中，他假設自己只有34美分的財務資產，並沒有加密貨幣"
         },
         {
-          "sentence": "The stock jumped as much as 9% on...\n\n7/09/2026\n\t\t\t\t\tGoldman Sachs began coverage of the electrical contracting giant Comfort...",
-          "translation": "股價上漲了 9% ... 2026 年 7 月 9 日，金匯士開始評估電氣合同巨頭 Comfort Systems USA"
+          "sentence": "The preposterous lie was meant to avoid paying his victim creditors any money back from his fraud, according to prosecutors.",
+          "translation": "這種無理的謊言是為了避免他詐欺的受害者任何人得到的回報，根據檢察官"
         },
         {
-          "sentence": "Get instant access to exclusive stock lists, expert market analysis and powerful tools with 2 months of IBD Digital for only $20!",
-          "translation": "只需 $20，獲得 IBD數據的 2 個月的免費使用權"
+          "sentence": "The jury convicted him of three counts of wire fraud and two counts of bankruptcy fraud following the trial.",
+          "translation": "法庭判決了他涉及電信詐欺的三項罪名和破產詐欺的兩項罪名"
         },
         {
-          "sentence": "Learn how you can make more money with IBD's investing tools, top-performing stock lists, and educational content.",
-          "translation": "了解如何通過 IBD 的投資工具、最佳股票列表和教育內容，增加您的財務收益"
+          "sentence": "He faces a maximum penalty of 20 years on the wire fraud counts and a maximum penalty of five years on the bankruptcy fraud counts.",
+          "translation": "他面臨電信詐欺的最大刑期為20年，破產詐欺的最大刑期為5年"
         },
         {
-          "sentence": "Information in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities.",
-          "translation": " Investor's Business Daily 的資訊僅供教育和資訊目的，且不應被視為購買或出售證券的建議"
+          "sentence": "The FBI Washington Field Office is investigating the case.",
+          "translation": "法國特工局正在調查這個案件"
         },
         {
-          "sentence": "The information has been obtained from sources we believe to be reliable, but we make no guarantee as to its accuracy, timeliness, or suitability, including with respect to information that appears in closed captioning.",
-          "translation": "我們從可信的來源取得資訊，但我們不提供任何保證，包括資訊的準確性、時效性或合適性"
-        },
-        {
-          "sentence": "Historical investment performances are no indication or guarantee of future success or performance.",
-          "translation": "歷史投資成果並不能預示未來的成功或表現"
-        },
-        {
-          "sentence": "Authors/presenters may own the stocks they discuss.",
-          "translation": "討論的股票可能由作者或演講者擁有"
-        },
-        {
-          "sentence": "We make no representations or warranties regarding the advisability of investing in any particular securities or utilizing any specific investment strategies.",
-          "translation": "我們不提供任何保證或表示任何特定證券的投資適宜性"
-        },
-        {
-          "sentence": "Information is subject to change without notice.",
-          "translation": "資訊可能在任何時間都會改變"
-        },
-        {
-          "sentence": "For information on use of our services, please see our Terms of Use.",
-          "translation": "關於我們服務的使用資訊，請參考我們的使用條款"
-        },
-        {
-          "sentence": "*Real-time prices by Nasdaq Last Sale. Real-time quote and/or trade prices are not sourced from all markets.",
-          "translation": "*實時價格由 Nasdaq 最後交易價格提供，實時報價和交易價格可能不來自所有市場"
-        },
-        {
-          "sentence": "Ownership data provided by LSEG and Estimate data provided by FactSet.",
-          "translation": "擁有資料由 LSEG 提供，估計資料由 FactSet 提供"
-        },
-        {
-          "sentence": "IBD, IBD Digital, IBD Live, IBD Weekly, Investor's Business Daily, Leaderboard, MarketDiem, MarketSurge and other marks are trademarks owned by Investor's Business Daily, LLC.",
-          "translation": "IBD、 IBD數據、 IBD live、 IBD 週刊、 Investor's Business Daily、 Leaderboard、 MarketDiem、 MarketSurge 等標誌是 Investor's Business Daily LLC 所擁有的商標"
+          "sentence": "Park's court sentencing is scheduled on Dec. 10.",
+          "translation": "帕克的法庭判決時間預定於12月10日"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "兩個股市的行為可能與VERAXA Biotech Designated Raju Willener as CFO的消息有關，VERAXA Biotech AG的股價可能受到這個消息的影響，而 Vertiv Holdings (VRT) 的股價則可能受到 Comfort Systems USA 的消息影響，兩者間的關聯可能是因為兩個公司都屬於電氣合同業，且股價的變化可能受到這些消息的影響，然而，需要注意的是，這些消息可能是機率事件，且未必會直接影響兩者的股價。"
+    "market_connection": "台股大戶在白天大買大賣，可能是因為對於對手的市場行情有很高的預測能力，或者是因為對於自己的投資風險有很高的承受能力。然而，在下午的國際財經新聞中，關於Torrid的關閉和HIVE的AI cloud business的 news，可能與台股大戶的行為有關。Torrid的關閉可能是因為對於物理店間的經濟有很高的壓力，而HIVE的AI cloud business的成長可能是因為對於AI cloud的需求有很高的趨勢。因此，台股大戶的行為可能是因為對於對手的市場行情有很高的預測能力，或者是因為對於自己的投資風險有很高的承受能力，而這些行為又可能是因為對於對手的市場行情有很高的預測能力，或者是因為對於自己的投資風險有很高的承受能力。這種循環的因果關係可能會導致台股大戶的行為更加複雜，需要更高的預測能力和投資風險承受能力。"
   }
 }
