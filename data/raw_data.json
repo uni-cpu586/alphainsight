@@ -1,378 +1,378 @@
 {
-  "date": "2026-09-16",
-  "stock_market_date": "2026-09-15",
+  "date": "2026-09-17",
+  "stock_market_date": "2026-09-16",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 13796579
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 52472596
         },
         {
           "rank": 2,
-          "stock_name": "中華電",
-          "ticker": "2412",
-          "net_buy_shares": 11835598
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 42640791
         },
         {
           "rank": 3,
-          "stock_name": "光鼎",
-          "ticker": "6226",
-          "net_buy_shares": 4727975
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 20867981
         },
         {
           "rank": 4,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 3528163
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 18474026
         },
         {
           "rank": 5,
           "stock_name": "陽明",
           "ticker": "2609",
-          "net_buy_shares": 2547014
+          "net_buy_shares": 13282855
         },
         {
           "rank": 6,
-          "stock_name": "台灣大",
-          "ticker": "3045",
-          "net_buy_shares": 2396812
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_buy_shares": 11140556
         },
         {
           "rank": 7,
-          "stock_name": "鴻準",
-          "ticker": "2354",
-          "net_buy_shares": 2185499
+          "stock_name": "國票金",
+          "ticker": "2889",
+          "net_buy_shares": 9670315
         },
         {
           "rank": 8,
-          "stock_name": "晶技",
-          "ticker": "3042",
-          "net_buy_shares": 1992635
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_buy_shares": 9276631
         },
         {
           "rank": 9,
-          "stock_name": "台達電",
-          "ticker": "2308",
-          "net_buy_shares": 1846904
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 7598667
         },
         {
           "rank": 10,
-          "stock_name": "上銀",
-          "ticker": "2049",
-          "net_buy_shares": 1641970
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 6968509
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -72078419
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_sell_shares": -16480507
         },
         {
           "rank": 2,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_sell_shares": -38426153
+          "net_sell_shares": -16246339
         },
         {
           "rank": 3,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -37756960
-        },
-        {
-          "rank": 4,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -23400191
-        },
-        {
-          "rank": 5,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_sell_shares": -21978244
-        },
-        {
-          "rank": 6,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_sell_shares": -20768018
-        },
-        {
-          "rank": 7,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -19035391
-        },
-        {
-          "rank": 8,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_sell_shares": -16415364
-        },
-        {
-          "rank": 9,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -16389070
-        },
-        {
-          "rank": 10,
-          "stock_name": "元大高股息",
-          "ticker": "0056",
-          "net_sell_shares": -14399210
-        }
-      ],
-      "trust_buy": [
-        {
-          "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 9489479
-        },
-        {
-          "rank": 2,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 5013000
-        },
-        {
-          "rank": 3,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 4558000
-        },
-        {
-          "rank": 4,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_buy_shares": 3842000
-        },
-        {
-          "rank": 5,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 3580000
-        },
-        {
-          "rank": 6,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 3370000
-        },
-        {
-          "rank": 7,
           "stock_name": "永豐金",
           "ticker": "2890",
-          "net_buy_shares": 3331000
+          "net_sell_shares": -12738874
+        },
+        {
+          "rank": 4,
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_sell_shares": -9686915
+        },
+        {
+          "rank": 5,
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -8744380
+        },
+        {
+          "rank": 6,
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_sell_shares": -7951540
+        },
+        {
+          "rank": 7,
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -6798444
         },
         {
           "rank": 8,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 2998538
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -6396915
         },
         {
           "rank": 9,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 2515052
+          "stock_name": "正新",
+          "ticker": "2105",
+          "net_sell_shares": -5612435
         },
         {
           "rank": 10,
           "stock_name": "富邦金",
           "ticker": "2881",
-          "net_buy_shares": 1807960
+          "net_sell_shares": -5296098
+        }
+      ],
+      "trust_buy": [
+        {
+          "rank": 1,
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 16189000
+        },
+        {
+          "rank": 2,
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_buy_shares": 12195000
+        },
+        {
+          "rank": 3,
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 11139000
+        },
+        {
+          "rank": 4,
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 9254589
+        },
+        {
+          "rank": 5,
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_buy_shares": 9138000
+        },
+        {
+          "rank": 6,
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 8184340
+        },
+        {
+          "rank": 7,
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 7852000
+        },
+        {
+          "rank": 8,
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_buy_shares": 6000000
+        },
+        {
+          "rank": 9,
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 5959000
+        },
+        {
+          "rank": 10,
+          "stock_name": "興富發",
+          "ticker": "2542",
+          "net_buy_shares": 3911000
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -5474000
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_sell_shares": -4371679
         },
         {
           "rank": 2,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_sell_shares": -2387025
+          "stock_name": "群益證",
+          "ticker": "6005",
+          "net_sell_shares": -4155876
         },
         {
           "rank": 3,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -1525000
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_sell_shares": -4022000
         },
         {
           "rank": 4,
-          "stock_name": "華新科",
-          "ticker": "2492",
-          "net_sell_shares": -1523000
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_sell_shares": -2984596
         },
         {
           "rank": 5,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_sell_shares": -972000
+          "stock_name": "台中銀",
+          "ticker": "2812",
+          "net_sell_shares": -1934312
         },
         {
           "rank": 6,
-          "stock_name": "英業達",
-          "ticker": "2356",
-          "net_sell_shares": -966000
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_sell_shares": -1547000
         },
         {
           "rank": 7,
-          "stock_name": "台達電",
-          "ticker": "2308",
-          "net_sell_shares": -964339
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_sell_shares": -1038000
         },
         {
           "rank": 8,
-          "stock_name": "鈺邦",
-          "ticker": "6449",
-          "net_sell_shares": -718000
+          "stock_name": "陽明",
+          "ticker": "2609",
+          "net_sell_shares": -883000
         },
         {
           "rank": 9,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_sell_shares": -627200
+          "stock_name": "可寧衛*",
+          "ticker": "8422",
+          "net_sell_shares": -870000
         },
         {
           "rank": 10,
-          "stock_name": "立隆電",
-          "ticker": "2472",
-          "net_sell_shares": -558000
+          "stock_name": "力成",
+          "ticker": "6239",
+          "net_sell_shares": -806000
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 2574000
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 3202078
         },
         {
           "rank": 2,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_buy_shares": 1182480
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_buy_shares": 2445555
         },
         {
           "rank": 3,
-          "stock_name": "合庫金",
-          "ticker": "5880",
-          "net_buy_shares": 855866
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 1731325
         },
         {
           "rank": 4,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 591537
+          "stock_name": "新興",
+          "ticker": "2605",
+          "net_buy_shares": 1476646
         },
         {
           "rank": 5,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 558961
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_buy_shares": 1025000
         },
         {
           "rank": 6,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_buy_shares": 347000
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_buy_shares": 1004952
         },
         {
           "rank": 7,
-          "stock_name": "材料*-KY",
-          "ticker": "4763",
-          "net_buy_shares": 341000
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_buy_shares": 973759
         },
         {
           "rank": 8,
-          "stock_name": "台虹",
-          "ticker": "8039",
-          "net_buy_shares": 297000
+          "stock_name": "台勝科",
+          "ticker": "3532",
+          "net_buy_shares": 811021
         },
         {
           "rank": 9,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_buy_shares": 296943
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 722000
         },
         {
           "rank": 10,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_buy_shares": 267050
+          "stock_name": "長興",
+          "ticker": "1717",
+          "net_buy_shares": 707000
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -2105000
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -6860634
         },
         {
           "rank": 2,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -1446999
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_sell_shares": -3304655
         },
         {
           "rank": 3,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_sell_shares": -777524
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_sell_shares": -1734000
         },
         {
           "rank": 4,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -665996
+          "stock_name": "光寶科",
+          "ticker": "2301",
+          "net_sell_shares": -1116353
         },
         {
           "rank": 5,
-          "stock_name": "和碩",
-          "ticker": "4938",
-          "net_sell_shares": -563714
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -1069000
         },
         {
           "rank": 6,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -482000
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_sell_shares": -727907
         },
         {
           "rank": 7,
-          "stock_name": "鼎元",
-          "ticker": "2426",
-          "net_sell_shares": -298000
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_sell_shares": -678577
         },
         {
           "rank": 8,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_sell_shares": -279000
+          "stock_name": "台灣大",
+          "ticker": "3045",
+          "net_sell_shares": -548431
         },
         {
           "rank": 9,
-          "stock_name": "神達",
-          "ticker": "3706",
-          "net_sell_shares": -272998
+          "stock_name": "台虹",
+          "ticker": "8039",
+          "net_sell_shares": -524707
         },
         {
           "rank": 10,
-          "stock_name": "新興",
-          "ticker": "2605",
-          "net_sell_shares": -229000
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_sell_shares": -398268
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "中信金",
-        "shares": 4828802
+        "target": "友達",
+        "shares": 18365408
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "元大台灣50",
-        "shares": 1029600
+        "target": "群創",
+        "shares": 1280831
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "聯電",
-        "shares": 4270265
+        "target": "永豐金",
+        "shares": 7285050
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "力積電",
-        "shares": 21623525
+        "target": "中鋼",
+        "shares": 4944152
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Costco rations Kirkland motor oil, raises price to $57.99",
+      "title": "Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html",
-      "summary": "Costco rations Kirkland motor oil, raises price to $57.99",
-      "full_text": "Costco has raised the price of its Kirkland Signature full-synthetic motor oil and begun limiting how much any one member can purchase, as a global lubricant shortage tied to the ongoing Middle East conflict pushes crude oil toward $100 a barrel.\n\nThat 10-quart case — two 5-quart bottles, enough for a typical V6 or V8 oil change — has jumped to $57.99, compared with the roughly $30 price members had grown accustomed to paying, according to The Drive. Stores are capping purchases at two units per customer per week. The retailer has also imposed a five-per-member limit on Mobil 1, with six quarts of that brand running $44.\n\nThe rationing reflects pressure from multiple directions. The connection to fuel prices runs through the refinery: base oil shares its crude-oil origins with gasoline and diesel, so when margins on finished fuel are strong, refiners have a financial reason to favor fuel production over lubricant stock, according to The Auto Wire. EIA data showed the gasoline crack spread sitting roughly a dollar per gallon higher than where it stood at the same point in 2025, a gap that has squeezed base oil availability and pushed its price upward.\n\nRegulatory and licensing costs add a separate layer of expense. The Kirkland 5W-30 displays the dexos1 Gen 3 certification, GM's proprietary specification, and earning that mark is not free — manufacturers must put their formulation through GM's independent testing protocol and obtain a license from the automaker, paying separately for each product and each unit sold, according to The Auto Wire. Layered on top of that is an industry-wide burden: when the API SP category took effect around 2020, it introduced seven additional laboratory tests with no equivalent in the previous standard, among them a procedure targeting low-speed pre-ignition, the knock-like detonation problem associated with modern turbocharged, direct-injection engines.\n\nThe supply squeeze is unfolding against a backdrop of a worsening global oil deficit. The International Energy Agency cut its 2026 global oil supply forecast to 102 million barrels per day in August, projecting a deficit of 1.8 million barrels per day in the third quarter — more than double its prior estimate. Cumulative global inventory draws since the start of the U.S.-Iran conflict have reached more than 500 million barrels, and Chevron CEO Mike Wirth said last week that the cushions that had softened earlier price increases have been exhausted. U.S. diesel prices crossed $6 per gallon for the first time, sitting at $6.06 as of Monday, an 8-cent increase from Sunday and 21 cents above week-earlier levels, according to AAA.\n\nFor drivers who change their own oil, the economics have shifted, eroding much of the savings argument: at current Kirkland prices, doing the job yourself pencils out to roughly what a local independent shop would charge, according to The Auto Wire, closing an economic gap that once made the driveway option an obvious choice.",
-      "published": "2026-09-14T13:33:08Z"
+      "link": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
+      "summary": "Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision",
+      "full_text": "Bitcoin faced this week's second major Washington catalyst on Sep. 16, with the Federal Reserve hiking the interest rates after the Senate failed to advance the CLARITY Act a day earlier.\n\nThe Federal Open Market Committee voted 12-0 to raise the federal funds target range by 25 basis points to 3.75%-4.00%, its first increase since 2023. The Fed said inflation \"remains elevated\" and that the move would support a timelier return to its 2% target.\n\nThe unanimous hike puts the central bank directly at odds with President Donald Trump, who has called for lower borrowing costs and said earlier this month that the U.S. \"should be paying the lowest interest rate in the world.\"\n\nThe CLARITY Act, which would establish a federal market structure for digital assets and clarify oversight between the Securities and Exchange Commission (SEC) and Commodity Futures Trading Commission (CFTC), failed to advance Tuesday in a 49-50 Senate cloture vote. It needed 60 votes to proceed.\n\nThe Fed decision matters for Bitcoin because higher interest rates increase yields on lower-risk assets and tighten financial conditions, typically creating a tougher environment for speculative assets.\n\nHours before the Fed announcement, a large Bitcoin holder moved 1,604 BTC, worth about $122.1 million, between two unidentified wallets.\n\nBlockchain transaction tracker Whale Alert recorded the transaction at 12:20 UTC on Sept. 16, when Bitcoin was priced near $76,052. The transaction carried a fee of just 0.000001 BTC.\n\nThe transfer does not, by itself, indicate that the Bitcoin was sold. Both the sending and receiving addresses were labeled as unknown wallets, meaning there is no clear evidence that the funds were moved to an exchange or other venue where they could immediately be sold.",
+      "published": "2026-09-16T16:47:40Z"
     },
     {
       "id": "news_2",
-      "title": "National specialty clothing chain closing all its stores",
+      "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html",
-      "summary": "National specialty clothing chain closing all its stores",
-      "full_text": "A few weeks ago, I used Uber Eats to deliver me a case of bottled water, a dozen Starbucks iced coffee bottles, and a 12-pack of Gatorade Zero.\n\nIt cost a little more than going to the store less than two miles from our house, but instead of having to lug those bulky items from the store to my car and then my kitchen, I only had to bring them in from the front door.\n\nThat was either a lazy choice or evidence of excellent time management skills, but it's a solid example of how people use the internet. Because while people generally think it's much higher (I've asked the question to thousands of people on various podcasts and live shows over the years), digital sales are still a relatively small percentage of total retail sales.\n\n\"E-commerce sales in the second quarter of 2026 accounted for 17.1 percent of total sales,\" United States Census Bureau data showed.\n\nConsumers have shifted some of their purchases online, and they're looking for convenience.\n\n\"The near-instantaneous gratification of online retail has evolved from amenity to necessity for many shoppers. Even though a slowing job market, high interest rates and tight credit have weighed on wallets, consumers still prize products and services that save them time or make their lives easier,\" according to results of a recent Morgan Stanley Research AlphaWise survey.\n\nFor some retailers, including workplace clothing maker Scrubs & Beyond, that has made physical stores an expensive luxury. In some cases, clothing retailers, including Torrid and Destination XL, have opted to trim store count.\n\nScrubs & Beyond, however, has decided to shut down its entire chain and move to a digital-only model.",
-      "published": "2026-09-14T14:07:00Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
+      "summary": "How a Costco partner's bankruptcy could benefit its biggest rival",
+      "full_text": "I have covered two bankruptcy stories before. Not from the usual angle of what happened and why; for each, I dug deeper into who could win from the wreckage.\n\nThe Magellan Aerospace story led me to Howmet. The IKEA store closures pointed me to Target. This week's Chapter 11 filing from Focus Factor maker Synergy CHC Corp. points me squarely to Reckitt Benckiser (RBGLY).\n\nSynergy CHC filed for bankruptcy on September 4, 2026, in the U.S. Bankruptcy Court for the District of Columbia, TheStreet reported.\n\nCostco told the company back in July that it would be discontinuing Focus Factor products after a 16-year relationship. You see that one decision? It cost Synergy approximately 58% of its total 2025 net revenue, triggered an $18.9 million debt acceleration from its lender, and made Chapter 11 inevitable.\n\nRBGLY currently trades at $14, down 10.62% year-to-date, according to Yahoo Finance.\n\nThe Synergy CHC situation shows just how quickly retail concentration can become a risk. Focus Factor is a functional beverage brand with a 25-year legacy, enjoying established distribution in the U.S., Canada, and Mexico, and distribution across Walmart, Walgreens, Amazon, and BJ's.\n\nThe company's a brain supplement with vitamins, minerals, and neuro-nutrients. It carries a \"#1 Pharmacist Recommended\" claim from the 2025-2026 U.S. Pharmacy Times survey for memory support. None of that mattered once Costco made its decision.\n\n\"Costco accounted for approximately 58% of the Company's net revenue during the fiscal year ended December 31, 2025,\" the SEC filing stated. \"The Company expects Costco's decision to have a material adverse effect on the Company's business, results of operations, liquidity, and financial condition.\"",
+      "published": "2026-09-15T13:33:00Z"
     },
     {
       "id": "news_3",
-      "title": "How Is Tractor Supply's Stock Performance Compared to Other Specialty Retail Stocks?",
+      "title": "Rich Dad Poor Dad author warns biggest crash in history has started",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tractor-supplys-stock-performance-compared-152555841.html",
-      "summary": "How Is Tractor Supply's Stock Performance Compared to Other Specialty Retail Stocks?",
-      "full_text": "With a market cap of $17.3 billion, Tractor Supply Company (TSCO) is a U.S.-based rural lifestyle retailer that sells products for farmers, ranchers, and rural homeowners. The company offers a wide range of merchandise, including livestock and equine feed, pet supplies, lawn and garden equipment, tools, hardware, and clothing.\n\nCompanies valued more than $10 billion are generally considered \"large-cap\" stocks, and Tractor Supply fits this criterion perfectly. It operates retail stores under the Tractor Supply Company, Petsense by Tractor Supply, and Orscheln Farm and Home brands, along with e-commerce websites. It primarily serves recreational farmers, ranchers, and rural lifestyle customers across the United States.\n\nGF Securities Says NAND Prices May Stabilize Later This Year. What This Means for Sandisk Stock.\n\nShares of the Brentwood, Tennessee-based company have fallen 44.9% from its 52-week high of $60.85. Tractor Supply's shares have risen nearly 8% over the past three months, outpacing the State Street SPDR S&P Retail ETF's (XRT) 2.8% dip over the same time frame.\n\nTSCO stock is down 32.5% on a YTD basis, a steeper decline than XRT's marginal decrease. In the longer term, shares of the retailer have declined 44.3% over the past 52 weeks, compared to XRT's 1.3% decline over the same time frame.\n\nTractor Supply has underperformed as weak consumer demand, particularly for big-ticket and discretionary items, has pressured comparable-store sales. Its companion animal business has continued to lag the broader business, while softness in seasonal categories and lower customer traffic have weighed on results.\n\nIn comparison, rival Williams-Sonoma, Inc. (WSM) has outpaced TSCO stock. WSM stock has gained 24% on a YTD basis and 12.5% over the past 52 weeks.\n\nDespite the stock's underperformance relative to its industry peers, analysts remain moderately optimistic on TSCO. The stock has a consensus rating of \"Moderate Buy\" from the 29 analysts in coverage, and the mean price target of $36.03 is a premium of 7.6% to current levels.",
-      "published": "2026-09-14T15:25:55Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html",
+      "summary": "Rich Dad Poor Dad author warns biggest crash in history has started",
+      "full_text": "Robert Kiyosaki isn't pulling punches this time. The \"Rich Dad Poor Dad\" author said on X early Tuesday that the \"biggest crash in history has started,\" pointing to turbulence in Europe and Japan as the opening act of a global downturn he says he predicted more than two decades ago.\n\nKiyosaki tied his warning to his 2002 book, \"Rich Dad's Prophecy,\" which he said was written to help people \"profit and not be victims\" of a massive stock and bond market collapse.\n\nHe argues that the crash is now unfolding in 2026, driven by a mix of AI mania, geopolitical tensions including the war in Iran, excessive debt levels, and the retirement of the Baby Boom generation.\n\n\"In 2026, that crash started, in Europe and Japan and is spreading across the world. It's caused by many factors, the AI frenzy, war in Iran, too much debt, and a retiring Baby Boom generation,\" he wrote on X.\n\nFor investors with 401(k)s, IRAs, or similar retirement accounts, especially those over 40, the message is stark: you may be in trouble unless you act.\n\nRelated: If you invested $1,000 in gold & Bitcoin 10 years ago, here's how much money you'd have today\n\nKiyosaki drew a parallel to the Great Depression, which he said lasted 25 years from 1929 to 1954, noting that prepared families like the Kennedys used the period to grow wealth while others suffered.\n\nHis current playbook remains consistent: personal businesses, income-producing real estate, oil-producing wells, and hard assets like gold, silver, and Bitcoin.",
+      "published": "2026-09-15T17:26:03Z"
     }
   ]
 }
