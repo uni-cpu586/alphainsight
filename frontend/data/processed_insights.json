@@ -1,434 +1,540 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "stock_uncle_insight": {
-    "date_header": "9/18 法人與主力大戶主要買超股票",
+    "date_header": "9/19 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃面板、航運與傳產，金融股也沒放過",
+        "group_title": "1. 外資大戶：狂掃記憶體與晶圓代工，面板金融遭倒貨",
         "stocks": [
-          {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "肖年仔，你看外資這批假鬼假怪的，狂掃友達超過 5.32 萬張！這擺明了是看好面板景氣要翻身，還是趁著低檔在撿便宜貨？這手筆不小，值得注意！"
-          },
           {
             "stock_name": "力積電",
             "ticker": "6770",
-            "description": "力積電也被外資買超超過 3.26 萬張，這半導體股最近被修理得夠慘，外資這時候進場，是覺得跌深了有反彈空間，還是有什麼新訂單的風聲？"
+            "description": "肖年仔，外資狂掃力積電七萬七千多張，這不是黑白買，是看好記憶體底部翻揚的訊號啦！高盛也來參一咖，這波有戲。"
           },
           {
-            "stock_name": "臺企銀",
-            "ticker": "2834",
-            "description": "金融股臺企銀也被外資買超超過 2.69 萬張，在升息環境下，金融股通常被視為避風港，外資這是在找穩定的標的，還是看好銀行業的利差擴大？"
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "外資也沒放過華邦電，四萬兩千多張直接買進，跟力積電一樣，都是記憶體族群，準備要點火了。"
           },
           {
-            "stock_name": "中石化",
-            "ticker": "1314",
-            "description": "中石化也被外資買超超過 2.50 萬張，傳產股最近因為油價、原物料上漲，有點題材。外資這是在卡位通膨概念股，還是有什麼塑化產品漲價的內幕？"
+            "stock_name": "南亞科",
+            "ticker": "2408",
+            "description": "南亞科也買超三萬兩千多張，記憶體三劍客外資都進場了，這波是真外資在卡位，不是短線仔。"
           },
           {
-            "stock_name": "陽明",
-            "ticker": "2609",
-            "description": "航運股陽明也被外資買超超過 2.18 萬張，海運運價雖然沒以前那麼瘋狂，但外資這手筆，是覺得跌夠了，還是看好第四季旺季效應？"
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "聯電買超兩萬八千多張，晶圓代工二哥被外資看上，這不只是低基期，可能還有訂單回溫的預期。"
+          },
+          {
+            "stock_name": "京元電子",
+            "ticker": "2449",
+            "description": "封測廠京元電外資買超兩萬一千多張，半導體下游也開始動了，這波是整個產業鏈在轉骨。"
+          },
+          {
+            "stock_name": "南茂",
+            "ticker": "8150",
+            "description": "南茂外資也買超一萬三千多張，跟京元電一樣，都是封測廠，外資在半導體產業鏈的布局很全面。"
+          },
+          {
+            "stock_name": "矽格",
+            "ticker": "6257",
+            "description": "矽格外資買超一萬三千多張，半導體封測股被外資鎖碼，這表示他們看好後續的訂單動能。"
+          },
+          {
+            "stock_name": "旺宏",
+            "ticker": "2337",
+            "description": "旺宏外資買超九千八百多張，記憶體族群全面開花，外資這波是鐵了心要拉抬。"
+          },
+          {
+            "stock_name": "元大金",
+            "ticker": "2885",
+            "description": "外資買超元大金九千多張，金融股在市場震盪時，常常是資金的避風港，外資在找防禦性標的。"
+          },
+          {
+            "stock_name": "中華電",
+            "ticker": "2412",
+            "description": "中華電也買超七千四百多張，這種電信股就是穩，外資在市場不確定時，會把錢放在這種定存概念股。"
           }
         ]
       },
       {
-        "group_title": "2. 投信大戶（本土國家隊）：金融作帳鎖碼，權值股也沒放過",
+        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，半導體與AI伺服器雙管齊下",
         "stocks": [
           {
             "stock_name": "聯電",
             "ticker": "2303",
-            "description": "投信這批本土國家隊，狂掃聯電超過 2.79 萬張！這擺明了是作帳行情，鎖碼權值股來拉抬基金績效，肖年仔，這就是他們年底衝刺的慣用手法。"
+            "description": "投信買超聯電一萬三千多張，跟外資英雄所見略同，這檔低基期晶圓代工，投信也準備要作帳了。"
           },
           {
-            "stock_name": "南亞",
-            "ticker": "1303",
-            "description": "南亞也被投信買超超過 2.33 萬張，這也是權值股，而且跟塑化原物料有關，投信在電子股休息的時候，把資金轉到這些相對穩健的標的，很合理。"
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "長榮航投信買超九千兩百多張，外資在賣，投信卻在買，這可能是投信看好解封後的旺季效應，準備拉高出貨給肖年仔。"
           },
           {
-            "stock_name": "彰銀",
-            "ticker": "2801",
-            "description": "彰銀被投信買超近 0.95 萬張，你看他們在金融股裡面玩大風吹，買進一堆金融股，同時也賣出一些，這就是典型的作帳換股操作，把資金集中到他們要拉抬的標的。"
+            "stock_name": "藥華藥",
+            "ticker": "6446",
+            "description": "藥華藥買超八千五百多張，生技股的明星，投信在找有題材、有成長性的標的，這檔就是代表。"
           },
           {
-            "stock_name": "玉山金",
-            "ticker": "2884",
-            "description": "玉山金也被投信買超超過 0.86 萬張，金融股是投信作帳的常客，在市場震盪的時候，這些股性穩定的標的，就是他們最好的避風港。"
+            "stock_name": "廣達",
+            "ticker": "2382",
+            "description": "廣達買超五千一百多張，AI伺服器概念股，投信這是在卡位AI長線趨勢，雖然漲高了，但還是有資金追捧。"
           },
           {
-            "stock_name": "台新新光金",
-            "ticker": "2887",
-            "description": "台新新光金被投信買超超過 0.80 萬張，但同時外資卻在賣超，這就是典型的法人對作，投信接刀，外資倒貨，看誰比較會玩。"
+            "stock_name": "興富發",
+            "ticker": "2542",
+            "description": "興富發買超四千一百多張，營建股在市場震盪時，有時候會被當作避險標的，或是特定基金的配置需求。"
+          },
+          {
+            "stock_name": "南亞科",
+            "ticker": "2408",
+            "description": "南亞科投信也買超三千九百多張，記憶體族群不只外資，連本土國家隊也進場，這波是真的有共識。"
+          },
+          {
+            "stock_name": "力積電",
+            "ticker": "6770",
+            "description": "力積電投信買超三千八百多張，記憶體雙雄都上榜，投信跟外資同步買超，這訊號很強。"
+          },
+          {
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "友達投信買超三千六百多張，外資狂倒，投信卻接刀，這可能是投信看好面板報價落底，或是為了作帳拉抬。"
+          },
+          {
+            "stock_name": "緯創",
+            "ticker": "3231",
+            "description": "緯創買超三千多張，AI伺服器雙雄，投信還是持續布局，這塊餅還很大，肖年仔別亂割韭菜。"
+          },
+          {
+            "stock_name": "寶成",
+            "ticker": "9904",
+            "description": "寶成投信買超三千多張，傳產股的龍頭，投信在找穩健的標的，這檔有機會被當作防禦性配置。"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：自營商避險為上，跟單法人短線進出",
+        "group_title": "3. 內資主力與實戶：避險兼短打，ETF與低價股齊飛",
         "stocks": [
           {
             "stock_name": "元大台灣50",
             "ticker": "0050",
-            "description": "自營商狂買元大台灣50超過 0.34 萬張，這批人最會避險，買 ETF 就是怕大盤不穩，先做好風險控管，肖年仔，這就是老手在市場震盪時的標準動作。"
-          },
-          {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "聯電也被自營商買超超過 0.25 萬張，你看投信在鎖碼，自營商也跟著進來短線操作，這就是跟單，賺點價差就跑。"
-          },
-          {
-            "stock_name": "富邦科技",
-            "ticker": "0052",
-            "description": "富邦科技 ETF 也被自營商買超超過 0.23 萬張，跟買 0050 一樣，都是避險盤，或是做指數套利，這些人可不會黑白買。"
-          },
-          {
-            "stock_name": "中石化",
-            "ticker": "1314",
-            "description": "中石化也被自營商買超超過 0.22 萬張，外資也在買，自營商也跟著進來，傳產股最近有題材，短線資金也會進來攪和一下。"
+            "description": "自營商狂買0050一萬一千多張，這就是標準的避險盤，市場不確定性高，先買ETF避風頭，或是做權證對沖。"
           },
           {
             "stock_name": "力積電",
             "ticker": "6770",
-            "description": "力積電也被自營商買超超過 0.20 萬張，外資在買，自營商也跟著進來，這就是短線的資金流動，看準了就進去撈一票。"
+            "description": "力積電自營商也買超四千八百多張，三大法人同步買超，這檔記憶體股的籌碼很漂亮，肖年仔可以注意。"
+          },
+          {
+            "stock_name": "益航",
+            "ticker": "2601",
+            "description": "益航買超三千一百多張，這種低價股常常是內資主力短打的目標，拉高出貨給散戶，肖年仔別黑白追。"
+          },
+          {
+            "stock_name": "華邦電",
+            "ticker": "2344",
+            "description": "華邦電自營商買超三千多張，記憶體族群被三大法人看上，這波反彈的力道不容小覷。"
+          },
+          {
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "友達自營商買超兩千八百多張，外資狂賣，投信、自營商卻在接，這檔面板股的籌碼很混亂，小心接刀。"
+          },
+          {
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "聯電自營商買超兩千四百多張，三大法人同步買超，這檔晶圓代工二哥，是真的有機會。"
+          },
+          {
+            "stock_name": "京元電子",
+            "ticker": "2449",
+            "description": "京元電自營商買超兩千多張，半導體封測也動起來了，內資主力也跟著法人腳步進場。"
+          },
+          {
+            "stock_name": "南茂",
+            "ticker": "8150",
+            "description": "南茂自營商買超一千六百多張，封測族群被內資主力看上，這波是整個半導體鏈在動。"
+          },
+          {
+            "stock_name": "農林",
+            "ticker": "2913",
+            "description": "農林買超一千五百多張，這種資產股或低價股，常常是內資主力在炒作，小心被割韭菜。"
+          },
+          {
+            "stock_name": "中電",
+            "ticker": "1611",
+            "description": "中電買超一千兩百多張，跟農林一樣，都是內資主力愛玩的低價股，短線波動大，風險也高。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔避險與資金避風港（金融、傳產）",
-        "strategy_content": "肖年仔，你看聯準會升息 25 個基點，這對市場來說不是什麼好消息，資金自然會從高風險的電子股撤出，轉往相對穩定的金融股和傳產股。外資狂掃臺企銀、凱基金，投信也大買彰銀、玉山金，這就是典型的避險操作。同時，柴油價格飆漲，通膨壓力又來了，中石化、台泥、台塑化這些傳產股，自然就成了資金的避風港，大戶們在找低基期、有題材的標的，準備卡位。"
+        "strategy_title": "策略一：記憶體與晶圓代工低基期卡位，迎接產業復甦",
+        "strategy_content": "外資、投信、自營商三大法人同步大買力積電、華邦電、南亞科等記憶體股，以及聯電、京元電子等晶圓代工與封測股。這擺明是看好半導體產業庫存調整接近尾聲，記憶體報價有機會止跌回升，晶圓代工訂單也可能逐步回溫。肖年仔，這不是黑白買，這是主力在底部卡位，準備迎接產業春燕。"
       },
       {
-        "strategy_title": "策略二：投信作帳行情啟動（權值股、金融股）",
-        "strategy_content": "投信這批本土國家隊，年底作帳壓力大，你看他們狂掃聯電、南亞這種權值股，還有彰銀、玉山金、台新新光金等一票金融股，這就是標準的作帳手法。他們會在這些股票裡面玩大風吹，把資金集中到他們要拉抬的標的，衝刺基金績效。肖年仔，看到投信這樣搞，就知道他們要開始衝刺了，但也要小心，作帳完可能就是結帳倒貨的時候。"
+        "strategy_title": "策略二：AI基礎建設題材點火，長線布局伺服器與光通訊",
+        "strategy_content": "投信持續買超廣達、緯創等AI伺服器概念股，雖然國際新聞提到Corning的光纖大單是美股，但這代表AI基礎建設的需求是全球性的。台灣在AI供應鏈扮演關鍵角色，主力資金持續鎖碼這些AI相關標的，是看好AI長線趨勢，準備波段操作。"
       },
       {
-        "strategy_title": "策略三：景氣循環股低檔卡位與通膨題材（面板、航運、塑化）",
-        "strategy_content": "外資大買友達、陽明、中石化，這些都是景氣循環股。面板、航運之前被殺得夠慘，外資這時候進場，很可能是看好未來景氣復甦，提前在低檔布局。加上柴油價格創歷史新高，原物料上漲，中石化這種塑化股就有了通膨題材，大戶們嗅到味道，自然會進來點火，準備拉高出貨。"
+        "strategy_title": "策略三：資金避風港與作帳行情，防禦性與特定題材並重",
+        "strategy_content": "外資買超元大金、中華電等金融電信股，自營商大買元大台灣50（0050），這都是市場震盪時的避險操作。同時，投信在金融股大舉結帳後，轉進長榮航、藥華藥、興富發等有特定題材或作帳需求的股票。這顯示主力資金在尋求防禦性的同時，也不放過有機會拉抬的標的，準備在年底前衝一波績效。"
       }
     ],
-    "summary": "肖年仔，大戶們在升息環境下，資金從電子股撤出，轉往傳產、金融避險或作帳，景氣循環股也趁機卡位，這就是市場的現實，黑白買可是會被割韭菜的！",
+    "summary": "肖年仔，今天三大法人對半導體記憶體與晶圓代工是真愛，狂掃低基期股準備點火，AI伺服器也持續鎖碼。但面板跟部分金融股被外資倒貨，投信則在金融股結帳後轉進作帳股，自營商則是ETF避險兼短打低價股。市場資金輪動快速，別黑白追高，小心被割韭菜！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 1.86 萬張",
-        "uncle_logic": "美商高盛這外資大咖，狂掃友達超過 1.86 萬張，這手筆不小。這可能是真外資的長線布局，看好面板產業的谷底翻身，準備波段鎖碼，肖年仔，這不是隔日沖能比的。"
+        "action": "買超 2.71 萬張",
+        "uncle_logic": "高盛這個外資大戶，狂掃力積電兩萬七千多張，這不是短線仔在玩，是真外資看好記憶體產業底部翻揚，準備波段鎖碼，肖年仔可以跟著吃豆腐。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 0.13 萬張",
-        "uncle_logic": "凱基台北這分點，通常是短線隔日沖大戶的集散地。他們買超元大台灣50這種 ETF，很可能是為了避險，對沖其他部位的風險，或是對大盤看法保守，先抱點指數型商品，肖年仔，這不是要拉抬個股，是怕被套牢！"
+        "action": "買超 4439 張",
+        "uncle_logic": "凱基台北這個隔日沖大戶，買超0050四千多張，這通常是兩種情況：一是市場不確定性高，先買ETF避險，隔天再看情況倒貨；二是做權證避險盤，肖年仔別以為是波段，小心被割韭菜。"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 1.25 萬張",
-        "uncle_logic": "元大投信這本土國家隊，大買聯電超過 1.25 萬張，這很明顯就是投信作帳的鎖碼動作。他們要拉抬基金績效，選這種權值股來衝刺，肖年仔，這就是他們年底的慣用伎倆，但也要小心，作帳完可能就是倒貨的時候。"
+        "action": "買超 6133 張",
+        "uncle_logic": "元大投信自家買聯電六千多張，這很明顯是投信在作帳，把自家基金的錢灌進去，準備拉抬績效，肖年仔可以觀察，但別追高。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 0.41 萬張",
-        "uncle_logic": "摩根大通這外資大咖，賣超台新新光金超過 0.41 萬張，你看投信在買，外資卻在賣，這就是典型的法人對作。外資可能覺得這檔金融股漲夠了，或是要調整持股，把貨倒給投信去接，肖年仔，這就是市場上你丟我撿的遊戲。"
+        "action": "賣超 1.56 萬張",
+        "uncle_logic": "摩根大通這個外資大戶，對友達狂倒貨一萬五千多張，這跟外資整體賣超面板的趨勢一致，擺明是不看好面板短線，肖年仔別亂接刀，小心被套牢。"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision",
+      "title": "This Is The Very Best Week Of The Year To Buy A House",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
-      "level1_blind": "Bitcoin faced this week's second major Washington catalyst on Sep. 16, with the Federal Reserve hiking the interest rates after the Senate failed to advance the CLARITY Act a day earlier.\n\nThe Federal Open Market Committee voted 12-0 to raise the federal funds target range by 25 basis points to 3.75%-4.00%, its first increase since 2023. The Fed said inflation \"remains elevated\" and that the move would support a timelier return to its 2% target.\n\nThe unanimous hike puts the central bank directly at odds with President Donald Trump, who has called for lower borrowing costs and said earlier this month that the U.S. \"should be paying the lowest interest rate in the world.\"\n\nThe CLARITY Act, which would establish a federal market structure for digital assets and clarify oversight between the Securities and Exchange Commission (SEC) and Commodity Futures Trading Commission (CFTC), failed to advance Tuesday in a 49-50 Senate cloture vote. It needed 60 votes to proceed.\n\nThe Fed decision matters for Bitcoin because higher interest rates increase yields on lower-risk assets and tighten financial conditions, typically creating a tougher environment for speculative assets.\n\nHours before the Fed announcement, a large Bitcoin holder moved 1,604 BTC, worth about $122.1 million, between two unidentified wallets.\n\nBlockchain transaction tracker Whale Alert recorded the transaction at 12:20 UTC on Sept. 16, when Bitcoin was priced near $76,052. The transaction carried a fee of just 0.000001 BTC.\n\nThe transfer does not, by itself, indicate that the Bitcoin was sold. Both the sending and receiving addresses were labeled as unknown wallets, meaning there is no clear evidence that the funds were moved to an exchange or other venue where they could immediately be sold.",
+      "link": "https://finance.yahoo.com/real-estate/articles/very-best-week-buy-house-162614269.html",
+      "level1_blind": "The week spanning September 27 through October 3 is historically the best time to buy a home, with inventory up 32% and 5.7% of listings seeing price reductions.\n\nHigh mortgage rates around 6.7% have thinned buyer competition, giving remaining buyers more negotiating power against motivated sellers.\n\nA K-shaped housing market is emerging: sub-$300K home sales fell 10% this year while million-dollar listings held steady.\n\nRead More: Learn 7 secret wealth tips high net worth investors use that most investors miss (sponsor)\n\nIf you can afford it, the best week of the year to buy a house is from September 27 to October 3. This, of course, depends on whether you can pay cash or take on a 6.7% fixed-rate, 30-year mortgage. Many people can't, which has triggered a major slowdown in housing sales.\n\n\"Historically, this week offers the most favorable balance of market conditions for buyers. Inventory tends to be elevated, prices typically dip below their seasonal peak, buyer competition slows, and the overall pace of the market becomes more manageable,\" Realtor.com reports. Of course, for some sellers, it could signal desperation. Summer is a good time to sell a house in most parts of the country. For sellers who didn't have luck, it could be a time to reprice and negotiate.\n\nSupply and demand numbers compare favorably to the start of the year for home buyers. In most years, inventory is up 31.9% compared to the start of the year.\n\nThe real estate research firm says that this week, the number of buyers in the market has dipped compared to most weeks. It is simple supply and demand. High interest rates may have driven those buyers out of the market. In that case, the current situation could continue. Additionally, evidence suggests sellers have modestly dropped prices from their average of $416,000, which is near a record.",
       "level2_keywords": [
         {
-          "word": "Bitcoin",
-          "ipa": "",
-          "meaning": "",
-          "example": "Bitcoin 的價格會受到 Fed 的決定影響"
+          "word": "inventory",
+          "ipa": "/ɪnˈvɔːntəri/",
+          "meaning": "存貨數量",
+          "example": "房地產市場的存貨數量"
         },
         {
-          "word": "Federal Reserve",
-          "ipa": "",
-          "meaning": "",
-          "example": "Fed 的決定對於 Bitcoin 的價格有著重要的影響"
+          "word": "mortgage",
+          "ipa": "/ˈmɔːrtɡɪdʒ/",
+          "meaning": "債務",
+          "example": "房貸債務"
         },
         {
-          "word": "interest rates",
-          "ipa": "",
-          "meaning": "",
-          "example": "利率的上升對於 Bitcoin 的價格有著重要的影響"
+          "word": "realtor",
+          "ipa": "/ˈrɛl.tər/",
+          "meaning": "房地產經紀人",
+          "example": "房地產經紀人的工作"
         },
         {
-          "word": "CLARITY Act",
-          "ipa": "",
-          "meaning": "",
-          "example": "CLARITY Act 是一項關於數位資產的法案"
+          "word": "demand",
+          "ipa": "/dɪˈmænd/",
+          "meaning": "需求",
+          "example": "房地產市場的需求"
         },
         {
-          "word": "inflation",
-          "ipa": "",
-          "meaning": "",
-          "example": "通胀率仍然高，Fed 的決定是為了控制通胀"
+          "word": "supply",
+          "ipa": "/ˈsɪpli/",
+          "meaning": "供應",
+          "example": "房地產市場的供應"
         }
       ],
-      "level2_context": "這篇文章主要探討了 Bitcoin 的價格受到 Fed 的決定影響，以及 Fed 的決定對於數位資產的影響。這也涉及到 CLARITY Act 的議題，該法案將對數位資產的市場構造和監管進行明確的規定。",
+      "level2_context": "美國房地產市場在高利率下面臨挑戰，然而這也使得買家在某些方面有了優勢。房地產經紀人的研究發現，從9月27日到10月3日是最佳買家週期，供應量增加，價格下降，買家競爭力增強。這也意味著，房地產經紀人需要適應新的市場情況，為買家提供更好的服務。",
       "level3_translation": [
         {
-          "sentence": "Bitcoin faced this week's second major Washington catalyst on Sep. 16, with the Federal Reserve hiking the interest rates after the Senate failed to advance the CLARITY Act a day earlier.",
+          "sentence": "The week spanning September 27 through October 3 is historically the best time to buy a home, with inventory up 32% and 5.7% of listings seeing price reductions.",
+          "translation": "從9月27日到10月3日是最佳買家週期，供應量增加，價格下降，買家競爭力增強"
+        },
+        {
+          "sentence": "High mortgage rates around 6.7% have thinned buyer competition, giving remaining buyers more negotiating power against motivated sellers.",
+          "translation": "高利率約6.7%使得買家競爭力減少，剩餘的買家獲得了與動力性賣家進行談判的優勢"
+        },
+        {
+          "sentence": "A K-shaped housing market is emerging: sub-$300K home sales fell 10% this year while million-dollar listings held steady.",
+          "translation": "房地產市場正在形成K形態，低於300萬元的房子銷售量下降10%，一百萬元以上的房子銷售量持續穩定"
+        },
+        {
+          "sentence": "Read More: Learn 7 secret wealth tips high net worth investors use that most investors miss (sponsor)",
           "translation": ""
         },
         {
-          "sentence": "The Federal Open Market Committee voted 12-0 to raise the federal funds target range by 25 basis points to 3.75%-4.00%, its first increase since 2023.",
-          "translation": ""
+          "sentence": "If you can afford it, the best week of the year to buy a house is from September 27 to October 3. This, of course, depends on whether you can pay cash or take on a 6.7% fixed-rate, 30-year mortgage.",
+          "translation": "如果您能夠承擔，9月27日至10月3日是最佳買家週期，購買房子時需要考慮是否能夠付現金，還是借取6.7%的固定利率，30年贊定贊金"
         },
         {
-          "sentence": "The unanimous hike puts the central bank directly at odds with President Donald Trump, who has called for lower borrowing costs and said earlier this month that the U.S. \"should be paying the lowest interest rate in the world.\"",
-          "translation": ""
+          "sentence": "\"Historically, this week offers the most favorable balance of market conditions for buyers. Inventory tends to be elevated, prices typically dip below their seasonal peak, buyer competition slows, and the overall pace of the market becomes more manageable,\" Realtor.com reports.",
+          "translation": "\"歷史上，從9月27日到10月3日是最有利於買家的市場情況平衡。供應量通常升高，價格通常在季節性峰值以下降低，買家競爭力減慢，整體市場的速度變得更可管理\" Realtor.com 的報告"
         },
         {
-          "sentence": "The CLARITY Act, which would establish a federal market structure for digital assets and clarify oversight between the Securities and Exchange Commission (SEC) and Commodity Futures Trading Commission (CFTC), failed to advance Tuesday in a 49-50 Senate cloture vote.",
-          "translation": ""
+          "sentence": "Of course, for some sellers, it could signal desperation. Summer is a good time to sell a house in most parts of the country. For sellers who didn't have luck, it could be a time to reprice and negotiate.",
+          "translation": "然而，對於某些賣家來說，這可能是 signalling 急迫的情況。夏季是出售房子在大部分國家的好時機。那些沒有 luck 的賣家可能需要重新設定價格並進行談判"
         },
         {
-          "sentence": "The Fed decision matters for Bitcoin because higher interest rates increase yields on lower-risk assets and tighten financial conditions, typically creating a tougher environment for speculative assets.",
-          "translation": ""
+          "sentence": "Supply and demand numbers compare favorably to the start of the year for home buyers. In most years, inventory is up 31.9% compared to the start of the year.",
+          "translation": "供應和需求數據與今年的開始相比，對於房子買家來說是有利的。通常在一年中，供應量比起開始年份都增加了31.9% "
         },
         {
-          "sentence": "Hours before the Fed announcement, a large Bitcoin holder moved 1,604 BTC, worth about $122.1 million, between two unidentified wallets.",
-          "translation": ""
-        },
-        {
-          "sentence": "Blockchain transaction tracker Whale Alert recorded the transaction at 12:20 UTC on Sept. 16, when Bitcoin was priced near $76,052.",
-          "translation": ""
-        },
-        {
-          "sentence": "The transfer does not, by itself, indicate that the Bitcoin was sold.",
-          "translation": ""
-        },
-        {
-          "sentence": "Both the sending and receiving addresses were labeled as unknown wallets, meaning there is no clear evidence that the funds were moved to an exchange or other venue where they could immediately be sold.",
-          "translation": ""
+          "sentence": "The real estate research firm says that this week, the number of buyers in the market has dipped compared to most weeks. It is simple supply and demand. High interest rates may have driven those buyers out of the market. In that case, the current situation could continue. Additionally, evidence suggests sellers have modestly dropped prices from their average of $416,000, which is near a record.",
+          "translation": "房地產研究公司表示，這週，市場中的買家人數比平常的週數少了。這是因為供應和需求的簡單現象。高利率可能已經驅走了那些買家。因此，目前的情況可能會持續下去。另外，證據表明賣家們已經輕微降低了價格，平均價格接近10萬美元的記錄"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Diesel Price Predictions: How Much Higher Prices Can Go as Diesel Prices Top Record $6 Per Gallon",
+      "title": "Assemblin Caverion prints €1.5B floating-rate note in bumper day for European high yield",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/energy/articles/diesel-price-predictions-much-higher-161226017.html",
-      "level1_blind": "U.S. diesel prices have moved into record territory. The national average price of diesel climbed to a record $6.23 per gallon on Sept. 14, after first breaking above the $6 threshold last week. And diesel is hitting new highs again today at around $6.31. According to AAA data, the national average diesel price reached about $6.05 per gallon on Sept. 11, 2026, surpassing the previous record established in June 2022. The latest price is roughly 68% higher than the level of about $3.71 per gallon a year ago, highlighting the extraordinary speed of the rally.\n\nThe surge is being driven by a global shortage of refined petroleum products rather than crude oil alone. Disruptions to Middle Eastern energy infrastructure, sharply reduced traffic through the Strait of Hormuz, and attacks on Russian refineries have reduced the availability of diesel and other middle distillates. The situation has become serious enough that diesel prices are now adding to broader inflation concerns while simultaneously creating a potentially attractive environment for U.S. refiners.\n\nNow it remains to be seen whether diesel prices have already peaked or whether another leg higher is possible with inventories still extremely tight and refinery capacity disrupted around the world.\n\nThe diesel rally accelerated in September after a series of supply disruptions tightened an already constrained market.\n\nWhile the U.S. national average diesel price had crossed $6 per gallon, U.S. inventories were about 13% below the five-year average, while the diesel crack spread, a key measure of refinery profitability, had reached a record level. The situation has worsened since then.\n\nMiddle Eastern oil and refined-product exports have been disrupted by the ongoing war involving Iran, while attacks on Russian refineries have reduced Russia's refining capacity. Reports show Russia's refining capacity had fallen sharply, and Moscow had banned diesel exports, while Gulf diesel exports have also been hit by disruptions around the Strait of Hormuz.\n\nThe latest developments in Saudi Arabia are adding another layer of risk. Oil prices jumped on Sept. 15 after attacks affected Saudi energy infrastructure, including the East-West pipeline, which has the capacity to move roughly 4 million barrels of oil per day toward the Red Sea, putting supply at risk. Brent crude climbed to about $107.55 per barrel, while WTI moved above $103.\n\nThat is important for diesel because refiners are operating in an environment where both crude stock and refined-product supply are under pressure.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/assemblin-caverion-prints-1-5b-162749040.html",
+      "level1_blind": {
+        "text": "Assemblin Caverion on Sept. 16 priced the second-largest euro-denominated floating-rate note (FRN) ever sold by a European high yield borrower, after the Stockholm-based technical installations group upsized its planned seven-year deal to €1.53 billion.\n\nThe bumper deal — which cleared at E+300, offered at par — is the largest euro FRN tranche since Wind Tre's record-breaking €2.25 billion deal back in 2017. It tops a €1.375 billion Nexi bond from 2018 and a €1.25 billion trade from TeamSystem last year.\n\nBig slateAssemblin Caverion's offering was also the largest in a €4.53 billion slate of high yield transactions to price on Sept. 16 — which according to LCD, represents the busiest day of the year so far in volume terms for the European primary high yield market, and the sixth-busiest on record.\n\nThe mammoth size of the new offering for Assemblin Caverion mainly reflects the fact that the group is effectively merging a higher-cost €780 million E+350 FRN into the new tranche, a strategy commonly used by high yield borrowers whose existing debt is already callable.\n\nThe deal, originally sized at €750 million, nevertheless reflects strong demand for floating-rate paper from an issuer that already has both fixed- and floating-rate debt in its structure.\n\n\"We were surprised seeing FRNs only, but it is the environment we prefer as an investor,\" said a manager at a high yield bond fund. He also said the fund has increased its allocation to floating-rate debt from 15% to about 20% in recent weeks, and plans to increase this allocation to roughly a quarter of the portfolio.\n\nFRN buyersThe creation of new European CLOs — the core buyers of high yield FRNs — has meanwhile remained robust this year, with new issuance running roughly in line with 2025's record volumes and new managers entering the market. While the number of warehouses open at any given time is difficult to quantify, speakers at S&P Global's European Structured Finance Conference in September put the number at 200.\n\nAssemblin Caverion was formed in 2024 after Triton merged its technical installations company Assemblin with Caverion, the Finnish construction systems group which the private equity firm took private the prior year for €1.12 billion. The bond deal will support a dividend to Triton."
+      },
       "level2_keywords": [
         {
-          "word": "refinery",
-          "ipa": "/ˈrɛfɪnəri/",
-          "meaning": " refinery（ refinery ）：一種能夠從原油中提取有機化合物的工廠",
-          "example": "汽車燃料的 refinery"
+          "word": "floating-rate note (FRN)",
+          "ipa": "/ˈfloʊtɪŋ reɪt noʊt/",
+          "meaning": "浮動利率債券，這是一種利率會隨著市場基準利率（例如歐洲銀行同業拆款利率Euribor）變動的債券，與固定利率債券不同，它能幫助投資者在利率上升時獲得更高的收益。",
+          "example": "Many investors prefer floating-rate notes in an environment of rising interest rates to protect their returns."
         },
         {
-          "word": "inflation",
-          "ipa": "/ɪnˈflæʃən/",
-          "meaning": "通貨膨脹（inflation）：指物價在一定時間內上升的速度",
-          "example": "經濟政策需要控制通貨膨脹"
+          "word": "high yield borrower",
+          "ipa": "/haɪ yiːld ˈbɑroʊər/",
+          "meaning": "高收益債券發行者，通常指信用評級較低、違約風險較高，因此必須提供較高利率才能吸引投資者的公司或實體。這類債券在台灣常被稱為『垃圾債券』，但財經界更常用『高收益債券』。",
+          "example": "As a high yield borrower, the company had to offer attractive interest rates to secure funding for its expansion."
         },
         {
-          "word": "export",
-          "ipa": "/ɛksˈpɔːrt/",
-          "meaning": "出口（export）：指從一個國家向其他國家輸出商品或服務",
-          "example": "我們的公司正在增加出口"
+          "word": "tranche",
+          "ipa": "/trɑːnʃ/",
+          "meaning": "債券批次或部分，指一項金融交易中被劃分為不同部分或層級的證券，每個批次可能有不同的風險、利率或到期日。",
+          "example": "The new bond offering was split into several tranches to cater to different investor appetites."
         },
         {
-          "word": "crack",
-          "ipa": "/kræk/",
-          "meaning": "裂 opening（crack）：一種斷裂或裂隙",
-          "example": "玻璃的裂隙"
+          "word": "callable debt",
+          "ipa": "/ˈkɔːləbəl dɛt/",
+          "meaning": "可提前贖回債務，指發行公司有權在債券到期前，按照特定條款將債券買回（贖回）的債務。這通常在利率下降時對發行者有利，因為他們可以發行新債來取代舊債，降低融資成本。",
+          "example": "The company decided to refinance its callable debt when market interest rates dropped significantly."
         },
         {
-          "word": "distillate",
-          "ipa": "/dɪˈstɪleɪt/",
-          "meaning": "分離（distillate）：將混合物分離成不同的成分",
-          "example": "酒精的分離"
+          "word": "CLOs (Collateralized Loan Obligations)",
+          "ipa": "/siː ɛl oʊz/",
+          "meaning": "擔保貸款憑證，這是一種將多筆企業貸款打包成證券，再依風險和收益分成不同層級（tranches）出售給投資者的金融產品。它們是高收益浮動利率債券的重要買家。",
+          "example": "The robust creation of new European CLOs has fueled demand for high yield floating-rate notes."
         }
       ],
-      "level2_context": "這篇文章主要探討美國 Diesel價格的上升，原因包括全球原油和中間製品短缺，導致美國 Diesel價格達到新高。這對於美國的經濟和能源產業都有重要的影響。",
+      "level2_context": "各位同學，這篇新聞報導的是歐洲高收益債券市場的一件大事。瑞典的技術安裝集團Assemblin Caverion發行了一筆高達15.3億歐元的浮動利率債券（FRN），這不僅是歐洲高收益市場有史以來第二大的歐元計價浮動利率債券，也創下了今年歐洲高收益債券發行量單日新高。這背後反映了幾個重要的財經趨勢：首先，在當前利率環境下，浮動利率債券對投資者來說更具吸引力，因為它們的收益會隨市場利率上升而增加，有助於對抗通膨風險。其次，高收益債券市場的活躍，也顯示投資者對風險資產的胃納量增加，同時也可能是因為市場上尋求更高收益的資金充沛。這筆交易的巨大規模，部分原因在於該公司將現有成本較高的債務併入新的發行中，這是一種常見的債務管理策略。而擔保貸款憑證（CLOs）作為高收益浮動利率債券的主要買家，其市場的蓬勃發展也為這類債券提供了強勁的需求支撐。這對整個歐洲的金融市場，特別是高收益債券板塊，都具有重要的指標意義。",
       "level3_translation": [
         {
-          "sentence": "U.S. diesel prices have moved into record territory.",
-          "translation": "美國 Diesel價格已經達到新高"
+          "sentence": "Assemblin Caverion on Sept. 16 priced the second-largest euro-denominated floating-rate note (FRN) ever sold by a European high yield borrower, after the Stockholm-based technical installations group upsized its planned seven-year deal to €1.53 billion.",
+          "translation": "Assemblin Caverion這家總部位於斯德哥爾摩的技術安裝集團，在9月16日為其原定七年期的債券增額發行至15.3億歐元後，成功定價了歐洲高收益債券發行者有史以來第二大筆的歐元計價浮動利率債券（FRN）。"
         },
         {
-          "sentence": "The national average price of diesel climbed to a record $6.23 per gallon on Sept. 14, after first breaking above the $6 threshold last week.",
-          "translation": "國內平均 Diesel價格於 2026 年 9 月 14 日達到新高 6.23 美元／加仑，首次超越 6 美元的門檻"
+          "sentence": "The bumper deal — which cleared at E+300, offered at par — is the largest euro FRN tranche since Wind Tre's record-breaking €2.25 billion deal back in 2017.",
+          "translation": "這筆超大額的交易——最終定價在歐洲銀行同業拆款利率（Euribor）加300個基點，並以面額發行——是自2017年Wind Tre創紀錄的22.5億歐元交易以來，規模最大的歐元浮動利率債券批次。"
         },
         {
-          "sentence": "And diesel is hitting new highs again today at around $6.31.",
-          "translation": "而 Diesel價格今天又再上升到約 6.31 美元"
+          "sentence": "It tops a €1.375 billion Nexi bond from 2018 and a €1.25 billion trade from TeamSystem last year.",
+          "translation": "這筆交易超越了2018年Nexi發行的13.75億歐元債券，以及去年TeamSystem的12.5億歐元交易。"
         },
         {
-          "sentence": "According to AAA data, the national average diesel price reached about $6.05 per gallon on Sept. 11, 2026, surpassing the previous record established in June 2022.",
-          "translation": "根據 AAA數據，國內平均 Diesel價格於 2026 年 9 月 11 日達到約 6.05 美元／加仑，超越了 2022 年 6 月的前身"
+          "sentence": "Big slateAssemblin Caverion's offering was also the largest in a €4.53 billion slate of high yield transactions to price on Sept. 16 — which according to LCD, represents the busiest day of the year so far in volume terms for the European primary high yield market, and the sixth-busiest on record.",
+          "translation": "Assemblin Caverion的這筆發行，也是9月16日總計45.3億歐元高收益債券交易中規模最大的一筆——根據LCD的數據，這一天是今年迄今為止歐洲初級高收益市場交易量最繁忙的一天，也是有紀錄以來第六繁忙的日子。"
         },
         {
-          "sentence": "The latest price is roughly 68% higher than the level of about $3.71 per gallon a year ago.",
-          "translation": "最新價格約為去年 3.71 美元／加仑的 68% 高"
+          "sentence": "The mammoth size of the new offering for Assemblin Caverion mainly reflects the fact that the group is effectively merging a higher-cost €780 million E+350 FRN into the new tranche, a strategy commonly used by high yield borrowers whose existing debt is already callable.",
+          "translation": "Assemblin Caverion這筆新發行規模如此龐大，主要反映了該集團實際上是將一筆成本較高、7.8億歐元、定價在Euribor加350個基點的浮動利率債券，併入到新的債券批次中，這是一種高收益債券發行者常用來處理其現有可提前贖回債務的策略。"
         },
         {
-          "sentence": "The surge is being driven by a global shortage of refined petroleum products rather than crude oil alone.",
-          "translation": "這次短缺主要是由於全球中間製品短缺，而不是原油 alone"
+          "sentence": "The deal, originally sized at €750 million, nevertheless reflects strong demand for floating-rate paper from an issuer that already has both fixed- and floating-rate debt in its structure.",
+          "translation": "儘管這筆交易最初規模預計為7.5億歐元，但最終結果仍反映出市場對這家發行者所發行的浮動利率債券有著強勁的需求，而該公司在其資本結構中原本就同時擁有固定利率和浮動利率債務。"
         },
         {
-          "sentence": "Disruptions to Middle Eastern energy infrastructure, sharply reduced traffic through the Strait of Hormuz, and attacks on Russian refineries have reduced the availability of diesel and other middle distillates.",
-          "translation": "中東能源管道的中斷、海峽荷魯茲交通量的減少和俄羅斯 refinery的攻擊，導致 Diesel和其他中間製品的供應減少"
+          "sentence": "\"We were surprised seeing FRNs only, but it is the environment we prefer as an investor,\" said a manager at a high yield bond fund.",
+          "translation": "一位高收益債券基金經理表示：「我們很驚訝只看到浮動利率債券，但作為投資者，這正是我們偏好的市場環境。」"
         },
         {
-          "sentence": "The situation has become serious enough that diesel prices are now adding to broader inflation concerns while simultaneously creating a potentially attractive environment for U.S. refiners.",
-          "translation": "這種情況已經嚴重到， Diesel價格現在正在加重通貨膨脹的關注，而同時也創造了一個可能吸引美國 refinery 的環境"
+          "sentence": "He also said the fund has increased its allocation to floating-rate debt from 15% to about 20% in recent weeks, and plans to increase this allocation to roughly a quarter of the portfolio.",
+          "translation": "他也提到，該基金近幾週已將浮動利率債務的配置比例從15%提高到約20%，並計劃將此配置進一步增加到投資組合的約四分之一。"
         },
         {
-          "sentence": "Now it remains to be seen whether diesel prices have already peaked or whether another leg higher is possible with inventories still extremely tight and refinery capacity disrupted around the world.",
-          "translation": "現在還需要觀察 Diesel價格是否已經達到峰值，還有是否有可能再上升，儘管全球存貨仍然非常緊張， refinery 產能受到嚴重影響"
+          "sentence": "FRN buyersThe creation of new European CLOs — the core buyers of high yield FRNs — has meanwhile remained robust this year, with new issuance running roughly in line with 2025's record volumes and new managers entering the market.",
+          "translation": "與此同時，作為高收益浮動利率債券核心買家的歐洲擔保貸款憑證（CLOs）今年持續強勁增長，新發行量大致與2025年的創紀錄水準持平，並且有新的基金經理進入市場。"
         },
         {
-          "sentence": "The diesel rally accelerated in September after a series of supply disruptions tightened an already constrained market.",
-          "translation": "9 月份， Diesel價格的漲升加速，主要是因為一系列供應中斷使得市場更加緊張"
+          "sentence": "While the number of warehouses open at any given time is difficult to quantify, speakers at S&P Global's European Structured Finance Conference in September put the number at 200.",
+          "translation": "雖然任何時候運作中的倉儲式融資工具（warehouses）數量難以量化，但標普全球（S&P Global）9月在歐洲結構性融資會議上的演講者指出，這個數字大約是200個。"
         },
         {
-          "sentence": "While the U.S. national average diesel price had crossed $6 per gallon, U.S. inventories were about 13% below the five-year average, while the diesel crack spread, a key measure of refinery profitability, had reached a record level.",
-          "translation": "而且，美國國內平均 Diesel價格已經超越 6 美元／加仑，儘管儲備量仍然低於五年平均值， Diesel crack  spread 的水平已經達到新高"
+          "sentence": "Assemblin Caverion was formed in 2024 after Triton merged its technical installations company Assemblin with Caverion, the Finnish construction systems group which the private equity firm took private the prior year for €1.12 billion.",
+          "translation": "Assemblin Caverion是在2024年成立的，當時Triton這家私募股權公司將其技術安裝公司Assemblin與芬蘭建築系統集團Caverion合併，而Triton在前一年以11.2億歐元將Caverion私有化。"
         },
         {
-          "sentence": "Middle Eastern oil and refined-product exports have been disrupted by the ongoing war involving Iran, while attacks on Russian refineries have reduced Russia's refining capacity.",
-          "translation": "中東原油和中間製品出口受到伊朗戰爭的干擾，而俄羅斯 refinery的攻擊減少了俄羅斯的 refinery 產能"
-        },
-        {
-          "sentence": "Reports show Russia's refining capacity had fallen sharply, and Moscow had banned diesel exports, while Gulf diesel exports have also been hit by disruptions around the Strait of Hormuz.",
-          "translation": "報告顯示，俄羅斯 refinery 產能嚴重減少，莫斯科禁止出口 Diesel，同時海峽荷魯茲地區的 Diesel出口也受到干擾"
-        },
-        {
-          "sentence": "The latest developments in Saudi Arabia are adding another layer of risk.",
-          "translation": "沙特阿拉伯最新的發展正在增加風險"
-        },
-        {
-          "sentence": "Oil prices jumped on Sept. 15 after attacks affected Saudi energy infrastructure, including the East-West pipeline, which has the capacity to move roughly 4 million barrels of oil per day toward the Red Sea, putting supply at risk.",
-          "translation": "9 月 15 日，油價急劇上升，主要是因為攻擊影響了沙特能源管道，包括東西管道，該管道可移動大約 4,000,000 個桶油的日產量，進入紅海，增加了供應風險"
-        },
-        {
-          "sentence": "Brent crude climbed to about $107.55 per barrel, while WTI moved above $103.",
-          "translation": "布倫特原油價格上升到約 107.55 美元／桶，WTI 原油價格也超過 103 美元／桶"
-        },
-        {
-          "sentence": "That is important for diesel because refiners are operating in an environment where both crude stock and refined-product supply are under pressure.",
-          "translation": "這對於 Diesel 來說非常重要，因為 refinery 們正在處於一個供應壓力很大的環境中，兩種原油儲備和中間製品供應都受到壓力"
+          "sentence": "The bond deal will support a dividend to Triton.",
+          "translation": "這筆債券交易將用於支付給Triton的股息。"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Salesforce Stock Dips Ahead Of Investor Briefing Amid System Outage",
+      "title": "Corning Just Signed a Multibillion-Dollar Fiber Deal for AI and Broadband With Verizon. What That Means for GLW Stock.",
       "source": "Yahoo Finance",
-      "link": "https://www.investors.com/news/technology/salesforce-stock-dips-ahead-of-investor-briefing-amid-system-outage/?src=A00220&yptr=yahoo",
-      "level1_blind": "Salesforce (CRM) stock dipped Wednesday ahead of an investor briefing after the market close and reports of a global system outage impacting the enterprise software maker's services. The global outage hit early Wednesday and was fixed in the morning, said reports. Salesforce's annual Dreamforce customer conference started Tuesday. At the event, Salesforce unveiled AIforce, a software interface layer that brings…\n\n9/15/2026\n\t\t\t\t\tThe S&P 500 and Nasdaq undercut key support as oil prices and Treasury yields jumped. How will bonds react to...\n\nGet instant access to exclusive stock lists, expert market analysis and powerful tools with 2 months of IBD Digital for only $20!\n\nLearn how you can make more money with IBD's investing tools, top-performing stock lists, and educational content.\n\nInformation in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we believe to be reliable, but we make no guarantee as to its accuracy, timeliness, or suitability, including with respect to information that appears in closed captioning. Historical investment performances are no indication or guarantee of future success or performance. Authors/presenters may own the stocks they discuss. We make no representations or warranties regarding the advisability of investing in any particular securities or utilizing any specific investment strategies. Information is subject to change without notice. For information on use of our services, please see our Terms of Use.\n\n*Real-time prices by Nasdaq Last Sale. Real-time quote and/or trade prices are not sourced from all markets. Ownership data provided by LSEG and Estimate data provided by FactSet.\n\nIBD, IBD Digital, IBD Live, IBD Weekly, Investor's Business Daily, Leaderboard, MarketDiem, MarketSurge and other marks are trademarks owned by Investor's Business Daily, LLC.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/corning-just-signed-multibillion-dollar-162101149.html",
+      "level1_blind": "Corning (GLW) is now home to another massive fiber deal. On Sept. 8, Verizon (VZ) struck a multibillion-dollar supply agreement with Corning for more than 80 million miles of high-density optical fiber and connectivity solutions through 2032. Fiber not only supports Verizon's broadband initiative but is needed for the construction of the long-haul, low-latency network necessary to link artificial intelligence (AI) data centers.\n\nThe timing is particularly fortuitous for Corning. The company already has a multibillion-dollar deal in place with Amazon (AMZN), as well as an initiative tied to Nvidia's (NVDA) AI infrastructure construction. Simply put, Corning is gaining traction in several different layers of the network, both inside and outside AI data centers.\n\nCorning is a materials science corporation with its headquarters in Corning, New York. The company specializes in glass, ceramics, optical physics, and manufacturing. Corning offers its products in optical communications, mobile consumer electronics, displays, automotive, and other areas. Currently, Corning has a market capitalization of approximately $124 billion.\n\nGLW stock currently trades near the $148 level. Although the stock is trading about 45% below its 52-week high of $271.78, shares still have appreciated about 70% year-to-date (YTD). This beats the S¼P 500 Index ($SPX) over the same period, which has gained roughly 11% so far in 2026. GLW stock has also almost doubled from its 52-week low of $77.05.\n\nAll this performance leaves Corning with a tough valuation profile. GLW stock trades at about 43.7 times forward earnings and 7.9 times sales. But there are some fundamental reasons behind this valuation premium, because Corning recently won another big customer. Indeed, the new agreement with Verizon comes after a multibillion-dollar contract with Amazon. The company also has a partnership with Nvidia for the expansion of U.S. optical connectivity manufacturing capacity by 10 times and fiber production capacity by more than 50%.\n\nCorning pays a quarterly dividend of $0.28 per share, providing a yield of roughly 0.8% at the latest share price. The next dividend payment will be made on Sept. 29 to shareholders of record on Aug. 31.\n\nCorning reported a strong second quarter. Core sales rose 17% year-over-year (YOY) to $4.74 billion, while core EPS jumped 30% to $0.78. Earnings beat the $0.76 consensus estimate, while revenue came in above the $4.63 billion forecast. On a GAAP basis, sales were $4.51 billion, and GAAP EPS rose 19% to $0.64.\n\nOf course, what matters even more for the AI investment thesis is that Optical Communications sales grew 32% YOY to $2.07 billion in Q2. Within that, Enterprise Networks revenue skyrocketed 65%, “with Gen AI product sales growing significantly faster.” Core operating margin expanded by 190 basis points to 20.9%, while adjusted free cash flow stood at $1.42 billion.",
       "level2_keywords": [
         {
-          "word": "system",
-          "ipa": "/sɪstəm/",
-          "meaning": "系統",
-          "example": "企業的 IT 系統"
+          "word": "Corning",
+          "ipa": "KOR-ning",
+          "meaning": "Corning是一家材料科學公司，總部位於紐約州科林",
+          "example": "Corning的玻璃产品在全球范围内广泛使用"
         },
         {
-          "word": "outage",
-          "ipa": "/ˈaʊtɪdʒ/",
-          "meaning": "停機",
-          "example": "全球系統停機"
+          "word": "fiber",
+          "ipa": "FAY-ber",
+          "meaning": "纖維是指由玻璃纖維或其他材料組成的材料",
+          "example": "纖維在光通信中扮演着至关重要的角色"
         },
         {
-          "word": "software",
-          "ipa": "/ˈsoʊfərweɪ/",
-          "meaning": "程式",
-          "example": "企業的軟體"
+          "word": "Verizon",
+          "ipa": "VUR-zi-urn",
+          "meaning": "Verizon是一家美国的 telecommunications 企業",
+          "example": "Verizon的光纖網路在美国广泛使用"
         },
         {
-          "word": "interface",
-          "ipa": "/ɪnˈtɛrsfeɪs/",
-          "meaning": "介面",
-          "example": "程式的介面"
+          "word": "AI",
+          "ipa": "AY-ee",
+          "meaning": "人工智能是指人工智能技术的应用",
+          "example": "AI在各个领域都有着广泛的应用"
         },
         {
-          "word": "enterprise",
-          "ipa": "/ˈɛntərbɪz/",
-          "meaning": "企業",
-          "example": "企業的經營"
+          "word": "Broadband",
+          "ipa": "BROH-dband",
+          "meaning": "广band是指高速宽带的网络",
+          "example": "广band在家中和企业中广泛使用"
         }
       ],
-      "level2_context": "美國企業 Salesforce 的系統出現停機，影響其服務。這是企業在全球化的背景下面臨的挑戰。",
+      "level2_context": "這篇文章是關於Corning公司與Verizon公司的光纖合同。這個合同對Corning公司來說是一個重要的交易， 因為它可以幫助公司的光纖业务快速發展。這也對Verizon公司來說是一個重要的交易，因為它可以幫助公司的光纖網路在美国广泛使用。這兩家公司的合同也對AI和广band的发展有着重要的影響",
       "level3_translation": [
         {
-          "sentence": "Salesforce (CRM) stock dipped Wednesday ahead of an investor briefing after the market close and reports of a global system outage impacting the enterprise software maker's services.",
-          "translation": "美國企業 Salesforce 的股票在周三下跌，為了迎接投資家會議，同時受到系統停機的影響，影響其服務。"
+          "sentence": "Corning (GLW) is now home to another massive fiber deal.",
+          "translation": "Corning (GLW) recently signed a huge fiber contract."
         },
         {
-          "sentence": "The global outage hit early Wednesday and was fixed in the morning, said reports.",
-          "translation": "系統停機在早上的時間發生，到了上午後就被修復了，根據報導說明。"
+          "sentence": "On Sept. 8, Verizon (VZ) struck a multibillion-dollar supply agreement with Corning for more than 80 million miles of high-density optical fiber and connectivity solutions through 2032.",
+          "translation": "在9月8日，Verizon (VZ) 和Corning签署了一个价值数十亿美元的纤维合同，涵盖了80多万英里高密度光纤和连接解决方案，到2032年"
         },
         {
-          "sentence": "Salesforce's annual Dreamforce customer conference started Tuesday.",
-          "translation": " Salesforce 的年度 Dreamforce 客戶會議從周二開始。"
+          "sentence": "Fiber not only supports Verizon's broadband initiative but is needed for the construction of the long-haul, low-latency network necessary to link artificial intelligence (AI) data centers.",
+          "translation": "纖維不僅支持Verizon的宽带计划，而且需要用于构建连接人工智能数据中心所需的长途，低延迟网络"
         },
         {
-          "sentence": "At the event, Salesforce unveiled AIforce, a software interface layer that brings…",
-          "translation": "在會議上，Salesforce 表示了 AIforce，是一個程式介面層，能夠帶來…"
+          "sentence": "Corning is a materials science corporation with its headquarters in Corning, New York.",
+          "translation": "Corning是一家材料科學公司，总部位于纽约州科林"
         },
         {
-          "sentence": "9/15/2026\n\t\t\t\t\tThe S&P 500 and Nasdaq undercut key support as oil prices and Treasury yields jumped.",
-          "translation": "2026 年 9 月 15 日\n\t\t\t\t\tS& P 500 和 NASDAQ 下穿關鍵支撐，油價和國債利率跳升。"
+          "sentence": "The company specializes in glass, ceramics, optical physics, and manufacturing.",
+          "translation": "该公司专门从事玻璃、陶瓷、光学物理和制造等领域"
         },
         {
-          "sentence": "How will bonds react to...\n\nGet instant access to exclusive stock lists, expert market analysis and powerful tools with 2 months of IBD Digital for only $20!",
-          "translation": " bonds 如何對於…\n\n立即獲得專業市場分析和強大的工具，僅需 2 個月的 IBD Digital，價格僅 $20!"
+          "sentence": "Corning offers its products in optical communications, mobile consumer electronics, displays, automotive, and other areas.",
+          "translation": "Corning在光通信、移动消费电子、显示器、汽车等领域提供产品"
         },
         {
-          "sentence": "Learn how you can make more money with IBD's investing tools, top-performing stock lists, and educational content.",
-          "translation": "了解如何通過 IBD 的投資工具、最佳的股票列表和教育性內容，增加您的收入。"
+          "sentence": "Currently, Corning has a market capitalization of approximately $124 billion.",
+          "translation": "目前，Corning的市场资本化值约为1,200亿美元"
         },
         {
-          "sentence": "Information in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities.",
-          "translation": "Investor's Business Daily 的資訊僅供教育性和資訊性目的，且不應被視為購買或出售證券的建議或邀請。"
+          "sentence": "GLW stock currently trades near the $148 level.",
+          "translation": "目前，GLW 股票处于 148 美元附近"
         },
         {
-          "sentence": "The information has been obtained from sources we believe to be reliable, but we make no guarantee as to its accuracy, timeliness, or suitability, including with respect to information that appears in closed captioning.",
-          "translation": "我們從可信的來源取得資訊，但我們不能保證其準確性、時效性或適合性，包括關於在閉 Caption 中出現的資訊。"
+          "sentence": "Although the stock is trading about 45% below its 52-week high of $271.78, shares still have appreciated about 70% year-to-date (YTD).",
+          "translation": "尽管股票目前处于 52 周高点的 45% 以下，但股价仍有 70% 的年内上涨"
         },
         {
-          "sentence": "Historical investment performances are no indication or guarantee of future success or performance.",
-          "translation": "過去的投資成果並不能預示未來的成功或表現。"
+          "sentence": "This beats the SüP 500 Index ($SPX) over the same period, which has gained roughly 11% so far in 2026.",
+          "translation": "这超越了SüP 500 指数（$SPX）在同期的 11% 的回报"
         },
         {
-          "sentence": "Authors/presenters may own the stocks they discuss.",
-          "translation": "討論的股票可能是作者或演講者所擁有的股票。"
+          "sentence": "GLW stock has also almost doubled from its 52-week low of $77.05.",
+          "translation": "GLW 股票也几乎翻倍了其 52 周最低点的 77.05 美元"
         },
         {
-          "sentence": "We make no representations or warranties regarding the advisability of investing in any particular securities or utilizing any specific investment strategies.",
-          "translation": "我們不提供任何投資股票或特定投資策略的建議或保證。"
+          "sentence": "All this performance leaves Corning with a tough valuation premium.",
+          "translation": "这使得Corning面临着一个很高的估值premium"
         },
         {
-          "sentence": "Information is subject to change without notice.",
-          "translation": "資訊可能在任何時候更改，沒有任何預警。"
+          "sentence": "But there are some fundamental reasons behind this valuation premium, because Corning recently won another big customer.",
+          "translation": "但有几个关键因素使得这种估值premium有道理，因为Corning recently won another big customer."
         },
         {
-          "sentence": "For information on use of our services, please see our Terms of Use.",
-          "translation": "關於我們服務的使用方式，請參考我們的使用條款。"
+          "sentence": "Indeed, the new agreement with Verizon comes after a multibillion-dollar contract with Amazon.",
+          "translation": "事实上，Verizon 与 Corning 的新合同是在 Amazon签订了数十亿美元的合同之后的"
         },
         {
-          "sentence": "*Real-time prices by Nasdaq Last Sale. Real-time quote and/or trade prices are not sourced from all markets. Ownership data provided by LSEG and Estimate data provided by FactSet.",
-          "translation": "* NASDAQ 最新成交價格。實時報價和交易價格可能不來自所有市場。所有權資訊由 LSEG 提供，估計數據由 FactSet 提供。"
+          "sentence": "The company also has a partnership with Nvidia for the expansion of U.S. optical connectivity manufacturing capacity by 10 times and fiber production capacity by more than 50%.",
+          "translation": "该公司还与 NVIDIA 合作，扩大了美国光通信制造能力的 10 倍，纤维生产能力的 50% 以上"
         },
         {
-          "sentence": "IBD, IBD Digital, IBD Live, IBD Weekly, Investor's Business Daily, Leaderboard, MarketDiem, MarketSurge and other marks are trademarks owned by Investor's Business Daily, LLC.",
-          "translation": "IBD、 IBD Digital、 IBD Live、 IBD 週刊、 Investor's Business Daily、 Leaderboard、 MarketDiem、 MarketSurge 等標誌是 Investor's Business Daily LLC 所擁有的商標。"
+          "sentence": "Corning pays a quarterly dividend of $0.28 per share, providing a yield of roughly 0.8% at the latest share price.",
+          "translation": "Corning 每季度支付 0.28 美元的分红，提供了近 0.8% 的回报率"
+        },
+        {
+          "sentence": "The next dividend payment will be made on Sept. 29 to shareholders of record on Aug. 31.",
+          "translation": "下个分红支付将于 9 月 29 日向记录在册的股东支付"
+        },
+        {
+          "sentence": "Corning reported a strong second quarter.",
+          "translation": "Corning 在第二季度报告了强劲的业绩"
+        },
+        {
+          "sentence": "Core sales rose 17% year-over-year (YOY) to $4.74 billion.",
+          "translation": "核心销售额在同期上涨了 17%，达到 4.74 亿美元"
+        },
+        {
+          "sentence": "While core EPS jumped 30% to $0.78.",
+          "translation": "而核心净利润率在同期上涨了 30%，达到 0.78 美元"
+        },
+        {
+          "sentence": "Earnings beat the $0.76 consensus estimate.",
+          "translation": "利润超过了预期的 0.76 美元"
+        },
+        {
+          "sentence": "While revenue came in above the $4.63 billion forecast.",
+          "translation": "而销售额超过了预期的 4.63 亿美元"
+        },
+        {
+          "sentence": "On a GAAP basis, sales were $4.51 billion.",
+          "translation": "在 GAAP 基础上，销售额为 4.51 亿美元"
+        },
+        {
+          "sentence": "GAAP EPS rose 19% to $0.64.",
+          "translation": "GAAP净利润率在同期上涨了 19%，达到 0.64 美元"
+        },
+        {
+          "sentence": "Of course, what matters even more for the AI investment thesis is that Optical Communications sales grew 32% YOY to $2.07 billion in Q2.",
+          "translation": "当然，对于人工智能投资理念来说，最重要的是，光通信销售额在同期上涨了 32%，达到 2.07 亿美元"
+        },
+        {
+          "sentence": "Within that, Enterprise Networks revenue skyrocketed 65%.",
+          "translation": "在那之中，企业网络销售额大幅上涨了 65%."
+        },
+        {
+          "sentence": "Core operating margin expanded by 190 basis points to 20.9%.",
+          "translation": "核心运营利润率在同期上涨了 190 basis point，达到 20.9%."
+        },
+        {
+          "sentence": "While adjusted free cash flow stood at $1.42 billion.",
+          "translation": "而调整后的净现金流为 1.42 亿美元"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "在金融市場中，王道銀行的股價波動與美商高盛的買賣行為有著密切的關係。美商高盛的買賣行為可能對王道銀行的股價產生影響，反之亦然。因此，分析美商高盛的買賣行為和王道銀行的股價波動之間的因果關係，可能能夠提供關於金融市場的重要洞見。同時，考慮到王道銀行的股價波動也可能對美商高盛的買賣行為產生影響，因此，需要進一步分析這兩者的關係，以便於更好地理解金融市場的動態。"
+    "id": "market_connection",
+    "market_connection": "在現代金融市場中，Assemblin Caverion的€1.5B浮動利率債券交易與Corning的Verizon債券交易之間存在著深深的連結。 floats_rate債券的增加需求與Corning的高密度光纖需求增強有關，而Verizon的債券交易則是為了支持Corning的高密度光纖需求而進行的。這兩個交易的共同點在於，兩者都與Corning的高密度光纖需求增強有關，而Corning的高密度光纖需求增強則是為了支持Verizon的AI和廣band需求而進行的。因此，Assemblin Caverion的€1.5B浮動利率債券交易與Corning的Verizon債券交易之間存在著一個連結的因果關係，兩者都與Corning的高密度光纖需求增強有關。"
   }
 }
