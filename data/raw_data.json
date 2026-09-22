@@ -1,130 +1,130 @@
 {
-  "date": "2026-09-21",
-  "stock_market_date": "2026-09-18",
+  "date": "2026-09-22",
+  "stock_market_date": "2026-09-21",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 77685143
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 235893466
         },
         {
           "rank": 2,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 42774232
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 33144705
         },
         {
           "rank": 3,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 32233006
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 24488572
         },
         {
           "rank": 4,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 28365568
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_buy_shares": 15575211
         },
         {
           "rank": 5,
-          "stock_name": "京元電子",
-          "ticker": "2449",
-          "net_buy_shares": 21780880
+          "stock_name": "彩晶",
+          "ticker": "6116",
+          "net_buy_shares": 15096160
         },
         {
           "rank": 6,
           "stock_name": "南茂",
           "ticker": "8150",
-          "net_buy_shares": 13540649
+          "net_buy_shares": 14263698
         },
         {
           "rank": 7,
-          "stock_name": "矽格",
-          "ticker": "6257",
-          "net_buy_shares": 13229168
+          "stock_name": "大同",
+          "ticker": "2371",
+          "net_buy_shares": 8130762
         },
         {
           "rank": 8,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_buy_shares": 9853099
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_buy_shares": 7344803
         },
         {
           "rank": 9,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_buy_shares": 9335275
+          "stock_name": "統一證",
+          "ticker": "2855",
+          "net_buy_shares": 7302558
         },
         {
           "rank": 10,
-          "stock_name": "中華電",
-          "ticker": "2412",
-          "net_buy_shares": 7428946
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_buy_shares": 6268529
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -52162597
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -24016466
         },
         {
           "rank": 2,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_sell_shares": -23884693
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -23211982
         },
         {
           "rank": 3,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -22782285
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_sell_shares": -19712424
         },
         {
           "rank": 4,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_sell_shares": -17250967
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -15742529
         },
         {
           "rank": 5,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -16340894
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_sell_shares": -9828289
         },
         {
           "rank": 6,
-          "stock_name": "和益",
-          "ticker": "1709",
-          "net_sell_shares": -13361132
+          "stock_name": "瑞軒",
+          "ticker": "2489",
+          "net_sell_shares": -8966505
         },
         {
           "rank": 7,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_sell_shares": -11776156
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_sell_shares": -8496526
         },
         {
           "rank": 8,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_sell_shares": -11354448
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_sell_shares": -8106917
         },
         {
           "rank": 9,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -10938712
+          "stock_name": "新唐",
+          "ticker": "4919",
+          "net_sell_shares": -6481750
         },
         {
           "rank": 10,
-          "stock_name": "益航",
-          "ticker": "2601",
-          "net_sell_shares": -10745202
+          "stock_name": "台泥",
+          "ticker": "1101",
+          "net_sell_shares": -5824469
         }
       ],
       "trust_buy": [
@@ -132,247 +132,247 @@
           "rank": 1,
           "stock_name": "聯電",
           "ticker": "2303",
-          "net_buy_shares": 13630188
+          "net_buy_shares": 7900796
         },
         {
           "rank": 2,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 9293811
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_buy_shares": 4558342
         },
         {
           "rank": 3,
-          "stock_name": "藥華藥",
-          "ticker": "6446",
-          "net_buy_shares": 8555302
+          "stock_name": "台達電",
+          "ticker": "2308",
+          "net_buy_shares": 3392561
         },
         {
           "rank": 4,
-          "stock_name": "廣達",
-          "ticker": "2382",
-          "net_buy_shares": 5115730
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 3134000
         },
         {
           "rank": 5,
-          "stock_name": "興富發",
-          "ticker": "2542",
-          "net_buy_shares": 4108390
+          "stock_name": "昇陽半導體",
+          "ticker": "8028",
+          "net_buy_shares": 2935000
         },
         {
           "rank": 6,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 3977574
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 2704000
         },
         {
           "rank": 7,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 3803009
+          "stock_name": "聯鈞",
+          "ticker": "3450",
+          "net_buy_shares": 2067000
         },
         {
           "rank": 8,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 3630311
+          "stock_name": "廣達",
+          "ticker": "2382",
+          "net_buy_shares": 1675299
         },
         {
           "rank": 9,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 3044019
+          "stock_name": "全新",
+          "ticker": "2455",
+          "net_buy_shares": 1525000
         },
         {
           "rank": 10,
-          "stock_name": "寶成",
-          "ticker": "9904",
-          "net_buy_shares": 3015862
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 1110000
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_sell_shares": -8530045
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -4898002
         },
         {
           "rank": 2,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_sell_shares": -5834995
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_sell_shares": -3973287
         },
         {
           "rank": 3,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_sell_shares": -5024975
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_sell_shares": -3164181
         },
         {
           "rank": 4,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_sell_shares": -4364791
+          "stock_name": "南電",
+          "ticker": "8046",
+          "net_sell_shares": -1491045
         },
         {
           "rank": 5,
-          "stock_name": "力成",
-          "ticker": "6239",
-          "net_sell_shares": -2618835
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_sell_shares": -1313070
         },
         {
           "rank": 6,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_sell_shares": -2448561
+          "stock_name": "力成",
+          "ticker": "6239",
+          "net_sell_shares": -1231175
         },
         {
           "rank": 7,
-          "stock_name": "世芯-KY",
-          "ticker": "3661",
-          "net_sell_shares": -2126268
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_sell_shares": -1139430
         },
         {
           "rank": 8,
-          "stock_name": "台虹",
-          "ticker": "8039",
-          "net_sell_shares": -1991000
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_sell_shares": -1102504
         },
         {
           "rank": 9,
-          "stock_name": "富邦金",
-          "ticker": "2881",
-          "net_sell_shares": -1921652
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_sell_shares": -1032430
         },
         {
           "rank": 10,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_sell_shares": -1913390
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -855220
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 11098266
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 11358997
         },
         {
           "rank": 2,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 4884278
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 4170000
         },
         {
           "rank": 3,
-          "stock_name": "益航",
-          "ticker": "2601",
-          "net_buy_shares": 3113000
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 3389500
         },
         {
           "rank": 4,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 3021168
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 3128309
         },
         {
           "rank": 5,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 2818996
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_buy_shares": 1484565
         },
         {
           "rank": 6,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 2473892
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_buy_shares": 960199
         },
         {
           "rank": 7,
-          "stock_name": "京元電子",
-          "ticker": "2449",
-          "net_buy_shares": 2005322
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 945161
         },
         {
           "rank": 8,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_buy_shares": 1678565
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_buy_shares": 932593
         },
         {
           "rank": 9,
-          "stock_name": "農林",
-          "ticker": "2913",
-          "net_buy_shares": 1573000
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_buy_shares": 806000
         },
         {
           "rank": 10,
-          "stock_name": "中電",
-          "ticker": "1611",
-          "net_buy_shares": 1297000
+          "stock_name": "台達電",
+          "ticker": "2308",
+          "net_buy_shares": 698795
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -1607000
+          "stock_name": "益航",
+          "ticker": "2601",
+          "net_sell_shares": -1235237
         },
         {
           "rank": 2,
-          "stock_name": "光鼎",
-          "ticker": "6226",
-          "net_sell_shares": -901387
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -1007777
         },
         {
           "rank": 3,
-          "stock_name": "大聯大",
-          "ticker": "3702",
-          "net_sell_shares": -376000
+          "stock_name": "農林",
+          "ticker": "2913",
+          "net_sell_shares": -914000
         },
         {
           "rank": 4,
-          "stock_name": "聯嘉投控",
-          "ticker": "3717",
-          "net_sell_shares": -296000
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_sell_shares": -664000
         },
         {
           "rank": 5,
-          "stock_name": "億光",
-          "ticker": "2393",
-          "net_sell_shares": -273888
-        },
-        {
-          "rank": 6,
-          "stock_name": "皇普",
-          "ticker": "2528",
-          "net_sell_shares": -273000
-        },
-        {
-          "rank": 7,
-          "stock_name": "可寧衛*",
-          "ticker": "8422",
-          "net_sell_shares": -267000
-        },
-        {
-          "rank": 8,
-          "stock_name": "致伸",
-          "ticker": "4915",
-          "net_sell_shares": -257000
-        },
-        {
-          "rank": 9,
-          "stock_name": "台勝科",
-          "ticker": "3532",
+          "stock_name": "中電",
+          "ticker": "1611",
           "net_sell_shares": -233000
         },
         {
+          "rank": 6,
+          "stock_name": "味全",
+          "ticker": "1201",
+          "net_sell_shares": -193000
+        },
+        {
+          "rank": 7,
+          "stock_name": "興富發",
+          "ticker": "2542",
+          "net_sell_shares": -193000
+        },
+        {
+          "rank": 8,
+          "stock_name": "聯嘉投控",
+          "ticker": "3717",
+          "net_sell_shares": -191000
+        },
+        {
+          "rank": 9,
+          "stock_name": "國喬",
+          "ticker": "1312",
+          "net_sell_shares": -179000
+        },
+        {
           "rank": 10,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_sell_shares": -170000
+          "stock_name": "麗清",
+          "ticker": "3346",
+          "net_sell_shares": -169061
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "力積電",
-        "shares": 27189800
+        "target": "友達",
+        "shares": 82562713
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "元大台灣50",
-        "shares": 4439306
+        "target": "友達",
+        "shares": 4543598
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
         "target": "聯電",
-        "shares": 6133584
+        "shares": 3555358
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "友達",
-        "shares": 15648779
+        "target": "力積電",
+        "shares": 7204939
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "80-year-old discount fashion chain closing 120 stores",
+      "title": "Jim Cramer sends strong signal to Apple stock investors",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html",
-      "summary": "80-year-old discount fashion chain closing 120 stores",
-      "full_text": "With a number of retail chains competing for the off-price, on-trend fashion crown, it's easy for one brand to fall out of favor. Consumers seem to have an enduring love for Marshalls and TJ Maxx, while the popularity of Ross Dress for Less has grown steadily in recent years.\n\nThese brands drive sales by foot traffic, and that's a battle the aforementioned chains have been winning.\n\n\"Off-price apparel remained on solid footing in Q2 2026, with Ross leading the segment. Visits to Ross Dress for Less rose 16.4% year over year (YoY), while dd's DISCOUNTS grew 8.4%. TJX's TJ Maxx and Marshalls, meanwhile, saw visits hover around last year's levels — significantly outperforming traditional apparel, which declined 3.5% YoY,\" according to data from Placer.ai.\n\nIn the battle for customers looking for deals on trendy, fashionable clothes, Cato has been struggling, and now plans to close about 15% of its retail stores.\n\nThe Cato Corporation reported net income of $1.1 million in the second quarter, compared to net income of $6.8 million for the second quarter, which ended Aug. 2, 2025.\n\nSales for the second quarter 2026 were $163.9 million, or a decrease of 6% from sales of $174.7 million for the second quarter ended Aug. 2, 2025, primarily due to a 3.7% same-store sales decrease for the quarter compared to 2025.\n\n\"Our results in the quarter are in large part due to the continued pressure on our customers' discretionary income, which is being negatively impacted in part by persistent inflation, higher fuel prices and continued elevated interest rates,\" CEO John Cato said in the earnings release.\n\n\"We expect the negative pressure on our customers' discretionary income to continue for the foreseeable future. We will continue to tightly manage our expenses and inventory as we anticipate the back half of 2026 to be challenging.\"",
-      "published": "2026-09-19T23:02:22Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-strong-signal-163300406.html",
+      "summary": "Jim Cramer sends strong signal to Apple stock investors",
+      "full_text": "Veteran analyst Jim Cramer sees something in Apple's (AAPL) latest launch that is more than a reason for its customers to buy another replacement phone.\n\nAfter visiting Apple's Manhattan store, the CNBC host praised the iPhone 18 but reserved his strongest enthusiasm for the foldable Duo. He plans to buy it as a second phone, a distinction that gives his excitement an intriguing business angle.\n\nApple shares have already gained around 23.6% this year through September 18, raising the stakes for turning product excitement into sales.\n\nFor context, Apple unveiled its iPhone 18 Pro lineup and first foldable iPhone on September 9. The Pro models reached stores on September 18; Duo availability follows on October 23.\n\nFor Cramer, the bigger opportunity goes beyond better cameras and battery life. His reaction suggests Apple could give loyal customers a fresh reason to spend, even when their existing phones still work perfectly well.\n\nCramer's core Apple argument in the latest episode of MadMoney, is that the Duo can potentially generate sales beyond the usual replacement cycle. His own plan illustrates the opportunity: buy the new iPhone, then add the foldable.\n\nA stronger battery life and cameras can encourage upgrades, but a device customers buy alongside an existing phone could expand spending per user.\n\nCramer had already bought the iPhone 18 for its battery life. After trying the Duo, he told Apple executives he wanted that device too.",
+      "published": "2026-09-20T16:33:00Z"
     },
     {
       "id": "news_2",
-      "title": "Independence Realty Trust (IRT) and Centerspace Combine into an $8.1 Billion Apartment Giant",
+      "title": "Is 63 the ideal age of retirement Americans think it is? Probably not — here’s why",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/real-estate/articles/independence-realty-trust-irt-centerspace-231510521.html",
-      "summary": "Independence Realty Trust (IRT) and Centerspace Combine into an $8.1 Billion Apartment Giant",
-      "full_text": "On September 9, 2026, Independence Realty Trust, Inc. (NYSE:IRT) and Centerspace announced a definitive all-stock merger agreement. It creates a combined middle-market apartment REIT with a pro forma equity market capitalization of about $5.0 billion and a total enterprise value of approximately $8.1 billion, encompassing more than 44,000 units.\n\nThe combined company will retain the Independence Realty Trust name and NYSE ticker \"IRT.\" IRT's Scott Schaeffer continues as Chairman and CEO. The management projects the deal will be roughly 5% accretive to 2027 Core FFO per share for shareholders of both companies.\n\nThe merger gives Independence Realty Trust, Inc. (NYSE:IRT) higher scale and significantly broader geographic diversification. The combined company will own 44,354 apartment units across 163 communities in 17 states, with 58% of pro forma NOI coming from Sunbelt markets, 27% from the Midwest, and 15% from the Mountain West. The overall footprint reduces reliance on any single regional apartment market while keeping substantial exposure to markets with strong population and employment growth.\n\nIRT can apply its existing value-creation strategy across a much larger portfolio. Its value-add renovation program has delivered about a 16% historical return on investment. The firm expects to grow its Wi-Fi initiative and other technology and income-generating programs across Centerspace's properties. Management also expects approximately $24 million in annualized synergies. It supports roughly 5% accretion to 2027 Core FFO per share on a leverage-neutral basis.\n\nThe all-stock structure allows the companies to chase greater scale without adding acquisition debt. IRT and Centerspace expect the combined company to retain BBB/BBB investment-grade credit ratings and maintain a well-laddered debt maturity profile. Centerspace shareholders will receive IRT shares and own approximately 22% of the combined company. It gives them exposure to the larger platform. Management also expects the transaction to improve access to capital markets and reduce the combined firm's cost of capital over time.\n\nThe projected 5% Core FFO accretion depends on a successful merger and the realization of projected synergies. Management expects the integration of the two companies' operating systems and technology to take about 12 months after closing. The $24 million annualized synergy estimate remains a projection. Delays, higher-than-expected integration costs or weaker operational execution could reduce the expected earnings benefit for Independence Realty Trust, Inc. (NYSE:IRT) shareholders.\n\nIRT shareholders will absorb real ownership dilution through the all-stock transaction. IRT expects to issue approximately 67.6 million shares and operating-partnership units. It leaves existing IRT shareholders with about 78% of the combined company's equity, while Centerspace shareholders receive the remaining 22%. Hence, the transaction must generate enough additional cash flow and FFO to offset the larger share count and deliver the projected per-share accretion.\n\nThe combined REIT still faces the overall risks of a competitive apartment market. IRT's strategy depends heavily on Sunbelt markets, while Centerspace adds exposure to the Midwest and Mountain West. The companies acknowledge that economic conditions and competitive factors could prevent the merger from delivering its expected benefits. If apartment supply continues to pressure rents or population and employment growth weakens, the larger portfolio could spread those challenges across the asset base rather than eliminate them.",
-      "published": "2026-09-20T23:15:10Z"
+      "link": "https://finance.yahoo.com/small-business/articles/63-ideal-age-retirement-americans-124500294.html",
+      "summary": "Is 63 the ideal age of retirement Americans think it is? Probably not — here’s why",
+      "full_text": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\n\nAge 63 has emerged as something of a retirement sweet spot for Americans — at least in theory.\n\nAccording to the 2024 MassMutual Retirement Happiness Study, retirees and pre-retirees identified 63 as the ideal age to leave the workforce (1). It's easy to understand the appeal: You're still relatively young, you've had decades to build your savings and you're already eligible to claim Social Security.\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nA single line on your car insurance policy could be inflating your premium by up to 30% — here's what to change\n\nA record 45% of central banks plan to grow gold reserves — and many investors are following suit. Get your free gold IRA guide from Priority Gold\n\nBut 63 also falls awkwardly between several important retirement milestones — and leaving work at that age could mean accepting a permanently smaller Social Security check, paying for health coverage before Medicare kicks in and asking your savings to support you for potentially three decades.\n\nThat makes the age Americans want to retire very different from the age that may put them in the strongest financial position.",
+      "published": "2026-09-20T12:45:00Z"
     },
     {
       "id": "news_3",
-      "title": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "title": "'This could be something more substantial': Wall Street braces for more Fed rate hikes",
       "source": "Yahoo Finance",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-      "summary": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-      "full_text": "Dow Jones futures rose Sunday evening, along with S&P 500 futures and Nasdaq futures. The stock market was mixed last week, with the 10-year Treasury yield at 5%. The Nasdaq rose modestly, amid continued sector rotations among growth stocks. The S&P 500 largely held its ground but the Dow Jones and small-cap Russell 2000 fell solidly to three-month lows. Robinhood…\n\n9/19/2026\n\t\t\t\t\tRobinhood stock surged in an end-of-week crypto rally. SpaceX is testing an aggressive entry. They lead five stocks near buy...\n\n9/19/2026\n\t\t\t\t\tRobinhood stock surged in an end-of-week crypto rally. SpaceX is...\n\nGet instant access to exclusive stock lists, expert market analysis and powerful tools with 2 months of IBD Digital for only $20!\n\nLearn how you can make more money with IBD's investing tools, top-performing stock lists, and educational content.\n\nInformation in Investor’s Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. The information has been obtained from sources we believe to be reliable, but we make no guarantee as to its accuracy, timeliness, or suitability, including with respect to information that appears in closed captioning. Historical investment performances are no indication or guarantee of future success or performance. Authors/presenters may own the stocks they discuss. We make no representations or warranties regarding the advisability of investing in any particular securities or utilizing any specific investment strategies. Information is subject to change without notice. For information on use of our services, please see our Terms of Use.\n\n*Real-time prices by Nasdaq Last Sale. Real-time quote and/or trade prices are not sourced from all markets. Ownership data provided by LSEG and Estimate data provided by FactSet.\n\nIBD, IBD Digital, IBD Live, IBD Weekly, Investor's Business Daily, Leaderboard, MarketDiem, MarketSurge and other marks are trademarks owned by Investor's Business Daily, LLC.",
-      "published": "2026-09-20T23:08:32Z"
+      "link": "https://finance.yahoo.com/economy/policy/article/this-could-be-something-more-substantial-wall-street-braces-for-more-fed-rate-hikes-123400710.html",
+      "summary": "'This could be something more substantial': Wall Street braces for more Fed rate hikes",
+      "full_text": "Wall Street is reading between the lines and bracing for what it sees as the likelihood of more rate hikes this year.\n\n\"This may not be a one or two and done,\" Michael Goosay, chief investment officer of global fixed income at Principal Asset Management, told Yahoo Finance.\n\n\"This could be something more substantial if they're truly trying to create demand destruction in order to get inflation under control,\" he added.\n\nInvestors have priced in more than a 50% chance of another rate hike in October after the Federal Reserve voted unanimously last week to increase rates. Meanwhile, in the Fed's Summary of Economic Projections, officials project one more rate hike this year.\n\nGoldman Sachs economists on Wednesday said it now expects Fed officials to deliver a second 25 basis point hike next move, in \"a change from our previous expectation that September would be the only hike.\"\n\nThe economists added, \"The meeting was more hawkish than we expected,\" pointing to the unanimous vote and Fed Chairman Kevin Warsh's description of the hike as having \"removed a dose of accommodation.\"\n\nVeteran strategist Ed Yardeni, meanwhile, cut his year-end S&P 500 (^GSPC) price target from 8,400 to 7,900 last week, anticipating more than one rate hike this year.\n\n\"The risk is that higher-for-longer oil prices continue to push bond yields higher,\" Yardeni wrote, suggesting the Fed's hike will be the beginning of a rate-hiking cycle.",
+      "published": "2026-09-20T12:34:00Z"
     }
   ]
 }
