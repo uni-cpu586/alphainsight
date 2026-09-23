@@ -1,457 +1,458 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "stock_uncle_insight": {
-    "date_header": "9/22 法人與主力大戶主要買超股票",
+    "date_header": "9/23 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃面板與金融避險",
+        "group_title": "1. 外資大戶：狂掃面板雙虎與半導體低基期股",
         "stocks": [
           {
             "stock_name": "友達",
             "ticker": "2409",
-            "description": "肖年仔你看，外資狂掃友達2.36萬張，這量大到嚇人！面板股最近是有些題材，但這麼大的量，外資是真看好還是準備拉高出貨，肖年仔你可得睜大眼睛看清楚，別傻傻去接刀！"
+            "description": "肖年仔，你看外資這波狂掃友達，一口氣買超 24.5 萬張，這不是玩假的，擺明了就是看好面板產業谷底翻身，準備要鎖碼了啦！"
+          },
+          {
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "聯電這檔成熟製程的，外資也買了 5.05 萬張，投信跟自營商也跟著買，這就是法人有共識，覺得半導體修正夠了，低基期開始卡位了啦！"
           },
           {
             "stock_name": "群創",
             "ticker": "3481",
-            "description": "跟友達一樣，外資也買了群創3.31萬張，面板雙虎一起動，但投信卻在倒貨群創，這就有點貓膩了。外資跟投信「黑白猜」，肖年仔別被主力搞得暈頭轉向。"
-          },
-          {
-            "stock_name": "凱基金",
-            "ticker": "2883",
-            "description": "聯準會升息壓力還在，外資買凱基金2.45萬張，這擺明就是找「避風港」！市場震盪時，金融股就是外資的「避險」首選，穩健為主，別想著會噴。"
-          },
-          {
-            "stock_name": "中石化",
-            "ticker": "1314",
-            "description": "傳產股中石化也被外資買了1.56萬張，可能是看好特定題材或是低基期，外資也來「插一腳」，肖年仔可以觀察看看。"
-          },
-          {
-            "stock_name": "彩晶",
-            "ticker": "6116",
-            "description": "小尺寸面板彩晶也被外資買了1.51萬張，跟著面板雙虎一起被點火，這波面板是不是有搞頭，值得觀察。"
-          },
-          {
-            "stock_name": "南茂",
-            "ticker": "8150",
-            "description": "封測股南茂也被外資買了1.43萬張，看來外資對半導體後市還是有零星佈局，但量不大，肖年仔別太興奮。"
-          },
-          {
-            "stock_name": "大同",
-            "ticker": "2371",
-            "description": "老牌傳產大同也被外資買了8131張，是不是有什麼資產題材要發酵？外資也來湊熱鬧，但這種老牌股，肖年仔要小心別被套牢。"
-          },
-          {
-            "stock_name": "富邦金",
-            "ticker": "2881",
-            "description": "跟凱基金一樣，富邦金也被外資買了7345張，金融股就是外資在市場震盪時的「避險」首選，穩健就好，別想太多。"
-          },
-          {
-            "stock_name": "統一證",
-            "ticker": "2855",
-            "description": "統一證也被外資買了7303張，證券股通常是市場熱絡時外資會買，但現在是避險盤，可能是看好券商的穩定收益。"
-          },
-          {
-            "stock_name": "國泰金",
-            "ticker": "2882",
-            "description": "國泰金也被外資買了6269張，金融三雄都被外資佈局，這「避險」的意圖很明顯，肖年仔別亂衝。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：鎖碼半導體與AI概念股",
-        "stocks": [
-          {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "投信狂買聯電7901張，這本土國家隊是在「作帳」還是真看好晶圓代工？肖年仔，投信通常是波段操作，值得觀察。"
+            "description": "面板雙虎的另一隻，群創也被外資敲進 2.48 萬張，跟友達一樣，外資大戶在賭產業復甦，韭菜們別傻傻地去追高AI，這種低基期才是真香。"
           },
           {
             "stock_name": "京元電子",
             "ticker": "2449",
-            "description": "半導體測試的京元電子也被投信買了4558張，投信持續加碼，是不是有什麼訂單利多要出來？這檔是國家隊的愛股之一。"
-          },
+            "description": "這檔半導體封測的，外資買超 1.61 萬張，投信也買了近 3 千張，看來法人對半導體下游的看法也轉趨樂觀，準備要點火了。"
+          }
+        ]
+      },
+      {
+        "group_title": "2. 投信大戶（本土國家隊）：航空避險與半導體共識",
+        "stocks": [
           {
-            "stock_name": "台達電",
-            "ticker": "2308",
-            "description": "AI概念股台達電也被投信買了3393張，投信持續「鎖碼」，這檔是國家隊的重點持股，AI題材還是有買盤在撐。"
-          },
-          {
-            "stock_name": "南亞",
-            "ticker": "1303",
-            "description": "塑化龍頭南亞也被投信買了3134張，投信也來買傳產，可能是看好景氣復甦，或是低基期佈局。"
-          },
-          {
-            "stock_name": "昇陽半導體",
-            "ticker": "8028",
-            "description": "半導體再生晶圓的昇陽半導體也被投信買了2935張，投信持續佈局半導體相關，這塊還是有資金在流動。"
-          },
-          {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "投信買元大台灣50共2704張，這是在「避險」還是調整部位？肖年仔，連國家隊都在買ETF，表示他們對大盤看法也偏保守。"
-          },
-          {
-            "stock_name": "聯鈞",
-            "ticker": "3450",
-            "description": "光通訊的聯鈞也被投信買了2067張，可能看好網通題材，但量不大，肖年仔別太衝動。"
-          },
-          {
-            "stock_name": "廣達",
-            "ticker": "2382",
-            "description": "AI伺服器指標股廣達也被投信買了1675張，投信持續「鎖碼」，這檔是AI國家隊的重點持股，但也要小心高檔震盪。"
-          },
-          {
-            "stock_name": "全新",
-            "ticker": "2455",
-            "description": "PA族群的全新也被投信買了1525張，可能看好手機復甦題材，但這族群波動大，肖年仔要小心。"
+            "stock_name": "聯電",
+            "ticker": "2303",
+            "description": "投信也跟著外資買聯電，敲進 7857 張，這表示本土國家隊也認同聯電的價值，不是黑白買的，是看好後市的共識單。"
           },
           {
             "stock_name": "華航",
             "ticker": "2610",
-            "description": "航空股華航也被投信買了1110張，跟外資買航空股的邏輯類似，可能是避險或旺季效應，但這量也不大。"
+            "description": "肖年仔，你看投信買超華航 5133 張，長榮航也買了 3993 張，這擺明了就是高檔避險，把資金從高風險股撤出來，轉進這種有旺季效應的傳產股，國際航空業有復甦跡象，他們在卡位啦！"
+          },
+          {
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "跟華航一樣，投信買超長榮航 3993 張，航空雙雄一起買，這不是巧合，是法人在找資金避風港，順便搭上國際航空業復甦的順風車。"
+          },
+          {
+            "stock_name": "元大高股息",
+            "ticker": "0056",
+            "description": "連元大高股息這種ETF都買了 2450 張，這很明顯就是投信在避險，大盤震盪，資金先躲到高殖利率的ETF裡面，求個安穩啦！"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：跟風面板雙虎與避險",
+        "group_title": "3. 內資主力與實戶：跟單面板與半導體，小心隔日沖",
         "stocks": [
           {
             "stock_name": "友達",
             "ticker": "2409",
-            "description": "自營商也跟著外資買友達1.14萬張，這面板雙虎是今天的主流嗎？但肖年仔要小心，這種「跟風盤」很多都是「隔日沖」，明天開高就「倒貨」給你！"
+            "description": "自營商也跟著外資買友達，敲進 1816 張，雖然量不大，但方向一致，顯示內資也看到面板的機會，但肖年仔要小心，自營商的單很多都是避險或短線，別傻傻追高被倒貨。"
           },
           {
-            "stock_name": "群創",
-            "ticker": "3481",
-            "description": "自營商也買群創4170張，跟著外資的腳步，但投信卻在倒貨，這盤勢有點亂，肖年仔別「黑白買」，小心被主力夾殺。"
-          },
-          {
-            "stock_name": "元大台灣50",
-            "ticker": "0050",
-            "description": "自營商買元大台灣50共3390張，這「避險盤」的味道很重，表示他們對大盤看法保守，肖年仔別亂衝，學學大戶先「蹲」一下。"
+            "stock_name": "南茂",
+            "ticker": "8150",
+            "description": "南茂這檔封測股，自營商買超 1253 張，跟著外資買半導體下游，這波半導體修正後，很多低基期的都被盯上了。"
           },
           {
             "stock_name": "聯電",
             "ticker": "2303",
-            "description": "自營商也買聯電3128張，跟投信一樣，看好晶圓代工，但量不大，肖年仔別太期待會噴。"
-          },
-          {
-            "stock_name": "中石化",
-            "ticker": "1314",
-            "description": "自營商也買中石化1485張，跟外資一樣，可能看好傳產，但這量也是小打小鬧。"
-          },
-          {
-            "stock_name": "日月光投控",
-            "ticker": "3711",
-            "description": "封測龍頭日月光投控也被自營商買了960張，半導體還是有資金在，但這量也是避險盤的佈局。"
-          },
-          {
-            "stock_name": "力積電",
-            "ticker": "6770",
-            "description": "自營商買力積電945張，但外資卻在狂賣！這檔股票主力看法分歧，肖年仔要小心「接刀」，別被兩邊主力夾殺。"
-          },
-          {
-            "stock_name": "京元電子",
-            "ticker": "2449",
-            "description": "自營商也買京元電子933張，跟投信一樣，看好半導體測試，但這量也是小打小鬧。"
-          },
-          {
-            "stock_name": "台玻",
-            "ticker": "1802",
-            "description": "傳產股台玻也被自營商買了806張，可能看好特定題材，但這量也是避險盤的佈局。"
-          },
-          {
-            "stock_name": "台達電",
-            "ticker": "2308",
-            "description": "自營商也買台達電699張，跟投信一樣，AI概念股還是有買盤，但這量也是小打小鬧。"
+            "description": "自營商也買聯電 960 張，三大法人都有買，這檔聯電看來是法人共識股，但自營商的量小，可能只是避險盤或短線操作，別太樂觀。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔避險與資金避風港（金融、ETF）",
-        "strategy_content": "肖年仔你看，聯準會升息壓力還在，華爾街都在喊「更高更久」，外資跟自營商狂買金融股跟0050這種ETF，這擺明就是避險盤！他們把錢從高風險的電子股抽出來，找個地方「蹲」，不是看好金融股會噴，是怕大盤崩，先找個「避風港」。這種時候，韭菜們別傻傻去追高，跟著大戶找避險標的才是王道。"
+        "strategy_title": "策略一：低基期產業復甦卡位戰（面板、半導體成熟製程）",
+        "strategy_content": "肖年仔，你看外資大戶狂掃友達、群創這種面板雙虎，還有聯電、京元電這種半導體成熟製程的股票，這擺明了就是看準這些產業已經跌無可跌，準備要谷底翻身了。國際油價雖然今天有跌，但柴油短缺問題還會持續到 2027 年，這代表全球經濟還是有不確定性，資金會往這種低基期、有復甦題材的板塊移動，先卡位等風來，這才是聰明錢的玩法。"
       },
       {
-        "strategy_title": "策略二：面板雙虎點火，真假外資傻傻分不清",
-        "strategy_content": "外資狂掃友達、群創這些面板股，量大到嚇人。但肖年仔要注意，外資買超這麼大，是不是有部分是「假外資」在做短線，準備「拉高出貨」給散戶「接刀」？尤其投信還在「倒貨」群創，這就更耐人尋味了。這種盤，主力可能只是「點火」，隔天就「倒貨」，韭菜們別傻傻追高，小心被「割韭菜」！"
+        "strategy_title": "策略二：高檔AI股獲利了結，資金轉進避險與傳產",
+        "strategy_content": "緯創這檔AI概念股，外資跟投信同步大賣，外資倒了 3.05 萬張，投信也賣了 5434 張，這很明顯就是高檔獲利了結，把錢從AI股撤出來。這些錢不是憑空消失，一部分就轉進了像華航、長榮航這種有旺季效應的航空股，投信買超航空雙雄，加上國際新聞說有大銀行看好航空巨頭，這就是資金在找避風港，順便搭上產業復甦的便車。另一部分則流向元大高股息這種ETF，求個穩字訣。"
       },
       {
-        "strategy_title": "策略三：投信作帳鎖碼半導體與AI概念股",
-        "strategy_content": "投信這波很明顯在「鎖碼」半導體跟AI概念股，聯電、京元電、台達電、廣達這些都是他們的愛股。這可能是年底「作帳」行情的前哨戰，或是看好這些產業的基本面。但肖年仔也要注意，投信買進不代表會一直漲，有時候也是「拉高出貨」的手段，特別是那些已經漲一大段的AI股，小心「融資斷頭」的風險。"
+        "strategy_title": "策略三：法人共識下的半導體下游布局",
+        "strategy_content": "聯電、京元電子這兩檔，外資、投信、自營商都有買超，這代表法人對半導體下游或成熟製程的看法有高度共識。在整體半導體景氣還不明朗的時候，這些相對穩健、評價面較低的標的，就成了法人資金的優先選擇。他們不是在追高，而是在修正後找尋價值，準備下一波的行情。"
       }
     ],
-    "summary": "肖年仔，今天外資狂買面板跟金融，投信鎖碼半導體AI，自營商跟風又避險，市場資金流向很亂，別「黑白買」，小心被「割韭菜」！",
+    "summary": "肖年仔，今天大戶們的動作很清楚，高檔AI股在倒貨，資金轉往低基期的面板、半導體成熟製程，還有航空這種有避險跟旺季題材的傳產股。別傻傻地追高，學著看懂主力在玩什麼把戲，才能在市場上活得久！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 8.26 萬張",
-        "uncle_logic": "高盛這外資大戶狂掃友達8.26萬張，這量大到有點嚇人。肖年仔，這可能是真外資看好面板產業復甦，但也有可能是「假外資」在「點火」，準備「拉高出貨」。這麼大的量，隔天如果沒有續攻，小心就是「倒貨」的訊號。"
+        "action": "買超 8.58 萬張",
+        "uncle_logic": "美商高盛這種外資大戶，一次買超友達 8.58 萬張，這不是隔日沖，這擺明了就是看好面板產業的波段行情，準備要鎖碼了，真金白銀在卡位，肖年仔可以多留意。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 4544 張",
-        "uncle_logic": "凱基台北這「隔日沖」大戶也買友達4544張，這擺明就是看準外資點火，準備隔天開高就「倒貨」給散戶。肖年仔，看到凱基台北進場，隔天開盤就要小心了，別傻傻去「接刀」！"
+        "action": "買超 726 張",
+        "uncle_logic": "凱基台北這種短線分點也買友達 726 張，雖然量不大，但跟著外資大戶的方向走，很可能就是看到外資在買，想跟風賺個短線價差。肖年仔要小心，這種分點隔日沖的機率很高，別傻傻地去接刀。"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 3555 張",
-        "uncle_logic": "元大投信買聯電3555張，這就是本土國家隊在佈局，看好晶圓代工的後市。投信通常是波段操作，但肖年仔也要注意，「作帳」行情有時候也會有「結帳」的壓力。"
+        "action": "買超 3536 張",
+        "uncle_logic": "元大投信買超聯電 3536 張，這就是本土國家隊的動作，跟外資有共識，看好聯電的低基期價值。投信的單通常比較有波段性，不是玩短線的。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 7205 張",
-        "uncle_logic": "摩根大通這外資大戶狂倒力積電7205張，肖年仔你看，外資在賣，自營商卻在買，這檔股票主力看法分歧，這種盤勢最容易被兩邊主力夾殺，韭菜們別去「接」這種掉下來的「刀」！"
+        "action": "賣超 9164 張",
+        "uncle_logic": "摩根大通這種外資大戶，一口氣賣超緯創 9164 張，這跟外資法人賣超緯創的趨勢一致，很明顯就是AI概念股高檔獲利了結，準備把錢轉到其他地方去。韭菜們，別再傻傻地去接這種倒貨的單了！"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "Jim Cramer sends strong signal to Apple stock investors",
+      "title": "Bank of America says buy tumbling shares of aviation giant",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-strong-signal-163300406.html",
-      "level1_blind": "Veteran analyst Jim Cramer sees something in Apple's (AAPL) latest launch that is more than a reason for its customers to buy another replacement phone.\n\nAfter visiting Apple's Manhattan store, the CNBC host praised the iPhone 18 but reserved his strongest enthusiasm for the foldable Duo. He plans to buy it as a second phone, a distinction that gives his excitement an intriguing business angle.\n\nApple shares have already gained around 23.6% this year through September 18, raising the stakes for turning product excitement into sales.\n\nFor context, Apple unveiled its iPhone 18 Pro lineup and first foldable iPhone on September 9. The Pro models reached stores on September 18; Duo availability follows on October 23.\n\nFor Cramer, the bigger opportunity goes beyond better cameras and battery life. His reaction suggests Apple could give loyal customers a fresh reason to spend, even when their existing phones still work perfectly well.\n\nCramer's core Apple argument in the latest episode of MadMoney, is that the Duo can potentially generate sales beyond the usual replacement cycle. His own plan illustrates the opportunity: buy the new iPhone, then add the foldable.\n\nA stronger battery life and cameras can encourage upgrades, but a device customers buy alongside an existing phone could expand spending per user.\n\nCramer had already bought the iPhone 18 for its battery life. After trying the Duo, he told Apple executives he wanted that device too.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
+      "level1_blind": {
+        "text": "Boeing (BA) shares fell again this week. The stock closed at $198.20 on Friday, September 18, down 4.83% over the past five trading days and 12.98% year to date.\n\nThe drop came after comments from CEO Kelly Ortberg at Morgan Stanley's Laguna Conference on September 16, where he identified new challenges on the 737 and 787 production ramps, and pushed 777X certification testing further into 2027.\n\nBoeing is already under pressure to prove that its turnaround is feasible, and the CEO's comments only added to investors' caution. Yet, even with the caution, at least one major bank sees the pullback as a chance to add shares of the plane maker at a discount.\n\nOrtberg told the audience at the Morgan Stanley conference that the 737 production line has not yet stabilized at the 47-jets-per-month rate Boeing had targeted. The delay is due to in-house production of wings, though Boeing said the broader supply chain is holding up.\n\nOn a more positive note, Ortberg said the 737 MAX 10 variant should get its certification \"very soon,\" and told analysts, \"When I left Seattle yesterday, I think we had three deliverables to complete.\"\n\nOrtberg also confirmed that certification testing on the 777X, Boeing's delayed widebody, would extend into 2027. The plane is already about seven years past its original schedule, and its ETOPS certification has been held up by an engine seal issue on the GE Aerospace-built GE9X turbine.\n\nGE Aerospace (GE) responded that certification can move forward with the existing seals, and said the upgraded parts began shipping in August. Boeing designs and builds commercial jets, defense aircraft and space systems, so any issue in the production ramp affects revenue and the delivery schedules airlines have already committed to.\n\nBank of America aerospace analyst Ronald Epstein used the selloff to reiterate his Buy rating and $270 price target. Epstein has covered aerospace and defense at Bank of America for over a decade and holds a five-star analyst rating from TipRanks, which makes his call credible with institutional investors."
+      },
       "level2_keywords": [
         {
-          "word": "foldable",
-          "ipa": "/fɔlˈdɛbəl/",
-          "meaning": "可折疊的屏幕",
-          "example": "這款新機的屏幕可以折疊成小尺寸"
+          "word": "shares",
+          "ipa": "/ʃɛrz/",
+          "meaning": "股票，指公司所有權的單位，可在證券市場上買賣。",
+          "example": "Boeing's shares tumbled after the CEO's comments."
         },
         {
-          "word": "semiconductor",
-          "ipa": "/sɛmɪdʊˈmɪndər/",
-          "meaning": "半導體",
-          "example": "這款新機的處理器是由半導體製造的"
+          "word": "production ramps",
+          "ipa": "/prəˈdʌkʃən ræmps/",
+          "meaning": "產能爬坡，指新產品或新產線從低產量逐步提升至目標產量的過程。",
+          "example": "The CEO identified new challenges on the 737 and 787 production ramps."
         },
         {
-          "word": "export",
-          "ipa": "/ɛksˈpɔrt/",
-          "meaning": "出口",
-          "example": "我們需要增加出口來減少貧困"
+          "word": "certification",
+          "ipa": "/ˌsɜːrtɪfɪˈkeɪʃən/",
+          "meaning": "認證，指產品、系統或服務符合特定標準或法規的官方批准過程。",
+          "example": "The 777X certification testing has been pushed further into 2027."
         },
         {
-          "word": "guidance",
-          "ipa": "/ˈɡaɪdəns/",
-          "meaning": "指引",
-          "example": "這款新機的指引是非常清晰的"
+          "word": "turnaround",
+          "ipa": "/ˈtɜːrnˌaʊnd/",
+          "meaning": "扭轉頹勢/轉虧為盈，指公司或業務從表現不佳轉為成功或獲利的狀態。",
+          "example": "Boeing is under pressure to prove that its turnaround is feasible."
         },
         {
-          "word": "rally",
-          "ipa": "/ˈræli/",
-          "meaning": "集會",
-          "example": "我們需要組織一個集會來表達我們的意見"
+          "word": "selloff",
+          "ipa": "/ˈsɛlˌɔːf/",
+          "meaning": "拋售潮/大跌，指市場上大量股票或其他資產被出售，導致價格下跌。",
+          "example": "Bank of America analyst used the selloff to reiterate his Buy rating."
         }
       ],
-      "level2_context": "這篇文章主要是關於 Jim Cramer 的看法，關於 Apple 的新發表對於股市的影響，以及 Apple 的新品種能否推動股價的上升。這也涉及到對於 Apple 的競爭力和對於消費者需求的分析",
+      "level2_context": "各位同學，這則新聞主要在探討航空巨頭波音（Boeing）近期面臨的營運挑戰與市場反應。波音的股價下跌，主要原因在於其執行長在一次會議中透露了737和787機型的「產能爬坡」遇到新困難，同時777X新機型的「認證」測試也將延後至2027年。這對一家急於證明自己能「扭轉頹勢」的公司來說，無疑是雪上加霜，增加了投資人的疑慮。然而，有趣的是，即使在這樣的「拋售潮」中，美國銀行（Bank of America）的分析師卻逆勢而為，重申了對波音股票的「買入」評級，認為這是一個以折扣價買入的好機會。這背後反映了市場對波音長期潛力的分歧看法，以及航空產業在疫情後復甦，但供應鏈和生產效率仍面臨挑戰的宏觀背景。",
       "level3_translation": [
         {
-          "sentence": "Veteran analyst Jim Cramer sees something in Apple's (AAPL) latest launch that is more than a reason for its customers to buy another replacement phone.",
-          "translation": "老牌分析師 Jim Cramer 觀察到 Apple 的最新發表中有更於是一個理由讓其客戶再買一部替代機器"
+          "sentence": "Boeing (BA) shares fell again this week.",
+          "translation": "波音（BA）的股價本週再次下跌。"
         },
         {
-          "sentence": "After visiting Apple's Manhattan store, the CNBC host praised the iPhone 18 but reserved his strongest enthusiasm for the foldable Duo.",
-          "translation": "在曼哈頓的 Apple 店店中，CNBC 主持人對 iPhone 18 表示赞扬，但對折疊機的 Duo 表示最強的熱情"
+          "sentence": "The stock closed at $198.20 on Friday, September 18, down 4.83% over the past five trading days and 12.98% year to date.",
+          "translation": "該股在9月18日週五收盤價為198.20美元，過去五個交易日下跌4.83%，今年以來則下跌了12.98%。"
         },
         {
-          "sentence": "Apple shares have already gained around 23.6% this year through September 18, raising the stakes for turning product excitement into sales.",
-          "translation": "截至 9 月 18 日，Apple 股票已經上升了大約 23.6%，增加了為了將產品的興奮轉化為銷售的挑戰"
+          "sentence": "The drop came after comments from CEO Kelly Ortberg at Morgan Stanley's Laguna Conference on September 16, where he identified new challenges on the 737 and 787 production ramps, and pushed 777X certification testing further into 2027.",
+          "translation": "這次下跌是在執行長凱利·奧特伯格（Kelly Ortberg）於9月16日在摩根士丹利拉古納會議上發表評論之後發生的，他在會中指出737和787機型的「產能爬坡」面臨新挑戰，並將777X的「認證」測試進一步推遲到2027年。"
         },
         {
-          "sentence": "For context, Apple unveiled its iPhone 18 Pro lineup and first foldable iPhone on September 9.",
-          "translation": "在上下文中，Apple 在 9 月 9 日發表了 iPhone 18 Pro 系列和第一款折疊機"
+          "sentence": "Boeing is already under pressure to prove that its turnaround is feasible, and the CEO's comments only added to investors' caution.",
+          "translation": "波音本已承受壓力，需要證明其「扭轉頹勢」是可行的，而執行長的評論只會增加投資人的謹慎態度。"
         },
         {
-          "sentence": "The Pro models reached stores on September 18; Duo availability follows on October 23.",
-          "translation": "9 月 18 日，Pro 模型進入了商店；折疊機的上市時間在 10 月 23 日"
+          "sentence": "Yet, even with the caution, at least one major bank sees the pullback as a chance to add shares of the plane maker at a discount.",
+          "translation": "然而，即便投資人普遍謹慎，至少有一家主要銀行認為這次股價回檔是逢低買入這家飛機製造商股票的機會。"
         },
         {
-          "sentence": "For Cramer, the bigger opportunity goes beyond better cameras and battery life.",
-          "translation": "對於 Cramer而言，機會不僅在於更好的相機和電池壽命"
+          "sentence": "Ortberg told the audience at the Morgan Stanley conference that the 737 production line has not yet stabilized at the 47-jets-per-month rate Boeing had targeted.",
+          "translation": "奧特伯格在摩根士丹利會議上告訴聽眾，737的生產線尚未穩定達到波音原先設定的每月47架飛機的目標。"
         },
         {
-          "sentence": "His reaction suggests Apple could give loyal customers a fresh reason to spend, even when their existing phones still work perfectly well.",
-          "translation": "他的反應表明 Apple 可能給忠誠的客戶一個新的理由去花錢，甚至當他們的現有電話仍然能夠正常使用時"
+          "sentence": "The delay is due to in-house production of wings, though Boeing said the broader supply chain is holding up.",
+          "translation": "這次延遲是由於機翼的內部生產問題，儘管波音表示整體「供應鏈」運作正常。"
         },
         {
-          "sentence": "Cramer's core Apple argument in the latest episode of MadMoney, is that the Duo can potentially generate sales beyond the usual replacement cycle.",
-          "translation": "在 MadMoney 最新的集數中，Cramer 的核心 Apple論點是折疊機有可能在正常的替換周期之外產生銷售"
+          "sentence": "On a more positive note, Ortberg said the 737 MAX 10 variant should get its certification \"very soon,\" and told analysts, \"When I left Seattle yesterday, I think we had three deliverables to complete.\"",
+          "translation": "比較樂觀的是，奧特伯格表示737 MAX 10機型應該「很快」就能獲得「認證」，並告訴分析師：「我昨天離開西雅圖時，我想我們還有三項待完成的交付項目。」"
         },
         {
-          "sentence": "His own plan illustrates the opportunity: buy the new iPhone, then add the foldable.",
-          "translation": "他的自己的計畫表明機會：買新 iPhone，然後加上折疊機"
+          "sentence": "Ortberg also confirmed that certification testing on the 777X, Boeing's delayed widebody, would extend into 2027.",
+          "translation": "奧特伯格也證實，波音延遲交機的「寬體客機」777X的「認證」測試將會延長到2027年。"
         },
         {
-          "sentence": "A stronger battery life and cameras can encourage upgrades, but a device customers buy alongside an existing phone could expand spending per user.",
-          "translation": "更好的電池壽命和相機可以鼓勵升級，但如果客戶買了新機和現有電話，可能會增加每位使用者每年的花費"
+          "sentence": "The plane is already about seven years past its original schedule, and its ETOPS certification has been held up by an engine seal issue on the GE Aerospace-built GE9X turbine.",
+          "translation": "這架飛機已經比原定時程晚了約七年，其ETOPS「認證」因奇異航空（GE Aerospace）製造的GE9X渦輪發動機的密封問題而受阻。"
         },
         {
-          "sentence": "Cramer had already bought the iPhone 18 for its battery life.",
-          "translation": "Cramer 已經買了 iPhone 18 的原因是電池壽命"
+          "sentence": "GE Aerospace (GE) responded that certification can move forward with the existing seals, and said the upgraded parts began shipping in August.",
+          "translation": "奇異航空（GE）回應表示，「認證」可以繼續使用現有的密封件進行，並稱升級後的零件已於八月開始出貨。"
         },
         {
-          "sentence": "After trying the Duo, he told Apple executives he wanted that device too.",
-          "translation": "試過折疊機後，他告訴 Apple 高層他也想要那款機器"
+          "sentence": "Boeing designs and builds commercial jets, defense aircraft and space systems, so any issue in the production ramp affects revenue and the delivery schedules airlines have already committed to.",
+          "translation": "波音設計並製造商用噴射機、國防飛機和太空系統，因此「產能爬坡」中的任何問題都會影響其營收以及航空公司已承諾的交機時程。"
+        },
+        {
+          "sentence": "Bank of America aerospace analyst Ronald Epstein used the selloff to reiterate his Buy rating and $270 price target.",
+          "translation": "美國銀行航空產業分析師羅納德·艾普斯坦（Ronald Epstein）利用這次「拋售潮」重申了他的「買入」評級和270美元的「目標價」。"
+        },
+        {
+          "sentence": "Epstein has covered aerospace and defense at Bank of America for over a decade and holds a five-star analyst rating from TipRanks, which makes his call credible with institutional investors.",
+          "translation": "艾普斯坦在美國銀行負責航空與國防產業分析已超過十年，並在TipRanks上擁有五星分析師評級，這使得他的投資建議在機構投資者中具有高度可信度。"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Is 63 the ideal age of retirement Americans think it is? Probably not — here’s why",
+      "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/small-business/articles/63-ideal-age-retirement-americans-124500294.html",
-      "level1_blind": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\n\nAge 63 has emerged as something of a retirement sweet spot for Americans — at least in theory.\n\nAccording to the 2024 MassMutual Retirement Happiness Study, retirees and pre-retirees identified 63 as the ideal age to leave the workforce (1). It's easy to understand the appeal: You're still relatively young, you've had decades to build your savings and you're already eligible to claim Social Security.\n\nJeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one\n\nA single line on your car insurance policy could be inflating your premium by up to 30% — here's what to change\n\nA record 45% of central banks plan to grow gold reserves — and many investors are following suit. Get your free gold IRA guide from Priority Gold\n\nBut 63 also falls awkwardly between several important retirement milestones — and leaving work at that age could mean accepting a permanently smaller Social Security check, paying for health coverage before Medicare kicks in and asking your savings to support you for potentially three decades.\n\nThat makes the age Americans want to retire very different from the age that may put them in the strongest financial position.",
+      "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
+      "level1_blind": {
+        "text": "With U.S. retail diesel prices topping $6 a gallon this month for the first time, a worldwide shortage fueled by conflicts in Iran and Ukraine shows little sign of easing before next year, according to Reuters.\n\nU.S. diesel stockpiles stood at 107.9 million barrels as of September 11 — a figure that, for that point in the calendar year, has not been matched since the EIA began keeping records in 1982. According to the EIA's own public projections, distillate fuel oil stocks — a category that includes diesel — are set to drop under 100 million barrels in September and stay beneath the five-year low through all of 2026 and into most of 2027. The agency projects U.S. retail diesel prices will average $5.55 a gallon in the fourth quarter of 2026 and $4.40 a gallon in 2027.\n\nStorage market data reinforces that outlook. October bookings for leasable diesel storage across North America and the Caribbean Islands reached 13 million barrels — a four-year peak — compared with just 11 million barrels available back in June, Steven Barsamian, chief operating officer of storage broker The Tank Tiger, told Reuters. Barsamian said that leases are going unsigned because there is little diesel available to store, adding that falling inventories alongside rising tank availability together suggest traders anticipate supplies will stay tight well into at least early next year.\n\nThe shortage stems from supply disruptions on two fronts. Conflict in the Middle East has restricted tanker traffic through the Strait of Hormuz, cutting crude flows and constraining refinery output, while Ukrainian strikes on Russian refining infrastructure have compounded those losses. The EIA said it estimates refinery outages in Russia will continue to affect the global distillate market through the first half of 2027.\n\nEuropean and Asian inventories are also strained. At the Amsterdam-Rotterdam-Antwerp hub, July inventory levels sat roughly 16% under the five-year average, Insights Global data showed, according to Reuters. Singapore's distillate holdings have lately run around 8.2 million barrels on average, trailing the 9.6 million-barrel pace recorded through 2025.\n\nAs detailed in earlier coverage, the price surge is rippling through freight, agriculture, and home heating. Carmit Glik, CEO of Ship4wd, said diesel costs move through \"freight rates, farm equipment, food delivery, and home heating — anything that touches a truck at some point in its journey,\" according to Reuters. Mark Wolfe, executive director of the National Energy Assistance Directors Association, warned that households dependent on heating oil — concentrated in the Northeast — could face bills as much as 31% higher this winter if diesel prices hold at current levels.\n\nSome relief could emerge. The EIA's September Short-Term Energy Outlook expects most Middle East crude production to return to near pre-conflict averages by the second quarter of 2027, which the agency said would boost refinery output and allow distillate inventories to rebuild. Analysts also expect record diesel refining margins to encourage more production.\n\nNevertheless, a flare-up in either the Middle East or the Russia-Ukraine war, or an unexpected refinery disruption, could send prices sharply higher again. Alex Hodes, director of energy market strategy at StoneX, put it plainly to Reuters: \"Current fundamentals point to higher prices staying here for a while.\""
+      },
       "level2_keywords": [
         {
-          "word": "retirement",
-          "ipa": "/rɛtɪˈrɛmnt/",
-          "meaning": "退休",
-          "example": "退休後，我們可以放鬆地享受生活"
+          "word": "stockpiles",
+          "ipa": "ˈstɑkˌpaɪlz",
+          "meaning": "庫存量；儲備量",
+          "example": "各位同學，這句話在財經界的意思是『美國柴油庫存量創下歷史新低，引發市場對供應短缺的擔憂。』"
         },
         {
-          "word": "Social Security",
-          "ipa": "/səʊʃəl ˈsɛkjuəriティ/",
-          "meaning": "社會保障",
-          "example": "社會保障金可以幫助我們在退休後生存"
+          "word": "distillate fuel oil",
+          "ipa": "ˈdɪstɪlət fjuəl ɔɪl",
+          "meaning": "餾分燃料油（包含柴油、燃油等輕質油品）",
+          "example": "我們要注意這個動詞，EIA 預計，包含柴油在內的『餾分燃料油』庫存將持續低於五年平均水平。"
         },
         {
-          "word": "Medicare",
-          "ipa": "/mɛdɪˈkɛəri/",
-          "meaning": "醫療保險",
-          "example": "醫療保險可以幫助我們在退休後享受健康的生活"
+          "word": "refinery output",
+          "ipa": "rɪˈfaɪnəri ˈaʊtˌpʊt",
+          "meaning": "煉油廠產量",
+          "example": "這句話在財經界的意思是『中東衝突與烏克蘭戰爭導致煉油廠產量受限，加劇柴油供應緊張。』"
         },
         {
-          "word": "central banks",
-          "ipa": "/sɛnˈtrɒl ˈbæŋkz/",
-          "meaning": "中央銀行",
-          "example": "中央銀行可以控制貨幣的流通"
+          "word": "freight rates",
+          "ipa": "freɪt reɪts",
+          "meaning": "貨運費率",
+          "example": "各位同學，柴油價格飆升直接推高了『貨運費率』，影響了物流成本，這對產業影響很大。"
         },
         {
-          "word": "gold",
-          "ipa": "/ɡoʊld/",
-          "meaning": "金",
-          "example": "金可以作為投資品項"
+          "word": "refining margins",
+          "ipa": "rɪˈfaɪnɪŋ ˈmɑrdʒɪnz",
+          "meaning": "煉油利潤",
+          "example": "我們要注意這個動詞，分析師預期，創紀錄的柴油『煉油利潤』將鼓勵煉油廠增加柴油產量。"
         }
       ],
-      "level2_context": "美國退休制度的設計，與其實際需要相差很遠。退休後的生活經費支持，與社會保障金的收取年齡，與醫療保險的開始年齡，等等，都是需要考慮的因素。",
+      "level2_context": "各位同學，這篇新聞在探討全球柴油供應短缺的嚴峻情勢，並預測這種緊張狀況可能持續到 2027 年。其核心背景脈絡在於地緣政治衝突，特別是中東地區的戰事限制了油輪通過荷莫茲海峽，導致原油供應受阻，進而影響煉油廠的產能。同時，烏克蘭對俄羅斯煉油設施的襲擊，也大幅減少了全球柴油的供應量。這種供應鏈的衝擊，使得美國柴油庫存創下歷史新低，價格飆升。這不僅影響了貨運、農業等產業的營運成本，也直接衝擊到家庭取暖的開銷。儘管有預期中東原油產量可能在未來幾年恢復，且高煉油利潤可能刺激增產，但任何新的衝突或煉油廠意外，都可能再次推高價格，顯示能源市場的脆弱性與地緣政治的高度相關性。",
       "level3_translation": [
         {
-          "sentence": "Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.",
-          "translation": ""
+          "sentence": "With U.S. retail diesel prices topping $6 a gallon this month for the first time, a worldwide shortage fueled by conflicts in Iran and Ukraine shows little sign of easing before next year, according to Reuters.",
+          "translation": "路透社報導，本月美國零售柴油價格首次突破每加侖 6 美元，而由伊朗和烏克蘭衝突所加劇的全球柴油短缺，在明年之前幾乎看不到緩解的跡象。"
         },
         {
-          "sentence": "Age 63 has emerged as something of a retirement sweet spot for Americans — at least in theory.",
-          "translation": "退休年齡63被視為美國人理想的退休年齡"
+          "sentence": "U.S. diesel stockpiles stood at 107.9 million barrels as of September 11 — a figure that, for that point in the calendar year, has not been matched since the EIA began keeping records in 1982.",
+          "translation": "截至 9 月 11 日，美國柴油庫存量為 1.079 億桶，這個數字是自美國能源情報署（EIA）於 1982 年開始記錄以來，同年曆時間點從未出現過的低點。"
         },
         {
-          "sentence": "According to the 2024 MassMutual Retirement Happiness Study, retirees and pre-retirees identified 63 as the ideal age to leave the workforce (1).",
-          "translation": "根據2024年大眾保險退休幸福研究，退休人士和即將退休的人們認為退休年齡63是最佳的離開工作年齡"
+          "sentence": "According to the EIA's own public projections, distillate fuel oil stocks — a category that includes diesel — are set to drop under 100 million barrels in September and stay beneath the five-year low through all of 2026 and into most of 2027.",
+          "translation": "根據 EIA 自身的公開預測，包含柴油在內的餾分燃料油庫存，預計將在 9 月跌破 1 億桶，並在 2026 年全年及 2027 年大部分時間，維持在五年低點以下。"
         },
         {
-          "sentence": "It's easy to understand the appeal: You're still relatively young, you've had decades to build your savings and you're already eligible to claim Social Security.",
-          "translation": "這個年齡很容易被接受，因為你還是相當年輕，你有多個世代可以積累儲備，你已經可以申請社會保障"
+          "sentence": "The agency projects U.S. retail diesel prices will average $5.55 a gallon in the fourth quarter of 2026 and $4.40 a gallon in 2027.",
+          "translation": "該機構預計，2026 年第四季美國零售柴油平均價格將為每加侖 5.55 美元，2027 年則為每加侖 4.40 美元。"
         },
         {
-          "sentence": "Jeff Bezos backs a platform that lets anyone invest in rental homes for as little as $100 — 6 ways to build wealth like a landlord without actually being one",
-          "translation": ""
+          "sentence": "Storage market data reinforces that outlook.",
+          "translation": "儲存市場數據也印證了這一預期。"
         },
         {
-          "sentence": "A single line on your car insurance policy could be inflating your premium by up to 30% — here's what to change",
-          "translation": ""
+          "sentence": "October bookings for leasable diesel storage across North America and the Caribbean Islands reached 13 million barrels — a four-year peak — compared with just 11 million barrels available back in June, Steven Barsamian, chief operating officer of storage broker The Tank Tiger, told Reuters.",
+          "translation": "儲存經紀公司 The Tank Tiger 的營運長 Steven Barsamian 告訴路透社，北美和加勒比海地區可租賃柴油儲存空間的 10 月預訂量達到 1,300 萬桶，創下四年新高，而 6 月時僅有 1,100 萬桶可用。"
         },
         {
-          "sentence": "A record 45% of central banks plan to grow gold reserves — and many investors are following suit. Get your free gold IRA guide from Priority Gold",
-          "translation": ""
+          "sentence": "Barsamian said that leases are going unsigned because there is little diesel available to store, adding that falling inventories alongside rising tank availability together suggest traders anticipate supplies will stay tight well into at least early next year.",
+          "translation": "Barsamian 表示，許多租賃合約未能簽署，是因為幾乎沒有柴油可供儲存；他補充說，庫存下降但儲存槽可用性上升的現象，共同暗示交易商預期供應緊張狀況將至少持續到明年年初。"
         },
         {
-          "sentence": "But 63 also falls awkwardly between several important retirement milestones — and leaving work at that age could mean accepting a permanently smaller Social Security check, paying for health coverage before Medicare kicks in and asking your savings to support you for potentially three decades.",
-          "translation": "但退休年齡63又落入了幾個重要的退休里程碑之間，離開工作這個年齡有可能意味著接受一個永久小於預期的社會保障金，支付健康保險費用之前的醫療保險費用，讓儲備支持你三十年以上"
+          "sentence": "The shortage stems from supply disruptions on two fronts.",
+          "translation": "這波短缺源於兩個方面的供應中斷。"
         },
         {
-          "sentence": "That makes the age Americans want to retire very different from the age that may put them in the strongest financial position.",
-          "translation": "這使得美國人想退休的年齡與那些能夠使他們處於最佳財務地位的年齡有很大差異"
+          "sentence": "Conflict in the Middle East has restricted tanker traffic through the Strait of Hormuz, cutting crude flows and constraining refinery output, while Ukrainian strikes on Russian refining infrastructure have compounded those losses.",
+          "translation": "中東地區的衝突限制了油輪通過荷莫茲海峽的交通，減少了原油流量並抑制了煉油廠產量；同時，烏克蘭對俄羅斯煉油基礎設施的襲擊，也加劇了這些損失。"
+        },
+        {
+          "sentence": "The EIA said it estimates refinery outages in Russia will continue to affect the global distillate market through the first half of 2027.",
+          "translation": "EIA 表示，預計俄羅斯的煉油廠停工將持續影響全球餾分油市場，直到 2027 年上半年。"
+        },
+        {
+          "sentence": "European and Asian inventories are also strained.",
+          "translation": "歐洲和亞洲的庫存也同樣吃緊。"
+        },
+        {
+          "sentence": "At the Amsterdam-Rotterdam-Antwerp hub, July inventory levels sat roughly 16% under the five-year average, Insights Global data showed, according to Reuters.",
+          "translation": "路透社引述 Insights Global 的數據顯示，在阿姆斯特丹-鹿特丹-安特衛普（ARA）樞紐，7 月的庫存水平比五年平均值低了約 16%。"
+        },
+        {
+          "sentence": "Singapore's distillate holdings have lately run around 8.2 million barrels on average, trailing the 9.6 million-barrel pace recorded through 2025.",
+          "translation": "新加坡的餾分油庫存近期平均約為 820 萬桶，落後於 2025 年記錄的 960 萬桶平均水平。"
+        },
+        {
+          "sentence": "As detailed in earlier coverage, the price surge is rippling through freight, agriculture, and home heating.",
+          "translation": "正如先前報導所詳述，柴油價格飆升正對貨運、農業和家庭取暖產生連鎖反應。"
+        },
+        {
+          "sentence": "Carmit Glik, CEO of Ship4wd, said diesel costs move through \"freight rates, farm equipment, food delivery, and home heating — anything that touches a truck at some point in its journey,\" according to Reuters.",
+          "translation": "路透社報導，Ship4wd 執行長 Carmit Glik 表示，柴油成本會透過『貨運費率、農用設備、食品配送和家庭取暖——任何在運輸過程中會接觸到卡車的事物』來傳導。"
+        },
+        {
+          "sentence": "Mark Wolfe, executive director of the National Energy Assistance Directors Association, warned that households dependent on heating oil — concentrated in the Northeast — could face bills as much as 31% higher this winter if diesel prices hold at current levels.",
+          "translation": "全國能源援助主任協會執行董事 Mark Wolfe 警告，如果柴油價格維持在目前水平，東北部地區依賴取暖用油的家庭，今年冬天可能面臨高達 31% 的帳單漲幅。"
+        },
+        {
+          "sentence": "Some relief could emerge.",
+          "translation": "不過，一些緩解的跡象可能會出現。"
+        },
+        {
+          "sentence": "The EIA's September Short-Term Energy Outlook expects most Middle East crude production to return to near pre-conflict averages by the second quarter of 2027, which the agency said would boost refinery output and allow distillate inventories to rebuild.",
+          "translation": "EIA 的 9 月短期能源展望預計，大部分中東原油產量將在 2027 年第二季前恢復到接近衝突前的平均水平，該機構表示這將提振煉油廠產量並讓餾分油庫存得以重建。"
+        },
+        {
+          "sentence": "Analysts also expect record diesel refining margins to encourage more production.",
+          "translation": "分析師也預期，創紀錄的柴油煉油利潤將鼓勵更多產量。"
+        },
+        {
+          "sentence": "Nevertheless, a flare-up in either the Middle East or the Russia-Ukraine war, or an unexpected refinery disruption, could send prices sharply higher again.",
+          "translation": "然而，無論是中東或俄烏戰爭的衝突升級，或是意外的煉油廠中斷，都可能再次導致價格急劇上漲。"
+        },
+        {
+          "sentence": "Alex Hodes, director of energy market strategy at StoneX, put it plainly to Reuters: \"Current fundamentals point to higher prices staying here for a while.\"",
+          "translation": "StoneX 能源市場策略總監 Alex Hodes 向路透社直言：『目前的市場基本面顯示，高油價將會持續一段時間。』"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "‘This could be something more substantial’: Wall Street braces for more Fed rate hikes",
+      "title": "Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/economy/policy/article/this-could-be-something-more-substantial-wall-street-braces-for-more-fed-rate-hikes-123400710.html",
-      "level1_blind": "Wall Street is reading between the lines and bracing for what it sees as the likelihood of more rate hikes this year.\n\n\"This may not be a one or two and done,\" Michael Goosay, chief investment officer of global fixed income at Principal Asset Management, told Yahoo Finance.\n\n\"This could be something more substantial if they're truly trying to create demand destruction in order to get inflation under control,\" he added.\n\nInvestors have priced in more than a 50% chance of another rate hike in October after the Federal Reserve voted unanimously last week to increase rates. Meanwhile, in the Fed's Summary of Economic Projections, officials project one more rate hike this year.\n\nGoldman Sachs economists on Wednesday said it now expects Fed officials to deliver a second 25 basis point hike next move, in \\",
+      "link": "https://finance.yahoo.com/energy/articles/crude-prices-sink-larger-flows-153518210.html",
+      "level1_blind": "October WTI crude oil (CLV26) is down -4.78 (-4.77%) today, and October RBOB gasoline (RBV26) is down -0.0319 (-0.90%).\n\nCrude oil and gasoline prices are sharply lower today, with crude dropping to a 1.5-week low. Crude prices are retreating in hopes that diplomacy will end hostilities in the Middle East and that an increase in crude flows moving through the Strait of Hormuz will ease supply concerns.\n\nCrude oil prices are falling today on diplomatic efforts to end the US-Iran war and signs that crude flows are still getting through the Strait of Hormuz. President Trump said he would \"probably\" be open to meeting Iranian President Masoud Pezeshkian on the sidelines of the UN General Assembly in New York this week.\n\nAlso, more crude supplies are moving through the Strait of Hormuz, easing supply concerns, after Admiral Brad Cooper, head of US Central Command, said crude and liquefied natural gas flows through the Strait of Hormuz over the past two weeks are running at a six-month high.\n\nLosses in crude oil accelerated today after data from the European Union's Sentinel 2 satellite showed oil supertankers with the capacity to collect 14 million bbl of oil were observed at Saudi Arabia's export installations inside the Persian Gulf, signaling the country has shifted its crude exports back toward the Strait of Hormuz following the shutdown of its East-West pipeline.\n\nCrude oil prices rallied to a 4-month high last Tuesday on fears that global oil supplies will tighten further after Saudi Arabia shut down its key East-West pipeline, disrupting a key route that bypasses the Strait of Hormuz. The 750-mile-long East-West pipeline, which carries 7 million bpd of crude, was closed as a precaution following attacks by Houthi rebels. The pipeline moves oil away from the Persian Gulf toward the Red Sea, where it can be loaded on tankers. Last Tuesday, Saudi Aramco said it is delaying oil deliveries to some European customers because of the pipeline closure.\n\nCrude also has support as Yemen's Houthi rebels target energy facilities in Saudi Arabia, forcing several oil facilities to halt production. Saudi Arabia said that its crude production in August fell to 6.238 million bpd, the lowest since 1990.\n\nThe advances by the Houthi rebels to take territory along the Red Sea in Yemen are also contributing to concerns about tighter oil supplies from the Middle East. Last Tuesday, the Houthis captured a pair of islands near the Bab-al-Mandeb Strait. That followed their seizure of Perim Island and the Red Sea port city of Mokha at the southern end of the Red Sea, putting the group in a stronger position to attack ships. Since the closure of the Strait of Hormuz, Saudi Arabia had pivoted to the Red Sea to export most of its oil over the past two months. However, escalating tensions with the Houthis have disrupted that route.",
       "level2_keywords": [
         {
-          "word": "rate",
-          "ipa": "/reɪt/",
-          "meaning": "利率",
-          "example": "他說利率將會上升"
+          "word": "supertankers",
+          "ipa": "",
+          "meaning": "大型油 tanker",
+          "example": "大型油 tanker"
         },
         {
-          "word": "hike",
-          "ipa": "/haɪk/",
-          "meaning": "增加",
-          "example": "公司將會增加薪水"
+          "word": "Strait of Hormuz",
+          "ipa": "",
+          "meaning": "霍爾穆茲海峽",
+          "example": "霍爾穆茲海峽"
         },
         {
-          "word": "inflation",
-          "ipa": "/ɪnˈflæʃən/",
-          "meaning": "通貨膨脹",
-          "example": "政府要控制通貨膨脹"
+          "word": "East-West pipeline",
+          "ipa": "",
+          "meaning": "東西pipeline",
+          "example": "東西pipeline"
         },
         {
-          "word": "demand",
-          "ipa": "/dɪˈmænd/",
-          "meaning": "需求",
-          "example": "企業要滿足消費者需求"
+          "word": "Saudi Arabia",
+          "ipa": "",
+          "meaning": "沙特阿拉伯",
+          "example": "沙特阿拉伯"
         },
         {
-          "word": "economy",
-          "ipa": "/ɪkəˈnɒmi/",
-          "meaning": "經濟",
-          "example": "政府要促進經濟成長"
+          "word": "Houthi rebels",
+          "ipa": "",
+          "meaning": "霍提派",
+          "example": "霍提派"
         }
       ],
-      "level2_context": "美國聯邦儲備會議（Fed）最近一場會議表明，將會繼續加強 monetary policy，試圖控制通貨膨脹。這將對美國經濟產生重大影響，尤其是對產業和金融市場。",
+      "level2_context": "這篇文章關於油價的變化，主要是因為中東地區的政治 tensions 和油輸的變化，導致油價下跌。沙特阿拉伯因為東西pipeline的關閉，轉而將油輸到霍爾穆茲海峽，然而霍提派的攻擊也使得這個路線受到威脅。這些因素都導致了油價的下跌，且對於全球油價的變化有很大的影響。",
       "level3_translation": [
         {
-          "sentence": "Wall Street is reading between the lines and bracing for what it sees as the likelihood of more rate hikes this year.",
-          "translation": " Wall Street正在分析這可能是 Fed 對利率的更大調整"
+          "sentence": "October WTI crude oil (CLV26) is down -4.78 (-4.77%) today, and October RBOB gasoline (RBV26) is down -0.0319 (-0.90%).",
+          "translation": "十月WTI原油（CLV26）今天下跌了-4.78%（-4.77%），十月RBOB汽油（RBV26）今天下跌了-0.0319%（-0.90%）"
         },
         {
-          "sentence": "\"This may not be a one or two and done,\" Michael Goosay, chief investment officer of global fixed income at Principal Asset Management, told Yahoo Finance.",
-          "translation": "\"這可能不是一項或兩項就完成的,\" Michael Goosay，全球固定收益投資主管，向 Yahoo財經部門表示"
+          "sentence": "Crude oil and gasoline prices are sharply lower today, with crude dropping to a 1.5-week low.",
+          "translation": " crude油和汽油價格今天下跌了，原油價格下跌到過去一周半的最低點"
         },
         {
-          "sentence": "\"This could be something more substantial if they're truly trying to create demand destruction in order to get inflation under control,\" he added.",
-          "translation": "\"如果他們真正在試圖創造需求破壞，以控制通貨膨脹，那麼這可能是更具意義的,\"他補充"
+          "sentence": "Crude oil prices are retreating in hopes that diplomacy will end hostilities in the Middle East and that an increase in crude flows moving through the Strait of Hormuz will ease supply concerns.",
+          "translation": "原油價格正在回避希望外交會使中東地區的衝突結束，同時希望通過霍爾穆茲海峽的原油流動量增加，來減少供應擔憂"
         },
         {
-          "sentence": "Investors have priced in more than a 50% chance of another rate hike in October after the Federal Reserve voted unanimously last week to increase rates.",
-          "translation": "投資者已經將October的利率調整風險估計超過50%，因為聯邦儲備會議最近一周的全體投票決定增加利率"
+          "sentence": "President Trump said he would \"probably\" be open to meeting Iranian President Masoud Pezeshkian on the sidelines of the UN General Assembly in New York this week.",
+          "translation": "美國總統特朗普表示他可能會在紐約的聯合國大會上與伊朗總統馬索德·佩塞希安會面"
         },
         {
-          "sentence": "Goldman Sachs economists on Wednesday said it now expects Fed officials to deliver a second 25 basis point hike next move, in \"a change from our previous expectation that September would be the only hike.\"",
-          "translation": "金匯士經濟學家周三表示，現在預計 Fed官員將在下一步將利率再上調 25基點，與我們之前的預期不同，認為九月將是唯一的調整"
+          "sentence": "Also, more crude supplies are moving through the Strait of Hormuz, easing supply concerns, after Admiral Brad Cooper, head of US Central Command, said crude and liquefied natural gas flows through the Strait of Hormuz over the past two weeks are running at a six-month high.",
+          "translation": "同時，更多的原油供應正在通過霍爾穆茲海峽流動，減少供應擔憂，美國中部指揮部長布拉德·科OPER表示，過去兩周中，霍爾穆茲海峽的原油和液化天然氣流動量達到半年高峰"
         },
         {
-          "sentence": "The economists added, \"The meeting was more hawkish than we expected,\" pointing to the unanimous vote and Fed Chairman Kevin Warsh's description of the hike as having \"removed a dose of accommodation.\"",
-          "translation": "經濟學家補充，會議比我們預期的更 hawkish，指向聯邦儲備會議主席 Kevin Warsh 的描述，說這次的調整已經「移除了某種舒緩的劑量\""
+          "sentence": "Losses in crude oil accelerated today after data from the European Union's Sentinel 2 satellite showed oil supertankers with the capacity to collect 14 million bbl of oil were observed at Saudi Arabia's export installations inside the Persian Gulf, signaling the country has shifted its crude exports back toward the Strait of Hormuz following the shutdown of its East-West pipeline.",
+          "translation": "今天，原油價格加速下跌，歐洲聯盟的Sentinel 2衛星發現有14百万桶的原油大型油 tanker在沙特阿拉伯的出口設施內觀察到，表明沙特阿拉伯已經將原油出口轉回霍爾穆茲海峽，後因東西pipeline關閉而改變"
         },
         {
-          "sentence": "Veteran strategist Ed Yardeni, meanwhile, cut his year-end S&P 500 (^GSPC) price target from 8,400 to 7,900 last week, anticipating more than one rate hike this year.",
-          "translation": "經理 Ed Yardeni Meanwhile，則將年底 S&P 500 的價格目標從 8,400 減至 7,900，預計今年將有多於一項利率調整"
+          "sentence": "Crude oil prices rallied to a 4-month high last Tuesday on fears that global oil supplies will tighten further after Saudi Arabia shut down its key East-West pipeline, disrupting a key route that bypasses the Strait of Hormuz.",
+          "translation": "上周二，原油價格達到四個月的新高，主要是因為沙特阿拉伯關閉了它的主要東西pipeline，打斷了一個關鍵路徑，該路徑避開霍爾穆茲海峽"
         },
         {
-          "sentence": "\"The risk is that higher-for-longer oil prices continue to push bond yields higher,\" Yardeni wrote, suggesting the Fed's hike will be the beginning of a rate-hiking cycle.",
-          "translation": "\"風險在於，長期來看，油價的上升將持續推動國債收益率上升,\" Yardeni 写道，認為 Fed 的調整將是_rate-hiking 循環的開始"
+          "sentence": "The 750-mile-long East-West pipeline, which carries 7 million bpd of crude, was closed as a precaution following attacks by Houthi rebels.",
+          "translation": "東西pipeline，長達750英里，運輸7百萬桶原油的pipeline，因為霍提派的攻擊而關閉，作為預防措施"
+        },
+        {
+          "sentence": "The pipeline moves oil away from the Persian Gulf toward the Red Sea, where it can be loaded on tankers.",
+          "translation": "這條pipeline將原油從波斯灣運往紅海，從而可以在tanker上運輸"
+        },
+        {
+          "sentence": "Last Tuesday, Saudi Aramco said it is delaying oil deliveries to some European customers because of the pipeline closure.",
+          "translation": "上周二，沙特阿拉莫公司表示，因為pipeline關閉而將原油供應給一些歐洲客戶的延遲"
+        },
+        {
+          "sentence": "Crude also has support as Yemen's Houthi rebels target energy facilities in Saudi Arabia, forcing several oil facilities to halt production.",
+          "translation": "原油還有支持因為葉門的霍提派攻擊沙特阿拉伯的能源設施，迫使多個油氣設施暫停生產"
+        },
+        {
+          "sentence": "Saudi Arabia said that its crude production in August fell to 6.238 million bpd, the lowest since 1990.",
+          "translation": "沙特阿拉伯表示其八月份原油生產量下降到6.238百萬桶/天，自1990年以來最低"
+        },
+        {
+          "sentence": "The advances by the Houthi rebels to take territory along the Red Sea in Yemen are also contributing to concerns about tighter oil supplies from the Middle East.",
+          "translation": "葉門的霍提派攻擊沿紅海的領土也使得中東地區原油供應的緊張程度增加"
+        },
+        {
+          "sentence": "Last Tuesday, the Houthis captured a pair of islands near the Bab-al-Mandeb Strait.",
+          "translation": "上周二，霍提派攻擊了紅海海峽附近的一個島"
+        },
+        {
+          "sentence": "That followed their seizure of Perim Island and the Red Sea port city of Mokha at the southern end of the Red Sea, putting the group in a stronger position to attack ships.",
+          "translation": "接著他們攻擊了紅海的佩里姆島和紅海港市莫卡，將這個島群的霍提派置於紅海的南端，增強了對船隻的攻擊能力"
+        },
+        {
+          "sentence": "Since the closure of the Strait of Hormuz, Saudi Arabia had pivoted to the Red Sea to export most of its oil over the past two months.",
+          "translation": "自從霍爾穆茲海峽關閉，沙特阿拉伯已經轉向紅海出口大部分的原油"
+        },
+        {
+          "sentence": "However, escalating tensions with the Houthis have disrupted that route.",
+          "translation": "然而，與霍提派的緊張程度增加，使得這個路徑受到干擾"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "今日台股大戶大買友達（2409）與美國 CNBC主持人Jim Cramer對於Apple（AAPL）新推出的iPhone 18和foldable Duo的關注，可能與美國聯邦儲備會議（Fed）將再次加息的預期有關。Cramer的買入信號可能是因為他認為這兩款新品能夠給Apple的忠誠客戶帶來新的購買機會，從而推動公司的財務表現。與此同時，美國聯邦儲備會議（Fed）加息的預期也可能影響到全球股市，進而對台股產生影響。因此，今日台股大戶大買友達（2409）可能是因為對於Apple（AAPL）新品的關注，以及對於全球經濟趨勢的預期，進行了買入操作。"
+    "market_connection": "兩個 news 的內容看似相互無關，但透過分析 diesel shortage 的原因和 crude prices 的變化，發現 diesel shortage 的持續時間可能會延長至 2027，從而對 crude prices 的變化產生影響。 diesel shortage 的持續時間會影響 crude prices 的變化，從而對全球能源市場產生影響。因此，需要密切關注 diesel shortage 的持續時間和 crude prices 的變化，來預測能源市場的趨勢。"
   }
 }
