@@ -1,378 +1,378 @@
 {
-  "date": "2026-09-23",
-  "stock_market_date": "2026-09-22",
+  "date": "2026-09-24",
+  "stock_market_date": "2026-09-23",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 245313959
+          "stock_name": "台泥",
+          "ticker": "1101",
+          "net_buy_shares": 30065221
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 50545175
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 29196171
         },
         {
           "rank": 3,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 24829555
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 24015432
         },
         {
           "rank": 4,
-          "stock_name": "京元電子",
-          "ticker": "2449",
-          "net_buy_shares": 16162022
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 14583315
         },
         {
           "rank": 5,
-          "stock_name": "台泥",
-          "ticker": "1101",
-          "net_buy_shares": 14828392
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 11207675
         },
         {
           "rank": 6,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 12736350
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 10124159
         },
         {
           "rank": 7,
-          "stock_name": "宏齊",
-          "ticker": "6168",
-          "net_buy_shares": 11576597
+          "stock_name": "南茂",
+          "ticker": "8150",
+          "net_buy_shares": 9255162
         },
         {
           "rank": 8,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_buy_shares": 9867370
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_buy_shares": 9221857
         },
         {
           "rank": 9,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_buy_shares": 9732801
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_buy_shares": 7123363
         },
         {
           "rank": 10,
-          "stock_name": "景碩",
-          "ticker": "3189",
-          "net_buy_shares": 9136578
+          "stock_name": "國際中橡",
+          "ticker": "2104",
+          "net_buy_shares": 6861889
         }
       ],
       "foreign_sell": [
         {
           "rank": 1,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_sell_shares": -30549430
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -153888176
         },
         {
           "rank": 2,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_sell_shares": -27960513
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -47830253
         },
         {
           "rank": 3,
-          "stock_name": "中石化",
-          "ticker": "1314",
-          "net_sell_shares": -26529722
+          "stock_name": "彩晶",
+          "ticker": "6116",
+          "net_sell_shares": -16225115
         },
         {
           "rank": 4,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -24347573
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_sell_shares": -14428875
         },
         {
           "rank": 5,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -22444770
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -11051231
         },
         {
           "rank": 6,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_sell_shares": -21626163
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -10353990
         },
         {
           "rank": 7,
           "stock_name": "仁寶",
           "ticker": "2324",
-          "net_sell_shares": -19467750
+          "net_sell_shares": -9770369
         },
         {
           "rank": 8,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_sell_shares": -13857833
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_sell_shares": -9087656
         },
         {
           "rank": 9,
-          "stock_name": "中租-KY",
-          "ticker": "5871",
-          "net_sell_shares": -9722296
-        },
-        {
-          "rank": 10,
-          "stock_name": "宏碁",
-          "ticker": "2353",
-          "net_sell_shares": -9622669
-        }
-      ],
-      "trust_buy": [
-        {
-          "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 7857888
-        },
-        {
-          "rank": 2,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 5133000
-        },
-        {
-          "rank": 3,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 3993000
-        },
-        {
-          "rank": 4,
-          "stock_name": "昇陽半導體",
-          "ticker": "8028",
-          "net_buy_shares": 3007000
-        },
-        {
-          "rank": 5,
-          "stock_name": "京元電子",
-          "ticker": "2449",
-          "net_buy_shares": 2979171
-        },
-        {
-          "rank": 6,
-          "stock_name": "宏致",
-          "ticker": "3605",
-          "net_buy_shares": 2487000
-        },
-        {
-          "rank": 7,
-          "stock_name": "元大高股息",
-          "ticker": "0056",
-          "net_buy_shares": 2450000
-        },
-        {
-          "rank": 8,
-          "stock_name": "尖點",
-          "ticker": "8021",
-          "net_buy_shares": 1852000
-        },
-        {
-          "rank": 9,
-          "stock_name": "台達電",
-          "ticker": "2308",
-          "net_buy_shares": 1642057
-        },
-        {
-          "rank": 10,
-          "stock_name": "台塑化",
-          "ticker": "6505",
-          "net_buy_shares": 1594167
-        }
-      ],
-      "trust_sell": [
-        {
-          "rank": 1,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -15494573
-        },
-        {
-          "rank": 2,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_sell_shares": -5434984
-        },
-        {
-          "rank": 3,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_sell_shares": -4781067
-        },
-        {
-          "rank": 4,
-          "stock_name": "力成",
-          "ticker": "6239",
-          "net_sell_shares": -2132940
-        },
-        {
-          "rank": 5,
-          "stock_name": "富邦金",
-          "ticker": "2881",
-          "net_sell_shares": -1561461
-        },
-        {
-          "rank": 6,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_sell_shares": -1315022
-        },
-        {
-          "rank": 7,
-          "stock_name": "緯穎",
-          "ticker": "6669",
-          "net_sell_shares": -1244158
-        },
-        {
-          "rank": 8,
-          "stock_name": "神達",
-          "ticker": "3706",
-          "net_sell_shares": -1107000
-        },
-        {
-          "rank": 9,
-          "stock_name": "超豐",
-          "ticker": "2441",
-          "net_sell_shares": -666000
-        },
-        {
-          "rank": 10,
-          "stock_name": "台光電",
-          "ticker": "2383",
-          "net_sell_shares": -653668
-        }
-      ],
-      "dealer_buy": [
-        {
-          "rank": 1,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 1816347
-        },
-        {
-          "rank": 2,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_buy_shares": 1253611
-        },
-        {
-          "rank": 3,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 960849
-        },
-        {
-          "rank": 4,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_buy_shares": 804204
-        },
-        {
-          "rank": 5,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_buy_shares": 680390
-        },
-        {
-          "rank": 6,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 566000
-        },
-        {
-          "rank": 7,
-          "stock_name": "京元電子",
-          "ticker": "2449",
-          "net_buy_shares": 479022
-        },
-        {
-          "rank": 8,
-          "stock_name": "台表科",
-          "ticker": "6278",
-          "net_buy_shares": 465000
-        },
-        {
-          "rank": 9,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_buy_shares": 454938
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -8547891
         },
         {
           "rank": 10,
           "stock_name": "新唐",
           "ticker": "4919",
-          "net_buy_shares": 415065
+          "net_sell_shares": -5755924
+        }
+      ],
+      "trust_buy": [
+        {
+          "rank": 1,
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 7481000
+        },
+        {
+          "rank": 2,
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 5498000
+        },
+        {
+          "rank": 3,
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 3234000
+        },
+        {
+          "rank": 4,
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 3005000
+        },
+        {
+          "rank": 5,
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 2200000
+        },
+        {
+          "rank": 6,
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 2006000
+        },
+        {
+          "rank": 7,
+          "stock_name": "長榮",
+          "ticker": "2603",
+          "net_buy_shares": 1961700
+        },
+        {
+          "rank": 8,
+          "stock_name": "興富發",
+          "ticker": "2542",
+          "net_buy_shares": 1911000
+        },
+        {
+          "rank": 9,
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 1892000
+        },
+        {
+          "rank": 10,
+          "stock_name": "中租-KY",
+          "ticker": "5871",
+          "net_buy_shares": 1746000
+        }
+      ],
+      "trust_sell": [
+        {
+          "rank": 1,
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -3734900
+        },
+        {
+          "rank": 2,
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_sell_shares": -3276000
+        },
+        {
+          "rank": 3,
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -3272000
+        },
+        {
+          "rank": 4,
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_sell_shares": -2870000
+        },
+        {
+          "rank": 5,
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_sell_shares": -2276360
+        },
+        {
+          "rank": 6,
+          "stock_name": "神達",
+          "ticker": "3706",
+          "net_sell_shares": -1634000
+        },
+        {
+          "rank": 7,
+          "stock_name": "大聯大",
+          "ticker": "3702",
+          "net_sell_shares": -1557000
+        },
+        {
+          "rank": 8,
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_sell_shares": -1312000
+        },
+        {
+          "rank": 9,
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -1142808
+        },
+        {
+          "rank": 10,
+          "stock_name": "超豐",
+          "ticker": "2441",
+          "net_sell_shares": -891000
+        }
+      ],
+      "dealer_buy": [
+        {
+          "rank": 1,
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 2888277
+        },
+        {
+          "rank": 2,
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_buy_shares": 1139654
+        },
+        {
+          "rank": 3,
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_buy_shares": 815866
+        },
+        {
+          "rank": 4,
+          "stock_name": "全新",
+          "ticker": "2455",
+          "net_buy_shares": 795999
+        },
+        {
+          "rank": 5,
+          "stock_name": "晶技",
+          "ticker": "3042",
+          "net_buy_shares": 600982
+        },
+        {
+          "rank": 6,
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_buy_shares": 411949
+        },
+        {
+          "rank": 7,
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 366000
+        },
+        {
+          "rank": 8,
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 311076
+        },
+        {
+          "rank": 9,
+          "stock_name": "GIS-KY",
+          "ticker": "6456",
+          "net_buy_shares": 243000
+        },
+        {
+          "rank": 10,
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 213945
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "中石化",
-          "ticker": "1314",
-          "net_sell_shares": -1524357
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -4109000
         },
         {
           "rank": 2,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -977241
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -3475347
         },
         {
           "rank": 3,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -760405
+          "stock_name": "興富發",
+          "ticker": "2542",
+          "net_sell_shares": -1486700
         },
         {
           "rank": 4,
-          "stock_name": "瑞軒",
-          "ticker": "2489",
-          "net_sell_shares": -669000
+          "stock_name": "南茂",
+          "ticker": "8150",
+          "net_sell_shares": -665084
         },
         {
           "rank": 5,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_sell_shares": -470066
+          "stock_name": "新唐",
+          "ticker": "4919",
+          "net_sell_shares": -579920
         },
         {
           "rank": 6,
-          "stock_name": "台勝科",
-          "ticker": "3532",
-          "net_sell_shares": -417415
+          "stock_name": "漢翔",
+          "ticker": "2634",
+          "net_sell_shares": -501000
         },
         {
           "rank": 7,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -409366
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_sell_shares": -380597
         },
         {
           "rank": 8,
-          "stock_name": "揚明光",
-          "ticker": "3504",
-          "net_sell_shares": -330000
+          "stock_name": "遠東銀",
+          "ticker": "2845",
+          "net_sell_shares": -369000
         },
         {
           "rank": 9,
-          "stock_name": "富采",
-          "ticker": "3714",
-          "net_sell_shares": -275998
+          "stock_name": "彩晶",
+          "ticker": "6116",
+          "net_sell_shares": -361000
         },
         {
           "rank": 10,
-          "stock_name": "益航",
-          "ticker": "2601",
-          "net_sell_shares": -250000
+          "stock_name": "宏達電",
+          "ticker": "2498",
+          "net_sell_shares": -301992
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "友達",
-        "shares": 85859885
+        "target": "台泥",
+        "shares": 10522827
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "友達",
-        "shares": 726538
+        "target": "元大台灣50",
+        "shares": 1155310
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "聯電",
-        "shares": 3536049
+        "target": "長榮航",
+        "shares": 3366450
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "緯創",
-        "shares": 9164829
+        "target": "友達",
+        "shares": 46166452
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Bank of America says buy tumbling shares of aviation giant",
+      "title": "Kalshi asks CFTC to allow margin trading on prediction markets",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
-      "summary": "Bank of America says buy tumbling shares of aviation giant",
-      "full_text": "Boeing (BA) shares fell again this week. The stock closed at $198.20 on Friday, September 18, down 4.83% over the past five trading days and 12.98% year to date.\n\nThe drop came after comments from CEO Kelly Ortberg at Morgan Stanley's Laguna Conference on September 16, where he identified new challenges on the 737 and 787 production ramps, and pushed 777X certification testing further into 2027.\n\nBoeing is already under pressure to prove that its turnaround is feasible, and the CEO's comments only added to investors' caution. Yet, even with the caution, at least one major bank sees the pullback as a chance to add shares of the plane maker at a discount.\n\nOrtberg told the audience at the Morgan Stanley conference that the 737 production line has not yet stabilized at the 47-jets-per-month rate Boeing had targeted. The delay is due to in-house production of wings, though Boeing said the broader supply chain is holding up.\n\nOn a more positive note, Ortberg said the 737 MAX 10 variant should get its certification \"very soon,\" and told analysts, \"When I left Seattle yesterday, I think we had three deliverables to complete.\"\n\nOrtberg also confirmed that certification testing on the 777X, Boeing's delayed widebody, would extend into 2027. The plane is already about seven years past its original schedule, and its ETOPS certification has been held up by an engine seal issue on the GE Aerospace-built GE9X turbine.\n\nGE Aerospace (GE) responded that certification can move forward with the existing seals, and said the upgraded parts began shipping in August. Boeing designs and builds commercial jets, defense aircraft and space systems, so any issue in the production ramp affects revenue and the delivery schedules airlines have already committed to.\n\nBank of America aerospace analyst Ronald Epstein used the selloff to reiterate his Buy rating and $270 price target. Epstein has covered aerospace and defense at Bank of America for over a decade and holds a five-star analyst rating from TipRanks, which makes his call credible with institutional investors.",
-      "published": "2026-09-21T14:37:00Z"
+      "link": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html",
+      "summary": "Kalshi asks CFTC to allow margin trading on prediction markets",
+      "full_text": "Kalshi filed on Tuesday with the Commodity Futures Trading Commission seeking approval to offer leverage on its event contracts, a move the company says is aimed at drawing institutional traders to its prediction markets, according to CNBC.\n\nThe filing came from Kalshi Klear, the company's internal clearinghouse. With margin trading, a trader uses borrowed funds to gain exposure to more of an asset than their own cash would cover — a standard practice in equities and derivatives markets, though one not yet permitted on regulated U.S. event contract exchanges, where all positions are currently fully collateralized.\n\nIn a memo provided to CNBC, Kalshi said leverage would make longer-dated prediction markets more attractive to institutions. Kalshi also described plans for a tiered structure in which the collateral needed to maintain a leveraged position would rise the closer a contract gets to settling.\n\nAccess to leverage, if the CFTC signs off, would be restricted to self-clearing members who satisfy specified capital thresholds given their direct clearing relationships with Kalshi Klear, a company spokesperson confirmed. The company said it would not offer margin on sports event contracts, or on its culture and \"mention\" markets.\n\nLeverage is already a feature on Kalshi's perpetual futures products, but the company has not yet cleared the regulatory bar to extend it to its prediction market offerings.\n\nThe push for margin access reflects a broader effort by prediction market platforms to attract institutional participation. Polymarket, a rival, made moves in July to obtain regulatory licenses that would eventually allow it to offer margin trading on event contracts in the U.S., according to CNBC.\n\nTuesday's filing is the latest in a string of expansion moves by Kalshi. The platform launched a professional trading terminal for its most active users, offering features including deeper order book visibility and risk management tools for perpetual positions. The company accounts for more than 90% of prediction market activity in the U.S., with annualized trading volume climbing from $52 billion to $178 billion over six months.\n\nKalshi has also been expanding internationally. The company partnered with brokerage infrastructure startup Alpaca to make its event contracts available to users outside the U.S., and earlier partnered with Canadian financial firm Wealthsimple to bring its markets to Canada.",
+      "published": "2026-09-22T12:39:18Z"
     },
     {
       "id": "news_2",
-      "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
+      "title": "Bessent just picked the one wage measure still rising",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
-      "summary": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
-      "full_text": "With U.S. retail diesel prices topping $6 a gallon this month for the first time, a worldwide shortage fueled by conflicts in Iran and Ukraine shows little sign of easing before next year, according to Reuters.\n\nU.S. diesel stockpiles stood at 107.9 million barrels as of September 11 — a figure that, for that point in the calendar year, has not been matched since the EIA began keeping records in 1982. According to the EIA's own public projections, distillate fuel oil stocks — a category that includes diesel — are set to drop under 100 million barrels in September and stay beneath the five-year low through all of 2026 and into most of 2027. The agency projects U.S. retail diesel prices will average $5.55 a gallon in the fourth quarter of 2026 and $4.40 a gallon in 2027.\n\nStorage market data reinforces that outlook. October bookings for leasable diesel storage across North America and the Caribbean Islands reached 13 million barrels — a four-year peak — compared with just 11 million barrels available back in June, Steven Barsamian, chief operating officer of storage broker The Tank Tiger, told Reuters. Barsamian said that leases are going unsigned because there is little diesel available to store, adding that falling inventories alongside rising tank availability together suggest traders anticipate supplies will stay tight well into at least early next year.\n\nThe shortage stems from supply disruptions on two fronts. Conflict in the Middle East has restricted tanker traffic through the Strait of Hormuz, cutting crude flows and constraining refinery output, while Ukrainian strikes on Russian refining infrastructure have compounded those losses. The EIA said it estimates refinery outages in Russia will continue to affect the global distillate market through the first half of 2027.\n\nEuropean and Asian inventories are also strained. At the Amsterdam-Rotterdam-Antwerp hub, July inventory levels sat roughly 16% under the five-year average, Insights Global data showed, according to Reuters. Singapore's distillate holdings have lately run around 8.2 million barrels on average, trailing the 9.6 million-barrel pace recorded through 2025.\n\nAs detailed in earlier coverage, the price surge is rippling through freight, agriculture, and home heating. Carmit Glik, CEO of Ship4wd, said diesel costs move through \"freight rates, farm equipment, food delivery, and home heating — anything that touches a truck at some point in its journey,\" according to Reuters. Mark Wolfe, executive director of the National Energy Assistance Directors Association, warned that households dependent on heating oil — concentrated in the Northeast — could face bills as much as 31% higher this winter if diesel prices hold at current levels.\n\nSome relief could emerge. The EIA's September Short-Term Energy Outlook expects most Middle East crude production to return to near pre-conflict averages by the second quarter of 2027, which the agency said would boost refinery output and allow distillate inventories to rebuild. Analysts also expect record diesel refining margins to encourage more production.\n\nNevertheless, a flare-up in either the Middle East or the Russia-Ukraine war, or an unexpected refinery disruption, could send prices sharply higher again. Alex Hodes, director of energy market strategy at StoneX, put it plainly to Reuters: \"Current fundamentals point to higher prices staying here for a while.\"",
-      "published": "2026-09-21T18:17:21Z"
+      "link": "https://finance.yahoo.com/economy/articles/bessent-just-picked-one-wage-194700442.html",
+      "summary": "Bessent just picked the one wage measure still rising",
+      "full_text": "Politicians have a favorite number. The trick is finding one that is true, flattering, and narrow enough that nobody checks what sits next to it.\n\nWage data makes that easy. The government publishes dozens of pay measures every month, covering hourly and weekly pay, managers and rank-and-file staff, factory floors and restaurant kitchens, with many of them also adjusted for inflation.\n\nIn a good year, most of those measures point in the same direction. In a rough year, they split apart, and whoever holds the microphone gets to choose which one you hear about.\n\nThis has been a rough year for your grocery and gas budget. Gasoline costs 27.4% more than it did a year ago, and the Federal Reserve just raised interest rates for the first time since 2023.\n\nFor most households, that combination adds up to a paycheck that buys a little less than it did last summer.\n\nSo when Treasury Secretary Scott Bessent went looking for good news about American wages on Monday, Sept. 21, he had to be choosy. He found two numbers that still look great, and both belong to people who build things for a living.\n\nA raise only counts if it outruns prices. Economists call what is left over \"real\" wages, and it is the closest thing the government has to a measure of whether your paycheck is truly growing.\n\nRight now, that measure is flashing yellow. Real average hourly earnings for all private-sector employees fell 0.3% from August 2025 to August 2026, according to the Bureau of Labor Statistics (BLS).",
+      "published": "2026-09-22T19:47:00Z"
     },
     {
       "id": "news_3",
-      "title": "Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz",
+      "title": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/energy/articles/crude-prices-sink-larger-flows-153518210.html",
-      "summary": "Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz",
-      "full_text": "October WTI crude oil (CLV26) is down -4.78 (-4.77%) today, and October RBOB gasoline (RBV26) is down -0.0319 (-0.90%).\n\nCrude oil and gasoline prices are sharply lower today, with crude dropping to a 1.5-week low. Crude prices are retreating in hopes that diplomacy will end hostilities in the Middle East and that an increase in crude flows moving through the Strait of Hormuz will ease supply concerns.\n\nCrude oil prices are falling today on diplomatic efforts to end the US-Iran war and signs that crude flows are still getting through the Strait of Hormuz. President Trump said he would \"probably\" be open to meeting Iranian President Masoud Pezeshkian on the sidelines of the UN General Assembly in New York this week.\n\nAlso, more crude supplies are moving through the Strait of Hormuz, easing supply concerns, after Admiral Brad Cooper, head of US Central Command, said crude and liquefied natural gas flows through the Strait of Hormuz over the past two weeks are running at a six-month high.\n\nLosses in crude oil accelerated today after data from the European Union's Sentinel 2 satellite showed oil supertankers with the capacity to collect 14 million bbl of oil were observed at Saudi Arabia's export installations inside the Persian Gulf, signaling the country has shifted its crude exports back toward the Strait of Hormuz following the shutdown of its East-West pipeline.\n\nCrude oil prices rallied to a 4-month high last Tuesday on fears that global oil supplies will tighten further after Saudi Arabia shut down its key East-West pipeline, disrupting a key route that bypasses the Strait of Hormuz. The 750-mile-long East-West pipeline, which carries 7 million bpd of crude, was closed as a precaution following attacks by Houthi rebels. The pipeline moves oil away from the Persian Gulf toward the Red Sea, where it can be loaded on tankers. Last Tuesday, Saudi Aramco said it is delaying oil deliveries to some European customers because of the pipeline closure.\n\nCrude also has support as Yemen's Houthi rebels target energy facilities in Saudi Arabia, forcing several oil facilities to halt production. Saudi Arabia said that its crude production in August fell to 6.238 million bpd, the lowest since 1990.\n\nThe advances by the Houthi rebels to take territory along the Red Sea in Yemen are also contributing to concerns about tighter oil supplies from the Middle East. Last Tuesday, the Houthis captured a pair of islands near the Bab-al-Mandeb Strait. That followed their seizure of Perim Island and the Red Sea port city of Mokha at the southern end of the Red Sea, putting the group in a stronger position to attack ships. Since the closure of the Strait of Hormuz, Saudi Arabia had pivoted to the Red Sea to export most of its oil over the past two months. However, escalating tensions with the Houthis have disrupted that route.",
-      "published": "2026-09-21T15:35:18Z"
+      "link": "https://finance.yahoo.com/markets/crypto/articles/grant-cardone-offers-10-bitcoin-201519149.html",
+      "summary": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
+      "full_text": "Grant Cardone took to X to announce he will pay 10 BTC, worth several hundred thousand dollars, to whoever brings him a qualified buyer for his 2024 Global 7500 jet.\n\nThe aircraft in question has four cabins and just 200 hours of flight time, still under warranty.\n\nAccording to Cardone, the buyer must be introduced directly to his team, not a broker, and the person making the introduction must help see the deal through to closing.\n\nIf multiple people are involved in bringing the deal together, the Bitcoin reward will be split among them.\n\n\"This does not guarantee you payment for a name or referral or a mention. To earn 10BTC you must introduce the actual buyer to my team (not to a broker) and assist in bringing deal to a close as advertised above. If you elect to bring in help or other players the BTC will be shared,\" he announced on X.\n\nCardone listed the jet for sale earlier this month at $80 million, directing serious buyers to email his team at Cardone Capital.\n\nIn his listing, Cardone also took a swipe at trade policy, claiming tariffs have effectively blocked Bombardier jet sales in the United States, a dynamic he framed as basic supply and demand working in his favor.\n\n\"For Sale 2024 Global 7500- 4 cabins, 200 hours, No Tariffs, $80M. Only Serious Buyers. Trump forbids sales of Bombardier in the United States. Supply & Demand, Thank you sir,\" he wrote on X.",
+      "published": "2026-09-22T20:15:19Z"
     }
   ]
 }

@@ -1,458 +1,437 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "stock_uncle_insight": {
-    "date_header": "9/23 法人與主力大戶主要買超股票",
+    "date_header": "[9/24] 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃面板雙虎與半導體低基期股",
+        "group_title": "1. 外資大戶：狂掃傳產、DRAM與航空，面板三雄被倒貨",
         "stocks": [
           {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "肖年仔，你看外資這波狂掃友達，一口氣買超 24.5 萬張，這不是玩假的，擺明了就是看好面板產業谷底翻身，準備要鎖碼了啦！"
+            "stock_name": "台泥",
+            "ticker": "1101",
+            "description": "肖年仔，你看這台泥被外資狂掃了 3006.52 萬張，這不是黑白買的啦！擺明是看好傳產低基期，準備波段操作，資金從高檔撤出轉進避風港啦！"
           },
           {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "聯電這檔成熟製程的，外資也買了 5.05 萬張，投信跟自營商也跟著買，這就是法人有共識，覺得半導體修正夠了，低基期開始卡位了啦！"
+            "stock_name": "南亞科",
+            "ticker": "2408",
+            "description": "DRAM這波外資也沒放過，南亞科被買了 2919.62 萬張，這就是景氣循環股在谷底翻身前的卡位戰，外資大戶的嗅覺就是靈敏。"
           },
           {
-            "stock_name": "群創",
-            "ticker": "3481",
-            "description": "面板雙虎的另一隻，群創也被外資敲進 2.48 萬張，跟友達一樣，外資大戶在賭產業復甦，韭菜們別傻傻地去追高AI，這種低基期才是真香。"
-          },
-          {
-            "stock_name": "京元電子",
-            "ticker": "2449",
-            "description": "這檔半導體封測的，外資買超 1.61 萬張，投信也買了近 3 千張，看來法人對半導體下游的看法也轉趨樂觀，準備要點火了。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：航空避險與半導體共識",
-        "stocks": [
-          {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "投信也跟著外資買聯電，敲進 7857 張，這表示本土國家隊也認同聯電的價值，不是黑白買的，是看好後市的共識單。"
+            "stock_name": "力積電",
+            "ticker": "6770",
+            "description": "力積電也被外資買了 2401.54 萬張，加上自營商也跟進，這表示晶圓代工的低價股也開始被注意了，可能是看好未來訂單回溫。"
           },
           {
             "stock_name": "華航",
             "ticker": "2610",
-            "description": "肖年仔，你看投信買超華航 5133 張，長榮航也買了 3993 張，這擺明了就是高檔避險，把資金從高風險股撤出來，轉進這種有旺季效應的傳產股，國際航空業有復甦跡象，他們在卡位啦！"
+            "description": "航空雙雄外資也沒放過，華航被買了 1458.33 萬張，這擺明是看好解封後的觀光復甦，資金往有題材的板塊移動啦！"
           },
           {
             "stock_name": "長榮航",
             "ticker": "2618",
-            "description": "跟華航一樣，投信買超長榮航 3993 張，航空雙雄一起買，這不是巧合，是法人在找資金避風港，順便搭上國際航空業復甦的順風車。"
+            "description": "長榮航跟華航一樣，外資買超 1120.77 萬張，投信跟自營商也同步買進，這就是法人集體看好航空業的訊號，肖年仔，這不是黑白買的！"
           },
           {
-            "stock_name": "元大高股息",
-            "ticker": "0056",
-            "description": "連元大高股息這種ETF都買了 2450 張，這很明顯就是投信在避險，大盤震盪，資金先躲到高殖利率的ETF裡面，求個安穩啦！"
+            "stock_name": "台積電",
+            "ticker": "2330",
+            "description": "護國神山台積電外資還是有買，買了 712.34 萬張，雖然投信在賣，但外資還是穩穩地在布局，這就是大盤的定海神針啦。"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：跟單面板與半導體，小心隔日沖",
+        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，鎖定航空與金融",
         "stocks": [
           {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "自營商也跟著外資買友達，敲進 1816 張，雖然量不大，但方向一致，顯示內資也看到面板的機會，但肖年仔要小心，自營商的單很多都是避險或短線，別傻傻追高被倒貨。"
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "投信狂掃長榮航 748.1 萬張，跟外資同步，這不是作帳是什麼？擺明是看好航空復甦，準備拉高出貨給散戶接刀啦！"
           },
           {
-            "stock_name": "南茂",
-            "ticker": "8150",
-            "description": "南茂這檔封測股，自營商買超 1253 張，跟著外資買半導體下游，這波半導體修正後，很多低基期的都被盯上了。"
+            "stock_name": "華航",
+            "ticker": "2610",
+            "description": "華航也被投信買了 549.8 萬張，跟長榮航一樣，法人集體鎖碼，肖年仔，這種時候不要黑白猜，跟著大戶走就對了。"
           },
           {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "自營商也買聯電 960 張，三大法人都有買，這檔聯電看來是法人共識股，但自營商的量小，可能只是避險盤或短線操作，別太樂觀。"
+            "stock_name": "第一金",
+            "ticker": "2892",
+            "description": "金融股也是投信的愛，第一金買超 323.4 萬張，這就是高檔避險的資金避風港，大盤不穩的時候，金融股就是穩定的選擇。"
+          },
+          {
+            "stock_name": "玉山金",
+            "ticker": "2884",
+            "description": "玉山金也被投信買了 300.5 萬張，金融股被投信青睞，通常是為了穩住基金績效，或是看好未來配息，肖年仔，這就是國家隊的思維。"
+          },
+          {
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "投信買超 0050 220 萬張，這就是最直接的避險操作，大盤不確定性高的時候，買ETF是最安全的選擇，也是作帳的好工具。"
+          },
+          {
+            "stock_name": "長榮",
+            "ticker": "2603",
+            "description": "航運股長榮也被投信買了 196.17 萬張，雖然不如航空雙雄那麼猛，但也是有資金在卡位，可能是看好貨櫃運價有機會反彈。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：避險為上，跟風航空與ETF",
+        "stocks": [
+          {
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "自營商買超 0050 288.83 萬張，這擺明是避險盤在動，大盤震盪，先買ETF避避風頭，順便賺點權證的權利金啦！"
+          },
+          {
+            "stock_name": "富邦科技",
+            "ticker": "0052",
+            "description": "連富邦科技這種科技型ETF都買了 113.97 萬張，自營商就是想兩邊都賺，避險之餘，也想跟著科技股的趨勢。"
+          },
+          {
+            "stock_name": "合庫金",
+            "ticker": "5880",
+            "description": "合庫金被自營商買了 81.59 萬張，金融股就是穩，自營商也知道，這種時候買點金融股，進可攻退可守，不會被割韭菜。"
+          },
+          {
+            "stock_name": "全新",
+            "ticker": "2455",
+            "description": "全新被自營商買了 79.6 萬張，這PA族群有時候就是主力愛點火的標的，肖年仔，這種股要小心，可能隔日沖就倒貨了。"
+          },
+          {
+            "stock_name": "晶技",
+            "ticker": "3042",
+            "description": "晶技也被自營商買了 60.1 萬張，石英元件股也是有題材的，自營商可能在賭一個短線反彈，但這種量，要小心別追高。"
+          },
+          {
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "長榮航自營商也買了 21.39 萬張，跟著外資投信一起買，這就是典型的跟風操作，大家都在買，自營商也來分一杯羹，但量不大，可能只是短線操作。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：低基期產業復甦卡位戰（面板、半導體成熟製程）",
-        "strategy_content": "肖年仔，你看外資大戶狂掃友達、群創這種面板雙虎，還有聯電、京元電這種半導體成熟製程的股票，這擺明了就是看準這些產業已經跌無可跌，準備要谷底翻身了。國際油價雖然今天有跌，但柴油短缺問題還會持續到 2027 年，這代表全球經濟還是有不確定性，資金會往這種低基期、有復甦題材的板塊移動，先卡位等風來，這才是聰明錢的玩法。"
+        "strategy_title": "策略一：高檔避險與資金避風港（金融、航空、ETF）",
+        "strategy_content": "肖年仔，你看外資、投信、自營商三大法人，不約而同地狂掃航空雙雄（華航、長榮航），還有金融股（第一金、玉山金、合庫金），連ETF（0050、0052）都買爆。這擺明了就是大盤在高檔震盪，資金從高風險的科技股撤出，轉往有防禦性、有旺季題材（解封觀光）的板塊。金融股有高殖利率題材，ETF則是最好的避險工具，這就是大戶在找資金避風港，準備過冬啦！"
       },
       {
-        "strategy_title": "策略二：高檔AI股獲利了結，資金轉進避險與傳產",
-        "strategy_content": "緯創這檔AI概念股，外資跟投信同步大賣，外資倒了 3.05 萬張，投信也賣了 5434 張，這很明顯就是高檔獲利了結，把錢從AI股撤出來。這些錢不是憑空消失，一部分就轉進了像華航、長榮航這種有旺季效應的航空股，投信買超航空雙雄，加上國際新聞說有大銀行看好航空巨頭，這就是資金在找避風港，順便搭上產業復甦的便車。另一部分則流向元大高股息這種ETF，求個穩字訣。"
+        "strategy_title": "策略二：低基期與景氣循環股卡位（水泥、DRAM、石化）",
+        "strategy_content": "外資這次很明顯在低基期股卡位，台泥、南亞科、力積電、中石化、國際中橡這些傳產和景氣循環股都被買爆。這表示大戶們認為這些股票跌無可跌，評價面已經夠低了，現在進場就是準備等景氣翻揚，未來有機會賺一波大的。肖年仔，這就是逆向操作的思維，別人恐懼我貪婪啦！"
       },
       {
-        "strategy_title": "策略三：法人共識下的半導體下游布局",
-        "strategy_content": "聯電、京元電子這兩檔，外資、投信、自營商都有買超，這代表法人對半導體下游或成熟製程的看法有高度共識。在整體半導體景氣還不明朗的時候，這些相對穩健、評價面較低的標的，就成了法人資金的優先選擇。他們不是在追高，而是在修正後找尋價值，準備下一波的行情。"
+        "strategy_title": "策略三：籌碼換手與出貨警訊（面板三雄被倒貨）",
+        "strategy_content": "你看面板三雄（友達、群創、彩晶）被三大法人同步大賣，外資倒貨最兇，摩根大通這種大咖分點也狂賣友達 4616.64 萬張，這不是出貨是什麼？這擺明了就是主力在倒貨給散戶接刀，肖年仔，這種被法人集體拋棄的股票，千萬不要去接刀，不然會被割韭菜割到見骨啦！"
       }
     ],
-    "summary": "肖年仔，今天大戶們的動作很清楚，高檔AI股在倒貨，資金轉往低基期的面板、半導體成熟製程，還有航空這種有避險跟旺季題材的傳產股。別傻傻地追高，學著看懂主力在玩什麼把戲，才能在市場上活得久！",
+    "summary": "肖年仔，今天三大法人操作很明確，資金從高檔科技股撤出，轉進航空、金融這些避險標的，同時也開始布局低基期的傳產和景氣循環股，面板三雄則是被集體倒貨，這就是大戶在調整部位，準備迎接下一波行情啦！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 8.58 萬張",
-        "uncle_logic": "美商高盛這種外資大戶，一次買超友達 8.58 萬張，這不是隔日沖，這擺明了就是看好面板產業的波段行情，準備要鎖碼了，真金白銀在卡位，肖年仔可以多留意。"
+        "action": "買超 1052.28 萬張",
+        "uncle_logic": "美商高盛這種外資大咖，狂掃台泥 1052.28 萬張，這不是短線隔日沖，這擺明是看好傳產低基期，準備波段鎖碼，肖年仔，這就是真外資的長線布局啦！"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 726 張",
-        "uncle_logic": "凱基台北這種短線分點也買友達 726 張，雖然量不大，但跟著外資大戶的方向走，很可能就是看到外資在買，想跟風賺個短線價差。肖年仔要小心，這種分點隔日沖的機率很高，別傻傻地去接刀。"
+        "action": "買超 115.53 萬張",
+        "uncle_logic": "凱基台北這分點，買超元大台灣50 115.53 萬張，這很像短線大戶在避險，或是做短線對沖，畢竟凱基台北是出了名的隔日沖大戶，買ETF可能是為了穩住整體部位，或是準備隔日沖其他標的啦！"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 3536 張",
-        "uncle_logic": "元大投信買超聯電 3536 張，這就是本土國家隊的動作，跟外資有共識，看好聯電的低基期價值。投信的單通常比較有波段性，不是玩短線的。"
+        "action": "買超 336.65 萬張",
+        "uncle_logic": "元大投信自家分點買超長榮航 336.65 萬張，這就是投信在作帳的訊號啦！跟著外資一起買航空，擺明是看好解封題材，準備拉高基金績效，肖年仔，這就是國家隊的操盤手法。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 9164 張",
-        "uncle_logic": "摩根大通這種外資大戶，一口氣賣超緯創 9164 張，這跟外資法人賣超緯創的趨勢一致，很明顯就是AI概念股高檔獲利了結，準備把錢轉到其他地方去。韭菜們，別再傻傻地去接這種倒貨的單了！"
+        "action": "賣超 4616.64 萬張",
+        "uncle_logic": "摩根大通這種外資指標分點，狂賣友達 4616.64 萬張，這跟外資整體大賣面板三雄的趨勢一致，擺明是資金從面板股撤出，肖年仔，這種被大戶倒貨的股票，千萬不要去接刀，不然會被割韭菜！"
       }
     ]
   },
   "english_professor_news": [
     {
       "news_id": "news_1",
-      "title": "Bank of America says buy tumbling shares of aviation giant",
+      "title": "Kalshi asks CFTC to allow margin trading on prediction markets",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
+      "link": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html",
       "level1_blind": {
-        "text": "Boeing (BA) shares fell again this week. The stock closed at $198.20 on Friday, September 18, down 4.83% over the past five trading days and 12.98% year to date.\n\nThe drop came after comments from CEO Kelly Ortberg at Morgan Stanley's Laguna Conference on September 16, where he identified new challenges on the 737 and 787 production ramps, and pushed 777X certification testing further into 2027.\n\nBoeing is already under pressure to prove that its turnaround is feasible, and the CEO's comments only added to investors' caution. Yet, even with the caution, at least one major bank sees the pullback as a chance to add shares of the plane maker at a discount.\n\nOrtberg told the audience at the Morgan Stanley conference that the 737 production line has not yet stabilized at the 47-jets-per-month rate Boeing had targeted. The delay is due to in-house production of wings, though Boeing said the broader supply chain is holding up.\n\nOn a more positive note, Ortberg said the 737 MAX 10 variant should get its certification \"very soon,\" and told analysts, \"When I left Seattle yesterday, I think we had three deliverables to complete.\"\n\nOrtberg also confirmed that certification testing on the 777X, Boeing's delayed widebody, would extend into 2027. The plane is already about seven years past its original schedule, and its ETOPS certification has been held up by an engine seal issue on the GE Aerospace-built GE9X turbine.\n\nGE Aerospace (GE) responded that certification can move forward with the existing seals, and said the upgraded parts began shipping in August. Boeing designs and builds commercial jets, defense aircraft and space systems, so any issue in the production ramp affects revenue and the delivery schedules airlines have already committed to.\n\nBank of America aerospace analyst Ronald Epstein used the selloff to reiterate his Buy rating and $270 price target. Epstein has covered aerospace and defense at Bank of America for over a decade and holds a five-star analyst rating from TipRanks, which makes his call credible with institutional investors."
+        "text": "Kalshi filed on Tuesday with the Commodity Futures Trading Commission seeking approval to offer leverage on its event contracts, a move the company says is aimed at drawing institutional traders to its prediction markets, according to CNBC.\n\nThe filing came from Kalshi Klear, the company's internal clearinghouse. With margin trading, a trader uses borrowed funds to gain exposure to more of an asset than their own cash would cover — a standard practice in equities and derivatives markets, though one not yet permitted on regulated U.S. event contract exchanges, where all positions are currently fully collateralized.\n\nIn a memo provided to CNBC, Kalshi said leverage would make longer-dated prediction markets more attractive to institutions. Kalshi also described plans for a tiered structure in which the collateral needed to maintain a leveraged position would rise the closer a contract gets to settling.\n\nAccess to leverage, if the CFTC signs off, would be restricted to self-clearing members who satisfy specified capital thresholds given their direct clearing relationships with Kalshi Klear, a company spokesperson confirmed. The company said it would not offer margin on sports event contracts, or on its culture and \"mention\" markets.\n\nLeverage is already a feature on Kalshi's perpetual futures products, but the company has not yet cleared the regulatory bar to extend it to its prediction market offerings.\n\nThe push for margin access reflects a broader effort by prediction market platforms to attract institutional participation. Polymarket, a rival, made moves in July to obtain regulatory licenses that would eventually allow it to offer margin trading on event contracts in the U.S., according to CNBC.\n\nTuesday's filing is the latest in a string of expansion moves by Kalshi. The platform launched a professional trading terminal for its most active users, offering features including deeper order book visibility and risk management tools for perpetual positions. The company accounts for more than 90% of prediction market activity in the U.S., with annualized trading volume climbing from $52 billion to $178 billion over six months.\n\nKalshi has also been expanding internationally. The company partnered with brokerage infrastructure startup Alpaca to make its event contracts available to users outside the U.S., and earlier partnered with Canadian financial firm Wealthsimple to bring its markets to Canada."
       },
       "level2_keywords": [
         {
-          "word": "shares",
-          "ipa": "/ʃɛrz/",
-          "meaning": "股票，指公司所有權的單位，可在證券市場上買賣。",
-          "example": "Boeing's shares tumbled after the CEO's comments."
+          "word": "margin trading",
+          "ipa": "ˈmɑrdʒɪn ˈtreɪdɪŋ",
+          "meaning": "指「保證金交易」或「融資交易」，投資者透過借款來增加其投資部位的規模，以放大潛在收益，但同時也伴隨更高的風險。",
+          "example": "「Margin trading allows investors to amplify their returns, but also their risks.」"
         },
         {
-          "word": "production ramps",
-          "ipa": "/prəˈdʌkʃən ræmps/",
-          "meaning": "產能爬坡，指新產品或新產線從低產量逐步提升至目標產量的過程。",
-          "example": "The CEO identified new challenges on the 737 and 787 production ramps."
+          "word": "prediction markets",
+          "ipa": "prɪˈdɪkʃən ˈmɑrkɪts",
+          "meaning": "「預測市場」是一種讓參與者可以針對未來事件的結果進行交易的平台，例如選舉、經濟數據或體育賽事，其價格通常反映了市場對該事件發生的機率預期。",
+          "example": "「Prediction markets enable participants to bet on future events, from elections to economic indicators.」"
         },
         {
-          "word": "certification",
-          "ipa": "/ˌsɜːrtɪfɪˈkeɪʃən/",
-          "meaning": "認證，指產品、系統或服務符合特定標準或法規的官方批准過程。",
-          "example": "The 777X certification testing has been pushed further into 2027."
+          "word": "CFTC",
+          "ipa": "ˌsiː ɛf tiː ˈsiː",
+          "meaning": "「美國商品期貨交易委員會」的縮寫，是美國政府的一個獨立機構，負責監管美國的期貨和選擇權市場，確保市場的公平、透明和金融穩定。",
+          "example": "「The CFTC regulates the U.S. derivatives markets, ensuring fair and transparent trading.」"
         },
         {
-          "word": "turnaround",
-          "ipa": "/ˈtɜːrnˌaʊnd/",
-          "meaning": "扭轉頹勢/轉虧為盈，指公司或業務從表現不佳轉為成功或獲利的狀態。",
-          "example": "Boeing is under pressure to prove that its turnaround is feasible."
+          "word": "leverage",
+          "ipa": "ˈlɛvərɪdʒ",
+          "meaning": "在金融領域指「槓桿」，意即利用借入的資金來增加投資回報的潛力。雖然可以放大收益，但也會同時放大虧損的風險。",
+          "example": "「Using leverage can significantly increase potential gains or losses in financial markets.」"
         },
         {
-          "word": "selloff",
-          "ipa": "/ˈsɛlˌɔːf/",
-          "meaning": "拋售潮/大跌，指市場上大量股票或其他資產被出售，導致價格下跌。",
-          "example": "Bank of America analyst used the selloff to reiterate his Buy rating."
+          "word": "event contracts",
+          "ipa": "ɪˈvɛnt ˈkɑntræks",
+          "meaning": "「事件合約」是一種特殊的金融合約，允許交易者針對特定現實世界事件的結果進行投機或對沖，例如某個經濟數據是否會達到特定水平。",
+          "example": "「Event contracts allow traders to speculate on the outcome of specific real-world events.」"
         }
       ],
-      "level2_context": "各位同學，這則新聞主要在探討航空巨頭波音（Boeing）近期面臨的營運挑戰與市場反應。波音的股價下跌，主要原因在於其執行長在一次會議中透露了737和787機型的「產能爬坡」遇到新困難，同時777X新機型的「認證」測試也將延後至2027年。這對一家急於證明自己能「扭轉頹勢」的公司來說，無疑是雪上加霜，增加了投資人的疑慮。然而，有趣的是，即使在這樣的「拋售潮」中，美國銀行（Bank of America）的分析師卻逆勢而為，重申了對波音股票的「買入」評級，認為這是一個以折扣價買入的好機會。這背後反映了市場對波音長期潛力的分歧看法，以及航空產業在疫情後復甦，但供應鏈和生產效率仍面臨挑戰的宏觀背景。",
+      "level2_context": "各位同學，這篇新聞談的是美國一家名為 Kalshi 的「預測市場」平台，他們正在向美國商品期貨交易委員會（CFTC）申請，希望能在其「事件合約」產品上提供「保證金交易」（也就是我們常說的「槓桿」）。\n\n為什麼這很重要呢？因為目前在美國，受監管的事件合約交易所是不允許保證金交易的，所有部位都必須「全額抵押」。這對於想投入大筆資金的「機構投資者」來說，資金使用效率不高，吸引力也大打折扣。Kalshi 爭取開放槓桿，就是希望能降低機構參與的門檻，讓他們能用更少的資金，參與更大規模的交易，進而擴大整個預測市場的規模和流動性。\n\n這不僅是 Kalshi 一家公司的努力，更是整個預測市場產業希望「主流化」的趨勢。如果 CFTC 批准，這將是美國金融市場的一個重要里程碑，可能為預測市場帶來更多機構資金和交易量，使其從一個相對小眾的市場，逐步走向更廣闊的金融舞台。我們可以看到，連競爭對手 Polymarket 也在做類似的努力，這顯示了產業對此的共同期待。同時，Kalshi 也積極拓展國際市場，並提升其交易平台的專業功能，這些都是為了吸引更多元、更專業的交易者，進一步鞏固其在市場上的領導地位。這是一個值得我們持續關注的財經科技發展趨勢喔！",
       "level3_translation": [
         {
-          "sentence": "Boeing (BA) shares fell again this week.",
-          "translation": "波音（BA）的股價本週再次下跌。"
+          "sentence": "Kalshi filed on Tuesday with the Commodity Futures Trading Commission seeking approval to offer leverage on its event contracts, a move the company says is aimed at drawing institutional traders to its prediction markets, according to CNBC.",
+          "translation": "根據 CNBC 報導，Kalshi 週二向美國商品期貨交易委員會（CFTC）提交申請，尋求批准在其「事件合約」上提供「槓桿交易」，該公司表示，此舉旨在吸引機構交易者進入其「預測市場」。"
         },
         {
-          "sentence": "The stock closed at $198.20 on Friday, September 18, down 4.83% over the past five trading days and 12.98% year to date.",
-          "translation": "該股在9月18日週五收盤價為198.20美元，過去五個交易日下跌4.83%，今年以來則下跌了12.98%。"
+          "sentence": "The filing came from Kalshi Klear, the company's internal clearinghouse.",
+          "translation": "這份申請是由 Kalshi 旗下的內部結算所 Kalshi Klear 提出的。"
         },
         {
-          "sentence": "The drop came after comments from CEO Kelly Ortberg at Morgan Stanley's Laguna Conference on September 16, where he identified new challenges on the 737 and 787 production ramps, and pushed 777X certification testing further into 2027.",
-          "translation": "這次下跌是在執行長凱利·奧特伯格（Kelly Ortberg）於9月16日在摩根士丹利拉古納會議上發表評論之後發生的，他在會中指出737和787機型的「產能爬坡」面臨新挑戰，並將777X的「認證」測試進一步推遲到2027年。"
+          "sentence": "With margin trading, a trader uses borrowed funds to gain exposure to more of an asset than their own cash would cover — a standard practice in equities and derivatives markets, though one not yet permitted on regulated U.S. event contract exchanges, where all positions are currently fully collateralized.",
+          "translation": "在「保證金交易」中，交易者會利用借來的資金，來增加對某項資產的曝險，使其超出自有現金所能覆蓋的範圍——這在股票和衍生性金融商品市場是常見的做法，但在受監管的美國事件合約交易所上尚未獲准，目前所有部位都必須完全抵押。"
         },
         {
-          "sentence": "Boeing is already under pressure to prove that its turnaround is feasible, and the CEO's comments only added to investors' caution.",
-          "translation": "波音本已承受壓力，需要證明其「扭轉頹勢」是可行的，而執行長的評論只會增加投資人的謹慎態度。"
+          "sentence": "In a memo provided to CNBC, Kalshi said leverage would make longer-dated prediction markets more attractive to institutions.",
+          "translation": "Kalshi 在一份提供給 CNBC 的備忘錄中表示，「槓桿」將使期限較長的預測市場對機構投資者更具吸引力。"
         },
         {
-          "sentence": "Yet, even with the caution, at least one major bank sees the pullback as a chance to add shares of the plane maker at a discount.",
-          "translation": "然而，即便投資人普遍謹慎，至少有一家主要銀行認為這次股價回檔是逢低買入這家飛機製造商股票的機會。"
+          "sentence": "Kalshi also described plans for a tiered structure in which the collateral needed to maintain a leveraged position would rise the closer a contract gets to settling.",
+          "translation": "Kalshi 也描述了分級結構的計畫，其中維持槓桿部位所需的「抵押品」將隨著合約接近結算而增加。"
         },
         {
-          "sentence": "Ortberg told the audience at the Morgan Stanley conference that the 737 production line has not yet stabilized at the 47-jets-per-month rate Boeing had targeted.",
-          "translation": "奧特伯格在摩根士丹利會議上告訴聽眾，737的生產線尚未穩定達到波音原先設定的每月47架飛機的目標。"
+          "sentence": "Access to leverage, if the CFTC signs off, would be restricted to self-clearing members who satisfy specified capital thresholds given their direct clearing relationships with Kalshi Klear, a company spokesperson confirmed.",
+          "translation": "該公司發言人證實，如果 CFTC 批准，「槓桿」的使用將僅限於那些與 Kalshi Klear 有直接結算關係，並符合特定「資本門檻」的自行結算會員。"
         },
         {
-          "sentence": "The delay is due to in-house production of wings, though Boeing said the broader supply chain is holding up.",
-          "translation": "這次延遲是由於機翼的內部生產問題，儘管波音表示整體「供應鏈」運作正常。"
+          "sentence": "The company said it would not offer margin on sports event contracts, or on its culture and \"mention\" markets.",
+          "translation": "該公司表示，不會在體育賽事合約，或其文化和「話題」市場上提供保證金交易。"
         },
         {
-          "sentence": "On a more positive note, Ortberg said the 737 MAX 10 variant should get its certification \"very soon,\" and told analysts, \"When I left Seattle yesterday, I think we had three deliverables to complete.\"",
-          "translation": "比較樂觀的是，奧特伯格表示737 MAX 10機型應該「很快」就能獲得「認證」，並告訴分析師：「我昨天離開西雅圖時，我想我們還有三項待完成的交付項目。」"
+          "sentence": "Leverage is already a feature on Kalshi's perpetual futures products, but the company has not yet cleared the regulatory bar to extend it to its prediction market offerings.",
+          "translation": "「槓桿」已經是 Kalshi 「永續期貨」產品的一項功能，但該公司尚未跨越監管障礙，將其擴展到其預測市場產品。"
         },
         {
-          "sentence": "Ortberg also confirmed that certification testing on the 777X, Boeing's delayed widebody, would extend into 2027.",
-          "translation": "奧特伯格也證實，波音延遲交機的「寬體客機」777X的「認證」測試將會延長到2027年。"
+          "sentence": "The push for margin access reflects a broader effort by prediction market platforms to attract institutional participation.",
+          "translation": "爭取「保證金」交易權限的努力，反映了預測市場平台為吸引機構參與而做出的更廣泛努力。"
         },
         {
-          "sentence": "The plane is already about seven years past its original schedule, and its ETOPS certification has been held up by an engine seal issue on the GE Aerospace-built GE9X turbine.",
-          "translation": "這架飛機已經比原定時程晚了約七年，其ETOPS「認證」因奇異航空（GE Aerospace）製造的GE9X渦輪發動機的密封問題而受阻。"
+          "sentence": "Polymarket, a rival, made moves in July to obtain regulatory licenses that would eventually allow it to offer margin trading on event contracts in the U.S., according to CNBC.",
+          "translation": "根據 CNBC 報導，其競爭對手 Polymarket 在七月也採取行動，以獲取監管許可，最終將允許其在美國的事件合約上提供「保證金交易」。"
         },
         {
-          "sentence": "GE Aerospace (GE) responded that certification can move forward with the existing seals, and said the upgraded parts began shipping in August.",
-          "translation": "奇異航空（GE）回應表示，「認證」可以繼續使用現有的密封件進行，並稱升級後的零件已於八月開始出貨。"
+          "sentence": "Tuesday's filing is the latest in a string of expansion moves by Kalshi.",
+          "translation": "週二的這份申請是 Kalshi 一系列擴張舉措中的最新一步。"
         },
         {
-          "sentence": "Boeing designs and builds commercial jets, defense aircraft and space systems, so any issue in the production ramp affects revenue and the delivery schedules airlines have already committed to.",
-          "translation": "波音設計並製造商用噴射機、國防飛機和太空系統，因此「產能爬坡」中的任何問題都會影響其營收以及航空公司已承諾的交機時程。"
+          "sentence": "The platform launched a professional trading terminal for its most active users, offering features including deeper order book visibility and risk management tools for perpetual positions.",
+          "translation": "該平台為其最活躍的用戶推出了專業交易終端，提供包括更深入的「訂單簿可見性」和「永續部位」的「風險管理工具」等功能。"
         },
         {
-          "sentence": "Bank of America aerospace analyst Ronald Epstein used the selloff to reiterate his Buy rating and $270 price target.",
-          "translation": "美國銀行航空產業分析師羅納德·艾普斯坦（Ronald Epstein）利用這次「拋售潮」重申了他的「買入」評級和270美元的「目標價」。"
+          "sentence": "The company accounts for more than 90% of prediction market activity in the U.S., with annualized trading volume climbing from $52 billion to $178 billion over six months.",
+          "translation": "該公司佔美國預測市場活動的 90% 以上，其「年化交易量」在六個月內從 520 億美元攀升至 1,780 億美元。"
         },
         {
-          "sentence": "Epstein has covered aerospace and defense at Bank of America for over a decade and holds a five-star analyst rating from TipRanks, which makes his call credible with institutional investors.",
-          "translation": "艾普斯坦在美國銀行負責航空與國防產業分析已超過十年，並在TipRanks上擁有五星分析師評級，這使得他的投資建議在機構投資者中具有高度可信度。"
+          "sentence": "Kalshi has also been expanding internationally.",
+          "translation": "Kalshi 也一直在進行國際擴張。"
+        },
+        {
+          "sentence": "The company partnered with brokerage infrastructure startup Alpaca to make its event contracts available to users outside the U.S., and earlier partnered with Canadian financial firm Wealthsimple to bring its markets to Canada.",
+          "translation": "該公司與經紀基礎設施新創公司 Alpaca 合作，使其事件合約可供美國以外的用戶使用，並早前與加拿大金融公司 Wealthsimple 合作，將其市場帶到加拿大。"
         }
       ]
     },
     {
       "news_id": "news_2",
-      "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
+      "title": "Bessent just picked the one wage measure still rising",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
+      "link": "https://finance.yahoo.com/economy/articles/bessent-just-picked-one-wage-194700442.html",
       "level1_blind": {
-        "text": "With U.S. retail diesel prices topping $6 a gallon this month for the first time, a worldwide shortage fueled by conflicts in Iran and Ukraine shows little sign of easing before next year, according to Reuters.\n\nU.S. diesel stockpiles stood at 107.9 million barrels as of September 11 — a figure that, for that point in the calendar year, has not been matched since the EIA began keeping records in 1982. According to the EIA's own public projections, distillate fuel oil stocks — a category that includes diesel — are set to drop under 100 million barrels in September and stay beneath the five-year low through all of 2026 and into most of 2027. The agency projects U.S. retail diesel prices will average $5.55 a gallon in the fourth quarter of 2026 and $4.40 a gallon in 2027.\n\nStorage market data reinforces that outlook. October bookings for leasable diesel storage across North America and the Caribbean Islands reached 13 million barrels — a four-year peak — compared with just 11 million barrels available back in June, Steven Barsamian, chief operating officer of storage broker The Tank Tiger, told Reuters. Barsamian said that leases are going unsigned because there is little diesel available to store, adding that falling inventories alongside rising tank availability together suggest traders anticipate supplies will stay tight well into at least early next year.\n\nThe shortage stems from supply disruptions on two fronts. Conflict in the Middle East has restricted tanker traffic through the Strait of Hormuz, cutting crude flows and constraining refinery output, while Ukrainian strikes on Russian refining infrastructure have compounded those losses. The EIA said it estimates refinery outages in Russia will continue to affect the global distillate market through the first half of 2027.\n\nEuropean and Asian inventories are also strained. At the Amsterdam-Rotterdam-Antwerp hub, July inventory levels sat roughly 16% under the five-year average, Insights Global data showed, according to Reuters. Singapore's distillate holdings have lately run around 8.2 million barrels on average, trailing the 9.6 million-barrel pace recorded through 2025.\n\nAs detailed in earlier coverage, the price surge is rippling through freight, agriculture, and home heating. Carmit Glik, CEO of Ship4wd, said diesel costs move through \"freight rates, farm equipment, food delivery, and home heating — anything that touches a truck at some point in its journey,\" according to Reuters. Mark Wolfe, executive director of the National Energy Assistance Directors Association, warned that households dependent on heating oil — concentrated in the Northeast — could face bills as much as 31% higher this winter if diesel prices hold at current levels.\n\nSome relief could emerge. The EIA's September Short-Term Energy Outlook expects most Middle East crude production to return to near pre-conflict averages by the second quarter of 2027, which the agency said would boost refinery output and allow distillate inventories to rebuild. Analysts also expect record diesel refining margins to encourage more production.\n\nNevertheless, a flare-up in either the Middle East or the Russia-Ukraine war, or an unexpected refinery disruption, could send prices sharply higher again. Alex Hodes, director of energy market strategy at StoneX, put it plainly to Reuters: \"Current fundamentals point to higher prices staying here for a while.\""
+        "text": "Politicians have a favorite number. The trick is finding one that is true, flattering, and narrow enough that nobody checks what sits next to it.\n\nWage data makes that easy. The government publishes dozens of pay measures every month, covering hourly and weekly pay, managers and rank-and-file staff, factory floors and restaurant kitchens, with many of them also adjusted for inflation.\n\nIn a good year, most of those measures point in the same direction. In a rough year, they split apart, and whoever holds the microphone gets to choose which one you hear about.\n\nThis has been a rough year for your grocery and gas budget. Gasoline costs 27.4% more than it did a year ago, and the Federal Reserve just raised interest rates for the first time since 2023.\n\nFor most households, that combination adds up to a paycheck that buys a little less than it did last summer.\n\nSo when Treasury Secretary Scott Bessent went looking for good news about American wages on Monday, Sept. 21, he had to be choosy. He found two numbers that still look great, and both belong to people who build things for a living.\n\nA raise only counts if it outruns prices. Economists call what is left over \"real\" wages, and it is the closest thing the government has to a measure of whether your paycheck is truly growing.\n\nRight now, that measure is flashing yellow. Real average hourly earnings for all private-sector employees fell 0.3% from August 2025 to August 2026, according to the Bureau of Labor Statistics (BLS)."
       },
       "level2_keywords": [
         {
-          "word": "stockpiles",
-          "ipa": "ˈstɑkˌpaɪlz",
-          "meaning": "庫存量；儲備量",
-          "example": "各位同學，這句話在財經界的意思是『美國柴油庫存量創下歷史新低，引發市場對供應短缺的擔憂。』"
+          "word": "wage measure",
+          "ipa": "/weɪdʒ ˈmɛʒər/",
+          "meaning": "衡量薪資水平的指標或數據。",
+          "example": "「The government uses various wage measures to track economic health.」 (政府利用各種薪資衡量指標來追蹤經濟健康狀況。)"
         },
         {
-          "word": "distillate fuel oil",
-          "ipa": "ˈdɪstɪlət fjuəl ɔɪl",
-          "meaning": "餾分燃料油（包含柴油、燃油等輕質油品）",
-          "example": "我們要注意這個動詞，EIA 預計，包含柴油在內的『餾分燃料油』庫存將持續低於五年平均水平。"
+          "word": "adjusted for inflation",
+          "ipa": "/əˈdʒʌstɪd fɔr ɪnˈfleɪʃən/",
+          "meaning": "經濟數據經過通膨因素調整，以反映真實購買力。",
+          "example": "「To understand real economic growth, we need data adjusted for inflation.」 (為了了解真實的經濟成長，我們需要經過通膨調整的數據。)"
         },
         {
-          "word": "refinery output",
-          "ipa": "rɪˈfaɪnəri ˈaʊtˌpʊt",
-          "meaning": "煉油廠產量",
-          "example": "這句話在財經界的意思是『中東衝突與烏克蘭戰爭導致煉油廠產量受限，加劇柴油供應緊張。』"
+          "word": "interest rates",
+          "ipa": "/ˈɪntrəst reɪts/",
+          "meaning": "銀行或金融機構對借貸資金收取的費用百分比，通常由央行政策影響。",
+          "example": "「The Federal Reserve raised interest rates to curb rising prices.」 (聯準會調高利率以抑制物價上漲。)"
         },
         {
-          "word": "freight rates",
-          "ipa": "freɪt reɪts",
-          "meaning": "貨運費率",
-          "example": "各位同學，柴油價格飆升直接推高了『貨運費率』，影響了物流成本，這對產業影響很大。"
+          "word": "Treasury Secretary",
+          "ipa": "/ˈtrɛʒəri ˈsɛkrəˌtɛri/",
+          "meaning": "財政部長，負責國家財政政策、稅收和國債等事務的政府高級官員。",
+          "example": "「The Treasury Secretary commented on the latest jobs report.」 (財政部長針對最新的就業報告發表了評論。)"
         },
         {
-          "word": "refining margins",
-          "ipa": "rɪˈfaɪnɪŋ ˈmɑrdʒɪnz",
-          "meaning": "煉油利潤",
-          "example": "我們要注意這個動詞，分析師預期，創紀錄的柴油『煉油利潤』將鼓勵煉油廠增加柴油產量。"
+          "word": "real wages",
+          "ipa": "/riəl ˈweɪdʒɪz/",
+          "meaning": "實質薪資，指薪資扣除通膨影響後，實際購買力的變化。",
+          "example": "「Despite nominal wage increases, many workers saw their real wages decline due to high inflation.」 (儘管名目薪資有所增加，但由於高通膨，許多勞工的實質薪資卻下降了。)"
         }
       ],
-      "level2_context": "各位同學，這篇新聞在探討全球柴油供應短缺的嚴峻情勢，並預測這種緊張狀況可能持續到 2027 年。其核心背景脈絡在於地緣政治衝突，特別是中東地區的戰事限制了油輪通過荷莫茲海峽，導致原油供應受阻，進而影響煉油廠的產能。同時，烏克蘭對俄羅斯煉油設施的襲擊，也大幅減少了全球柴油的供應量。這種供應鏈的衝擊，使得美國柴油庫存創下歷史新低，價格飆升。這不僅影響了貨運、農業等產業的營運成本，也直接衝擊到家庭取暖的開銷。儘管有預期中東原油產量可能在未來幾年恢復，且高煉油利潤可能刺激增產，但任何新的衝突或煉油廠意外，都可能再次推高價格，顯示能源市場的脆弱性與地緣政治的高度相關性。",
+      "level2_context": "各位同學，這篇新聞在探討一個很常見的政治現象：當經濟數據不盡理想時，政府官員如何「選擇性」地呈現數據，以營造出較為正面的形象。文章指出，美國財政部長史考特·貝森特（Scott Bessent）在面對通膨高漲、聯準會升息導致民眾購買力下降的背景下，刻意挑選了少數仍在成長的薪資指標來強調經濟表現。這背後反映的是，儘管名目薪資可能有所增加，但若考慮到物價上漲，許多家庭的「實質薪資」其實是縮水的。這種操作手法在財經界很常見，我們在解讀新聞時，必須學會看穿這些數字遊戲，理解其背後的宏觀經濟現實，才能真正掌握經濟脈動。",
       "level3_translation": [
         {
-          "sentence": "With U.S. retail diesel prices topping $6 a gallon this month for the first time, a worldwide shortage fueled by conflicts in Iran and Ukraine shows little sign of easing before next year, according to Reuters.",
-          "translation": "路透社報導，本月美國零售柴油價格首次突破每加侖 6 美元，而由伊朗和烏克蘭衝突所加劇的全球柴油短缺，在明年之前幾乎看不到緩解的跡象。"
+          "sentence": "Politicians have a favorite number.",
+          "translation": "政治人物都有他們偏愛的一組數字。"
         },
         {
-          "sentence": "U.S. diesel stockpiles stood at 107.9 million barrels as of September 11 — a figure that, for that point in the calendar year, has not been matched since the EIA began keeping records in 1982.",
-          "translation": "截至 9 月 11 日，美國柴油庫存量為 1.079 億桶，這個數字是自美國能源情報署（EIA）於 1982 年開始記錄以來，同年曆時間點從未出現過的低點。"
+          "sentence": "The trick is finding one that is true, flattering, and narrow enough that nobody checks what sits next to it.",
+          "translation": "訣竅在於找到一個既真實、又討喜，而且範圍夠窄，讓旁人不會去深究其背後細節的數字。"
         },
         {
-          "sentence": "According to the EIA's own public projections, distillate fuel oil stocks — a category that includes diesel — are set to drop under 100 million barrels in September and stay beneath the five-year low through all of 2026 and into most of 2027.",
-          "translation": "根據 EIA 自身的公開預測，包含柴油在內的餾分燃料油庫存，預計將在 9 月跌破 1 億桶，並在 2026 年全年及 2027 年大部分時間，維持在五年低點以下。"
+          "sentence": "Wage data makes that easy.",
+          "translation": "薪資數據讓這件事變得輕而易舉。"
         },
         {
-          "sentence": "The agency projects U.S. retail diesel prices will average $5.55 a gallon in the fourth quarter of 2026 and $4.40 a gallon in 2027.",
-          "translation": "該機構預計，2026 年第四季美國零售柴油平均價格將為每加侖 5.55 美元，2027 年則為每加侖 4.40 美元。"
+          "sentence": "The government publishes dozens of pay measures every month, covering hourly and weekly pay, managers and rank-and-file staff, factory floors and restaurant kitchens, with many of them also adjusted for inflation.",
+          "translation": "政府每個月都會公布數十種薪資衡量指標，涵蓋了時薪、週薪、經理人與基層員工、工廠生產線與餐廳廚房等各行各業，其中許多數據也都會經過通膨調整。"
         },
         {
-          "sentence": "Storage market data reinforces that outlook.",
-          "translation": "儲存市場數據也印證了這一預期。"
+          "sentence": "In a good year, most of those measures point in the same direction.",
+          "translation": "在經濟狀況好的年份，這些指標大多會指向同一個方向。"
         },
         {
-          "sentence": "October bookings for leasable diesel storage across North America and the Caribbean Islands reached 13 million barrels — a four-year peak — compared with just 11 million barrels available back in June, Steven Barsamian, chief operating officer of storage broker The Tank Tiger, told Reuters.",
-          "translation": "儲存經紀公司 The Tank Tiger 的營運長 Steven Barsamian 告訴路透社，北美和加勒比海地區可租賃柴油儲存空間的 10 月預訂量達到 1,300 萬桶，創下四年新高，而 6 月時僅有 1,100 萬桶可用。"
+          "sentence": "In a rough year, they split apart, and whoever holds the microphone gets to choose which one you hear about.",
+          "translation": "但經濟艱困的年份，它們就會分歧，這時候誰握有發言權，就能選擇要讓大家聽到哪一個數字。"
         },
         {
-          "sentence": "Barsamian said that leases are going unsigned because there is little diesel available to store, adding that falling inventories alongside rising tank availability together suggest traders anticipate supplies will stay tight well into at least early next year.",
-          "translation": "Barsamian 表示，許多租賃合約未能簽署，是因為幾乎沒有柴油可供儲存；他補充說，庫存下降但儲存槽可用性上升的現象，共同暗示交易商預期供應緊張狀況將至少持續到明年年初。"
+          "sentence": "This has been a rough year for your grocery and gas budget.",
+          "translation": "對於各位的民生採買和汽油預算來說，今年是個艱難的年份。"
         },
         {
-          "sentence": "The shortage stems from supply disruptions on two fronts.",
-          "translation": "這波短缺源於兩個方面的供應中斷。"
+          "sentence": "Gasoline costs 27.4% more than it did a year ago, and the Federal Reserve just raised interest rates for the first time since 2023.",
+          "translation": "汽油價格比一年前上漲了27.4%，而且聯準會才剛進行了自2023年以來的首次升息。"
         },
         {
-          "sentence": "Conflict in the Middle East has restricted tanker traffic through the Strait of Hormuz, cutting crude flows and constraining refinery output, while Ukrainian strikes on Russian refining infrastructure have compounded those losses.",
-          "translation": "中東地區的衝突限制了油輪通過荷莫茲海峽的交通，減少了原油流量並抑制了煉油廠產量；同時，烏克蘭對俄羅斯煉油基礎設施的襲擊，也加劇了這些損失。"
+          "sentence": "For most households, that combination adds up to a paycheck that buys a little less than it did last summer.",
+          "translation": "對於大多數家庭來說，這種情況意味著薪水能買到的東西比去年夏天少了一點。"
         },
         {
-          "sentence": "The EIA said it estimates refinery outages in Russia will continue to affect the global distillate market through the first half of 2027.",
-          "translation": "EIA 表示，預計俄羅斯的煉油廠停工將持續影響全球餾分油市場，直到 2027 年上半年。"
+          "sentence": "So when Treasury Secretary Scott Bessent went looking for good news about American wages on Monday, Sept. 21, he had to be choosy.",
+          "translation": "因此，當財政部長史考特·貝森特在9月21日週一尋找關於美國薪資的好消息時，他必須精挑細選。"
         },
         {
-          "sentence": "European and Asian inventories are also strained.",
-          "translation": "歐洲和亞洲的庫存也同樣吃緊。"
+          "sentence": "He found two numbers that still look great, and both belong to people who build things for a living.",
+          "translation": "他找到了兩個看起來仍然很棒的數字，而且這兩個數字都屬於那些以「製造東西」維生的人。"
         },
         {
-          "sentence": "At the Amsterdam-Rotterdam-Antwerp hub, July inventory levels sat roughly 16% under the five-year average, Insights Global data showed, according to Reuters.",
-          "translation": "路透社引述 Insights Global 的數據顯示，在阿姆斯特丹-鹿特丹-安特衛普（ARA）樞紐，7 月的庫存水平比五年平均值低了約 16%。"
+          "sentence": "A raise only counts if it outruns prices.",
+          "translation": "薪資調漲只有在「跑贏物價」時才算數。"
         },
         {
-          "sentence": "Singapore's distillate holdings have lately run around 8.2 million barrels on average, trailing the 9.6 million-barrel pace recorded through 2025.",
-          "translation": "新加坡的餾分油庫存近期平均約為 820 萬桶，落後於 2025 年記錄的 960 萬桶平均水平。"
+          "sentence": "Economists call what is left over \"real\" wages, and it is the closest thing the government has to a measure of whether your paycheck is truly growing.",
+          "translation": "經濟學家將扣除物價上漲後剩下的部分稱為「實質薪資」，這是政府衡量你的薪水是否真正成長的最接近指標。"
         },
         {
-          "sentence": "As detailed in earlier coverage, the price surge is rippling through freight, agriculture, and home heating.",
-          "translation": "正如先前報導所詳述，柴油價格飆升正對貨運、農業和家庭取暖產生連鎖反應。"
+          "sentence": "Right now, that measure is flashing yellow.",
+          "translation": "而目前，這個指標正亮起「黃燈」。"
         },
         {
-          "sentence": "Carmit Glik, CEO of Ship4wd, said diesel costs move through \"freight rates, farm equipment, food delivery, and home heating — anything that touches a truck at some point in its journey,\" according to Reuters.",
-          "translation": "路透社報導，Ship4wd 執行長 Carmit Glik 表示，柴油成本會透過『貨運費率、農用設備、食品配送和家庭取暖——任何在運輸過程中會接觸到卡車的事物』來傳導。"
-        },
-        {
-          "sentence": "Mark Wolfe, executive director of the National Energy Assistance Directors Association, warned that households dependent on heating oil — concentrated in the Northeast — could face bills as much as 31% higher this winter if diesel prices hold at current levels.",
-          "translation": "全國能源援助主任協會執行董事 Mark Wolfe 警告，如果柴油價格維持在目前水平，東北部地區依賴取暖用油的家庭，今年冬天可能面臨高達 31% 的帳單漲幅。"
-        },
-        {
-          "sentence": "Some relief could emerge.",
-          "translation": "不過，一些緩解的跡象可能會出現。"
-        },
-        {
-          "sentence": "The EIA's September Short-Term Energy Outlook expects most Middle East crude production to return to near pre-conflict averages by the second quarter of 2027, which the agency said would boost refinery output and allow distillate inventories to rebuild.",
-          "translation": "EIA 的 9 月短期能源展望預計，大部分中東原油產量將在 2027 年第二季前恢復到接近衝突前的平均水平，該機構表示這將提振煉油廠產量並讓餾分油庫存得以重建。"
-        },
-        {
-          "sentence": "Analysts also expect record diesel refining margins to encourage more production.",
-          "translation": "分析師也預期，創紀錄的柴油煉油利潤將鼓勵更多產量。"
-        },
-        {
-          "sentence": "Nevertheless, a flare-up in either the Middle East or the Russia-Ukraine war, or an unexpected refinery disruption, could send prices sharply higher again.",
-          "translation": "然而，無論是中東或俄烏戰爭的衝突升級，或是意外的煉油廠中斷，都可能再次導致價格急劇上漲。"
-        },
-        {
-          "sentence": "Alex Hodes, director of energy market strategy at StoneX, put it plainly to Reuters: \"Current fundamentals point to higher prices staying here for a while.\"",
-          "translation": "StoneX 能源市場策略總監 Alex Hodes 向路透社直言：『目前的市場基本面顯示，高油價將會持續一段時間。』"
+          "sentence": "Real average hourly earnings for all private-sector employees fell 0.3% from August 2025 to August 2026, according to the Bureau of Labor Statistics (BLS).",
+          "translation": "根據勞工統計局（BLS）的數據，所有私部門員工的「實質平均時薪」從2025年8月到2026年8月下降了0.3%。"
         }
       ]
     },
     {
       "news_id": "news_3",
-      "title": "Crude Prices Sink on Larger Flows of Oil Through the Strait of Hormuz",
+      "title": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/energy/articles/crude-prices-sink-larger-flows-153518210.html",
-      "level1_blind": "October WTI crude oil (CLV26) is down -4.78 (-4.77%) today, and October RBOB gasoline (RBV26) is down -0.0319 (-0.90%).\n\nCrude oil and gasoline prices are sharply lower today, with crude dropping to a 1.5-week low. Crude prices are retreating in hopes that diplomacy will end hostilities in the Middle East and that an increase in crude flows moving through the Strait of Hormuz will ease supply concerns.\n\nCrude oil prices are falling today on diplomatic efforts to end the US-Iran war and signs that crude flows are still getting through the Strait of Hormuz. President Trump said he would \"probably\" be open to meeting Iranian President Masoud Pezeshkian on the sidelines of the UN General Assembly in New York this week.\n\nAlso, more crude supplies are moving through the Strait of Hormuz, easing supply concerns, after Admiral Brad Cooper, head of US Central Command, said crude and liquefied natural gas flows through the Strait of Hormuz over the past two weeks are running at a six-month high.\n\nLosses in crude oil accelerated today after data from the European Union's Sentinel 2 satellite showed oil supertankers with the capacity to collect 14 million bbl of oil were observed at Saudi Arabia's export installations inside the Persian Gulf, signaling the country has shifted its crude exports back toward the Strait of Hormuz following the shutdown of its East-West pipeline.\n\nCrude oil prices rallied to a 4-month high last Tuesday on fears that global oil supplies will tighten further after Saudi Arabia shut down its key East-West pipeline, disrupting a key route that bypasses the Strait of Hormuz. The 750-mile-long East-West pipeline, which carries 7 million bpd of crude, was closed as a precaution following attacks by Houthi rebels. The pipeline moves oil away from the Persian Gulf toward the Red Sea, where it can be loaded on tankers. Last Tuesday, Saudi Aramco said it is delaying oil deliveries to some European customers because of the pipeline closure.\n\nCrude also has support as Yemen's Houthi rebels target energy facilities in Saudi Arabia, forcing several oil facilities to halt production. Saudi Arabia said that its crude production in August fell to 6.238 million bpd, the lowest since 1990.\n\nThe advances by the Houthi rebels to take territory along the Red Sea in Yemen are also contributing to concerns about tighter oil supplies from the Middle East. Last Tuesday, the Houthis captured a pair of islands near the Bab-al-Mandeb Strait. That followed their seizure of Perim Island and the Red Sea port city of Mokha at the southern end of the Red Sea, putting the group in a stronger position to attack ships. Since the closure of the Strait of Hormuz, Saudi Arabia had pivoted to the Red Sea to export most of its oil over the past two months. However, escalating tensions with the Houthis have disrupted that route.",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/grant-cardone-offers-10-bitcoin-201519149.html",
+      "level1_blind": "Grant Cardone took to X to announce he will pay 10 BTC, worth several hundred thousand dollars, to whoever brings him a qualified buyer for his 2024 Global 7500 jet.\n\nThe aircraft in question has four cabins and just 200 hours of flight time, still under warranty.\n\nAccording to Cardone, the buyer must be introduced directly to his team, not a broker, and the person making the introduction must help see the deal through to closing.\n\nIf multiple people are involved in bringing the deal together, the Bitcoin reward will be split among them.\n\n\"This does not guarantee you payment for a name or referral or a mention. To earn 10BTC you must introduce the actual buyer to my team (not to a broker) and assist in bringing deal to a close as advertised above. If you elect to bring in help or other players the BTC will be shared,\" he announced on X.\n\nCardone listed the jet for sale earlier this month at $80 million, directing serious buyers to email his team at Cardone Capital.\n\nIn his listing, Cardone also took a swipe at trade policy, claiming tariffs have effectively blocked Bombardier jet sales in the United States, a dynamic he framed as basic supply and demand working in his favor.\n\n\"For Sale 2024 Global 7500- 4 cabins, 200 hours, No Tariffs, $80M. Only Serious Buyers. Trump forbids sales of Bombardier in the United States. Supply & Demand, Thank you sir,\" he wrote on X.",
       "level2_keywords": [
         {
-          "word": "supertankers",
-          "ipa": "",
-          "meaning": "大型油 tanker",
-          "example": "大型油 tanker"
+          "word": "jet",
+          "ipa": "/dʒɛt/",
+          "meaning": "飛機",
+          "example": "他買了一架商業飛機"
         },
         {
-          "word": "Strait of Hormuz",
-          "ipa": "",
-          "meaning": "霍爾穆茲海峽",
-          "example": "霍爾穆茲海峽"
+          "word": "Bitcoin",
+          "ipa": "/ˈbiːt.kɒn/",
+          "meaning": "加密貨幣",
+          "example": "他投資了 Bitcoin"
         },
         {
-          "word": "East-West pipeline",
-          "ipa": "",
-          "meaning": "東西pipeline",
-          "example": "東西pipeline"
+          "word": "tariffs",
+          "ipa": "/ˈtærɪfz/",
+          "meaning": "關税",
+          "example": "政府增加關税"
         },
         {
-          "word": "Saudi Arabia",
-          "ipa": "",
-          "meaning": "沙特阿拉伯",
-          "example": "沙特阿拉伯"
+          "word": "Bombardier",
+          "ipa": "/bɒmbəˈrɪər/",
+          "meaning": "巴門得航空",
+          "example": "該公司的飛機受到影響"
         },
         {
-          "word": "Houthi rebels",
-          "ipa": "",
-          "meaning": "霍提派",
-          "example": "霍提派"
+          "word": "private",
+          "ipa": "/ˈpraɪvət/",
+          "meaning": "私人",
+          "example": "他買了一架私人飛機"
         }
       ],
-      "level2_context": "這篇文章關於油價的變化，主要是因為中東地區的政治 tensions 和油輸的變化，導致油價下跌。沙特阿拉伯因為東西pipeline的關閉，轉而將油輸到霍爾穆茲海峽，然而霍提派的攻擊也使得這個路線受到威脅。這些因素都導致了油價的下跌，且對於全球油價的變化有很大的影響。",
+      "level2_context": "Grant Cardone 的私人飛機出售，該飛機具有四個艙，使用時間少於 200 小時，仍有保證期。這是他為了挑戰美國政府對巴門得航空的關税政策而做出的姿勢，希望通過基本的供應與需求原理來推動自己的商業活動.",
       "level3_translation": [
         {
-          "sentence": "October WTI crude oil (CLV26) is down -4.78 (-4.77%) today, and October RBOB gasoline (RBV26) is down -0.0319 (-0.90%).",
-          "translation": "十月WTI原油（CLV26）今天下跌了-4.78%（-4.77%），十月RBOB汽油（RBV26）今天下跌了-0.0319%（-0.90%）"
+          "sentence": "Grant Cardone took to X to announce he will pay 10 BTC, worth several hundred thousand dollars, to whoever brings him a qualified buyer for his 2024 Global 7500 jet.",
+          "translation": "格雷特·卡德內（Grant Cardone）在社交媒體 X 上宣布，他將為找出能夠買下他的 2024 年全球 7500 飛機的有資格買家而付 10 個 Bitcoin，價值數十萬美元。"
         },
         {
-          "sentence": "Crude oil and gasoline prices are sharply lower today, with crude dropping to a 1.5-week low.",
-          "translation": " crude油和汽油價格今天下跌了，原油價格下跌到過去一周半的最低點"
+          "sentence": "The aircraft in question has four cabins and just 200 hours of flight time, still under warranty.",
+          "translation": "該飛機具有四個艙，使用時間少於 200 小時，仍有保證期。"
         },
         {
-          "sentence": "Crude oil prices are retreating in hopes that diplomacy will end hostilities in the Middle East and that an increase in crude flows moving through the Strait of Hormuz will ease supply concerns.",
-          "translation": "原油價格正在回避希望外交會使中東地區的衝突結束，同時希望通過霍爾穆茲海峽的原油流動量增加，來減少供應擔憂"
+          "sentence": "According to Cardone, the buyer must be introduced directly to his team, not a broker, and the person making the introduction must help see the deal through to closing.",
+          "translation": "根據卡德內，買家必須直接與他的團隊接觸，而不是中間人，且與買家接觸的人必須幫助完成交易的關閉。"
         },
         {
-          "sentence": "President Trump said he would \"probably\" be open to meeting Iranian President Masoud Pezeshkian on the sidelines of the UN General Assembly in New York this week.",
-          "translation": "美國總統特朗普表示他可能會在紐約的聯合國大會上與伊朗總統馬索德·佩塞希安會面"
+          "sentence": "If multiple people are involved in bringing the deal together, the Bitcoin reward will be split among them.",
+          "translation": "如果多個人參與將交易進行完成， Bitcoin 奖金將被分配給所有參與者。"
         },
         {
-          "sentence": "Also, more crude supplies are moving through the Strait of Hormuz, easing supply concerns, after Admiral Brad Cooper, head of US Central Command, said crude and liquefied natural gas flows through the Strait of Hormuz over the past two weeks are running at a six-month high.",
-          "translation": "同時，更多的原油供應正在通過霍爾穆茲海峽流動，減少供應擔憂，美國中部指揮部長布拉德·科OPER表示，過去兩周中，霍爾穆茲海峽的原油和液化天然氣流動量達到半年高峰"
+          "sentence": "\"This does not guarantee you payment for a name or referral or a mention. To earn 10BTC you must introduce the actual buyer to my team (not to a broker) and assist in bringing deal to a close as advertised above. If you elect to bring in help or other players the BTC will be shared,\" he announced on X.",
+          "translation": "\"這不保證你會得到名字或參與者名單的報酬或提名。要獲得 10 個 Bitcoin，你必須將真正的買家帶到我的團隊（而不是中間人）並幫助完成交易。若你選擇將幫助或其他玩家加入， Bitcoin 奖金將被共享,\"他在 X 上宣布。"
         },
         {
-          "sentence": "Losses in crude oil accelerated today after data from the European Union's Sentinel 2 satellite showed oil supertankers with the capacity to collect 14 million bbl of oil were observed at Saudi Arabia's export installations inside the Persian Gulf, signaling the country has shifted its crude exports back toward the Strait of Hormuz following the shutdown of its East-West pipeline.",
-          "translation": "今天，原油價格加速下跌，歐洲聯盟的Sentinel 2衛星發現有14百万桶的原油大型油 tanker在沙特阿拉伯的出口設施內觀察到，表明沙特阿拉伯已經將原油出口轉回霍爾穆茲海峽，後因東西pipeline關閉而改變"
+          "sentence": "Cardone listed the jet for sale earlier this month at $80 million, directing serious buyers to email his team at Cardone Capital.",
+          "translation": "卡德內在上個月早些時候將該飛機售價 8 億美元，建議嚴肅的買家通過電子郵件與他的團隊聯繫。"
         },
         {
-          "sentence": "Crude oil prices rallied to a 4-month high last Tuesday on fears that global oil supplies will tighten further after Saudi Arabia shut down its key East-West pipeline, disrupting a key route that bypasses the Strait of Hormuz.",
-          "translation": "上周二，原油價格達到四個月的新高，主要是因為沙特阿拉伯關閉了它的主要東西pipeline，打斷了一個關鍵路徑，該路徑避開霍爾穆茲海峽"
+          "sentence": "In his listing, Cardone also took a swipe at trade policy, claiming tariffs have effectively blocked Bombardier jet sales in the United States, a dynamic he framed as basic supply and demand working in his favor.",
+          "translation": "在他的列表中，卡德內還對貿易政策進行了一次攻擊，認為關税已經有效地阻止了巴門得航空飛機在美國的出售，該動態他把視為基本的供應與需求原理在他的利益之中。"
         },
         {
-          "sentence": "The 750-mile-long East-West pipeline, which carries 7 million bpd of crude, was closed as a precaution following attacks by Houthi rebels.",
-          "translation": "東西pipeline，長達750英里，運輸7百萬桶原油的pipeline，因為霍提派的攻擊而關閉，作為預防措施"
-        },
-        {
-          "sentence": "The pipeline moves oil away from the Persian Gulf toward the Red Sea, where it can be loaded on tankers.",
-          "translation": "這條pipeline將原油從波斯灣運往紅海，從而可以在tanker上運輸"
-        },
-        {
-          "sentence": "Last Tuesday, Saudi Aramco said it is delaying oil deliveries to some European customers because of the pipeline closure.",
-          "translation": "上周二，沙特阿拉莫公司表示，因為pipeline關閉而將原油供應給一些歐洲客戶的延遲"
-        },
-        {
-          "sentence": "Crude also has support as Yemen's Houthi rebels target energy facilities in Saudi Arabia, forcing several oil facilities to halt production.",
-          "translation": "原油還有支持因為葉門的霍提派攻擊沙特阿拉伯的能源設施，迫使多個油氣設施暫停生產"
-        },
-        {
-          "sentence": "Saudi Arabia said that its crude production in August fell to 6.238 million bpd, the lowest since 1990.",
-          "translation": "沙特阿拉伯表示其八月份原油生產量下降到6.238百萬桶/天，自1990年以來最低"
-        },
-        {
-          "sentence": "The advances by the Houthi rebels to take territory along the Red Sea in Yemen are also contributing to concerns about tighter oil supplies from the Middle East.",
-          "translation": "葉門的霍提派攻擊沿紅海的領土也使得中東地區原油供應的緊張程度增加"
-        },
-        {
-          "sentence": "Last Tuesday, the Houthis captured a pair of islands near the Bab-al-Mandeb Strait.",
-          "translation": "上周二，霍提派攻擊了紅海海峽附近的一個島"
-        },
-        {
-          "sentence": "That followed their seizure of Perim Island and the Red Sea port city of Mokha at the southern end of the Red Sea, putting the group in a stronger position to attack ships.",
-          "translation": "接著他們攻擊了紅海的佩里姆島和紅海港市莫卡，將這個島群的霍提派置於紅海的南端，增強了對船隻的攻擊能力"
-        },
-        {
-          "sentence": "Since the closure of the Strait of Hormuz, Saudi Arabia had pivoted to the Red Sea to export most of its oil over the past two months.",
-          "translation": "自從霍爾穆茲海峽關閉，沙特阿拉伯已經轉向紅海出口大部分的原油"
-        },
-        {
-          "sentence": "However, escalating tensions with the Houthis have disrupted that route.",
-          "translation": "然而，與霍提派的緊張程度增加，使得這個路徑受到干擾"
+          "sentence": "\"For Sale 2024 Global 7500- 4 cabins, 200 hours, No Tariffs, $80M. Only Serious Buyers. Trump forbids sales of Bombardier in the United States. Supply & Demand, Thank you sir,\" he wrote on X.",
+          "translation": "\"出售 2024 年全球 7500 飛機- 4艙，使用時間少於 200 小時，無關税， 8 億美元。僅嚴肅的買家。特朗普禁止在美國出售巴門得航空飛機。供應與需求，感謝您，先生,\"他在 X 上寫下。"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "兩個 news 的內容看似相互無關，但透過分析 diesel shortage 的原因和 crude prices 的變化，發現 diesel shortage 的持續時間可能會延長至 2027，從而對 crude prices 的變化產生影響。 diesel shortage 的持續時間會影響 crude prices 的變化，從而對全球能源市場產生影響。因此，需要密切關注 diesel shortage 的持續時間和 crude prices 的變化，來預測能源市場的趨勢。"
+    "market_connection": "兩個新聞報導中提到的 prediction market 和 Bitcoin 的交易，可能與金融市場的波動有關。 prediction market 的 introduction 可能會影響到 Bitcoin 的交易量，從而影響到金融市場的波動。另一方面，金融市場的波動也可能影響到 prediction market 的交易量。因此，需要密切監測這兩個市場的變化，從而能夠更好地預測金融市場的波動。"
   }
 }
