@@ -1,68 +1,68 @@
 {
-  "date": "2026-09-24",
-  "stock_market_date": "2026-09-23",
+  "date": "2026-09-25",
+  "stock_market_date": "2026-09-24",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "台泥",
-          "ticker": "1101",
-          "net_buy_shares": 30065221
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 17802257
         },
         {
           "rank": 2,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 29196171
+          "stock_name": "南茂",
+          "ticker": "8150",
+          "net_buy_shares": 14649145
         },
         {
           "rank": 3,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 24015432
+          "stock_name": "嘉晶",
+          "ticker": "3016",
+          "net_buy_shares": 8256099
         },
         {
           "rank": 4,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 14583315
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_buy_shares": 7873084
         },
         {
           "rank": 5,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 11207675
+          "stock_name": "景碩",
+          "ticker": "3189",
+          "net_buy_shares": 6834210
         },
         {
           "rank": 6,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 10124159
+          "stock_name": "泰金寶-DR",
+          "ticker": "9105",
+          "net_buy_shares": 4314000
         },
         {
           "rank": 7,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_buy_shares": 9255162
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_buy_shares": 3144533
         },
         {
           "rank": 8,
-          "stock_name": "中石化",
-          "ticker": "1314",
-          "net_buy_shares": 9221857
+          "stock_name": "禾伸堂",
+          "ticker": "3026",
+          "net_buy_shares": 2929696
         },
         {
           "rank": 9,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_buy_shares": 7123363
+          "stock_name": "時碩工業",
+          "ticker": "4566",
+          "net_buy_shares": 2891414
         },
         {
           "rank": 10,
-          "stock_name": "國際中橡",
-          "ticker": "2104",
-          "net_buy_shares": 6861889
+          "stock_name": "中華電",
+          "ticker": "2412",
+          "net_buy_shares": 2862663
         }
       ],
       "foreign_sell": [
@@ -70,185 +70,185 @@
           "rank": 1,
           "stock_name": "友達",
           "ticker": "2409",
-          "net_sell_shares": -153888176
+          "net_sell_shares": -79998614
         },
         {
           "rank": 2,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -47830253
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -42587441
         },
         {
           "rank": 3,
-          "stock_name": "彩晶",
-          "ticker": "6116",
-          "net_sell_shares": -16225115
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -35153207
         },
         {
           "rank": 4,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_sell_shares": -14428875
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -31362347
         },
         {
           "rank": 5,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -11051231
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_sell_shares": -23872588
         },
         {
           "rank": 6,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -10353990
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_sell_shares": -19952717
         },
         {
           "rank": 7,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -9770369
+          "stock_name": "和益",
+          "ticker": "1709",
+          "net_sell_shares": -19295908
         },
         {
           "rank": 8,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_sell_shares": -9087656
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -17824356
         },
         {
           "rank": 9,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -8547891
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_sell_shares": -14209150
         },
         {
           "rank": 10,
-          "stock_name": "新唐",
-          "ticker": "4919",
-          "net_sell_shares": -5755924
+          "stock_name": "台泥",
+          "ticker": "1101",
+          "net_sell_shares": -12698600
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 7481000
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 5571000
         },
         {
           "rank": 2,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 5498000
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 4165419
         },
         {
           "rank": 3,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 3234000
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 3052000
         },
         {
           "rank": 4,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 3005000
+          "stock_name": "昇陽半導體",
+          "ticker": "8028",
+          "net_buy_shares": 2309000
         },
         {
           "rank": 5,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 2200000
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 2057000
         },
         {
           "rank": 6,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 2006000
+          "stock_name": "興富發",
+          "ticker": "2542",
+          "net_buy_shares": 1799000
         },
         {
           "rank": 7,
-          "stock_name": "長榮",
-          "ticker": "2603",
-          "net_buy_shares": 1961700
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 1768000
         },
         {
           "rank": 8,
-          "stock_name": "興富發",
-          "ticker": "2542",
-          "net_buy_shares": 1911000
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_buy_shares": 1604000
         },
         {
           "rank": 9,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 1892000
+          "stock_name": "晶技",
+          "ticker": "3042",
+          "net_buy_shares": 1179000
         },
         {
           "rank": 10,
-          "stock_name": "中租-KY",
-          "ticker": "5871",
-          "net_buy_shares": 1746000
+          "stock_name": "景碩",
+          "ticker": "3189",
+          "net_buy_shares": 984001
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -3734900
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -9471000
         },
         {
           "rank": 2,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_sell_shares": -3276000
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -5067000
         },
         {
           "rank": 3,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -3272000
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_sell_shares": -2388001
         },
         {
           "rank": 4,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_sell_shares": -2870000
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_sell_shares": -2167000
         },
         {
           "rank": 5,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_sell_shares": -2276360
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -1998000
         },
         {
           "rank": 6,
-          "stock_name": "神達",
-          "ticker": "3706",
-          "net_sell_shares": -1634000
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -1287718
         },
         {
           "rank": 7,
-          "stock_name": "大聯大",
-          "ticker": "3702",
-          "net_sell_shares": -1557000
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_sell_shares": -954000
         },
         {
           "rank": 8,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_sell_shares": -1312000
+          "stock_name": "神達",
+          "ticker": "3706",
+          "net_sell_shares": -927000
         },
         {
           "rank": 9,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -1142808
+          "stock_name": "東元",
+          "ticker": "1504",
+          "net_sell_shares": -740000
         },
         {
           "rank": 10,
-          "stock_name": "超豐",
-          "ticker": "2441",
-          "net_sell_shares": -891000
+          "stock_name": "緯穎",
+          "ticker": "6669",
+          "net_sell_shares": -536001
         }
       ],
       "dealer_buy": [
@@ -256,61 +256,61 @@
           "rank": 1,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_buy_shares": 2888277
+          "net_buy_shares": 4211012
         },
         {
           "rank": 2,
           "stock_name": "富邦科技",
           "ticker": "0052",
-          "net_buy_shares": 1139654
+          "net_buy_shares": 1460002
         },
         {
           "rank": 3,
-          "stock_name": "合庫金",
-          "ticker": "5880",
-          "net_buy_shares": 815866
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 945200
         },
         {
           "rank": 4,
-          "stock_name": "全新",
-          "ticker": "2455",
-          "net_buy_shares": 795999
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_buy_shares": 849985
         },
         {
           "rank": 5,
-          "stock_name": "晶技",
-          "ticker": "3042",
-          "net_buy_shares": 600982
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 786000
         },
         {
           "rank": 6,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_buy_shares": 411949
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 773417
         },
         {
           "rank": 7,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 366000
+          "stock_name": "中華化",
+          "ticker": "1727",
+          "net_buy_shares": 441000
         },
         {
           "rank": 8,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 311076
+          "stock_name": "景碩",
+          "ticker": "3189",
+          "net_buy_shares": 407630
         },
         {
           "rank": 9,
-          "stock_name": "GIS-KY",
-          "ticker": "6456",
-          "net_buy_shares": 243000
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_buy_shares": 346094
         },
         {
           "rank": 10,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 213945
+          "stock_name": "聯茂",
+          "ticker": "6213",
+          "net_buy_shares": 345935
         }
       ],
       "dealer_sell": [
@@ -318,61 +318,61 @@
           "rank": 1,
           "stock_name": "群創",
           "ticker": "3481",
-          "net_sell_shares": -4109000
+          "net_sell_shares": -2478156
         },
         {
           "rank": 2,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -3475347
+          "stock_name": "遠東銀",
+          "ticker": "2845",
+          "net_sell_shares": -1279000
         },
         {
           "rank": 3,
-          "stock_name": "興富發",
-          "ticker": "2542",
-          "net_sell_shares": -1486700
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -1170000
         },
         {
           "rank": 4,
           "stock_name": "南茂",
           "ticker": "8150",
-          "net_sell_shares": -665084
+          "net_sell_shares": -968000
         },
         {
           "rank": 5,
-          "stock_name": "新唐",
-          "ticker": "4919",
-          "net_sell_shares": -579920
+          "stock_name": "瑞軒",
+          "ticker": "2489",
+          "net_sell_shares": -652312
         },
         {
           "rank": 6,
-          "stock_name": "漢翔",
-          "ticker": "2634",
-          "net_sell_shares": -501000
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_sell_shares": -379000
         },
         {
           "rank": 7,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_sell_shares": -380597
+          "stock_name": "台灣大",
+          "ticker": "3045",
+          "net_sell_shares": -309000
         },
         {
           "rank": 8,
-          "stock_name": "遠東銀",
-          "ticker": "2845",
-          "net_sell_shares": -369000
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_sell_shares": -308129
         },
         {
           "rank": 9,
-          "stock_name": "彩晶",
-          "ticker": "6116",
-          "net_sell_shares": -361000
+          "stock_name": "長榮航太",
+          "ticker": "2645",
+          "net_sell_shares": -238695
         },
         {
           "rank": 10,
-          "stock_name": "宏達電",
-          "ticker": "2498",
-          "net_sell_shares": -301992
+          "stock_name": "鈺齊-KY",
+          "ticker": "9802",
+          "net_sell_shares": -218134
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "台泥",
-        "shares": 10522827
+        "target": "南亞",
+        "shares": 6230789
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
         "target": "元大台灣50",
-        "shares": 1155310
+        "shares": 1684404
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "長榮航",
-        "shares": 3366450
+        "target": "華航",
+        "shares": 2506950
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
         "target": "友達",
-        "shares": 46166452
+        "shares": 23999584
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Kalshi asks CFTC to allow margin trading on prediction markets",
+      "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html",
-      "summary": "Kalshi asks CFTC to allow margin trading on prediction markets",
-      "full_text": "Kalshi filed on Tuesday with the Commodity Futures Trading Commission seeking approval to offer leverage on its event contracts, a move the company says is aimed at drawing institutional traders to its prediction markets, according to CNBC.\n\nThe filing came from Kalshi Klear, the company's internal clearinghouse. With margin trading, a trader uses borrowed funds to gain exposure to more of an asset than their own cash would cover — a standard practice in equities and derivatives markets, though one not yet permitted on regulated U.S. event contract exchanges, where all positions are currently fully collateralized.\n\nIn a memo provided to CNBC, Kalshi said leverage would make longer-dated prediction markets more attractive to institutions. Kalshi also described plans for a tiered structure in which the collateral needed to maintain a leveraged position would rise the closer a contract gets to settling.\n\nAccess to leverage, if the CFTC signs off, would be restricted to self-clearing members who satisfy specified capital thresholds given their direct clearing relationships with Kalshi Klear, a company spokesperson confirmed. The company said it would not offer margin on sports event contracts, or on its culture and \"mention\" markets.\n\nLeverage is already a feature on Kalshi's perpetual futures products, but the company has not yet cleared the regulatory bar to extend it to its prediction market offerings.\n\nThe push for margin access reflects a broader effort by prediction market platforms to attract institutional participation. Polymarket, a rival, made moves in July to obtain regulatory licenses that would eventually allow it to offer margin trading on event contracts in the U.S., according to CNBC.\n\nTuesday's filing is the latest in a string of expansion moves by Kalshi. The platform launched a professional trading terminal for its most active users, offering features including deeper order book visibility and risk management tools for perpetual positions. The company accounts for more than 90% of prediction market activity in the U.S., with annualized trading volume climbing from $52 billion to $178 billion over six months.\n\nKalshi has also been expanding internationally. The company partnered with brokerage infrastructure startup Alpaca to make its event contracts available to users outside the U.S., and earlier partnered with Canadian financial firm Wealthsimple to bring its markets to Canada.",
-      "published": "2026-09-22T12:39:18Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html",
+      "summary": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
+      "full_text": "Ennis, Inc. (NYSE:EBF) reported higher sales and lower earnings for the quarter ended August 31, 2026, but legal items complicate the comparison. The underlying business held up better than the headline profit decline suggests, while paper costs created genuine margin pressure.\n\nThe September 21 release showed revenue of $102 million, up 3.3% from $98.7 million. Net earnings fell to $9.4 million from $13.2 million. Investors need to distinguish the litigation effects from changes in demand, acquisition contributions, and production costs.\n\nThe prior-year quarter included a $5.3 million favorable litigation judgment, while the current quarter included an unrelated $700,000 litigation charge. Management said diluted earnings per share increased $0.02 after excluding these items from both periods. This non-GAAP comparison removes the specified litigation effects from reported diluted earnings per share.\n\nThat modest improvement is more encouraging than the reported earnings decline. Gross profit also increased to $30.5 million from $30.1 million, showing that the larger revenue base produced additional gross profit despite a lower margin.\n\nEnnis, Inc. (NYSE:EBF) generated $34.1 million of operating cash flow in the first half, compared with $18.4 million a year earlier. Cash reached $54 million as of August 31, and management reported no debt. That financial position provides room to support operations and acquisitions without immediate refinancing pressure.\n\nSupply continuity is another positive. Ennis, Inc. (NYSE:EBF) has received shipments from alternative carbonless-paper suppliers following the closure of the sole domestic producer. Management continues to expect uninterrupted product availability and customer service. Maintaining supply protects the ability to fulfill orders while the business adapts to higher input costs.\n\nAcquisitions contributed approximately $2.3 million of the $3.3 million quarterly revenue increase. Subtracting the disclosed acquisition contribution leaves roughly $1 million of additional sales, or about 1% of prior-year revenue, based on rounded figures. The reported growth rate therefore overstates the improvement outside those acquisition contributions.\n\nGross margin declined to 29.9% from 30.5%, a decrease of 60 basis points. Management attributed the decline primarily to higher carbonless-paper costs recognized in cost of sales. That pressure affects the economics of producing and selling printed products independently of the litigation comparison.",
+      "published": "2026-09-23T01:52:26Z"
     },
     {
       "id": "news_2",
-      "title": "Bessent just picked the one wage measure still rising",
+      "title": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/economy/articles/bessent-just-picked-one-wage-194700442.html",
-      "summary": "Bessent just picked the one wage measure still rising",
-      "full_text": "Politicians have a favorite number. The trick is finding one that is true, flattering, and narrow enough that nobody checks what sits next to it.\n\nWage data makes that easy. The government publishes dozens of pay measures every month, covering hourly and weekly pay, managers and rank-and-file staff, factory floors and restaurant kitchens, with many of them also adjusted for inflation.\n\nIn a good year, most of those measures point in the same direction. In a rough year, they split apart, and whoever holds the microphone gets to choose which one you hear about.\n\nThis has been a rough year for your grocery and gas budget. Gasoline costs 27.4% more than it did a year ago, and the Federal Reserve just raised interest rates for the first time since 2023.\n\nFor most households, that combination adds up to a paycheck that buys a little less than it did last summer.\n\nSo when Treasury Secretary Scott Bessent went looking for good news about American wages on Monday, Sept. 21, he had to be choosy. He found two numbers that still look great, and both belong to people who build things for a living.\n\nA raise only counts if it outruns prices. Economists call what is left over \"real\" wages, and it is the closest thing the government has to a measure of whether your paycheck is truly growing.\n\nRight now, that measure is flashing yellow. Real average hourly earnings for all private-sector employees fell 0.3% from August 2025 to August 2026, according to the Bureau of Labor Statistics (BLS).",
-      "published": "2026-09-22T19:47:00Z"
+      "link": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
+      "summary": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
+      "full_text": "Strive CEO Matt Cole says Bitcoin (BTC) could effectively go to infinity against the US dollar, arguing that a mounting Washington debt crisis, not Bitcoin's own scarcity, is what will ultimately break the currency's value.\n\nCole made the comments on Bloomberg Crypto, as digital assets have reclaimed $3 trillion in market value since January. Strive, a Bitcoin treasury company that raises capital to buy and hold BTC on its balance sheet, has been one of the more aggressive buyers through the cycle.\n\nCole argued that the 10-year Treasury yield would already sit north of 10% if the Federal Reserve and the Treasury Department stepped back from the bond market entirely.\n\nHe credits Treasury Secretary Scott Bessent with capping long-end rates for now, but says that intervention only delays a reckoning, since neither party in Washington shows any willingness to cut spending.\n\nThat logic underpins Strive's public forecast of a 50% compound annual growth rate for Bitcoin through 2030, a figure Cole calls conservative given the asset's past bull-market cycles, a view he first laid out when he called the bear market over last month.\n\nIt also explains why Strive's SATA preferred stock, which pays a daily cash dividend, has, according to Cole, outperformed Bitcoin itself by more than 100% in 2026 even as BTC has traded roughly flat.\n\nCole also pushed back on the idea that the Bitcoin treasury company model is fading. He argues it never broke, only that firms without a clear thesis or sound debt terms struggled once the bear market hit, while disciplined buyers kept accumulating even as Wall Street treasuries resumed buying.\n\nCole's framing puts Bitcoin's price action second to a wager on US fiscal dysfunction, one that only pays off if bond markets and the dollar move the way he expects over the next several years.",
+      "published": "2026-09-23T01:51:00Z"
     },
     {
       "id": "news_3",
-      "title": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
+      "title": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
       "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/grant-cardone-offers-10-bitcoin-201519149.html",
-      "summary": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
-      "full_text": "Grant Cardone took to X to announce he will pay 10 BTC, worth several hundred thousand dollars, to whoever brings him a qualified buyer for his 2024 Global 7500 jet.\n\nThe aircraft in question has four cabins and just 200 hours of flight time, still under warranty.\n\nAccording to Cardone, the buyer must be introduced directly to his team, not a broker, and the person making the introduction must help see the deal through to closing.\n\nIf multiple people are involved in bringing the deal together, the Bitcoin reward will be split among them.\n\n\"This does not guarantee you payment for a name or referral or a mention. To earn 10BTC you must introduce the actual buyer to my team (not to a broker) and assist in bringing deal to a close as advertised above. If you elect to bring in help or other players the BTC will be shared,\" he announced on X.\n\nCardone listed the jet for sale earlier this month at $80 million, directing serious buyers to email his team at Cardone Capital.\n\nIn his listing, Cardone also took a swipe at trade policy, claiming tariffs have effectively blocked Bombardier jet sales in the United States, a dynamic he framed as basic supply and demand working in his favor.\n\n\"For Sale 2024 Global 7500- 4 cabins, 200 hours, No Tariffs, $80M. Only Serious Buyers. Trump forbids sales of Bombardier in the United States. Supply & Demand, Thank you sir,\" he wrote on X.",
-      "published": "2026-09-22T20:15:19Z"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html",
+      "summary": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
+      "full_text": "Westinghouse Air Brake Technologies Corporation (NYSE:WAB) announced on September 21 a services agreement worth more than $700 million with La Compagnie du TransGuinéen. Combined with locomotive orders placed in 2024, announced agreements for the Simandou project now exceed $1.2 billion.\n\nThe railway stretches more than 600 kilometers between the Simandou mine and Guinea's Port of Morebaya. The new agreement extends the relationship beyond locomotive delivery into ongoing fleet support. For investors, the opportunity is to earn revenue throughout the equipment's operating life.\n\nWestinghouse Air Brake Technologies Corporation (NYSE:WAB) will provide scheduled and unscheduled maintenance, parts, component overhauls, logistics support, remote diagnostics, and training. These activities create multiple opportunities to serve the same fleet after the initial equipment sale.\n\nThat is an attractive business model when maintenance needs translate into repeat orders and efficient service delivery. Familiarity with the locomotives should help technicians diagnose problems and plan repairs. Remote monitoring could also help identify faults before they cause prolonged downtime, strengthening the customer's incentive to maintain the relationship.\n\nLocal workforce development and partnerships with Guinean businesses could improve responsiveness as the operation matures. Over time, an experienced local team could reduce dependence on specialists traveling to the site and make parts planning more efficient.\n\nThe broader freight business provides a profitable base. Second-quarter freight revenue increased 16.9% to $2.24 billion, while its GAAP operating margin rose to 22.5% from 21.6%. Those results demonstrate existing earnings capacity, although the new agreement's contribution will depend on its own pricing and execution costs.\n\nWestinghouse Air Brake Technologies Corporation (NYSE:WAB) has announced a multiyear contract value, not $700 million of annual revenue or immediate cash receipts. The combined $1.2 billion also includes earlier equipment orders. Treating the entire amount as new business from this announcement would overstate the incremental opportunity.\n\nThe release does not specify the exact contract duration, revenue commencement date, annual revenue schedule, or expected service margin. Those details matter because the same headline value can produce very different returns depending on how quickly work is performed, costs are incurred, and customers pay.",
+      "published": "2026-09-23T01:43:50Z"
     }
   ]
 }
