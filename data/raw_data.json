@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-27",
-  "stock_market_date": "2026-09-24",
+  "date": "2026-09-30",
+  "stock_market_date": "2026-09-29",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
@@ -8,371 +8,371 @@
           "rank": 1,
           "stock_name": "南亞",
           "ticker": "1303",
-          "net_buy_shares": 17802257
+          "net_buy_shares": 30203488
         },
         {
           "rank": 2,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_buy_shares": 14649145
-        },
-        {
-          "rank": 3,
-          "stock_name": "嘉晶",
-          "ticker": "3016",
-          "net_buy_shares": 8256099
-        },
-        {
-          "rank": 4,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 7873084
-        },
-        {
-          "rank": 5,
-          "stock_name": "景碩",
-          "ticker": "3189",
-          "net_buy_shares": 6834210
-        },
-        {
-          "rank": 6,
-          "stock_name": "泰金寶-DR",
-          "ticker": "9105",
-          "net_buy_shares": 4314000
-        },
-        {
-          "rank": 7,
-          "stock_name": "華新科",
-          "ticker": "2492",
-          "net_buy_shares": 3144533
-        },
-        {
-          "rank": 8,
-          "stock_name": "禾伸堂",
-          "ticker": "3026",
-          "net_buy_shares": 2929696
-        },
-        {
-          "rank": 9,
-          "stock_name": "時碩工業",
-          "ticker": "4566",
-          "net_buy_shares": 2891414
-        },
-        {
-          "rank": 10,
-          "stock_name": "中華電",
-          "ticker": "2412",
-          "net_buy_shares": 2862663
-        }
-      ],
-      "foreign_sell": [
-        {
-          "rank": 1,
           "stock_name": "友達",
           "ticker": "2409",
-          "net_sell_shares": -79998614
-        },
-        {
-          "rank": 2,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -42587441
+          "net_buy_shares": 15537128
         },
         {
           "rank": 3,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -35153207
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 15263585
         },
         {
           "rank": 4,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -31362347
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 10050129
         },
         {
           "rank": 5,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_sell_shares": -23872588
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_buy_shares": 9983568
         },
         {
           "rank": 6,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -19952717
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_buy_shares": 8411155
         },
         {
           "rank": 7,
-          "stock_name": "和益",
-          "ticker": "1709",
-          "net_sell_shares": -19295908
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_buy_shares": 8079740
         },
         {
           "rank": 8,
           "stock_name": "華邦電",
           "ticker": "2344",
-          "net_sell_shares": -17824356
+          "net_buy_shares": 7390748
         },
         {
           "rank": 9,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_sell_shares": -14209150
+          "stock_name": "鼎元",
+          "ticker": "2426",
+          "net_buy_shares": 7053914
         },
         {
           "rank": 10,
-          "stock_name": "台泥",
-          "ticker": "1101",
-          "net_sell_shares": -12698600
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 5882780
+        }
+      ],
+      "foreign_sell": [
+        {
+          "rank": 1,
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -68121726
+        },
+        {
+          "rank": 2,
+          "stock_name": "南茂",
+          "ticker": "8150",
+          "net_sell_shares": -20626616
+        },
+        {
+          "rank": 3,
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -15516938
+        },
+        {
+          "rank": 4,
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_sell_shares": -13959215
+        },
+        {
+          "rank": 5,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -12782614
+        },
+        {
+          "rank": 6,
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_sell_shares": -12634181
+        },
+        {
+          "rank": 7,
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_sell_shares": -11665083
+        },
+        {
+          "rank": 8,
+          "stock_name": "台中銀",
+          "ticker": "2812",
+          "net_sell_shares": -11633119
+        },
+        {
+          "rank": 9,
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_sell_shares": -10771239
+        },
+        {
+          "rank": 10,
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_sell_shares": -8188275
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 5571000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 9537000
         },
         {
           "rank": 2,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 4165419
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_buy_shares": 8088000
         },
         {
           "rank": 3,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 3052000
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_buy_shares": 2941000
         },
         {
           "rank": 4,
-          "stock_name": "昇陽半導體",
-          "ticker": "8028",
-          "net_buy_shares": 2309000
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 2250000
         },
         {
           "rank": 5,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_buy_shares": 2057000
+          "stock_name": "昇陽半導體",
+          "ticker": "8028",
+          "net_buy_shares": 2202000
         },
         {
           "rank": 6,
-          "stock_name": "興富發",
-          "ticker": "2542",
-          "net_buy_shares": 1799000
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 1825000
         },
         {
           "rank": 7,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 1768000
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_buy_shares": 1331000
         },
         {
           "rank": 8,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_buy_shares": 1604000
+          "stock_name": "晶技",
+          "ticker": "3042",
+          "net_buy_shares": 1050000
         },
         {
           "rank": 9,
-          "stock_name": "晶技",
-          "ticker": "3042",
-          "net_buy_shares": 1179000
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 924000
         },
         {
           "rank": 10,
-          "stock_name": "景碩",
-          "ticker": "3189",
-          "net_buy_shares": 984001
+          "stock_name": "金像電",
+          "ticker": "2368",
+          "net_buy_shares": 803910
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -9471000
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -2002000
         },
         {
           "rank": 2,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -5067000
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_sell_shares": -1687000
         },
         {
           "rank": 3,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -2388001
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -1518584
         },
         {
           "rank": 4,
           "stock_name": "日月光投控",
           "ticker": "3711",
-          "net_sell_shares": -2167000
-        },
-        {
-          "rank": 5,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_sell_shares": -1998000
-        },
-        {
-          "rank": 6,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -1287718
-        },
-        {
-          "rank": 7,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_sell_shares": -954000
-        },
-        {
-          "rank": 8,
-          "stock_name": "神達",
-          "ticker": "3706",
           "net_sell_shares": -927000
         },
         {
+          "rank": 5,
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_sell_shares": -898000
+        },
+        {
+          "rank": 6,
+          "stock_name": "智邦",
+          "ticker": "2345",
+          "net_sell_shares": -736046
+        },
+        {
+          "rank": 7,
+          "stock_name": "奇鋐",
+          "ticker": "3017",
+          "net_sell_shares": -513100
+        },
+        {
+          "rank": 8,
+          "stock_name": "致茂",
+          "ticker": "2360",
+          "net_sell_shares": -446000
+        },
+        {
           "rank": 9,
-          "stock_name": "東元",
-          "ticker": "1504",
-          "net_sell_shares": -740000
+          "stock_name": "裕融",
+          "ticker": "9941",
+          "net_sell_shares": -328402
         },
         {
           "rank": 10,
-          "stock_name": "緯穎",
-          "ticker": "6669",
-          "net_sell_shares": -536001
+          "stock_name": "億光",
+          "ticker": "2393",
+          "net_sell_shares": -296852
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 4211012
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 1528863
         },
         {
           "rank": 2,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_buy_shares": 1460002
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 1270160
         },
         {
           "rank": 3,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 945200
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_buy_shares": 916132
         },
         {
           "rank": 4,
           "stock_name": "合庫金",
           "ticker": "5880",
-          "net_buy_shares": 849985
+          "net_buy_shares": 695916
         },
         {
           "rank": 5,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 786000
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 680996
         },
         {
           "rank": 6,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 773417
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 595002
         },
         {
           "rank": 7,
-          "stock_name": "中華化",
-          "ticker": "1727",
-          "net_buy_shares": 441000
+          "stock_name": "彩晶",
+          "ticker": "6116",
+          "net_buy_shares": 314000
         },
         {
           "rank": 8,
-          "stock_name": "景碩",
-          "ticker": "3189",
-          "net_buy_shares": 407630
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 242008
         },
         {
           "rank": 9,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_buy_shares": 346094
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_buy_shares": 192000
         },
         {
           "rank": 10,
-          "stock_name": "聯茂",
-          "ticker": "6213",
-          "net_buy_shares": 345935
+          "stock_name": "台亞",
+          "ticker": "2340",
+          "net_buy_shares": 184000
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -2478156
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_sell_shares": -386656
         },
         {
           "rank": 2,
-          "stock_name": "遠東銀",
-          "ticker": "2845",
-          "net_sell_shares": -1279000
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_sell_shares": -351244
         },
         {
           "rank": 3,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -1170000
+          "stock_name": "聯茂",
+          "ticker": "6213",
+          "net_sell_shares": -342408
         },
         {
           "rank": 4,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_sell_shares": -968000
+          "stock_name": "新興",
+          "ticker": "2605",
+          "net_sell_shares": -290438
         },
         {
           "rank": 5,
-          "stock_name": "瑞軒",
-          "ticker": "2489",
-          "net_sell_shares": -652312
+          "stock_name": "名軒",
+          "ticker": "1442",
+          "net_sell_shares": -284602
         },
         {
           "rank": 6,
           "stock_name": "強茂",
           "ticker": "2481",
-          "net_sell_shares": -379000
+          "net_sell_shares": -276000
         },
         {
           "rank": 7,
-          "stock_name": "台灣大",
-          "ticker": "3045",
-          "net_sell_shares": -309000
+          "stock_name": "中華化",
+          "ticker": "1727",
+          "net_sell_shares": -274000
         },
         {
           "rank": 8,
-          "stock_name": "中石化",
-          "ticker": "1314",
-          "net_sell_shares": -308129
+          "stock_name": "新纖",
+          "ticker": "1409",
+          "net_sell_shares": -266000
         },
         {
           "rank": 9,
-          "stock_name": "長榮航太",
-          "ticker": "2645",
-          "net_sell_shares": -238695
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_sell_shares": -236693
         },
         {
           "rank": 10,
-          "stock_name": "鈺齊-KY",
-          "ticker": "9802",
-          "net_sell_shares": -218134
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -226941
         }
       ]
     },
@@ -381,25 +381,25 @@
         "branch_name": "美商高盛",
         "action": "buy",
         "target": "南亞",
-        "shares": 6230789
+        "shares": 10571220
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "元大台灣50",
-        "shares": 1684404
+        "target": "友達",
+        "shares": 611545
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "華航",
-        "shares": 2506950
+        "target": "聯電",
+        "shares": 4291650
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "友達",
-        "shares": 23999584
+        "target": "元大台灣50",
+        "shares": 20436517
       }
     ]
   },
