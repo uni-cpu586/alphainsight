@@ -1,149 +1,134 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "stock_uncle_insight": {
-    "date_header": "10/2 法人與主力大戶主要買超股票",
+    "date_header": "10/3 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：AI與半導體回補，面板金融倒貨",
+        "group_title": "1. 外資大戶：狂掃面板、半導體與傳產，避險兼布局",
         "stocks": [
           {
-            "stock_name": "緯創",
-            "ticker": "3231",
-            "description": "肖年仔，外資大戶狂掃緯創2.93萬張，這擺明就是看好AI題材還沒玩完，在大盤修正後低接回補，準備再拉一波！"
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "肖年仔，外資這天狂掃友達超過 8.1 萬張，擺明是看好面板景氣觸底反彈，準備來個波段操作。這不是黑白買，是看準時機要卡位！"
           },
           {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "聯電也被外資買超2.54萬張，這半導體二哥，外資是想趁機卡位，還是只是短線對沖，你各位要看清楚，別傻傻追高。"
+            "stock_name": "力積電",
+            "ticker": "6770",
+            "description": "外資也買超力積電超過 4.5 萬張，這檔記憶體跟晶圓代工都有，可能是看好半導體庫存調整接近尾聲，或是避險盤轉進低基期股。"
           },
           {
-            "stock_name": "國巨*",
-            "ticker": "2327",
-            "description": "國巨*外資買超2.33萬張，被動元件這塊，外資也開始撿便宜了，是不是覺得跌深了有機會反彈？"
+            "stock_name": "台化",
+            "ticker": "1326",
+            "description": "外資買超台化超過 2.2 萬張，傳產龍頭股，通常是景氣復甦的領先指標，外資這是在布局景氣循環股，準備吃一波。"
           },
           {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "華邦電外資買超1.67萬張，記憶體族群最近也是跌深反彈的題材，外資這時候進場，可能是在賭一個短線反彈。"
-          },
-          {
-            "stock_name": "華新科",
-            "ticker": "2492",
-            "description": "華新科外資買超1.64萬張，跟國巨*一樣，被動元件雙雄都被外資點名，這波電子股回補潮，被動元件也沒缺席。"
+            "stock_name": "台塑",
+            "ticker": "1301",
+            "description": "外資買超台塑超過 1.5 萬張，跟台化一樣，都是塑化大咖，外資看好傳產復甦的意圖很明顯，這就是大戶的眼光。"
           },
           {
             "stock_name": "兆豐金",
             "ticker": "2886",
-            "description": "兆豐金外資買超1.44萬張，金融股雖然被投信狂掃，但外資也沒放過，這可能是防禦性佈局，或是看好年底的配息行情。"
+            "description": "外資買超兆豐金超過 1.3 萬張，金融股是穩健的避風港，外資在大盤震盪時，也會把資金轉進這種高殖利率的標的，肖年仔，這叫避險。"
           }
         ]
       },
       {
-        "group_title": "2. 投信大戶（本土國家隊）：金融股作帳，航空股換手",
+        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，金融股成首選",
         "stocks": [
-          {
-            "stock_name": "台新新光金",
-            "ticker": "2887",
-            "description": "肖年仔，投信這本土國家隊，狂掃台新新光金1.92萬張！這擺明就是年底作帳行情要啟動了，金融股是他們的最愛，穩穩的賺。"
-          },
           {
             "stock_name": "凱基金",
             "ticker": "2883",
-            "description": "凱基金也被投信買超0.82萬張，跟台新新光金一樣，都是作帳的熱門標的，肖年仔可以注意一下，別被他們拉高出貨了。"
+            "description": "投信狂買凱基金超過 1.1 萬張，這就是標準的投信作帳行情啊！年底快到了，基金經理人要拉抬績效，金融股穩定又具殖利率題材，是衝刺績效的好選擇。"
+          },
+          {
+            "stock_name": "彰銀",
+            "ticker": "2801",
+            "description": "投信買超彰銀超過 1.1 萬張，跟凱基金一樣，都是金融股，本土國家隊看好金融股的穩健性，準備在年底前衝一波，韭菜們別傻傻跟風。"
           },
           {
             "stock_name": "玉山金",
             "ticker": "2884",
-            "description": "玉山金投信買超0.8萬張，金融股幾乎是投信的提款機，這波狂買，就是看準了年底的績效要衝刺。"
+            "description": "投信買超玉山金近 0.59 萬張，金融股三雄之一，投信就是愛這種穩定的績優股，拿來作帳最安全，這叫穩紮穩打。"
           },
           {
-            "stock_name": "台塑化",
-            "ticker": "6505",
-            "description": "台塑化投信買超0.69萬張，傳產龍頭也被投信看上，可能是看好油價走勢，或是作為防禦性配置。"
+            "stock_name": "第一金",
+            "ticker": "2892",
+            "description": "投信買超第一金近 0.55 萬張，又是金融股！肖年仔，看到沒，投信就是把金融股當成年底作帳的主力部隊，這波金融股有戲。"
           },
           {
-            "stock_name": "國泰金",
-            "ticker": "2882",
-            "description": "國泰金投信買超0.54萬張，八大行庫都被投信點名，這波金融股的買盤，可不是開玩笑的。"
-          },
-          {
-            "stock_name": "華航",
-            "ticker": "2610",
-            "description": "華航投信買超0.29萬張，但同時賣超長榮航，這很明顯就是航空股的換手操作，可能是看好華航的後市，或是長榮航漲多了要調節。"
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "投信也買超友達近 0.44 萬張，跟外資同步買進面板股，顯示面板族群的底部訊號越來越明顯，本土資金也開始卡位，準備接刀。"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：電子股短打，ETF避險",
+        "group_title": "3. 內資主力與實戶：短線避險與低價電子股試單",
         "stocks": [
           {
             "stock_name": "元大台灣50",
             "ticker": "0050",
-            "description": "肖年仔，自營商買超0050 0.15萬張，這就是標準的避險盤啦！大盤不穩，先買ETF對沖風險，等風頭過了再說，別以為他們是看好大盤。"
+            "description": "自營商買超 0050 近 0.25 萬張，這擺明是避險盤，大盤不穩，先買ETF避避風頭，或是看大盤有機會反彈，先卡位，這叫兩手策略。"
           },
           {
-            "stock_name": "華邦電",
-            "ticker": "2344",
-            "description": "華邦電自營商買超0.09萬張，跟外資一樣，自營商也看上記憶體族群，這就是短線的電子股操作，有賺就跑，絕不戀棧。"
+            "stock_name": "力積電",
+            "ticker": "6770",
+            "description": "自營商買超力積電近 0.16 萬張，這檔半導體股，自營商通常是短線操作，可能是看好低價半導體股的跌深反彈機會，準備隔日沖。"
           },
           {
-            "stock_name": "國巨*",
-            "ticker": "2327",
-            "description": "國巨*自營商買超0.07萬張，被動元件也是自營商的菜，這波電子股反彈，他們當然不會錯過，但別忘了他們是隔日沖高手。"
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "自營商買超友達近 0.11 萬張，跟外資、投信同步買進，顯示面板股確實有短線機會，自營商也來分一杯羹，這叫跟風吃豆腐。"
           },
           {
             "stock_name": "聯電",
             "ticker": "2303",
-            "description": "聯電自營商買超0.06萬張，半導體族群也是自營商的重點，這就是跟著外資的腳步，一起在電子股裡面黑白摸。"
+            "description": "自營商買超聯電近 0.11 萬張，晶圓代工二哥，自營商通常會抓這種權值股的短線波動，進行隔日沖或波段操作，肖年仔，別傻傻追高。"
           },
           {
-            "stock_name": "華新科",
-            "ticker": "2492",
-            "description": "華新科自營商買超0.05萬張，被動元件雙雄都被自營商點名，這波電子股回補潮，他們也是衝第一。"
-          },
-          {
-            "stock_name": "仁寶",
-            "ticker": "2324",
-            "description": "仁寶自營商買超0.04萬張，PC代工廠也進榜，這可能是看好年底的消費電子旺季，但自營商的單子，通常都是短線操作。"
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "自營商買超群創近 0.08 萬張，跟友達一樣是面板股，內資主力也看好面板族群的短線反彈機會，這就是短線客的嗅覺。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：高檔避險與資金避風港（金融、ETF）",
-        "strategy_content": "肖年仔，你看投信狂掃金融股，自營商也買進0050這種ETF，這很明顯就是市場對未來不確定性仍高，資金轉往防禦性標的。金融股有年底作帳行情，ETF則是避險首選，大戶們都在找地方躲風頭，你各位韭菜別傻傻去接刀高風險股。"
+        "strategy_title": "策略一：景氣循環股低檔布局與防禦型資產避險",
+        "strategy_content": "外資大戶這次狂掃友達、力積電、台化、台塑這些景氣循環股，擺明是看好全球經濟觸底反彈，提前卡位。同時，也買進兆豐金這種金融股，這是在大盤震盪時，把部分資金轉進防禦性高、殖利率穩定的標的，進可攻退可守，避免被市場黑天鵝割韭菜。肖年仔，這就是大戶的避險兼布局思維，不是隨便黑白買的。"
       },
       {
-        "strategy_title": "策略二：AI與半導體回補潮（電子股）",
-        "strategy_content": "外資跟自營商同步買進緯創、聯電、被動元件等電子股，這代表什麼？代表他們覺得AI跟半導體跌深了有機會反彈，或是為第四季的旺季做佈局。但你各位要小心，外資跟自營商都是很會拉高出貨的，別追高被割韭菜了。"
+        "strategy_title": "策略二：投信作帳行情啟動，金融股成吸金大戶",
+        "strategy_content": "本土投信這次火力全開，狂買凱基金、彰銀、玉山金、第一金等一籃子金融股，這就是典型的年底作帳行情。基金經理人為了衝刺年度績效，會鎖定這些股性穩健、殖利率高、評價面相對低的金融股，拉抬股價，讓帳面數字好看。這時候，肖年仔們要小心，作帳行情結束後，這些股票可能就會被倒貨，別傻傻接刀。"
       },
       {
-        "strategy_title": "策略三：面板股獲利了結與傳產調節",
-        "strategy_content": "外資跟自營商同步大賣面板雙虎（群創、友達），這訊號很清楚，他們對面板產業前景保守，或是已經在高點獲利了結，準備倒貨給散戶。投信也同步調節部分傳產與金融股，顯示資金正在進行板塊輪動，你各位別傻傻去接面板的刀。"
+        "strategy_title": "策略三：AI概念股獲利了結，資金轉向低基期與傳產",
+        "strategy_content": "外資大賣元大台灣50、仁寶、緯創這些AI概念股與ETF，顯示之前漲多的AI族群，外資已經開始獲利了結，準備拉高出貨。資金從高檔撤出後，轉向低基期的面板、半導體（如友達、力積電）以及傳產股（如台化、台塑），這是一種資金輪動的策略，避免在AI股高檔接刀，肖年仔，這就是大戶的狡猾之處。"
       }
     ],
-    "summary": "肖年仔，今天大戶們的動作很明顯，就是「避險為上，電子股短打，金融股作帳」。外資回補AI半導體，但同時倒貨面板；投信狂掃金融股作帳；自營商則是ETF避險兼電子股短線操作。你各位韭菜們，看清楚大戶的意圖，別黑白買，小心被割韭菜！",
+    "summary": "肖年仔，這次三大法人動作很明顯，外資在AI股倒貨避險，轉進低基期景氣循環股；投信則狂掃金融股作帳，年底前金融股還有戲。自營商則是短線進出，跟著大戶吃點豆腐。現在市場就是一個字「亂」，黑白買會被割韭菜，要看懂主力在玩什麼把戲！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 1.02 萬張",
-        "uncle_logic": "肖年仔，美商高盛這隻大鱷魚狂掃緯創，擺明就是看好AI題材還沒玩完，準備鎖碼拉高出貨，你各位韭菜別傻傻接刀啊！"
+        "action": "買超 2.85 萬張",
+        "uncle_logic": "高盛這咖狂掃友達近 2.85 萬張，擺明是真外資在波段布局，看好面板景氣要翻身。這不是隔日沖的量，是準備吃一波大行情，肖年仔跟著吃肉喝湯可以，但別傻傻追高。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 0.06 萬張",
-        "uncle_logic": "凱基台北這短線仔，買0050？這不是隔日沖就是避險盤啦！大盤不穩，先買ETF對沖風險，等風頭過了再說，別以為他們是看好大盤。"
+        "action": "買超 0.1 萬張",
+        "uncle_logic": "凱基台北這短線大戶買0050，這有點反常。通常他們是衝個股，買ETF可能是避險，或是看大盤有機會反彈，先卡位。但這量對他們來說不算大，小心隔日沖倒貨給韭菜，別傻傻接刀。"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 0.86 萬張",
-        "uncle_logic": "元大投信這本土國家隊，狂買台新新光金，擺明就是作帳行情要啟動了！年底前金融股有機會被拉抬一波，肖年仔可以注意，但別追高被套牢。"
+        "action": "買超 0.51 萬張",
+        "uncle_logic": "元大投信買凱基金，這就是投信作帳的標準動作啊！年底快到了，基金經理人要拉抬績效，金融股相對穩健，殖利率也不錯，拿來衝績效很常見。這波金融股有機會被拉抬，但作帳完就要小心了。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 2.79 萬張",
-        "uncle_logic": "摩根大通這外資大戶，對群創倒貨倒得兇啊！面板雙虎被外資狂砍，看來是覺得產業沒搞頭，或是高檔獲利了結，韭菜們別去接刀，小心接刀接到手軟！"
+        "action": "賣超 0.97 萬張",
+        "uncle_logic": "摩根大通這外資大咖在倒0050近 0.97 萬張，跟外資整體賣超0050的趨勢一致。這擺明是避險盤，或是對台股大盤短期看法保守，先減碼ETF，把資金轉到其他個股或撤出。肖年仔，這就是大戶在調整部位，不是隨便黑白賣。"
       }
     ]
   },
@@ -156,105 +141,109 @@
       "level1_blind": "Ennis, Inc. (NYSE:EBF) reported higher sales and lower earnings for the quarter ended August 31, 2026, but legal items complicate the comparison. The underlying business held up better than the headline profit decline suggests, while paper costs created genuine margin pressure.\n\nThe September 21 release showed revenue of $102 million, up 3.3% from $98.7 million. Net earnings fell to $9.4 million from $13.2 million. Investors need to distinguish the litigation effects from changes in demand, acquisition contributions, and production costs.\n\nThe prior-year quarter included a $5.3 million favorable litigation judgment, while the current quarter included an unrelated $700,000 litigation charge. Management said diluted earnings per share increased $0.02 after excluding these items from both periods. This non-GAAP comparison removes the specified litigation effects from reported diluted earnings per share.\n\nThat modest improvement is more encouraging than the reported earnings decline. Gross profit also increased to $30.5 million from $30.1 million, showing that the larger revenue base produced additional gross profit despite a lower margin.\n\nEnnis, Inc. (NYSE:EBF) generated $34.1 million of operating cash flow in the first half, compared with $18.4 million a year earlier. Cash reached $54 million as of August 31, and management reported no debt. That financial position provides room to support operations and acquisitions without immediate refinancing pressure.\n\nSupply continuity is another positive. Ennis, Inc. (NYSE:EBF) has received shipments from alternative carbonless-paper suppliers following the closure of the sole domestic producer. Management continues to expect uninterrupted product availability and customer service. Maintaining supply protects the ability to fulfill orders while the business adapts to higher input costs.\n\nAcquisitions contributed approximately $2.3 million of the $3.3 million quarterly revenue increase. Subtracting the disclosed acquisition contribution leaves roughly $1 million of additional sales, or about 1% of prior-year revenue, based on rounded figures. The reported growth rate therefore overstates the improvement outside those acquisition contributions.\n\nGross margin declined to 29.9% from 30.5%, a decrease of 60 basis points. Management attributed the decline primarily to higher carbonless-paper costs recognized in cost of sales. That pressure affects the economics of producing and selling printed products independently of the litigation comparison.",
       "level2_keywords": [
         {
-          "word": "litigation",
-          "ipa": "",
-          "meaning": "法律纈事",
-          "example": "法律纈事會影響公司的財務表現"
-        },
-        {
           "word": "carbonless-paper",
           "ipa": "",
-          "meaning": "無碳紙",
-          "example": "無碳紙的成本增加影響了公司的毛利率"
+          "meaning": "無紙紙",
+          "example": "無紙紙的生產和銷售"
+        },
+        {
+          "word": "litigation",
+          "ipa": "",
+          "meaning": "法律訴訟",
+          "example": "法律訴訟對公司的影響"
         },
         {
           "word": "acquisition",
           "ipa": "",
           "meaning": "收購",
-          "example": "公司通過收購其他公司來擴大業務"
+          "example": "收購其他公司的經驗"
         },
         {
-          "word": "margin",
+          "word": "gross-profit",
           "ipa": "",
-          "meaning": "毛利率",
-          "example": "公司的毛利率下降是由於成本增加"
+          "meaning": "毛利",
+          "example": "毛利率的計算"
         },
         {
-          "word": "export controls",
+          "word": "operating-cash-flow",
           "ipa": "",
-          "meaning": "出口管制",
-          "example": "公司面臨的出口管制對其業務產生了影響"
+          "meaning": "營運現金流",
+          "example": "營運現金流的重要性"
         }
       ],
-      "level2_context": "這篇文章關於Ennis, Inc. (NYSE:EBF)的財務表現，尤其是與法律纈事和無碳紙的成本增加有關。公司的毛利率下降是由於成本增加，然而公司的收購活動也對其財務表現產生了影響。這篇文章要求我們了解公司的財務表現背後的產業和政經背景。",
+      "level2_context": "這篇文章討論了Ennis, Inc. (NYSE:EBF)的財務表現，特別是其營業收入和毛利率。公司的營業收入在上個季度上升了3.3%，但毛利率下降了60點。這些數據表明公司的生產成本增加，尤其是無紙紙的成本。公司的管理表示，公司正在努力保持供應鏈的穩定性和客戶服務的質量。這些努力對於公司的長期生產和銷售能力至關重要。",
       "level3_translation": [
         {
           "sentence": "Ennis, Inc. (NYSE:EBF) reported higher sales and lower earnings for the quarter ended August 31, 2026, but legal items complicate the comparison.",
-          "translation": "Ennis, Inc. (NYSE:EBF) 的財務表現在八月三十一日期的四季度，報導出較高的營收和較低的利益，但法律纈事會使比較複雜。"
+          "translation": "Ennis, Inc. (NYSE:EBF) 在 2026 年 8 月 31 日結束的季度中，營業收入上升，但利润下降，但法律問題使比較複雜"
         },
         {
           "sentence": "The September 21 release showed revenue of $102 million, up 3.3% from $98.7 million.",
-          "translation": "九月二十一日的發布會顯示，營收為一億二百萬美元，增加了三點三%，與前期的九八七萬美元相比"
+          "translation": "9 月 21 日的發布會顯示了營業收入為 10,200,000 美元，增加了 3.3%，從前年 98,700,000 美元"
         },
         {
           "sentence": "Net earnings fell to $9.4 million from $13.2 million.",
-          "translation": "利益降至九點四萬美元，從前期的十三點二萬美元下降"
+          "translation": "利润下降到 9,400,000 美元，從前年 13,200,000 美元"
         },
         {
-          "sentence": "Gross profit also increased to $30.5 million from $30.1 million, showing that the larger revenue base produced additional gross profit despite a lower margin.",
-          "translation": "毛利率也增加到三點五萬美元，從前期的三點一萬美元上升，顯示大規模的營收基礎可以產生額外的毛利率，儘管毛利率下降"
-        },
-        {
-          "sentence": "Supply continuity is another positive.",
-          "translation": "供應連續性是另一項正面因素"
-        },
-        {
-          "sentence": "Acquisitions contributed approximately $2.3 million of the $3.3 million quarterly revenue increase.",
-          "translation": "收購活動約贏得了三點三萬美元的季度營收增長"
-        },
-        {
-          "sentence": "Gross margin declined to 29.9% from 30.5%, a decrease of 60 basis points.",
-          "translation": "毛利率下降到二九點九%，從三點五%下降，減少了六十個基點"
-        },
-        {
-          "sentence": "Management attributed the decline primarily to higher carbonless-paper costs recognized in cost of sales.",
-          "translation": "管理層認為毛利率下降的主要原因是因為無碳紙成本的增加"
+          "sentence": "Investors need to distinguish the litigation effects from changes in demand, acquisition contributions, and production costs.",
+          "translation": "投資者需要區分法律訴訟的影響和需求變化、收購的貢獻和生產成本"
         },
         {
           "sentence": "That modest improvement is more encouraging than the reported earnings decline.",
-          "translation": "這些小幅改善比報導的利益下降更令人鼓勵"
+          "translation": "這個相對平穩的改善比報告的利润下降更令人鼓勵"
+        },
+        {
+          "sentence": "Gross profit also increased to $30.5 million from $30.1 million.",
+          "translation": "毛利也增加到 30,500,000 美元，從前年 30,100,000 美元"
         },
         {
           "sentence": "Ennis, Inc. (NYSE:EBF) generated $34.1 million of operating cash flow in the first half, compared with $18.4 million a year earlier.",
-          "translation": "Ennis, Inc. (NYSE:EBF) 在第一個半年期產生了三點四一萬美元的營業現金流，與一年前 eighteen點四萬美元的比較"
+          "translation": "Ennis, Inc. (NYSE:EBF) 在第一個半年中產生了 34,100,000 美元的營運現金流，與前年 18,400,000 美元相比"
         },
         {
           "sentence": "Cash reached $54 million as of August 31, and management reported no debt.",
-          "translation": "資金到八月三十一日時達五十四萬美元，管理層表示無負債"
-        },
-        {
-          "sentence": "Maintaining supply protects the ability to fulfill orders while the business adapts to higher input costs.",
-          "translation": "保持供應能夠保護公司順暢地履行订单，而公司適應高成本的能力"
-        },
-        {
-          "sentence": "Acquisitions contributed approximately $2.3 million of the $3.3 million quarterly revenue increase.",
-          "translation": "收購活動約贏得了三點三萬美元的季度營收增長"
+          "translation": "儲備在 8 月 31 日達到 54,000,000 美元，管理層表示沒有債務"
         },
         {
           "sentence": "Supply continuity is another positive.",
-          "translation": "供應連續性是另一項正面因素"
+          "translation": "供應鏈穩定性是另一項積極的方面"
+        },
+        {
+          "sentence": "Ennis, Inc. (NYSE:EBF) has received shipments from alternative carbonless-paper suppliers following the closure of the sole domestic producer.",
+          "translation": "Ennis, Inc. (NYSE:EBF)從其他的無紙紙供應商接收了貨物，後來 Sole Domestic Producer關閉"
+        },
+        {
+          "sentence": "Management continues to expect uninterrupted product availability and customer service.",
+          "translation": "管理層仍期望不間斷的產品供應和客戶服務"
+        },
+        {
+          "sentence": "Maintaining supply protects the ability to fulfill orders while the business adapts to higher input costs.",
+          "translation": "保持供應保護了公司在面對高成本的生產和銷售時的能力"
+        },
+        {
+          "sentence": "Acquisitions contributed approximately $2.3 million of the $3.3 million quarterly revenue increase.",
+          "translation": "收購贏得了大約 2,300,000 美元的季度營業收入增加"
+        },
+        {
+          "sentence": "Subtracting the disclosed acquisition contribution leaves roughly $1 million of additional sales, or about 1% of prior-year revenue, based on rounded figures.",
+          "translation": "移除 disclosed 收購貢獻後，剩下大約 1,000,000 美元的額外銷售，約 1% 的前年銷售"
+        },
+        {
+          "sentence": "The reported growth rate therefore overstates the improvement outside those acquisition contributions.",
+          "translation": "報告的成長率因此超出了收購貢獻以外的改善"
         },
         {
           "sentence": "Gross margin declined to 29.9% from 30.5%, a decrease of 60 basis points.",
-          "translation": "毛利率下降到二九點九%，從三點五%下降，減少了六十個基點"
+          "translation": "毛利率下降到 29.9%，從 30.5% 下降 60 個基點"
         },
         {
           "sentence": "Management attributed the decline primarily to higher carbonless-paper costs recognized in cost of sales.",
-          "translation": "管理層認為毛利率下降的主要原因是因為無碳紙成本的增加"
+          "translation": "管理層認為毛利率下降的主要原因是更高的無紙紙成本"
         },
         {
-          "sentence": "That modest improvement is more encouraging than the reported earnings decline.",
-          "translation": "這些小幅改善比報導的利益下降更令人鼓勵"
+          "sentence": "That pressure affects the economics of producing and selling printed products independently of the litigation comparison.",
+          "translation": "這種壓力影響了生產和銷售印刷品的經濟學，與法律比較無關"
         }
       ]
     },
@@ -267,72 +256,72 @@
       "level2_keywords": [
         {
           "word": "Bitcoin",
-          "ipa": "biˈtɔɪn",
+          "ipa": "",
           "meaning": "比特幣",
-          "example": "比特幣的價格在近期有所波動"
+          "example": "比特幣的價格"
         },
         {
-          "word": "US dollar",
-          "ipa": "ʌs ˈdɔlər",
+          "word": "dollar",
+          "ipa": "",
           "meaning": "美元",
-          "example": "美元兑比特幣的比率在近期有所變化"
+          "example": "美元兑比特幣的價格"
         },
         {
-          "word": "debt crisis",
-          "ipa": "dɛt krɪˈsɪz",
-          "meaning": "債務危機",
-          "example": "美國政府債務危機對全球經濟造成了重大影響"
-        },
-        {
-          "word": "Federal Reserve",
-          "ipa": "fɛdərəl ˈrɛzərə",
-          "meaning": "中央銀行",
-          "example": "美國中央銀行是美國政府的主要金融機構"
+          "word": "debt",
+          "ipa": "",
+          "meaning": "債務",
+          "example": "國家債務危機"
         },
         {
           "word": "Treasury",
-          "ipa": "ˈtrɛzəri",
+          "ipa": "",
           "meaning": "財政部",
-          "example": "財政部是負責管理政府財政的部門"
+          "example": "財政部的債務管理"
+        },
+        {
+          "word": "Federal",
+          "ipa": "",
+          "meaning": "聯邦",
+          "example": "聯邦政府的債務政策"
         }
       ],
-      "level2_context": "美國政府債務危機對全球經濟造成了重大影響，Strive CEO Matt Cole認為這將對比特幣的價格產生重大影響",
+      "level2_context": "美國政府債務危機對於全球金融市場的影響，將如何影響比特幣的價格。",
       "level3_translation": [
         {
           "sentence": "Strive CEO Matt Cole says Bitcoin (BTC) could effectively go to infinity against the US dollar, arguing that a mounting Washington debt crisis, not Bitcoin's own scarcity, is what will ultimately break the currency's value.",
-          "translation": "Strive CEO 麥特·科爾認為比特幣的價格將無限上升，主要是因為美國政府債務危機，而不是比特幣本身的稀缺性"
+          "translation": ""
         },
         {
           "sentence": "Cole made the comments on Bloomberg Crypto, as digital assets have reclaimed $3 trillion in market value since January.",
-          "translation": "科爾在 Bloomberg Crypto 上發表這些觀點，數字資產在 1 月以來已經恢復了 3 億美元的市場價值"
+          "translation": ""
         },
         {
           "sentence": "Strive, a Bitcoin treasury company that raises capital to buy and hold BTC on its balance sheet, has been one of the more aggressive buyers through the cycle.",
-          "translation": "Strive 是一家買入和持有比特幣的公司，該公司通過籌集資金來購買比特幣，該公司在市場波動中是較積極的買家"
+          "translation": ""
         },
         {
           "sentence": "Cole argued that the 10-year Treasury yield would already sit north of 10% if the Federal Reserve and the Treasury Department stepped back from the bond market entirely.",
-          "translation": "科爾認為如果中央銀行和財政部完全離開債券市場，10 年的國債利率就會超過 10% "
+          "translation": ""
         },
         {
           "sentence": "He credits Treasury Secretary Scott Bessent with capping long-end rates for now, but says that intervention only delays a reckoning, since neither party in Washington shows any willingness to cut spending.",
-          "translation": "他認為財政部長斯科特·比森為目前的長期國債利率做出了重要貢獻，但他認為這只是延遲了糾正問題的時間，因為華盛頓政府沒有意圖降低政府支出"
+          "translation": ""
         },
         {
           "sentence": "That logic underpins Strive's public forecast of a 50% compound annual growth rate for Bitcoin through 2030, a figure Cole calls conservative given the asset's past bull-market cycles, a view he first laid out when he called the bear market over last month.",
-          "translation": "這個論斷是 Strive 公開預測比特幣在 2030 年的 50% 年度累積增長率的基礎，科爾認為這個預測相對保守，因為比特幣過去的牛市週期，科爾在去月份宣布牛市結束時就已經預測了這個增長率"
+          "translation": ""
         },
         {
           "sentence": "It also explains why Strive's SATA preferred stock, which pays a daily cash dividend, has, according to Cole, outperformed Bitcoin itself by more than 100% in 2026 even as BTC has traded roughly flat.",
-          "translation": "這也解釋了為什麼 Strive 的 SATA 簡易債券，該債券每天支付現金利息，與比特幣本身的增長率相比，在 2026 年仍然超過 100% "
+          "translation": ""
         },
         {
           "sentence": "Cole also pushed back on the idea that the Bitcoin treasury company model is fading. He argues it never broke, only that firms without a clear thesis or sound debt terms struggled once the bear market hit, while disciplined buyers kept accumulating even as Wall Street treasuries resumed buying.",
-          "translation": "科爾也反對了比特幣公司經理模型的消退論，他認為這種模型從來沒有壞死，只是那些沒有明確理論或穩定的債務公司在牛市結束後就出現了困難，而有規律的買家在 Wall Street 債券市場恢復活躍後仍能持續積累"
+          "translation": ""
         },
         {
           "sentence": "Cole's framing puts Bitcoin's price action second to a wager on US fiscal dysfunction, one that only pays off if bond markets and the dollar move the way he expects over the next several years.",
-          "translation": "科爾的框架將比特幣價格的行為置於美國財政混亂的賭注之上，這個賭注只會成功，如果債券市場和美元在下一年幾年內按照他預期的方向走"
+          "translation": ""
         }
       ]
     },
@@ -341,127 +330,117 @@
       "title": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
       "source": "Yahoo Finance",
       "link": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html",
-      "level1_blind": {
-        "text": "Westinghouse Air Brake Technologies Corporation (NYSE:WAB) announced on September 21 a services agreement worth more than $700 million with La Compagnie du TransGuinéen. Combined with locomotive orders placed in 2024, announced agreements for the Simandou project now exceed $1.2 billion.\n\nThe railway stretches more than 600 kilometers between the Simandou mine and Guinea's Port of Morebaya. The new agreement extends the relationship beyond locomotive delivery into ongoing fleet support. For investors, the opportunity is to earn revenue throughout the equipment's operating life.\n\nWestinghouse Air Brake Technologies Corporation (NYSE:WAB) will provide scheduled and unscheduled maintenance, parts, component overhauls, logistics support, remote diagnostics, and training. These activities create multiple opportunities to serve the same fleet after the initial equipment sale.\n\nThat is an attractive business model when maintenance needs translate into repeat orders and efficient service delivery. Familiarity with the locomotives should help technicians diagnose problems and plan repairs. Remote monitoring could also help identify faults before they cause prolonged downtime, strengthening the customer's incentive to maintain the relationship.\n\nLocal workforce development and partnerships with Guinean businesses could improve responsiveness as the operation matures. Over time, an experienced local team could reduce dependence on specialists traveling to the site and make parts planning more efficient.\n\nThe broader freight business provides a profitable base. Second-quarter freight revenue increased 16.9% to $2.24 billion, while its GAAP operating margin rose to 22.5% from 21.6%. Those results demonstrate existing earnings capacity, although the new agreement's contribution will depend on its own pricing and execution costs.\n\nWestinghouse Air Brake Technologies Corporation (NYSE:WAB) has announced a multiyear contract value, not $700 million of annual revenue or immediate cash receipts. The combined $1.2 billion also includes earlier equipment orders.\n\nTreating the entire amount as new business from this announcement would overstate the incremental opportunity.\n\nThe release does not specify the exact contract duration, revenue commencement date, annual revenue schedule, or expected service margin. Those details matter because the same headline value can produce very different returns depending on how quickly work is performed, costs are incurred, and customers pay."
-      },
+      "level1_blind": "Westinghouse Air Brake Technologies Corporation (NYSE:WAB) announced on September 21 a services agreement worth more than $700 million with La Compagnie du TransGuinéen. Combined with locomotive orders placed in 2024, announced agreements for the Simandou project now exceed $1.2 billion.\n\nThe railway stretches more than 600 kilometers between the Simandou mine and Guinea's Port of Morebaya. The new agreement extends the relationship beyond locomotive delivery into ongoing fleet support. For investors, the opportunity is to earn revenue throughout the equipment's operating life.\n\nWestinghouse Air Brake Technologies Corporation (NYSE:WAB) will provide scheduled and unscheduled maintenance, parts, component overhauls, logistics support, remote diagnostics, and training. These activities create multiple opportunities to serve the same fleet after the initial equipment sale.\n\nThat is an attractive business model when maintenance needs translate into repeat orders and efficient service delivery. Familiarity with the locomotives should help technicians diagnose problems and plan repairs. Remote monitoring could also help identify faults before they cause prolonged downtime, strengthening the customer's incentive to maintain the relationship.\n\nLocal workforce development and partnerships with Guinean businesses could improve responsiveness as the operation matures. Over time, an experienced local team could reduce dependence on specialists traveling to the site and make parts planning more efficient.\n\nThe broader freight business provides a profitable base. Second-quarter freight revenue increased 16.9% to $2.24 billion, while its GAAP operating margin rose to 22.5% from 21.6%. Those results demonstrate existing earnings capacity, although the new agreement's contribution will depend on its own pricing and execution costs.\n\nWestinghouse Air Brake Technologies Corporation (NYSE:WAB) has announced a multiyear contract value, not $700 million of annual revenue or immediate cash receipts. The combined $1.2 billion also includes earlier equipment orders. Treating the entire amount as new business from this announcement would overstate the incremental opportunity.\n\nThe release does not specify the exact contract duration, revenue commencement date, annual revenue schedule, or expected service margin. Those details matter because the same headline value can produce very different returns depending on how quickly work is performed, costs are incurred, and customers pay.",
       "level2_keywords": [
         {
-          "word": "Locomotive",
-          "ipa": "/ˌloʊkəˈmoʊtɪv/",
-          "meaning": "火車頭，機車（鐵路列車的動力部分，負責牽引列車）",
-          "example": "「The company received new locomotive orders for the project.」"
+          "word": "semiconductor",
+          "ipa": "/sɛmɪˈdɪəmɪntər/",
+          "meaning": "半導體",
+          "example": "半導體產業在全球經濟中扮演著重要角色"
         },
         {
-          "word": "Fleet support",
-          "ipa": "/fliːt səˈpɔːrt/",
-          "meaning": "車隊維護與支援（指對交通工具群的保養、維修及營運協助）",
-          "example": "「The new agreement extends beyond delivery into ongoing fleet support.」"
+          "word": "export",
+          "ipa": "/ɛksˈpɔːrt/",
+          "meaning": "出口",
+          "example": "公司的出口business在今年的收入中占到了重要地位"
         },
         {
-          "word": "Component overhauls",
-          "ipa": "/kəmˈpoʊnənt ˈoʊvərˌhɔːlz/",
-          "meaning": "零件大修（對機器或設備的個別零件進行全面檢查、修理或更換）",
-          "example": "「WAB will provide maintenance and component overhauls for the rail fleet.」"
+          "word": "logistics",
+          "ipa": "/ˈlɒdʒɪstɪks/",
+          "meaning": "運輸管理",
+          "example": "公司的運輸管理部門在今年的收入中占到了重要地位"
         },
         {
-          "word": "Remote diagnostics",
-          "ipa": "/rɪˈmoʊt ˌdaɪəɡˈnɒstɪks/",
-          "meaning": "遠端診斷（從遠處對設備或系統進行故障排除和問題識別）",
-          "example": "「Remote diagnostics can help identify faults before they cause prolonged downtime.」"
+          "word": "maintenance",
+          "ipa": "/mæntəˈneɪns/",
+          "meaning": "維護",
+          "example": "公司的維護部門在今年的收入中占到了重要地位"
         },
         {
-          "word": "Downtime",
-          "ipa": "/ˈdaʊntaɪm/",
-          "meaning": "停機時間，停工期（設備或系統停止運作的時間）",
-          "example": "「Minimizing downtime is crucial for efficient railway operations.」"
+          "word": "fleet",
+          "ipa": "/fliːt/",
+          "meaning": "車隊",
+          "example": "公司的車隊在今年的收入中占到了重要地位"
         }
       ],
-      "level2_context": "各位同學，這則新聞談的是美國鐵路設備巨頭西屋制動（WAB）在非洲幾內亞簽下了一筆超過七億美元的鐵路服務大單。這不僅僅是賣火車頭，更重要的是，它涵蓋了長期的維修、零件供應、遠端診斷等服務。這背後反映了幾個重要的產業趨勢：首先，大型基礎建設案，特別是像幾內亞Simandou鐵礦這種需要龐大物流運輸的項目，其設備採購往往伴隨著長期的服務合約，這能為供應商帶來穩定的經常性收入（recurring revenue），而不是一次性銷售。其次，許多工業設備製造商正積極轉型，從單純的「賣產品」走向「提供服務」，也就是所謂的「服務化」（servitization）模式，這能加深與客戶的關係，並在設備的整個生命週期中持續創造價值。對投資人來說，這種模式比單純的設備銷售更有吸引力，因為它能帶來更可預測且持續的營收。同時，新聞中也提到在地化的人力培訓與合作，這對於跨國大型專案的永續經營和效率提升至關重要。",
+      "level2_context": "\n\n這個新聞是關於西屋空氣制動（Westinghouse Air Brake）公司與加納公司（La Compagnie du TransGuinéen）之間的合作關係。加納公司是一家從事鐵路運輸的公司，西屋空氣制動公司將提供鐵路運輸的維護服務，包括定期維護、零件替換、logistics支持、遠程診斷和訓練等服務。\n\n這個合作關係對於西屋空氣制動公司來說，是一個很好的機會，能夠獲得長期的收入和利潤。\n\n這個合作關係也對於加納公司來說，是一個很好的機會，能夠獲得鐵路運輸的維護服務，同時也能夠提高鐵路運輸的效率和安全性。\n\n這個合作關係也對於鐵路運輸業來說，是一個很好的機會，能夠提高鐵路運輸的效率和安全性，同時也能夠減少鐵路運輸的成本。\n\n",
       "level3_translation": [
         {
           "sentence": "Westinghouse Air Brake Technologies Corporation (NYSE:WAB) announced on September 21 a services agreement worth more than $700 million with La Compagnie du TransGuinéen.",
-          "translation": "西屋制動科技公司（紐約證交所代碼：WAB）於9月21日宣布，與幾內亞運輸公司（La Compagnie du TransGuinéen）簽訂了一份價值超過七億美元的服務協議。"
+          "translation": "\n\n西屋空氣制動公司於9月21日宣布與加納公司之間的合作關係，總額超過7億美元。\n\n"
         },
         {
           "sentence": "Combined with locomotive orders placed in 2024, announced agreements for the Simandou project now exceed $1.2 billion.",
-          "translation": "若加上2024年已簽訂的火車頭訂單，針對Simandou專案所公布的協議總金額目前已超過12億美元。"
+          "translation": "\n\n與2024年購買的火車訂單合計，Simandou項目的合計額已超過12億美元。\n\n"
         },
         {
           "sentence": "The railway stretches more than 600 kilometers between the Simandou mine and Guinea's Port of Morebaya.",
-          "translation": "這條鐵路綿延超過600公里，連接Simandou礦區與幾內亞的莫雷巴亞港。"
-        },
-        {
-          "sentence": "The new agreement extends the relationship beyond locomotive delivery into ongoing fleet support.",
-          "translation": "這份新協議將雙方關係從單純的火車頭交付，延伸至持續性的車隊維護與支援服務。"
-        },
-        {
-          "sentence": "For investors, the opportunity is to earn revenue throughout the equipment's operating life.",
-          "translation": "對投資人而言，這代表著能在設備的整個營運生命週期中持續賺取營收的機會。"
+          "translation": "\n\n鐵路延伸長達600公里，連接Simandou礦場和加納的Morebaya港。\n\n"
         },
         {
           "sentence": "Westinghouse Air Brake Technologies Corporation (NYSE:WAB) will provide scheduled and unscheduled maintenance, parts, component overhauls, logistics support, remote diagnostics, and training.",
-          "translation": "西屋制動科技公司（WAB）將提供定期與非定期的維修、零件供應、零件大修、物流支援、遠端診斷以及人員培訓。"
+          "translation": "\n\n西屋空氣制動公司將提供定期維護、不定期維護、零件替換、logistics支持、遠程診斷和訓練等服務。\n\n"
         },
         {
           "sentence": "These activities create multiple opportunities to serve the same fleet after the initial equipment sale.",
-          "translation": "這些服務活動在初次設備銷售之後，為同一批車隊創造了多重持續服務的機會。"
+          "translation": "\n\n這些活動創造了多個機會，讓西屋空氣制動公司能夠提供相同車隊的維護服務。\n\n"
         },
         {
           "sentence": "That is an attractive business model when maintenance needs translate into repeat orders and efficient service delivery.",
-          "translation": "當維修需求能轉化為重複訂單並有效率地提供服務時，這便是一個極具吸引力的商業模式。"
+          "translation": "\n\n這是一個很吸引人的生意模式，當維護需求轉化為重復訂單和高效的服務提供時。\n\n"
         },
         {
           "sentence": "Familiarity with the locomotives should help technicians diagnose problems and plan repairs.",
-          "translation": "技師對火車頭的熟悉度，應有助於診斷問題並規劃維修工作。"
+          "translation": "\n\n熟悉火車的技術員可以幫助診斷問題並制定修理計畫。\n\n"
         },
         {
           "sentence": "Remote monitoring could also help identify faults before they cause prolonged downtime, strengthening the customer's incentive to maintain the relationship.",
-          "translation": "遠端監控也能在故障導致長時間停機之前就發現問題，進而強化客戶維持合作關係的動機。"
+          "translation": "\n\n遠程監控也可以幫助識別問題，避免問題導致長時間停機，強化客戶的誘導力。\n\n"
         },
         {
           "sentence": "Local workforce development and partnerships with Guinean businesses could improve responsiveness as the operation matures.",
-          "translation": "隨著營運日趨成熟，在地勞動力發展以及與幾內亞當地企業的合作，將能提升服務的即時性。"
+          "translation": "\n\n加納公司與當地企業合作，發展工作力源和建立合作關係，能夠提高對公司的反應性，進而提高公司的成長能力。\n\n"
         },
         {
           "sentence": "Over time, an experienced local team could reduce dependence on specialists traveling to the site and make parts planning more efficient.",
-          "translation": "長遠來看，一支經驗豐富的在地團隊可以減少對外地專家前往現場的依賴，並使零件規劃更加有效率。"
+          "translation": "\n\n在長期內，經驗豐富的當地工作人員能夠減少對專業人員的依賴，提高零件規劃的效率。\n\n"
         },
         {
           "sentence": "The broader freight business provides a profitable base.",
-          "translation": "更廣泛的貨運業務為公司提供了獲利基礎。"
+          "translation": "\n\n廣泛的貨運業提供了可觀的收入基礎。\n\n"
         },
         {
           "sentence": "Second-quarter freight revenue increased 16.9% to $2.24 billion, while its GAAP operating margin rose to 22.5% from 21.6%.",
-          "translation": "第二季貨運營收成長16.9%至22.4億美元，而其GAAP會計準則下的營業利益率則從21.6%上升至22.5%。"
+          "translation": "\n\n第二季度貨運收入增加了16.9%，達到2.24億美元，GAAP營業毛利率也從21.6%上升到22.5%。\n\n"
         },
         {
           "sentence": "Those results demonstrate existing earnings capacity, although the new agreement's contribution will depend on its own pricing and execution costs.",
-          "translation": "這些成果顯示了公司現有的獲利能力，儘管這份新協議的貢獻將取決於其自身的定價與執行成本。"
+          "translation": "\n\n這些結果表明公司已經具備可觀的收入能力，雖然新的合作契約的贏得將取決於其 own 的價格和實施成本。\n\n"
         },
         {
           "sentence": "Westinghouse Air Brake Technologies Corporation (NYSE:WAB) has announced a multiyear contract value, not $700 million of annual revenue or immediate cash receipts.",
-          "translation": "西屋制動科技公司（WAB）公布的是一份多年期合約的總價值，而非每年七億美元的營收，也不是立即的現金收入。"
+          "translation": "\n\n西屋空氣制動公司宣布了多年的合同價值，而不是每年7億美元的收入或即時的現金收據。\n\n"
         },
         {
           "sentence": "The combined $1.2 billion also includes earlier equipment orders.",
-          "translation": "這合計的12億美元也包含了較早期的設備訂單。"
+          "translation": "\n\n這個合計12億美元也包括早期購買的火車訂單。\n\n"
         },
         {
           "sentence": "Treating the entire amount as new business from this announcement would overstate the incremental opportunity.",
-          "translation": "若將這筆總金額完全視為本次宣布帶來的新業務，將會誇大其增量機會。"
+          "translation": "\n\n將整個額度視為從這次宣布中獲得的新生意機會，將過度誇大機會。\n\n"
         },
         {
           "sentence": "The release does not specify the exact contract duration, revenue commencement date, annual revenue schedule, or expected service margin.",
-          "translation": "新聞稿中並未具體說明確切的合約期限、營收開始認列日期、年度營收排程，或是預期的服務毛利率。"
+          "translation": "\n\n發布文件中沒有明確提到合同的期限、收入開始日期、年度收入計畫或預期服務毛利率。\n\n"
         },
         {
           "sentence": "Those details matter because the same headline value can produce very different returns depending on how quickly work is performed, costs are incurred, and customers pay.",
-          "translation": "這些細節至關重要，因為相同的表面價值，會根據工作執行速度、成本發生情況以及客戶付款方式，產生截然不同的報酬。"
+          "translation": "\n\n這些細節很重要，因為同一標題值可以產生很大的不同回報，取決於工作的速度、成本的增加和客戶的付款。\n\n"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "在金融市場中，許多公司的買賣行為往往受到外部環境的影響，例如國際財經新聞的報導。這些報導可以影響市場的趨勢，從而影響公司的股價和買賣行為。例如，當 Yahoo Finance 的報導指出 Bitcoin 的價格可能會上升，Strive 的 CEO Matt Cole 就會持續購買 Bitcoin，從而影響市場的趨勢。這種因果關係可以被視為金融市場中的一種大腦聯結，透過報導和市場反應來影響公司的買賣行為。因此，了解這種關係對於金融市場的分析和預測具有重要意義。"
+    "market_connection": "兩間公司的行為可能與美國財經市場的整體趨勢相關，尤其是與美元的價格變化和美國政府財政政策的變化。西林空氣制動公司的新合約可能與美國政府對於鐵路運輸的投資增加有關，而Strive的買賣行為可能與美國政府對於美元的價格變化有關。這些變化可能會對美國財經市場的整體趨勢產生影響，從而影響其他公司的行為和價格。"
   }
 }
