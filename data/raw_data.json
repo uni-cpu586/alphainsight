@@ -1,68 +1,68 @@
 {
-  "date": "2026-10-06",
-  "stock_market_date": "2026-10-05",
+  "date": "2026-10-07",
+  "stock_market_date": "2026-10-06",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 24878270
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_buy_shares": 18381742
         },
         {
           "rank": 2,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 22053190
+          "stock_name": "台化",
+          "ticker": "1326",
+          "net_buy_shares": 13370519
         },
         {
           "rank": 3,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 19566308
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 12514743
         },
         {
           "rank": 4,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 13700689
+          "stock_name": "新興",
+          "ticker": "2605",
+          "net_buy_shares": 9995332
         },
         {
           "rank": 5,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_buy_shares": 13072342
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 9406803
         },
         {
           "rank": 6,
-          "stock_name": "強茂",
-          "ticker": "2481",
-          "net_buy_shares": 12256955
+          "stock_name": "南茂",
+          "ticker": "8150",
+          "net_buy_shares": 7948693
         },
         {
           "rank": 7,
-          "stock_name": "光寶科",
-          "ticker": "2301",
-          "net_buy_shares": 11841503
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_buy_shares": 7668834
         },
         {
           "rank": 8,
-          "stock_name": "鼎元",
-          "ticker": "2426",
-          "net_buy_shares": 9785980
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 7287269
         },
         {
           "rank": 9,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_buy_shares": 9770520
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 7062821
         },
         {
           "rank": 10,
-          "stock_name": "中纖",
-          "ticker": "1718",
-          "net_buy_shares": 8155131
+          "stock_name": "力成",
+          "ticker": "6239",
+          "net_buy_shares": 6903934
         }
       ],
       "foreign_sell": [
@@ -70,123 +70,123 @@
           "rank": 1,
           "stock_name": "友達",
           "ticker": "2409",
-          "net_sell_shares": -212135842
+          "net_sell_shares": -87053778
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -81562142
-        },
-        {
-          "rank": 3,
-          "stock_name": "彩晶",
-          "ticker": "6116",
-          "net_sell_shares": -27574299
-        },
-        {
-          "rank": 4,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -25066307
-        },
-        {
-          "rank": 5,
-          "stock_name": "台中銀",
-          "ticker": "2812",
-          "net_sell_shares": -19205109
-        },
-        {
-          "rank": 6,
-          "stock_name": "中石化",
-          "ticker": "1314",
-          "net_sell_shares": -19051289
-        },
-        {
-          "rank": 7,
-          "stock_name": "臺企銀",
-          "ticker": "2834",
-          "net_sell_shares": -17675080
-        },
-        {
-          "rank": 8,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -15614027
-        },
-        {
-          "rank": 9,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -12365940
-        },
-        {
-          "rank": 10,
-          "stock_name": "台泥",
-          "ticker": "1101",
-          "net_sell_shares": -11976480
-        }
-      ],
-      "trust_buy": [
-        {
-          "rank": 1,
-          "stock_name": "華新科",
-          "ticker": "2492",
-          "net_buy_shares": 3126000
-        },
-        {
-          "rank": 2,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_buy_shares": 3094423
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_sell_shares": -19982641
         },
         {
           "rank": 3,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_buy_shares": 2100000
+          "net_sell_shares": -15986082
         },
         {
           "rank": 4,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_buy_shares": 1411000
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_sell_shares": -15521747
         },
         {
           "rank": 5,
-          "stock_name": "臻鼎-KY",
-          "ticker": "4958",
-          "net_buy_shares": 1322710
+          "stock_name": "彩晶",
+          "ticker": "6116",
+          "net_sell_shares": -9810009
         },
         {
           "rank": 6,
-          "stock_name": "景碩",
-          "ticker": "3189",
-          "net_buy_shares": 1150000
+          "stock_name": "兆赫",
+          "ticker": "2485",
+          "net_sell_shares": -8696383
         },
         {
           "rank": 7,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_buy_shares": 1061503
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -7402878
         },
         {
           "rank": 8,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 1017512
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_sell_shares": -6551967
         },
         {
           "rank": 9,
-          "stock_name": "南電",
-          "ticker": "8046",
-          "net_buy_shares": 883908
+          "stock_name": "鼎元",
+          "ticker": "2426",
+          "net_sell_shares": -6385489
         },
         {
           "rank": 10,
+          "stock_name": "聯嘉投控",
+          "ticker": "3717",
+          "net_sell_shares": -5895424
+        }
+      ],
+      "trust_buy": [
+        {
+          "rank": 1,
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 3486000
+        },
+        {
+          "rank": 2,
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_buy_shares": 3285000
+        },
+        {
+          "rank": 3,
+          "stock_name": "金像電",
+          "ticker": "2368",
+          "net_buy_shares": 2644500
+        },
+        {
+          "rank": 4,
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_buy_shares": 2265000
+        },
+        {
+          "rank": 5,
           "stock_name": "永豐金",
           "ticker": "2890",
-          "net_buy_shares": 652197
+          "net_buy_shares": 2166000
+        },
+        {
+          "rank": 6,
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_buy_shares": 1994000
+        },
+        {
+          "rank": 7,
+          "stock_name": "統一",
+          "ticker": "1216",
+          "net_buy_shares": 1681000
+        },
+        {
+          "rank": 8,
+          "stock_name": "和益",
+          "ticker": "1709",
+          "net_buy_shares": 1355000
+        },
+        {
+          "rank": 9,
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 1335000
+        },
+        {
+          "rank": 10,
+          "stock_name": "聯茂",
+          "ticker": "6213",
+          "net_buy_shares": 1233000
         }
       ],
       "trust_sell": [
@@ -194,185 +194,185 @@
           "rank": 1,
           "stock_name": "聯電",
           "ticker": "2303",
-          "net_sell_shares": -35930277
+          "net_sell_shares": -67563010
         },
         {
           "rank": 2,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_sell_shares": -5455334
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -10812000
         },
         {
           "rank": 3,
-          "stock_name": "中華電",
-          "ticker": "2412",
-          "net_sell_shares": -1874299
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_sell_shares": -5472000
         },
         {
           "rank": 4,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -1848134
+          "stock_name": "臻鼎-KY",
+          "ticker": "4958",
+          "net_sell_shares": -4162000
         },
         {
           "rank": 5,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -1817473
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -2283000
         },
         {
           "rank": 6,
-          "stock_name": "貿聯-KY",
-          "ticker": "3665",
-          "net_sell_shares": -1759066
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_sell_shares": -2036000
         },
         {
           "rank": 7,
-          "stock_name": "強茂",
-          "ticker": "2481",
-          "net_sell_shares": -1440000
+          "stock_name": "欣興",
+          "ticker": "3037",
+          "net_sell_shares": -1901010
         },
         {
           "rank": 8,
-          "stock_name": "欣興",
-          "ticker": "3037",
-          "net_sell_shares": -1274484
+          "stock_name": "興富發",
+          "ticker": "2542",
+          "net_sell_shares": -1721500
         },
         {
           "rank": 9,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_sell_shares": -1152651
+          "stock_name": "日月光投控",
+          "ticker": "3711",
+          "net_sell_shares": -1526000
         },
         {
           "rank": 10,
-          "stock_name": "禾伸堂",
-          "ticker": "3026",
-          "net_sell_shares": -1036000
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_sell_shares": -1478000
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "元大高股息",
-          "ticker": "0056",
-          "net_buy_shares": 4000000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 3080621
         },
         {
           "rank": 2,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_buy_shares": 1464000
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 1387010
         },
         {
           "rank": 3,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 572565
+          "stock_name": "矽格",
+          "ticker": "6257",
+          "net_buy_shares": 455619
         },
         {
           "rank": 4,
-          "stock_name": "華新科",
-          "ticker": "2492",
-          "net_buy_shares": 451708
+          "stock_name": "國產",
+          "ticker": "2504",
+          "net_buy_shares": 412000
         },
         {
           "rank": 5,
-          "stock_name": "燿華",
-          "ticker": "2367",
-          "net_buy_shares": 408000
+          "stock_name": "啟碁",
+          "ticker": "6285",
+          "net_buy_shares": 364787
         },
         {
           "rank": 6,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_buy_shares": 329009
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 327720
         },
         {
           "rank": 7,
-          "stock_name": "強茂",
-          "ticker": "2481",
-          "net_buy_shares": 327000
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_buy_shares": 325808
         },
         {
           "rank": 8,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_buy_shares": 263934
+          "stock_name": "新興",
+          "ticker": "2605",
+          "net_buy_shares": 323000
         },
         {
           "rank": 9,
-          "stock_name": "東森",
-          "ticker": "2614",
-          "net_buy_shares": 247000
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_buy_shares": 273520
         },
         {
           "rank": 10,
-          "stock_name": "亞光",
-          "ticker": "3019",
-          "net_buy_shares": 233386
+          "stock_name": "力成",
+          "ticker": "6239",
+          "net_buy_shares": 264666
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -13846014
+          "stock_name": "國喬",
+          "ticker": "1312",
+          "net_sell_shares": -1037000
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -1592588
+          "stock_name": "台虹",
+          "ticker": "8039",
+          "net_sell_shares": -641986
         },
         {
           "rank": 3,
-          "stock_name": "新唐",
-          "ticker": "4919",
-          "net_sell_shares": -874554
+          "stock_name": "全新",
+          "ticker": "2455",
+          "net_sell_shares": -598445
         },
         {
           "rank": 4,
-          "stock_name": "瑞軒",
-          "ticker": "2489",
-          "net_sell_shares": -869000
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_sell_shares": -572932
         },
         {
           "rank": 5,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_sell_shares": -868000
+          "stock_name": "兆赫",
+          "ticker": "2485",
+          "net_sell_shares": -503000
         },
         {
           "rank": 6,
-          "stock_name": "中石化",
-          "ticker": "1314",
-          "net_sell_shares": -846859
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -490000
         },
         {
           "rank": 7,
-          "stock_name": "中鼎",
-          "ticker": "9933",
-          "net_sell_shares": -813913
+          "stock_name": "中華化",
+          "ticker": "1727",
+          "net_sell_shares": -302000
         },
         {
           "rank": 8,
-          "stock_name": "台虹",
-          "ticker": "8039",
-          "net_sell_shares": -777002
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_sell_shares": -253000
         },
         {
           "rank": 9,
-          "stock_name": "彩晶",
-          "ticker": "6116",
-          "net_sell_shares": -692000
+          "stock_name": "旺宏",
+          "ticker": "2337",
+          "net_sell_shares": -248000
         },
         {
           "rank": 10,
-          "stock_name": "三芳",
-          "ticker": "1307",
-          "net_sell_shares": -600000
+          "stock_name": "東森",
+          "ticker": "2614",
+          "net_sell_shares": -248000
         }
       ]
     },
@@ -380,56 +380,56 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "緯創",
-        "shares": 8707394
+        "target": "華通",
+        "shares": 6433609
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "元大高股息",
-        "shares": 1600000
+        "target": "聯電",
+        "shares": 1232248
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "華新科",
-        "shares": 1406700
+        "target": "南亞",
+        "shares": 1568700
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
         "target": "友達",
-        "shares": 63640752
+        "shares": 26116133
       }
     ]
   },
   "news": [
     {
       "id": "news_1",
-      "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html",
-      "summary": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
-      "full_text": "Ennis, Inc. (NYSE:EBF) reported higher sales and lower earnings for the quarter ended August 31, 2026, but legal items complicate the comparison. The underlying business held up better than the headline profit decline suggests, while paper costs created genuine margin pressure.\n\nThe September 21 release showed revenue of $102 million, up 3.3% from $98.7 million. Net earnings fell to $9.4 million from $13.2 million. Investors need to distinguish the litigation effects from changes in demand, acquisition contributions, and production costs.\n\nThe prior-year quarter included a $5.3 million favorable litigation judgment, while the current quarter included an unrelated $700,000 litigation charge. Management said diluted earnings per share increased $0.02 after excluding these items from both periods. This non-GAAP comparison removes the specified litigation effects from reported diluted earnings per share.\n\nThat modest improvement is more encouraging than the reported earnings decline. Gross profit also increased to $30.5 million from $30.1 million, showing that the larger revenue base produced additional gross profit despite a lower margin.\n\nEnnis, Inc. (NYSE:EBF) generated $34.1 million of operating cash flow in the first half, compared with $18.4 million a year earlier. Cash reached $54 million as of August 31, and management reported no debt. That financial position provides room to support operations and acquisitions without immediate refinancing pressure.\n\nSupply continuity is another positive. Ennis, Inc. (NYSE:EBF) has received shipments from alternative carbonless-paper suppliers following the closure of the sole domestic producer. Management continues to expect uninterrupted product availability and customer service. Maintaining supply protects the ability to fulfill orders while the business adapts to higher input costs.\n\nAcquisitions contributed approximately $2.3 million of the $3.3 million quarterly revenue increase. Subtracting the disclosed acquisition contribution leaves roughly $1 million of additional sales, or about 1% of prior-year revenue, based on rounded figures. The reported growth rate therefore overstates the improvement outside those acquisition contributions.\n\nGross margin declined to 29.9% from 30.5%, a decrease of 60 basis points. Management attributed the decline primarily to higher carbonless-paper costs recognized in cost of sales. That pressure affects the economics of producing and selling printed products independently of the litigation comparison.",
-      "published": "2026-09-23T01:52:26Z"
+      "title": "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)",
+      "source": "Crunch Hype",
+      "link": "https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html",
+      "summary": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?...",
+      "full_text": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?...",
+      "published": "Thu, 04 Dec 2025 05:37:00 +0000"
     },
     {
       "id": "news_2",
-      "title": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
-      "summary": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
-      "full_text": "Strive CEO Matt Cole says Bitcoin (BTC) could effectively go to infinity against the US dollar, arguing that a mounting Washington debt crisis, not Bitcoin's own scarcity, is what will ultimately break the currency's value.\n\nCole made the comments on Bloomberg Crypto, as digital assets have reclaimed $3 trillion in market value since January. Strive, a Bitcoin treasury company that raises capital to buy and hold BTC on its balance sheet, has been one of the more aggressive buyers through the cycle.\n\nCole argued that the 10-year Treasury yield would already sit north of 10% if the Federal Reserve and the Treasury Department stepped back from the bond market entirely.\n\nHe credits Treasury Secretary Scott Bessent with capping long-end rates for now, but says that intervention only delays a reckoning, since neither party in Washington shows any willingness to cut spending.\n\nThat logic underpins Strive's public forecast of a 50% compound annual growth rate for Bitcoin through 2030, a figure Cole calls conservative given the asset's past bull-market cycles, a view he first laid out when he called the bear market over last month.\n\nIt also explains why Strive's SATA preferred stock, which pays a daily cash dividend, has, according to Cole, outperformed Bitcoin itself by more than 100% in 2026 even as BTC has traded roughly flat.\n\nCole also pushed back on the idea that the Bitcoin treasury company model is fading. He argues it never broke, only that firms without a clear thesis or sound debt terms struggled once the bear market hit, while disciplined buyers kept accumulating even as Wall Street treasuries resumed buying.\n\nCole's framing puts Bitcoin's price action second to a wager on US fiscal dysfunction, one that only pays off if bond markets and the dollar move the way he expects over the next several years.",
-      "published": "2026-09-23T01:51:00Z"
+      "title": "Top 10 AI Tools That Will Transform Your Content Creation in 2025",
+      "source": "Crunch Hype",
+      "link": "https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html",
+      "summary": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay a...",
+      "full_text": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay a...",
+      "published": "Thu, 02 Jan 2025 09:26:00 +0000"
     },
     {
       "id": "news_3",
-      "title": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html",
-      "summary": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
-      "full_text": "Westinghouse Air Brake Technologies Corporation (NYSE:WAB) announced on September 21 a services agreement worth more than $700 million with La Compagnie du TransGuinéen. Combined with locomotive orders placed in 2024, announced agreements for the Simandou project now exceed $1.2 billion.\n\nThe railway stretches more than 600 kilometers between the Simandou mine and Guinea's Port of Morebaya. The new agreement extends the relationship beyond locomotive delivery into ongoing fleet support. For investors, the opportunity is to earn revenue throughout the equipment's operating life.\n\nWestinghouse Air Brake Technologies Corporation (NYSE:WAB) will provide scheduled and unscheduled maintenance, parts, component overhauls, logistics support, remote diagnostics, and training. These activities create multiple opportunities to serve the same fleet after the initial equipment sale.\n\nThat is an attractive business model when maintenance needs translate into repeat orders and efficient service delivery. Familiarity with the locomotives should help technicians diagnose problems and plan repairs. Remote monitoring could also help identify faults before they cause prolonged downtime, strengthening the customer's incentive to maintain the relationship.\n\nLocal workforce development and partnerships with Guinean businesses could improve responsiveness as the operation matures. Over time, an experienced local team could reduce dependence on specialists traveling to the site and make parts planning more efficient.\n\nThe broader freight business provides a profitable base. Second-quarter freight revenue increased 16.9% to $2.24 billion, while its GAAP operating margin rose to 22.5% from 21.6%. Those results demonstrate existing earnings capacity, although the new agreement's contribution will depend on its own pricing and execution costs.\n\nWestinghouse Air Brake Technologies Corporation (NYSE:WAB) has announced a multiyear contract value, not $700 million of annual revenue or immediate cash receipts. The combined $1.2 billion also includes earlier equipment orders. Treating the entire amount as new business from this announcement would overstate the incremental opportunity.\n\nThe release does not specify the exact contract duration, revenue commencement date, annual revenue schedule, or expected service margin. Those details matter because the same headline value can produce very different returns depending on how quickly work is performed, costs are incurred, and customers pay.",
-      "published": "2026-09-23T01:43:50Z"
+      "title": "LimeWire AI Studio Review 2023: Details, Pricing & Features",
+      "source": "Crunch Hype",
+      "link": "https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html",
+      "summary": "In the rapidly advancing landscape of AI technology and innovation, LimeWire emerges as a unique platform in the realm of generative AI tools. This platform not only stands out from the multitude o...",
+      "full_text": "In the rapidly advancing landscape of AI technology and innovation, LimeWire emerges as a unique platform in the realm of generative AI tools. This platform not only stands out from the multitude o...",
+      "published": "Tue, 12 Dec 2023 16:10:00 +0000"
     }
   ]
 }
