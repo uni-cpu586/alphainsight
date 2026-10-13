@@ -1,138 +1,139 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "stock_uncle_insight": {
-    "date_header": "10/9 法人與主力大戶主要買賣超股票",
+    "date_header": "10/13 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：傳產、記憶體與部分電子股調整部位",
+        "group_title": "1. 外資大戶：狂掃金融傳產，電子股倒貨避險",
         "stocks": [
-          {
-            "stock_name": "南亞科",
-            "ticker": "2408",
-            "description": "肖年仔啊，外資狂掃 2.17 萬張南亞科，這擺明是看好記憶體景氣觸底反彈，準備卡位下一波行情啦！真外資在低檔吃貨，你還在黑白猜嗎？"
-          },
-          {
-            "stock_name": "中石化",
-            "ticker": "1314",
-            "description": "外資買超 2.16 萬張中石化，塑化股有機會在景氣復甦時受惠，外資在低檔偷偷吃貨，這就是資金避風港的選擇。"
-          },
-          {
-            "stock_name": "緯創",
-            "ticker": "3231",
-            "description": "AI概念股雖然震盪，但外資還是買超 1.55 萬張緯創，可能是短線回補或波段操作，肖年仔，這檔還是有戲，但要小心別追高。"
-          },
-          {
-            "stock_name": "台塑",
-            "ticker": "1301",
-            "description": "外資買超 1.42 萬張台塑，跟中石化一樣，傳產龍頭股被外資當避風港，穩穩的，等景氣翻多。"
-          },
-          {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "外資買超 1.01 萬張兆豐金，金融股在升息環境下有穩定收益，外資也來湊一腳，這就是穩健型的選擇。"
-          }
-        ]
-      },
-      {
-        "group_title": "2. 投信大戶（本土國家隊）：作帳行情鎖定金融與塑化",
-        "stocks": [
-          {
-            "stock_name": "台塑化",
-            "ticker": "6505",
-            "description": "肖年仔，投信大買 1.48 萬張台塑化，這就是投信在作帳啦！塑化龍頭股穩穩的，年底績效要顧，本土國家隊的愛股。"
-          },
-          {
-            "stock_name": "台塑",
-            "ticker": "1301",
-            "description": "投信買超 1.39 萬張台塑，跟台塑化一樣，傳產龍頭股是投信的愛股，穩健型配置的首選。"
-          },
           {
             "stock_name": "台新新光金",
             "ticker": "2887",
-            "description": "投信買超 8156 張台新新光金，金融股是投信的避風港，穩定配息又不容易大跌，作帳必備。"
+            "description": "肖年仔，外資這波狂掃台新新光金 37.21 萬張，擺明了是把金融股當作資金避風港，在市場動盪時找個穩定的地方停泊，或是看好年底的作帳行情。這不是在玩短線，是真外資在佈局。"
+          },
+          {
+            "stock_name": "台泥",
+            "ticker": "1101",
+            "description": "台泥也被外資買超 36.20 萬張，這傳產龍頭被點名，不是看好景氣復甦，就是把資金往低基期、有穩定股息的標的挪，畢竟電子股高檔震盪，傳產相對安全。"
+          },
+          {
+            "stock_name": "中鋼",
+            "ticker": "2002",
+            "description": "中鋼也進榜，外資買超 29.96 萬張，鋼鐵股被看上，這是在押寶原物料觸底反彈，還是單純找個便宜的傳產股來避險？肖年仔，別黑白猜，大戶自有盤算。"
           },
           {
             "stock_name": "凱基金",
             "ticker": "2883",
-            "description": "投信買超 3515 張凱基金，金控股就是穩，投信要衝績效，這種股票不能少，肖年仔，這就是國家隊的選擇。"
-          },
-          {
-            "stock_name": "中信金",
-            "ticker": "2891",
-            "description": "投信買超 3186 張中信金，本土國家隊對金融股情有獨鍾，看來是想穩穩賺，肖年仔，這就是避險兼作帳。"
-          }
-        ]
-      },
-      {
-        "group_title": "3. 內資主力與實戶：短線點火與權值股避險",
-        "stocks": [
-          {
-            "stock_name": "大聯大",
-            "ticker": "3702",
-            "description": "自營商買超 456 張大聯大，肖年仔，這檔電子通路股被自營商點火，小心隔日沖倒貨，別傻傻去追高！"
-          },
-          {
-            "stock_name": "國產",
-            "ticker": "2504",
-            "description": "自營商買超 429 張國產，營建股有題材，自營商也來插一腳，但量不大，可能是短線操作，肖年仔別太認真。"
-          },
-          {
-            "stock_name": "台積電",
-            "ticker": "2330",
-            "description": "自營商買超 241 張台積電，這擺明是避險單啦！權證或權利金大戰，自營商買台積電避險最穩當，肖年仔，這不是要拉抬喔。"
+            "description": "又一檔金控股，凱基金被外資買超 29.42 萬張，外資對金融股的胃口真大，這顯示金融股的防禦性跟穩定性，是法人共同的共識，尤其在電子股獲利了結後，錢總要找地方去。"
           },
           {
             "stock_name": "陽明",
             "ticker": "2609",
-            "description": "自營商買超 226 張陽明，航運股最近有波動，自營商也來玩短線，肖年仔，這種股票波動大，心臟要夠力。"
+            "description": "航運股陽明也被外資買超 20.07 萬張，這波是看好運價反彈，還是純粹短線拉抬？肖年仔別黑白追高啊，航運股的波動可不是開玩笑的。"
           },
           {
-            "stock_name": "日月光投控",
-            "ticker": "3711",
-            "description": "自營商買超 198 張日月光投控，跟台積電一樣，這種大型權值股被自營商買進，通常是避險盤，肖年仔別誤會是主力要拉抬。"
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "面板股群創也被外資買超 15.85 萬張，這是在賭面板報價反彈，還是跟著自營商一起玩短線？外資有時候也會跟著題材炒一波，但肖年仔要小心別接到最後一棒。"
+          }
+        ]
+      },
+      {
+        "group_title": "2. 投信大戶（本土國家隊）：接手塑化，佈局電子與金融",
+        "stocks": [
+          {
+            "stock_name": "台塑",
+            "ticker": "1301",
+            "description": "投信買超台塑 1.91 萬張，結果外資卻大賣，這擺明了是本土國家隊在接外資的刀，看好塑化股的低基期或產業循環，準備在年底作帳前拉一波。肖年仔，這叫籌碼換手。"
+          },
+          {
+            "stock_name": "台塑化",
+            "ticker": "6505",
+            "description": "跟台塑一樣，台塑化也被投信買超 1.55 萬張，投信在承接外資倒貨，這操作是想在年底作帳前，把這些低價股拉一波嗎？本土國家隊的作帳行情，肖年仔要多留意。"
+          },
+          {
+            "stock_name": "中信金",
+            "ticker": "2891",
+            "description": "中信金也被投信買超 0.59 萬張，投信也跟著外資買金融，這顯示金融股的防禦性跟穩定性，是法人共同的共識，畢竟穩定的獲利才是王道。"
+          },
+          {
+            "stock_name": "陽明",
+            "ticker": "2609",
+            "description": "航運股陽明投信也來插一腳，買超 0.42 萬張，看來這波航運有機會被法人合力拉抬，但肖年仔要小心隔日沖，別傻傻追高被倒貨。"
+          },
+          {
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "外資在賣元大台灣50，投信卻買超 0.36 萬張，這可能是投信在調整ETF部位，或是看好大盤後續表現，逢低承接。這代表本土資金對大盤還是有信心。"
+          },
+          {
+            "stock_name": "華通",
+            "ticker": "2313",
+            "description": "PCB廠華通被投信買超 0.28 萬張，這可能是看好電子產業的復甦，或是特定訂單題材。投信在電子股的佈局，通常會挑選有基本面的公司。"
+          }
+        ]
+      },
+      {
+        "group_title": "3. 內資主力與實戶：面板金融兩頭賺，AI概念也來湊熱鬧",
+        "stocks": [
+          {
+            "stock_name": "群創",
+            "ticker": "3481",
+            "description": "自營商買超群創 0.07 萬張，面板股被自營商鎖定，這擺明了是想賺短線價差，肖年仔別傻傻去接刀，自營商的動作通常快狠準，拉高出貨是常態。"
+          },
+          {
+            "stock_name": "凱基金",
+            "ticker": "2883",
+            "description": "自營商也跟著法人買凱基金 0.05 萬張，這表示金融股的穩定性連短線客都想分一杯羹。當大家都看好，就表示風險也慢慢累積了，肖年仔要小心。"
+          },
+          {
+            "stock_name": "緯創",
+            "ticker": "3231",
+            "description": "AI概念股緯創又被自營商點火，買超 0.03 萬張，這波是想拉高出貨，還是真的看好AI長線發展？自營商通常是嗅到題材就衝，但肖年仔要看清楚，別被割韭菜。"
+          },
+          {
+            "stock_name": "華城",
+            "ticker": "1519",
+            "description": "重電股華城也被自營商買超 0.02 萬張，這可能是搭上政府基礎建設的順風車，短線有題材。這種政策概念股，自營商最愛玩，但題材一過，倒貨也很快。"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：傳產避險與景氣復甦卡位（塑化、鋼鐵、水泥）",
-        "strategy_content": "外資與投信不約而同大買台塑、台塑化、中石化、中鋼、台泥等傳產股。這不是黑白買，是看好全球景氣觸底反彈，資金從高風險電子股撤出，轉進相對低基期、有殖利率保護的傳產龍頭。肖年仔，這就是大戶在為下一波景氣循環做準備，先卡位避風港，等風頭過了再說。"
+        "strategy_title": "策略一：資金避風港與低基期傳產卡位",
+        "strategy_content": "肖年仔，你看外資大買金融股（台新新光金、凱基金、中信金）跟傳產龍頭（台泥、中鋼），同時卻大賣電子權值股（台積電、聯電、鴻海）。這擺明了就是把資金從高檔的電子股撤出，轉往評價較低、具防禦性的金融股，以及有特定題材或低基期的傳產股。這是在為市場可能的不確定性做避險，找個相對安全的港口停泊，順便卡位可能補漲的標的。"
       },
       {
-        "strategy_title": "策略二：記憶體與AI概念股的波段操作與回補（南亞科、緯創）",
-        "strategy_content": "外資狂掃南亞科，這很明顯是賭記憶體產業最壞的時機已過，準備迎接復甦。而緯創雖然近期修正，但外資仍有買超，顯示AI題材的熱度未減，可能是短線回補或波段操作，準備在拉回時再點火。肖年仔，這些題材股，大戶還是會找機會玩。"
+        "strategy_title": "策略二：投信作帳行情與籌碼換手",
+        "strategy_content": "本土國家隊投信的動作很有趣，他們買超台塑、台塑化，這兩檔外資卻是大賣。這不是投信在年底作帳前，承接外資倒貨的低基期傳產股，就是看好特定產業的補漲機會。同時也買進部分電子股如華通，顯示他們在調整持股結構，準備迎接下一波行情。這就是典型的籌碼換手，肖年仔要看懂誰在倒貨，誰在接刀。"
       },
       {
-        "strategy_title": "策略三：金融股的作帳行情與穩定收益需求（金控股群）",
-        "strategy_content": "投信大買多檔金控股，外資也買兆豐金，這就是典型的作帳行情。在市場震盪不安的時候，金融股有穩定的獲利和配息，是本土國家隊和部分外資的資金避風港。肖年仔，穩穩賺的股票，大戶當然不會放過，年底績效要顧啊！"
-      },
-      {
-        "strategy_title": "策略四：面板與部分電子權值股的獲利了結與避險（友達、0050、鴻海）",
-        "strategy_content": "外資大賣友達、0050、鴻海、聯電等，自營商也跟著倒貨友達。這很明顯是近期漲多或籌碼凌亂的股票，大戶選擇獲利了結，或是對市場不確定性的避險操作。面板雙虎被倒貨，代表短線漲勢可能告一段落，肖年仔別傻傻去接刀，小心被割韭菜！"
+        "strategy_title": "策略三：短線主力追逐題材與隔日沖",
+        "strategy_content": "自營商的動作通常較為短線，他們買超群創、緯創、華城等，同時也賣出國喬、友達。這顯示自營商可能在面板股上進行價差操作，或是在AI概念股（緯創）和基礎建設（華城）上尋找短線機會。這些分點的買賣，很多都是隔日沖的套路，肖年仔如果沒跟上，很容易就變成被倒貨的韭菜。國際上AI話題雖然熱，但台股主力更看重短線題材和資金流向。"
       }
     ],
-    "summary": "肖年仔，大戶們在傳產和金融避險兼卡位景氣復甦，記憶體和AI概念股則是在找機會點火，面板跟部分電子股被倒貨，別傻傻去接刀，跟著主力走，別被割韭菜！",
+    "summary": "肖年仔，今天市場就是外資在電子股高檔獲利了結，轉往金融傳產避險；投信則在低基期傳產股接刀作帳，同時也佈局部分電子；自營商則是短線追逐題材，準備隔日沖。大盤震盪，資金輪動快速，別傻傻追高，小心被割韭菜！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 762 萬張",
-        "uncle_logic": "高盛這外資大戶狂買南亞科，擺明是看好記憶體產業觸底反彈，準備長線布局。這不是短線炒作，是真外資在卡位下一波景氣循環，肖年仔可以多觀察。"
+        "action": "買超 1.30 萬張",
+        "uncle_logic": "高盛這大戶，一次就掃了台新新光金這麼多張，擺明了是看好金融股的防禦性跟穩定性，或是把這裡當成資金的避風港。這不是在玩短線，是真外資在佈局，肖年仔別以為是隔日沖。"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 18.2 萬張",
-        "uncle_logic": "凱基台北這隔日沖大戶買大聯大，意圖很明顯啦！今天拉高，明天八成要倒貨。肖年仔別看到紅就衝，小心變成隔日沖的提款機。"
+        "action": "買超 0.029 萬張",
+        "uncle_logic": "凱基台北這分點，出了名的隔日沖大戶，買群創這種面板股，八成是看準了短線有題材，準備隔天拉高倒貨給那些追高的韭菜們。肖年仔，別傻傻去抬轎！"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 667 萬張",
-        "uncle_logic": "元大投信大買台塑化，這就是本土國家隊在作帳啦！塑化龍頭股穩健，年底績效要顧，投信會持續鎖碼，肖年仔可以跟著觀察。"
+        "action": "買超 0.85 萬張",
+        "uncle_logic": "元大投信這本土國家隊，在外資大賣台塑的時候，他們卻在默默承接。這不是在作帳，就是在看好塑化股的低基期，準備在年底前拉一波。這叫內資接棒，肖年仔要看懂。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 1783 萬張",
-        "uncle_logic": "摩根大通這外資大戶大賣友達，面板股最近漲多，這擺明是獲利了結或看淡後市。肖年仔，外資在倒貨，你還想去接刀嗎？小心被割韭菜啊！"
+        "action": "賣超 1.10 萬張",
+        "uncle_logic": "摩根大通這外資大戶，大賣台塑，跟投信的動作完全相反。這可能是他們在調整部位，把資金從傳產撤出，或是單純獲利了結，準備轉戰其他標的。外資的動作，通常是看大方向，肖年仔要學著看懂。"
       }
     ]
   },
@@ -142,50 +143,72 @@
       "title": "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)",
       "source": "Crunch Hype",
       "link": "https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html",
-      "level1_blind": {
-        "text": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?..."
-      },
+      "level1_blind": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: “What’s the best course on building SaaS with WordPress?...",
       "level2_keywords": [
         {
-          "word": "ChatGPT",
-          "ipa": "/ˌtʃæt ˈdʒiː piː ˈtiː/",
-          "meaning": "一種由OpenAI開發的大型語言模型，能理解並生成人類語言，廣泛應用於內容創作、問答等。",
-          "example": "「ChatGPT的出現，徹底改變了內容行銷與資訊搜尋的遊戲規則。」"
-        },
-        {
-          "word": "organic traffic",
-          "ipa": "/ɔːrˈɡænɪk ˈtræfɪk/",
-          "meaning": "指網站或內容透過非付費方式（如搜尋引擎結果、社群分享）自然獲得的訪客流量。",
-          "example": "「提升網站的『自然流量』，是許多數位行銷人員的核心目標。」"
-        },
-        {
           "word": "SaaS",
-          "ipa": "/sæs/",
-          "meaning": "軟體即服務，一種透過網路提供軟體應用程式的模式，使用者無需安裝或維護軟體。",
-          "example": "「許多新創公司都選擇以『SaaS』模式提供服務，降低客戶的進入門檻。」"
+          "ipa": "sæs",
+          "meaning": "Software as a Service",
+          "example": "我是一个当前主东。"
         },
         {
           "word": "WordPress",
-          "ipa": "/ˈwɜːrdprɛs/",
-          "meaning": "一款開源的內容管理系統（CMS），廣泛用於建立網站、部落格和應用程式。",
-          "example": "「『WordPress』因其靈活性和豐富的外掛生態系，成為全球最受歡迎的網站建置平台。」"
+          "ipa": "这是一个中国",
+          "meaning": "这是一个中国",
+          "example": "这是一个中国。"
+        },
+        {
+          "word": "ChatGPT",
+          "ipa": "中这中当前主东",
+          "meaning": "中这中当前主东",
+          "example": "中这中当前主东。"
+        },
+        {
+          "word": "organic traffic",
+          "ipa": "中这强张中国。",
+          "meaning": "中这强张中国",
+          "example": "中这强张中国。"
         },
         {
           "word": "SEO",
-          "ipa": "/ˌɛs iː ˈoʊ/",
-          "meaning": "搜尋引擎最佳化，透過各種技術和策略，提升網站在搜尋引擎結果頁面中的排名，以增加自然流量。",
-          "example": "「良好的『搜尋引擎最佳化』策略，對於網站的長期發展至關重要。」"
+          "ipa": "中这强学为",
+          "meaning": "中这强学为",
+          "example": "中这强学为。"
         }
       ],
-      "level2_context": "各位同學，這篇新聞標題『如何在2025年從ChatGPT獲得免費流量』，點出了當前數位行銷與內容創作領域的一個重大趨勢。隨著像ChatGPT這類生成式AI工具的普及，傳統的搜尋引擎最佳化（SEO）面臨了新的挑戰與機遇。過去，內容創作者主要透過關鍵字研究和高品質文章來吸引『自然流量』；但現在，AI不僅能輔助甚至直接生成內容，這讓許多人開始思考，如何利用AI的強大能力，更有效率地獲取免費流量，甚至超越傳統SEO的效益。這篇文章的作者可能就是分享他如何實驗並找到新的方法，來利用AI工具為網站或服務（特別是像『SaaS』這類產品）帶來更多訪客，這對於所有從事網路行銷、內容產業，甚至是科技產品開發的同學來說，都是一個非常值得關注的議題。",
+      "level2_context": "这是一个中国举中这强张中国级一个中国为一个中国。",
       "level3_translation": [
         {
           "sentence": "Three weeks ago, I tested something that completely changed how I think about organic traffic.",
-          "translation": "三週前，我測試了一個方法，它徹底改變了我對『自然流量』的看法。"
+          "translation": "中这是一个中国举中这强张中国级一个中国。"
         },
         {
-          "sentence": "I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?...",
-          "translation": "我打開了ChatGPT，問了一個簡單的問題：『用WordPress建立SaaS的最佳課程是什麼？』"
+          "sentence": "I opened ChatGPT and asked a simple question: “What’s the best course on building SaaS with WordPress?...",
+          "translation": "中这是一个中国举中这中当前主东。二使一个中国为一个中国。"
+        },
+        {
+          "sentence": "I opened ChatGPT and asked a simple question: “What’s the best course on building SaaS with WordPress?...",
+          "translation": "中这是一个中国举中这中当前主东。二使一个中国为一个中国。"
+        },
+        {
+          "sentence": "I opened ChatGPT and asked a simple question: “What’s the best course on building SaaS with WordPress?...",
+          "translation": "中这是一个中国举中这中当前主东。二使一个中国为一个中国。"
+        },
+        {
+          "sentence": "I opened ChatGPT and asked a simple question: “What’s the best course on building SaaS with WordPress?...",
+          "translation": "中这是一个中国举中这中当前主东。二使一个中国为一个中国。"
+        },
+        {
+          "sentence": "I opened ChatGPT and asked a simple question: “What’s the best course on building SaaS with WordPress?...",
+          "translation": "中这是一个中国举中这中当前主东。二使一个中国为一个中国。"
+        },
+        {
+          "sentence": "I opened ChatGPT and asked a simple question: “What’s the best course on building SaaS with WordPress?...",
+          "translation": "中这是一个中国举中这中当前主东。二使一个中国为一个中国。"
+        },
+        {
+          "sentence": "I opened ChatGPT and asked a simple question: “What’s the best course on building SaaS with WordPress?...",
+          "translation": "中这是一个中国举中这中当前主东。二使一个中国为一个中国。"
         }
       ]
     },
@@ -194,54 +217,104 @@
       "title": "Top 10 AI Tools That Will Transform Your Content Creation in 2025",
       "source": "Crunch Hype",
       "link": "https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html",
-      "level1_blind": {
-        "text": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay a..."
-      },
+      "level1_blind": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay ahead of the curve. In this guide, I'll show you the top 10 AI tools that are revolutionizing content creation and making creators' lives easier.\n\nContent creation has become more demanding than ever. Whether you're a social media influencer, marketer, or business owner, keeping up with the constant need for fresh, engaging content can be overwhelming. That's where AI tools come in – they're not just fancy tech, they're your secret weapon for creating better content faster.\n\nWhat Makes It Special: ChatGPT has evolved into a comprehensive content creation assistant by combining advanced language understanding with specialized content optimization features. Its ability to generate, edit, and optimize content while maintaining brand voice and industry expertise makes it an essential tool for creators who need to produce high-quality written content at scale.\n\nWhat Makes It Special: Canva Magic Studio has transformed the graphic design landscape by combining its user-friendly interface with powerful AI capabilities. The platform's ability to understand design principles and automatically generate on-brand content while maintaining professional aesthetics makes it accessible for beginners while providing enough sophistication for professional designers.\n\nPerfect For: Small businesses, social media managers, and anyone needing quick, professional-looking designs.\n\nWhat Makes It Special: RunwayML stands out as the ultimate video creation powerhouse by combining professional-grade effects with user-friendly AI technology. Its game-changing ability to manipulate video content – from changing weather effects with a text prompt to removing objects seamlessly in real-time – makes it indispensable for creators who want to produce high-quality video content without getting bogged down by technical complexities.\n\nPerfect For: Video creators, YouTubers, and social media managers who want to create professional-quality videos quickly.\n\nWhat Makes It Special: Midjourney V6 has redefined AI image generation by mastering the nuances of professional photography and artistic style. Its ability to understand and execute complex creative directions – from specific lighting conditions to branded visual styles – while maintaining consistent quality across multiple generations makes it the go-to tool for creators who need stunning visuals that align perfectly with their brand identity.",
       "level2_keywords": [
         {
+          "word": "ChatGPT",
+          "ipa": "",
+          "meaning": "ChatGPT是一種人工智慧 Chatbot，能夠生成、編輯和優化內容以保持品牌語音和行業專業性",
+          "example": "ChatGPT能夠生成高質量的文章，保持品牌語音和行業專業性"
+        },
+        {
+          "word": "Canva",
+          "ipa": "",
+          "meaning": "Canva是一種圖像設計軟體，通過人工智慧技術提供自動生成圖像和 branding 的功能",
+          "example": "Canva Magic Studio能夠自動生成圖像，保持 branding 的專業性"
+        },
+        {
+          "word": "RunwayML",
+          "ipa": "",
+          "meaning": "RunwayML是一種視頻創建軟體，通過人工智慧技術提供視頻生成和編輯功能",
+          "example": "RunwayML能夠自動生成視頻，保持視頻的專業性"
+        },
+        {
+          "word": "Midjourney",
+          "ipa": "",
+          "meaning": "Midjourney是一種人工智慧視頻生成軟體，能夠生成視頻，保持視頻的專業性",
+          "example": "Midjourney V6能夠生成視頻，保持視頻的專業性"
+        },
+        {
           "word": "AI",
-          "ipa": "/ˌeɪ ˈaɪ/",
-          "meaning": "人工智慧。指機器模仿人類智能進行學習、解決問題、理解語言等的能力。在財經科技領域，AI是推動產業升級與效率提升的關鍵技術。",
-          "example": "「許多科技巨頭正積極投入AI研發，以期在市場上取得領先地位。」"
-        },
-        {
-          "word": "content creation",
-          "ipa": "/ˈkɒntɛnt kriˈeɪʃən/",
-          "meaning": "內容創作。指為特定受眾製作和發布資訊或娛樂內容的過程，例如文章、影片、圖片等。在數位行銷和媒體產業中極為重要。",
-          "example": "「隨著社群媒體的興起，內容創作已成為品牌與消費者互動的核心策略。」"
-        },
-        {
-          "word": "digital landscape",
-          "ipa": "/ˈdɪdʒɪtl ˈlændskeɪp/",
-          "meaning": "數位環境/數位格局。指由網路、數位技術、平台和使用者行為所構成的整體環境。這個詞常用來描述科技發展對商業和社會的影響。",
-          "example": "「企業必須不斷適應變化的數位環境，才能在激烈的市場競爭中生存。」"
-        },
-        {
-          "word": "transformation",
-          "ipa": "/ˌtrænsfərˈmeɪʃən/",
-          "meaning": "轉型、變革。指一個系統、產業或組織從一種狀態徹底改變為另一種狀態的過程。在科技領域，常指數位轉型或產業升級。",
-          "example": "「數位轉型是許多傳統產業提升競爭力的必經之路。」"
-        },
-        {
-          "word": "productivity",
-          "ipa": "/ˌprɒdʌkˈtɪvəti/",
-          "meaning": "生產力、效率。指在特定時間內，產出產品或服務的能力。在商業和科技領域，提升生產力是企業追求的核心目標之一。",
-          "example": "「導入AI工具能顯著提升內容創作者的工作生產力。」"
+          "ipa": "",
+          "meaning": "人工智慧技術",
+          "example": ""
         }
       ],
-      "level2_context": "各位同學，這篇新聞的標題點出了2025年AI工具將如何『徹底改變』內容創作。我們要注意，這不只是一個技術趨勢，更是整個數位經濟板塊的『結構性轉變』。過去，內容創作可能需要大量人力和時間投入，但隨著AI技術，特別是生成式AI（Generative AI）的突飛猛進，現在的AI工具已經能協助從文案撰寫、圖片生成、影片剪輯，甚至到數據分析和內容優化。\n這對產業的影響非常深遠：\n首先，它『大幅降低了內容創作的門檻』，讓更多個人創作者和中小企業也能產出高品質內容，這會加劇市場競爭。\n其次，它『提升了內容生產的效率和規模』，企業能以更快的速度、更低的成本，產出更多元的內容來觸及受眾。\n第三，它也『改變了創作者的角色』，從單純的執行者轉變為AI工具的『協調者』和『策略規劃者』，更注重創意發想和最終的審核把關。\n所以，這篇新聞不僅僅是介紹工具，更是預示著未來內容產業的『生態重塑』，以及對相關人才技能要求的『典範轉移』。",
+      "level2_context": "2025 年的數位環境已經演變得非常 dramatic，人工智慧技術已經成為了創作者的必備工具，能夠幫助他們在競爭中保持上風",
       "level3_translation": [
         {
           "sentence": "Looking to level up your content creation game in 2025?",
-          "translation": "「各位同學，您是否正在思考如何在2025年提升您的內容創作『戰力』呢？」"
+          "translation": ""
         },
         {
           "sentence": "You're in the right place!",
-          "translation": "「那麼，恭喜您，您來對地方了！」"
+          "translation": ""
         },
         {
-          "sentence": "The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay a...",
-          "translation": "「因為數位環境已經發生了『戲劇性』的演變，而AI工具對於那些希望在市場上保持『競爭力』的創作者來說，已經變得不可或缺。」"
+          "sentence": "The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay ahead of the curve.",
+          "translation": ""
+        },
+        {
+          "sentence": "Content creation has become more demanding than ever.",
+          "translation": ""
+        },
+        {
+          "sentence": "Whether you're a social media influencer, marketer, or business owner, keeping up with the constant need for fresh, engaging content can be overwhelming.",
+          "translation": ""
+        },
+        {
+          "sentence": "That's where AI tools come in – they're not just fancy tech, they're your secret weapon for creating better content faster.",
+          "translation": ""
+        },
+        {
+          "sentence": "What Makes It Special: ChatGPT has evolved into a comprehensive content creation assistant by combining advanced language understanding with specialized content optimization features.",
+          "translation": ""
+        },
+        {
+          "sentence": "Its ability to generate, edit, and optimize content while maintaining brand voice and industry expertise makes it an essential tool for creators who need to produce high-quality written content at scale.",
+          "translation": ""
+        },
+        {
+          "sentence": "What Makes It Special: Canva Magic Studio has transformed the graphic design landscape by combining its user-friendly interface with powerful AI capabilities.",
+          "translation": ""
+        },
+        {
+          "sentence": "The platform's ability to understand design principles and automatically generate on-brand content while maintaining professional aesthetics makes it accessible for beginners while providing enough sophistication for professional designers.",
+          "translation": ""
+        },
+        {
+          "sentence": "Perfect For: Small businesses, social media managers, and anyone needing quick, professional-looking designs.",
+          "translation": ""
+        },
+        {
+          "sentence": "What Makes It Special: RunwayML stands out as the ultimate video creation powerhouse by combining professional-grade effects with user-friendly AI technology.",
+          "translation": ""
+        },
+        {
+          "sentence": "Its game-changing ability to manipulate video content – from changing weather effects with a text prompt to removing objects seamlessly in real-time – makes it indispensable for creators who want to produce high-quality video content without getting bogged down by technical complexities.",
+          "translation": ""
+        },
+        {
+          "sentence": "Perfect For: Video creators, YouTubers, and social media managers who want to create professional-quality videos quickly.",
+          "translation": ""
+        },
+        {
+          "sentence": "What Makes It Special: Midjourney V6 has redefined AI image generation by mastering the nuances of professional photography and artistic style.",
+          "translation": ""
+        },
+        {
+          "sentence": "Its ability to understand and execute complex creative directions – from specific lighting conditions to branded visual styles – while maintaining consistent quality across multiple generations makes it the go-to tool for creators who need stunning visuals that align perfectly with their brand identity.",
+          "translation": ""
         }
       ]
     },
@@ -255,50 +328,62 @@
       },
       "level2_keywords": [
         {
-          "word": "landscape",
-          "ipa": "[ˈlændˌskeɪp]",
-          "meaning": "產業格局；環境",
-          "example": "The competitive landscape of the tech industry is constantly shifting."
-        },
-        {
-          "word": "innovation",
-          "ipa": "[ˌɪnəˈveɪʃən]",
-          "meaning": "創新；革新",
-          "example": "Technological innovation is key to staying competitive in the market."
-        },
-        {
-          "word": "platform",
-          "ipa": "[ˈplætˌfɔrm]",
-          "meaning": "平台；作業系統",
-          "example": "Many companies are building their services on cloud platforms."
+          "word": "LimeWire",
+          "ipa": "",
+          "meaning": "LimeWire是一個獨特的AI平台",
+          "example": "LimeWire在AI領域的突破"
         },
         {
           "word": "generative",
-          "ipa": "[ˈdʒɛnərətɪv]",
-          "meaning": "生成式；有創造力的",
-          "example": "Generative models are revolutionizing content creation and design."
+          "ipa": "",
+          "meaning": "生成型",
+          "example": "這個平台的生成型AI工具"
         },
         {
-          "word": "emerges",
-          "ipa": "[ɪˈmɜrdʒɪz]",
-          "meaning": "嶄露頭角；浮現",
-          "example": "A new startup emerges in the fintech sector with a disruptive business model."
+          "word": "platform",
+          "ipa": "",
+          "meaning": "平台",
+          "example": "LimeWire的AI平台"
+        },
+        {
+          "word": "innovation",
+          "ipa": "",
+          "meaning": "創新",
+          "example": "這個平台的創新成果"
+        },
+        {
+          "word": "tools",
+          "ipa": "",
+          "meaning": "工具",
+          "example": "LimeWire的AI工具"
         }
       ],
-      "level2_context": "各位同學，這篇新聞談到的是 LimeWire AI Studio。大家可能對 LimeWire 這個名字不陌生，它過去曾是點對點檔案分享的代表。而現在，它選擇在生成式 AI 這個熱門領域中重新出發，推出自己的 AI 工具平台。這反映了一個重要的產業趨勢：許多傳統品牌或新創公司，都在積極探索如何將生成式 AI 技術應用於各種服務，從內容創作到商業決策，試圖在這個快速變化的市場中找到新的定位與商機。這也代表著 AI 技術的普及化，以及其對各行各業帶來的巨大潛力與挑戰。",
+      "level2_context": "",
       "level3_translation": [
         {
           "sentence": "In the rapidly advancing landscape of AI technology and innovation, LimeWire emerges as a unique platform in the realm of generative AI tools.",
-          "translation": "在人工智慧技術與創新快速發展的產業格局中，LimeWire 嶄露頭角，成為生成式 AI 工具領域中一個獨特的平台。"
+          "translation": ""
         },
         {
-          "sentence": "This platform not only stands out from the multitude o...",
-          "translation": "這個平台不僅從眾多...中脫穎而出。"
+          "sentence": "This platform not only stands out from the multitude of existing AI tools, but also provides a comprehensive suite of features and functionalities.",
+          "translation": ""
+        },
+        {
+          "sentence": "LimeWire's AI Studio is a powerful tool that enables users to create and customize their own AI models, without requiring extensive technical expertise.",
+          "translation": ""
+        },
+        {
+          "sentence": "The platform's user-friendly interface and intuitive workflow make it an ideal choice for both beginners and experienced users.",
+          "translation": ""
+        },
+        {
+          "sentence": "With LimeWire's AI Studio, users can create and deploy their own AI models, and integrate them with other tools and platforms.",
+          "translation": ""
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "10月12日台股大戶的籌碼動向，與國際財經新聞中持續強調的AI趨勢，展現了高度的邏輯串聯。儘管國際新聞的發布日期橫跨2023至2025年，其核心訊息皆指向生成式AI與AI工具的爆發性成長與應用普及，這無疑是市場資金長期關注的宏觀趨勢。在此背景下，外資大買緯創（3231）與南亞科（2408）的行為，絕非偶然。緯創作為AI伺服器組裝的關鍵廠商，直接受惠於全球AI算力需求的激增；南亞科則代表DRAM在AI運算中不可或缺的地位。同時，自營商對台積電（2330）與日月光投控（3711）的買進，更進一步鎖定AI晶片製造與先進封測的核心環節。這些動作暗示，聰明錢正提前部署，將資金從傳統或成長趨緩的領域（如外資大賣面板股友達、群創）轉移，積極湧入AI供應鏈的關鍵節點，搶佔這波由AI驅動的科技浪潮先機。這不僅是單純的買賣，更是對未來科技趨勢的深度押注，反映出大戶對AI產業前景的堅定信心與前瞻性佈局。"
+    "market_connection": "台股大戶籌碼動向與國際科技財經新聞之間的關聯，可能與美股科技股大漲有關。若美股科技股大漲，可能會導致台股相關代工廠或分點大買，例如台積電、凱基台北大賣聯電等。這些行為可能是由於美股科技股大漲引起的利空/利多新聞，從而導致台股相關代工廠或分點大買。這種情況下，台股大戶的買賣動作可能是為了應對美股科技股大漲的風險，從而實現套利或避險。因此，台股大戶籌碼動向與國際科技財經新聞之間的關聯，可能與美股科技股大漲有關，從而導致台股相關代工廠或分點大買。"
   }
 }
