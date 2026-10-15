@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-14",
-  "stock_market_date": "2026-10-13",
+  "date": "2026-10-15",
+  "stock_market_date": "2026-10-14",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 22310927
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 77005602
         },
         {
           "rank": 2,
-          "stock_name": "陽明",
-          "ticker": "2609",
-          "net_buy_shares": 21905693
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_buy_shares": 53390342
         },
         {
           "rank": 3,
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_buy_shares": 46522820
+        },
+        {
+          "rank": 4,
+          "stock_name": "華新",
+          "ticker": "1605",
+          "net_buy_shares": 28387000
+        },
+        {
+          "rank": 5,
+          "stock_name": "台化",
+          "ticker": "1326",
+          "net_buy_shares": 27479405
+        },
+        {
+          "rank": 6,
+          "stock_name": "中石化",
+          "ticker": "1314",
+          "net_buy_shares": 22491588
+        },
+        {
+          "rank": 7,
           "stock_name": "元大金",
           "ticker": "2885",
-          "net_buy_shares": 20170852
-        },
-        {
-          "rank": 4,
-          "stock_name": "合庫金",
-          "ticker": "5880",
-          "net_buy_shares": 19885524
-        },
-        {
-          "rank": 5,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 18973942
-        },
-        {
-          "rank": 6,
-          "stock_name": "國喬",
-          "ticker": "1312",
-          "net_buy_shares": 18914900
-        },
-        {
-          "rank": 7,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 16699573
+          "net_buy_shares": 21535930
         },
         {
           "rank": 8,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 16612740
-        },
-        {
-          "rank": 9,
-          "stock_name": "長榮",
-          "ticker": "2603",
-          "net_buy_shares": 15862704
-        },
-        {
-          "rank": 10,
-          "stock_name": "和碩",
-          "ticker": "4938",
-          "net_buy_shares": 15486357
-        }
-      ],
-      "foreign_sell": [
-        {
-          "rank": 1,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -106149715
-        },
-        {
-          "rank": 2,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -97828872
-        },
-        {
-          "rank": 3,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -43175118
-        },
-        {
-          "rank": 4,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -41445919
-        },
-        {
-          "rank": 5,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -37021489
-        },
-        {
-          "rank": 6,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -25641224
-        },
-        {
-          "rank": 7,
-          "stock_name": "旺宏",
-          "ticker": "2337",
-          "net_sell_shares": -19679624
-        },
-        {
-          "rank": 8,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_sell_shares": -19577989
+          "stock_name": "陽明",
+          "ticker": "2609",
+          "net_buy_shares": 16326442
         },
         {
           "rank": 9,
           "stock_name": "仁寶",
           "ticker": "2324",
-          "net_sell_shares": -18899927
+          "net_buy_shares": 16300180
         },
         {
           "rank": 10,
-          "stock_name": "台塑",
-          "ticker": "1301",
-          "net_sell_shares": -15180686
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 15854598
+        }
+      ],
+      "foreign_sell": [
+        {
+          "rank": 1,
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_sell_shares": -22967700
+        },
+        {
+          "rank": 2,
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_sell_shares": -22655711
+        },
+        {
+          "rank": 3,
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_sell_shares": -19974507
+        },
+        {
+          "rank": 4,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -16001819
+        },
+        {
+          "rank": 5,
+          "stock_name": "臺企銀",
+          "ticker": "2834",
+          "net_sell_shares": -9624319
+        },
+        {
+          "rank": 6,
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_sell_shares": -8324486
+        },
+        {
+          "rank": 7,
+          "stock_name": "台亞",
+          "ticker": "2340",
+          "net_sell_shares": -7655590
+        },
+        {
+          "rank": 8,
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_sell_shares": -7598016
+        },
+        {
+          "rank": 9,
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -6925030
+        },
+        {
+          "rank": 10,
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -6752241
         }
       ],
       "trust_buy": [
@@ -132,61 +132,61 @@
           "rank": 1,
           "stock_name": "台塑化",
           "ticker": "6505",
-          "net_buy_shares": 15100000
+          "net_buy_shares": 14106792
         },
         {
           "rank": 2,
-          "stock_name": "台塑",
-          "ticker": "1301",
-          "net_buy_shares": 13026000
+          "stock_name": "遠東新",
+          "ticker": "1402",
+          "net_buy_shares": 12043000
         },
         {
           "rank": 3,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 11722000
+          "stock_name": "華新",
+          "ticker": "1605",
+          "net_buy_shares": 6556000
         },
         {
           "rank": 4,
-          "stock_name": "長榮",
-          "ticker": "2603",
-          "net_buy_shares": 4929200
+          "stock_name": "台泥",
+          "ticker": "1101",
+          "net_buy_shares": 5637000
         },
         {
           "rank": 5,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 4725000
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_buy_shares": 4544206
         },
         {
           "rank": 6,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 3298000
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_buy_shares": 4315000
         },
         {
           "rank": 7,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_buy_shares": 3005324
+          "stock_name": "金像電",
+          "ticker": "2368",
+          "net_buy_shares": 3725437
         },
         {
           "rank": 8,
-          "stock_name": "統一",
-          "ticker": "1216",
-          "net_buy_shares": 2562000
+          "stock_name": "元大高股息",
+          "ticker": "0056",
+          "net_buy_shares": 3030000
         },
         {
           "rank": 9,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_buy_shares": 2338413
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_buy_shares": 1354000
         },
         {
           "rank": 10,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_buy_shares": 2232000
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 1350000
         }
       ],
       "trust_sell": [
@@ -194,185 +194,185 @@
           "rank": 1,
           "stock_name": "兆豐金",
           "ticker": "2886",
-          "net_sell_shares": -5922000
+          "net_sell_shares": -6721144
         },
         {
           "rank": 2,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -3289080
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -5895116
         },
         {
           "rank": 3,
-          "stock_name": "強茂",
-          "ticker": "2481",
-          "net_sell_shares": -2622000
+          "stock_name": "和碩",
+          "ticker": "4938",
+          "net_sell_shares": -2725629
         },
         {
           "rank": 4,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -2008000
+          "stock_name": "緯穎",
+          "ticker": "6669",
+          "net_sell_shares": -1590792
         },
         {
           "rank": 5,
-          "stock_name": "聯鈞",
-          "ticker": "3450",
-          "net_sell_shares": -1553000
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -1307900
         },
         {
           "rank": 6,
-          "stock_name": "台達電",
-          "ticker": "2308",
-          "net_sell_shares": -1457500
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_sell_shares": -1191252
         },
         {
           "rank": 7,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -1418000
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -1168561
         },
         {
           "rank": 8,
-          "stock_name": "欣興",
-          "ticker": "3037",
-          "net_sell_shares": -727200
+          "stock_name": "文曄",
+          "ticker": "3036",
+          "net_sell_shares": -879000
         },
         {
           "rank": 9,
-          "stock_name": "統一證",
-          "ticker": "2855",
-          "net_sell_shares": -711200
+          "stock_name": "台灣高鐵",
+          "ticker": "2633",
+          "net_sell_shares": -848000
         },
         {
           "rank": 10,
-          "stock_name": "興富發",
-          "ticker": "2542",
-          "net_sell_shares": -685400
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_sell_shares": -833234
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "中纖",
-          "ticker": "1718",
-          "net_buy_shares": 309893
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 1135000
         },
         {
           "rank": 2,
-          "stock_name": "東聯",
-          "ticker": "1710",
-          "net_buy_shares": 309000
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_buy_shares": 1031727
         },
         {
           "rank": 3,
-          "stock_name": "中環",
-          "ticker": "2323",
-          "net_buy_shares": 309000
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 966006
         },
         {
           "rank": 4,
-          "stock_name": "東陽",
-          "ticker": "1319",
-          "net_buy_shares": 188010
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 904000
         },
         {
           "rank": 5,
-          "stock_name": "富爾特",
-          "ticker": "6136",
-          "net_buy_shares": 186000
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 748000
         },
         {
           "rank": 6,
-          "stock_name": "大聯大",
-          "ticker": "3702",
-          "net_buy_shares": 137000
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_buy_shares": 604862
         },
         {
           "rank": 7,
-          "stock_name": "欣陸",
-          "ticker": "3703",
-          "net_buy_shares": 125000
+          "stock_name": "華新",
+          "ticker": "1605",
+          "net_buy_shares": 593680
         },
         {
           "rank": 8,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_buy_shares": 122350
+          "stock_name": "中揚光",
+          "ticker": "6668",
+          "net_buy_shares": 482113
         },
         {
           "rank": 9,
-          "stock_name": "聯傑",
-          "ticker": "3094",
-          "net_buy_shares": 110000
+          "stock_name": "中環",
+          "ticker": "2323",
+          "net_buy_shares": 467554
         },
         {
           "rank": 10,
-          "stock_name": "榮運",
-          "ticker": "2607",
-          "net_buy_shares": 104000
+          "stock_name": "富采",
+          "ticker": "3714",
+          "net_buy_shares": 442137
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -5871000
+          "stock_name": "國喬",
+          "ticker": "1312",
+          "net_sell_shares": -9143297
         },
         {
           "rank": 2,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_sell_shares": -5386463
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_sell_shares": -1300918
         },
         {
           "rank": 3,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -5113002
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -890285
         },
         {
           "rank": 4,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -4353810
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_sell_shares": -889477
         },
         {
           "rank": 5,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -2589998
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_sell_shares": -545249
         },
         {
           "rank": 6,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -1999077
+          "stock_name": "台灣大",
+          "ticker": "3045",
+          "net_sell_shares": -351527
         },
         {
           "rank": 7,
-          "stock_name": "國巨*",
-          "ticker": "2327",
-          "net_sell_shares": -1698358
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_sell_shares": -350000
         },
         {
           "rank": 8,
           "stock_name": "聯電",
           "ticker": "2303",
-          "net_sell_shares": -1477284
+          "net_sell_shares": -283761
         },
         {
           "rank": 9,
-          "stock_name": "台塑",
-          "ticker": "1301",
-          "net_sell_shares": -892915
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -283190
         },
         {
           "rank": 10,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_sell_shares": -860000
+          "stock_name": "力成",
+          "ticker": "6239",
+          "net_sell_shares": -259299
         }
       ]
     },
@@ -380,26 +380,26 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "台新新光金",
-        "shares": 7808824
+        "target": "中鋼",
+        "shares": 26951960
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "中纖",
-        "shares": 123957
+        "target": "力積電",
+        "shares": 454000
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
         "target": "台塑化",
-        "shares": 6795000
+        "shares": 6348056
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "元大台灣50",
-        "shares": 31844914
+        "target": "南亞科",
+        "shares": 6890310
       }
     ]
   },
@@ -419,7 +419,7 @@
       "source": "Crunch Hype",
       "link": "https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html",
       "summary": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay a...",
-      "full_text": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay a...",
+      "full_text": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay ahead of the curve. In this guide, I'll show you the top 10 AI tools that are revolutionizing content creation and making creators' lives easier.\n\nContent creation has become more demanding than ever. Whether you're a social media influencer, marketer, or business owner, keeping up with the constant need for fresh, engaging content can be overwhelming. That's where AI tools come in – they're not just fancy tech, they're your secret weapon for creating better content faster.\n\nWhat Makes It Special: ChatGPT has evolved into a comprehensive content creation assistant by combining advanced language understanding with specialized content optimization features. Its ability to generate, edit, and optimize content while maintaining brand voice and industry expertise makes it an essential tool for creators who need to produce high-quality written content at scale.\n\nWhat Makes It Special: Canva Magic Studio has transformed the graphic design landscape by combining its user-friendly interface with powerful AI capabilities. The platform's ability to understand design principles and automatically generate on-brand content while maintaining professional aesthetics makes it accessible for beginners while providing enough sophistication for professional designers.\n\nPerfect For: Small businesses, social media managers, and anyone needing quick, professional-looking designs.\n\nWhat Makes It Special: RunwayML stands out as the ultimate video creation powerhouse by combining professional-grade effects with user-friendly AI technology. Its game-changing ability to manipulate video content – from changing weather effects with a text prompt to removing objects seamlessly in real-time – makes it indispensable for creators who want to produce high-quality video content without getting bogged down by technical complexities.\n\nPerfect For: Video creators, YouTubers, and social media managers who want to create professional-quality videos quickly.\n\nWhat Makes It Special: Midjourney V6 has redefined AI image generation by mastering the nuances of professional photography and artistic style. Its ability to understand and execute complex creative directions – from specific lighting conditions to branded visual styles – while maintaining consistent quality across multiple generations makes it the go-to tool for creators who need stunning visuals that align perfectly with their brand identity.",
       "published": "Thu, 02 Jan 2025 09:26:00 +0000"
     },
     {
@@ -428,7 +428,7 @@
       "source": "Crunch Hype",
       "link": "https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html",
       "summary": "In the rapidly advancing landscape of AI technology and innovation, LimeWire emerges as a unique platform in the realm of generative AI tools. This platform not only stands out from the multitude o...",
-      "full_text": "In the rapidly advancing landscape of AI technology and innovation, LimeWire emerges as a unique platform in the realm of generative AI tools. This platform not only stands out from the multitude o...",
+      "full_text": "In the rapidly advancing landscape of AI technology and innovation, LimeWire emerges as a unique platform in the realm of generative AI tools. This platform not only stands out from the multitude of existing AI tools but also brings a fresh approach to content generation. LimeWire not only empowers users to create AI content but also provides creators with creative ways to share and monetize their creations.\n\nAs we explore LimeWire, our aim is to uncover its features, benefits for creators, and the exciting possibilities it offers for AI content generation. This platform presents an opportunity for users to harness the power of AI in image creation, all while enjoying the advantages of a free and accessible service.\n\nLet's unravel the distinctive features that set LimeWire apart in the dynamic landscape of AI-powered tools, understanding how creators can leverage its capabilities to craft unique and engaging AI-generated images.\n\nThis revamped LimeWire invites users to register and unleash their creativity by crafting original AI content, which can then be shared and showcased on the LimeWire Studio. Notably, even acclaimed artists and musicians, such as Deadmau5, Soulja Boy, and Sean Kingston, have embraced this platform to publish their content in the form of NFT music, videos, and images.\n\nBeyond providing a space for content creation and sharing, LimeWire introduces monetization models to empower users to earn revenue from their creations. This includes avenues such as earning ad revenue and participating in the burgeoning market of Non-Fungible Tokens (NFTs). As we delve further, we'll explore these monetization strategies in more detail to provide a comprehensive understanding of LimeWire's innovative approach to content creation and distribution.\n\nAs of the present moment, LimeWire focuses on AI Image Generation, offering a spectrum of creative possibilities to its user base. The platform, however, has ambitious plans on the horizon, aiming to broaden its offerings by introducing AI music and video generation tools in the near future. This strategic expansion promises creators even more avenues for expression and engagement with their audience, positioning LimeWire Studio as a dynamic and evolving platform within the realm of AI-powered content creation.\n\nThe LimeWire AI image generation tool presents a versatile platform for both the creation and editing of images. Supporting advanced models such as Stable Diffusion 2.1, Stable Diffusion XL, and DALL-E 2, LimeWire offers a sophisticated toolkit for users to delve into the realm of generative AI art.\n\nMuch like other tools in the generative AI landscape, LimeWire provides a range of options catering to various levels of complexity in image creation. Users can initiate the creative process with prompts as simple as a few words or opt for more intricate instructions, tailoring the output to their artistic vision.",
       "published": "Tue, 12 Dec 2023 16:10:00 +0000"
     }
   ]
