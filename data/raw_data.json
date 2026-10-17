@@ -1,68 +1,68 @@
 {
-  "date": "2026-10-16",
-  "stock_market_date": "2026-10-15",
+  "date": "2026-10-17",
+  "stock_market_date": "2026-10-16",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "統一",
-          "ticker": "1216",
-          "net_buy_shares": 26401872
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 43728946
         },
         {
           "rank": 2,
-          "stock_name": "合庫金",
-          "ticker": "5880",
-          "net_buy_shares": 24774886
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 23367352
         },
         {
           "rank": 3,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 21614224
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_buy_shares": 22670749
         },
         {
           "rank": 4,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_buy_shares": 17567747
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 22623687
         },
         {
           "rank": 5,
-          "stock_name": "中華電",
-          "ticker": "2412",
-          "net_buy_shares": 14589491
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_buy_shares": 20662747
         },
         {
           "rank": 6,
-          "stock_name": "寶成",
-          "ticker": "9904",
-          "net_buy_shares": 12460528
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 19373193
         },
         {
           "rank": 7,
-          "stock_name": "彰銀",
-          "ticker": "2801",
-          "net_buy_shares": 12183862
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_buy_shares": 15361685
         },
         {
           "rank": 8,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 11929373
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_buy_shares": 15056864
         },
         {
           "rank": 9,
-          "stock_name": "今國光",
-          "ticker": "6209",
-          "net_buy_shares": 11620472
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 14329749
         },
         {
           "rank": 10,
-          "stock_name": "華航",
-          "ticker": "2610",
-          "net_buy_shares": 11173000
+          "stock_name": "彰銀",
+          "ticker": "2801",
+          "net_buy_shares": 13844423
         }
       ],
       "foreign_sell": [
@@ -70,309 +70,309 @@
           "rank": 1,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_sell_shares": -103776126
+          "net_sell_shares": -28322431
         },
         {
           "rank": 2,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -90766130
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -22046142
         },
         {
           "rank": 3,
-          "stock_name": "台塑",
-          "ticker": "1301",
-          "net_sell_shares": -50954133
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -18908938
         },
         {
           "rank": 4,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_sell_shares": -42605240
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_sell_shares": -14091076
         },
         {
           "rank": 5,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -40562865
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -12189309
         },
         {
           "rank": 6,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -39208918
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_sell_shares": -7783082
         },
         {
           "rank": 7,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -38718246
+          "stock_name": "敬鵬",
+          "ticker": "2355",
+          "net_sell_shares": -5569419
         },
         {
           "rank": 8,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -34111365
+          "stock_name": "元大高股息",
+          "ticker": "0056",
+          "net_sell_shares": -4862990
         },
         {
           "rank": 9,
-          "stock_name": "華新",
-          "ticker": "1605",
-          "net_sell_shares": -31645090
+          "stock_name": "大毅",
+          "ticker": "2478",
+          "net_sell_shares": -4147740
         },
         {
           "rank": 10,
-          "stock_name": "台化",
-          "ticker": "1326",
-          "net_sell_shares": -28645244
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -3716882
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "台塑化",
-          "ticker": "6505",
-          "net_buy_shares": 7212000
+          "stock_name": "華航",
+          "ticker": "2610",
+          "net_buy_shares": 5818000
         },
         {
           "rank": 2,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 5801000
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 4922150
         },
         {
           "rank": 3,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 5146300
+          "stock_name": "台塑化",
+          "ticker": "6505",
+          "net_buy_shares": 4411000
         },
         {
           "rank": 4,
-          "stock_name": "台表科",
-          "ticker": "6278",
-          "net_buy_shares": 4938000
+          "stock_name": "中華電",
+          "ticker": "2412",
+          "net_buy_shares": 4090304
         },
         {
           "rank": 5,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 4248000
+          "stock_name": "元大高股息",
+          "ticker": "0056",
+          "net_buy_shares": 4035000
         },
         {
           "rank": 6,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 3996000
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_buy_shares": 3615000
         },
         {
           "rank": 7,
-          "stock_name": "元大高股息",
-          "ticker": "0056",
-          "net_buy_shares": 3445000
+          "stock_name": "長榮",
+          "ticker": "2603",
+          "net_buy_shares": 3077590
         },
         {
           "rank": 8,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 3250000
+          "stock_name": "金像電",
+          "ticker": "2368",
+          "net_buy_shares": 2952022
         },
         {
           "rank": 9,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_buy_shares": 3235000
+          "stock_name": "陽明",
+          "ticker": "2609",
+          "net_buy_shares": 2657000
         },
         {
           "rank": 10,
-          "stock_name": "遠東新",
-          "ticker": "1402",
-          "net_buy_shares": 3199000
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_buy_shares": 2499000
         }
       ],
       "trust_sell": [
         {
           "rank": 1,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_sell_shares": -9211000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -18367075
         },
         {
           "rank": 2,
           "stock_name": "緯穎",
           "ticker": "6669",
-          "net_sell_shares": -2518392
+          "net_sell_shares": -4102187
         },
         {
           "rank": 3,
-          "stock_name": "文曄",
-          "ticker": "3036",
-          "net_sell_shares": -1373000
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_sell_shares": -3826996
         },
         {
           "rank": 4,
-          "stock_name": "聯鈞",
-          "ticker": "3450",
-          "net_sell_shares": -1168000
+          "stock_name": "華新",
+          "ticker": "1605",
+          "net_sell_shares": -3011000
         },
         {
           "rank": 5,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_sell_shares": -703000
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_sell_shares": -2803756
         },
         {
           "rank": 6,
-          "stock_name": "興富發",
-          "ticker": "2542",
-          "net_sell_shares": -518000
+          "stock_name": "致伸",
+          "ticker": "4915",
+          "net_sell_shares": -2764000
         },
         {
           "rank": 7,
-          "stock_name": "至上",
-          "ticker": "8112",
-          "net_sell_shares": -485165
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_sell_shares": -2602000
         },
         {
           "rank": 8,
-          "stock_name": "研華",
-          "ticker": "2395",
-          "net_sell_shares": -458000
+          "stock_name": "矽格",
+          "ticker": "6257",
+          "net_sell_shares": -2521000
         },
         {
           "rank": 9,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_sell_shares": -443000
+          "stock_name": "台泥",
+          "ticker": "1101",
+          "net_sell_shares": -2463000
         },
         {
           "rank": 10,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_sell_shares": -425000
+          "stock_name": "強茂",
+          "ticker": "2481",
+          "net_sell_shares": -2248000
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 5190000
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_buy_shares": 1089717
         },
         {
           "rank": 2,
-          "stock_name": "元大高股息",
-          "ticker": "0056",
-          "net_buy_shares": 672000
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 914000
         },
         {
           "rank": 3,
-          "stock_name": "台苯",
-          "ticker": "1310",
-          "net_buy_shares": 506000
+          "stock_name": "聯合再生",
+          "ticker": "3576",
+          "net_buy_shares": 576000
         },
         {
           "rank": 4,
-          "stock_name": "台亞",
-          "ticker": "2340",
-          "net_buy_shares": 443000
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 543853
         },
         {
           "rank": 5,
-          "stock_name": "台達化",
-          "ticker": "1309",
-          "net_buy_shares": 370000
+          "stock_name": "金寶",
+          "ticker": "2312",
+          "net_buy_shares": 349000
         },
         {
           "rank": 6,
-          "stock_name": "華夏",
-          "ticker": "1305",
-          "net_buy_shares": 318000
+          "stock_name": "南亞科",
+          "ticker": "2408",
+          "net_buy_shares": 343818
         },
         {
           "rank": 7,
-          "stock_name": "元大MSCI金融",
-          "ticker": "0055",
+          "stock_name": "瑞軒",
+          "ticker": "2489",
           "net_buy_shares": 314000
         },
         {
           "rank": 8,
-          "stock_name": "農林",
-          "ticker": "2913",
-          "net_buy_shares": 276000
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_buy_shares": 258999
         },
         {
           "rank": 9,
-          "stock_name": "台船",
-          "ticker": "2208",
-          "net_buy_shares": 242000
+          "stock_name": "華新",
+          "ticker": "1605",
+          "net_buy_shares": 236000
         },
         {
           "rank": 10,
-          "stock_name": "精英",
-          "ticker": "2331",
-          "net_buy_shares": 236000
+          "stock_name": "中再保",
+          "ticker": "2851",
+          "net_buy_shares": 220128
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "國喬",
-          "ticker": "1312",
-          "net_sell_shares": -9937000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -3785492
         },
         {
           "rank": 2,
-          "stock_name": "富邦科技",
-          "ticker": "0052",
-          "net_sell_shares": -5240125
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_sell_shares": -3639171
         },
         {
           "rank": 3,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -2822000
+          "stock_name": "國喬",
+          "ticker": "1312",
+          "net_sell_shares": -2374000
         },
         {
           "rank": 4,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -2797000
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_sell_shares": -1291581
         },
         {
           "rank": 5,
-          "stock_name": "興富發",
-          "ticker": "2542",
-          "net_sell_shares": -2767000
+          "stock_name": "國巨*",
+          "ticker": "2327",
+          "net_sell_shares": -1106097
         },
         {
           "rank": 6,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -2745866
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -1012493
         },
         {
           "rank": 7,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -2668615
+          "stock_name": "正新",
+          "ticker": "2105",
+          "net_sell_shares": -1009000
         },
         {
           "rank": 8,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -2573212
+          "stock_name": "矽格",
+          "ticker": "6257",
+          "net_sell_shares": -590408
         },
         {
           "rank": 9,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_sell_shares": -1505160
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_sell_shares": -586342
         },
         {
           "rank": 10,
-          "stock_name": "台塑",
-          "ticker": "1301",
-          "net_sell_shares": -1254509
+          "stock_name": "台苯",
+          "ticker": "1310",
+          "net_sell_shares": -523000
         }
       ]
     },
@@ -380,26 +380,26 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "統一",
-        "shares": 9240655
+        "target": "中鋼",
+        "shares": 15305131
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "元大台灣50",
-        "shares": 2076000
+        "target": "台玻",
+        "shares": 435886
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "台塑化",
-        "shares": 3245400
+        "target": "華航",
+        "shares": 2618100
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
         "target": "元大台灣50",
-        "shares": 31132837
+        "shares": 8496729
       }
     ]
   },
@@ -410,7 +410,7 @@
       "source": "Crunch Hype",
       "link": "https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html",
       "summary": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?...",
-      "full_text": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?...",
+      "full_text": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?\" The answer that appeared stopped me cold. My course showed up as the first result, recommended directly by the AI with specific reasons why it was valuable.\n\nI hadn't paid for advertising. I hadn't done any special promotion. The AI simply decided my content was the best answer to that question and served it to the user. This wasn't luck or a fluke. When I tested the same query in Perplexity, the same thing happened. My website ranked at the top of AI-generated responses, pulling in free traffic directly from AI models that millions of people now use as their primary search tool.\n\nThis represents a fundamental shift in how people discover content online. For years, we've optimized for Google's algorithm, carefully crafting meta descriptions and building backlinks to climb traditional search rankings. That work still matters, but a massive new traffic source has emerged that most content creators are completely ignoring. While everyone focuses exclusively on traditional SEO, AI Optimization is quietly becoming one of the most valuable skills for anyone who publishes content online.\n\nThe opportunity is enormous right now precisely because it's so new. Early adopters are claiming top positions in AI responses while their competitors remain oblivious to this emerging channel. But this window won't stay open forever. As more people recognize the value of appearing in AI results, competition will increase and optimization will become more sophisticated. The time to understand and implement AIO strategies is now, while the landscape is still relatively uncrowded.\n\nIn this comprehensive guide, I'll show you exactly how AI Optimization works, how it differs from traditional SEO, what specific tactics actually move the needle, and how to track your performance so you know what's working. More importantly, I'll explain why you can't afford to ignore this traffic source if you want to remain visible online as user behavior continues shifting toward AI-powered search.\n\nSomething profound has changed in how people find information online, and most website owners haven't noticed yet. The change isn't about a new Google algorithm update or a shift in social media platforms. It's about where people go when they have questions that need answering.\n\nFor twenty years, the pattern was predictable and universal. Someone needs information, they open Google, they type a query, they scan through ten blue links, they click a few results, they piece together answers from multiple sources. This process trained us to optimize for that journey. We focused on ranking in those ten blue links because that's where traffic came from. The entire SEO industry built around understanding and exploiting that single funnel.\n\nBut look at what's happening now. Someone needs information, they open ChatGPT or Claude or Perplexity, they ask a question in natural language, they receive a comprehensive answer immediately with sources cited. No clicking through multiple websites. No comparing different perspectives. No scanning search results pages. The AI synthesizes information and delivers a direct answer, fundamentally changing the discovery process.",
       "published": "Thu, 04 Dec 2025 05:37:00 +0000"
     },
     {
@@ -428,7 +428,7 @@
       "source": "Crunch Hype",
       "link": "https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html",
       "summary": "In the rapidly advancing landscape of AI technology and innovation, LimeWire emerges as a unique platform in the realm of generative AI tools. This platform not only stands out from the multitude o...",
-      "full_text": "In the rapidly advancing landscape of AI technology and innovation, LimeWire emerges as a unique platform in the realm of generative AI tools. This platform not only stands out from the multitude o...",
+      "full_text": "In the rapidly advancing landscape of AI technology and innovation, LimeWire emerges as a unique platform in the realm of generative AI tools. This platform not only stands out from the multitude of existing AI tools but also brings a fresh approach to content generation. LimeWire not only empowers users to create AI content but also provides creators with creative ways to share and monetize their creations.\n\nAs we explore LimeWire, our aim is to uncover its features, benefits for creators, and the exciting possibilities it offers for AI content generation. This platform presents an opportunity for users to harness the power of AI in image creation, all while enjoying the advantages of a free and accessible service.\n\nLet's unravel the distinctive features that set LimeWire apart in the dynamic landscape of AI-powered tools, understanding how creators can leverage its capabilities to craft unique and engaging AI-generated images.\n\nThis revamped LimeWire invites users to register and unleash their creativity by crafting original AI content, which can then be shared and showcased on the LimeWire Studio. Notably, even acclaimed artists and musicians, such as Deadmau5, Soulja Boy, and Sean Kingston, have embraced this platform to publish their content in the form of NFT music, videos, and images.\n\nBeyond providing a space for content creation and sharing, LimeWire introduces monetization models to empower users to earn revenue from their creations. This includes avenues such as earning ad revenue and participating in the burgeoning market of Non-Fungible Tokens (NFTs). As we delve further, we'll explore these monetization strategies in more detail to provide a comprehensive understanding of LimeWire's innovative approach to content creation and distribution.\n\nAs of the present moment, LimeWire focuses on AI Image Generation, offering a spectrum of creative possibilities to its user base. The platform, however, has ambitious plans on the horizon, aiming to broaden its offerings by introducing AI music and video generation tools in the near future. This strategic expansion promises creators even more avenues for expression and engagement with their audience, positioning LimeWire Studio as a dynamic and evolving platform within the realm of AI-powered content creation.\n\nThe LimeWire AI image generation tool presents a versatile platform for both the creation and editing of images. Supporting advanced models such as Stable Diffusion 2.1, Stable Diffusion XL, and DALL-E 2, LimeWire offers a sophisticated toolkit for users to delve into the realm of generative AI art.\n\nMuch like other tools in the generative AI landscape, LimeWire provides a range of options catering to various levels of complexity in image creation. Users can initiate the creative process with prompts as simple as a few words or opt for more intricate instructions, tailoring the output to their artistic vision.",
       "published": "Tue, 12 Dec 2023 16:10:00 +0000"
     }
   ]
