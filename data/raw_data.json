@@ -1,68 +1,68 @@
 {
-  "date": "2026-11-17",
-  "stock_market_date": "2026-11-16",
+  "date": "2026-11-18",
+  "stock_market_date": "2026-11-17",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "寶成",
-          "ticker": "9904",
-          "net_buy_shares": 25106969
+          "stock_name": "中鼎",
+          "ticker": "9933",
+          "net_buy_shares": 24772818
         },
         {
           "rank": 2,
           "stock_name": "台新新光金",
           "ticker": "2887",
-          "net_buy_shares": 21167330
+          "net_buy_shares": 15447003
         },
         {
           "rank": 3,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 15443501
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_buy_shares": 12541879
         },
         {
           "rank": 4,
-          "stock_name": "長榮航",
-          "ticker": "2618",
-          "net_buy_shares": 13031836
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 10048377
         },
         {
           "rank": 5,
           "stock_name": "華航",
           "ticker": "2610",
-          "net_buy_shares": 12932575
+          "net_buy_shares": 9695206
         },
         {
           "rank": 6,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 12271185
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_buy_shares": 7836294
         },
         {
           "rank": 7,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_buy_shares": 10701775
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 7670301
         },
         {
           "rank": 8,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_buy_shares": 9789495
+          "stock_name": "寶成",
+          "ticker": "9904",
+          "net_buy_shares": 6819131
         },
         {
           "rank": 9,
-          "stock_name": "緯創",
-          "ticker": "3231",
-          "net_buy_shares": 7466525
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_buy_shares": 6812493
         },
         {
           "rank": 10,
-          "stock_name": "陽明",
-          "ticker": "2609",
-          "net_buy_shares": 6621727
+          "stock_name": "台泥",
+          "ticker": "1101",
+          "net_buy_shares": 6620006
         }
       ],
       "foreign_sell": [
@@ -70,123 +70,123 @@
           "rank": 1,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_sell_shares": -111815510
+          "net_sell_shares": -55584414
         },
         {
           "rank": 2,
-          "stock_name": "中鋼",
-          "ticker": "2002",
-          "net_sell_shares": -35680699
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_sell_shares": -23250429
         },
         {
           "rank": 3,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_sell_shares": -28939289
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -14606092
         },
         {
           "rank": 4,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_sell_shares": -24497829
+          "stock_name": "中租-KY",
+          "ticker": "5871",
+          "net_sell_shares": -11586154
         },
         {
           "rank": 5,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_sell_shares": -23380170
+          "stock_name": "台化",
+          "ticker": "1326",
+          "net_sell_shares": -11168687
         },
         {
           "rank": 6,
-          "stock_name": "元大高股息",
-          "ticker": "0056",
-          "net_sell_shares": -18350850
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_sell_shares": -10141003
         },
         {
           "rank": 7,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_sell_shares": -10561059
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_sell_shares": -9211839
         },
         {
           "rank": 8,
-          "stock_name": "華新",
-          "ticker": "1605",
-          "net_sell_shares": -8627135
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_sell_shares": -9205605
         },
         {
           "rank": 9,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -8466493
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_sell_shares": -9188956
         },
         {
           "rank": 10,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_sell_shares": -8334872
+          "stock_name": "緯創",
+          "ticker": "3231",
+          "net_sell_shares": -9100741
         }
       ],
       "trust_buy": [
         {
           "rank": 1,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_buy_shares": 10086000
+          "stock_name": "台化",
+          "ticker": "1326",
+          "net_buy_shares": 12535230
         },
         {
           "rank": 2,
-          "stock_name": "統一",
-          "ticker": "1216",
-          "net_buy_shares": 4573000
+          "stock_name": "台塑",
+          "ticker": "1301",
+          "net_buy_shares": 12076000
         },
         {
           "rank": 3,
-          "stock_name": "富邦金",
-          "ticker": "2881",
-          "net_buy_shares": 3544000
+          "stock_name": "大成鋼",
+          "ticker": "2027",
+          "net_buy_shares": 11978000
         },
         {
           "rank": 4,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 2213000
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 10266000
         },
         {
           "rank": 5,
-          "stock_name": "長榮",
-          "ticker": "2603",
-          "net_buy_shares": 1666300
+          "stock_name": "國泰金",
+          "ticker": "2882",
+          "net_buy_shares": 7007000
         },
         {
           "rank": 6,
-          "stock_name": "國泰金",
-          "ticker": "2882",
-          "net_buy_shares": 1440000
+          "stock_name": "富邦金",
+          "ticker": "2881",
+          "net_buy_shares": 6823000
         },
         {
           "rank": 7,
-          "stock_name": "貿聯-KY",
-          "ticker": "3665",
-          "net_buy_shares": 1078800
+          "stock_name": "統一",
+          "ticker": "1216",
+          "net_buy_shares": 5265000
         },
         {
           "rank": 8,
-          "stock_name": "鉅祥",
-          "ticker": "2476",
-          "net_buy_shares": 1000000
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 3165000
         },
         {
           "rank": 9,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_buy_shares": 683000
+          "stock_name": "上海商銀",
+          "ticker": "5876",
+          "net_buy_shares": 2862000
         },
         {
           "rank": 10,
-          "stock_name": "遠雄",
-          "ticker": "5522",
-          "net_buy_shares": 517000
+          "stock_name": "長榮",
+          "ticker": "2603",
+          "net_buy_shares": 2601700
         }
       ],
       "trust_sell": [
@@ -194,185 +194,185 @@
           "rank": 1,
           "stock_name": "台新新光金",
           "ticker": "2887",
-          "net_sell_shares": -36384000
+          "net_sell_shares": -14632000
         },
         {
           "rank": 2,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -21333350
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -14187984
         },
         {
           "rank": 3,
           "stock_name": "凱基金",
           "ticker": "2883",
-          "net_sell_shares": -18368000
+          "net_sell_shares": -13337000
         },
         {
           "rank": 4,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_sell_shares": -14564000
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -9431000
         },
         {
           "rank": 5,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_sell_shares": -11820000
+          "stock_name": "元大金",
+          "ticker": "2885",
+          "net_sell_shares": -8990000
         },
         {
           "rank": 6,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_sell_shares": -7258000
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_sell_shares": -6922000
         },
         {
           "rank": 7,
-          "stock_name": "英業達",
-          "ticker": "2356",
-          "net_sell_shares": -4508000
+          "stock_name": "寶成",
+          "ticker": "9904",
+          "net_sell_shares": -6156000
         },
         {
           "rank": 8,
-          "stock_name": "玉山金",
-          "ticker": "2884",
-          "net_sell_shares": -4400000
+          "stock_name": "京元電子",
+          "ticker": "2449",
+          "net_sell_shares": -5740043
         },
         {
           "rank": 9,
-          "stock_name": "廣達",
-          "ticker": "2382",
-          "net_sell_shares": -4300980
+          "stock_name": "華新科",
+          "ticker": "2492",
+          "net_sell_shares": -5673000
         },
         {
           "rank": 10,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_sell_shares": -4098000
+          "stock_name": "欣興",
+          "ticker": "3037",
+          "net_sell_shares": -4800868
         }
       ],
       "dealer_buy": [
         {
           "rank": 1,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_buy_shares": 1791526
+          "stock_name": "元大台灣50",
+          "ticker": "0050",
+          "net_buy_shares": 6947000
         },
         {
           "rank": 2,
-          "stock_name": "台灣大",
-          "ticker": "3045",
-          "net_buy_shares": 1150429
+          "stock_name": "台玻",
+          "ticker": "1802",
+          "net_buy_shares": 1664660
         },
         {
           "rank": 3,
-          "stock_name": "凱基金",
-          "ticker": "2883",
-          "net_buy_shares": 1141864
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_buy_shares": 1623450
         },
         {
           "rank": 4,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 1107553
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 1479523
         },
         {
           "rank": 5,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 962609
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 1013368
         },
         {
           "rank": 6,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_buy_shares": 776150
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_buy_shares": 1005000
         },
         {
           "rank": 7,
-          "stock_name": "英業達",
-          "ticker": "2356",
-          "net_buy_shares": 641205
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_buy_shares": 958436
         },
         {
           "rank": 8,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 625654
+          "stock_name": "力積電",
+          "ticker": "6770",
+          "net_buy_shares": 902000
         },
         {
           "rank": 9,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_buy_shares": 599942
+          "stock_name": "合庫金",
+          "ticker": "5880",
+          "net_buy_shares": 896000
         },
         {
           "rank": 10,
-          "stock_name": "合庫金",
-          "ticker": "5880",
-          "net_buy_shares": 591734
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 873532
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_sell_shares": -5457000
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_sell_shares": -1258000
         },
         {
           "rank": 2,
-          "stock_name": "中環",
-          "ticker": "2323",
-          "net_sell_shares": -492980
+          "stock_name": "南亞",
+          "ticker": "1303",
+          "net_sell_shares": -945495
         },
         {
           "rank": 3,
-          "stock_name": "東台",
-          "ticker": "4526",
-          "net_sell_shares": -428000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -833309
         },
         {
           "rank": 4,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_sell_shares": -374797
+          "stock_name": "大聯大",
+          "ticker": "3702",
+          "net_sell_shares": -581902
         },
         {
           "rank": 5,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_sell_shares": -310203
+          "stock_name": "景碩",
+          "ticker": "3189",
+          "net_sell_shares": -272020
         },
         {
           "rank": 6,
-          "stock_name": "台郡",
-          "ticker": "6269",
-          "net_sell_shares": -219806
+          "stock_name": "力成",
+          "ticker": "6239",
+          "net_sell_shares": -173020
         },
         {
           "rank": 7,
-          "stock_name": "錸德",
-          "ticker": "2349",
-          "net_sell_shares": -212688
+          "stock_name": "順德",
+          "ticker": "2351",
+          "net_sell_shares": -151000
         },
         {
           "rank": 8,
-          "stock_name": "智原",
-          "ticker": "3035",
-          "net_sell_shares": -178676
+          "stock_name": "中鼎",
+          "ticker": "9933",
+          "net_sell_shares": -146836
         },
         {
           "rank": 9,
-          "stock_name": "廣宇",
-          "ticker": "2328",
-          "net_sell_shares": -177000
+          "stock_name": "新日興",
+          "ticker": "3376",
+          "net_sell_shares": -130000
         },
         {
           "rank": 10,
-          "stock_name": "凌陽",
-          "ticker": "2401",
-          "net_sell_shares": -176075
+          "stock_name": "元大高股息",
+          "ticker": "0056",
+          "net_sell_shares": -125857
         }
       ]
     },
@@ -380,26 +380,26 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "寶成",
-        "shares": 8787439
+        "target": "中鼎",
+        "shares": 8670486
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
-        "target": "台玻",
-        "shares": 716610
+        "target": "元大台灣50",
+        "shares": 2778800
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
-        "target": "大成鋼",
-        "shares": 4538700
+        "target": "台化",
+        "shares": 5640853
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
         "target": "元大台灣50",
-        "shares": 33544653
+        "shares": 16675324
       }
     ]
   },
@@ -428,7 +428,7 @@
       "source": "Crunch Hype",
       "link": "https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html",
       "summary": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay a...",
-      "full_text": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay ahead of the curve. In this guide, I'll show you the top 10 AI tools that are revolutionizing content creation and making creators' lives easier.\n\nContent creation has become more demanding than ever. Whether you're a social media influencer, marketer, or business owner, keeping up with the constant need for fresh, engaging content can be overwhelming. That's where AI tools come in – they're not just fancy tech, they're your secret weapon for creating better content faster.\n\nWhat Makes It Special: ChatGPT has evolved into a comprehensive content creation assistant by combining advanced language understanding with specialized content optimization features. Its ability to generate, edit, and optimize content while maintaining brand voice and industry expertise makes it an essential tool for creators who need to produce high-quality written content at scale.\n\nWhat Makes It Special: Canva Magic Studio has transformed the graphic design landscape by combining its user-friendly interface with powerful AI capabilities. The platform's ability to understand design principles and automatically generate on-brand content while maintaining professional aesthetics makes it accessible for beginners while providing enough sophistication for professional designers.\n\nPerfect For: Small businesses, social media managers, and anyone needing quick, professional-looking designs.\n\nWhat Makes It Special: RunwayML stands out as the ultimate video creation powerhouse by combining professional-grade effects with user-friendly AI technology. Its game-changing ability to manipulate video content – from changing weather effects with a text prompt to removing objects seamlessly in real-time – makes it indispensable for creators who want to produce high-quality video content without getting bogged down by technical complexities.\n\nPerfect For: Video creators, YouTubers, and social media managers who want to create professional-quality videos quickly.\n\nWhat Makes It Special: Midjourney V6 has redefined AI image generation by mastering the nuances of professional photography and artistic style. Its ability to understand and execute complex creative directions – from specific lighting conditions to branded visual styles – while maintaining consistent quality across multiple generations makes it the go-to tool for creators who need stunning visuals that align perfectly with their brand identity.",
+      "full_text": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay a...",
       "published": "Thu, 02 Jan 2025 09:26:00 +0000"
     }
   ]
