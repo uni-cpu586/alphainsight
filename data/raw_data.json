@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "stock_market_date": "2026-11-20",
   "stock_market": {
     "net_buy_sell_rank": {
@@ -410,7 +410,7 @@
       "source": "Crunch Hype",
       "link": "https://techncruncher.blogspot.com/2026/11/rea-open-source-ai-tool-that-can.html",
       "summary": "What if you could ask your AI assistant how any app works and get a real answer, backed by evidence, without ever seeing the source code? You use an app, tap a feature, and wonder how it was built....",
-      "full_text": "What if you could ask your AI assistant how any app works and get a real answer, backed by evidence, without ever seeing the source code? You use an app, tap a feature, and wonder how it was built....",
+      "full_text": "What if you could ask your AI assistant how any app works and get a real answer, backed by evidence, without ever seeing the source code?\n\nYou use an app, tap a feature, and wonder how it was built. Maybe it is a fast search bar, a clever clipboard trick, or a mechanic in an old game. Until recently, finding out meant months of learning disassemblers and reading assembly code. A new open-source project called REA changes that. It has earned more than 430,000 stars on GitHub, and in this guide I will explain what it does, which problems it solves, and how you can start using it today.\n\nReverse engineering is the practice of studying finished software to understand how it works. It is powerful, but it has never been beginner-friendly. If you have tried it, or even thought about trying it, you have probably run into these obstacles.\n\nReading assembly code and pseudocode takes a long time to learn. Many curious developers give up before they get their first useful result.\n\nAn Electron app needs one approach. An Android APK needs another. A .NET assembly, a native binary, and a website each have their own tools, file formats, and tricks.\n\nEven experts can spend hours following one function through strings, calls, and references just to understand a single small feature.\n\nIf you ask a general chatbot how an app works, it may give a confident answer that is simply invented. Without evidence, you cannot tell what is real.\n\nConnecting analysis tools to an AI agent usually requires custom scripts and configuration, and it is easy to break.",
       "published": "Thu, 05 Nov 2026 11:03:50 +0000"
     },
     {
