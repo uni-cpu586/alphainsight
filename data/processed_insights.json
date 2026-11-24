@@ -1,129 +1,209 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "stock_uncle_insight": {
-    "date_header": "11/21 法人與主力大戶主要買超股票",
+    "date_header": "11/24 法人與主力大戶主要買超股票",
     "buyer_groups": [
       {
-        "group_title": "1. 外資大戶：狂掃低基期電子與金融避風港",
+        "group_title": "1. 外資大戶：狂掃半導體與金融航運",
         "stocks": [
-          {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "肖年仔，外資這次對聯電是真槍實彈，一天就狂掃了8萬張！這擺明了是看好成熟製程的訂單回溫，加上股價相對低檔，外資大戶在這邊卡位，準備等著後面拉抬出貨啦！"
-          },
-          {
-            "stock_name": "群創",
-            "ticker": "3481",
-            "description": "面板雙虎之一的群創，外資也買了4.7萬張。這波面板報價有機會止跌回穩，外資趁機低檔吃貨，賭的就是景氣循環的翻轉，肖年仔你可別黑白追高啊！"
-          },
-          {
-            "stock_name": "友達",
-            "ticker": "2409",
-            "description": "友達也跟著群創一起被外資買了2.9萬張。這兩檔面板股被外資同步鎖碼，很明顯是看好產業觸底反彈，但這類景氣循環股，外資通常也是拉高出貨的慣犯，要小心接刀。"
-          },
           {
             "stock_name": "力積電",
             "ticker": "6770",
-            "description": "這檔力積電，外資也買了1.8萬張。成熟製程跟記憶體都有機會，外資在這邊佈局，也是看準了半導體庫存調整後的反彈契機，但這種股票波動大，肖年仔要抓好時機。"
+            "description": "肖年仔，外資大戶狂掃力積電近1.3萬張，這擺明是看好記憶體或晶圓代工的特定機會，不是黑白買，是主力在卡位啦！"
           },
           {
-            "stock_name": "台新新光金",
-            "ticker": "2887",
-            "description": "台新新光金被外資買了1.7萬張，第一金、國泰金也都有買超。外資在金融股這邊佈局，除了高殖利率的誘惑，也是在找資金的避風港，畢竟大盤震盪，金融股相對抗跌。"
+            "stock_name": "長榮",
+            "ticker": "2603",
+            "description": "外資買超長榮近1萬張，這波航運股的震盪，外資大戶卻逆勢進場，肖年仔，這可能是在等一個波段，別傻傻地去接刀啊！"
           },
           {
-            "stock_name": "華航",
-            "ticker": "2610",
-            "description": "航空雙雄之一的華航，外資也買了1.1萬張。解封題材還在燒，加上油價相對穩定，外資把航空股當成避險兼旺季題材，這波操作算是穩扎穩打，但也要注意獲利了結的壓力。"
+            "stock_name": "中租-KY",
+            "ticker": "5871",
+            "description": "外資買超中租-KY超過7千張，這檔穩健的金融租賃股，在市場震盪時，常常是外資的避風港，肖年仔，這就是大戶的資金配置學問。"
+          },
+          {
+            "stock_name": "國泰金",
+            "ticker": "2882",
+            "description": "外資買超國泰金近6.6千張，雖然投信在賣，但外資卻在買，肖年仔，這代表法人之間對金融股的看法有分歧，但外資顯然看好其穩定性。"
+          },
+          {
+            "stock_name": "強茂",
+            "ticker": "2481",
+            "description": "外資買超強茂超過6.2千張，這檔二極體廠被外資鎖定，肖年仔，這可能是有特定題材或基本面轉好的跡象，值得你多留意。"
+          },
+          {
+            "stock_name": "英業達",
+            "ticker": "2356",
+            "description": "外資買超英業達近5.8千張，這檔電子代工大廠，外資持續佈局，肖年仔，這不是黑白買，是看好其長線的訂單動能啦！"
+          },
+          {
+            "stock_name": "華南金",
+            "ticker": "2880",
+            "description": "外資買超華南金超過5.3千張，跟國泰金一樣，外資對特定金融股有興趣，肖年仔，這就是法人在金融股裡面玩輪動的把戲。"
+          },
+          {
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "外資買超長榮航超過4千張，肖年仔，航空股最近表現不錯，外資趁勢加碼，這不是在玩短線，是準備吃一段啦！"
+          },
+          {
+            "stock_name": "神達",
+            "ticker": "3706",
+            "description": "外資買超神達超過3.5千張，這檔電子股被外資看上，肖年仔，這可能是有新的產品線或訂單題材，主力正在點火啦！"
+          },
+          {
+            "stock_name": "華新科",
+            "ticker": "2492",
+            "description": "外資買超華新科超過3.4千張，被動元件族群最近也蠢蠢欲動，外資大戶進場，肖年仔，這不是黑白買，是看好產業復甦啦！"
           }
         ]
       },
       {
-        "group_title": "2. 投信大戶（本土國家隊）：作帳行情啟動，鎖定金融與防禦型電信",
+        "group_title": "2. 投信大戶（本土國家隊）：金融股作帳與防禦性佈局",
         "stocks": [
-          {
-            "stock_name": "兆豐金",
-            "ticker": "2886",
-            "description": "肖年仔，投信這波對兆豐金是情有獨鍾，狂買了1.3萬張！外資還在倒貨，投信卻逆勢加碼，這擺明了是投信作帳行情啟動，兆豐金這種官股金控，穩健又具配息題材，是他們的最愛。"
-          },
-          {
-            "stock_name": "中華電",
-            "ticker": "2412",
-            "description": "中華電這種電信龍頭，投信也買了8千5百多張。這就是標準的防禦型股票，大盤震盪時，高股息、穩定的電信股就是資金的避風港，投信買進來就是為了穩住基金績效。"
-          },
           {
             "stock_name": "凱基金",
             "ticker": "2883",
-            "description": "凱基金也被投信買了6千3百多張。跟兆豐金一樣，投信在年底前，對這種大型金控股的作帳需求很強，肖年仔，這就是國家隊的選股邏輯，穩字訣！"
+            "description": "投信這群國家隊，狂買凱基金近2萬張，擺明是年底作帳行情啦！金融股相對穩健，是他們衝績效的好標的，肖年仔，這就是國家隊的套路！"
+          },
+          {
+            "stock_name": "永豐金",
+            "ticker": "2890",
+            "description": "投信大買永豐金近1.85萬張，跟凱基金一樣，都是投信作帳的口袋名單，肖年仔，金融股的資金輪動，你得看清楚啊！"
+          },
+          {
+            "stock_name": "兆豐金",
+            "ticker": "2886",
+            "description": "投信買超兆豐金近1.75萬張，這幾檔金控股都被投信鎖定，肖年仔，這不是黑白買，是基金經理人要交成績單了啦！"
           },
           {
             "stock_name": "大成鋼",
             "ticker": "2027",
-            "description": "大成鋼這種傳產股，投信也買了5千6百多張。這顯示投信除了金融，也開始在傳產中找尋低基期、有轉機的標的，可能是看好明年景氣復甦的預期心理。"
+            "description": "投信買超大成鋼近1.36萬張，傳產股中的鋼鐵股，投信也沒放過，肖年仔，這可能是看好景氣復甦的題材，或是產業庫存調整到位。"
+          },
+          {
+            "stock_name": "第一金",
+            "ticker": "2892",
+            "description": "投信買超第一金近1.31萬張，金融股幾乎被投信包場了，肖年仔，這就是國家隊的實力，穩穩地買進，準備拉高出貨啦！"
+          },
+          {
+            "stock_name": "中華電",
+            "ticker": "2412",
+            "description": "投信買超中華電近9.7千張，這檔電信龍頭是標準的防禦型股票，肖年仔，在市場震盪時，投信會把資金移到這種穩定的標的避險啦！"
+          },
+          {
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "投信買超元大台灣50近6.5千張，肖年仔，這就是國家隊的避險操作，買進大盤ETF，既能參與市場，又能分散風險，一舉兩得啦！"
+          },
+          {
+            "stock_name": "台塑化",
+            "ticker": "6505",
+            "description": "投信買超台塑化近4.6千張，塑化股也被投信看上，肖年仔，這可能是看好油價走勢或產業旺季效應，國家隊的眼光總是比較長遠。"
+          },
+          {
+            "stock_name": "台新新光金",
+            "ticker": "2887",
+            "description": "投信買超台新新光金近3.7千張，肖年仔，又是金控股！投信對金融股的熱情不減，這就是作帳的決心啦！"
+          },
+          {
+            "stock_name": "統一",
+            "ticker": "1216",
+            "description": "投信買超統一近3.4千張，食品股也是防禦性標的，肖年仔，在市場不確定性高的時候，這種民生必需品就是資金的避風港啦！"
           }
         ]
       },
       {
-        "group_title": "3. 內資主力與實戶：短線搶進面板與半導體，權證避險盤蠢動",
+        "group_title": "3. 內資主力與實戶：短線科技股與ETF避險",
         "stocks": [
           {
-            "stock_name": "群創",
-            "ticker": "3481",
-            "description": "肖年仔，自營商也跟著外資買群創，買了2千8百多張。這很明顯是避險盤在跟單，或是權證發行商在做delta避險，面板這種波動大的股票，最容易吸引短線客進出，小心隔日沖倒貨。"
+            "stock_name": "元大台灣50",
+            "ticker": "0050",
+            "description": "自營商買超元大台灣50近2.3千張，肖年仔，這不是在避險，就是在玩短線，別以為他們是佛心來著，小心隔日沖倒貨給你！"
           },
           {
-            "stock_name": "力積電",
-            "ticker": "6770",
-            "description": "力積電也被自營商買了2千1百多張。這檔也是半導體中相對低價的，自營商這種短線資金，喜歡在這種有題材、股價又輕的股票上玩隔日沖，肖年仔別傻傻去追高，很容易被主力拉高出貨。"
+            "stock_name": "台勝科",
+            "ticker": "3532",
+            "description": "自營商買超台勝科近1.28千張，肖年仔，這檔半導體材料股被自營商看上，可能是短線有題材，但自營商動作快，你得跟得上腳步！"
           },
           {
-            "stock_name": "聯電",
-            "ticker": "2303",
-            "description": "連聯電這種大牛股，自營商也買了6百多張。雖然張數不多，但跟外資同步買超，顯示市場對成熟製程的看法趨於一致，但自營商的買盤通常都是短線，要小心他們隨時倒貨。"
+            "stock_name": "富邦科技",
+            "ticker": "0052",
+            "description": "自營商買超富邦科技近1.15千張，肖年仔，跟0050一樣，這也是自營商在玩ETF，可能是避險，也可能是短線波段操作，別黑白猜。"
           },
           {
-            "stock_name": "星宇航空",
-            "ticker": "2646",
-            "description": "星宇航空被自營商買了5百多張。這檔是話題性十足的股票，自營商這種短線資金，最愛這種有故事、有想像空間的標的，但這種股票波動大，很容易被割韭菜，肖年仔要小心。"
+            "stock_name": "仁寶",
+            "ticker": "2324",
+            "description": "自營商買超仁寶超過1千張，這檔電子代工股被自營商鎖定，肖年仔，這可能是有短線題材，但自營商的單子通常來得快去得也快。"
+          },
+          {
+            "stock_name": "神達",
+            "ticker": "3706",
+            "description": "自營商買超神達近6.8百張，肖年仔，這檔外資也買，自營商也買，代表短線有熱度，但自營商的單子，你得小心隔日沖的風險。"
+          },
+          {
+            "stock_name": "友達",
+            "ticker": "2409",
+            "description": "自營商買超友達近6.6百張，肖年仔，面板股最近有回溫跡象，自營商也來湊熱鬧，但這族群波動大，別傻傻地追高。"
+          },
+          {
+            "stock_name": "華新",
+            "ticker": "1605",
+            "description": "自營商買超華新近5.2百張，肖年仔，這檔傳產股也被自營商看上，可能是短線有題材，但自營商的單子，你得小心別被套牢。"
+          },
+          {
+            "stock_name": "宏碁",
+            "ticker": "2353",
+            "description": "自營商買超宏碁近4.9百張，肖年仔，這檔電腦品牌股，自營商也來玩短線，這就是內資主力喜歡找有話題的股票來炒作啦！"
+          },
+          {
+            "stock_name": "啟碁",
+            "ticker": "6285",
+            "description": "自營商買超啟碁近4.6百張，肖年仔，這檔網通股被自營商看上，可能是短線有題材，但自營商的單子，你得小心別被割韭菜。"
+          },
+          {
+            "stock_name": "長榮航",
+            "ticker": "2618",
+            "description": "自營商買超長榮航近4百張，肖年仔，連自營商都來買航空股，這代表短線熱度夠，但自營商的單子，你得小心他們拉高出貨啦！"
           }
         ]
       }
     ],
     "strategies": [
       {
-        "strategy_title": "策略一：外資大戶低基期電子股卡位與金融避風港",
-        "strategy_content": "外資這次大買聯電、群創、友達、力積電等半導體和面板股，很明顯是在景氣谷底翻揚前提前卡位。這些都是相對低基期的電子股，外資賭的是明年景氣復甦的預期心理。同時，大買台新新光金、第一金、國泰金等金融股，則是在大盤震盪時，尋找高殖利率且相對抗跌的資金避風港，進可攻退可守，是典型的長線佈局思維。"
+        "strategy_title": "策略一：金融股內部輪動與防禦性佈局",
+        "strategy_content": "肖年仔，你看看，外資買進國泰金、華南金，投信則大舉敲進凱基金、永豐金、兆豐金、第一金、台新新光金，但同時也賣出部分金融股。這顯示在市場震盪之際，金融股仍是資金的避風港，但法人之間存在內部輪動，尋找相對低估或有作帳題材的標的。投信也同步買進中華電、統一等防禦性股票，顯見對後市仍有保守考量，這就是大戶在玩避險啦！"
       },
       {
-        "strategy_title": "策略二：投信作帳行情啟動，鎖定穩健金融與防禦型電信",
-        "strategy_content": "投信在年底前啟動作帳行情，主要鎖定兆豐金、凱基金等大型金控股，這些股票穩健且具配息題材，有助於拉抬基金績效。同時，中華電、台灣大等電信股也獲青睞，顯示投信在追求績效的同時，也兼顧防禦性，避免大盤波動對基金淨值的衝擊，這就是本土國家隊的穩健操盤策略。"
+        "strategy_title": "策略二：外資鎖定特定半導體與航運股",
+        "strategy_content": "肖年仔，外資大戶在半導體族群中，買超力積電、強茂、英業達、神達、華新科等，而非全面性買進台積電、聯電等權值股（甚至賣出台積電）。這表示外資並非看好整個產業，而是針對個別公司有獨特的見解或佈局，可能是看好特定利基市場或新技術題材。同時，長榮與長榮航的買超，也暗示外資對特定傳產股的波段操作，這不是黑白買，是準備吃一段啦！"
       },
       {
-        "strategy_title": "策略三：內資主力短線操作，權證避險盤推升面板與半導體",
-        "strategy_content": "自營商買超群創、力積電、聯電等股票，除了部分是短線主力進出，更重要的是權證發行商的避險買盤。當市場對這些股票的權證需求增加時，自營商為了對沖風險，會同步買進現股。這類買盤通常不具長線意義，反而容易在股價拉高後出現獲利了結的倒貨潮，肖年仔要特別留意，別傻傻去接刀。"
+        "strategy_title": "策略三：內資短線操作與ETF避險",
+        "strategy_content": "肖年仔，你看看自營商，買進元大台灣50與富邦科技等ETF，同時也買超台勝科、仁寶、神達、友達、宏碁、啟碁等中小型科技股，但卻賣出力積電、聯電、台積電等大型半導體。這反映內資主力靈活的短線操作風格，可能利用ETF進行避險或波段操作，並在具備題材的中小型科技股中尋找快速獲利機會，同時對大型權值股進行調節。這就是典型的隔日沖或短線鎖碼啦，你得小心別被割韭菜！"
       }
     ],
-    "summary": "肖年仔，看這盤面，外資在低基期電子跟金融避風港兩邊押寶，投信則忙著作帳兼顧防禦，自營商就是短線進出賺個便當錢。整體來看，市場資金還是在找尋相對安全的標的，但低基期電子股的翻身機會，已經有大戶在偷吃貨了。別傻傻追高，要學會跟著主力腳步，但也要小心被割韭菜！",
+    "summary": "肖年仔，今天三大法人動作很明顯，外資在半導體和金融航運裡挑肥揀瘦，投信則忙著金融股作帳兼避險，內資主力就是短線衝刺，ETF避險跟著來。市場震盪，大戶都在找避風港，別傻傻地追高，跟著主力腳步，但也要小心被倒貨！",
     "top_brokerages_analysis": [
       {
         "branch_name": "美商高盛",
-        "action": "買超 2.81 萬張",
-        "uncle_logic": "肖年仔，高盛這外資大戶一次就掃了聯電2.81萬張，這不是單純的短線進出，擺明了是看好成熟製程的長期趨勢，或是背後有大咖客戶在鎖碼，準備吃大波段的肉！"
+        "action": "買超 453.18 萬張",
+        "uncle_logic": "肖年仔，美商高盛這外資大戶，狂掃力積電近453萬張，這擺明是看好這檔的後市，這不是隔日沖的量，是準備鎖碼的節奏啦！"
       },
       {
         "branch_name": "凱基台北",
-        "action": "買超 0.11 萬張",
-        "uncle_logic": "凱基台北這分點，就是典型的隔日沖大戶集散地！買群創1千1百多張，很可能就是今天拉高，明天就準備倒貨給散戶接刀，肖年仔你可別傻傻地去追高，小心被割韭菜！"
+        "action": "買超 91.88 萬張",
+        "uncle_logic": "凱基台北這分點，肖年仔你嘛知，專門搞隔日沖的。買0050近92萬張，可能是短線避險，或是準備拉高出貨，要小心別追高被倒貨啊！"
       },
       {
         "branch_name": "元大投信",
-        "action": "買超 0.6 萬張",
-        "uncle_logic": "元大投信這本土國家隊，狂買兆豐金6千多張，這就是標準的作帳行情！兆豐金這種官股金控，穩健配息又具防禦性，是投信年底衝績效的愛股，肖年仔，這就是法人在幫基金抬轎啦！"
+        "action": "買超 892.81 萬張",
+        "uncle_logic": "元大投信大買凱基金近893萬張，這擺明是投信在作帳啦！年底了，基金經理人要衝績效，金融股相對穩健，是他們的最愛，肖年仔，這就是國家隊的套路。"
       },
       {
         "branch_name": "摩根大通",
-        "action": "賣超 3.31 萬張",
-        "uncle_logic": "摩根大通這外資大咖，一天就倒了元大台灣50三萬多張，這不是在看壞大盤，就是在做大部位的避險或調整持股，把資金從ETF抽出來，轉進其他更有潛力的個股，肖年仔，這就是資金挪移的訊號！"
+        "action": "賣超 1139.50 萬張",
+        "uncle_logic": "摩根大通這外資大戶，大賣0050近1140萬張，這不是在避險，就是在抽資金啦！肖年仔，大盤可能要震盪，外資在調節持股，別黑白猜，跟著大戶走就對了。"
       }
     ]
   },
@@ -133,50 +213,112 @@
       "title": "REA: The Open-Source AI Tool That Can Reverse Engineer Almost Anything (2026 Guide)",
       "source": "Crunch Hype",
       "link": "https://techncruncher.blogspot.com/2026/11/rea-open-source-ai-tool-that-can.html",
-      "level1_blind": {
-        "text": "What if you could ask your AI assistant how any app works and get a real answer, backed by evidence, without ever seeing the source code? You use an app, tap a feature, and wonder how it was built...."
-      },
+      "level1_blind": "What if you could ask your AI assistant how any app works and get a real answer, backed by evidence, without ever seeing the source code?\n\nYou use an app, tap a feature, and wonder how it was built. Maybe it is a fast search bar, a clever clipboard trick, or a mechanic in an old game. Until recently, finding out meant months of learning disassemblers and reading assembly code. A new open-source project called REA changes that. It has earned more than 430,000 stars on GitHub, and in this guide I will explain what it does, which problems it solves, and how you can start using it today.\n\nReverse engineering is the practice of studying finished software to understand how it works. It is powerful, but it has never been beginner-friendly. If you have tried it, or even thought about trying it, you have probably run into these obstacles.\n\nReading assembly code and pseudocode takes a long time to learn. Many curious developers give up before they get their first useful result.\n\nAn Electron app needs one approach. An Android APK needs another. A .NET assembly, a native binary, and a website each have their own tools, file formats, and tricks.\n\nEven experts can spend hours following one function through strings, calls, and references just to understand a single small feature.\n\nIf you ask a general chatbot how an app works, it may give a confident answer that is simply invented. Without evidence, you cannot tell what is real.\n\nConnecting analysis tools to an AI agent usually requires custom scripts and configuration, and it is easy to break.",
       "level2_keywords": [
         {
-          "word": "AI assistant",
-          "ipa": "/ˌeɪ ˈaɪ əˈsɪstənt/",
-          "meaning": "人工智慧助理，指能理解並執行指令的AI程式，例如Siri或ChatGPT。",
-          "example": "Many companies are integrating 『AI assistants』 into their customer service platforms to enhance user experience."
+          "word": "Reverse",
+          "ipa": "/rɛvərˈsɪv",
+          "meaning": "複製或模仿",
+          "example": "複製 software 的過程"
         },
         {
-          "word": "open-source",
-          "ipa": "/ˈoʊpən ˌsɔːrs/",
-          "meaning": "開源，指軟體的原始碼公開，任何人都可以檢視、修改和散佈。",
-          "example": "The developer community often prefers 『open-source』 projects for their transparency and collaborative nature."
+          "word": "Engineering",
+          "ipa": "/ɛnɪˈdʒɪnɪərɪŋ",
+          "meaning": "設計、製造、維護等",
+          "example": "設計 software 的過程"
         },
         {
-          "word": "reverse engineer",
-          "ipa": "/rɪˌvɜːrs ˌɛndʒɪˈnɪər/",
-          "meaning": "逆向工程，指透過分析產品的結構、功能與操作，來推導其設計原理與原始規格。",
-          "example": "Security researchers often 『reverse engineer』 malware to understand its vulnerabilities and develop countermeasures."
+          "word": "AI",
+          "ipa": "/eɪ",
+          "meaning": "人工智能",
+          "example": "AI 實境的設計"
         },
         {
-          "word": "source code",
-          "ipa": "/ˈsɔːrs ˌkoʊd/",
-          "meaning": "原始碼，指程式設計師用程式語言寫成的電腦指令，是軟體的基礎。",
-          "example": "Without access to the 『source code』, it's challenging to fully understand how a proprietary application functions."
+          "word": "App",
+          "ipa": "/æp",
+          "meaning": "應用程式",
+          "example": " mobile app 的設計"
         },
         {
-          "word": "app",
-          "ipa": "/æp/",
-          "meaning": "應用程式，通常指在智慧型手機、平板電腦或電腦上執行的軟體程式。",
-          "example": "The new mobile 『app』 offers seamless integration with various social media platforms."
+          "word": "Source",
+          "ipa": "/saʊs",
+          "meaning": "來源",
+          "example": " software 的來源"
         }
       ],
-      "level2_context": "各位同學，這篇新聞在探討一個非常前瞻的科技議題：一個名為REA的開源AI工具，它能夠在沒有原始碼的情況下，『逆向工程』任何應用程式。這在科技產業中具有劃時代的意義。傳統上，要理解一個軟體如何運作，我們需要取得它的原始碼。但如果AI能透過觀察軟體行為，就推斷出其內部機制，這將徹底改變軟體開發、資安分析、甚至競爭情報的遊戲規則。想像一下，未來資安專家可以更有效率地發現惡意軟體的漏洞，或者開發者可以從現有應用中學習最佳實踐，而無需擔心智慧財產權的限制（因為是觀察行為而非複製程式碼）。這也預示著AI在理解複雜系統方面的能力正快速提升，對整個軟體生態系將產生深遠的影響。",
+      "level2_context": "美國政府通過《商業法》（Commercial Law）來規管 tech產業，對於 AI 的發展產生了重大影響。這個新工具 REA 可以幫助我們了解這些規管的內容，從而對 tech產業的發展做出更好的預測和調整。",
       "level3_translation": [
         {
           "sentence": "What if you could ask your AI assistant how any app works and get a real answer, backed by evidence, without ever seeing the source code?",
-          "translation": "如果有一天，你可以直接問你的AI助理某個應用程式是怎麼運作的，然後它能給你一個有憑有據的真實答案，而且完全不需要看到原始碼，那會是怎麼樣呢？"
+          "translation": "如果你能問你的 AI助手一個 app 的工作原理，得到證據支持的答案，無論你看了 source code 還是沒有"
         },
         {
-          "sentence": "You use an app, tap a feature, and wonder how it was built....",
-          "translation": "當你使用一個應用程式，點擊某個功能時，你可能會好奇它是怎麼被開發出來的...."
+          "sentence": "You use an app, tap a feature, and wonder how it was built.",
+          "translation": "你使用 app，點擊一個功能，就會想著它是如何被 build 的"
+        },
+        {
+          "sentence": "Maybe it is a fast search bar, a clever clipboard trick, or a mechanic in an old game.",
+          "translation": "也許它是快速搜索欄，巧妙的粘貼板技巧，還是老游戏中的機械"
+        },
+        {
+          "sentence": "Until recently, finding out meant months of learning disassemblers and reading assembly code.",
+          "translation": "直到最近，了解這個問題需要花上幾個月的時間來學習 disassembler 和讀取 assembly code"
+        },
+        {
+          "sentence": "A new open-source project called REA changes that.",
+          "translation": "有一個新的開源項目叫做 REA，改變了這個問題"
+        },
+        {
+          "sentence": "It has earned more than 430,000 stars on GitHub, and in this guide I will explain what it does, which problems it solves, and how you can start using it today.",
+          "translation": "它在 GitHub 上獲得了超過 430,000 個星，現在我將解釋它是什麼，哪些問題它可以解決，如何開始使用它"
+        },
+        {
+          "sentence": "Reverse engineering is the practice of studying finished software to understand how it works.",
+          "translation": "複製 software 的過程是研究已經完成的 software 來了解它是如何工作的"
+        },
+        {
+          "sentence": "It is powerful, but it has never been beginner-friendly.",
+          "translation": "它很強大，但從來沒有被初學者所接受"
+        },
+        {
+          "sentence": "If you have tried it, or even thought about trying it, you have probably run into these obstacles.",
+          "translation": "如果你曾經嘗試過它，還是想嘗試它，你 probably 已經遇到這些困難"
+        },
+        {
+          "sentence": "Reading assembly code and pseudocode takes a long time to learn.",
+          "translation": "讀取 assembly code 和 pseudocode 需要花上很長的時間來學習"
+        },
+        {
+          "sentence": "Many curious developers give up before they get their first useful result.",
+          "translation": "很多好奇心勃勃的開發者在取得第一個有用的結果之前就放棄"
+        },
+        {
+          "sentence": "An Electron app needs one approach.",
+          "translation": "一個 Electron app 需要一個特定的方法"
+        },
+        {
+          "sentence": "An Android APK needs another.",
+          "translation": "一個 Android APK 需要另一個方法"
+        },
+        {
+          "sentence": "A .NET assembly, a native binary, and a website each have their own tools, file formats, and tricks.",
+          "translation": "一個 .NET assembly、一個原生二進位文件和一個網站每個都有自己的工具、文件格式和技巧"
+        },
+        {
+          "sentence": "Even experts can spend hours following one function through strings, calls, and references just to understand a single small feature.",
+          "translation": "即使是專家也會花上數小時來追蹤一個功能，通過 strings、 calls 和 references 來理解一個小的功能"
+        },
+        {
+          "sentence": "If you ask a general chatbot how an app works, it may give a confident answer that is simply invented.",
+          "translation": "如果你問一個一般的 chatbot 關於一個 app 的工作原理，它可能會給出一個自信的答案，但這個答案可能是完全無根據的"
+        },
+        {
+          "sentence": "Without evidence, you cannot tell what is real.",
+          "translation": "沒有證據，你就不能確定什麼是真實的"
+        },
+        {
+          "sentence": "Connecting analysis tools to an AI agent usually requires custom scripts and configuration, and it is easy to break.",
+          "translation": "將分析工具與 AI 代理機構連接通常需要自製 script 和配置，容易破壞"
         }
       ]
     },
@@ -192,43 +334,43 @@
         {
           "word": "organic traffic",
           "ipa": "/ɔrˈɡænɪk ˈtræfɪk/",
-          "meaning": "自然流量：各位同學，這個詞指的是用戶透過搜尋引擎的自然搜尋結果、社群媒體分享等非付費方式造訪網站的流量，是數位行銷中非常重要的指標。",
-          "example": "『這篇文章探討了如何透過新方法增加網站的自然流量。』"
+          "meaning": "網站或內容透過非付費方式（例如搜尋引擎結果、社群媒體分享）獲得的訪客流量。",
+          "example": "Many businesses aim to increase their organic traffic to reduce advertising costs."
         },
         {
           "word": "ChatGPT",
-          "ipa": "/ˈtʃætˌdʒiːpiːˈtiː/",
-          "meaning": "ChatGPT：這是由OpenAI開發的大型語言模型，能夠理解並生成人類語言，廣泛應用於對話、內容創作等領域，是目前科技界最熱門的工具之一。",
-          "example": "『作者利用ChatGPT來尋求建立SaaS的建議，這顯示了AI在內容生成上的潛力。』"
+          "ipa": "/ˌtʃæt ˌdʒiː piː ˈtiː/",
+          "meaning": "一種由 OpenAI 開發的大型語言模型，能進行自然語言對話、生成文本等。",
+          "example": "Using ChatGPT can significantly speed up the content creation process for marketers."
         },
         {
           "word": "SaaS",
           "ipa": "/sæs/",
-          "meaning": "軟體即服務 (Software as a Service)：這是一種軟體交付模式，應用程式由第三方供應商託管，並透過網路提供給客戶使用，例如Google Workspace或Salesforce。",
-          "example": "『他想知道如何利用WordPress建立一個SaaS產品，這代表他正在探索新的商業模式。』"
+          "meaning": "軟體即服務，一種軟體交付模式，使用者透過網路訂閱並使用雲端應用程式。",
+          "example": "Many startups are focusing on building SaaS products due to their recurring revenue model."
         },
         {
           "word": "WordPress",
           "ipa": "/ˈwɜːrdprɛs/",
-          "meaning": "WordPress：這是一個開源的內容管理系統 (CMS)，廣泛用於建立網站和部落格，從個人網站到大型企業站點都能看到它的身影。",
-          "example": "『WordPress是許多人建立網站時的首選平台，因為它功能強大且易於使用。』"
+          "meaning": "一個開源的內容管理系統 (CMS)，廣泛用於建立網站、部落格和應用程式。",
+          "example": "This article discusses how to build a SaaS platform using WordPress."
         },
         {
-          "word": "online course",
-          "ipa": "/ˌɒnˌlaɪn ˈkɔːrs/",
-          "meaning": "線上課程：指透過網路提供的學習內容，通常包含教學影片、教材和作業，是數位教育產業的重要組成部分。",
-          "example": "『作者在ChatGPT上詢問了關於建立SaaS的最佳線上課程，顯示了對數位學習資源的需求。』"
+          "word": "SEO",
+          "ipa": "/ˌɛs iː ˈoʊ/",
+          "meaning": "搜尋引擎優化，透過改善網站內容和結構，提高網站在搜尋引擎結果頁面中的排名。",
+          "example": "Effective SEO strategies are crucial for driving organic traffic to a website."
         }
       ],
-      "level2_context": "各位同學，這篇新聞雖然簡短，但它點出了數位行銷領域一個非常重要的趨勢。傳統上，我們談到網站流量，會想到「搜尋引擎優化 (SEO)」，也就是努力讓網站在Google等搜尋引擎上排名靠前。但隨著像ChatGPT這樣的生成式AI工具越來越普及，人們獲取資訊的方式正在改變。作者透過一個簡單的實驗，詢問ChatGPT如何建立「軟體即服務 (SaaS)」產品，這暗示了未來內容策略可能不再只是為了搜尋引擎，而是要思考如何讓AI工具能夠理解並推薦你的內容。這對所有希望透過網路獲取「自然流量」的企業或個人來說，都是一個值得深思的轉變，預示著數位行銷可能正從傳統SEO走向AI優化 (AIO) 的新紀元。",
+      "level2_context": "各位同學，這篇新聞探討的是在 AI 時代下，如何利用像 ChatGPT 這樣的工具來獲取網站的『自然流量』，並將其與傳統的『搜尋引擎優化』（SEO）策略進行比較。過去，我們在網路行銷中，非常依賴透過精準的關鍵字研究和高品質的內容創作來提升網站在搜尋引擎上的排名，這是一個耗時且需要專業知識的過程。然而，隨著大型語言模型（LLM）的技術突飛猛進，現在我們可以利用 AI 快速生成大量內容，這就開啟了全新的可能性。這篇文章的作者就是在實驗，如何透過 AI 驅動的策略，也就是所謂的『全方位優化』（AIO），來『免費』吸引使用者。這對我們財經科技領域的同學來說，意味著數位行銷的成本結構可能改變，內容生產的效率大幅提升，同時也挑戰了傳統的 SEO 專業。理解這種趨勢，對於評估科技公司的行銷策略和潛在成長動能，是非常重要的喔！",
       "level3_translation": [
         {
           "sentence": "Three weeks ago, I tested something that completely changed how I think about organic traffic.",
-          "translation": "『三個星期前，我測試了一件事，它徹底改變了我對自然流量的看法。』"
+          "translation": "三週前，我測試了一項東西，它徹底改變了我對『自然流量』的看法。"
         },
         {
-          "sentence": "I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?\"",
-          "translation": "『我打開了ChatGPT，問了一個簡單的問題：「用WordPress建立SaaS的最佳課程是什麼？」』"
+          "sentence": "I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?...",
+          "translation": "我打開了 ChatGPT，並問了一個簡單的問題：『關於如何用 WordPress 建立 SaaS 服務，最好的課程是什麼？』"
         }
       ]
     },
@@ -237,59 +379,101 @@
       "title": "Top 10 AI Tools That Will Transform Your Content Creation in 2025",
       "source": "Crunch Hype",
       "link": "https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html",
-      "level1_blind": {
-        "text": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay a..."
-      },
+      "level1_blind": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay a...",
       "level2_keywords": [
         {
+          "word": "semiconductor",
+          "ipa": "/sɛmɪˈkəndərər/",
+          "meaning": "半導體",
+          "example": "台積電的新半導體技術將對全球電子業的發展產生重大影響"
+        },
+        {
+          "word": "export controls",
+          "ipa": "/ɛksˈpɔrt kənˈtroʊlz/",
+          "meaning": "出口管制",
+          "example": "美國政府的新出口管制將對全球半導體市場產生重大影響"
+        },
+        {
+          "word": "rally",
+          "ipa": "/ˈræli/",
+          "meaning": "集會",
+          "example": "對於對AI技術的關注，各國政府正在進行集會"
+        },
+        {
+          "word": "guidance",
+          "ipa": "/ˈɡaɪdəns/",
+          "meaning": "指引",
+          "example": "對於對AI技術的關注，各國政府正在提供指引"
+        },
+        {
           "word": "content creation",
-          "ipa": "[ˈkɑntɛnt kriˈeɪʃən]",
-          "meaning": "內容創作 (指製作文章、影片、圖片等各種形式的內容)",
-          "example": "The demand for high-quality content creation has surged across all digital platforms."
-        },
-        {
-          "word": "digital landscape",
-          "ipa": "[ˈdɪdʒɪtəl ˈlændˌskeɪp]",
-          "meaning": "數位環境/數位格局 (指網路、科技、社群媒體等構成的整體數位世界)",
-          "example": "Businesses must constantly adapt to the rapidly changing digital landscape to remain competitive."
-        },
-        {
-          "word": "AI tools",
-          "ipa": "[ˌeɪ ˈaɪ tulz]",
-          "meaning": "AI 工具 (指運用人工智慧技術來執行特定任務的軟體或應用程式)",
-          "example": "Many marketing teams are now leveraging AI tools to personalize customer experiences and optimize campaigns."
-        },
-        {
-          "word": "level up",
-          "ipa": "[ˈlɛvəl ʌp]",
-          "meaning": "提升/升級 (指在技能、能力或表現上達到更高的水準)",
-          "example": "Professionals in the tech industry are always looking for ways to level up their skills to stay relevant."
-        },
-        {
-          "word": "essential",
-          "ipa": "[ɪˈsɛnʃəl]",
-          "meaning": "必要的/不可或缺的 (指極為重要，沒有就無法達成目標)",
-          "example": "In today's data-driven economy, strong analytical skills are absolutely essential for financial analysts."
+          "ipa": "/ˈkɒntənt kriˈeɪʃən/",
+          "meaning": "內容創作",
+          "example": "對於內容創作，AI工具將在2025年產生重大變化"
         }
       ],
-      "level2_context": "各位同學，這篇新聞在談的是 2025 年 AI 工具如何徹底改變「內容創作」這個產業。我們要注意，這並不是一個單純的技術進步，而是反映了幾個重要的產業趨勢。首先，隨著網路內容需求爆炸性成長，傳統的內容產製方式已經難以負荷。其次，AI 技術的快速發展，特別是在自然語言處理 (NLP) 和圖像生成等領域，讓機器能夠協助甚至主導部分創作流程。這對產業的影響是巨大的：它能大幅提升內容產出的效率和規模，讓個人創作者或小型團隊也能與大型媒體競爭。同時，它也改變了內容創作者的工作模式，讓他們可以更專注於策略規劃和創意發想，而將重複性高的任務交給 AI。從財經角度來看，這代表 AI 工具的市場需求將持續成長，相關軟體服務（SaaS）公司將迎來商機，而那些能善用 AI 的內容平台和品牌，也將在市場上取得競爭優勢。",
+      "level2_context": "2025年，AI工具將對內容創作產生重大變化，各國政府正在提供指引和支持，對於對AI技術的關注，各國政府正在進行集會",
       "level3_translation": [
         {
           "sentence": "Looking to level up your content creation game in 2025?",
-          "translation": "「想在 2025 年大幅提升你的內容創作實力嗎？」"
+          "translation": "想在2025年提高內容創作水平?"
         },
         {
           "sentence": "You're in the right place!",
-          "translation": "「那麼你來對地方了！」"
+          "translation": "你正處在適當的地方!"
         },
         {
-          "sentence": "The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay a...",
-          "translation": "「數位環境已經發生了劇烈的演變，而 AI 工具對於那些希望保持競爭力的創作者來說，已經變得不可或缺...」"
+          "sentence": "The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay ahead.",
+          "translation": "數字環境已經演變得 Dramatically，AI 工具已經成為創作者要stay Ahead 的必備工具"
+        },
+        {
+          "sentence": "The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay ahead.",
+          "translation": "數字環境已經演變得 Dramatically，AI 工具已經成為創作者要stay Ahead 的必備工具"
+        },
+        {
+          "sentence": "Looking to level up your content creation game in 2025?",
+          "translation": "想在2025年提高內容創作水平?"
+        },
+        {
+          "sentence": "You're in the right place!",
+          "translation": "你正處在適當的地方!"
+        },
+        {
+          "sentence": "The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay ahead.",
+          "translation": "數字環境已經演變得 Dramatically，AI 工具已經成為創作者要stay Ahead 的必備工具"
+        },
+        {
+          "sentence": "The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay ahead.",
+          "translation": "數字環境已經演變得 Dramatically，AI 工具已經成為創作者要stay Ahead 的必備工具"
+        },
+        {
+          "sentence": "Looking to level up your content creation game in 2025?",
+          "translation": "想在2025年提高內容創作水平?"
+        },
+        {
+          "sentence": "You're in the right place!",
+          "translation": "你正處在適當的地方!"
+        },
+        {
+          "sentence": "The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay ahead.",
+          "translation": "數字環境已經演變得 Dramatically，AI 工具已經成為創作者要stay Ahead 的必備工具"
+        },
+        {
+          "sentence": "Looking to level up your content creation game in 2025?",
+          "translation": "想在2025年提高內容創作水平?"
+        },
+        {
+          "sentence": "You're in the right place!",
+          "translation": "你正處在適當的地方!"
+        },
+        {
+          "sentence": "The digital landscape has evolved dramatically, and AI tools have become essential for creators who want to stay ahead.",
+          "translation": "數字環境已經演變得 Dramatically，AI 工具已經成為創作者要stay Ahead 的必備工具"
         }
       ]
     }
   ],
   "market_linker_insight": {
-    "market_connection": "今日台股大戶籌碼動向與國際AI新聞之間，浮現一場精妙的「AI擴散性投資佈局」策略。儘管國際新聞發布日期為2025/2026年，其主題無疑揭示了市場對AI工具、應用及內容生成技術的強烈樂觀預期，這股趨勢正深刻影響著全球科技供應鏈。外資在台股的動作，尤其以美商高盛大買聯電（2303）逾2800萬股為代表，同時大舉買進群創（3481）、友達（2409）、力積電（6770）等半導體及面板股，卻同步大賣台積電（2330）與元大台灣50（0050）。這並非單純的獲利了結，更像是一次深思熟慮的「資金輪動」。主力資金正從已充分反映AI利多的龍頭股（台積電）及大盤指數（0050）中撤出，轉而佈局那些尚未完全被市場定價、但將受惠於AI應用「普及化」的次產業。聯電、力積電等成熟製程晶圓代工廠，以及華邦電、旺宏等記憶體廠，將在邊緣AI、車用電子、物聯網等多元AI應用中扮演關鍵角色。面板廠則可能受惠於AI驅動的新一輪消費電子換機潮。此舉暗示大戶預見AI的影響力將從雲端運算核心向外擴散至終端裝置，尋求更廣泛的供應鏈價值重估機會。投信買進欣興（3037）也印證了對AI高階封裝材料的需求。這場資金挪移，正是對未來AI生態系全面開花的提前部署。"
+    "market_connection": "台股大戶在下午收到關於AI技術開源工具REAs news，可能導致他們對於電腦硬件的需求量大幅增加，從而導致台積電的股價上漲。這可能是因為REAs能夠逆向工程任何軟件，包括電腦硬件，從而了解其內部結構和功能。這種技術的開源使得它們可以被其他人使用，從而增加了對台積電的需求量。這種情況下，台股大戶的買賣動作可能是對於這種技術的需求量的反應，從而導致股價的上漲。"
   }
 }
