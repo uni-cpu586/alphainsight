@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-27",
-  "stock_market_date": "2026-11-26",
+  "date": "2026-11-28",
+  "stock_market_date": "2026-11-27",
   "stock_market": {
     "net_buy_sell_rank": {
       "foreign_buy": [
         {
           "rank": 1,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 24423076
-        },
-        {
-          "rank": 2,
-          "stock_name": "台新新光金",
-          "ticker": "2887",
-          "net_buy_shares": 20603531
-        },
-        {
-          "rank": 3,
           "stock_name": "國泰金",
           "ticker": "2882",
-          "net_buy_shares": 20170811
-        },
-        {
-          "rank": 4,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 16394537
-        },
-        {
-          "rank": 5,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 15027213
-        },
-        {
-          "rank": 6,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_buy_shares": 13288602
-        },
-        {
-          "rank": 7,
-          "stock_name": "長榮",
-          "ticker": "2603",
-          "net_buy_shares": 13006812
-        },
-        {
-          "rank": 8,
-          "stock_name": "鴻海",
-          "ticker": "2317",
-          "net_buy_shares": 12690916
-        },
-        {
-          "rank": 9,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_buy_shares": 12315518
-        },
-        {
-          "rank": 10,
-          "stock_name": "中租-KY",
-          "ticker": "5871",
-          "net_buy_shares": 11485380
-        }
-      ],
-      "foreign_sell": [
-        {
-          "rank": 1,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_sell_shares": -81441911
+          "net_buy_shares": 19902063
         },
         {
           "rank": 2,
-          "stock_name": "永豐金",
-          "ticker": "2890",
-          "net_sell_shares": -52703085
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_buy_shares": 17633825
         },
         {
           "rank": 3,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_sell_shares": -46479265
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 16801948
         },
         {
           "rank": 4,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_sell_shares": -33653775
+          "stock_name": "上海商銀",
+          "ticker": "5876",
+          "net_buy_shares": 15577310
         },
         {
           "rank": 5,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_sell_shares": -21903796
+          "stock_name": "長榮",
+          "ticker": "2603",
+          "net_buy_shares": 12914061
         },
         {
           "rank": 6,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_sell_shares": -19873644
+          "net_buy_shares": 11484011
         },
         {
           "rank": 7,
-          "stock_name": "台積電",
-          "ticker": "2330",
-          "net_sell_shares": -18134229
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_buy_shares": 9854182
         },
         {
           "rank": 8,
-          "stock_name": "中華電",
-          "ticker": "2412",
-          "net_sell_shares": -14539694
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_buy_shares": 8721648
         },
         {
           "rank": 9,
-          "stock_name": "統一",
-          "ticker": "1216",
-          "net_sell_shares": -8934196
+          "stock_name": "鴻海",
+          "ticker": "2317",
+          "net_buy_shares": 8215980
         },
         {
           "rank": 10,
-          "stock_name": "元大金",
-          "ticker": "2885",
-          "net_sell_shares": -6919581
+          "stock_name": "中租-KY",
+          "ticker": "5871",
+          "net_buy_shares": 7238851
+        }
+      ],
+      "foreign_sell": [
+        {
+          "rank": 1,
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_sell_shares": -43961258
+        },
+        {
+          "rank": 2,
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_sell_shares": -37920798
+        },
+        {
+          "rank": 3,
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_sell_shares": -27460405
+        },
+        {
+          "rank": 4,
+          "stock_name": "中華電",
+          "ticker": "2412",
+          "net_sell_shares": -24272816
+        },
+        {
+          "rank": 5,
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -17426485
+        },
+        {
+          "rank": 6,
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -13863547
+        },
+        {
+          "rank": 7,
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_sell_shares": -12052197
+        },
+        {
+          "rank": 8,
+          "stock_name": "敬鵬",
+          "ticker": "2355",
+          "net_sell_shares": -10302264
+        },
+        {
+          "rank": 9,
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_sell_shares": -8710559
+        },
+        {
+          "rank": 10,
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_sell_shares": -8275026
         }
       ],
       "trust_buy": [
@@ -132,61 +132,61 @@
           "rank": 1,
           "stock_name": "永豐金",
           "ticker": "2890",
-          "net_buy_shares": 34151000
+          "net_buy_shares": 35386000
         },
         {
           "rank": 2,
-          "stock_name": "兆豐金",
-          "ticker": "2886",
-          "net_buy_shares": 30606000
+          "stock_name": "第一金",
+          "ticker": "2892",
+          "net_buy_shares": 32550000
         },
         {
           "rank": 3,
-          "stock_name": "第一金",
-          "ticker": "2892",
-          "net_buy_shares": 29799000
+          "stock_name": "中華電",
+          "ticker": "2412",
+          "net_buy_shares": 22766000
         },
         {
           "rank": 4,
-          "stock_name": "中華電",
-          "ticker": "2412",
-          "net_buy_shares": 20673000
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 21203000
         },
         {
           "rank": 5,
-          "stock_name": "元大台灣50",
-          "ticker": "0050",
-          "net_buy_shares": 15000000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_buy_shares": 18670895
         },
         {
           "rank": 6,
-          "stock_name": "聯電",
-          "ticker": "2303",
-          "net_buy_shares": 10498482
+          "stock_name": "長榮航",
+          "ticker": "2618",
+          "net_buy_shares": 10074000
         },
         {
           "rank": 7,
-          "stock_name": "統一",
-          "ticker": "1216",
-          "net_buy_shares": 8476000
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 9339000
         },
         {
           "rank": 8,
-          "stock_name": "南亞",
-          "ticker": "1303",
-          "net_buy_shares": 5181000
+          "stock_name": "統一",
+          "ticker": "1216",
+          "net_buy_shares": 7541000
         },
         {
           "rank": 9,
-          "stock_name": "日月光投控",
-          "ticker": "3711",
-          "net_buy_shares": 4663994
+          "stock_name": "正新",
+          "ticker": "2105",
+          "net_buy_shares": 7334000
         },
         {
           "rank": 10,
-          "stock_name": "和碩",
-          "ticker": "4938",
-          "net_buy_shares": 3783690
+          "stock_name": "亞泥",
+          "ticker": "1102",
+          "net_buy_shares": 5684000
         }
       ],
       "trust_sell": [
@@ -194,61 +194,61 @@
           "rank": 1,
           "stock_name": "國泰金",
           "ticker": "2882",
-          "net_sell_shares": -19517000
+          "net_sell_shares": -20933000
         },
         {
           "rank": 2,
           "stock_name": "台新新光金",
           "ticker": "2887",
-          "net_sell_shares": -15426000
+          "net_sell_shares": -18579000
         },
         {
           "rank": 3,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_sell_shares": -14441000
+          "stock_name": "長榮",
+          "ticker": "2603",
+          "net_sell_shares": -15513000
         },
         {
           "rank": 4,
-          "stock_name": "長榮",
-          "ticker": "2603",
-          "net_sell_shares": -13284000
+          "stock_name": "上海商銀",
+          "ticker": "5876",
+          "net_sell_shares": -15065000
         },
         {
           "rank": 5,
-          "stock_name": "中租-KY",
-          "ticker": "5871",
-          "net_sell_shares": -10544000
+          "stock_name": "中信金",
+          "ticker": "2891",
+          "net_sell_shares": -14892000
         },
         {
           "rank": 6,
-          "stock_name": "中信金",
-          "ticker": "2891",
-          "net_sell_shares": -9961000
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_sell_shares": -11257000
         },
         {
           "rank": 7,
-          "stock_name": "華南金",
-          "ticker": "2880",
-          "net_sell_shares": -9665000
+          "stock_name": "中租-KY",
+          "ticker": "5871",
+          "net_sell_shares": -10731000
         },
         {
           "rank": 8,
-          "stock_name": "華通",
-          "ticker": "2313",
-          "net_sell_shares": -7415000
+          "stock_name": "玉山金",
+          "ticker": "2884",
+          "net_sell_shares": -10425000
         },
         {
           "rank": 9,
-          "stock_name": "大成鋼",
-          "ticker": "2027",
-          "net_sell_shares": -7142000
+          "stock_name": "台灣高鐵",
+          "ticker": "2633",
+          "net_sell_shares": -10130000
         },
         {
           "rank": 10,
-          "stock_name": "上海商銀",
-          "ticker": "5876",
-          "net_sell_shares": -5980000
+          "stock_name": "寶成",
+          "ticker": "9904",
+          "net_sell_shares": -5455000
         }
       ],
       "dealer_buy": [
@@ -256,123 +256,123 @@
           "rank": 1,
           "stock_name": "元大台灣50",
           "ticker": "0050",
-          "net_buy_shares": 10363701
+          "net_buy_shares": 7319013
         },
         {
           "rank": 2,
-          "stock_name": "台玻",
-          "ticker": "1802",
-          "net_buy_shares": 2256654
+          "stock_name": "富邦科技",
+          "ticker": "0052",
+          "net_buy_shares": 1957813
         },
         {
           "rank": 3,
-          "stock_name": "力積電",
-          "ticker": "6770",
-          "net_buy_shares": 1775000
+          "stock_name": "中華電",
+          "ticker": "2412",
+          "net_buy_shares": 818000
         },
         {
           "rank": 4,
-          "stock_name": "群創",
-          "ticker": "3481",
-          "net_buy_shares": 1326000
+          "stock_name": "凱基金",
+          "ticker": "2883",
+          "net_buy_shares": 817693
         },
         {
           "rank": 5,
-          "stock_name": "友達",
-          "ticker": "2409",
-          "net_buy_shares": 1062000
+          "stock_name": "中鋼",
+          "ticker": "2002",
+          "net_buy_shares": 575000
         },
         {
           "rank": 6,
-          "stock_name": "富邦金",
-          "ticker": "2881",
-          "net_buy_shares": 975000
+          "stock_name": "台積電",
+          "ticker": "2330",
+          "net_buy_shares": 557020
         },
         {
           "rank": 7,
-          "stock_name": "華邦電",
-          "ticker": "2344",
-          "net_buy_shares": 784244
+          "stock_name": "台新新光金",
+          "ticker": "2887",
+          "net_buy_shares": 550819
         },
         {
           "rank": 8,
-          "stock_name": "南亞科",
-          "ticker": "2408",
-          "net_buy_shares": 756795
+          "stock_name": "永豐金",
+          "ticker": "2890",
+          "net_buy_shares": 463990
         },
         {
           "rank": 9,
-          "stock_name": "中華電",
-          "ticker": "2412",
-          "net_buy_shares": 683000
+          "stock_name": "兆豐金",
+          "ticker": "2886",
+          "net_buy_shares": 459642
         },
         {
           "rank": 10,
-          "stock_name": "元大高股息",
-          "ticker": "0056",
-          "net_buy_shares": 653000
+          "stock_name": "華南金",
+          "ticker": "2880",
+          "net_buy_shares": 414857
         }
       ],
       "dealer_sell": [
         {
           "rank": 1,
-          "stock_name": "遠傳",
-          "ticker": "4904",
-          "net_sell_shares": -925000
+          "stock_name": "聯電",
+          "ticker": "2303",
+          "net_sell_shares": -868110
         },
         {
           "rank": 2,
-          "stock_name": "台勝科",
-          "ticker": "3532",
-          "net_sell_shares": -291120
+          "stock_name": "仁寶",
+          "ticker": "2324",
+          "net_sell_shares": -828636
         },
         {
           "rank": 3,
-          "stock_name": "南電",
-          "ticker": "8046",
-          "net_sell_shares": -198451
+          "stock_name": "友達",
+          "ticker": "2409",
+          "net_sell_shares": -748000
         },
         {
           "rank": 4,
-          "stock_name": "台灣大",
-          "ticker": "3045",
-          "net_sell_shares": -179644
+          "stock_name": "遠傳",
+          "ticker": "4904",
+          "net_sell_shares": -717000
         },
         {
           "rank": 5,
-          "stock_name": "新興",
-          "ticker": "2605",
-          "net_sell_shares": -163000
+          "stock_name": "華通",
+          "ticker": "2313",
+          "net_sell_shares": -714257
         },
         {
           "rank": 6,
-          "stock_name": "廣達",
-          "ticker": "2382",
-          "net_sell_shares": -118668
+          "stock_name": "宏碁",
+          "ticker": "2353",
+          "net_sell_shares": -530402
         },
         {
           "rank": 7,
-          "stock_name": "南茂",
-          "ticker": "8150",
-          "net_sell_shares": -112000
+          "stock_name": "群創",
+          "ticker": "3481",
+          "net_sell_shares": -464000
         },
         {
           "rank": 8,
-          "stock_name": "力成",
-          "ticker": "6239",
-          "net_sell_shares": -102000
+          "stock_name": "華邦電",
+          "ticker": "2344",
+          "net_sell_shares": -368564
         },
         {
           "rank": 9,
-          "stock_name": "晶豪科",
-          "ticker": "3006",
-          "net_sell_shares": -78000
+          "stock_name": "神達",
+          "ticker": "3706",
+          "net_sell_shares": -355000
         },
         {
           "rank": 10,
-          "stock_name": "仁寶",
-          "ticker": "2324",
-          "net_sell_shares": -73493
+          "stock_name": "聯強",
+          "ticker": "2347",
+          "net_sell_shares": -331602
         }
       ]
     },
@@ -380,26 +380,26 @@
       {
         "branch_name": "美商高盛",
         "action": "buy",
-        "target": "群創",
-        "shares": 8548076
+        "target": "國泰金",
+        "shares": 6965722
       },
       {
         "branch_name": "凱基台北",
         "action": "buy",
         "target": "元大台灣50",
-        "shares": 4145480
+        "shares": 2927605
       },
       {
         "branch_name": "元大投信",
         "action": "buy",
         "target": "永豐金",
-        "shares": 15367950
+        "shares": 15923700
       },
       {
         "branch_name": "摩根大通",
         "action": "sell",
-        "target": "台玻",
-        "shares": 24432573
+        "target": "永豐金",
+        "shares": 13188377
       }
     ]
   },
@@ -419,7 +419,7 @@
       "source": "Crunch Hype",
       "link": "https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html",
       "summary": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?...",
-      "full_text": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?...",
+      "full_text": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's the best course on building SaaS with WordPress?\" The answer that appeared stopped me cold. My course showed up as the first result, recommended directly by the AI with specific reasons why it was valuable.\n\nI hadn't paid for advertising. I hadn't done any special promotion. The AI simply decided my content was the best answer to that question and served it to the user. This wasn't luck or a fluke. When I tested the same query in Perplexity, the same thing happened. My website ranked at the top of AI-generated responses, pulling in free traffic directly from AI models that millions of people now use as their primary search tool.\n\nThis represents a fundamental shift in how people discover content online. For years, we've optimized for Google's algorithm, carefully crafting meta descriptions and building backlinks to climb traditional search rankings. That work still matters, but a massive new traffic source has emerged that most content creators are completely ignoring. While everyone focuses exclusively on traditional SEO, AI Optimization is quietly becoming one of the most valuable skills for anyone who publishes content online.\n\nThe opportunity is enormous right now precisely because it's so new. Early adopters are claiming top positions in AI responses while their competitors remain oblivious to this emerging channel. But this window won't stay open forever. As more people recognize the value of appearing in AI results, competition will increase and optimization will become more sophisticated. The time to understand and implement AIO strategies is now, while the landscape is still relatively uncrowded.\n\nIn this comprehensive guide, I'll show you exactly how AI Optimization works, how it differs from traditional SEO, what specific tactics actually move the needle, and how to track your performance so you know what's working. More importantly, I'll explain why you can't afford to ignore this traffic source if you want to remain visible online as user behavior continues shifting toward AI-powered search.\n\nSomething profound has changed in how people find information online, and most website owners haven't noticed yet. The change isn't about a new Google algorithm update or a shift in social media platforms. It's about where people go when they have questions that need answering.\n\nFor twenty years, the pattern was predictable and universal. Someone needs information, they open Google, they type a query, they scan through ten blue links, they click a few results, they piece together answers from multiple sources. This process trained us to optimize for that journey. We focused on ranking in those ten blue links because that's where traffic came from. The entire SEO industry built around understanding and exploiting that single funnel.\n\nBut look at what's happening now. Someone needs information, they open ChatGPT or Claude or Perplexity, they ask a question in natural language, they receive a comprehensive answer immediately with sources cited. No clicking through multiple websites. No comparing different perspectives. No scanning search results pages. The AI synthesizes information and delivers a direct answer, fundamentally changing the discovery process.",
       "published": "Thu, 04 Dec 2025 05:37:00 +0000"
     },
     {
